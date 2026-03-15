@@ -1,2 +1,1 @@
-# site
-Public static delivery repo for the Panta Rhei Atlas website.
+# Panta Rhei Atlas Site\n\nThin public delivery surface for the built Atlas website. Content is published here from the private atlas source repo.\n
