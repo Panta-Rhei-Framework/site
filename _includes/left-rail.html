@@ -1,0 +1,94 @@
+<aside class="left-rail">
+
+  {% if page.lane == "framework" %}
+  <!-- Framework lane navigation -->
+  <div class="rail-title">Framework</div>
+
+  {% for item in site.data.nav.framework_nav %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+
+  {% if item.children %}
+  {% assign show_children = false %}
+  {% if page.url contains item.url %}{% assign show_children = true %}{% endif %}
+  {% if page.section == "about-the-framework" and item.url == "/framework/about/" %}{% assign show_children = true %}{% endif %}
+  {% if show_children %}
+  <div class="subnav">
+    {% for child in item.children %}
+    <a href="{{ child.url | relative_url }}" class="nav-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endif %}
+
+  {% if item.layer %}
+  {% assign layer_modules = site.data.framework_modules | where: "layer", item.layer %}
+  {% assign current_layer = false %}
+  {% if page.layer == item.layer %}{% assign current_layer = true %}{% endif %}
+  {% if page.url contains item.url %}{% assign current_layer = true %}{% endif %}
+
+  {% if current_layer and layer_modules.size > 0 %}
+  <div class="subnav">
+    {% assign prev_strand = "" %}
+    {% for m in layer_modules %}
+    {% if m.strand != prev_strand %}
+    {% if prev_strand != "" %}</div>{% endif %}
+    <div class="nav-strand-label">{{ m.strand | replace: '-', ' ' | capitalize }}</div>
+    <div class="subnav-group">
+    {% assign prev_strand = m.strand %}
+    {% endif %}
+    {% assign layer_slug = m.layer | downcase | replace: "e0", "mathematics" | replace: "e1", "physics" | replace: "e2", "life" | replace: "e3", "metaphysics" %}
+    {% assign mod_url = "/framework/" | append: layer_slug | append: "-" | append: m.slug | append: "/" %}
+    <a href="{{ mod_url | relative_url }}" class="nav-link{% if page.module_id == m.id %} active{% endif %}" title="{{ m.id }}">{{ m.title }}</a>
+    {% endfor %}
+    {% if prev_strand != "" %}</div>{% endif %}
+  </div>
+  {% endif %}
+  {% endif %}
+  {% endfor %}
+
+  {% else %}
+  <!-- Research program lane navigation (default) -->
+  <div class="rail-title">Research program</div>
+
+  {% for section in site.data.nav.left_rail %}
+  <div class="nav-section">
+    {% if section.title %}
+    <div class="nav-section-title">{{ section.title }}</div>
+    {% endif %}
+
+    {% for link in section.links %}
+    {% assign is_active = false %}
+    {% assign link_clean = link.url | remove: "index.html" %}
+    {% if page.url == link_clean %}{% assign is_active = true %}{% endif %}
+    {% if page.url == link.url %}{% assign is_active = true %}{% endif %}
+    <a href="{{ link.url | relative_url }}" class="nav-link{% if is_active %} active{% endif %}">{{ link.title }}</a>
+
+    {% if link.children %}
+    <div class="subnav">
+      {% for child in link.children %}
+      {% assign child_active = false %}
+      {% if page.url == child.url %}{% assign child_active = true %}{% endif %}
+      <a href="{{ child.url | relative_url }}" class="nav-link{% if child_active %} active{% endif %}">{{ child.title }}</a>
+      {% endfor %}
+    </div>
+    {% endif %}
+    {% endfor %}
+  </div>
+  {% endfor %}
+  {% endif %}
+
+  <div class="rail-status">
+    <div class="status-item">
+      <span>Release</span>
+      <span class="status-value">2nd Edition</span>
+    </div>
+    <div class="status-item">
+      <span>Status</span>
+      <span class="status-value">Canonical</span>
+    </div>
+    <div class="status-item">
+      <span>Updated</span>
+      <span class="status-value">April 2026</span>
+    </div>
+  </div>
+</aside>

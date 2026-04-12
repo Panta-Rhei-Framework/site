@@ -1,0 +1,26 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <div class="module-eyebrow-row">
+    <span class="eyebrow">Impact · Companion Paper</span>
+    {% if page.portfolio_id != "" %}<span class="chip">{{ page.portfolio_id | replace: "impact-", "" | capitalize }}</span>{% endif %}
+  </div>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+  <div class="btn-group">
+    {% if page.portfolio_id != "" %}
+    {% assign pf_slug = page.portfolio_id | replace: "impact-", "" %}
+    <a href="/impact/portfolio/{{ pf_slug }}/" class="btn-secondary">Back to Portfolio</a>
+    {% endif %}
+  </div>
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>

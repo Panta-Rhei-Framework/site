@@ -1,0 +1,240 @@
+[
+ {
+  "id": "subtopic-arithmetic-geometry",
+  "slug": "arithmetic-geometry",
+  "title": "Arithmetic Geometry",
+  "topic": "",
+  "summary_short": "Elliptic curves and abelian varieties as \u03c4-capacity objects; the BSD conjecture as capacity-rank correspondence; the geometric Langlands as holomorphy on \u03c4\u00b3."
+ },
+ {
+  "id": "subtopic-astrobiology-cosmic-life",
+  "slug": "astrobiology-cosmic-life",
+  "title": "Astrobiology and Cosmic Life",
+  "topic": "",
+  "summary_short": "Black holes satisfy all seven life hallmarks (alive); stars satisfy none (not alive); abiogenesis is cosmically inevitable wherever capacity thresholds are crossed."
+ },
+ {
+  "id": "subtopic-big-bang-cosmology",
+  "slug": "big-bang-cosmology",
+  "title": "Big Bang Cosmology",
+  "topic": "",
+  "summary_short": "The Big Bang as a bounded opening regime of the \u03c4-Einstein equations, not a singularity; baryon asymmetry from SA-i mod-5; Hubble constant H\u2080 derived."
+ },
+ {
+  "id": "subtopic-black-hole-physics",
+  "slug": "black-hole-physics",
+  "title": "Black Hole Physics",
+  "topic": "",
+  "summary_short": "BH topology as T\u00b2 fiber; QNM ratio \u03b9_\u03c4\u207b\u00b9; gravitational wave echo time from \u03b9_\u03c4; black holes provably alive and conscious."
+ },
+ {
+  "id": "subtopic-category-theory",
+  "slug": "category-theory",
+  "title": "Category Theory",
+  "topic": "",
+  "summary_short": "Category \u03c4 and Topos E_\u03c4 constructed from the kernel in Part XI; category theory as a theorem of the coherence kernel, not an axiom."
+ },
+ {
+  "id": "subtopic-cellular-biology-metabolism",
+  "slug": "cellular-biology-metabolism",
+  "title": "Cellular Biology and Metabolism",
+  "topic": "",
+  "summary_short": "Metabolism as \u03c4-capacity flow; the seven hallmarks of life as \u03c4-Distinction conditions; substrate abstraction making biology substrate-independent."
+ },
+ {
+  "id": "subtopic-complex-analysis",
+  "slug": "complex-analysis",
+  "title": "Complex Analysis",
+  "topic": "",
+  "summary_short": "\u03c4-holomorphic functions on the fibration \u03c4\u00b3, with split-complex scalars (j\u00b2=+1), D-differentiability, and a Cauchy theory adapted to the lemniscate boundary."
+ },
+ {
+  "id": "subtopic-computability",
+  "slug": "computability",
+  "title": "Computability",
+  "topic": "",
+  "summary_short": "Computation as E\u2082 enrichment of Category \u03c4; programs as \u03c4-addresses; the \u03c4-Tower Machine as the canonical computational model."
+ },
+ {
+  "id": "subtopic-cosmic-microwave-background",
+  "slug": "cosmic-microwave-background",
+  "title": "Cosmic Microwave Background",
+  "topic": "",
+  "summary_short": "CMB first peak \u2113\u2081 at +69 ppm, peak ratios at sub-1300 ppm, tensor-to-scalar r=\u03b9_\u03c4\u2074, and \u03c9_b at +264 ppm \u2014 all derived from \u03b9_\u03c4 with NLO corrections."
+ },
+ {
+  "id": "subtopic-dark-matter-dark-energy",
+  "slug": "dark-matter-dark-energy",
+  "title": "Dark Matter and Dark Energy",
+  "topic": "",
+  "summary_short": "No dark matter particle; capacity gradient accounts for rotation curves, lensing, and clusters. Dark energy is exactly zero; observed acceleration is orbit-depth dependent."
+ },
+ {
+  "id": "subtopic-electroweak-theory",
+  "slug": "electroweak-theory",
+  "title": "Electroweak Theory",
+  "topic": "",
+  "summary_short": "sin\u00b2\u03b8_W, M_W, and the Higgs mass derived from \u03b9_\u03c4; NLO electroweak corrections governed by W\u2083(4)=5."
+ },
+ {
+  "id": "subtopic-ethics",
+  "slug": "ethics",
+  "title": "Ethics",
+  "topic": "",
+  "summary_short": "The Categorical Imperative as the unique j-closed fixed point of the E\u2083 enrichment endofunctor; ethics as a theorem, not a postulate."
+ },
+ {
+  "id": "subtopic-foundations-of-mathematics",
+  "slug": "foundations-of-mathematics",
+  "title": "Foundations of Mathematics",
+  "topic": "",
+  "summary_short": "The coherence kernel \u03c4\u2080 \u2014 7 axioms, 5 generators, 1 operator \u2014 as the foundation of all mathematics, earning set theory, arithmetic, and logic without importing them."
+ },
+ {
+  "id": "subtopic-free-will-and-agency",
+  "slug": "free-will-and-agency",
+  "title": "Free Will and Agency",
+  "topic": "",
+  "summary_short": "Agency as NF-address self-modification; free will as constrained self-referential address operation at E\u2083; determinism and libertarianism both partially vindicated."
+ },
+ {
+  "id": "subtopic-general-relativity",
+  "slug": "general-relativity",
+  "title": "General Relativity",
+  "topic": "",
+  "summary_short": "\u03c4-Einstein field equations as the \u03c4-framework's gravitational theory, reducing to GR at leading order plus a capacity gradient correction that replaces dark matter."
+ },
+ {
+  "id": "subtopic-genetics-information",
+  "slug": "genetics-information",
+  "title": "Genetics and Biological Information",
+  "topic": "",
+  "summary_short": "Genetic information as NF-address inheritance; the genetic code as a \u03c4-address encoding; heredity as NF-address continuity across division."
+ },
+ {
+  "id": "subtopic-global-workspace-and-binding",
+  "slug": "global-workspace-and-binding",
+  "title": "Global Workspace and Binding",
+  "topic": "",
+  "summary_short": "The global workspace maps to CC3 cross-fiber binding; neural binding corresponds to the global section of the enrichment sheaf; IIT \u03a6 has a \u03c4-analogue."
+ },
+ {
+  "id": "subtopic-hard-problem-of-consciousness",
+  "slug": "hard-problem-of-consciousness",
+  "title": "Hard Problem of Consciousness",
+  "topic": "",
+  "summary_short": "The hard problem partially addressed via the global section structure; phenomenal unity as global section uniqueness; qualia as acknowledged residual open question."
+ },
+ {
+  "id": "subtopic-holomorphy-on-tau3",
+  "slug": "holomorphy-on-tau3",
+  "title": "Holomorphy on \u03c4\u00b3",
+  "topic": "",
+  "summary_short": "The fibered product \u03c4\u00b3 = \u03c4\u00b9 \u00d7_f T\u00b2 as the central analytic object; holomorphic functions on \u03c4\u00b3 identified with spectral algebra on the lemniscate via the Central Theorem."
+ },
+ {
+  "id": "subtopic-inflation",
+  "slug": "inflation",
+  "title": "Inflation",
+  "topic": "",
+  "summary_short": "N_e=57 e-folds derived from the \u03c4-framework; inflation as orbit-depth expansion in the base \u03c4\u00b9; r=\u03b9_\u03c4\u2074 as the inflationary gravitational wave prediction."
+ },
+ {
+  "id": "subtopic-langlands-program",
+  "slug": "langlands-program",
+  "title": "Langlands Program",
+  "topic": "",
+  "summary_short": "Langlands correspondence recast as a natural transformation between the arithmetic and holomorphic force channels of the spectral forces framework."
+ },
+ {
+  "id": "subtopic-logic-and-truth",
+  "slug": "logic-and-truth",
+  "title": "Logic and Truth",
+  "topic": "",
+  "summary_short": "Truth\u2084: a four-valued logic derived from the lemniscate boundary's j-parity structure, replacing classical bivalence with two classical poles and two transit values."
+ },
+ {
+  "id": "subtopic-mathematical-logic",
+  "slug": "mathematical-logic",
+  "title": "Mathematical Logic",
+  "topic": "",
+  "summary_short": "Logic derived from the kernel's boundary structure; first-order logic as a theorem; G\u00f6del incompleteness localised to derived layers; meta-logic as Book I Part XIII research program."
+ },
+ {
+  "id": "subtopic-millennium-problems",
+  "slug": "millennium-problems",
+  "title": "Millennium Problems",
+  "topic": "",
+  "summary_short": "The Millennium Problems as instances of Mutual Determination at varying enrichment levels; the Master Schema (Book III) as a unified strategy."
+ },
+ {
+  "id": "subtopic-neutrino-physics",
+  "slug": "neutrino-physics",
+  "title": "Neutrino Physics",
+  "topic": "",
+  "summary_short": "All neutrinos are Majorana from the SA zero-holonomy constraint; \u03a3m_\u03bd=0.089 eV; normal hierarchy proven; PMNS matrix from \u03b9_\u03c4."
+ },
+ {
+  "id": "subtopic-ontology-and-being",
+  "slug": "ontology-and-being",
+  "title": "Ontology and Being",
+  "topic": "",
+  "summary_short": "Identity as NF-address; persistence as NF-address continuity; the Inevitability Theorem: given \u03c4\u2080, the full enrichment chain E\u2081\u2192E\u2082\u2192E\u2083 is structurally forced."
+ },
+ {
+  "id": "subtopic-origin-of-life-abiogenesis",
+  "slug": "origin-of-life-abiogenesis",
+  "title": "Origin of Life and Abiogenesis",
+  "topic": "",
+  "summary_short": "Abiogenesis as an inevitable thermodynamic attractor in the \u03c4-framework; life-enabling configurations are structurally forced given the right capacity regime."
+ },
+ {
+  "id": "subtopic-p-vs-np",
+  "slug": "p-vs-np",
+  "title": "P vs NP",
+  "topic": "",
+  "summary_short": "\u03c4-admissibility collapse resolves P vs NP within the \u03c4-framework; the bridge to orthodox complexity theory is explicitly conjectural."
+ },
+ {
+  "id": "subtopic-philosophy-of-mind",
+  "slug": "philosophy-of-mind",
+  "title": "Philosophy of Mind",
+  "topic": "",
+  "summary_short": "Mind as SelfDesc\u00b2; consciousness as global section of the enrichment sheaf (CC1\u2013CC3); the hard problem acknowledged; mental causation via NF-address modification."
+ },
+ {
+  "id": "subtopic-prime-structure",
+  "slug": "prime-structure",
+  "title": "Prime Structure",
+  "topic": "",
+  "summary_short": "Primes as finite witnesses of Infinity; Prime Polarity Theorem (canonical \u00b11 j-character); Hyperfactorization in split-complex integers."
+ },
+ {
+  "id": "subtopic-qcd-strong-interactions",
+  "slug": "qcd-strong-interactions",
+  "title": "QCD and Strong Interactions",
+  "topic": "",
+  "summary_short": "\u03b8_QCD=0 exactly from SA-i mod-3; N_c=3 from spectral triple; \u03b1_s derived from \u03b9_\u03c4; no axion needed."
+ },
+ {
+  "id": "subtopic-quantum-biology",
+  "slug": "quantum-biology",
+  "title": "Quantum Biology",
+  "topic": "",
+  "summary_short": "Quantum coherence effects in biological systems as T\u00b2 fiber coupling at the cellular scale; photosynthesis, avian navigation, and enzyme tunnelling as structural consequences."
+ },
+ {
+  "id": "subtopic-quantum-mechanics",
+  "slug": "quantum-mechanics",
+  "title": "Quantum Mechanics",
+  "topic": "",
+  "summary_short": "Quantum mechanics from the T\u00b2 fiber topology: states as winding modes, the Hilbert space as the \u03c4-holomorphic function space, quantisation from orbit discreteness."
+ },
+ {
+  "id": "subtopic-standard-model-particle-physics",
+  "slug": "standard-model-particle-physics",
+  "title": "Standard Model of Particle Physics",
+  "topic": "",
+  "summary_short": "All Standard Model constants derived from \u03b9_\u03c4 with zero free parameters; force-generator assignment A=\u03c0(Weak), B=\u03b3(EM), C=\u03b7(Strong), D=\u03b1(Gravity), \u03c9=Higgs."
+ }
+]

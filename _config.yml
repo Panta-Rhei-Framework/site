@@ -1,0 +1,46 @@
+title: "Panta Rhei Research Program"
+description: "Public research observatory for the Panta Rhei framework — mathematics, physics, life, and metaphysics from one coherence kernel."
+url: "https://panta-rhei.site"
+baseurl: ""
+
+permalink: pretty
+
+collections:
+  framework:
+    output: true
+    permalink: /framework/:name/
+
+collections_dir: .
+
+sass:
+  sass_dir: _sass
+  style: compressed
+
+plugins:
+  - jekyll-seo-tag
+
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor
+  - specs
+  - scripts
+  - README.md
+  - .DS_Store
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+  - scope:
+      path: "research-program"
+    values:
+      layout: "program-doc"
+      lane: "research-program"
+  - scope:
+      type: "framework"
+    values:
+      layout: "framework-module"
+      lane: "framework"

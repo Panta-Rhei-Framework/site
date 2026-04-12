@@ -1,0 +1,833 @@
+# ================================================================
+# Panta Rhei Framework Modules — Canonical Catalog
+# 61 modules across 4 enrichment layers
+# Organized by understanding-order (not proof-order)
+# ================================================================
+
+# ============================================================
+# LAYER E₀: MATHEMATICS (Books I-III) — 25 modules
+# ============================================================
+
+# --- Strand: Kernel (Book I, Parts I-III) ---
+
+- id: E0-001
+  title: "The Coherence Kernel"
+  slug: coherence-kernel
+  layer: E0
+  strand: kernel
+  summary_short: "Five generators, one operator, seven axioms — the minimal specification from which everything is earned."
+  thesis: "Category τ is specified by five generators (α, π, γ, η, ω), one progression operator ρ, and seven axioms (K0-K6) that define a complete, rigid, countable categorical universe."
+  canonical_books: [I]
+  source_parts: [I.1]
+  key_registry: [I.D01, I.K0, I.K1, I.K2, I.K3, I.K4, I.K5, I.K6]
+  depends_on: []
+  unlocks: [E0-002]
+
+- id: E0-002
+  title: "Orbit Generation & Ontic Closure"
+  slug: orbit-generation
+  layer: E0
+  strand: kernel
+  summary_short: "The generative act unfolds four infinite orbit rays, seals the universe, and proves rigidity."
+  thesis: "A single generative act executes the kernel, producing four orbit rays; the Ontic Closure Theorem and Rigidity Theorem prove the universe is complete and the model unique."
+  canonical_books: [I]
+  source_parts: [I.2]
+  key_registry: [I.T01, I.T07, I.T08]
+  depends_on: [E0-001]
+  unlocks: [E0-003]
+
+- id: E0-003
+  title: "Earning Arithmetic"
+  slug: earning-arithmetic
+  layer: E0
+  strand: kernel
+  summary_short: "Natural numbers, addition, multiplication, exponentiation, and tetration earned from orbit structure."
+  thesis: "The α-orbit becomes the earned natural numbers; rank transfer maps yield the four arithmetic operations; the program monoid provides composition."
+  canonical_books: [I]
+  source_parts: [I.3]
+  key_registry: [I.D07, I.D09, I.D10, I.D11, I.D12, I.T03]
+  depends_on: [E0-002]
+  unlocks: [E0-004, E0-008]
+
+# --- Strand: Coordinates (Book I, Parts IV-V) ---
+
+- id: E0-004
+  title: "The ABCD Coordinate Chart"
+  slug: abcd-chart
+  layer: E0
+  strand: coordinates
+  summary_short: "Every object receives a canonical 4-dimensional address via the greedy peel algorithm."
+  thesis: "The ABCD chart maps every τ-object to a unique quadruple (A, B, C, D) using tower atoms and greedy peel-off, forcing dim_τ = 4."
+  canonical_books: [I]
+  source_parts: [I.4]
+  key_registry: [I.D16, I.D17, I.T09]
+  depends_on: [E0-003]
+  unlocks: [E0-005]
+
+- id: E0-005
+  title: "Hyperfactorization Theorem"
+  slug: hyperfactorization
+  layer: E0
+  strand: coordinates
+  summary_short: "Every integer has a unique ABCD decomposition — the first hinge theorem."
+  thesis: "The No-Tie Lemma and Remainder Descent prove that the ABCD encoding is injective; coordinate injectivity is the first structural hinge of the series."
+  canonical_books: [I]
+  source_parts: [I.5]
+  key_registry: [I.T04, I.L03, I.L04]
+  depends_on: [E0-004]
+  unlocks: [E0-006]
+
+# --- Strand: Boundary (Book I, Parts VI-VII) ---
+
+- id: E0-006
+  title: "Prime Polarity & the Lemniscate"
+  slug: prime-polarity
+  layer: E0
+  strand: boundary
+  summary_short: "Primes induce bipolar polarization; the ensemble yields the algebraic lemniscate L = S¹ ∨ S¹."
+  thesis: "The CRT decomposition of the profinite boundary ring produces two independent sectors whose reunion is the lemniscate — geometry earned from arithmetic."
+  canonical_books: [I]
+  source_parts: [I.6]
+  key_registry: [I.T05, I.D37, I.D38]
+  depends_on: [E0-005]
+  unlocks: [E0-007]
+
+- id: E0-007
+  title: "Omega-Germs & Split-Complex Scalars"
+  slug: omega-germs
+  layer: E0
+  strand: boundary
+  summary_short: "Compatible towers on the primorial ladder yield the split-complex ring H_τ with j² = +1."
+  thesis: "Omega-germs partition into B- and C-polarized families; the bipolar spectral algebra with j² = +1 emerges as the natural scalar ring."
+  canonical_books: [I]
+  source_parts: [I.7]
+  key_registry: [I.D18, I.D25, I.D26, I.T10]
+  depends_on: [E0-006]
+  unlocks: [E0-008, E0-009]
+
+# --- Strand: Sets & Logic (Book I, Parts VIII-IX, XII) ---
+
+- id: E0-008
+  title: "Internal Set Theory & the Cantor Mirage"
+  slug: internal-sets
+  layer: E0
+  strand: sets
+  summary_short: "Divisibility-as-membership earns sets, operations, and bounded powerset — without Cantor's diagonal."
+  thesis: "The move A ∈_τ B iff A | B earns internal set theory; the Cantor diagonal requires unrestricted self-reference forbidden by K6."
+  canonical_books: [I]
+  source_parts: [I.8, I.9]
+  key_registry: [I.D31, I.D32, I.D33]
+  depends_on: [E0-003, E0-007]
+  unlocks: [E0-010]
+
+# --- Strand: Holomorphy (Book I, Parts XII-XVI) ---
+
+- id: E0-009
+  title: "Split-Complex Holomorphy"
+  slug: split-complex-holomorphy
+  layer: E0
+  strand: holomorphy
+  summary_short: "D-holomorphic functions with j² = +1 satisfy sector independence; the diagonal discipline tames zero divisors."
+  thesis: "τ-holomorphic functions respect split-complex algebra and tower coherence; the Identity Theorem restores holomorphic rigidity."
+  canonical_books: [I]
+  source_parts: [I.12, I.13]
+  key_registry: [I.D42, I.T20, I.T21, I.T13]
+  depends_on: [E0-007]
+  unlocks: [E0-010, E0-011]
+
+- id: E0-010
+  title: "The Earned Topos"
+  slug: earned-topos
+  layer: E0
+  strand: topos
+  summary_short: "Earned arrows, functors, limits, and a 4-valued paraconsistent subobject classifier."
+  thesis: "The category Cat_τ is thin and countable; the earned topos E_τ has Truth4 as its subobject classifier with paraconsistent internal logic."
+  canonical_books: [I]
+  source_parts: [I.14, I.15]
+  key_registry: [I.D50, I.D59, I.P27, I.T25]
+  depends_on: [E0-008, E0-009]
+  unlocks: [E0-011]
+
+- id: E0-011
+  title: "Global Hartogs Extension"
+  slug: global-hartogs
+  layer: E0
+  strand: holomorphy
+  summary_short: "Boundary determines interior — every τ-holomorphic function extends uniquely from the lemniscate."
+  thesis: "The Global Hartogs Extension Theorem proves that omega-tail boundary data uniquely determines all finite-stage interior values on τ³."
+  canonical_books: [I]
+  source_parts: [I.16]
+  key_registry: [I.T31, I.D65, I.D66, I.C02]
+  depends_on: [E0-010]
+  unlocks: [E0-012]
+
+# --- Strand: Interior (Book II) ---
+
+- id: E0-012
+  title: "The Split-Complex Shift"
+  slug: split-complex-shift
+  layer: E0
+  strand: interior
+  summary_short: "j² = +1 replaces i² = -1, enabling wave-type holomorphy and avoiding Liouville."
+  thesis: "The split-complex unit is structurally forced by prime polarity; it gives hyperbolic PDEs, non-constant bounded functions, and the bipolar idempotent decomposition."
+  canonical_books: [II]
+  source_parts: [II.2, II.5]
+  key_registry: [II.D32, II.T24, II.D33]
+  depends_on: [E0-011]
+  unlocks: [E0-013, E0-014]
+
+- id: E0-013
+  title: "Omega-Germ Construction & Profinite Tower"
+  slug: omega-germ-construction
+  layer: E0
+  strand: interior
+  summary_short: "Finite residue towers read out infinity — the mechanism behind 'Finite Readouts of Infinity.'"
+  thesis: "Omega-germs provide stagewise-coherent representations of holomorphic structure across all scales simultaneously."
+  canonical_books: [II]
+  source_parts: [II.1, II.3]
+  key_registry: [II.D04, II.T02]
+  depends_on: [E0-012]
+  unlocks: [E0-014, E0-015]
+
+- id: E0-014
+  title: "Mutual Determination"
+  slug: mutual-determination
+  layer: E0
+  strand: interior
+  summary_short: "Five descriptions of holomorphic structure are the same object — the 5-way equivalence."
+  thesis: "Refinement tails, spectral tails, omega-germs, boundary characters, and Hartogs continuations are mutually determining via bipolar decomposition."
+  canonical_books: [II]
+  source_parts: [II.6, II.7]
+  key_registry: [II.T27, II.L02, II.L03, II.L04, II.L05]
+  depends_on: [E0-012, E0-013]
+  unlocks: [E0-015]
+
+- id: E0-015
+  title: "The Central Theorem"
+  slug: central-theorem
+  layer: E0
+  strand: interior
+  summary_short: "O(τ³) ≅ A_spec(L) — the structural heart of the series."
+  thesis: "The ring of holomorphic functions on τ³ is canonically isomorphic to the spectral algebra of the lemniscate boundary."
+  canonical_books: [II]
+  source_parts: [II.9]
+  key_registry: [II.T40, II.C01]
+  depends_on: [E0-014]
+  unlocks: [E0-016, E0-017]
+
+- id: E0-016
+  title: "Categoricity & the Liouville Dodge"
+  slug: categoricity
+  layer: E0
+  strand: interior
+  summary_short: "τ³ is unique up to isomorphism; Liouville's theorem does not apply."
+  thesis: "Six axioms force τ³ uniquely; j² = +1 gives wave-type operators that avoid the maximum principle, allowing non-constant bounded holomorphic functions."
+  canonical_books: [II]
+  source_parts: [II.9]
+  key_registry: [II.T41, II.T42, II.D61]
+  depends_on: [E0-015, E0-012]
+  unlocks: []
+
+- id: E0-017
+  title: "Self-Enrichment Bridge"
+  slug: self-enrichment
+  layer: E0
+  strand: interior
+  summary_short: "τ enriches over itself — the gateway from mathematics to the enrichment ladder."
+  thesis: "Hom objects are τ-objects with tower-coherent staging; the Yoneda embedding is fully faithful and bipolar-preserving."
+  canonical_books: [II]
+  source_parts: [II.8]
+  key_registry: [II.D53, II.D54, II.T43]
+  depends_on: [E0-014, E0-015]
+  unlocks: [E0-018]
+
+# --- Strand: Spectrum (Book III) ---
+
+- id: E0-018
+  title: "The Canonical Ladder Theorem"
+  slug: canonical-ladder
+  layer: E0
+  strand: spectrum
+  summary_short: "Exactly four enrichment layers: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃. The ladder is structurally forced."
+  thesis: "Non-emptiness, strictness, and saturation prove exactly four layers exist; the (3,2,1,1) distribution yields seven books."
+  canonical_books: [III]
+  source_parts: [III.1]
+  key_registry: [III.T01, III.T02, III.T03, III.T04]
+  depends_on: [E0-017]
+  unlocks: [E0-019, E0-023]
+
+- id: E0-019
+  title: "The 4+1 Sector Template"
+  slug: sector-template
+  layer: E0
+  strand: spectrum
+  summary_short: "Five generators induce four primitive sectors plus one coupling — the recurring structural pattern."
+  thesis: "The boundary-to-interior functor induces exactly 4 primitive sectors (A,B,C,D) and 1 ω-coupling sector at every enrichment level."
+  canonical_books: [III]
+  source_parts: [III.2]
+  key_registry: [III.D13, III.D14, III.T05]
+  depends_on: [E0-018]
+  unlocks: [E0-020, E0-021]
+
+- id: E0-020
+  title: "Spectral Algebra & Millennium Problems"
+  slug: spectral-algebra
+  layer: E0
+  strand: spectrum
+  summary_short: "RH, Poincaré, BSD, and Navier-Stokes as instances of one structural pattern."
+  thesis: "The Master Schema frames all Millennium Problems as instances of Mutual Determination at different enrichment levels."
+  canonical_books: [III]
+  source_parts: [III.3, III.4, III.5]
+  key_registry: [III.T23, III.D25, III.T19]
+  depends_on: [E0-019]
+  unlocks: [E0-022]
+
+- id: E0-021
+  title: "Bridge Axiom & Scope Discipline"
+  slug: bridge-axiom
+  layer: E0
+  strand: spectrum
+  summary_short: "The one conjectural postulate and the 4-tier epistemic framework."
+  thesis: "The Bridge Axiom specifies a functor from τ to ZFC; the scope discipline (established, τ-effective, conjectural, metaphorical) governs all claims."
+  canonical_books: [III]
+  source_parts: [III.10]
+  key_registry: [III.D71, III.D72, III.R03]
+  depends_on: [E0-018]
+  unlocks: []
+
+- id: E0-022
+  title: "The Hinge Theorem"
+  slug: hinge-theorem
+  layer: E0
+  strand: spectrum
+  summary_short: "Books IV-VII = sector instantiations. The 7-book architecture is derived, not chosen."
+  thesis: "Every result in downstream books is a sector-level instantiation of the enrichment structure; the architecture is mathematically necessary."
+  canonical_books: [III]
+  source_parts: [III.7]
+  key_registry: [III.T41, III.P30]
+  depends_on: [E0-018, E0-019, E0-020]
+  unlocks: [E1-001]
+
+- id: E0-023
+  title: "Computation & the P vs NP Bridge"
+  slug: computation-bridge
+  layer: E0
+  strand: spectrum
+  summary_short: "Search equals construction at E₂ — the τ-Tower Machine and Product-Meet Collapse."
+  thesis: "Computation is native to E₂ where self-referential codes exist; the τ-Tower Machine model proves that witness search is address resolution, yielding the fourth bi-square."
+  canonical_books: [III]
+  source_parts: [III.9]
+  key_registry: [III.T30, III.T31, III.T33, III.T34, III.D49, III.D51]
+  depends_on: [E0-018, E0-019]
+  unlocks: [E2-001]
+
+# ============================================================
+# LAYER E₁: PHYSICS (Books IV-V) — 18 modules
+# ============================================================
+
+# --- Strand: Microcosm (Book IV) ---
+
+- id: E1-001
+  title: "Neutron Primacy"
+  slug: neutron-primacy
+  layer: E1
+  strand: microcosm
+  summary_short: "The neutron is the first stable ontic particle — all others derive from it."
+  thesis: "The neutron emerges as the minimal stable defect on T²; bi-rotation at speed c with phase-lock ι_τ gives E = mc²."
+  canonical_books: [IV]
+  source_parts: [IV.1]
+  key_registry: [IV.D14, IV.D17, IV.T01, IV.T02]
+  depends_on: [E0-022]
+  unlocks: [E1-002, E1-003]
+
+- id: E1-002
+  title: "Beta-Decay Rosetta Stone"
+  slug: beta-decay
+  layer: E1
+  strand: microcosm
+  summary_short: "All five sectors visible in one process — the single event that decodes the Standard Model."
+  thesis: "n → p + e⁻ + ν̄ₑ is a torus reconfiguration displaying all five sectors simultaneously."
+  canonical_books: [IV]
+  source_parts: [IV.1]
+  key_registry: [IV.T03, IV.T04]
+  depends_on: [E1-001]
+  unlocks: [E1-003, E1-004]
+
+- id: E1-003
+  title: "Fine-Structure Constant & Calibration"
+  slug: fine-structure
+  layer: E1
+  strand: microcosm
+  summary_short: "α = (121/225)·ι_τ⁴ at 9.8 ppm — zero free parameters."
+  thesis: "The fine-structure constant is derived from the EM-active fraction (11/15) of boundary modes; m_n is the single calibration anchor."
+  canonical_books: [IV]
+  source_parts: [IV.1, IV.2]
+  key_registry: [IV.T05, IV.T06, IV.D19, IV.D20]
+  depends_on: [E1-001, E1-002]
+  unlocks: [E1-004, E1-005]
+
+- id: E1-004
+  title: "Electron Mass Prediction"
+  slug: electron-mass
+  layer: E1
+  strand: microcosm
+  summary_short: "R₀ = ι_τ⁻⁷ − √3·ι_τ⁻² ≈ 1838.7 — mass ratio at 0.025 ppm."
+  thesis: "The Epstein zeta at s=4 gives the bulk exponent -7; the lemniscate capacity √3 provides the correction."
+  canonical_books: [IV]
+  source_parts: [IV.2]
+  key_registry: [IV.T09]
+  depends_on: [E1-003]
+  unlocks: [E1-005]
+
+- id: E1-005
+  title: "Three Generations & Particle Spectrum"
+  slug: three-generations
+  layer: E1
+  strand: microcosm
+  summary_short: "π₁(τ³) ≅ ℤ³ — three generations from topology, not postulate."
+  thesis: "The fundamental group of τ³ has rank 3; three winding classes produce three stable fermion generations."
+  canonical_books: [IV]
+  source_parts: [IV.5]
+  key_registry: [IV.T10, IV.T11]
+  depends_on: [E1-003, E1-004]
+  unlocks: [E1-006]
+
+- id: E1-006
+  title: "Electroweak Synthesis & Force Architecture"
+  slug: electroweak-synthesis
+  layer: E1
+  strand: microcosm
+  summary_short: "9 electroweak predictions from 0 free parameters — the five sectors in concert."
+  thesis: "EM, Weak, Strong, Gravity, and Higgs form a closed algebra; confinement admits only colour-neutral hadrons."
+  canonical_books: [IV]
+  source_parts: [IV.3, IV.4]
+  key_registry: [IV.T14]
+  depends_on: [E1-002, E1-003]
+  unlocks: [E1-007]
+
+- id: E1-007
+  title: "Atomic & Molecular Ladder"
+  slug: atomic-ladder
+  layer: E1
+  strand: microcosm
+  summary_short: "From hydrogen to chemistry — molecular geometry earned from τ³ topology."
+  thesis: "The hydrogen atom bootstraps from calibration; chemistry emerges from electron orbital structure."
+  canonical_books: [IV]
+  source_parts: [IV.6]
+  key_registry: [IV.D194, IV.D195, IV.T185, IV.P126]
+  depends_on: [E1-003, E1-006]
+  unlocks: [E2-004]
+
+- id: E1-008
+  title: "Nuclear Physics & Periodic Table"
+  slug: nuclear-physics
+  layer: E1
+  strand: microcosm
+  summary_short: "Alpha-particle structure, nuclear binding, and the periodic table from confinement."
+  thesis: "Nuclear physics follows from the strong-sector confinement; stellar nucleosynthesis fills the periodic table."
+  canonical_books: [IV]
+  source_parts: [IV.5, IV.6]
+  key_registry: [IV.D202, IV.D255, IV.P129, IV.R110]
+  depends_on: [E1-005, E1-006]
+  unlocks: [E1-009]
+
+- id: E1-009
+  title: "Self-Description Completion"
+  slug: self-description
+  layer: E1
+  strand: microcosm
+  summary_short: "ONE dimensional parameter, ZERO free dimensionless constants — the zoo becomes a garden."
+  thesis: "The entire particle spectrum and all coupling constants derive from τ³ structure; the universe is self-describing."
+  canonical_books: [IV]
+  source_parts: [IV.8]
+  key_registry: [IV.T12, IV.T13, IV.T14]
+  depends_on: [E1-001, E1-002, E1-003, E1-004, E1-005, E1-006, E1-007, E1-008]
+  unlocks: [E1-010]
+
+# --- Strand: Macrocosm (Book V) ---
+
+- id: E1-010
+  title: "The Hermetic Principle"
+  slug: hermetic-principle
+  layer: E1
+  strand: macrocosm
+  summary_short: "Fiber + base = exact. τ³ exhausts all physics at E₁."
+  thesis: "The fibered product partitions physics into microcosm (fiber T²) and macrocosm (base τ¹); their union is complete."
+  canonical_books: [V]
+  source_parts: [V.0]
+  key_registry: [V.R04, V.T06, V.D12, V.D14]
+  depends_on: [E1-009]
+  unlocks: [E1-011, E1-014]
+
+- id: E1-011
+  title: "Gravity Earned"
+  slug: gravity-earned
+  layer: E1
+  strand: macrocosm
+  summary_short: "The τ-Einstein equation — gravity as an algebraic identity, not a nonlinear PDE."
+  thesis: "R^H = κ_τ · T^mat in the boundary holonomy algebra; chart shadow recovers Einstein's field equations."
+  canonical_books: [V]
+  source_parts: [V.2]
+  key_registry: [V.D06, V.T10]
+  depends_on: [E1-010]
+  unlocks: [E1-012, E1-014]
+
+- id: E1-012
+  title: "Gravitational Closing Identity"
+  slug: gravitational-closing
+  layer: E1
+  strand: macrocosm
+  summary_short: "α_G = α¹⁸·√3·(1-3α/π) — G predicted to 3 ppm."
+  thesis: "Two independent routes converge on the same identity; the gravitational constant is derived from α and structural geometry."
+  canonical_books: [V]
+  source_parts: [V.2]
+  key_registry: [V.D11, V.T04]
+  depends_on: [E1-011]
+  unlocks: [E1-014]
+
+- id: E1-013
+  title: "Thermodynamic Inversion"
+  slug: thermodynamic-inversion
+  layer: E1
+  strand: macrocosm
+  summary_short: "Defect entropy decreases along proto-time — the arrow points toward order."
+  thesis: "Heat is electromagnetic; entropy splits into defect exhaustion and information loss; no cosmological constant needed."
+  canonical_books: [V]
+  source_parts: [V.3]
+  key_registry: [V.D39]
+  depends_on: [E1-011]
+  unlocks: [E1-016, E1-018]
+
+- id: E1-014
+  title: "No Dark Matter"
+  slug: no-dark-matter
+  layer: E1
+  strand: macrocosm
+  summary_short: "Flat rotation curves from boundary holonomy correction — no exotic particles needed."
+  thesis: "Galaxy dynamics follow from τ-Einstein geometry with coupling κ(D;1) = 1-ι_τ; MOND scale derived from ι_τ."
+  canonical_books: [V]
+  source_parts: [V.5]
+  key_registry: [V.T85]
+  depends_on: [E1-011, E1-012]
+  unlocks: [E1-017]
+
+- id: E1-015
+  title: "Black Holes as Topology"
+  slug: black-holes
+  layer: E1
+  strand: macrocosm
+  summary_short: "Horizon = T², no singularity, no evaporation. QNM ratio = ι_τ⁻¹."
+  thesis: "Black holes are topological events with torus horizons; profinite structure prevents divergences."
+  canonical_books: [V]
+  source_parts: [V.6]
+  key_registry: [V.T37]
+  depends_on: [E1-013, E1-014]
+  unlocks: [E1-017, E2-007]
+
+- id: E1-016
+  title: "CMB Pipeline"
+  slug: cmb-pipeline
+  layer: E1
+  strand: macrocosm
+  summary_short: "r = ι_τ⁴, n_s = 0.9649, ℓ₁ = 220.6 — all from one constant."
+  thesis: "The CMB power spectrum is derived from ι_τ alone; tensor-to-scalar ratio pre-registered for CMB-S4."
+  canonical_books: [V]
+  source_parts: [V.1, V.6]
+  key_registry: [V.T190, V.P136, V.T197]
+  depends_on: [E1-010]
+  unlocks: [E1-017]
+
+- id: E1-017
+  title: "No Dark Energy"
+  slug: no-dark-energy
+  layer: E1
+  strand: macrocosm
+  summary_short: "Λ = 0 exactly — apparent acceleration is a readout artifact."
+  thesis: "The cosmological constant is zero; capacity dynamics on τ¹ produce the acceleration signature without any energy component."
+  canonical_books: [V]
+  source_parts: [V.3]
+  key_registry: [V.D17, V.D18, V.P05, V.C12]
+  depends_on: [E1-013, E1-015, E1-016]
+  unlocks: [E1-018]
+
+- id: E1-018
+  title: "Falsification Predictions"
+  slug: falsification-predictions
+  layer: E1
+  strand: macrocosm
+  summary_short: "Seven pre-registered observational domains — if CMB-S4 rules out r = ι_τ⁴, the framework falls."
+  thesis: "Specific falsifiable tests across CMB, rotation curves, BH mergers, BBN, and gravitational waves."
+  canonical_books: [V]
+  source_parts: [V.6]
+  key_registry: [V.P138]
+  depends_on: [E1-014, E1-015, E1-016, E1-017]
+  unlocks: []
+
+# ============================================================
+# LAYER E₂: LIFE (Book VI) — 8 modules
+# ============================================================
+
+- id: E2-001
+  title: "Life Defined"
+  slug: life-defined
+  layer: E2
+  strand: definition
+  summary_short: "Life = Distinction + SelfDesc — two predicates from which all seven hallmarks follow."
+  thesis: "A system is alive iff it carries a five-condition distinction that is self-describing via an internal evaluator."
+  canonical_books: [VI]
+  source_parts: [VI.1]
+  key_registry: [VI.D02, VI.D06, VI.P02, VI.T02, VI.T03]
+  depends_on: [E1-009]
+  unlocks: [E2-002, E2-003]
+
+- id: E2-002
+  title: "Layer Separation"
+  slug: layer-separation
+  layer: E2
+  strand: definition
+  summary_short: "Life is genuinely E₂ — the neutron star counterexample proves the gap is real."
+  thesis: "SelfDesc is strictly stronger than Distinction; the physics-to-life transition is a genuine enrichment, not complexity."
+  canonical_books: [VI]
+  source_parts: [VI.1]
+  key_registry: [VI.T04]
+  depends_on: [E2-001]
+  unlocks: [E2-003]
+
+- id: E2-003
+  title: "Seven Hallmarks as Theorems"
+  slug: seven-hallmarks
+  layer: E2
+  strand: definition
+  summary_short: "Organization, metabolism, homeostasis, growth, reproduction, response, evolution — all derived."
+  thesis: "The seven classical hallmarks of life follow as logical consequences of Distinction ∧ SelfDesc."
+  canonical_books: [VI]
+  source_parts: [VI.1]
+  key_registry: [VI.T08, VI.T09, VI.T10, VI.T11, VI.T12, VI.T13, VI.T14, VI.P04]
+  depends_on: [E2-001, E2-002]
+  unlocks: [E2-004]
+
+- id: E2-004
+  title: "The 4+1 Life Sectors"
+  slug: life-sectors
+  layer: E2
+  strand: sectors
+  summary_short: "Persistence, Agency, Source, Closure, Consumer — the same template that produces four forces."
+  thesis: "The 4+1 sector template at E₂ produces five life sectors with biological archetypes."
+  canonical_books: [VI]
+  source_parts: [VI.2, VI.3, VI.4, VI.5]
+  key_registry: [VI.D13, VI.D14, VI.D15, VI.D16, VI.D17, VI.D18, VI.T07]
+  depends_on: [E2-003]
+  unlocks: [E2-005, E2-006]
+
+- id: E2-005
+  title: "Genetic Code & Central Dogma"
+  slug: genetic-code
+  layer: E2
+  strand: biology
+  summary_short: "DNA→RNA→Protein as categorical morphism; codon degeneracy as error correction."
+  thesis: "The genetic code is a BSD-type structure; the Central Dogma is a 2-step functor in τ³."
+  canonical_books: [VI]
+  source_parts: [VI.4]
+  key_registry: [VI.D40, VI.T22, VI.P15]
+  depends_on: [E2-004, E1-007]
+  unlocks: [E2-006]
+
+- id: E2-006
+  title: "Neural Architecture & Consciousness Bridge"
+  slug: neural-architecture
+  layer: E2
+  strand: biology
+  summary_short: "The nervous system as τ³ computer; sleep as temporal lemniscate; consciousness at E₂."
+  thesis: "Neural architecture instantiates the consumer sector; consciousness is structural self-modeling that bridges to E₃."
+  canonical_books: [VI]
+  source_parts: [VI.6, VI.8]
+  key_registry: [VI.D52, VI.D68]
+  depends_on: [E2-004, E2-005]
+  unlocks: [E2-007, E3-001]
+
+- id: E2-007
+  title: "Crossing-Limit Theorem"
+  slug: crossing-limit
+  layer: E2
+  strand: cosmic-life
+  summary_short: "The BH merger net converges to ι_τ — the universe tends toward maximal aliveness."
+  thesis: "Black holes satisfy all seven hallmarks of life formally; the merger-directed net converges to the master constant."
+  canonical_books: [VI]
+  source_parts: [VI.7]
+  key_registry: [VI.T35, VI.T36, VI.L11]
+  depends_on: [E2-006, E1-015]
+  unlocks: []
+
+- id: E2-008
+  title: "Evolution & Speciation"
+  slug: evolution
+  layer: E2
+  strand: biology
+  summary_short: "Evolution as PPAS optimization; speciation via τ³ bifurcation."
+  thesis: "Evolution operates through population-phenotype architectures; speciation follows from structural bifurcation."
+  canonical_books: [VI]
+  source_parts: [VI.6]
+  key_registry: [VI.T14]
+  depends_on: [E2-004]
+  unlocks: [E2-007]
+
+# ============================================================
+# LAYER E₃: METAPHYSICS (Book VII) — 11 modules
+# ============================================================
+
+# --- Strand: Foundations ---
+
+- id: E3-001
+  title: "Four Registers & Saturation"
+  slug: four-registers
+  layer: E3
+  strand: foundations
+  summary_short: "Empirical, Practical, Diagrammatic, Commitment — four orthogonal modes of engagement."
+  thesis: "At E₃, reality decomposes into four independent registers; the Saturation Theorem proves no E₄ exists."
+  canonical_books: [VII]
+  source_parts: [VII.1]
+  key_registry: [VII.D01, VII.D02, VII.D03, VII.D04, VII.T01, VII.T06]
+  depends_on: [E2-006]
+  unlocks: [E3-002, E3-003, E3-004, E3-005, E3-006, E3-007, E3-008]
+
+# --- Strand: Empirical (S_E) ---
+
+- id: E3-002
+  title: "Categorical Ontology"
+  slug: ontology
+  layer: E3
+  strand: empirical
+  summary_short: "Relations precede relata — what exists is structural, not substantial."
+  thesis: "The τ-kernel provides the ontological foundation; relational primacy, non-dualistic Platonism, and identity as address persistence."
+  canonical_books: [VII]
+  source_parts: [VII.2]
+  key_registry: [VII.D23, VII.D24, VII.D27]
+  depends_on: [E3-001]
+  unlocks: [E3-003]
+
+- id: E3-003
+  title: "Categorical Phenomenology"
+  slug: phenomenology
+  layer: E3
+  strand: empirical
+  summary_short: "Knowledge as sections; perception as constraint-filtered readout."
+  thesis: "Perception is section-filtering; time experience is temporalization; intersubjectivity is constraint-shared sections."
+  canonical_books: [VII]
+  source_parts: [VII.3]
+  key_registry: [VII.D42]
+  depends_on: [E3-001, E3-002]
+  unlocks: []
+
+# --- Strand: Diagrammatic (S_D) — 3 distinct domains ---
+
+- id: E3-004
+  title: "Categorical Aesthetics"
+  slug: aesthetics
+  layer: E3
+  strand: diagrammatic
+  summary_short: "Pre-symbolic beauty — resonance under transformation, the sublime at comprehension's edge."
+  thesis: "Beauty is pre-symbolic structural invariance; the aesthetic functional measures formal coherence; the sublime marks the boundary where pattern exceeds comprehension."
+  canonical_books: [VII]
+  source_parts: [VII.4]
+  key_registry: [VII.D46, VII.D47]
+  depends_on: [E3-001]
+  unlocks: [E3-005]
+
+- id: E3-005
+  title: "Categorical Language & Meaning"
+  slug: language-meaning
+  layer: E3
+  strand: diagrammatic
+  summary_short: "How meaning arises — temporalization, mortality, and the subsymbolic layer."
+  thesis: "Language adds temporalization to structure; the subsymbolic layer is primary; LLMs are para-minds without internal topoi."
+  canonical_books: [VII]
+  source_parts: [VII.5]
+  key_registry: [VII.D51, VII.D52]
+  depends_on: [E3-004]
+  unlocks: [E3-006]
+
+- id: E3-006
+  title: "Categorical Logic & Inference"
+  slug: logic-inference
+  layer: E3
+  strand: diagrammatic
+  summary_short: "Boolean at micro-scale, Bayesian at meso — truth-makers, modal frames, paraconsistent boundaries."
+  thesis: "Logic is scale-dependent: Boolean at single addresses, Bayesian at populations; modal semantics earned from τ; paraconsistency at register boundaries."
+  canonical_books: [VII]
+  source_parts: [VII.6]
+  key_registry: [VII.D57, VII.D58, VII.D62]
+  depends_on: [E3-005]
+  unlocks: [E3-007]
+
+# --- Strand: Practical (S_P) ---
+
+- id: E3-007
+  title: "Categorical Ethics & the Kantian Bridge"
+  slug: categorical-ethics
+  layer: E3
+  strand: practical
+  summary_short: "The Categorical Imperative as the unique minimal j-closed fixed point — ethics derived, not postulated."
+  thesis: "Kant's CI is the minimal fixed point of the dignity modality in the presheaf topos; dignity is label-independence; no-conflict theorem proves CI-derived duties cannot conflict."
+  canonical_books: [VII]
+  source_parts: [VII.7]
+  key_registry: [VII.T30, VII.T31, VII.T32, VII.T33, VII.T35]
+  depends_on: [E3-001]
+  unlocks: [E3-008]
+
+- id: E3-008
+  title: "Categorical Societies"
+  slug: societies
+  layer: E3
+  strand: practical
+  summary_short: "Social ontology as sheaf theory; power as morphism; legitimacy as recognition coherence."
+  thesis: "Societies organize via recognition topology; dignity-bearing agents form the base space; spheres, Dunbar limits, and sovereignty as categorical structures."
+  canonical_books: [VII]
+  source_parts: [VII.8]
+  key_registry: [VII.D76, VII.D80, VII.P25]
+  depends_on: [E3-007]
+  unlocks: []
+
+# --- Strand: Commitment (S_C) ---
+
+- id: E3-009
+  title: "Categorical Mind & Consciousness"
+  slug: mind-consciousness
+  layer: E3
+  strand: commitment
+  summary_short: "Mind as internal topos; consciousness as global section; free will as branching; identity as address persistence."
+  thesis: "Consciousness is the sheaf-theoretic gluing of local representations; free will is genuine branching in the action category; compatibilism is dissolved as a category error."
+  canonical_books: [VII]
+  source_parts: [VII.9]
+  key_registry: [VII.T41, VII.L14, VII.T42, VII.T43, VII.P26, VII.P27]
+  depends_on: [E3-001, E2-006]
+  unlocks: [E3-010]
+
+# --- Strand: Logos (S_L) ---
+
+- id: E3-010
+  title: "The Logos Sector"
+  slug: logos-sector
+  layer: E3
+  strand: logos
+  summary_short: "Where proof-validity and stance-stability coincide — the crown of E₃."
+  thesis: "The Logos sector S_L = S_D ∩ S_C is the unique mixed sector where proof meets commitment; four-register convergence."
+  canonical_books: [VII]
+  source_parts: [VII.10]
+  key_registry: [VII.D86, VII.T45, VII.P29]
+  depends_on: [E3-001, E3-009]
+  unlocks: [E3-011]
+
+# --- Strand: Boundary ---
+
+- id: E3-011
+  title: "No Forced Stance"
+  slug: no-forced-stance
+  layer: E3
+  strand: boundary
+  summary_short: "The framework proves its own limit — the sorry is the destination."
+  thesis: "No τ-derivation can force a commitment-register stance; the boundary between proof and commitment is located and respected."
+  canonical_books: [VII]
+  source_parts: [VII.11]
+  key_registry: [VII.T47]
+  depends_on: [E3-010]
+  unlocks: []

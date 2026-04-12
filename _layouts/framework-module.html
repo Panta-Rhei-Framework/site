@@ -1,0 +1,103 @@
+---
+layout: default
+---
+
+{% assign layer_names = "E0:Mathematics,E1:Physics,E2:Life,E3:Metaphysics" | split: "," %}
+{% assign layer_label = "" %}
+{% for ln in layer_names %}
+  {% assign parts = ln | split: ":" %}
+  {% if parts[0] == page.layer %}
+    {% assign layer_label = parts[1] %}
+  {% endif %}
+{% endfor %}
+
+<div class="hero-card">
+  <div class="module-eyebrow-row">
+    <span class="eyebrow">{{ layer_label }} · {{ page.strand | capitalize }}</span>
+    <span class="eyebrow module-id-badge">{{ page.module_id }}</span>
+  </div>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+  <div class="chip-row">
+    <span class="chip">{{ page.layer }}</span>
+    <span class="chip">{{ page.strand }}</span>
+    {% for book in page.canonical_books %}
+    <span class="chip">Book {{ book }}</span>
+    {% endfor %}
+    {% if page.key_registry %}
+    <span class="chip">{{ page.key_registry | size }} registry anchors</span>
+    {% endif %}
+  </div>
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {% if page.thesis %}
+    <h2>Module Thesis</h2>
+    <p><strong>{{ page.thesis }}</strong></p>
+    {% endif %}
+
+    {{ content }}
+  </div>
+</div>
+
+{% if page.depends_on.size > 0 or page.unlocks.size > 0 %}
+<div class="content-card">
+  <h2>Dependency Structure</h2>
+
+  {% if page.depends_on.size > 0 %}
+  <h3>Depends on</h3>
+  <div class="dep-list">
+    {% for dep_id in page.depends_on %}
+      {% assign dep_mod = nil %}
+      {% for m in site.data.framework_modules %}
+        {% if m.id == dep_id %}{% assign dep_mod = m %}{% endif %}
+      {% endfor %}
+      {% if dep_mod %}
+      {% assign dep_layer_slug = dep_mod.layer | downcase | replace: "e0", "mathematics" | replace: "e1", "physics" | replace: "e2", "life" | replace: "e3", "metaphysics" %}
+      <a href="{{ '/framework/' | append: dep_layer_slug | append: '-' | append: dep_mod.slug | append: '/' | relative_url }}" class="dep-link">
+        <span class="dep-id">{{ dep_mod.id }}</span>
+        <span class="dep-title">{{ dep_mod.title }}</span>
+      </a>
+      {% else %}
+      <span class="dep-link dep-missing">{{ dep_id }}</span>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if page.unlocks.size > 0 %}
+  <h3>Unlocks</h3>
+  <div class="dep-list">
+    {% for unl_id in page.unlocks %}
+      {% assign unl_mod = nil %}
+      {% for m in site.data.framework_modules %}
+        {% if m.id == unl_id %}{% assign unl_mod = m %}{% endif %}
+      {% endfor %}
+      {% if unl_mod %}
+      {% assign unl_layer_slug = unl_mod.layer | downcase | replace: "e0", "mathematics" | replace: "e1", "physics" | replace: "e2", "life" | replace: "e3", "metaphysics" %}
+      <a href="{{ '/framework/' | append: unl_layer_slug | append: '-' | append: unl_mod.slug | append: '/' | relative_url }}" class="dep-link">
+        <span class="dep-id">{{ unl_mod.id }}</span>
+        <span class="dep-title">{{ unl_mod.title }}</span>
+      </a>
+      {% else %}
+      <span class="dep-link dep-missing">{{ unl_id }}</span>
+      {% endif %}
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if page.key_registry.size > 0 %}
+<div class="content-card">
+  <h2>Registry Anchors</h2>
+  <div class="registry-list">
+    {% for reg_id in page.key_registry %}
+    <span class="chip">{{ reg_id }}</span>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}

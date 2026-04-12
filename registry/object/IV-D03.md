@@ -1,0 +1,91 @@
+---
+layout: registry-object
+title: IV.D03 — Strong Sector at E₁
+permalink: /registry/object/IV.D03/
+registry_id: IV.D03
+object_type: definition
+book: IV
+book_slug: book-iv
+part: 1
+chapter: 1
+scope: tau-effective
+formalization: formalized
+lean_module: TauLib.BookIV.Sectors.SectorParameters
+lean_name: Tau.BookIV.Sectors.strong_sector
+summary: 'C-sector instantiation: η-generator, self-coupling κ(C;3) = ι_τ³/(1−ι_τ),
+  χ₋-dominant polarity, depth 3. The (1−ι_τ) denominator is the structural signature
+  of confinement.'
+depends_on:
+- IV.D01
+- III.D13
+depended_by:
+- III.P32
+- III.T54
+- IV.D07
+- IV.D131
+- IV.T62
+- V.D13
+- V.D15
+- V.D17
+- V.D18
+- V.D26
+- V.D51
+- V.P05
+- V.T06
+- V.T103
+- V.T31
+- IV.T102
+- IV.T122
+- IV.T70
+- IV.T75
+- IV.T142
+- IV.P81
+- IV.P83
+- IV.P84
+- IV.P85
+- IV.P86
+- IV.P87
+- IV.P88
+- IV.P89
+- IV.P90
+- IV.P92
+- IV.P93
+- IV.P94
+- IV.P95
+- IV.P96
+- IV.L11
+- IV.P102
+- IV.T80
+- IV.P128
+- IV.P131
+- IV.P132
+- IV.P156
+- IV.P162
+- IV.P163
+- IV.P184
+- IV.T248
+- IV.T256
+- IV.T275
+- IV.T286
+- IV.T287
+- IV.T300
+- IV.T324
+- IV.T326
+- IV.T368
+- IV.P258
+- IV.P259
+- IV.P263
+- IV.P278
+- IV.P290
+- IV.P298
+- IV.P304
+- IV.P316
+- IV.P333
+- IV.P335
+- IV.P367
+- IV.P368
+dep_count: 2
+rev_dep_count: 65
+is_foundational: false
+is_central: true
+---

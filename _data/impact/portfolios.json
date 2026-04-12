@@ -1,0 +1,90 @@
+[
+  {
+    "id": "impact-agriculture",
+    "slug": "agriculture",
+    "title": "Agriculture",
+    "summary_short": "A public-good deployment portfolio for translating better agro-climate-water-biology intelligence into lower crop loss, improved water productivity, earlier pest and disease warnings, stronger anticipatory action, and faster climate-resilient crop design.",
+    "url": "/impact/portfolio/agriculture/",
+    "paper_count": 5
+  },
+  {
+    "id": "impact-biodiversity-restoration",
+    "slug": "biodiversity-restoration",
+    "title": "Biodiversity/Restoration",
+    "summary_short": "A public-good deployment portfolio for translating better coupled ecological intelligence into stronger restoration targeting, functional connectivity, blue-green habitat resilience, earlier stress warnings, and more accountable biodiversity finance.",
+    "url": "/impact/portfolio/biodiversity-restoration/",
+    "paper_count": 1
+  },
+  {
+    "id": "impact-climate",
+    "slug": "climate",
+    "title": "Climate",
+    "summary_short": "A public-good deployment portfolio for making the climate system's causal tree more legible so that mitigation, adaptation, finance, infrastructure, and international coordination can align with the true critical path of risk.",
+    "url": "/impact/portfolio/climate/",
+    "paper_count": 4
+  },
+  {
+    "id": "impact-disaster",
+    "slug": "disaster",
+    "title": "Disaster",
+    "summary_short": "A public-good deployment portfolio for translating better hazard physics into earlier warnings, more resilient lifelines, and forecast-linked anticipatory action across multi-hazard disaster domains.",
+    "url": "/impact/portfolio/disaster/",
+    "paper_count": 4
+  },
+  {
+    "id": "impact-energy",
+    "slug": "energy",
+    "title": "Energy",
+    "summary_short": "A public-good deployment portfolio for applying a physically faithful \u03c4 energy-system twin to improve grid reliability and dispatch, DER and storage orchestration, fusion and fission digital twins, and whole-system energy planning.",
+    "url": "/impact/portfolio/energy/",
+    "paper_count": 5
+  },
+  {
+    "id": "impact-ocean",
+    "slug": "ocean",
+    "title": "Ocean",
+    "summary_short": "A public-good deployment portfolio for using one shared ocean-state twin to serve trade, climate decarbonization, blue food systems, search and rescue, and marine stewardship simultaneously.",
+    "url": "/impact/portfolio/ocean/",
+    "paper_count": 4
+  },
+  {
+    "id": "impact-one-health",
+    "slug": "one-health",
+    "title": "One Health",
+    "summary_short": "A public-good deployment portfolio for using one shared environmental-biological-operational twin to improve disease early warning, health-system resilience, environmental surveillance, food safety, and precision public health simultaneously.",
+    "url": "/impact/portfolio/one-health/",
+    "paper_count": 4
+  },
+  {
+    "id": "impact-pollution-circularity",
+    "slug": "pollution-circularity",
+    "title": "Pollution/Circularity",
+    "summary_short": "A public-good deployment portfolio for translating better physical intelligence about emissions, toxic pathways, waste flows, plastics leakage, and material dynamics into lower exposure, cleaner cities, stronger remediation, better waste operations, and circular-system redesign.",
+    "url": "/impact/portfolio/pollution-circularity/",
+    "paper_count": 4
+  },
+  {
+    "id": "impact-solar",
+    "slug": "solar",
+    "title": "Solar",
+    "summary_short": "A public-good deployment portfolio for translating better solar\u2013weather\u2013grid physics into lower reserve costs, faster DER interconnection, stronger critical-load resilience, and solar-synchronized flexible demand.",
+    "url": "/impact/portfolio/solar/",
+    "paper_count": 5
+  },
+  {
+    "id": "impact-water-wash",
+    "slug": "water-wash",
+    "title": "Water/WASH",
+    "summary_short": "A public-good deployment portfolio for translating better water-system physics into safer drinking water, fewer network losses, stronger sanitation and reuse, better basin allocation, and improved WASH continuity in the places where vulnerability is highest.",
+    "url": "/impact/portfolio/water-wash/",
+    "paper_count": 5
+  },
+  {
+    "id": "impact-weather",
+    "slug": "weather",
+    "title": "Weather",
+    "summary_short": "A public-good deployment portfolio for making weather, climate intelligence, and disaster early warning materially better \u2014 from extreme-event forecasting and flood impact translation to wildfire/smoke intelligence, grid-weather coupling, drought planning, and climate adaptation.",
+    "url": "/impact/portfolio/weather/",
+    "paper_count": 3
+  }
+]

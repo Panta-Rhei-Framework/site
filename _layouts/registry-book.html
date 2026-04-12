@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+{% assign book_data = nil %}
+{% assign book_file = page.book_slug | append: ".json" %}
+
+<div class="hero-card">
+  <span class="eyebrow">Registry · Book {{ page.book }}</span>
+  <h1>{{ page.title }}</h1>
+  <p>{{ page.object_count }} registry objects — theorems, definitions, propositions, and more.</p>
+  <div class="chip-row">
+    <span class="chip">Book {{ page.book }}</span>
+    <span class="chip">{{ page.object_count }} objects</span>
+  </div>
+  <div class="btn-group">
+    <a href="/registry/dashboards/{{ page.book_slug }}/" class="btn-secondary">View Dashboard</a>
+  </div>
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+
+    <h2>Browse Objects</h2>
+    <p>All {{ page.object_count }} registry objects for Book {{ page.book }}:</p>
+
+    {% assign book_objects = site.data.registry.objects | where: "book", page.book %}
+    {% if book_objects.size > 0 %}
+    <div class="dep-list">
+      {% for obj in book_objects %}
+      <a href="{{ obj.url }}" class="dep-link">
+        <span class="dep-id">{{ obj.id }}</span>
+        <span class="dep-title">{{ obj.name }}</span>
+        <span class="chip" style="margin-left:auto">{{ obj.type }}</span>
+      </a>
+      {% endfor %}
+    </div>
+    {% endif %}
+  </div>
+</div>

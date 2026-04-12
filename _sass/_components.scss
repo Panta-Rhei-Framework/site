@@ -1,0 +1,54 @@
+// ================================================================
+// Buttons
+// ================================================================
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 40px;
+  padding: 0 14px;
+  font-family: $font-ui;
+  font-size: 0.84rem;
+  font-weight: 580;
+  border-radius: $radius-pill;
+  border: none;
+  cursor: pointer;
+  text-decoration: none;
+  transition: all $transition;
+
+  &:hover {
+    transform: translateY(-1px);
+  }
+}
+
+.btn-primary {
+  @extend .btn;
+  background: $accent;
+  color: white;
+  box-shadow: 0 2px 8px rgba(41, 75, 102, 0.25);
+
+  &:hover {
+    background: darken($accent, 6%);
+    color: white;
+    box-shadow: 0 4px 12px rgba(41, 75, 102, 0.3);
+  }
+}
+
+.btn-secondary {
+  @extend .btn;
+  background: rgba(255, 255, 255, 0.52);
+  color: $accent;
+  border: 1px solid rgba(255, 255, 255, 0.72);
+
+  &:hover {
+    background: rgba(255, 255, 255, 0.72);
+  }
+}
+
+.btn-group {
+  display: flex;
+  gap: 10px;
+  flex-wrap: wrap;
+  margin-top: 18px;
+}

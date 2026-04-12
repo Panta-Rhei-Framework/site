@@ -1,0 +1,66 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <div class="module-eyebrow-row">
+    <span class="eyebrow">Registry · {{ page.object_type | capitalize }}</span>
+    <span class="eyebrow module-id-badge">{{ page.registry_id }}</span>
+    {% if page.scope %}
+    <span class="chip">{{ page.scope }}</span>
+    {% endif %}
+    {% if page.formalization %}
+    <span class="chip">{{ page.formalization }}</span>
+    {% endif %}
+  </div>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary %}
+  <p>{{ page.summary }}</p>
+  {% endif %}
+  <div class="chip-row">
+    <span class="chip">Book {{ page.book }}</span>
+    {% if page.part %}<span class="chip">Part {{ page.part }}</span>{% endif %}
+    {% if page.chapter %}<span class="chip">Ch. {{ page.chapter }}</span>{% endif %}
+    {% if page.has_lean_link %}<span class="chip">Lean ✓</span>{% endif %}
+  </div>
+</div>
+
+{% if page.depends_on.size > 0 or page.depended_by.size > 0 %}
+<div class="content-card">
+  <h2>Dependency Graph</h2>
+
+  {% if page.depends_on.size > 0 %}
+  <h3>Depends on ({{ page.dep_count }})</h3>
+  <div class="dep-list">
+    {% for dep_id in page.depends_on %}
+    <a href="/registry/object/{{ dep_id }}/" class="dep-link">
+      <span class="dep-id">{{ dep_id }}</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+
+  {% if page.depended_by.size > 0 %}
+  <h3>Depended on by ({{ page.rev_dep_count }})</h3>
+  <div class="dep-list">
+    {% for rev_id in page.depended_by %}
+    <a href="/registry/object/{{ rev_id }}/" class="dep-link">
+      <span class="dep-id">{{ rev_id }}</span>
+    </a>
+    {% endfor %}
+  </div>
+  {% endif %}
+</div>
+{% endif %}
+
+{% if page.lean_module != "" %}
+<div class="content-card">
+  <h2>Lean Formalization</h2>
+  <p><strong>Module:</strong> <code>{{ page.lean_module }}</code></p>
+  {% if page.lean_name != "" %}
+  <p><strong>Symbol:</strong> <code>{{ page.lean_name }}</code></p>
+  {% endif %}
+</div>
+{% endif %}
+
+{{ content }}

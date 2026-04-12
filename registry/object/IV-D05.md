@@ -1,0 +1,96 @@
+---
+layout: registry-object
+title: IV.D05 — Gravity Sector at E₁
+permalink: /registry/object/IV.D05/
+registry_id: IV.D05
+object_type: definition
+book: IV
+book_slug: book-iv
+part: 1
+chapter: 1
+scope: tau-effective
+formalization: formalized
+lean_module: TauLib.BookIV.Sectors.SectorParameters
+lean_name: Tau.BookIV.Sectors.gravity_sector
+summary: 'D-sector instantiation: α-generator, self-coupling κ(D;1) = 1−ι_τ, χ₊-dominant
+  polarity, depth 1. Temporal sector on base τ¹. Physical: frame holonomy, gravitational
+  constant G = (c³/ℏ)·ι_τ².'
+depends_on:
+- IV.D01
+- III.D13
+depended_by:
+- IV.D07
+- IV.D127
+- IV.D128
+- IV.P154
+- IV.P160
+- IV.P182
+- IV.T01
+- IV.T02
+- IV.T102
+- IV.T105
+- IV.T62
+- V.C05
+- V.D12
+- V.D14
+- V.L01
+- V.L02
+- V.P07
+- V.P08
+- V.P09
+- V.P104
+- V.P106
+- V.P114
+- V.P119
+- V.P201
+- V.P208
+- V.P34
+- V.P35
+- V.P36
+- V.P37
+- V.P52
+- V.P55
+- V.P69
+- V.P71
+- V.P73
+- V.P77
+- V.T120
+- V.T129
+- V.T131
+- V.T133
+- V.T136
+- V.T137
+- V.T156
+- V.T159
+- V.T17
+- V.T170
+- V.T18
+- V.T19
+- V.T21
+- V.T22
+- V.T23
+- V.T286
+- V.T290
+- V.T293
+- V.T294
+- V.T304
+- V.T321
+- V.T323
+- V.T334
+- V.T340
+- V.T341
+- V.T42
+- V.T50
+- V.T54
+- V.T63
+- V.T64
+- V.T73
+- V.T86
+- V.T88
+- V.T89
+- V.T97
+dep_count: 2
+rev_dep_count: 70
+is_foundational: false
+is_central: true
+---

@@ -1,0 +1,84 @@
+// ================================================================
+// Right Rail — TOC, artifacts, metadata
+// ================================================================
+
+.toc-title {
+  font-family: $font-ui;
+  font-size: 0.76rem;
+  font-weight: 650;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $text-muted;
+  margin-bottom: 10px;
+}
+
+.toc-link {
+  display: block;
+  font-size: 0.84rem;
+  font-weight: 440;
+  color: $text-muted;
+  padding: 5px 10px;
+  border-radius: 8px;
+  border: 1px solid transparent;
+  transition: all $transition;
+  text-decoration: none;
+
+  &:hover {
+    color: $accent;
+    background: $accent-soft;
+  }
+
+  &.active {
+    color: $accent;
+    font-weight: 580;
+  }
+}
+
+.rail-section {
+  margin-top: 20px;
+  padding-top: 16px;
+  border-top: 1px solid $divider;
+}
+
+.rail-section-title {
+  font-size: 0.76rem;
+  font-weight: 650;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  color: $text-muted;
+  margin-bottom: 8px;
+}
+
+.artifact-link {
+  display: block;
+  font-size: 0.84rem;
+  color: $text-muted;
+  padding: 5px 10px;
+  border-radius: 8px;
+  transition: all $transition;
+  text-decoration: none;
+
+  &:hover {
+    color: $accent;
+    background: $accent-soft;
+  }
+}
+
+.meta-list {
+  display: flex;
+  flex-direction: column;
+  gap: 4px;
+}
+
+.meta-item {
+  display: flex;
+  justify-content: space-between;
+  font-size: 0.84rem;
+  color: $text-muted;
+  padding: 2px 0;
+
+  .meta-value {
+    font-weight: 600;
+    color: $text;
+  }
+}

@@ -1,0 +1,354 @@
+[
+  {
+    "id": "companion-energy-paper-4",
+    "slug": "advanced-fission-safety-operations-licensing-fleet-modernization",
+    "title": "\u03c4 for Advanced Fission Safety, Operations, Licensing, and Fleet Modernization",
+    "summary_short": "A companion paper on how \u03c4 could improve advanced fission safety analysis, digital instrumentation and control modernization, licensing efficiency, and nuclear fleet management.",
+    "url": "/impact/papers/advanced-fission-safety-operations-licensing-fleet-modernization/",
+    "portfolio_id": "impact-energy"
+  },
+  {
+    "id": "companion-one-health-paper-3",
+    "slug": "amr-wastewater-environmental-transmission-intelligence",
+    "title": "Tau for AMR, Wastewater/Environmental Surveillance, and Environmental Transmission Intelligence",
+    "summary_short": "A companion paper showing how a law-faithful tau health-environment twin could provide unusually high public-good leverage in AMR surveillance, wastewater and environmental transmission intelligence, and One Health environmental pathway attribution.",
+    "url": "/impact/papers/amr-wastewater-environmental-transmission-intelligence/",
+    "portfolio_id": "impact-one-health"
+  },
+  {
+    "id": "companion-disaster-paper-5",
+    "slug": "anticipatory-action-humanitarian-logistics-climate-risk-finance",
+    "title": "Tau for Anticipatory Action, Humanitarian Logistics, and Climate-Risk Finance",
+    "summary_short": "A companion paper showing how a law-faithful tau risk twin could connect warnings, humanitarian logistics, and pre-arranged finance into one operational architecture\u2014reducing the warning-exists-but-action-arrives-too-late problem at scale.",
+    "url": "/impact/papers/anticipatory-action-humanitarian-logistics-climate-risk-finance/",
+    "portfolio_id": "impact-disaster"
+  },
+  {
+    "id": "companion-weather-paper-1",
+    "slug": "aviation-weather-intelligence",
+    "title": "Tau-Grade Aviation Weather Intelligence for Mainstream Aviation",
+    "summary_short": "A companion paper showing how a law-faithful tau weather-flow twin could unlock major public-good gains in aviation routing, ATM resilience, and network disruption recovery\u2014addressing weather as the leading cause of delay across the US and European airspace systems.",
+    "url": "/impact/papers/aviation-weather-intelligence/",
+    "portfolio_id": "impact-weather"
+  },
+  {
+    "id": "companion-biodiversity-restoration-paper-5",
+    "slug": "biodiversity-finance-monitoring-restoration-verification",
+    "title": "\u03c4 for Biodiversity Finance, Monitoring, Restoration Verification, and Nature-Positive Investment Prioritization",
+    "summary_short": "A companion paper on how \u03c4 could strengthen biodiversity finance, monitoring, restoration verification, and nature-positive investment prioritization.",
+    "url": "/impact/papers/biodiversity-finance-monitoring-restoration-verification/",
+    "portfolio_id": "impact-biodiversity-restoration"
+  },
+  {
+    "id": "companion-ocean-paper-3",
+    "slug": "blue-food-systems-marine-ecosystem-intelligence",
+    "title": "\u03c4 and Blue Food Systems",
+    "summary_short": "A companion paper on how \u03c4 could improve fisheries management, aquaculture operations, harmful-algal-bloom warning, and marine ecosystem intelligence for blue food security.",
+    "url": "/impact/papers/blue-food-systems-marine-ecosystem-intelligence/",
+    "portfolio_id": "impact-ocean"
+  },
+  {
+    "id": "companion-solar-paper-1",
+    "slug": "bulk-grid-solar-forecasting",
+    "title": "Tau-Grade Solar Forecasting for Bulk-Grid Operations and Market Dispatch",
+    "summary_short": "A companion paper showing how a law-faithful tau atmosphere-irradiance-PV-grid twin could unlock major public-good gains in utility-scale solar forecasting, reserve sizing, dispatch, and curtailment\u2014at a scale where solar now produces 7% of world electricity.",
+    "url": "/impact/papers/bulk-grid-solar-forecasting/",
+    "portfolio_id": "impact-solar"
+  },
+  {
+    "id": "companion-climate-paper-2",
+    "slug": "carbon-cycle-methane-aerosol-sink-intelligence",
+    "title": "Tau for Carbon-Cycle, Methane, Aerosol, and Sink Intelligence",
+    "summary_short": "A companion paper on climate-driver attribution, methane, aerosols, and sink stewardship as the highest-leverage near-term element of the Climate portfolio.",
+    "url": "/impact/papers/carbon-cycle-methane-aerosol-sink-intelligence/",
+    "portfolio_id": "impact-climate"
+  },
+  {
+    "id": "companion-pollution-circularity-paper-3",
+    "slug": "chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation",
+    "title": "Tau for Chemicals, Toxic Releases, Lead/PFAS/Heavy Metals, Water-Soil-Air Plume Intelligence, and Remediation",
+    "summary_short": "A companion paper showing how a law-faithful tau causal integration substrate could unlock major public-good gains in toxic-release detection, cross-medium plume intelligence, lead/PFAS/mercury exposure protection, and remediation targeting\u2014addressing a hidden but very large disease burden.",
+    "url": "/impact/papers/chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation/",
+    "portfolio_id": "impact-pollution-circularity"
+  },
+  {
+    "id": "companion-pollution-circularity-paper-1",
+    "slug": "clean-air-digital-twins-exposure-intelligence",
+    "title": "Tau-Grade Clean-Air Digital Twins, Exposure Intelligence, and Urban/Regional Health Protection",
+    "summary_short": "A companion paper showing how a law-faithful tau atmosphere-emissions-chemistry-exposure twin could unlock major public-good gains in urban air-quality protection, hyperlocal exposure intelligence, source attribution, and clean-air policy\u2014addressing 7 million premature deaths annually.",
+    "url": "/impact/papers/clean-air-digital-twins-exposure-intelligence/",
+    "portfolio_id": "impact-pollution-circularity"
+  },
+  {
+    "id": "companion-climate-paper-5",
+    "slug": "climate-policy-optimization-investment-prioritization-international-coordination",
+    "title": "Tau for Climate Policy Optimization, Investment Prioritization, and International Coordination",
+    "summary_short": "A companion paper showing how a causally legible tau climate twin could improve national policy design, investment sequencing, and international coordination\u2014turning climate governance from negotiation-driven toward evidence-disciplined implementation.",
+    "url": "/impact/papers/climate-policy-optimization-investment-prioritization-international-coordination/",
+    "portfolio_id": "impact-climate"
+  },
+  {
+    "id": "companion-weather-paper-2",
+    "slug": "climate-smart-aviation-contrail-routing-decarbonization",
+    "title": "\u03c4-Enabled Climate-Smart Aviation",
+    "summary_short": "A companion paper on how \u03c4 could enable climate-smart aviation through contrail-aware routing, climate-optimal trajectories, and operational decarbonization.",
+    "url": "/impact/papers/climate-smart-aviation-contrail-routing-decarbonization/",
+    "portfolio_id": "impact-weather"
+  },
+  {
+    "id": "companion-agriculture-paper-2",
+    "slug": "climate-smart-irrigation-soil-moisture-water-productivity",
+    "title": "Tau for Climate-Smart Irrigation, Soil Moisture, and Water Productivity",
+    "summary_short": "A companion paper showing how a law-faithful tau water-soil-crop twin could transform irrigation scheduling, water productivity, and drought-adaptive farming across the sector that uses 72% of global freshwater.",
+    "url": "/impact/papers/climate-smart-irrigation-soil-moisture-water-productivity/",
+    "portfolio_id": "impact-agriculture"
+  },
+  {
+    "id": "companion-ocean-paper-2",
+    "slug": "climate-smart-shipping-decarbonization-wind-corridors",
+    "title": "\u03c4 and Climate-Smart Shipping",
+    "summary_short": "A companion paper on how \u03c4 could accelerate shipping decarbonization through climate-smart routing, wind-assisted propulsion optimization, and wind-powered cargo corridor development.",
+    "url": "/impact/papers/climate-smart-shipping-decarbonization-wind-corridors/",
+    "portfolio_id": "impact-ocean"
+  },
+  {
+    "id": "companion-disaster-paper-4",
+    "slug": "critical-infrastructure-emergency-operations-public-service-continuity",
+    "title": "Tau for Critical Infrastructure, Emergency Operations, and Public-Service Continuity",
+    "summary_short": "A companion paper showing how a law-faithful tau operations twin could unlock major public-good gains in weather-driven outage prediction, cross-lifeline continuity, and mission-critical public-service protection during disasters.",
+    "url": "/impact/papers/critical-infrastructure-emergency-operations-public-service-continuity/",
+    "portfolio_id": "impact-disaster"
+  },
+  {
+    "id": "companion-agriculture-paper-5",
+    "slug": "crop-biology-breeding-photosynthesis-gene-design",
+    "title": "Tau for Crop Biology, Breeding, Photosynthesis Engineering, and Targeted Gene Design",
+    "summary_short": "A companion paper exploring how a law-faithful tau genotype-environment-management twin could accelerate weather-tailored crop design, photosynthesis engineering, and targeted gene editing for climate-resilient agriculture.",
+    "url": "/impact/papers/crop-biology-breeding-photosynthesis-gene-design/",
+    "portfolio_id": "impact-agriculture"
+  },
+  {
+    "id": "companion-energy-paper-2",
+    "slug": "der-storage-flexible-demand-microgrids-td-planning",
+    "title": "Tau for DER Orchestration, Storage, Flexible Demand, Microgrids, and T&D Planning",
+    "summary_short": "A companion paper showing how a law-faithful tau edge-to-bulk twin could unlock major public-good gains in DER orchestration, virtual power plants, dynamic hosting capacity, resilience islands, and integrated distribution/transmission planning.",
+    "url": "/impact/papers/der-storage-flexible-demand-microgrids-td-planning/",
+    "portfolio_id": "impact-energy"
+  },
+  {
+    "id": "companion-solar-paper-2",
+    "slug": "distributed-pv-visibility-distribution-grid-orchestration",
+    "title": "\u03c4 for Distributed PV Visibility and Distribution-Grid Orchestration",
+    "summary_short": "A companion paper on how \u03c4 could improve distributed PV visibility, feeder state estimation, hosting capacity, and distribution-grid orchestration for high-penetration solar.",
+    "url": "/impact/papers/distributed-pv-visibility-distribution-grid-orchestration/",
+    "portfolio_id": "impact-solar"
+  },
+  {
+    "id": "companion-water-wash-paper-2",
+    "slug": "distribution-networks-leakage-pressure-service-continuity",
+    "title": "\u03c4 for Distribution Networks, Leakage, Pressure, and Service Continuity",
+    "summary_short": "A companion paper on how \u03c4 could improve drinking-water distribution network intelligence, leakage reduction, pressure management, and service continuity.",
+    "url": "/impact/papers/distribution-networks-leakage-pressure-service-continuity/",
+    "portfolio_id": "impact-water-wash"
+  },
+  {
+    "id": "companion-water-wash-paper-1",
+    "slug": "drinking-water-source-treatment-quality-early-warning",
+    "title": "Tau-Grade Drinking-Water Source, Treatment, and Quality Early Warning",
+    "summary_short": "A companion paper showing how a law-faithful tau drinking-water twin could unlock major public-good gains in source-water early warning, treatment-train optimization, and climate-resilient water-safety planning\u2014addressing 2.1 billion people lacking safely managed drinking water.",
+    "url": "/impact/papers/drinking-water-source-treatment-quality-early-warning/",
+    "portfolio_id": "impact-water-wash"
+  },
+  {
+    "id": "companion-disaster-paper-2",
+    "slug": "flood-coastal-surge-landslide-resilience",
+    "title": "Tau for Flood, Coastal Surge, Flash Flood, and Landslide Resilience",
+    "summary_short": "A companion paper showing how a law-faithful tau hydro-hazard twin could unlock major public-good gains in flood prediction, coastal surge intelligence, flash-flood lead time, and rainfall-induced landslide warning.",
+    "url": "/impact/papers/flood-coastal-surge-landslide-resilience/",
+    "portfolio_id": "impact-disaster"
+  },
+  {
+    "id": "companion-one-health-paper-4",
+    "slug": "food-safety-livestock-wildlife-community-exposure",
+    "title": "Tau for Food Safety, Livestock/Wildlife Interface, and Community Exposure Intelligence",
+    "summary_short": "A companion paper showing how a law-faithful tau human-animal-environment twin could provide unusually high humanitarian leverage in food safety intelligence, livestock-wildlife interface risk, and community-level exposure pathway attribution.",
+    "url": "/impact/papers/food-safety-livestock-wildlife-community-exposure/",
+    "portfolio_id": "impact-one-health"
+  },
+  {
+    "id": "companion-energy-paper-3",
+    "slug": "fusion-digital-twins-plasma-control-heat-exhaust-iter-demo",
+    "title": "\u03c4 for Fusion Digital Twins, Plasma Control, Heat Exhaust, and ITER \u2192 DEMO \u2192 Commercialization",
+    "summary_short": "A companion paper on how \u03c4 could advance fusion energy through plasma-physics digital twins, improved plasma control, heat-exhaust management, and the ITER-to-DEMO-to-commercialization pathway.",
+    "url": "/impact/papers/fusion-digital-twins-plasma-control-heat-exhaust-iter-demo/",
+    "portfolio_id": "impact-energy"
+  },
+  {
+    "id": "companion-energy-paper-1",
+    "slug": "grid-digital-twins-reliability-dispatch-resilience",
+    "title": "Tau-Grade Grid Digital Twins, Reliability, Dispatch, and Resilience",
+    "summary_short": "A companion paper showing how a law-faithful tau grid twin could improve bulk-power reliability, weather-aware dispatch, cascading-failure prevention, and restoration\u2014addressing USD 121 billion in annual US major outage costs.",
+    "url": "/impact/papers/grid-digital-twins-reliability-dispatch-resilience/",
+    "portfolio_id": "impact-energy"
+  },
+  {
+    "id": "companion-pollution-circularity-paper-2",
+    "slug": "industrial-transport-agricultural-emissions-attribution-compliance-abatement",
+    "title": "Tau for Industrial, Transport, and Agricultural Emissions Attribution, Compliance, and High-Return Abatement Targeting",
+    "summary_short": "A companion paper showing how a law-faithful tau source-resolved emissions twin could unlock major public-good gains in stack and corridor attribution, compliance intelligence, and high-return abatement targeting across industry, transport, shipping, and agriculture.",
+    "url": "/impact/papers/industrial-transport-agricultural-emissions-attribution-compliance-abatement/",
+    "portfolio_id": "impact-pollution-circularity"
+  },
+  {
+    "id": "companion-energy-paper-5",
+    "slug": "integrated-energy-system-planning-market-design-investment-coordination",
+    "title": "\u03c4 for Integrated Energy-System Planning, Market Design, Investment Prioritization, and International Coordination",
+    "summary_short": "A companion paper on how \u03c4 could improve integrated energy-system planning, electricity market design, investment prioritization, and international energy coordination.",
+    "url": "/impact/papers/integrated-energy-system-planning-market-design-investment-coordination/",
+    "portfolio_id": "impact-energy"
+  },
+  {
+    "id": "companion-weather-paper-3",
+    "slug": "new-aerial-logistics-aam-airships-humanitarian-remote",
+    "title": "\u03c4 and New Aerial Logistics",
+    "summary_short": "A companion paper on how \u03c4 could enable new aerial logistics through improved low-altitude weather intelligence for advanced air mobility, heavy-lift airships, humanitarian corridors, and remote-community access.",
+    "url": "/impact/papers/new-aerial-logistics-aam-airships-humanitarian-remote/",
+    "portfolio_id": "impact-weather"
+  },
+  {
+    "id": "companion-ocean-paper-1",
+    "slug": "ocean-logistics-maritime-routing-port-flow-green-corridors",
+    "title": "\u03c4 and the Ocean Logistics Opportunity",
+    "summary_short": "A companion paper on how \u03c4 could improve maritime routing, port flow optimization, and the development of green shipping corridors.",
+    "url": "/impact/papers/ocean-logistics-maritime-routing-port-flow-green-corridors/",
+    "portfolio_id": "impact-ocean"
+  },
+  {
+    "id": "companion-ocean-paper-4",
+    "slug": "ocean-stewardship-cleanup-marine-emergency-response",
+    "title": "\u03c4 and Ocean Stewardship, Cleanup, and Marine Emergency Response",
+    "summary_short": "A companion paper on how \u03c4 could improve marine debris prediction, oil-spill response, search-and-rescue operations, and ecological early warning for ocean stewardship.",
+    "url": "/impact/papers/ocean-stewardship-cleanup-marine-emergency-response/",
+    "portfolio_id": "impact-ocean"
+  },
+  {
+    "id": "companion-climate-paper-4",
+    "slug": "oceans-cryosphere-tipping-long-range-resilience",
+    "title": "\u03c4 for Oceans, Cryosphere, Tipping Elements, and Long-Range Resilience",
+    "summary_short": "A companion paper on how \u03c4 could improve understanding of ocean systems, cryosphere dynamics, tipping elements, and long-range climate resilience planning.",
+    "url": "/impact/papers/oceans-cryosphere-tipping-long-range-resilience/",
+    "portfolio_id": "impact-climate"
+  },
+  {
+    "id": "companion-one-health-paper-1",
+    "slug": "one-health-vector-zoonotic-spillover-climate-outbreaks",
+    "title": "Tau-Grade One Health Early Warning for Vector-Borne Disease, Zoonotic Spillover, and Climate-Sensitive Outbreaks",
+    "summary_short": "A companion paper showing how a law-faithful tau ecology-biology-health twin could provide unusually high humanitarian leverage in One Health early warning for vector-borne diseases, zoonotic spillover, and climate-sensitive outbreaks.",
+    "url": "/impact/papers/one-health-vector-zoonotic-spillover-climate-outbreaks/",
+    "portfolio_id": "impact-one-health"
+  },
+  {
+    "id": "companion-agriculture-paper-1",
+    "slug": "operational-agro-weather-intelligence",
+    "title": "Tau-Grade Operational Agro-Weather Intelligence",
+    "summary_short": "A companion paper arguing that a law-faithful tau weather-soil-crop-operations twin could unlock major public-good gains for day-to-day agricultural decision support.",
+    "url": "/impact/papers/operational-agro-weather-intelligence/",
+    "portfolio_id": "impact-agriculture"
+  },
+  {
+    "id": "companion-agriculture-paper-3",
+    "slug": "pest-disease-livestock-stress-early-warning",
+    "title": "Tau for Pest, Disease, and Livestock-Stress Early Warning",
+    "summary_short": "A companion paper showing how a law-faithful tau weather-pathogen-vector-host twin could sharpen plant-health, animal-disease, and livestock heat-stress early warning across the full agricultural biosecurity stack.",
+    "url": "/impact/papers/pest-disease-livestock-stress-early-warning/",
+    "portfolio_id": "impact-agriculture"
+  },
+  {
+    "id": "companion-one-health-paper-5",
+    "slug": "precision-public-health-physiology-prevention-safer-therapeutics",
+    "title": "\u03c4 for Precision Public Health, Physiology-Aware Prevention, and Safer Therapeutics / Response Optimization",
+    "summary_short": "A companion paper on how \u03c4 could enable precision public health, physiology-aware prevention, safer therapeutic design, and optimized health-system response.",
+    "url": "/impact/papers/precision-public-health-physiology-prevention-safer-therapeutics/",
+    "portfolio_id": "impact-one-health"
+  },
+  {
+    "id": "companion-solar-paper-4",
+    "slug": "pv-asset-protection-storm-hardening-long-term-planning",
+    "title": "\u03c4 for PV Asset Protection, Storm-Hardening, and Long-Term System Planning",
+    "summary_short": "A companion paper on how \u03c4 could improve PV asset protection, storm-hardening design, and long-term solar system planning under climate hazard uncertainty.",
+    "url": "/impact/papers/pv-asset-protection-storm-hardening-long-term-planning/",
+    "portfolio_id": "impact-solar"
+  },
+  {
+    "id": "companion-climate-paper-3",
+    "slug": "regional-adaptation-sectoral-impact-intelligence",
+    "title": "Tau for Regional Adaptation Planning and Sectoral Impact Intelligence",
+    "summary_short": "A companion paper showing how a tau regional twin could turn Earth-system understanding into decision-grade adaptation intelligence for real regions, real sectors, and real public planning choices.",
+    "url": "/impact/papers/regional-adaptation-sectoral-impact-intelligence/",
+    "portfolio_id": "impact-climate"
+  },
+  {
+    "id": "companion-water-wash-paper-4",
+    "slug": "river-basin-groundwater-drought-flood-allocation-water-productivity",
+    "title": "\u03c4 for River-Basin, Groundwater, Drought-Flood Allocation, and Water Productivity",
+    "summary_short": "A companion paper on how \u03c4 could improve river-basin intelligence, groundwater management, drought-flood allocation, and water productivity for food and ecosystem security.",
+    "url": "/impact/papers/river-basin-groundwater-drought-flood-allocation-water-productivity/",
+    "portfolio_id": "impact-water-wash"
+  },
+  {
+    "id": "companion-agriculture-paper-4",
+    "slug": "seasonal-planning-disaster-anticipation-food-system-resilience",
+    "title": "Tau for Seasonal Planning, Disaster Anticipation, and Food-System Resilience",
+    "summary_short": "A companion paper showing how a law-faithful tau agro-climate-resilience twin could strengthen sub-seasonal to seasonal planning, anticipatory action, and food-system resilience at district, national, and regional scales.",
+    "url": "/impact/papers/seasonal-planning-disaster-anticipation-food-system-resilience/",
+    "portfolio_id": "impact-agriculture"
+  },
+  {
+    "id": "companion-solar-paper-3",
+    "slug": "solar-storage-microgrids-critical-infrastructure-resilience",
+    "title": "\u03c4 for Solar-Plus-Storage, Microgrids, and Critical-Infrastructure Resilience",
+    "summary_short": "A companion paper on how \u03c4 could improve solar-plus-storage system design, microgrid operations, and critical-infrastructure resilience for hospitals, water systems, and community hubs.",
+    "url": "/impact/papers/solar-storage-microgrids-critical-infrastructure-resilience/",
+    "portfolio_id": "impact-solar"
+  },
+  {
+    "id": "companion-solar-paper-5",
+    "slug": "solar-synchronized-flexible-demand-grid-logistics",
+    "title": "\u03c4 for Solar-Synchronized Flexible Demand and Grid Logistics",
+    "summary_short": "A companion paper on how \u03c4 could enable solar-synchronized flexible demand across buildings, EVs, hydrogen electrolysis, data centers, water systems, refrigeration, and industrial loads.",
+    "url": "/impact/papers/solar-synchronized-flexible-demand-grid-logistics/",
+    "portfolio_id": "impact-solar"
+  },
+  {
+    "id": "companion-water-wash-paper-5",
+    "slug": "wash-health-facilities-schools-camps-climate-vulnerable-settlements",
+    "title": "\u03c4 for WASH in Health Facilities, Schools, Camps, and Climate-Vulnerable Settlements",
+    "summary_short": "A companion paper on how \u03c4 could improve WASH service continuity in health facilities, schools, refugee camps, and climate-vulnerable settlements.",
+    "url": "/impact/papers/wash-health-facilities-schools-camps-climate-vulnerable-settlements/",
+    "portfolio_id": "impact-water-wash"
+  },
+  {
+    "id": "companion-pollution-circularity-paper-4",
+    "slug": "waste-systems-plastics-leakage-zero-waste",
+    "title": "\u03c4 for Waste Systems, Plastics Leakage, Litter Interception, Municipal/Industrial Waste Operations, and Zero-Waste Transitions",
+    "summary_short": "A companion paper on how \u03c4 could improve waste-flow modeling, plastics-leakage interception, municipal and industrial waste operations, and zero-waste transition planning.",
+    "url": "/impact/papers/waste-systems-plastics-leakage-zero-waste/",
+    "portfolio_id": "impact-pollution-circularity"
+  },
+  {
+    "id": "companion-water-wash-paper-3",
+    "slug": "wastewater-stormwater-sanitation-circular-reuse",
+    "title": "\u03c4 for Wastewater, Stormwater, Sanitation, and Circular Water Reuse",
+    "summary_short": "A companion paper on how \u03c4 could improve wastewater treatment intelligence, stormwater management, sanitation system optimization, and circular water reuse.",
+    "url": "/impact/papers/wastewater-stormwater-sanitation-circular-reuse/",
+    "portfolio_id": "impact-water-wash"
+  },
+  {
+    "id": "companion-disaster-paper-3",
+    "slug": "wildfire-smoke-heat-compound-extreme-health-protection",
+    "title": "\u03c4 for Wildfire, Smoke, Heat, and Compound-Extreme Health Protection",
+    "summary_short": "A companion paper on how \u03c4 could improve wildfire prediction, smoke-dispersion forecasting, heat-event warning, and compound-extreme health protection.",
+    "url": "/impact/papers/wildfire-smoke-heat-compound-extreme-health-protection/",
+    "portfolio_id": "impact-disaster"
+  }
+]

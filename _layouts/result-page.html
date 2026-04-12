@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <div class="module-eyebrow-row">
+    <span class="eyebrow">Result · {{ page.layer | capitalize }}</span>
+    {% if page.result_type %}
+    <span class="chip">{{ page.result_type | replace: "_", " " | capitalize }}</span>
+    {% endif %}
+    {% if page.bridge_status %}
+    <span class="chip">{{ page.bridge_status | capitalize }}</span>
+    {% endif %}
+  </div>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+  <div class="chip-row">
+    {% if page.topic %}<span class="chip">{{ page.topic | capitalize }}</span>{% endif %}
+    {% if page.layer %}<span class="chip">{{ page.layer | capitalize }}</span>{% endif %}
+    {% for book in page.canonical_books %}
+    <span class="chip">Book {{ book }}</span>
+    {% endfor %}
+  </div>
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>

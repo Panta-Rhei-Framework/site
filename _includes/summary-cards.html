@@ -1,0 +1,10 @@
+{% if page.summary_cards %}
+<div class="summary-cards">
+  {% for card in page.summary_cards %}
+  <div class="summary-card">
+    <div class="summary-card-title">{{ card.title }}</div>
+    <div class="summary-card-body">{{ card.body }}</div>
+  </div>
+  {% endfor %}
+</div>
+{% endif %}
