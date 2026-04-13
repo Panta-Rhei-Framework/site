@@ -89,6 +89,14 @@
     {% endfor %}
   </div>
   {% endif %}
+  {% if item.url == "/publications/archived/first-edition/" and page.url contains "/publications/archived/" %}
+  <div class="subnav">
+    {% for book in site.data.publications.first_edition %}
+    {% assign archive_url = "/publications/archived/first-edition/" | append: book.slug | append: "/" %}
+    <a href="{{ archive_url | relative_url }}" class="nav-link{% if page.url == archive_url %} active{% endif %}">Book {{ book.book_id }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
   {% endfor %}
 
   {% elsif page.lane == "verify" %}

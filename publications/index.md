@@ -56,6 +56,10 @@ Technical documents: falsification pack (220+ predictions), Lean verification re
 
 Structured guides helping domain experts evaluate specific claims. Currently in development.
 
+### [Archived Releases — First Edition]({{ '/publications/archived/first-edition/' | relative_url }})
+
+The First Edition (December 2025) is preserved as an archived historical release. It documents an earlier public state of the work before the current canonical Second Edition. It remains available for reference and comparison, but it is no longer the active research canon.
+
 ## How Publications Relate to the Site
 
 The books carry the canonical argument in proof-order. The Atlas (this site) provides navigable access in understanding-order. TauLib provides machine-checked verification. The guided tours and companion papers lower the threshold for structured engagement.

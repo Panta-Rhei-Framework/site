@@ -142,6 +142,8 @@ publications_nav:
     url: "/publications/companion-papers/"
   - title: "Assessment Protocols"
     url: "/publications/protocols/"
+  - title: "Archived · First Edition"
+    url: "/publications/archived/first-edition/"
 
 verify_nav:
   - title: "Overview"
