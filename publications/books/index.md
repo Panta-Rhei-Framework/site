@@ -29,12 +29,14 @@ right_rail:
 ## The Canonical Monograph Series
 
 {% for book in site.data.publications.books %}
-### [Book {{ book.roman }}: {{ book.title }}]({{ book.url | relative_url }})
-
-*{{ book.subtitle }}* — {{ book.layer }} {{ book.layer_name }}
-
-{{ book.parts }} parts · {{ book.chapters }} chapters · {{ book.pages }} pages
-
+<div class="book-list-item">
+  <img src="{{ '/assets/books/covers/' | append: book.id | append: '-cover-96.webp' | relative_url }}" alt="Cover of Book {{ book.roman }}" class="book-list-thumb" width="88" height="141" loading="lazy">
+  <div class="book-list-info">
+    <h3><a href="{{ book.url | relative_url }}">Book {{ book.roman }}: {{ book.title }}</a></h3>
+    <p><em>{{ book.subtitle }}</em> — {{ book.layer }} {{ book.layer_name }}<br>
+    {{ book.parts }} parts · {{ book.chapters }} chapters · {{ book.pages }} pages</p>
+  </div>
+</div>
 {% endfor %}
 
 ## Series Spine

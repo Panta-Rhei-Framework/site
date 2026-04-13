@@ -146,6 +146,97 @@
 }
 
 // ================================================================
+// Book Cover Hero (two-column layout)
+// ================================================================
+
+.book-hero-inner {
+  display: flex;
+  gap: 28px;
+  align-items: flex-start;
+
+  @media (max-width: $bp-stack) {
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+}
+
+.book-hero-text {
+  flex: 1;
+  min-width: 0;
+}
+
+.book-hero-cover {
+  flex-shrink: 0;
+  width: 240px;
+
+  @media (max-width: $bp-collapse) {
+    width: 200px;
+  }
+
+  @media (max-width: $bp-stack) {
+    width: min(72vw, 260px);
+    order: -1; // cover above text on mobile
+  }
+}
+
+.book-cover-img {
+  width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 6px;
+  box-shadow:
+    0 4px 16px rgba(22, 29, 37, 0.10),
+    0 1px 4px rgba(22, 29, 37, 0.06);
+  border: 1px solid rgba(0, 0, 0, 0.06);
+}
+
+// Book list thumbnails
+.book-list-thumb {
+  width: 88px;
+  height: auto;
+  border-radius: 4px;
+  box-shadow: 0 2px 8px rgba(22, 29, 37, 0.08);
+  border: 1px solid rgba(0, 0, 0, 0.05);
+  flex-shrink: 0;
+}
+
+.book-list-item {
+  display: flex;
+  gap: 16px;
+  align-items: flex-start;
+  padding: 12px 0;
+  border-bottom: 1px solid $divider;
+
+  &:last-child { border-bottom: none; }
+
+  .book-list-info {
+    flex: 1;
+    min-width: 0;
+
+    h3 {
+      font-family: $font-display;
+      font-size: 1rem;
+      font-weight: 500;
+      margin: 0 0 4px;
+
+      a {
+        color: $text;
+        text-decoration: none;
+        &:hover { color: $accent; }
+      }
+    }
+
+    p {
+      font-size: 0.86rem;
+      color: $text-muted;
+      margin: 0;
+      line-height: 1.45;
+    }
+  }
+}
+
+// ================================================================
 // Format Cards (Amazon book formats)
 // ================================================================
 

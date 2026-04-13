@@ -10,15 +10,29 @@ layout: default
   {% endif %}
 {% endfor %}
 
-<div class="hero-card">
-  <span class="eyebrow">Publications · Books</span>
-  <h1>{{ page.title }}</h1>
-  {% if page.subtitle %}
-  <p class="hero-subtitle">{{ page.subtitle }}</p>
-  {% endif %}
-  {% if page.summary_short and page.summary_short != page.subtitle %}
-  <p>{{ page.summary_short }}</p>
-  {% endif %}
+{% assign cover_path = '/assets/books/covers/' | append: page.book_slug | append: '-cover-' %}
+
+<div class="hero-card book-hero">
+  <div class="book-hero-inner">
+    <div class="book-hero-text">
+      <span class="eyebrow">Publications · Books</span>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="hero-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+    </div>
+    <div class="book-hero-cover">
+      <img
+        src="{{ cover_path | append: '256.webp' | relative_url }}"
+        srcset="{{ cover_path | append: '256.webp' | relative_url }} 256w, {{ cover_path | append: '512.webp' | relative_url }} 512w"
+        sizes="(max-width: 760px) min(72vw, 260px), 240px"
+        width="256" height="410"
+        alt="Cover of {{ page.title }}: {{ page.subtitle }}"
+        class="book-cover-img"
+        loading="eager"
+      >
+    </div>
+  </div>
 </div>
 
 {% include summary-cards.html %}
