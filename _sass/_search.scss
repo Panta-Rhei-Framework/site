@@ -166,3 +166,12 @@
     }
   }
 }
+
+// ── Mobile touch targets ────────────────────────────────────────
+
+@media (max-width: $bp-stack) {
+  .search-overlay-close {
+    width: 44px;
+    height: 44px;
+  }
+}

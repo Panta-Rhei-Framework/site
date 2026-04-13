@@ -515,3 +515,29 @@
     font-size: 0.72rem;
   }
 }
+
+// ── Mobile touch targets for subscribe form ─────────────────────
+
+@media (max-width: $bp-stack) {
+  .bd-input {
+    min-height: 44px;
+    min-width: 0; // remove 200px min-width to prevent overflow on small screens
+    height: 44px;
+  }
+
+  .bd-button {
+    min-height: 44px;
+    height: 44px;
+  }
+
+  .bd-subscribe-compact {
+    .bd-input {
+      min-width: 0;
+      height: 44px;
+    }
+
+    .bd-button {
+      height: 44px;
+    }
+  }
+}

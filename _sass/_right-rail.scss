@@ -82,3 +82,15 @@
     color: $text;
   }
 }
+
+// ── Mobile touch targets ────────────────────────────────────────
+
+@media (max-width: $bp-stack) {
+  .toc-link,
+  .artifact-link {
+    min-height: 44px;
+    display: flex;
+    align-items: center;
+    padding: 8px 12px;
+  }
+}

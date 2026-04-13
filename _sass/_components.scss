@@ -408,3 +408,31 @@
   margin: 0;
   line-height: 1.45;
 }
+
+// ================================================================
+// Mobile Touch Targets — WCAG 2.1 AA (44px minimum)
+// ================================================================
+
+@media (max-width: $bp-stack) {
+  .btn,
+  .btn-primary,
+  .btn-secondary {
+    min-height: 44px;
+    padding: 0 16px;
+  }
+
+  .btn-ghost {
+    min-height: 44px;
+    padding: 0 16px;
+  }
+
+  .format-btn {
+    min-height: 44px;
+    padding: 0 14px;
+    font-size: 0.82rem;
+  }
+
+  .chapter-nav-link {
+    padding: 14px;
+  }
+}
