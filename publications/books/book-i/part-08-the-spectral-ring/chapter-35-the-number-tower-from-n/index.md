@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 8
+part_display: "Part VIII"
 part_slug: "part-08-the-spectral-ring"
 chapter_number: 35
 chapter_slug: "chapter-35-the-number-tower-from-n"

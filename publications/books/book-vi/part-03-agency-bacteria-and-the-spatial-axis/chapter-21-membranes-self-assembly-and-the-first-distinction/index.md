@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-agency-bacteria-and-the-spatial-axis"
 chapter_number: 21
 chapter_slug: "chapter-21-membranes-self-assembly-and-the-first-distinction"

@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-topology-and-global-shape"
 chapter_number: 14
 chapter_slug: "chapter-14-topology-as-invariant-of-canonical-denotation"

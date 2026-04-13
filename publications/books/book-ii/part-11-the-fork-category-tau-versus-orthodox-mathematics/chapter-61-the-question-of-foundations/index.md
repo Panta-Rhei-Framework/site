@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 11
+part_display: "Part XI"
 part_slug: "part-11-the-fork-category-tau-versus-orthodox-mathematics"
 chapter_number: 61
 chapter_slug: "chapter-61-the-question-of-foundations"

@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-consumer-animals-and-the-mixed-sector"
 chapter_number: 41
 chapter_slug: "chapter-41-learning-sleep-and-the-brain"

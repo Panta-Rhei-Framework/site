@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 17
+part_display: "Part XVII"
 part_slug: "part-17-the-proof-theoretic-mirror"
 chapter_number: 72
 chapter_slug: "chapter-72-diagonal-discipline-as-linear-logic"

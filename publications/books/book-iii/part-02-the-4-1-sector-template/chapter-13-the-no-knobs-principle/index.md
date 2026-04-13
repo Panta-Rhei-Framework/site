@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-the-4-1-sector-template"
 chapter_number: 13
 chapter_slug: "chapter-13-the-no-knobs-principle"

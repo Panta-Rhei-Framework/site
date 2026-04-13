@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 0
+part_display: "Prologue"
 part_slug: "part-00-from-kernel-to-interior"
 chapter_number: 2
 chapter_slug: "chapter-02-the-elliptic-to-split-complex-shift"

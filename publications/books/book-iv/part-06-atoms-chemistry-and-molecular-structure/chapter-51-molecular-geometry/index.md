@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-atoms-chemistry-and-molecular-structure"
 chapter_number: 51
 chapter_slug: "chapter-51-molecular-geometry"

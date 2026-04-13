@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 14
+part_display: "Part XIV"
 part_slug: "part-14-the-earned-topos"
 chapter_number: 60
 chapter_slug: "chapter-60-limits-sites-and-the-presheaf-topos"

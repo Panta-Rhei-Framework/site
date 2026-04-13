@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-collective-dynamics"
 chapter_number: 28
 chapter_slug: "chapter-28-tau"

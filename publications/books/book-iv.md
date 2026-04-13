@@ -6,14 +6,14 @@ lane: publications
 publication_type: book
 book_id: "IV"
 book_slug: "book-iv"
-subtitle: "All of Quantum Physics from One Constant"
+subtitle: "The Self-Describing Universe"
 part_count: 9
 chapter_count: 73
 page_count: 479
-summary_short: "All of Quantum Physics from One Constant"
+summary_short: "The Self-Describing Universe"
 summary_cards:
 - title: Subtitle
-  body: "All of Quantum Physics from One Constant"
+  body: "The Self-Describing Universe"
 - title: Structure
   body: "9 parts, 73 chapters, 479 pages"
 - title: Layer
@@ -42,7 +42,7 @@ right_rail:
     updated: April 2026
 ---
 
-## All of Quantum Physics from One Constant
+## The Self-Describing Universe
 
 Book IV is part of the **Physics (Microcosm)** layer (E₁) of the Panta Rhei framework.
 

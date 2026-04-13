@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-the-hinge-theorem"
 chapter_number: 51
 chapter_slug: "chapter-51-export-contracts-to-books-iv-vii"

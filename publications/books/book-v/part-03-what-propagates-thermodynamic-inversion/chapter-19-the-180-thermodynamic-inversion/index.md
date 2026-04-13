@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-what-propagates-thermodynamic-inversion"
 chapter_number: 19
 chapter_slug: "chapter-19-the-180-thermodynamic-inversion"

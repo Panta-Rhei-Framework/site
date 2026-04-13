@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e"
 chapter_number: 24
 chapter_slug: "chapter-24-lines-from-countable-structure"

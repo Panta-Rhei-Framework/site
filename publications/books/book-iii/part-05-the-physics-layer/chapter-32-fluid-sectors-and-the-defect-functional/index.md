@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-the-physics-layer"
 chapter_number: 32
 chapter_slug: "chapter-32-fluid-sectors-and-the-defect-functional"

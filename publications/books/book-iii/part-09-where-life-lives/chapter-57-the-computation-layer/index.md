@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 9
+part_display: "Part IX"
 part_slug: "part-09-where-life-lives"
 chapter_number: 57
 chapter_slug: "chapter-57-the-computation-layer"

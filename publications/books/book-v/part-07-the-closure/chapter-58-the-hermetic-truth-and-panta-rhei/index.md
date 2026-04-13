@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-the-closure"
 chapter_number: 58
 chapter_slug: "chapter-58-the-hermetic-truth-and-panta-rhei"

@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 16
+part_display: "Part XVI"
 part_slug: "part-16-the-presheaf-essence"
 chapter_number: 69
 chapter_slug: "chapter-69-holomorphy-as-naturality"

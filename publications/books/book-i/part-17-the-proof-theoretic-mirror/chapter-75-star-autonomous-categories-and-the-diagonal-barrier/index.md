@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 17
+part_display: "Part XVII"
 part_slug: "part-17-the-proof-theoretic-mirror"
 chapter_number: 75
 chapter_slug: "chapter-75-star-autonomous-categories-and-the-diagonal-barrier"

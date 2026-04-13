@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-interior-points-and-the-tau"
 chapter_number: 8
 chapter_slug: "chapter-08-abcd-structure-replaces-quaternions"

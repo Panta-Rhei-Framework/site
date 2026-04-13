@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-the-arithmetic-mirror"
 chapter_number: 48
 chapter_slug: "chapter-48-the-tower-closes"

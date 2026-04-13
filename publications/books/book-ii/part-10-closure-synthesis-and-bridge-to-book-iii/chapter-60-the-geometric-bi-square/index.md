@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 10
+part_display: "Part X"
 part_slug: "part-10-closure-synthesis-and-bridge-to-book-iii"
 chapter_number: 60
 chapter_slug: "chapter-60-the-geometric-bi-square"

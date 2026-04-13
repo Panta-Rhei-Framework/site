@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-self-enrichment-principle"
 chapter_number: 5
 chapter_slug: "chapter-05-the-layer-template"

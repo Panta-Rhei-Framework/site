@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-self-enrichment-principle"
 chapter_number: 8
 chapter_slug: "chapter-08-the-canonical-ladder-theorem"

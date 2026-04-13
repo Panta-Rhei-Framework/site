@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-the-physics-layer"
 chapter_number: 36
 chapter_slug: "chapter-36-the-tau"

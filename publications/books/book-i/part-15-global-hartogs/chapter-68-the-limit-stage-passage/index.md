@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 15
+part_display: "Part XV"
 part_slug: "part-15-global-hartogs"
 chapter_number: 68
 chapter_slug: "chapter-68-the-limit-stage-passage"

@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 0
+part_display: "Prologue"
 part_slug: "part-00-two-arcs-from-one-neutron"
 chapter_number: 2
 chapter_slug: "chapter-02-importing-book-iii-the-e-template"

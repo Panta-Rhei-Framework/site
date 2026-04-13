@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-categorical-ethics-the-kantian-bridge"
 chapter_number: 78
 chapter_slug: "chapter-78-the-no-conflict-theorem"

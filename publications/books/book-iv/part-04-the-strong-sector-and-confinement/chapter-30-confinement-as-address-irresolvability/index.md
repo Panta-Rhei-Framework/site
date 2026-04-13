@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-the-strong-sector-and-confinement"
 chapter_number: 30
 chapter_slug: "chapter-30-confinement-as-address-irresolvability"

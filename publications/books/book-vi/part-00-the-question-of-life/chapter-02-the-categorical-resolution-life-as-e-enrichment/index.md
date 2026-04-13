@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 0
+part_display: "Prologue"
 part_slug: "part-00-the-question-of-life"
 chapter_number: 2
 chapter_slug: "chapter-02-the-categorical-resolution-life-as-e-enrichment"

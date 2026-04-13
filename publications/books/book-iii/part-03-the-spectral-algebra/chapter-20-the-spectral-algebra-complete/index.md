@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-the-spectral-algebra"
 chapter_number: 20
 chapter_slug: "chapter-20-the-spectral-algebra-complete"

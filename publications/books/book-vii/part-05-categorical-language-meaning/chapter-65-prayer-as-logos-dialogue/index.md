@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-categorical-language-meaning"
 chapter_number: 65
 chapter_slug: "chapter-65-prayer-as-logos-dialogue"

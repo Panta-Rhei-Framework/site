@@ -6,14 +6,14 @@ lane: publications
 publication_type: book
 book_id: "II"
 book_slug: "book-ii"
-subtitle: "Boundary Determines Interior"
+subtitle: "Finite Readouts of Infinity"
 part_count: 12
 chapter_count: 68
 page_count: 504
-summary_short: "Boundary Determines Interior"
+summary_short: "Finite Readouts of Infinity"
 summary_cards:
 - title: Subtitle
-  body: "Boundary Determines Interior"
+  body: "Finite Readouts of Infinity"
 - title: Structure
   body: "12 parts, 68 chapters, 504 pages"
 - title: Layer
@@ -42,7 +42,7 @@ right_rail:
     updated: April 2026
 ---
 
-## Boundary Determines Interior
+## Finite Readouts of Infinity
 
 Book II is part of the **Mathematics** layer (E₀) of the Panta Rhei framework.
 

@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-categorical-logic-inference"
 chapter_number: 67
 chapter_slug: "chapter-67-bayesian-inference-at-meso-macro-scale"

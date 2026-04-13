@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 0
+part_display: "Prologue"
 part_slug: "part-00-where-does-physics-live"
 chapter_number: 2
 chapter_slug: "chapter-02-the-eight-guarantees"

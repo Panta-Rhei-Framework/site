@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-consumer-animals-and-the-mixed-sector"
 chapter_number: 42
 chapter_slug: "chapter-42-identity-through-transformation-ship-of-theseus-as-selfdesc"

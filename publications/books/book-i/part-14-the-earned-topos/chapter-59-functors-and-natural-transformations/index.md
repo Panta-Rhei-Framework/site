@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 14
+part_display: "Part XIV"
 part_slug: "part-14-the-earned-topos"
 chapter_number: 59
 chapter_slug: "chapter-59-functors-and-natural-transformations"

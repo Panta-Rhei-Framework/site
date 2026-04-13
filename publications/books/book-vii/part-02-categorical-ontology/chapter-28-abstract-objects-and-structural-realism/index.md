@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-categorical-ontology"
 chapter_number: 28
 chapter_slug: "chapter-28-abstract-objects-and-structural-realism"

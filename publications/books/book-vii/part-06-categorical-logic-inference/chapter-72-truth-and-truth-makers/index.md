@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-categorical-logic-inference"
 chapter_number: 72
 chapter_slug: "chapter-72-truth-and-truth-makers"

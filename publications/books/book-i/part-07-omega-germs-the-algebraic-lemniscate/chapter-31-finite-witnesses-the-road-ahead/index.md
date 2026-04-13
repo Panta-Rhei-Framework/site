@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-omega-germs-the-algebraic-lemniscate"
 chapter_number: 31
 chapter_slug: "chapter-31-finite-witnesses-the-road-ahead"

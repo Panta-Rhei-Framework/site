@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 12
+part_display: "Part XII"
 part_slug: "part-12-holomorphic-transformers"
 chapter_number: 49
 chapter_slug: "chapter-49-the-identity-theorem"

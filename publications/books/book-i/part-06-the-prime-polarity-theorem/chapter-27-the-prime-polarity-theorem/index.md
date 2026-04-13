@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-the-prime-polarity-theorem"
 chapter_number: 27
 chapter_slug: "chapter-27-the-prime-polarity-theorem"

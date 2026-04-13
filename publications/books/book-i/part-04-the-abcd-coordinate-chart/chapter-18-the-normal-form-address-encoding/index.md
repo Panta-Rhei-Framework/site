@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-the-abcd-coordinate-chart"
 chapter_number: 18
 chapter_slug: "chapter-18-the-normal-form-address-encoding"

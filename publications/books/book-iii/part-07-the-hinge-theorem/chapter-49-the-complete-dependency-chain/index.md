@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-the-hinge-theorem"
 chapter_number: 49
 chapter_slug: "chapter-49-the-complete-dependency-chain"

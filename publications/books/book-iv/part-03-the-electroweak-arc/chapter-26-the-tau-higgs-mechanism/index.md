@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-the-electroweak-arc"
 chapter_number: 26
 chapter_slug: "chapter-26-the-tau-higgs-mechanism"

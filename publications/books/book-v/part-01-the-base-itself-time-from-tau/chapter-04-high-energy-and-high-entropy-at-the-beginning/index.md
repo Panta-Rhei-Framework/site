@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-base-itself-time-from-tau"
 chapter_number: 4
 chapter_slug: "chapter-04-high-energy-and-high-entropy-at-the-beginning"

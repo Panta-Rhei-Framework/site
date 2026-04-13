@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-local-domains-cylinders-as-prefix-predicates"
 chapter_number: 10
 chapter_slug: "chapter-10-the-ultrametric-and-first-disagreement-depth"

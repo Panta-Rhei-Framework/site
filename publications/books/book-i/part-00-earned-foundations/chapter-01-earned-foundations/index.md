@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 0
+part_display: "Prologue"
 part_slug: "part-00-earned-foundations"
 chapter_number: 1
 chapter_slug: "chapter-01-earned-foundations"

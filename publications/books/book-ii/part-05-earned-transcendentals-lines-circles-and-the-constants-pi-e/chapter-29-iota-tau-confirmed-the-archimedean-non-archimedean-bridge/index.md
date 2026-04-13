@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e"
 chapter_number: 29
 chapter_slug: "chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge"

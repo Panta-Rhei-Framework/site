@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 0
+part_display: "Prologue"
 part_slug: "part-00-the-hermetic-principle"
 chapter_number: 1
 chapter_slug: "chapter-01-the-hermetic-principle-fiber-complete-base-awaits"

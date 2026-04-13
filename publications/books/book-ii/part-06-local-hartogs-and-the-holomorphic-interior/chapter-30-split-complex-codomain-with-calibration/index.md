@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-local-hartogs-and-the-holomorphic-interior"
 chapter_number: 30
 chapter_slug: "chapter-30-split-complex-codomain-with-calibration"

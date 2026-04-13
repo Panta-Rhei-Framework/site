@@ -6,14 +6,14 @@ lane: publications
 publication_type: book
 book_id: "V"
 book_slug: "book-v"
-subtitle: "Gravity and Cosmos Without Dark Matter"
+subtitle: "The Biography of the Universe"
 part_count: 8
 chapter_count: 58
 page_count: 542
-summary_short: "Gravity and Cosmos Without Dark Matter"
+summary_short: "The Biography of the Universe"
 summary_cards:
 - title: Subtitle
-  body: "Gravity and Cosmos Without Dark Matter"
+  body: "The Biography of the Universe"
 - title: Structure
   body: "8 parts, 58 chapters, 542 pages"
 - title: Layer
@@ -42,7 +42,7 @@ right_rail:
     updated: April 2026
 ---
 
-## Gravity and Cosmos Without Dark Matter
+## The Biography of the Universe
 
 Book V is part of the **Physics (Macrocosm)** layer (E₁) of the Panta Rhei framework.
 

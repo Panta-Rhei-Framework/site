@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-regularity-and-mutual-determination"
 chapter_number: 42
 chapter_slug: "chapter-42-code-decode-and-diagonal-protection"
