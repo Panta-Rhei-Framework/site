@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-07-the-hinge-theorem/chapte
 prev_chapter_title: "Chapter 51: Export Contracts to Books IV–VII"
 next_chapter_url: "/publications/books/book-iii/part-08-where-physics-lives/chapter-53-the-eight-guarantees-earned/"
 next_chapter_title: "Chapter 53: The Eight Guarantees Earned"
-summary_short: "The Hinge Theorem (Theorem [thm:hinge-theorem], Ch. 61) proved that the seven-book architecture is derived. The export contracts (Remark…"
+summary_short: "The Hinge Theorem (the relevant theorem, Ch. 61) proved that the seven-book architecture is derived. The export contracts (Remark…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-07-the-hinge-theorem/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The Hinge Theorem (Theorem [thm:hinge-theorem], Ch. 61) proved that the seven-book architecture is derived. The export contracts (Remark [rem:export-contracts-books-iv-vii], Ch. 62) formalised what each downstream book receives. This chapter closes the arc with three inventories and one picture. Section 1 presents the *No Knobs Ledger*: a table of all inter-sector and self-couplings, each a rational function of $ι_τ = 2/(π + e)$ at a specific primorial depth, and the No Knobs Theorem (Theorem [thm:no-knobs-theorem]) that all couplings are canonically determined. Section 2 places all eight Millennium Problems on a single enriched bi-square—the *Master Schema*. Section 3 compiles the complete Results Inventory of $τ$-effective theorems proved in Parts 0–VII. Section 4 condenses the entire series into one commutative diagram whose vertical axis is enrichment and whose horizontal axis is sector.
+The Hinge Theorem (the relevant theorem, Ch. 61) proved that the seven-book architecture is derived. The export contracts (Remark [rem:export-contracts-books-iv-vii], Ch. 62) formalised what each downstream book receives. This chapter closes the arc with three inventories and one picture. Section 1 presents the *No Knobs Ledger*: a table of all inter-sector and self-couplings, each a rational function of $ι_τ = 2/(π + e)$ at a specific primorial depth, and the No Knobs Theorem  that all couplings are canonically determined. Section 2 places all eight Millennium Problems on a single enriched bi-square—the *Master Schema*. Section 3 compiles the complete Results Inventory of $τ$-effective theorems proved in Parts 0–VII. Section 4 condenses the entire series into one commutative diagram whose vertical axis is enrichment and whose horizontal axis is sector.

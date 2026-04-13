@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapte
 prev_chapter_title: "Chapter 69: The Bridge Axiom"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-71-the-honest-claim/"
 next_chapter_title: "Chapter 71: The Honest Claim"
-summary_short: "Chapter 67 introduced the Bridge Axiom (Definition [def:bridge-axiom]) and demonstrated the three-layer template on the Riemann Hypothesis (Theorem…"
+summary_short: "Chapter 67 introduced the Bridge Axiom  and demonstrated the three-layer template on the Riemann Hypothesis (Theorem…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-10-where-proof-lives/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Chapter 67 introduced the Bridge Axiom (Definition [def:bridge-axiom]) and demonstrated the three-layer template on the Riemann Hypothesis (Theorem [thm:rh-bridge-three-layer], III.T45). This chapter applies the template to all eight Millennium-scale problems, producing the central ledger of the Orthodox Bridge arc. Section 1 presents the ledger table (Theorem [thm:bridge-ledger], III.T46): six conjectural bridges, one bridge break, one established result. Section 2 diagnoses each conjectural bridge. Section 3 treats the P vs. NP bridge break (Remark [rem:p-vs-np-bridge-break], III.R32). Section 4 records the Poincar\'e established case (Remark [rem:poincare-established], III.R33). Section 5 draws the unified pattern.
+Chapter 67 introduced the Bridge Axiom  and demonstrated the three-layer template on the Riemann Hypothesis (the relevant theorem, III.T45). This chapter applies the template to all eight Millennium-scale problems, producing the central ledger of the Orthodox Bridge arc. Section 1 presents the ledger table (the relevant theorem, III.T46): six conjectural bridges, one bridge break, one established result. Section 2 diagnoses each conjectural bridge. Section 3 treats the P vs. NP bridge break (Remark [rem:p-vs-np-bridge-break], III.R32). Section 4 records the Poincar\'e established case (Remark [rem:poincare-established], III.R33). Section 5 draws the unified pattern.

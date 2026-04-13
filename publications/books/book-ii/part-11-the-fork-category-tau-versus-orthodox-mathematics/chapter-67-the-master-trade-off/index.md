@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-ver
 prev_chapter_title: "Chapter 66: What τ Earns"
 next_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-68-why-the-fork-is-worth-it/"
 next_chapter_title: "Chapter 68: Why the Fork Is Worth It"
-summary_short: "Chapters [ch:question-of-foundations]–[ch:earns] developed the five modes systematically: the master switch (Ch. [ch:master-switch-new]), what survives (Ch.…"
+summary_short: "Chapters – developed the five modes systematically: the master switch (Ch. ), what survives (Ch.…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
@@ -38,13 +38,13 @@ right_rail:
 ---
 
 
-Chapters [ch:question-of-foundations]–[ch:earns]
+Chapters –
 developed the five modes systematically:
-the master switch (Ch. [ch:master-switch-new]),
-what survives (Ch. [ch:survives-the-fork]),
-what is refused (Ch. [ch:refuses]),
-what is gained (Ch. [ch:gains]),
-and what is earned (Ch. [ch:earns]).
+the master switch (Ch. ),
+what survives (Ch. ),
+what is refused (Ch. ),
+what is gained (Ch. ),
+and what is earned (Ch. ).
 
 This chapter assembles the master trade-off:
 the **combined gain–cost ledger**

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bri
 prev_chapter_title: "Chapter 57: BSD Bridge: Proto-Rationality in Split-Complex Regime"
 next_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-59-results-inventory-and-open-questions/"
 next_chapter_title: "Chapter 59: Results Inventory and Open Questions"
-summary_short: "Book II has earned the holomorphic interior of $τ^3$. The Central Theorem (Theorem [thm:central-theorem], II.T40) established the isomorphism $O(τ^3) ≅…"
+summary_short: "Book II has earned the holomorphic interior of $τ^3$. The Central Theorem (the relevant theorem, II.T40) established the isomorphism $O(τ^3) ≅…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
@@ -40,24 +40,24 @@ right_rail:
 
 Book II has earned the holomorphic interior of $τ^3$.
 The Central Theorem
-(Theorem [thm:central-theorem], II.T40)
+(the relevant theorem, II.T40)
 established the isomorphism
 $O(τ^3) ≅ A_{spec}(\Lemniscate)$,
 and the Categoricity Theorem
-(Theorem [thm:categoricity], II.T42)
+(the relevant theorem, II.T42)
 proved that $τ^3$ is unique up to canonical isomorphism.
 The enrichment ladder reached $E_1$:
 $τ$ enriches over itself
-(Definition [def:e0-e1-transition], II.D58),
+(the relevant definition, II.D58),
 with Hom objects living inside $τ$'s own object class.
 The $τ$-manifold structure
-(Chapter [ch:tau-manifold])
+
 provides smooth geometry,
 and the differential-geometric agenda
-(Chapter [ch:diff-geo-agenda], II.R22)
+(the relevant chapter, II.R22)
 laid out what Book III must build.
 This chapter specifies **what Book II delivers to Book III**
-(Definition [def:e1-export], II.D67)
+(the relevant definition, II.D67)
 and **previews Book III's programme**
 (Remark [rem:spectral-forces-preview], II.R19):
 eight spectral forces operating in $H_τ$,

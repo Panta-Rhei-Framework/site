@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-16-the-presheaf-essence/chapt
 prev_chapter_title: "Chapter 69: Holomorphy as Naturality"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-71-the-meta-logical-toolkit/"
 next_chapter_title: "Chapter 71: The Meta-Logical Toolkit"
-summary_short: "Chapter [ch:holomorphy-naturality] proved that $τ$-holomorphic functions are natural transformations of the primorial presheaf. This chapter displays the…"
+summary_short: "the relevant chapter proved that $τ$-holomorphic functions are natural transformations of the primorial presheaf. This chapter displays the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-16-the-presheaf-essence/"
@@ -38,13 +38,13 @@ right_rail:
 ---
 
 
-Chapter [ch:holomorphy-naturality] proved that
+the relevant chapter proved that
 $τ$-holomorphic functions are natural transformations
 of the primorial presheaf.
 This chapter displays the complete structural characterization
 as a single pasted commuting diagram —
 the **holomorphy bi-square**
-(Theorem [thm:bi-square], I.T41).
+(the relevant theorem, I.T41).
 The left square encodes tower coherence;
 the right square encodes spectral naturality.
 A family of functions is $τ$-holomorphic

@@ -57,13 +57,13 @@ $C$ (the $η$-channel: tetration height),
 $D$ (the $α$-channel: remainder).
 
 The chapter sequence:
-Chapter [ch:primes-divisibility] earns internal primes and divisibility
+the relevant chapter earns internal primes and divisibility
 from the index arithmetic of Part III.
-Chapter [ch:tower-atoms] defines tower atoms
+the relevant chapter defines tower atoms
 and the greedy peel-off algorithm.
-Chapter [ch:nf-encoding] constructs the normal form encoding.
-Chapter [ch:abcd-chart] defines the ABCD chart itself.
-Chapter [ch:dimension-fibration] derives the dimension
+the relevant chapter constructs the normal form encoding.
+the relevant chapter defines the ABCD chart itself.
+the relevant chapter derives the dimension
 $\dim_τ = 4$ and previews the fibration structure.
 
 Part V will prove that this chart is *unique*

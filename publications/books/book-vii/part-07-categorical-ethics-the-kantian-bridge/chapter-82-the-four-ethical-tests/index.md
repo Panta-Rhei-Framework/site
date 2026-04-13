@@ -40,7 +40,7 @@ right_rail:
 
 Can admissibility be checked by a finite procedure? This chapter derives
 four structural tests from the categorical framework developed in
-Chapters [ch:dignity-foundation]–[ch:monodromy-moral]. Test 1
+Chapters –. Test 1
 (Universalizability) asks whether the maxim can be universalized without
 contradiction. Test 2 (Respect) asks whether the action treats persons
 as ends. Test 3 (Coherence) asks whether the action is coherent with

@@ -41,7 +41,7 @@ right_rail:
 The second archetype candidate. The mitigation archetype formalizes the
 structural pattern of covering, protecting, and moderating that follows
 every boundary-crossing. Where the boundary archetype
-(Chapter [ch:boundary-archetype]) marks the threshold, the mitigation
+ marks the threshold, the mitigation
 archetype provides repair. Genesis 3:21 supplies the structural prototype:
 garments of skin after the opening of eyes—not punishment but protection.
 The $j$-closure verification shows that the mitigation pattern is stable

@@ -10,7 +10,7 @@ part_number: 2
 part_display: "Part II"
 part_slug: "part-02-local-domains-cylinders-as-prefix-predicates"
 chapter_count: 4
-summary_short: "Part II constructs the local domains and proves the central inversion: {\\bfseries holomorphic implies continuous}. Four chapters build the topological…"
+summary_short: "Part II constructs the local domains and proves the central inversion: **holomorphic implies continuous**. Four chapters build the topological…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -31,29 +31,29 @@ right_rail:
 
 
 Part II constructs the local domains and proves the central inversion:
-{\bfseries holomorphic implies continuous}.
+**holomorphic implies continuous**.
 Four chapters build the topological foundation from ABCD coordinates.
 
-Chapter [ch:cylinder-domains] defines cylinders as clopen sets determined by
+the relevant chapter defines cylinders as clopen sets determined by
 ABCD prefix constraints.
 The D-ray yields ultrametric stage-$k$ cylinders (depth-based);
 A/B/C-rays yield angular peel-token constraints.
 Cylinders form the canonical clopen basis.
 
-Chapter [ch:ultrametric-depth] introduces the first disagreement depth
+the relevant chapter introduces the first disagreement depth
 $δ(t, t')$ between NF expansions and the ultrametric distance
 $d(t,t') = 2^{-δ(t,t')}$.
 Cylinders are precisely ultrametric balls; the ultrametric triangle
 inequality holds in its strong form.
 
-Chapter [ch:hol-implies-cont] proves
-{\bfseries Theorem II.T06}: Every $ω$-germ transformer is continuous.
+the relevant chapter proves
+**Theorem II.T06**: Every $ω$-germ transformer is continuous.
 This is the core inversion: classical complex analysis moves
 continuous $⇒$ holomorphic;
 $τ$ moves holomorphic $⇒$ continuous,
 forced by probe naturality and cylinder compatibility.
 
-Chapter [ch:split-complex-not-yet] notes that Parts I–II work purely topologically:
+the relevant chapter notes that Parts I–II work purely topologically:
 split-complex structure $H_τ$ is not yet needed.
 The topological skeleton stands alone; split-complex becomes load-bearing
 in Part VI (Local Hartogs).

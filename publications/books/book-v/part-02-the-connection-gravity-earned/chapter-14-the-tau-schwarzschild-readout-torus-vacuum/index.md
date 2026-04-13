@@ -65,30 +65,30 @@ the fibered product $τ^1 ×_f T^2$,
 when the $D$-sector saturates,
 settles into a stabilized torus
 with shape ratio $r/R = ι_τ$
-(\S[sec:ch16-torus-vacuum]).
+(\S).
 The gravitational constant $G_τ$
 emerges as the coherence conversion invariant
 relating the radius index
 to the mass index
-(\S[sec:ch16-g-tau]).
+(\S).
 The orthodox Schwarzschild metric
 is recovered as a sphere-proxy corollary:
 the chart readout $Φ_p$
 projects the torus-shaped boundary character
 onto a spherically symmetric metric
-(\S[sec:ch16-orthodox-shadow]).
+(\S).
 No singularity forms
-(\S[sec:ch16-no-singularity]),
+(\S),
 and the stabilized torus relaxes
 through two channels:
 geometric (shape normalization)
 and topological (handle settling)
-(\S[sec:ch16-two-channel]).
+(\S).
 The chapter concludes
 with the full Schwarzschild relation
 $R_S = 2 G_τ M$
 and the No-Shrink forward reference
-(\S[sec:ch16-schwarzschild-relation]).
+(\S).
 
 **Lean reference.**
 The structures and theorems

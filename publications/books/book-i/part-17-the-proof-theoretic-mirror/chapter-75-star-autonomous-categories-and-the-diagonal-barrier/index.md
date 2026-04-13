@@ -52,9 +52,9 @@ In $*$-autonomous categories —
 the categorical semantics of linear logic —
 no general diagonal exists.
 $K5$'s diagonal discipline
-(Definition [def:diagonal-discipline], I.D03),
+(the relevant definition, I.D03),
 which maps onto the $!$-free fragment of linear logic
-(Theorem [thm:diagonal-linear], I.T37),
+(the relevant theorem, I.T37),
 structurally excludes the diagonal morphisms
 that Lawvere's theorem requires.
 $τ$'s proof theory lives

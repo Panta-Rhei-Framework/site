@@ -10,7 +10,7 @@ part_number: 10
 part_display: "Part X"
 part_slug: "part-10-lemniscate-characters"
 chapter_count: 3
-summary_short: "Part VII earned the algebraic lemniscate $𝕃$ as the bipolar spectral algebra $H_τ = A_τ^{(B)} × A_τ^{(C)}$ (Chapter [ch:bipolar-algebra]), and Part IX…"
+summary_short: "Part VII earned the algebraic lemniscate $𝕃$ as the bipolar spectral algebra $H_τ = A_τ^{(B)} × A_τ^{(C)}$ , and Part IX…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -33,11 +33,11 @@ right_rail:
 Part VII earned the algebraic lemniscate $𝕃$
 as the bipolar spectral algebra
 $H_τ = A_τ^{(B)} × A_τ^{(C)}$
-(Chapter [ch:bipolar-algebra]),
+,
 and Part IX constructed the full profinite boundary ring
 $\hatℤ_τ$ with its split-complex extension
 $\hatℤ_τ[j]$
-(Chapters [ch:profinite-boundary-ring]–[ch:split-complex-scalars]).
+(Chapters –).
 
 This Part develops the *character theory* of $𝕃$:
 ring homomorphisms from the bipolar spectral algebra

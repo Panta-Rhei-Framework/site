@@ -43,12 +43,12 @@ the first hinge theorem of the Panta Rhei series.
 The proof assembles the three critical ingredients:
 tetration injectivity
 (Proposition [prop:tetration-injective],
-Chapter [ch:exp-tetration]),
+the relevant chapter),
 no-tie determinism
-(Lemma [lem:no-tie], Chapter [ch:no-tie]),
+(Lemma [lem:no-tie], the relevant chapter),
 and strict remainder descent
 (Lemma [lem:remainder-descent],
-Chapter [ch:remainder-descent]).
+the relevant chapter).
 The theorem states that every
 $X ∈ τ-Idx$ with $X ≥ 2$
 has a **unique** ABCD encoding.

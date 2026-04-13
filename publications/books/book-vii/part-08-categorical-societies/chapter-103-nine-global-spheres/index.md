@@ -45,4 +45,4 @@ city, nation, civilization, and species — and analyses the
 coordination failures that arise when problems at one scale must be
 solved at another. The Nine Global Spheres Classification (VII.D79)
 provides a structural taxonomy grounded in the social ontology of
-Chapter [ch:objects-dignity-worlds].
+the relevant chapter.

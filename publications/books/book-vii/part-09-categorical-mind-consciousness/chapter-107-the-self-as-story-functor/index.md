@@ -43,7 +43,7 @@ What is the self? Not a substance, not a bare point of view, but a
 episodes to the internal topos of the mind. This chapter formalises
 narrative identity in categorical language. The Story Functor
 (VII.D83) maps experiences and their narrative relations into the
-mind-topos introduced in Chapter [ch:minds-topoi], and the
+mind-topos introduced in the relevant chapter, and the
 Narrative Identity Theorem (VII.T40) shows that personal identity over
 time is maintained precisely when the functor admits coherent natural
 revisions. The account dissolves classical puzzles — amnesia,

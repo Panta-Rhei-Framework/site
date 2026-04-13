@@ -56,7 +56,7 @@ as the “open sets,”
 and the sheaf axioms are verified
 from $ω$-germ stagewise compatibility
 and the ultrametric topology.
-**Theorem [thm:sheaf-axioms**] (II.T32):
+**the relevant theorem (II.T32):
 the presheaf $O_τ$
 satisfies both sheaf axioms,
 with locality following from ultrametric separation

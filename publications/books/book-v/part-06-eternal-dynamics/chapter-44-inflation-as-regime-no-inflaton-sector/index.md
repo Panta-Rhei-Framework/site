@@ -60,14 +60,14 @@ The inflationary epoch is a **regime**
 of the same $τ$-Einstein equation —
 not a new phase driven by a new field.
 The **Regime Invariance Theorem**
-(Theorem [thm:ch47-regime-invariance])
+
 states that the $τ$-Einstein equation
 is invariant across all regimes.
 The **Inflaton No-Go Corollary**
 (Corollary [cor:ch47-inflaton-no-go])
 follows immediately from the
 Sector Exhaustion Theorem
-(Part V, Chapter [ch:book5-ch44-sector-exhaustion]):
+(Part V, the relevant chapter):
 no sixth sector exists,
 so no inflaton sector exists.
 The flatness and horizon problems

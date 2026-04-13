@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-progr
 prev_chapter_title: "Chapter 21: Pasch and the Parallel Postulate"
 next_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/"
 next_chapter_title: "Chapter 23: Orthodox vs.\ τ Denotation Bridge"
-summary_short: "Chapters [ch:betweenness]–[ch:pasch-parallel] earned Euclidean geometry as a theorem: betweenness, congruence, Pasch, and the parallel postulate all follow…"
+summary_short: "Chapters – earned Euclidean geometry as a theorem: betweenness, congruence, Pasch, and the parallel postulate all follow…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapters [ch:betweenness]–[ch:pasch-parallel]
+Chapters –
 earned Euclidean geometry as a theorem:
 betweenness, congruence, Pasch, and the parallel postulate
 all follow from the ultrametric structure of $τ^3$.
@@ -62,5 +62,5 @@ Euclidean geometry reappears as the **static limit**:
 when wave-type coupling vanishes,
 the wave equation degenerates to Laplace,
 and the causal structure disappears.
-The forced $1 + 3$ split of Chapter [ch:dimension-four]
+The forced $1 + 3$ split of the relevant chapter
 is the algebraic seed of spacetime.

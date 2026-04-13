@@ -31,7 +31,7 @@ Supporting the Panta Rhei Research Program does not mean endorsing the framework
 
 ## 1. Read the Books
 
-The most direct way to support the research is to **engage with the canonical publications**:
+The most direct way to support the research is to **buy and read the canonical books**:
 
 {% for book in site.data.publications.books %}
 - **Book {{ book.roman }}**: [{{ book.title }}]({{ book.url | relative_url }}) — *{{ book.subtitle }}*

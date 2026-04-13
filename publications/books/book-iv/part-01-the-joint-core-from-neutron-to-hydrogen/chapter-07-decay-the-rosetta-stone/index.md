@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 6: The Neutron: Minimal Stable Defect Bundle"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-08-the-proton-and-the-electron-decay-products/"
 next_chapter_title: "Chapter 8: The Proton and the Electron: -Decay Products"
-summary_short: "The neutron exists (Chapter [ch:iv-neutron-minimal]). But physics is not only about being—it is about becoming. In this chapter we encounter the first quantum…"
+summary_short: "The neutron exists . But physics is not only about being—it is about becoming. In this chapter we encounter the first quantum…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The neutron exists (Chapter [ch:iv-neutron-minimal]). But physics is
+The neutron exists . But physics is
 not only about being—it is about becoming. In this chapter we encounter
 the first quantum **process**: $β^-$ decay. A single neutron
 transforms into proton, electron, and antineutrino—and in doing so

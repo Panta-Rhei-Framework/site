@@ -52,15 +52,15 @@ and a clear statement of what observational result
 would constitute a falsification.
 
 Seven domains are covered:
-the CMB power spectrum (\S[sec:ch56-cmb]),
+the CMB power spectrum (\S),
 baryon acoustic oscillations
-and Type Ia supernovae (\S[sec:ch56-bao-sn]),
+and Type Ia supernovae (\S),
 growth of structure
-and weak lensing (\S[sec:ch56-fsigma8]),
-Big Bang nucleosynthesis (\S[sec:ch56-bbn]),
-gravitational wave standard sirens (\S[sec:ch56-gw]),
-galaxy rotation curves (\S[sec:ch56-rotation]),
-and the falsification standard itself (\S[sec:ch56-standard]).
+and weak lensing (\S),
+Big Bang nucleosynthesis (\S),
+gravitational wave standard sirens (\S),
+galaxy rotation curves (\S),
+and the falsification standard itself (\S).
 This chapter is deliberately conservative:
 where a prediction is quantitatively uncertain,
 it says so;

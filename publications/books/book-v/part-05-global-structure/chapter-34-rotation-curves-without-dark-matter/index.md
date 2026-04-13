@@ -64,23 +64,23 @@ $κ(D;1) = 1 - ι_τ$
 produces a capacity gradient
 $∇ C_D$
 at galactic scales
-(Chapter [ch:book5-ch34-classical-illusion],
+(the relevant chapter,
 Proposition [prop:ch34-capacity-gradient-dark-matter])
 that enhances the gravitational acceleration
 beyond the Newtonian prediction
-(\S[sec:ch37-capacity-mechanism]).
+(\S).
 The enhancement is sufficient
 to flatten the rotation curve
 without introducing any new matter
-(\S[sec:ch37-flat-curves]).
+(\S).
 
 The chapter proceeds to
 galaxy-by-galaxy predictions
-(\S[sec:ch37-galaxy-predictions]),
+(\S),
 a comparison with MOND
-(\S[sec:ch37-mond-comparison]),
+(\S),
 the structural impossibility
 of dark matter halos
-(\S[sec:ch37-no-dark-halos]),
+(\S),
 and a catalogue of falsifiable signatures
-(\S[sec:ch37-falsifiable]).
+(\S).

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definiti
 prev_chapter_title: "Chapter 5: The 4+1 Sector Decomposition at E₃"
 next_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-07-the-canonical-ladder-theorem/"
 next_chapter_title: "Chapter 7: The Canonical Ladder Theorem"
-summary_short: "The abstract 4+1 sector decomposition of Chapter [ch:sector-decomposition] is now equipped with its concrete operational machinery. Each sector receives a…"
+summary_short: "The abstract 4+1 sector decomposition of the relevant chapter is now equipped with its concrete operational machinery. Each sector receives a…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The abstract 4+1 sector decomposition of
-Chapter [ch:sector-decomposition] is now equipped with its
+the relevant chapter is now equipped with its
 concrete operational machinery. Each sector receives a
 *witness bundle* (the typed evidence that certifies membership),
 a *vacuum* (the canonical minimiser of the sector's defect

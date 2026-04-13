@@ -52,10 +52,10 @@ with an NF-address, split-complex values,
 and a tower-coherent structure
 inherited from the primorial tower.
 
-**Definition [def:self-enrichment**] (II.D53):
+**the relevant definition (II.D53):
 $τ$ is self-enriched—its
 composition and identity maps are $τ$-morphisms.
-**Definition [def:hom-object**] (II.D54):
+**the relevant definition (II.D54):
 the Hom object $[A,B]$ is the space of $τ$-holomorphic maps,
 equipped with tower-coherent staging
 $[A,B]_k = \Hom(A_k, B_k)$.
@@ -68,13 +68,13 @@ and the Idempotent Decomposition Lemma (II.L07)
 applies at the level of morphism spaces.
 
 The argument rests on the Pre-Yoneda embedding
-(Definition [def:pre-yoneda], II.D50,
-Chapter [ch:pre-yoneda]):
+(the relevant definition, II.D50,
+the relevant chapter):
 holomorphic functions are objects,
 so function *spaces* are objects,
 so Hom spaces are objects.
 Self-enrichment is the structural precondition
-for the Yoneda embedding (Chapter [ch:yoneda-theorem]),
+for the Yoneda embedding ,
 and it initiates the transition from $E₀⁽0⁾$
 (Book I + Book II Parts I–VII)
 to $E₀⁽1⁾$

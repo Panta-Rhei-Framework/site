@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic
 prev_chapter_title: "Chapter 8: The Iterator-of-Iterator Ladder and Tetration Saturation"
 next_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/chapter-10-tau-idx-the-alpha-orbit-as-internal-natural-numbers/"
 next_chapter_title: "Chapter 10: τ-Idx — The Alpha-Orbit as Internal Natural Numbers"
-summary_short: "The Ontic Closure Theorem (Chapter [ch:ontic-closure]) established that $\\Obj(τ)$ is ontically sealed: five pairwise disjoint sets, countable, with unique…"
+summary_short: "The Ontic Closure Theorem  established that $\\Obj(τ)$ is ontically sealed: five pairwise disjoint sets, countable, with unique…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The Ontic Closure Theorem
-(Chapter [ch:ontic-closure])
+
 established that $\Obj(τ)$ is ontically sealed:
 five pairwise disjoint sets, countable, with unique representation.
 We now prove two culminating theorems that complete Part II.

@@ -44,11 +44,11 @@ but what it *is* as a categorical object.
 
 The answer: a $τ$-holomorphic function is a
 **natural endomorphism of the primorial presheaf**
-(Chapter [ch:holomorphy-naturality])
+
 that respects the sector decomposition,
 captured in a single pasted commuting diagram —
 the **holomorphy bi-square**
-(Chapter [ch:holomorphy-bi-square]).
+.
 The left square encodes tower coherence;
 the right square encodes spectral naturality.
 The Global Hartogs Theorem becomes the limit principle:

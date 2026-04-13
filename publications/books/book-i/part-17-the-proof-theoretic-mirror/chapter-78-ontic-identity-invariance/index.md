@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror
 prev_chapter_title: "Chapter 77: Diagonal Resonance and Identity Slippage"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/"
 next_chapter_title: "Chapter 79: The Identity-Faithful Reception Criterion"
-summary_short: "The previous chapter diagnosed the disease: *diagonal resonance* (Definition [def:diagonal-resonance], I.D89) — a three-component splice of free contraction,…"
+summary_short: "The previous chapter diagnosed the disease: *diagonal resonance* (the relevant definition, I.D89) — a three-component splice of free contraction,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/"
@@ -40,16 +40,16 @@ right_rail:
 
 The previous chapter diagnosed the disease:
 *diagonal resonance*
-(Definition [def:diagonal-resonance], I.D89)
+(the relevant definition, I.D89)
 — a three-component splice of free contraction,
 equality-as-congruence, and primitive self-products —
 produces *identity slippage*
-(Definition [def:identity-slippage], I.D90),
+(the relevant definition, I.D90),
 a partial decoherence of ontic self-identity
 that infects every orthodox foundation
 admitting the full diagonal.
 *Shadow identities*
-(Definition [def:shadow-identity], I.D91)
+(the relevant definition, I.D91)
 proliferate wherever the three components
 reinforce one another.
 This chapter proves the resolution.
@@ -60,7 +60,7 @@ NF-Confluence blocks equality ambiguity (E),
 and the star-autonomous structure blocks
 primitive self-products (P).
 The **Ontic Identity Invariance Theorem**
-(Theorem [thm:ontic-identity-invariance], I.T46)
+(the relevant theorem, I.T46)
 establishes that every admissible construction
 preserves ontic identity:
 normalization to canonical form is unique
@@ -72,7 +72,7 @@ The **No Identity Decoherence** corollary
 states that diagonal resonance
 cannot occur at the ontic level in $τ$.
 The **Conditional Theorem**
-(Theorem [thm:slippage-breaks-omega], I.T47)
+(the relevant theorem, I.T47)
 draws the consequence:
 any foundation that permits identity slippage
 at the substrate level

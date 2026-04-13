@@ -34,7 +34,7 @@ The Central Theorem is proved and the holomorphic machinery is in hand.
 But $τ^3 = τ^1 ×_f T^2$ does not look like Cartesian three-dimensional space.
 Where, then, does physics live?
 
-The na\"ive answer—take three solenoidal coordinates $(π, γ, η)$ and call them spatial dimensions—fails:
+The naïve answer—take three solenoidal coordinates $(π, γ, η)$ and call them spatial dimensions—fails:
 solenoidal coordinates are one-sided rays, not two-sided axes, and they carry no canonical linear structure.
 The correct answer is subtler. The fibre $T^2$ at each worldline point is a *surface*—the two-dimensional boundary of a solid torus.
 The Hartogs extension projects boundary data from this surface into the three-dimensional *bulk* interior,

@@ -36,7 +36,7 @@ proved the two hinge theorems
 and earned the algebraic lemniscate $𝕃$.
 Along the way, Part IV introduced
 internal divisibility and primes on $τ$-Idx
-(Chapter [ch:primes-divisibility]).
+.
 
 This Part takes a single, decisive step:
 it interprets divisibility as *membership*.

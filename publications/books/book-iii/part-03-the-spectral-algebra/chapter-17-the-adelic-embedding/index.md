@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 16: Hensel Lifting and Local Fields"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/"
 next_chapter_title: "Chapter 18: The Internal Bipolar Classifier"
-summary_short: "The CRT Decomposition Theorem (Chapter [ch:crt-decomposition-theorem]) splits the primorial residue ring $ℤ / Prim(k) ℤ$ into a product of prime-power rings,…"
+summary_short: "The CRT Decomposition Theorem  splits the primorial residue ring $ℤ / Prim(k) ℤ$ into a product of prime-power rings,…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -39,12 +39,12 @@ right_rail:
 
 
 The CRT Decomposition Theorem
-(Chapter [ch:crt-decomposition-theorem])
+
 splits the primorial residue ring
 $ℤ / Prim(k) ℤ$
 into a product of prime-power rings,
 and Hensel lifting
-(Chapter [ch:hensel-lifting])
+
 extends these finite pieces
 to the $τ$-native local fields $ℤ_p^τ$.
 A single structural question remains:

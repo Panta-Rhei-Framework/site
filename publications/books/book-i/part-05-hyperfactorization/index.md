@@ -52,34 +52,34 @@ satisfying the greedy-peel constraints.
 
 The proof rests on three critical lemmas:
 enumerate
- \item **Tetration injectivity**
- (already proved in Part III, Chapter [ch:exp-tetration]):
+ - **Tetration injectivity**
+ (already proved in Part III, the relevant chapter):
  $a ↑↑ c_1
  = a ↑↑ c_2$
  implies $c_1 = c_2$.
- \item **No-tie determinism**
- (Chapter [ch:no-tie]):
+ - **No-tie determinism**
+ :
  the greedy peel's choice is deterministic
  at every step.
- \item **Strict remainder descent**
- (Chapter [ch:remainder-descent]):
+ - **Strict remainder descent**
+ :
  the remainder $D$ is strictly less than $X$.
 enumerate
 
 The chapter sequence:
-Chapter [ch:uniqueness-question] frames the uniqueness problem
+the relevant chapter frames the uniqueness problem
 and recalls the proof strategy.
-Chapter [ch:no-tie] proves the no-tie lemma.
-Chapter [ch:remainder-descent] proves the descent lemma.
-Chapter [ch:hyperfactorization] assembles the full proof.
-Chapter [ch:consequences] derives the constructive consequences,
+the relevant chapter proves the no-tie lemma.
+the relevant chapter proves the descent lemma.
+the relevant chapter assembles the full proof.
+the relevant chapter derives the constructive consequences,
 including earned Cantor pairing and sequence encoding
 without importing set theory.
 
 With the Hyperfactorization Theorem in hand,
 the ABCD chart becomes a faithful coordinate system:
 shadow equality collapses to ontic identity
-(Chapter [ch:three-equality]),
+,
 and every object of Category $τ$
 has exactly one canonical address.
 

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chap
 prev_chapter_title: "Chapter 40: Characters on the Algebraic Lemniscate"
 next_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chapter-42-the-crossing-point-and-bipolar-fourier-analysis/"
 next_chapter_title: "Chapter 42: The Crossing Point and Bipolar Fourier Analysis"
-summary_short: "Chapter [ch:lemniscate-characters] introduced the lemniscate characters $χ_+$ and $χ_-$ (Definition [def:lemniscate-characters], I.D37) as ring homomorphisms…"
+summary_short: "the relevant chapter introduced the lemniscate characters $χ_+$ and $χ_-$ (the relevant definition, I.D37) as ring homomorphisms…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-10-lemniscate-characters/"
@@ -38,9 +38,9 @@ right_rail:
 ---
 
 
-Chapter [ch:lemniscate-characters] introduced the lemniscate characters
+the relevant chapter introduced the lemniscate characters
 $χ_+$ and $χ_-$
-(Definition [def:lemniscate-characters], I.D37)
+(the relevant definition, I.D37)
 as ring homomorphisms from the algebraic lemniscate $𝕃$
 into the split-complex scalars $\hatℤ_τ[j]$.
 This chapter proves the **spectral decomposition theorem**:

@@ -57,7 +57,7 @@ The temporal boundary $α_o$
 at $n → ∞$ —
 is not a catastrophe but a **saturation**:
 the absorbing pattern $P_∞$
-(Theorem [thm:ch53-absorbing])
+
 reaches its final state,
 and the defect entropy $S_{def}$
 converges to zero

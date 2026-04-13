@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape
 prev_chapter_title: "Chapter 13: Compact, Hausdorff, Totally Disconnected"
 next_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape/chapter-15-dimension-four-from-refinement-rays/"
 next_chapter_title: "Chapter 15: Dimension Four from Refinement Rays"
-summary_short: "Chapter [ch:stone-space] proved that $τ^3$ is compact, Hausdorff, and totally disconnected — a Stone space (II.D14). But could a different choice of base sets…"
+summary_short: "the relevant chapter proved that $τ^3$ is compact, Hausdorff, and totally disconnected — a Stone space (II.D14). But could a different choice of base sets…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-03-topology-and-global-shape/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:stone-space] proved that $τ^3$
+the relevant chapter proved that $τ^3$
 is compact, Hausdorff, and totally disconnected —
 a Stone space (II.D14).
 But could a different choice of base sets

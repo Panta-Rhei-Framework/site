@@ -44,7 +44,7 @@ in this book has been forged
 for the result proved in this chapter.
 
 The **Global Hartogs Extension Theorem**
-(Theorem [thm:global-hartogs], I.T31):
+(the relevant theorem, I.T31):
 if $f$ is $τ$-holomorphic on $𝕃 \setminus K$
 with $K$ primordially thin,
 then $f$ extends uniquely to all of $𝕃$.
@@ -58,10 +58,10 @@ through the characters of Part X;
 CRT reconstruction fills the gaps
 (Lemma [lem:crt-extension], I.L08);
 tower coherence
-(Definition [def:tower-coherence], I.D46)
+(the relevant definition, I.D46)
 guarantees global consistency;
 the $τ$-Identity Theorem
-(Theorem [thm:tau-identity], I.T21)
+(the relevant theorem, I.T21)
 delivers uniqueness.
 Omega-tail data on $𝕃$
 determines all finite-stage values —

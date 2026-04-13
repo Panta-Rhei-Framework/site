@@ -10,7 +10,7 @@ part_number: 9
 part_display: "Part IX"
 part_slug: "part-09-the-central-theorem-and-categoricity"
 chapter_count: 6
-summary_short: "Part IX is the climax: the {\\bfseries Central Theorem} and categoricity. Six chapters assemble boundary-to-interior correspondence and prove uniqueness.…"
+summary_short: "Part IX is the climax: the **Central Theorem** and categoricity. Six chapters assemble boundary-to-interior correspondence and prove uniqueness.…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -30,43 +30,43 @@ right_rail:
 ---
 
 
-Part IX is the climax: the {\bfseries Central Theorem} and categoricity.
+Part IX is the climax: the **Central Theorem** and categoricity.
 Six chapters assemble boundary-to-interior correspondence and prove uniqueness.
 
-Chapter [ch:boundary-characters-idempotent] restates the boundary ring
+the relevant chapter restates the boundary ring
 $\widehatℤ_τ$ spectral characters (I.D19, I.D22–I.D23)
 as idempotent-supported objects.
 Each character decomposes: $χ = e_+ · χ_+ + e_- · χ_-$ (B-channel vs. C-channel).
 
-Chapter [ch:hartogs-extension-h-tau] proves
-{\bfseries Theorem II.T37}: each idempotent-supported character extends
+the relevant chapter proves
+**Theorem II.T37**: each idempotent-supported character extends
 uniquely to the interior.
 The extension lives in split-complex codomain $H_τ$ (not classical $ℂ$).
 Uniqueness follows from bipolar channel independence.
 
-Chapter [ch:extensions-omega-germs] proves
-{\bfseries Theorem II.T38}: Hartogs extensions {\itshape are} $ω$-germ transformers.
+the relevant chapter proves
+**Theorem II.T38**: Hartogs extensions *are* $ω$-germ transformers.
 Stagewise naturality carries forward the boundary character structure.
 This is the boundary $→$ interior bridge.
 
-Chapter [ch:yoneda-applied] applies the Yoneda theorem (II.T36)
+the relevant chapter applies the Yoneda theorem (II.T36)
 to $τ^3$ and proves
-{\bfseries Theorem II.T39}: $ω$-germs {\itshape are} holomorphic functions.
+**Theorem II.T39**: $ω$-germs *are* holomorphic functions.
 Probe naturality $=$ $ω$-germ naturality $=$ holomorphy.
 The loop closes: characters $→$ extensions $→$ $ω$-germs $→$ holomorphic functions.
 
-Chapter [ch:central-theorem] assembles the main result.
-{\bfseries Theorem II.T40}: The {\bfseries Central Theorem}
+the relevant chapter assembles the main result.
+**Theorem II.T40**: The **Central Theorem**
 $$O(τ^3) ≅ A_{spec}(𝕃).$$
 Boundary determines interior; interior encodes boundary.
 Exact holographic principle.
 Spectral coefficients are numerically calibrated via $ι_τ$ (Part V).
 
-Chapter [ch:liouville-categoricity] resolves the classical Liouville
+the relevant chapter resolves the classical Liouville
 theorem in the $τ$ setting.
-{\bfseries Theorem II.T41}: Wave-type PDEs (not elliptic) permit non-constant
+**Theorem II.T41**: Wave-type PDEs (not elliptic) permit non-constant
 bounded solutions, dodging Liouville.
-{\bfseries Theorem II.T42}: {\bfseries Categoricity}.
+**Theorem II.T42**: **Categoricity**.
 The six axioms (I.K0–I.K5) force $τ^3$ uniquely.
 Moduli space = $\{pt\}$ (no parameters).
 $τ^3$ is discovered, not constructed.

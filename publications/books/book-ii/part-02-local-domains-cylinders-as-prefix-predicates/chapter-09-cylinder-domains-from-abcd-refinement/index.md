@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-t
 prev_chapter_title: "Chapter 8: ABCD Structure Replaces Quaternions"
 next_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-10-the-ultrametric-and-first-disagreement-depth/"
 next_chapter_title: "Chapter 10: The Ultrametric and First Disagreement Depth"
-summary_short: "The point set $τ^3$ was defined in Chapter [ch:tau-admissible-points] as the collection of $τ$-admissible ABCD quadruples, completed by the profinite inverse…"
+summary_short: "The point set $τ^3$ was defined in the relevant chapter as the collection of $τ$-admissible ABCD quadruples, completed by the profinite inverse…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The point set $τ^3$ was defined in
-Chapter [ch:tau-admissible-points]
+the relevant chapter
 as the collection of $τ$-admissible ABCD quadruples,
 completed by the profinite inverse limit.
 This chapter builds *local domains* on $τ^3$

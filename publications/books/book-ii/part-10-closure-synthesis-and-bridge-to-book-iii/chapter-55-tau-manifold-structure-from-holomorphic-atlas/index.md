@@ -60,14 +60,14 @@ a space $(M, A_τ)$
 whose charts land in the model space $τ^3$
 and whose transition functions are $τ$-analytic.
 Three definitions are established.
-**Definition [def:tau-manifold**] (II.D63):
+**the relevant definition (II.D63):
 the $τ$-manifold as a topological space
 equipped with a $τ$-analytic atlas.
-**Definition [def:tau-analytic-atlas**] (II.D64):
+**the relevant definition (II.D64):
 $τ$-analytic maps—maps that are $τ$-holomorphic,
 fibration-preserving,
 and spectrally supported at each stage.
-**Definition [def:tau-exterior-derivative**] (II.D65):
+**the relevant definition (II.D65):
 the $τ$-exterior derivative
 $d_τ \colon Ω^k_τ → Ω^{k+1}_τ$,
 nilpotent ($d_τ^2 = 0$),

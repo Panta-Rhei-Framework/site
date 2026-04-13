@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-
 prev_chapter_title: "Chapter 34: The Master Constant ι_τ = 2/(π + e)"
 next_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-36-the-constructive-reals-ordered-field-and-completeness/"
 next_chapter_title: "Chapter 36: The Constructive Reals: Ordered Field and Completeness"
-summary_short: "The boundary ring $\\widehatℤ_τ$ (Chapter [ch:profinite-boundary-ring]) is the *profinite completion* of $τ$-Idx — a compact, non-Archimedean structure encoding…"
+summary_short: "The boundary ring $\\widehatℤ_τ$  is the *profinite completion* of $τ$-Idx — a compact, non-Archimedean structure encoding…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-08-the-spectral-ring/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The boundary ring $\widehatℤ_τ$
-(Chapter [ch:profinite-boundary-ring])
+
 is the *profinite completion* of $τ$-Idx —
 a compact, non-Archimedean structure
 encoding all residue classes simultaneously.

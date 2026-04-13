@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-a
 prev_chapter_title: "Chapter 9: Cylinder Domains from ABCD Refinement"
 next_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-11-holomorphic-implies-continuous-the-inverted-dependency/"
 next_chapter_title: "Chapter 11: Holomorphic Implies Continuous (The Inverted Dependency)"
-summary_short: "Chapter [ch:cylinder-domains] defined cylinders as clopen sets determined by ABCD prefix constraints and proved that they form a basis for the canonical…"
+summary_short: "the relevant chapter defined cylinders as clopen sets determined by ABCD prefix constraints and proved that they form a basis for the canonical…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:cylinder-domains] defined cylinders
+the relevant chapter defined cylinders
 as clopen sets determined by ABCD prefix constraints
 and proved that they form a basis
 for the canonical topology on $τ^3$.

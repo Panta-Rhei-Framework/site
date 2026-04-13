@@ -47,24 +47,24 @@ The ontic identity invariance theorem (I.T46)
 showed that $τ$ is immune:
 distinct normal forms correspond to distinct objects,
 and no partial decoherence is possible (I.C03).
-Theorem [thm:slippage-breaks-omega] (I.T47)
+the relevant theorem (I.T47)
 demonstrated that identity slippage
 prevents the stabilization of a unique $ω$.
 
 This chapter draws the implications.
 We define
 **identity-faithful reception**
-(Definition [def:identity-faithful-reception], I.D92):
+(the relevant definition, I.D92):
 the requirement that a VM system
 preserve the ontic distinctness of $τ$-objects.
 We define
 **structural instability**
-(Definition [def:structural-instability], I.D93):
+(the relevant definition, I.D93):
 the condition in which diagonal resonance
 prevents a foundation from hosting
 an identity-faithful interpretation.
 The **Structural Instability Theorem**
-(Theorem [thm:structural-instability], I.T48)
+(the relevant theorem, I.T48)
 shows that diagonal-resonant foundations
 cannot host identity-faithful reception of $τ$.
 

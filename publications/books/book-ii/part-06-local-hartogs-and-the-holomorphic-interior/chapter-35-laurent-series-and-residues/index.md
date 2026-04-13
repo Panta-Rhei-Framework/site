@@ -69,12 +69,12 @@ $$
 where $φ_n^{(±)}$ are the sector basis functions.
 **Residues** emerge as
 spectral coefficients at distinguished frequencies
-(Definition [def:residue], II.D43)—not
+(the relevant definition, II.D43)—not
 from contour integrals but from
 the spectral projection operators
 of Part V's calibration.
 The **Residue Theorem**
-(Theorem [thm:residue-theorem], II.T30)
+(the relevant theorem, II.T30)
 shows that the sum of residues
 equals the **spectral trace**,
 a quantity computable from the

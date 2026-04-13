@@ -42,7 +42,7 @@ Chapter 54 defined the $E_2$ computational agent abstractly:
 a code $C$ paired with a decoder $D$ such that
 $D(C)$ produces another code $C'$,
 and the cycle stays within $E_2$
-(Definition [def:operational-closure]).
+.
 This chapter builds the *concrete machine model*
 that instantiates the abstract specification.
 The $τ$-Tower Machine (TTM) is a register machine

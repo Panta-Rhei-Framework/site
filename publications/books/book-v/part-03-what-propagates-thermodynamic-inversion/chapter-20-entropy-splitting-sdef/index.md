@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-03-what-propagates-thermodyna
 prev_chapter_title: "Chapter 19: The 180^ Thermodynamic Inversion"
 next_chapter_url: "/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-21-global-defect-exhaustion/"
 next_chapter_title: "Chapter 21: Global Defect Exhaustion"
-summary_short: "Chapter [ch:book5-ch21-thermodynamic-inversion] announced the $180^∘$ thermodynamic inversion and stated the Categorical Second Law: defect entropy decreases…"
+summary_short: "the relevant chapter announced the $180^∘$ thermodynamic inversion and stated the Categorical Second Law: defect entropy decreases…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:book5-ch21-thermodynamic-inversion]
+the relevant chapter
 announced the $180^∘$ thermodynamic inversion
 and stated the Categorical Second Law:
 defect entropy decreases along the $α$-orbit.

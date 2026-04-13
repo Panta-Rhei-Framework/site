@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/c
 prev_chapter_title: "Chapter 47: Tower Coherence and τ"
 next_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/chapter-49-the-identity-theorem/"
 next_chapter_title: "Chapter 49: The Identity Theorem"
-summary_short: "Chapter [ch:d-holomorphy] showed that classical D-holomorphy — split-complex holomorphy with $j^2 = +1$ — is crippled by zero divisors: the idempotents $e_+ =…"
+summary_short: "the relevant chapter showed that classical D-holomorphy — split-complex holomorphy with $j^2 = +1$ — is crippled by zero divisors: the idempotents $e_+ =…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-12-holomorphic-transformers/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-Chapter [ch:d-holomorphy] showed that classical D-holomorphy
+the relevant chapter showed that classical D-holomorphy
 — split-complex holomorphy with $j^2 = +1$ —
 is crippled by zero divisors:
 the idempotents $e_+ = (1+j)/2$ and $e_- = (1-j)/2$
 satisfy $e_+ · e_- = 0$,
 allowing pathological functions that vanish on one sector
 and behave arbitrarily on the other.
-Chapter [ch:tau-holomorphic] defined the
+the relevant chapter defined the
 $τ$-holomorphic functions (HolFun, I.D47)
 as D-holomorphic functions that additionally satisfy
 tower coherence.

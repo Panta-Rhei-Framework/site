@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 26: The τ-Higgs Mechanism"
 next_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-28-electroweak-synthesis/"
 next_chapter_title: "Chapter 28: Electroweak Synthesis"
-summary_short: "Chapter [ch:iv-ew-mixing] derived the Weinberg angle from inter-sector coupling: $\\sin^2θ_W = ι_τ(1-ι_τ) ≈ 0.2249$. This chapter develops the arithmetic of…"
+summary_short: "the relevant chapter derived the Weinberg angle from inter-sector coupling: $\\sin^2θ_W = ι_τ(1-ι_τ) ≈ 0.2249$. This chapter develops the arithmetic of…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-03-the-electroweak-arc/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:iv-ew-mixing] derived the Weinberg angle from
+the relevant chapter derived the Weinberg angle from
 inter-sector coupling: $\sin^2θ_W = ι_τ(1-ι_τ)
 ≈ 0.2249$. This chapter develops the arithmetic of that
 number. We compute its continued-fraction (CF) expansion, the CF

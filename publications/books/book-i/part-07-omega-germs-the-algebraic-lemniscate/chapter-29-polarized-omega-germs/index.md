@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-
 prev_chapter_title: "Chapter 28: Omega-Germs on the Ontic Elements"
 next_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-30-the-bipolar-spectral-algebra/"
 next_chapter_title: "Chapter 30: The Bipolar Spectral Algebra"
-summary_short: "Chapter [ch:omega-germs] constructed omega-tails as the pre-topological boundary data of $τ$. This chapter introduces the decisive structural feature:…"
+summary_short: "the relevant chapter constructed omega-tails as the pre-topological boundary data of $τ$. This chapter introduces the decisive structural feature:…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:omega-germs] constructed omega-tails
+the relevant chapter constructed omega-tails
 as the pre-topological boundary data of $τ$.
 This chapter introduces the decisive structural feature:
 **polarization**.

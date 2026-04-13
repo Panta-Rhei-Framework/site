@@ -41,7 +41,7 @@ right_rail:
 Part V closes at the boundary where language meets the commitment
 register. Prayer is the linguistic act that addresses itself not to
 another human speaker but to the terminal coherence point $ω$
-introduced in Chapter [ch:platonism-omega]. This chapter
+introduced in the relevant chapter. This chapter
 formalizes prayer as $ω$-addressed communication: a morphism in
 the commitment register directed toward the terminal object of the
 categorical framework. The formalization is not a theological

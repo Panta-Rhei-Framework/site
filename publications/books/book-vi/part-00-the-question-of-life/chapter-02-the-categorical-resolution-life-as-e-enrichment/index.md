@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-00-the-question-of-life/chap
 prev_chapter_title: "Chapter 1: What Is Life? Why Every Classical Answer Fails"
 next_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-03-the-parity-bridge-weak-sector-polarity-seeds-life/"
 next_chapter_title: "Chapter 3: The Parity Bridge: Weak-Sector Polarity Seeds Life"
-summary_short: "Chapter [ch:what-is-life] ended with a promise: a categorical definition from which the seven hallmarks follow as theorems. This chapter delivers the roadmap.…"
+summary_short: "the relevant chapter ended with a promise: a categorical definition from which the seven hallmarks follow as theorems. This chapter delivers the roadmap.…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-00-the-question-of-life/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Chapter [ch:what-is-life] ended with a promise: a categorical definition from which the seven hallmarks follow as theorems. This chapter delivers the roadmap. Book V's complete $E_1$ physics—black hole topology, defect thermodynamics, TOV thresholds—is received as raw material. The Canonical Ladder Theorem (Book III, Part I) proves exactly four self-enrichment layers $E_0 → E_1 → E_2 → E_3$; Book VI occupies the $E_2$ layer. Two earned predicates—Distinction (self/non-self boundary) and SelfDesc (internal decoding loop)—are previewed; their conjunction defines Life. The $4+1$ sector template, organized by the five generators of the $τ$-framework, previews the book's biological structure. A fundamental structural inversion is announced: formal machinery first (Part I), biology organized by sector (Parts II–VI), cosmic life (Part VII), bridge to $E_3$ (Part VIII).
+the relevant chapter ended with a promise: a categorical definition from which the seven hallmarks follow as theorems. This chapter delivers the roadmap. Book V's complete $E_1$ physics—black hole topology, defect thermodynamics, TOV thresholds—is received as raw material. The Canonical Ladder Theorem (Book III, Part I) proves exactly four self-enrichment layers $E_0 → E_1 → E_2 → E_3$; Book VI occupies the $E_2$ layer. Two earned predicates—Distinction (self/non-self boundary) and SelfDesc (internal decoding loop)—are previewed; their conjunction defines Life. The $4+1$ sector template, organized by the five generators of the $τ$-framework, previews the book's biological structure. A fundamental structural inversion is announced: formal machinery first (Part I), biology organized by sector (Parts II–VI), cosmic life (Part VII), bridge to $E_3$ (Part VIII).

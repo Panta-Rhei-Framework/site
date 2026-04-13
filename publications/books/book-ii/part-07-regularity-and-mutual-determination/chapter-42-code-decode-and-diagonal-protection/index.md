@@ -54,7 +54,7 @@ satisfying tower coherence.
 A **decode** (II.D52)
 takes a code and reconstructs the unique holomorphic function
 whose boundary spectral coefficients match.
-**Theorem [thm:code-decode-bijection**] (II.T35):
+**the relevant theorem (II.T35):
 Code and Decode are mutually inverse—a
 holomorphic function **is** its bipolar boundary stream,
 and every coherent bipolar stream **is**

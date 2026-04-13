@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-ca
 prev_chapter_title: "Chapter 50: Membership from Divisibility"
 next_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-52-the-bounded-powerset/"
 next_chapter_title: "Chapter 52: The Bounded Powerset"
-summary_short: "Having defined membership as divisibility (Chapter [ch:membership-divisibility]), we now earn the standard set-theoretic operations — union, intersection, and…"
+summary_short: "Having defined membership as divisibility , we now earn the standard set-theoretic operations — union, intersection, and…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 Having defined membership as divisibility
-(Chapter [ch:membership-divisibility]),
+,
 we now earn the standard set-theoretic operations —
 union, intersection, and set difference.
 The key insight:

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-ver
 prev_chapter_title: "Chapter 61: The Question of Foundations"
 next_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-63-what-survives-the-fork/"
 next_chapter_title: "Chapter 63: What Survives the Fork"
-summary_short: "Chapter [ch:question-of-foundations] introduced five comparison modes and six axes. Before we apply them mode by mode, this chapter identifies the **structural…"
+summary_short: "the relevant chapter introduced five comparison modes and six axes. Before we apply them mode by mode, this chapter identifies the **structural…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:question-of-foundations] introduced
+the relevant chapter introduced
 five comparison modes and six axes.
 Before we apply them mode by mode,
 this chapter identifies the **structural source**

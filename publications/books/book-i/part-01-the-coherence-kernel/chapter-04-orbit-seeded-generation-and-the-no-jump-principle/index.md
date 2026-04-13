@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapt
 prev_chapter_title: "Chapter 3: The Iterator ρ and the Omega Beacon"
 next_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapter-05-the-object-closure-axiom-and-the-static-kernel-tau/"
 next_chapter_title: "Chapter 5: The Object Closure Axiom and the Static Kernel τ₀"
-summary_short: "Chapters [ch:five-generators] and [ch:rho-omega] established the signature $Σ_τ = (α, π, γ, η, ω, ρ, <)$ and three kernel axioms: $K1$ (strict order on the…"
+summary_short: "Chapters  and  established the signature $Σ_τ = (α, π, γ, η, ω, ρ, <)$ and three kernel axioms: $K1$ (strict order on the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-01-the-coherence-kernel/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapters [ch:five-generators] and [ch:rho-omega]
+Chapters  and 
 established the signature
 $Σ_τ = (α, π, γ, η, ω, ρ, <)$
 and three kernel axioms:

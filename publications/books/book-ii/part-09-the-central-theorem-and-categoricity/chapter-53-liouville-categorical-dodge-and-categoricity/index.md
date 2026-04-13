@@ -50,7 +50,7 @@ is constant, which would force
 $O(τ^3) = ℂ$
 and render the Central Theorem trivial.
 This chapter resolves the objection.
-**Theorem [thm:liouville-dodge**] (II.T41):
+**the relevant theorem (II.T41):
 $τ^3$ **dodges** Liouville
 because the split-complex unit $\jj^2 = +1$
 gives a **wave-type** PDE operator
@@ -63,7 +63,7 @@ Wave equations admit non-constant bounded solutions
 and the maximum principle fails.
 With the Liouville obstruction removed,
 we proceed to the chapter's second result:
-**Theorem [thm:categoricity**] (II.T42):
+**the relevant theorem (II.T42):
 the six axioms K0–K5 (equivalently I.K0–I.K5)
 force $τ^3$ **uniquely** up to canonical isomorphism.
 The **moduli space** (II.D61)

@@ -59,7 +59,7 @@ This chapter presents the $τ$-resolution.
 In Category $τ$,
 the Hubble parameter is not a single number.
 It is an **orbit-depth-dependent readout**
-(Definition [def:ch45-depth-readout]):
+:
 the progression rate on the base $τ^1$
 varies with the depth $n$
 of the refinement tower,
@@ -86,12 +86,12 @@ The parameters are readout projections
 of the $τ$-structure.
 The chapter closes with the final word
 on the dark sector:
-after Chapter [ch:book5-ch26-dark-energy-artifact]
+after the relevant chapter
 (dark energy artifact),
-Chapter [ch:book5-ch37-rotation-curves]
+the relevant chapter
 (rotation curves),
-Chapter [ch:book5-ch43-bullet-cluster-lss]
+the relevant chapter
 (Bullet Cluster),
-and Chapter [ch:book5-ch44-sector-exhaustion]
+and the relevant chapter
 (Sector Exhaustion),
 the case is closed.

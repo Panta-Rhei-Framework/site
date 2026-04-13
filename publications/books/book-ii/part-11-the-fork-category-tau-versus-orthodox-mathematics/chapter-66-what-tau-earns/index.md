@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-ver
 prev_chapter_title: "Chapter 65: What τ Gains"
 next_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-67-the-master-trade-off/"
 next_chapter_title: "Chapter 67: The Master Trade-Off"
-summary_short: "Chapter [ch:gains] catalogued Mode D: theorems that orthodox mathematics cannot prove. This chapter addresses Mode E: results where **the content is the same…"
+summary_short: "the relevant chapter catalogued Mode D: theorems that orthodox mathematics cannot prove. This chapter addresses Mode E: results where **the content is the same…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:gains] catalogued Mode D:
+the relevant chapter catalogued Mode D:
 theorems that orthodox mathematics cannot prove.
 This chapter addresses Mode E:
 results where **the content is the same

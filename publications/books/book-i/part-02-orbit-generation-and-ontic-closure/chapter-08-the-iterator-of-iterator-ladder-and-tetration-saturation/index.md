@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic
 prev_chapter_title: "Chapter 7: The ONE Generative Act — ρ Unfolds the Universe"
 next_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/"
 next_chapter_title: "Chapter 9: Rigidity — (τ) = \\"
-summary_short: "The diagonal discipline (Chapter [ch:diagonal-discipline]) explained *why* four orbit channels exist: each successive diagonal rewiring consumes one solenoidal…"
+summary_short: "The diagonal discipline  explained *why* four orbit channels exist: each successive diagonal rewiring consumes one solenoidal…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The diagonal discipline
-(Chapter [ch:diagonal-discipline])
+
 explained *why* four orbit channels exist:
 each successive diagonal rewiring consumes one solenoidal channel.
 This chapter makes the mechanism precise
@@ -61,4 +61,4 @@ without committing to concrete arithmetic formulas.
 The concrete realizations
 — index addition, multiplication, exponentiation, tetration —
 are earned in Part III
-(Chapters [ch:swap-add-mul]–[ch:exp-tetration]).
+(Chapters –).

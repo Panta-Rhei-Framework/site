@@ -53,33 +53,33 @@ that the seven axioms never generated.
 This Part names the gap, maps the landscape,
 locates the structural barrier,
 and charts a precise research frontier.
-Chapter [ch:meta-logical-toolkit]
+the relevant chapter
 takes inventory of what CIC provides
 and what Book I actually used.
-Chapter [ch:diagonal-linear-correspondence]
+the relevant chapter
 identifies the diagonal–linear correspondence:
 the structural signature that $τ$ shares
 with linear logic.
-Chapter [ch:linearity-audit]
+the relevant chapter
 audits TauLib module by module
 for linearity compliance.
-Chapter [ch:self-hosting-landscape]
+the relevant chapter
 surveys every serious attempt at proof-theoretic
 self-hosting — from Willard to Girard —
 and classifies them by self-hosting degree.
-Chapter [ch:star-autonomous-barrier]
+the relevant chapter
 names the categorical barrier:
 Lawvere's fixed-point theorem in cartesian closed categories,
 and proves that $K5$'s diagonal discipline
 places $τ$ on the star-autonomous side
 where the barrier does not apply.
-Chapter [ch:enrichment-frontier]
+the relevant chapter
 maps the enrichment ladder $E_0 → E_1 → E_2 → E_3$
 onto the existing literature,
 grades each transition by precedent,
 and declares the scale of Book III's program.
 
-Chapter [ch:diagonal-resonance]
+the relevant chapter
 diagnoses the deepest structural consequence
 of the diagonal discipline:
 orthodox foundations suffer from *diagonal resonance*,
@@ -87,22 +87,22 @@ a three-component splice (contraction $+$ equality-as-congruence
 $+$ ontic self-products) that produces
 *identity slippage* —
 a partial decoherence of ontic self-identity.
-Chapter [ch:ontic-identity-invariance]
+the relevant chapter
 proves the resolution:
 $τ$'s coherence kernel preserves ontic identity
 at every construction step,
 with identity coherence at 100%.
 The **Ontic Identity Invariance Theorem**
-(Theorem [thm:ontic-identity-invariance], I.T46)
+(the relevant theorem, I.T46)
 and the **Conditional Theorem**
-(Theorem [thm:slippage-breaks-omega], I.T47)
+(the relevant theorem, I.T47)
 show that identity slippage breaks unique $ω$.
-Chapter [ch:reception-criterion]
+the relevant chapter
 draws the implications:
 the **Identity-Faithful Reception Criterion**
-(Definition [def:identity-faithful-reception], I.D92)
+(the relevant definition, I.D92)
 and the **Structural Instability Theorem**
-(Theorem [thm:structural-instability], I.T48)
+(the relevant theorem, I.T48)
 characterize when a foundation can host $τ$ ontically.
 
 We do not claim to close the gap here.

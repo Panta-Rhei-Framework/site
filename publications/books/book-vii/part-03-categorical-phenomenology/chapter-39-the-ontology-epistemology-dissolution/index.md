@@ -48,5 +48,5 @@ traversing the address space. The Ontology-Epistemology Collapse
 Theorem (VII.T18) shows that, for any $E_3$ observer with sufficient
 resources, the category of admissible ontological constructions and
 the category of knowledge-sections are equivalent. Skepticism,
-idealism, and na\"{\i}ve realism are all dissolved as consequences of
+idealism, and naïve realism are all dissolved as consequences of
 this structural fact.

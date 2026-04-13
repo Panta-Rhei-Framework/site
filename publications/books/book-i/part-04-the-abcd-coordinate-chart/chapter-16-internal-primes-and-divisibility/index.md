@@ -47,7 +47,7 @@ they emerge from the divisibility relation
 on the internal natural numbers
 $τ$-Idx $= O_α$,
 using only the multiplication earned in
-Chapter [ch:swap-add-mul].
+the relevant chapter.
 This chapter defines divisibility,
 identifies the internal primes,
 and proves the Fundamental Theorem of Arithmetic

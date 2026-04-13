@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-prin
 prev_chapter_title: "Chapter 7: Saturation at E₃"
 next_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-09-boundary-functoriality-langlands/"
 next_chapter_title: "Chapter 9: Boundary Functoriality (Langlands₀"
-summary_short: "The preceding four chapters developed the three pillars of the enrichment ladder: *non-emptiness* (Chapter [ch:non-emptiness-and-strictness]), *strictness*…"
+summary_short: "The preceding four chapters developed the three pillars of the enrichment ladder: *non-emptiness* , *strictness*…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/"
@@ -40,9 +40,9 @@ right_rail:
 
 The preceding four chapters developed the three pillars
 of the enrichment ladder:
-*non-emptiness* (Chapter [ch:non-emptiness-and-strictness]),
-*strictness* (Chapter [ch:non-emptiness-and-strictness]),
-and *saturation* (Chapter [ch:saturation-e3]).
+*non-emptiness* ,
+*strictness* ,
+and *saturation* .
 Each pillar was proved independently.
 This chapter assembles them into the single theorem
 that organises the entire series:

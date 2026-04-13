@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/
 prev_chapter_title: "Chapter 18: The Normal-Form Address Encoding"
 next_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-20-dimension-and-the-fibration-preview/"
 next_chapter_title: "Chapter 20: Dimension and the Fibration Preview"
-summary_short: "Chapters [ch:primes-divisibility]–[ch:nf-encoding] built the ingredients: internal primes, tower atoms, the greedy peel, and the NF address encoding. This…"
+summary_short: "Chapters – built the ingredients: internal primes, tower atoms, the greedy peel, and the NF address encoding. This…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapters [ch:primes-divisibility]–[ch:nf-encoding]
+Chapters –
 built the ingredients:
 internal primes, tower atoms, the greedy peel,
 and the NF address encoding.

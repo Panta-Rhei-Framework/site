@@ -45,7 +45,7 @@ Classical treatments *assume* these as undefined primitives.
 In Category $τ$, we **derive** the betweenness relation
 from the ultrametric distance
 $d(x,y) = 2^{-δ(x,y)}$
-(Chapter [ch:ultrametric-depth]),
+,
 then **prove** that it satisfies
 Tarski's betweenness axioms T1–T3.
 Betweenness is a *theorem*,

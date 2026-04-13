@@ -48,6 +48,6 @@ that Book III inherits —
 the Millennium Problems in the split-complex regime,
 the $E_1 → E_2$ enrichment transition,
 and the differential-geometric programme
-previewed in Chapter [ch:diff-geo-agenda].
+previewed in the relevant chapter.
 The inventory is organized by type and grouped by Part
 for rapid reference.

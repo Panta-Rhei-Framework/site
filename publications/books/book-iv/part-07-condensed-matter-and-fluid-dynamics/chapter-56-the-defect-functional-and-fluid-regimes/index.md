@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 55: The Molecular τ³ View"
 next_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-57-the-universal-defect-tuple/"
 next_chapter_title: "Chapter 57: The Universal Defect Tuple"
-summary_short: "In Chapter [ch:iv-defect-bundles] the defect tuple $\\mathbfd = (d_1, d_2, d_3, d_4)$ classified individual particles: electrons, protons, neutrons, each…"
+summary_short: "In the relevant chapter the defect tuple $\\mathbfd = (d_1, d_2, d_3, d_4)$ classified individual particles: electrons, protons, neutrons, each…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-In Chapter [ch:iv-defect-bundles] the defect tuple
+In the relevant chapter the defect tuple
 $\mathbfd = (d_1, d_2, d_3, d_4)$ classified individual particles:
 electrons, protons, neutrons, each characterized by a specific pattern
 of mobility, vorticity, compression, and topological winding.

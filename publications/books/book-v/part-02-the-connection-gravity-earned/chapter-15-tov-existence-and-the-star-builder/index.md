@@ -66,23 +66,23 @@ the canonical star builder
 $Star_n(k)$
 constructs the unique equilibrium configuration
 as a boundary character
-(\S[sec:ch17-star-builder]).
+(\S).
 The construction begins
 with the spherical carrier predicate
-(\S[sec:ch17-spherical-carrier]),
+(\S),
 which specifies what
 “spherically symmetric” means
 in the $τ$-framework;
 introduces the GR tension functional
-(\S[sec:ch17-tension-functional]),
+(\S),
 which measures the departure
 from flat-torus equilibrium;
 derives neutron star structure
 from the neutron node predicate
-(\S[sec:ch17-neutron-structure]);
+(\S);
 proves the stability
 of the neutron node under EW perturbations
-(\S[sec:ch17-neutron-stability]);
+(\S);
 and derives the Chandrasekhar limit
 as a relational threshold
-(\S[sec:ch17-chandrasekhar]).
+(\S).

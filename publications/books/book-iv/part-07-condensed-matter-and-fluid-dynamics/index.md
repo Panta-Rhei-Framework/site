@@ -44,31 +44,31 @@ that classified electrons and protons in Part II now classifies
 crystals and superfluids, Euler flows and plasmas.
 
 The eleven chapters of Part VII develop this programme in full.
-Chapter [ch:iv-defect-fluids] introduces the defect functional
+the relevant chapter introduces the defect functional
 as a universal regime classifier and identifies the eight canonical
 fluid regimes on $T^2$.
-Chapter [ch:iv-universal-defect-tuple] systematizes the defect
+the relevant chapter systematizes the defect
 tuple as the master phase-space coordinate.
-Chapters [ch:iv-tau-euler] through [ch:iv-tau-mhd]
+Chapters  through 
 derive the Euler, Navier–Stokes, and MHD equations
 from defect budget conservation.
-Chapter [ch:iv-superfluids] treats superfluids and superconductors
+the relevant chapter treats superfluids and superconductors
 as quantized defect regimes, deriving Cooper pairing from
 electroweak-mixed normalization on $T^2$.
-Chapter [ch:iv-crystals] covers crystals, glass, and phase transitions,
+the relevant chapter covers crystals, glass, and phase transitions,
 including decidable classification algorithms for crystalline
 and glassy states.
-Chapter [ch:iv-magnetism] develops magnetism entirely from $T^2$ topology:
+the relevant chapter develops magnetism entirely from $T^2$ topology:
 the Euler characteristic $χ(T^2)=0$ forbids magnetic monopoles,
 the Ising model on $T^2$ explains ferromagnetic ordering,
 and the Curie transition is a second-order phase transition
 in the defect-tuple framework.
-Chapter [ch:iv-decidable-nfl] proves the NFL-boundary theorem—the
+the relevant chapter proves the NFL-boundary theorem—the
 algebraic engine distinguishing non-dissipative from dissipative regimes—and
 establishes decidable phase classification for all regimes.
-Chapter [ch:iv-tau-ns-regularity] confronts the Navier–Stokes
+the relevant chapter confronts the Navier–Stokes
 Millennium Problem through the $τ$-gap meta-theorem.
-Chapter [ch:iv-unified-regime-table] closes the Part
+the relevant chapter closes the Part
 with the unified regime table that summarizes all ten regimes
 in a single defect-space diagram.
 

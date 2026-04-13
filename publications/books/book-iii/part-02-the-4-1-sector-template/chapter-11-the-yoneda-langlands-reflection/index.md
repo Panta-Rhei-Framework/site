@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 10: The 4+"
 next_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-12-the-parity-bridge-theorem/"
 next_chapter_title: "Chapter 12: The Parity Bridge Theorem"
-summary_short: "The preceding two chapters built the boundary-to-interior functor $Φ$ (Chapter [ch:boundary-functoriality]) and derived from it the $4+1$ sector decomposition…"
+summary_short: "The preceding two chapters built the boundary-to-interior functor $Φ$  and derived from it the $4+1$ sector decomposition…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 The preceding two chapters built the boundary-to-interior functor $Φ$
-(Chapter [ch:boundary-functoriality])
+
 and derived from it the $4+1$ sector decomposition
-(Chapter [ch:four-plus-one-decomposition]).
+.
 Both results live at the $E_0$ level.
 This chapter lifts the perspective by one enrichment step.
 We show that the passage $E_0 → E_1$

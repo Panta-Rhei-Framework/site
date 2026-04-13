@@ -51,4 +51,4 @@ of distinct defect modes.
 This chapter derives the $τ$-Navier–Stokes equation,
 introduces the Reynolds number as a defect-tuple ratio,
 and previews the connection to the Millennium Problem
-that will be resolved in Chapter [ch:iv-tau-ns-regularity].
+that will be resolved in the relevant chapter.

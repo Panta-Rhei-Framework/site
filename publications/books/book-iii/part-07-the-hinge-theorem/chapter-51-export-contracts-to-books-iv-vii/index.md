@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-07-the-hinge-theorem/chapte
 prev_chapter_title: "Chapter 50: The Hinge Theorem"
 next_chapter_url: "/publications/books/book-iii/part-07-the-hinge-theorem/chapter-52-no-knobs-and-one-diagram/"
 next_chapter_title: "Chapter 52: No Knobs and One Diagram"
-summary_short: "The Hinge Theorem (Theorem [thm:hinge-theorem], Ch. 61) proves that Books IV–VII are sector instantiations of Book III's enrichment structure. This chapter…"
+summary_short: "The Hinge Theorem (the relevant theorem, Ch. 61) proves that Books IV–VII are sector instantiations of Book III's enrichment structure. This chapter…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-07-the-hinge-theorem/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The Hinge Theorem (Theorem [thm:hinge-theorem], Ch. 61) proves that Books IV–VII are sector instantiations of Book III's enrichment structure. This chapter binds four export contracts—one per downstream book—each consisting of preconditions, postconditions, a scope boundary, and a verification protocol. Remark [rem:export-contracts-books-iv-vii] (III.R28) surveys the contracts. Remark [rem:binding-conditions] (III.R29) defines $\T$-compliance: a downstream book is $\T$-compliant if and only if it satisfies all preconditions, proves all postconditions, and respects its scope boundary.
+The Hinge Theorem (the relevant theorem, Ch. 61) proves that Books IV–VII are sector instantiations of Book III's enrichment structure. This chapter binds four export contracts—one per downstream book—each consisting of preconditions, postconditions, a scope boundary, and a verification protocol. Remark [rem:export-contracts-books-iv-vii] (III.R28) surveys the contracts. Remark [rem:binding-conditions] (III.R29) defines $\T$-compliance: a downstream book is $\T$-compliant if and only if it satisfies all preconditions, proves all postconditions, and respects its scope boundary.

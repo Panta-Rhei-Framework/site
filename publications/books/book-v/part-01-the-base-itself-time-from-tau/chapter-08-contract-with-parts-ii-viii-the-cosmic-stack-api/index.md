@@ -63,16 +63,16 @@ This pasting is licensed by Global Cartesian Gluing
 into a consistent whole.
 
 This chapter records what has been earned
-(\S[sec:ch10-fixed-inputs]),
+(\S),
 what remains to be earned
-(\S[sec:ch10-deferred]),
+(\S),
 and assembles both
 into a compact interface specification—the
 *Cosmic Stack API*—that
 governs the contract
 between Part I and the rest of the book
-(\S[sec:ch10-api]).
+(\S).
 The chapter closes with a summary table
 of all definitions and theorems
 earned in Part I
-(\S[sec:ch10-vocabulary]).
+(\S).

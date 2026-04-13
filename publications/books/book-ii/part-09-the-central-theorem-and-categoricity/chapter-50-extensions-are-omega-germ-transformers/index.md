@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-c
 prev_chapter_title: "Chapter 49: Hartogs Extension in H_τ"
 next_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-51-yoneda-applied-omega-germs-are-holomorphic-functions/"
 next_chapter_title: "Chapter 51: Yoneda Applied — ω-Germs Are Holomorphic Functions"
-summary_short: "Chapter [ch:hartogs-extension-h-tau] proved the Hartogs Extension Uniqueness Theorem (II.T37): every idempotent-supported boundary character extends uniquely…"
+summary_short: "the relevant chapter proved the Hartogs Extension Uniqueness Theorem (II.T37): every idempotent-supported boundary character extends uniquely…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:hartogs-extension-h-tau]
+the relevant chapter
 proved the Hartogs Extension Uniqueness Theorem (II.T37):
 every idempotent-supported boundary character
 extends uniquely to a holomorphic function
@@ -79,7 +79,7 @@ $$
  \text{II.T38} 
  ω-germ transformers.
 $$
-The next chapter (Chapter [ch:yoneda-applied])
+The next chapter 
 will close the loop
 by showing that $ω$-germ transformers
 **are** holomorphic functions.

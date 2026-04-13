@@ -20,8 +20,6 @@ right_rail:
   artifacts:
     - title: "Series Prospectus"
       url: /publications/white-papers/
-    - title: "Subtitle Doctrine"
-      url: /publications/white-papers/
   meta:
     type: "Contact"
     status: "Active"
@@ -66,9 +64,9 @@ For all other correspondence — readers, supporters, general questions, suggest
 
 ## Additional Resources
 
-- **[Series Prospectus]({{ '/publications/white-papers/' | relative_url }})** — 23-page reference document for academics and institutions
-- **[Falsification Pack]({{ '/publications/white-papers/' | relative_url }})** — 220+ quantitative predictions with precision claims
-- **[Reviewer's Dossier]({{ '/publications/white-papers/' | relative_url }})** — factual substrate for evaluators
+- **[Series Prospectus]({{ '/publications/white-papers/#series-prospectus' | relative_url }})** — 23-page reference document for academics and institutions
+- **[Falsification Pack]({{ '/publications/white-papers/#falsification-pack' | relative_url }})** — 220+ quantitative predictions with precision claims
+- **[Reviewer's Dossier]({{ '/publications/white-papers/#reviewers-dossier' | relative_url }})** — factual substrate for evaluators
 - **[About the Research]({{ '/research-program/about/' | relative_url }})** — what the program is and how to engage
 
 ---

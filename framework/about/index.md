@@ -45,7 +45,7 @@ Third, it explains the **stakes** of the framework: why the program treats it no
 
 ## The Conceptual Staircase
 
-The pages that follow form a 17-step conceptual staircase. They should be read in sequence at least once.
+The pages that follow form a 16-step conceptual staircase. They should be read in sequence at least once.
 
 1. [What the Tau Framework Is]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }})
 2. [Why It Begins So Low]({{ '/framework/about/why-the-framework-begins-so-low/' | relative_url }})

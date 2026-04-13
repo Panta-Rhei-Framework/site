@@ -66,14 +66,14 @@ of the half-round-trip time
 of such a null coupling.
 
 The chapter defines photons as null intertwiners
-(Definition [def:ch07-null-intertwiner], V.D24),
+(the relevant definition, V.D24),
 derives operational distance via radar-time exchange
-(Definition [def:ch07-operational-distance], V.D25),
+(the relevant definition, V.D25),
 interprets cosmological redshift as refinement drift
-(Definition [def:ch07-refinement-drift], V.D26),
+(the relevant definition, V.D26),
 and reinterprets “expansion of the universe”
 as a readout of base progression
-(Definition [def:ch07-readout-expansion], V.D27).
+(the relevant definition, V.D27).
 The Hubble parameter $H_0$ acquires a precise meaning
 as the current rate of orbit-depth progression
-(Definition [def:ch07-hubble-readout], V.D28).
+(the relevant definition, V.D28).

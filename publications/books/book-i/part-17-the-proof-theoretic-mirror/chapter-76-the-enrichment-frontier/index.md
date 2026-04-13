@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror
 prev_chapter_title: "Chapter 75: Star-Autonomous Categories and the Diagonal Barrier"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-77-diagonal-resonance-and-identity-slippage/"
 next_chapter_title: "Chapter 77: Diagonal Resonance and Identity Slippage"
-summary_short: "The two preceding chapters established what nobody has achieved (Chapter [ch:self-hosting-landscape], I.D80) and why $K5$ avoids the standard obstruction…"
+summary_short: "The two preceding chapters established what nobody has achieved (the relevant chapter, I.D80) and why $K5$ avoids the standard obstruction…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/"
@@ -40,13 +40,13 @@ right_rail:
 
 The two preceding chapters established
 what nobody has achieved
-(Chapter [ch:self-hosting-landscape], I.D80)
+(the relevant chapter, I.D80)
 and why $K5$ avoids the standard obstruction
-(Chapter [ch:star-autonomous-barrier], I.T39).
+(the relevant chapter, I.T39).
 This chapter maps the enrichment ladder
 $E_0 → E_1 → E_2 → E_3$
-— first introduced in Chapter [ch:linearity-audit]
-(Definition [def:enrichment-ladder]) —
+— first introduced in the relevant chapter
+ —
 onto the existing literature,
 classifying each transition by its novelty status.
 $E_0 → E_1$ is achievable with existing techniques.
@@ -54,7 +54,7 @@ $E_1 → E_2$ requires a novel combination of known tools.
 $E_2 → E_3$ is genuinely unprecedented
 at meaningful mathematical strength.
 The **Enrichment Frontier Classification**
-(Definition [def:enrichment-frontier], I.D82)
+(the relevant definition, I.D82)
 makes this grading precise.
 The **Scale Declaration**
 (Remark [rem:scale-declaration], I.R21)

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-hol
 prev_chapter_title: "Chapter 32: Mutual Determination (5-Way Equivalence)"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-34-composition-identity-associativity/"
 next_chapter_title: "Chapter 34: Composition, Identity, Associativity"
-summary_short: "Chapter [ch:mutual-determination] proved the Mutual Determination Theorem: five descriptions of holomorphic data are canonically equivalent. This chapter puts…"
+summary_short: "the relevant chapter proved the Mutual Determination Theorem: five descriptions of holomorphic data are canonically equivalent. This chapter puts…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:mutual-determination]
+the relevant chapter
 proved the Mutual Determination Theorem:
 five descriptions of holomorphic data
 are canonically equivalent.
@@ -48,7 +48,7 @@ provides a natural notion of **transport**
 along the primorial tower:
 given holomorphic data at stage $n$,
 the $BndLift_n$ operator
-(II.D36, Chapter [ch:bndlift-construction])
+(II.D36, the relevant chapter)
 propagates it to stage $n+1$.
 We define the **evolution operator** $E_{n → m}$
 as the composition of successive lifts.
@@ -71,7 +71,7 @@ We prove the main result of the chapter:
 Elliptic holomorphy ($i^2 = -1$)
 has no such asymmetry and no causal arrow.
 The chapter connects back to the wave-type causal structure
-of Chapter [ch:wave-causal]
+of the relevant chapter
 and provides the dynamical content
 that the Mutual Determination Theorem
 (II.T27) left implicit.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 12: The Parity Bridge Theorem"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-14-the-primorial-ladder/"
 next_chapter_title: "Chapter 14: The Primorial Ladder"
-summary_short: "The $4+1$ sector template derived in Chapter [ch:four-plus-one-decomposition] provides the organisational blueprint for the four primitive sectors and the…"
+summary_short: "The $4+1$ sector template derived in the relevant chapter provides the organisational blueprint for the four primitive sectors and the…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-The $4+1$ sector template derived in Chapter [ch:four-plus-one-decomposition]
+The $4+1$ sector template derived in the relevant chapter
 provides the organisational blueprint for the four primitive sectors
 and the $ω$-coupling that mediates between them.
-The Parity Bridge Theorem (Chapter [ch:parity-bridge-theorem])
+The Parity Bridge Theorem 
 singled out the weak sector as the unique carrier of the $E_1 → E_2$ transition.
 One structural question remains:
 *how strong* is each inter-sector coupling?

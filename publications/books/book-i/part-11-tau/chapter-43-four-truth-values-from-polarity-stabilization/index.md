@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chap
 prev_chapter_title: "Chapter 42: The Crossing Point and Bipolar Fourier Analysis"
 next_chapter_url: "/publications/books/book-i/part-11-tau/chapter-44-the-explosion-barrier/"
 next_chapter_title: "Chapter 44: The Explosion Barrier"
-summary_short: "The spectral decomposition of Chapter [ch:spectral-decomposition] (Theorem [thm:spectral-decomposition], I.T12) splits every element of the algebraic…"
+summary_short: "The spectral decomposition of the relevant chapter (the relevant theorem, I.T12) splits every element of the algebraic…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-11-tau/"
@@ -38,12 +38,12 @@ right_rail:
 ---
 
 
-The spectral decomposition of Chapter [ch:spectral-decomposition]
-(Theorem [thm:spectral-decomposition], I.T12)
+The spectral decomposition of the relevant chapter
+(the relevant theorem, I.T12)
 splits every element of the algebraic lemniscate $𝕃$
 into $B$-sector and $C$-sector components
 via the characters $χ_+$ and $χ_-$
-(Definition [def:lemniscate-characters], I.D37).
+(the relevant definition, I.D37).
 This chapter harvests a *logic* from that decomposition.
 Given a predicate $P$ on the $τ$-index,
 the two spectral sectors can independently

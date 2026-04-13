@@ -52,7 +52,7 @@ The algebraic structure of $τ^3$—the
 bipolar idempotent decomposition (I.D21, Book I),
 the CRT tower (I.T18, Book I),
 and the normal-form addressing of cylinders
-(Definition [def:cylinder-domain], II.D10)—forces
+(the relevant definition, II.D10)—forces
 a unique basis for the space
 of $τ$-holomorphic functions.
 This chapter constructs the **canonical holomorphic
@@ -60,7 +60,7 @@ basis** $B_τ$ (II.D45):
 classical monomials $\{z^n\}$ are replaced
 by **cylinder generators** $E_{n,v}^{(B/C)}$ (II.D46),
 each indexed by a (stage, peel token, channel) triple.
-**Theorem [thm:finite-spectral-support**] (II.T31):
+**the relevant theorem (II.T31):
 every $τ$-holomorphic function
 has **finite spectral support**—forced
 by Book I's unique infinity (I.T36).

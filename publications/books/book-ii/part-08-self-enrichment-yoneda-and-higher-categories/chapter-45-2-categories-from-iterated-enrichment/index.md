@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-08-self-enrichment-yoneda-an
 prev_chapter_title: "Chapter 44: Yoneda Embedding as Theorem"
 next_chapter_url: "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-46-s-self-describing-structure/"
 next_chapter_title: "Chapter 46: 's Self-Describing Structure"
-summary_short: "Chapter [ch:tau-self-enrichment] established that $τ$ enriches over itself: the morphism space $\\Hom(A,B)$ is itself an object of $τ$ (II.D53), equipped with…"
+summary_short: "the relevant chapter established that $τ$ enriches over itself: the morphism space $\\Hom(A,B)$ is itself an object of $τ$ (II.D53), equipped with…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-Chapter [ch:tau-self-enrichment]
+the relevant chapter
 established that $τ$ enriches over itself:
 the morphism space $\Hom(A,B)$
 is itself an object of $τ$ (II.D53),
 equipped with bipolar decomposition
 $\Hom(A,B) = e_+ · \Hom_+(A,B)
 + e_- · \Hom_-(A,B)$ (II.P11).
-Chapter [ch:yoneda-theorem]
+the relevant chapter
 proved the Yoneda embedding $τ \hookrightarrow [τ^{op}, τ]$
 as a *theorem* (II.T36).
 This chapter asks:
@@ -60,10 +60,10 @@ and they organize into a **2-categorical structure**
 on $τ$.
 The key facts are:
 (1) the 2-category $τ_2$ is well-defined
-(Definition [def:two-category], II.D55);
+(the relevant definition, II.D55);
 (2) 2-morphisms inherit bipolar decomposition
 from the split-complex codomain
-(Definition [def:two-morphism], II.D56);
+(the relevant definition, II.D56);
 (3) the construction iterates to produce
 $n$-morphisms for each finite $n$
 (Proposition [prop:enrichment-iteration], II.P12);

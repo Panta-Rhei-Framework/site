@@ -44,6 +44,6 @@ generations as compositional steps in a temporal chain of
 interpretation and practice, cultural drift as the accumulated
 deviation of repeated composition, and lineages as persistent
 carriers that stabilize the code stream against erosion. The
-monodromy vocabulary of Chapter [ch:monodromy-moral] reappears:
+monodromy vocabulary of the relevant chapter reappears:
 a practice transported through a temporal loop can return with
 altered meaning, and the resulting holonomy measures cultural change.

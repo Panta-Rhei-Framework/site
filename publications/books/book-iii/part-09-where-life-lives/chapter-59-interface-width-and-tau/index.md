@@ -43,7 +43,7 @@ How many stages does a given computation need?
 This chapter introduces *interface width* — the minimal primorial depth
 at which a computation stabilizes — and defines $τ$-admissibility as
 the finiteness of this width.
-The Interface Width Principle (Theorem [thm:interface-width-principle])
+The Interface Width Principle 
 shows that $τ$-admissible functions factor through a single finite quotient
 $ℤ/Prim(k_0)ℤ$: the entire infinite tower
 collapses to one level.

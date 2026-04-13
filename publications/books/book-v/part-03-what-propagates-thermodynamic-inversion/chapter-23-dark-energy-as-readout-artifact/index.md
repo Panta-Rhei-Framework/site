@@ -72,7 +72,7 @@ it follows from the thermodynamic inversion
 (Chapters 21–25),
 the $τ$-Einstein equation (Part II),
 and the cosmological readout
-(Chapter [ch:book5-ch07-macro-readout]).
+.
 The quantitative prediction
 for the acceleration rate
 is conjectural:

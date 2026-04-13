@@ -57,7 +57,7 @@ $τ^3 = τ^1 ×_f T^2$,
 the Central Theorem establishing
 the holographic correspondence
 $O(τ^3) ≅ A_{spec}(\Lemniscate)$.
-**Definition [def:e0-e1-transition**] (II.D58)
+**the relevant definition (II.D58)
 formalizes this transition
 by listing its inputs and outputs.
 **Remark [rem:enrichment-ladder**] (II.R16)

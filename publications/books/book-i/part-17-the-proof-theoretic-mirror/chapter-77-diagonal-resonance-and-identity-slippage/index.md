@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror
 prev_chapter_title: "Chapter 76: The Enrichment Frontier"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-78-ontic-identity-invariance/"
 next_chapter_title: "Chapter 78: Ontic Identity Invariance"
-summary_short: "The preceding six chapters established the proof-theoretic mirror: the meta-logical substrate was inventoried (Chapter [ch:meta-logical-toolkit]), the…"
+summary_short: "The preceding six chapters established the proof-theoretic mirror: the meta-logical substrate was inventoried , the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/"
@@ -40,17 +40,17 @@ right_rail:
 
 The preceding six chapters established the proof-theoretic mirror:
 the meta-logical substrate was inventoried
-(Chapter [ch:meta-logical-toolkit]),
+,
 the diagonal–linear correspondence was identified
-(Chapter [ch:diagonal-linear-correspondence]),
+,
 TauLib was audited for linearity compliance
-(Chapter [ch:linearity-audit]),
+,
 the self-hosting landscape was surveyed
-(Chapter [ch:self-hosting-landscape]),
+,
 the star-autonomous barrier was located
-(Chapter [ch:star-autonomous-barrier]),
+,
 and the enrichment frontier was mapped
-(Chapter [ch:enrichment-frontier]).
+.
 Throughout, the discussion remained structural:
 contraction was absent on the $τ$ side,
 present on the CIC side,
@@ -61,15 +61,15 @@ It moves from structure to *diagnosis*:
 what goes wrong when contraction, equality-as-congruence,
 and ontic self-products are simultaneously present?
 The answer is **diagonal resonance**
-(Definition [def:diagonal-resonance], I.D89) —
+(the relevant definition, I.D89) —
 a three-component interaction splice
 that produces **identity slippage**
-(Definition [def:identity-slippage], I.D90),
+(the relevant definition, I.D90),
 a partial decoherence of ontic self-identity
 in which the boundary between
 identity-of-reference and equality-as-relation
 gets smeared by **shadow identities**
-(Definition [def:shadow-identity], I.D91).
+(the relevant definition, I.D91).
 No single component is the bug.
 Remove any one and many pathologies disappear;
 keep all three and the resonance becomes unavoidable

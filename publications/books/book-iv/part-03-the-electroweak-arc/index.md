@@ -37,18 +37,18 @@ now requires gauge machinery:
 the electromagnetic and weak sectors of the $E_1$ spectral page.
 
 Part III traverses the **electroweak arc**.
-Chapter [ch:iv-gauge-invariance-maxwell] derives gauge invariance
+the relevant chapter derives gauge invariance
 from the lemniscate topology and obtains the $τ$-Maxwell equations
 as curvature identities of the U(1) connection.
-Chapters [ch:iv-weak-chirality]–[ch:iv-neutrino] develop the
+Chapters – develop the
 weak force: parity violation from junction orientation, the $W/Z$ bosons
 as junction modes, and the neutrino as a $τ^1$ time eigenmode.
-Chapters [ch:iv-ew-mixing]–[ch:iv-tau-higgs] earn the
+Chapters – earn the
 Weinberg angle $\sin^2θ_W = ι_τ(1 - ι_τ)$ at tree level
 and the $τ$-Higgs mechanism at the $ω$-crossing.
-Chapter [ch:iv-weinberg-cf] unpacks the continued-fraction structure
+the relevant chapter unpacks the continued-fraction structure
 of the derived constants,
-and Chapter [ch:iv-ew-synthesis] closes the arc with
+and the relevant chapter closes the arc with
 the complete coupling cascade: zero free parameters,
 precision agreement, and the ontological lesson that
 particles are modes, forces are holonomies,

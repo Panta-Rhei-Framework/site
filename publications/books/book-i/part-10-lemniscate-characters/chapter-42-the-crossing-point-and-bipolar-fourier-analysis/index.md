@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chap
 prev_chapter_title: "Chapter 41: Spectral Decomposition"
 next_chapter_url: "/publications/books/book-i/part-11-tau/chapter-43-four-truth-values-from-polarity-stabilization/"
 next_chapter_title: "Chapter 43: Four Truth Values from Polarity Stabilization"
-summary_short: "The algebraic lemniscate $𝕃$ has two sectors ($B$ and $C$), and the spectral decomposition theorem (Theorem [thm:spectral-decomposition], I.T12) splits every…"
+summary_short: "The algebraic lemniscate $𝕃$ has two sectors ($B$ and $C$), and the spectral decomposition theorem (the relevant theorem, I.T12) splits every…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-10-lemniscate-characters/"
@@ -41,7 +41,7 @@ right_rail:
 The algebraic lemniscate $𝕃$
 has two sectors ($B$ and $C$),
 and the spectral decomposition theorem
-(Theorem [thm:spectral-decomposition], I.T12)
+(the relevant theorem, I.T12)
 splits every element of $𝕃$
 into its $B$-sector and $C$-sector components.
 This chapter studies the **crossing point**:

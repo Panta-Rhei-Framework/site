@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-ver
 prev_chapter_title: "Chapter 63: What Survives the Fork"
 next_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-65-what-tau-gains/"
 next_chapter_title: "Chapter 65: What τ Gains"
-summary_short: "Chapters [ch:master-switch-new] and [ch:survives-the-fork] mapped the structural source of all differences and the constructions that survive the fork. This…"
+summary_short: "Chapters  and  mapped the structural source of all differences and the constructions that survive the fork. This…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
@@ -38,8 +38,8 @@ right_rail:
 ---
 
 
-Chapters [ch:master-switch-new]
-and [ch:survives-the-fork] mapped
+Chapters 
+and  mapped
 the structural source of all differences
 and the constructions that survive the fork.
 This chapter addresses the hardest question:

@@ -25,7 +25,7 @@ right_rail:
 
 ## Seminars and Guided Sessions
 
-The Panta Rhei Research Program is planning structured engagement opportunities for researchers and domain experts who want to engage with the framework in depth.
+The Panta Rhei Research Program is planning structured engagement opportunities for researchers and domain experts who want to work through the framework in depth.
 
 ## Planned Formats
 

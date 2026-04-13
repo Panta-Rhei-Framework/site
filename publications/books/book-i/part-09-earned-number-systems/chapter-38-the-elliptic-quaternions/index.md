@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chap
 prev_chapter_title: "Chapter 37: The Elliptic Complex Field"
 next_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-39-cyclotomic-fields-and-roots-of-unity/"
 next_chapter_title: "Chapter 39: Cyclotomic Fields and Roots of Unity"
-summary_short: "Chapter [ch:number-tower] previewed the quaternions $ℍ_τ = ℝ_τ[i,j,k]$ as a non-commutative extension beyond $ℂ_τ$ (Remark [rem:ch39-quaternions]). This…"
+summary_short: "the relevant chapter previewed the quaternions $ℍ_τ = ℝ_τ[i,j,k]$ as a non-commutative extension beyond $ℂ_τ$ (Remark [rem:ch39-quaternions]). This…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-09-earned-number-systems/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:number-tower] previewed the quaternions
+the relevant chapter previewed the quaternions
 $ℍ_τ = ℝ_τ[i,j,k]$
 as a non-commutative extension beyond $ℂ_τ$
 (Remark [rem:ch39-quaternions]).
@@ -49,7 +49,7 @@ Extending $ℂ_τ$ to four real dimensions
 while preserving the division algebra property
 forces the sacrifice of commutativity.
 We prove that every nonzero quaternion has a multiplicative inverse
-(Theorem [thm:quaternion-division], I.T44),
+(the relevant theorem, I.T44),
 establish the embedding tower
 $ℝ_τ ⊂ ℂ_τ ⊂ ℍ_τ$,
 and preview the Hurwitz classification (I.R22).

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-infere
 prev_chapter_title: "Chapter 66: Boolean Logic at the Micro Scale"
 next_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-inference/chapter-68-internal-randomness/"
 next_chapter_title: "Chapter 68: Internal Randomness"
-summary_short: "At the micro scale, logic is Boolean: a morphism exists or does not, a diagram commutes or does not (Chapter [ch:boolean-micro]). At the meso and macro…"
+summary_short: "At the micro scale, logic is Boolean: a morphism exists or does not, a diagram commutes or does not . At the meso and macro…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 At the micro scale, logic is Boolean: a morphism exists or does not,
-a diagram commutes or does not (Chapter [ch:boolean-micro]). At
+a diagram commutes or does not . At
 the meso and macro scales—where multiple NF addresses are involved,
 where evidence is partial, and where competing hypotheses must be
 weighed—logic becomes Bayesian. Degrees of credence replace binary

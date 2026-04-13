@@ -64,9 +64,9 @@ The proof rests on defect monotonicity:
 mass decrease would require an *increase*
 in defect entropy $S_{def}$,
 violating the Categorical Second Law
-(Theorem [thm:ch21-categorical-second-law]).
+.
 This is the **No-Shrink Theorem**
-(Theorem [thm:ch51-no-shrink]).
+.
 Hawking's thermal spectrum is not denied —
 it exists as a readout of the empirical layer —
 but it does not correspond to ontic mass loss.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-12-the-final-boundary-from-
 prev_chapter_title: "Chapter 125: The Boundary Collapse Lemma"
 next_chapter_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/"
 next_chapter_title: "Chapter 127: The Epistemic→Performative Bridge"
-summary_short: "The boundary collapse lemma (Chapter [ch:boundary-collapse]) proved that $ℝeg_D$ cannot settle the $ω$-germ question: neither inhabitation nor non-inhabitation…"
+summary_short: "The boundary collapse lemma  proved that $ℝeg_D$ cannot settle the $ω$-germ question: neither inhabitation nor non-inhabitation…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The boundary collapse lemma (Chapter [ch:boundary-collapse]) proved
+The boundary collapse lemma  proved
 that $ℝeg_D$ cannot settle the $ω$-germ question: neither
 inhabitation nor non-inhabitation is diagrammatically demonstrable.
 This chapter draws the consequence. If the diagrammatic register

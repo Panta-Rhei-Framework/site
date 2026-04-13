@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-flui
 prev_chapter_title: "Chapter 56: The Defect Functional and Fluid Regimes"
 next_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-58-tau-euler-inviscid-flow/"
 next_chapter_title: "Chapter 58: τ-Euler: Inviscid Flow"
-summary_short: "Chapter [ch:iv-defect-fluids] introduced the defect tuple $\\mathbfd = (d_1, d_2, d_3, d_4)$ as a universal regime classifier and identified eight canonical…"
+summary_short: "the relevant chapter introduced the defect tuple $\\mathbfd = (d_1, d_2, d_3, d_4)$ as a universal regime classifier and identified eight canonical…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:iv-defect-fluids] introduced the defect tuple
+the relevant chapter introduced the defect tuple
 $\mathbfd = (d_1, d_2, d_3, d_4)$
 as a universal regime classifier and identified eight canonical
 fluid regimes.

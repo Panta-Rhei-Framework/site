@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-
 prev_chapter_title: "Chapter 35: The Number Tower: From N"
 next_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-37-the-elliptic-complex-field/"
 next_chapter_title: "Chapter 37: The Elliptic Complex Field"
-summary_short: "Chapter [ch:number-tower] defined $ℝ_τ$ as the Cauchy completion of $ℚ_τ$ with explicit modulus (Definition [def:constructive-reals]) and sketched its field…"
+summary_short: "the relevant chapter defined $ℝ_τ$ as the Cauchy completion of $ℚ_τ$ with explicit modulus  and sketched its field…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-09-earned-number-systems/"
@@ -38,15 +38,15 @@ right_rail:
 ---
 
 
-Chapter [ch:number-tower] defined $ℝ_τ$
+the relevant chapter defined $ℝ_τ$
 as the Cauchy completion of $ℚ_τ$
-with explicit modulus (Definition [def:constructive-reals])
+with explicit modulus 
 and sketched its field properties.
 This chapter carries out the formal development:
 ordered field axioms (Proposition [prop:ordered-field-axioms]),
 the Archimedean property distinguishing $ℝ_τ$
 from $\widehatℤ_τ$
-(Theorem [thm:archimedean-property]),
+,
 Cauchy completeness via diagonal extraction,
 and the canonical metric making $ℝ_τ$
 a complete metric space.

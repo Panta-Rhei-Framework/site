@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapte
 prev_chapter_title: "Chapter 70: The Bridge Ledger"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-72-proof-theory-as-3/"
 next_chapter_title: "Chapter 72: Proof Theory as 3"
-summary_short: "The Bridge Ledger (Theorem [thm:bridge-ledger], Ch. 68) tabulated each bridge's status. This chapter performs the final accounting: the Honest Claim Theorem…"
+summary_short: "The Bridge Ledger (the relevant theorem, Ch. 68) tabulated each bridge's status. This chapter performs the final accounting: the Honest Claim Theorem…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-10-where-proof-lives/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The Bridge Ledger (Theorem [thm:bridge-ledger], Ch. 68) tabulated each
+The Bridge Ledger (the relevant theorem, Ch. 68) tabulated each
 bridge's status. This chapter performs the final accounting: the Honest Claim
 Theorem (III.T47) separating unconditional from conditional (Section 1), the
 complete $τ$-effective inventory (Section 2), the six conjectural bridge

@@ -43,17 +43,17 @@ from $P \land \lnot P$ one can derive any proposition $Q$ whatsoever.
 This is the principle of *ex falso quodlibet*
 — from falsehood, anything follows.
 Classical logic has no structural defense against inconsistency.
-Chapter [ch:four-truth-values]
+the relevant chapter
 introduced the four truth values
 $T$, $F$, $B$, $N$
-(Definition [def:truth4], I.D21),
+(the relevant definition, I.D21),
 where $B$ represents the
 overdetermined state “both true and false.”
 The critical question is:
 does $B$ trigger explosion?
 This chapter proves that it does not.
 The **explosion barrier**
-(Theorem [thm:explosion-barrier], I.T13)
+(the relevant theorem, I.T13)
 states that from $val(P) = B$,
 one *cannot* derive $val(Q) = T$
 for arbitrary $Q$.

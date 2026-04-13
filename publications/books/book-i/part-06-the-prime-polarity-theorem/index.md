@@ -58,9 +58,9 @@ transform the arithmetic polarity data
 into an emergent topological boundary.
 
 The chapter sequence:
-Chapter [ch:spectral-question] poses the spectral question
+the relevant chapter poses the spectral question
 — what global structure do the primes reveal?
-Chapter [ch:prime-polarity] states and proves
+the relevant chapter states and proves
 the Prime Polarity Theorem,
 including the stabilization mechanism
 that determines each prime's polarity.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and
 prev_chapter_title: "Chapter 35: Three Generations"
 next_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-37-hadrons-and-nuclei/"
 next_chapter_title: "Chapter 37: Hadrons and Nuclei"
-summary_short: "The three generations of fermions (Chapter [ch:iv-three-generations]) differ by mass—and the mass ratios are not random. The Koide formula, an unexplained…"
+summary_short: "The three generations of fermions  differ by mass—and the mass ratios are not random. The Koide formula, an unexplained…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The three generations of fermions (Chapter [ch:iv-three-generations])
+The three generations of fermions 
 differ by mass—and the mass ratios are not random.
 The Koide formula, an unexplained empirical regularity of the Standard
 Model, states that $(m_e + m_μ + m_τ)/(m_e + m_μ

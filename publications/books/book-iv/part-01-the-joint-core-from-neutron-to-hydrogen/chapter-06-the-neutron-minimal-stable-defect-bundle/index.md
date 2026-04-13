@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 5: The Photon as Null Transport"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-07-decay-the-rosetta-stone/"
 next_chapter_title: "Chapter 7: -Decay: The Rosetta Stone"
-summary_short: "The quantum stage is set: the photon carries electromagnetic information at the structurally determined speed $c_τ = 1$ (Chapter [ch:iv-photon-null]). Now the…"
+summary_short: "The quantum stage is set: the photon carries electromagnetic information at the structurally determined speed $c_τ = 1$ . Now the…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -40,7 +40,7 @@ right_rail:
 
 The quantum stage is set: the photon carries electromagnetic information
 at the structurally determined speed $c_τ = 1$
-(Chapter [ch:iv-photon-null]). Now the first massive actor appears: the **neutron**.
+. Now the first massive actor appears: the **neutron**.
 It is not postulated—it emerges as the minimal quasi-stable defect bundle
 on $T^2$, the simplest configuration whose breathing amplitude is
 nonzero and whose bi-rotation is locked by $ι_τ = 2/(π + e)$.

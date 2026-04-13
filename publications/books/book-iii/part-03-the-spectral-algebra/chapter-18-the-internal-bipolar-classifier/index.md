@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 17: The Adelic Embedding"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-19-the-spectral-trichotomy/"
 next_chapter_title: "Chapter 19: The Spectral Trichotomy"
-summary_short: "The preceding chapters of Part III erected the spectral algebra in stages: the primorial ladder (Chapter [ch:primorial-ladder]), the CRT decomposition (Chapter…"
+summary_short: "The preceding chapters of Part III erected the spectral algebra in stages: the primorial ladder , the CRT decomposition (Chapter…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -40,10 +40,10 @@ right_rail:
 
 The preceding chapters of Part III
 erected the spectral algebra in stages:
-the primorial ladder (Chapter [ch:primorial-ladder]),
-the CRT decomposition (Chapter [ch:crt-decomposition-theorem]),
-Hensel lifting (Chapter [ch:hensel-lifting]),
-and the adelic embedding (Chapter [ch:adelic-embedding]).
+the primorial ladder ,
+the CRT decomposition ,
+Hensel lifting ,
+and the adelic embedding .
 At every stage,
 an informal vocabulary intruded—“$B$-lobe
 dominant,” “$C$-lobe dominant,” “mixed”—to

@@ -53,7 +53,7 @@ This chapter inverts it.
 Not by denying the mathematics,
 but by *decomposing* what “entropy” means
 in the $τ$-native framework.
-Book IV, Chapter [ch:book4-ch22-energy-entropy-arrow],
+Book IV, the relevant chapter,
 proved that holomorphic entropy
 is non-decreasing along the $α$-orbit.
 That proof stands.

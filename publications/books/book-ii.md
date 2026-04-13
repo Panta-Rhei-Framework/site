@@ -61,7 +61,7 @@ boundary data determines interior structure.
 
 Book II begins where Book I ended:
 at the boundary-interior threshold.
-The organizing paradigm is {\bfseries boundary-first}—the
+The organizing paradigm is **boundary-first**—the
 inversion of classical complex analysis.
 Orthodox SCV builds from interior to boundary
 (holomorphic functions extended to boundary values,
@@ -70,18 +70,16 @@ $τ$ inverts this by building from boundary to interior
 (boundary data determines interior structure via Global Hartogs).
 
 Three chapters set the stage.
-Chapter [ch:boundary-first-paradigm]
+the relevant chapter
 articulates the paradigm shift and the five exports from Book I.
-Chapter [ch:elliptic-to-split-complex]
+the relevant chapter
 explains why the elliptic complex numbers $ℂ$ fail
 (Laplacian glue, no canonical propagation, unipolar structure)
 and why split-complex $H_τ$ with $j^2 = +1$ is forced
 (wave-type glue, bipolar idempotents, prime polarity).
-Chapter [ch:roadmap-inverted-dependency]
+the relevant chapter
 maps the eleven-Part roadmap and the inverted dependency chain:
-{\itshape holomorphy $⇒$ continuity $⇒$ topology
-$⇒$ geometry $⇒$ transcendentals $⇒$
-holomorphic interior} — exact inversion of orthodox order.
+*holomorphy ⇒ continuity ⇒ topology ⇒ geometry ⇒ transcendentals ⇒ holomorphic interior* — exact inversion of orthodox order.
 
 A note on terminology: throughout this book,
 $τ^3$ means “$τ$ viewed through its geometric coordinate chart.”

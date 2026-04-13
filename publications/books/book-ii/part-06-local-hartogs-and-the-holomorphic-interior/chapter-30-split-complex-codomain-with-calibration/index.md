@@ -48,14 +48,14 @@ $e_± = (1 ± \jj)/2$ were algebraic idempotents
 without concrete geometric meaning.
 Part V changed this.
 $π$ calibrates angular periods
-(II.T22, Chapter [ch:pi-earned]),
+(II.T22, the relevant chapter),
 $e$ calibrates radial growth
-(II.T23, Chapter [ch:e-earned]),
+(II.T23, the relevant chapter),
 $\jj$ replaces $i$ as the bipolar unit
-(II.T24, Chapter [ch:j-replaces-i]),
+(II.T24, the relevant chapter),
 and $ι_τ = 2/(π + e)$
 couples the two measurement systems
-(II.T25, Chapter [ch:iota-tau-confirmed]).
+(II.T25, the relevant chapter).
 This chapter restates the split-complex codomain
 with these four constants installed.
 The result is $H_τ^{cal}$:
@@ -67,6 +67,6 @@ become valued in a codomain
 that carries numerical content.
 Part VI builds on this calibrated codomain;
 every subsequent construction
-in Chapters [ch:bndlift-construction]–[ch:sheaf-coherence]
+in Chapters –
 uses the constants $π$, $e$, $\jj$, $ι_τ$
 through the lens of $H_τ^{cal}$.

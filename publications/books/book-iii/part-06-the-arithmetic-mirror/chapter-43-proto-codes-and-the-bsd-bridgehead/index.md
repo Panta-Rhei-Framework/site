@@ -43,10 +43,10 @@ carry their own decoders—full computational agents. Before such agents can
 exist, their raw material must be in place: discrete carriers that can verify
 their own admissibility but cannot yet interpret other objects. These are
 *proto-codes*. This chapter makes the concept precise
-(Definition [def:proto-code]), identifies $τ$-rational points
-(Definition [def:tau-rational-point], Ch. 45) as proto-codes, defines
+, identifies $τ$-rational points
+(the relevant definition, Ch. 45) as proto-codes, defines
 the BSD functional $BSD_{\T}(k)$ that measures their density at
-each tower level (Definition [def:bsd-functional]), and proves the
+each tower level , and proves the
 Bridgehead Proposition (Proposition [prop:bridgehead-proposition]):
 proto-codes provide necessary but not sufficient conditions for $E_2$
 emergence, and the BSD functional determines whether they exist in non-trivial

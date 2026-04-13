@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-
 prev_chapter_title: "Chapter 31: Finite Witnesses & the Road Ahead"
 next_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-33-split-complex-scalars/"
 next_chapter_title: "Chapter 33: Split-Complex Scalars"
-summary_short: "Chapter [ch:bipolar-algebra] introduced the boundary local ring on omega-tails with stagewise addition and multiplication. This chapter extends that local…"
+summary_short: "the relevant chapter introduced the boundary local ring on omega-tails with stagewise addition and multiplication. This chapter extends that local…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-08-the-spectral-ring/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:bipolar-algebra] introduced the boundary local ring
+the relevant chapter introduced the boundary local ring
 on omega-tails with stagewise addition and multiplication.
 This chapter extends that local structure
 to the *full profinite ring*

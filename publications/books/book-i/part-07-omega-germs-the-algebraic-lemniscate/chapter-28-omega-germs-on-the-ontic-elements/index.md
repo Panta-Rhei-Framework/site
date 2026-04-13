@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-06-the-prime-polarity-theorem
 prev_chapter_title: "Chapter 27: The Prime Polarity Theorem"
 next_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-29-polarized-omega-germs/"
 next_chapter_title: "Chapter 29: Polarized Omega-Germs"
-summary_short: "The Prime Polarity Theorem (Chapter [ch:prime-polarity]) assigns each internal prime a canonical polarity — B-dominant or C-dominant — using finite, decidable…"
+summary_short: "The Prime Polarity Theorem  assigns each internal prime a canonical polarity — B-dominant or C-dominant — using finite, decidable…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The Prime Polarity Theorem (Chapter [ch:prime-polarity])
+The Prime Polarity Theorem 
 assigns each internal prime a canonical polarity —
 B-dominant or C-dominant —
 using finite, decidable computations.
@@ -54,4 +54,4 @@ They require no coordinates, no interior points,
 no imported topology.
 They are the pre-topological boundary data
 from which the algebraic lemniscate will emerge
-in Chapter [ch:bipolar-algebra].
+in the relevant chapter.

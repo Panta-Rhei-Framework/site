@@ -48,7 +48,7 @@ that preserves bipolar decomposition, regularity,
 and the full ABCD coordinate structure.
 A function on the space is also a point of the space.
 This self-referential property is the Pre-Yoneda Embedding
-(Definition [def:pre-yoneda], II.D50).
+(the relevant definition, II.D50).
 The chapter draws on two sources:
 Book I's Presheaf Characterization (I.T40)
 and the regularity theory of Part VII.

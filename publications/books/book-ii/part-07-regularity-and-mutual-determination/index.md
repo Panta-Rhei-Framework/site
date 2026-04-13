@@ -10,7 +10,7 @@ part_number: 7
 part_display: "Part VII"
 part_slug: "part-07-regularity-and-mutual-determination"
 chapter_count: 5
-summary_short: "Part VII executes the {\\itshape regularity program}, proving that {\\bfseries holomorphic $=$ idempotent-supported}. Five chapters build a three-lemma chain…"
+summary_short: "Part VII executes the *regularity program*, proving that **holomorphic $=$ idempotent-supported**. Five chapters build a three-lemma chain…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -30,36 +30,36 @@ right_rail:
 ---
 
 
-Part VII executes the {\itshape regularity program}, proving that
-{\bfseries holomorphic $=$ idempotent-supported}.
+Part VII executes the *regularity program*, proving that
+**holomorphic $=$ idempotent-supported**.
 Five chapters build a three-lemma chain leading to this equivalence.
 
-Chapter [ch:idempotent-decomposition] establishes the
-{\bfseries Idempotent Decomposition Lemma (II.L07)}: the key structural result.
+the relevant chapter establishes the
+**Idempotent Decomposition Lemma (II.L07)**: the key structural result.
 Every holomorphic map decomposes: $f = e_+ · f_+ + e_- · f_-$.
 Decomposition is canonical, functorial, and complete.
 
-Chapter [ch:three-lemma-chain] strings three lemmas:
-(II.L08) {\itshape Branch Factorization}: $ω$-germs factor through
+the relevant chapter strings three lemmas:
+(II.L08) *Branch Factorization*: $ω$-germs factor through
 bipolar idempotents;
-(II.L09) {\itshape Prime-Split Support}: Factorization supported on B/C
+(II.L09) *Prime-Split Support*: Factorization supported on B/C
 prime partition;
-(II.L10) {\itshape Polarity Symmetry}: Sectors interchanged by $j$-involution.
-Together: {\bfseries Theorem II.T29}: Holomorphic $⇔$
+(II.L10) *Polarity Symmetry*: Sectors interchanged by $j$-involution.
+Together: **Theorem II.T29**: Holomorphic $⇔$
 idempotent-supported.
 
-Chapter [ch:regularity-positive] shifts from negative regularity
+the relevant chapter shifts from negative regularity
 (absence of singularity) to positive regularity
 (existence of stabilized $ω$-germ).
 A map is regular if and only if it has a canonical extension to the interior.
 No “removable singularity” pathology: either regular or genuinely singular.
 
-Chapter [ch:pre-yoneda] shows the embedding $Hol_τ \hookrightarrow d(τ^3)$:
-holomorphic functions are both transformers {\itshape and} germs.
+the relevant chapter shows the embedding $Hol_τ \hookrightarrow d(τ^3)$:
+holomorphic functions are both transformers *and* germs.
 Self-referential structure.
 This is a preview of Part VIII's full Yoneda theorem.
 
-Chapter [ch:code-decode] constructs the bijection: boundary streams
+the relevant chapter constructs the bijection: boundary streams
 (codes) $↔$ interior extensions (decodes).
 The diagonal-free discipline (I.X05) blocks zero-divisor pathology;
 $e_±$ exist and decompose, but arbitrary projections are not earned.

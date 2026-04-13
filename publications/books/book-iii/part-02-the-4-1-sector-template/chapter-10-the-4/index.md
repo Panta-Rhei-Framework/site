@@ -56,7 +56,7 @@ consists of characters with non-trivial projection
 in both the $B$ and $C$ lobes simultaneously.
 The result is a $4+1$ decomposition, not a $5$-fold splitting.
 The decomposition is not postulated but *induced*
-by the Langlands$_0$ functor of Chapter [ch:boundary-functoriality]:
+by the Langlands$_0$ functor of the relevant chapter:
 the boundary-to-interior functor $Φ$
 maps the four primitive character families
 to four independent holomorphic sectors

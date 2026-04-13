@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/c
 prev_chapter_title: "Chapter 44: Elegance and Minimal Tension"
 next_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/chapter-46-the-golden-ratio/"
 next_chapter_title: "Chapter 46: The Golden Ratio"
-summary_short: "Chapters [ch:aesthetic-functional]–[ch:elegance] characterised individual motifs: beauty as invariance, elegance as minimal tension. This chapter lifts the…"
+summary_short: "Chapters – characterised individual motifs: beauty as invariance, elegance as minimal tension. This chapter lifts the…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-04-categorical-aesthetics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapters [ch:aesthetic-functional]–[ch:elegance] characterised
+Chapters – characterised
 individual motifs: beauty as invariance, elegance as minimal tension.
 This chapter lifts the analysis from individual motifs to
 *collections* of motifs and asks: what structural patterns recur

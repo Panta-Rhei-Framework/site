@@ -46,7 +46,7 @@ A proof-checker is an $E_2$ object (it takes a proof string and outputs accept/r
 a proof-theorist is an $E_3$ object (they model the checker and reason about its limits).
 Section 1 draws this distinction.
 Section 2 defines proof theory as $E_3$ self-modelling applied to $E_2$ code
-(Definition [def:proof-theory-as-e3], III.D73).
+(the relevant definition, III.D73).
 Section 3 identifies the diagrammatic sector of $E_3$—the sector in which
-Book III itself operates (Definition [def:diagrammatic-sector-e3], III.D74).
+Book III itself operates (the relevant definition, III.D74).
 Section 4 locates the Hinge Theorem as an $E_3$ statement.

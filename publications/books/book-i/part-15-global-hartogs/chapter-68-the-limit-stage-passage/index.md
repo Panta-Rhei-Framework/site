@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-15-global-hartogs/chapter-67-
 prev_chapter_title: "Chapter 67: The Global Hartogs Extension Theorem"
 next_chapter_url: "/publications/books/book-i/part-16-the-presheaf-essence/chapter-69-holomorphy-as-naturality/"
 next_chapter_title: "Chapter 69: Holomorphy as Naturality"
-summary_short: "The Global Hartogs Extension Theorem (Theorem [thm:global-hartogs], I.T06) has been proved. This chapter draws the consequences. We define **earned…"
+summary_short: "The Global Hartogs Extension Theorem (the relevant theorem, I.T06) has been proved. This chapter draws the consequences. We define **earned…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-15-global-hartogs/"
@@ -39,11 +39,11 @@ right_rail:
 
 
 The Global Hartogs Extension Theorem
-(Theorem [thm:global-hartogs], I.T06)
+(the relevant theorem, I.T06)
 has been proved.
 This chapter draws the consequences.
 We define **earned stage-determined points**
-(Definition [def:earned-interior-point], I.D68) —
+(the relevant definition, I.D68) —
 points of $τ^3$ whose finite-stage data
 is uniquely determined by omega-tail data on $𝕃$ —
 and prove that *every* point of $τ^3$

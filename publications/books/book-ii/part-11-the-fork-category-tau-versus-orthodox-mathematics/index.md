@@ -43,14 +43,14 @@ topology, geometry, and self-enrichment—differs
 from its orthodox counterpart.
 This Part makes those differences *explicit*.
 
-Chapter [ch:question-of-foundations] introduces
+the relevant chapter introduces
 the vocabulary: five comparison modes
 (**A** Same, **B** Parallel,
 **C** Refused, **D** Gained,
 **E** Earned) and six comparison axes.
 These tools organize the entire audit.
 
-Chapter [ch:master-switch-new] identifies
+the relevant chapter identifies
 the master pattern: a single algebraic sign,
 $\jj^2 = +1$ versus $i^2 = -1$,
 propagates through twelve levels
@@ -58,8 +58,8 @@ of mathematical structure.
 The sign is not a choice—it is forced
 by prime polarity (I.T05 $→$ I.T10).
 
-Chapters [ch:survives-the-fork]
-and [ch:refuses] map what survives the fork
+Chapters 
+and  map what survives the fork
 and what does not.
 Mode A objects (primes, $π$, $e$, $ℕ$)
 are identical; Mode B objects
@@ -71,7 +71,7 @@ $ε$-$δ$ limits, conformal maps)
 are structurally blocked—each refusal
 a necessary consequence of categoricity.
 
-Chapters [ch:gains] and [ch:earns]
+Chapters  and 
 catalogue what $τ$ provides.
 Mode D objects (categoricity, rigidity,
 the Central Theorem, the Parallel Postulate
@@ -81,7 +81,7 @@ Mode E objects (the number tower,
 topos structure, Hartogs extension)
 are the same results, derived rather than postulated.
 
-Chapter [ch:master-trade-off] assembles
+the relevant chapter assembles
 the master trade-off: 49 gains against 16 costs,
 organized by five thematic patterns.
 The structural incompatibility theorem
@@ -90,7 +90,7 @@ and Archimedean local density cannot coexist:
 the fork is not a design decision but
 a mathematical necessity.
 
-Chapter [ch:worth-it] closes the narrative arc.
+the relevant chapter closes the narrative arc.
 The fork is worth it because
 within these foundations,
 the deepest structural questions of mathematics

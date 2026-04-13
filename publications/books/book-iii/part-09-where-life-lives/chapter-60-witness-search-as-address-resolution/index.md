@@ -43,7 +43,7 @@ a single finite quotient $ℤ/Prim(k_0)ℤ$.
 This chapter applies that collapse to NP witness search.
 In Category $τ$, a witness is a canonical address whose ABCD
 coordinates structure the search space, and the CRT decomposition
-(Theorem [thm:crt-decomposition]) factorizes the search into
+ factorizes the search into
 independent per-prime problems.
 The main result (Proposition [prop:polynomial-refinement]) shows
 that the total search cost is $O(k^2 \log k)$—polynomial in the

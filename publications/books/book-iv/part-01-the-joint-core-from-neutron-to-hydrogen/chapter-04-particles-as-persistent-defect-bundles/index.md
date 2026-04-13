@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 3: The τ³ Arena: Fiber T² as Microcosm"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-05-the-photon-as-null-transport/"
 next_chapter_title: "Chapter 5: The Photon as Null Transport"
-summary_short: "The stage is set: the fiber $T^2$ is the microcosm arena (Chapter [ch:iv-tau3-arena]), equipped with the $E_1$ sector template (Chapter…"
+summary_short: "The stage is set: the fiber $T^2$ is the microcosm arena , equipped with the $E_1$ sector template (Chapter…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 The stage is set: the fiber $T^2$ is the microcosm arena
-(Chapter [ch:iv-tau3-arena]),
+,
 equipped with the $E_1$ sector template
-(Chapter [ch:iv-import-book-iii]).
+.
 This chapter introduces the actors: *particles*.
 A particle is not a point, not a string,
 not a field excitation—it is a **persistent defect bundle**

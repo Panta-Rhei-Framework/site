@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 27: e Earned — The Self-Reproducing Growth Base"
 next_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/"
 next_chapter_title: "Chapter 29: ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge"
-summary_short: "Chapters [ch:pi-earned] and [ch:e-earned] earned the transcendental constants $π$ and $e$. This chapter earns the **algebraic** constant $\\jj$—the…"
+summary_short: "Chapters  and  earned the transcendental constants $π$ and $e$. This chapter earns the **algebraic** constant $\\jj$—the…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapters [ch:pi-earned] and [ch:e-earned]
+Chapters  and 
 earned the transcendental constants $π$ and $e$.
 This chapter earns the **algebraic** constant $\jj$—the
 split-complex unit satisfying $\jj^2 = +1$, $\jj ≠ ± 1$.

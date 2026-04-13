@@ -41,7 +41,7 @@ right_rail:
 The $α$-particle (helium-4 nucleus) is more than a simple bound
 state—it is the universal building block of nuclear physics.
 Building on the nuclear binding energy framework of
-Chapter [ch:iv-hadrons-nuclei], this chapter focuses on the
+the relevant chapter, this chapter focuses on the
 $α$-particle itself: its exceptional stability as the smallest
 doubly saturated $T^2$ unit, its role as nuclear projectile
 (Rutherford scattering), its clustering in heavier nuclei, the

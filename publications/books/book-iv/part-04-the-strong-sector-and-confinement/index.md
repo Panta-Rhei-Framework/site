@@ -38,17 +38,17 @@ a non-trivial vacuum, non-abelian self-interaction,
 and a confinement mechanism that is structural, not dynamical.
 
 Part IV opens with the strong vacuum and colour holonomy
-(Chapter [ch:iv-strong-vacuum-holonomy]),
+,
 derives confinement as address irresolvability
-(Chapter [ch:iv-confinement-admissibility]),
+,
 and proves the $τ$-gap meta-theorem
-(Chapter [ch:iv-tau-gap-meta-theorem])—a spectral gap result
+—a spectral gap result
 whose C-sector instance yields the Yang–Mills mass gap.
-Chapter [ch:iv-strong-coupling-quarks] develops quarks and gluons
+the relevant chapter develops quarks and gluons
 as confined character modes, the No-Running Principle, and the
 $α_s(M_Z)$ near-match ($2κ(C) ≈ 0.1208$ vs. $0.1180$).
-Chapter [ch:iv-vacuum-catastrophe] dissolves the vacuum catastrophe,
-and Chapter [ch:iv-sector-atlas] assembles the complete sector atlas:
+the relevant chapter dissolves the vacuum catastrophe,
+and the relevant chapter assembles the complete sector atlas:
 every Standard Model particle located in the $τ^3$ fibration.
 
 By the end of Part IV the force survey of the fiber $T^2$ is complete.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-a
 prev_chapter_title: "Chapter 12: Split-Complex Structure Not Yet Load-Bearing"
 next_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape/chapter-14-topology-as-invariant-of-canonical-denotation/"
 next_chapter_title: "Chapter 14: Topology as Invariant of Canonical Denotation"
-summary_short: "Part II earned the cylinder basis (Theorem [thm:cylinder-basis]), the ultrametric distance (Definition [def:ultrametric-distance]), and the inverted…"
+summary_short: "Part II earned the cylinder basis , the ultrametric distance , and the inverted…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-03-topology-and-global-shape/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 Part II earned the cylinder basis
-(Theorem [thm:cylinder-basis]),
+,
 the ultrametric distance
-(Definition [def:ultrametric-distance]),
+,
 and the inverted dependency:
 holomorphic implies continuous.
 All three results were combinatorial—built

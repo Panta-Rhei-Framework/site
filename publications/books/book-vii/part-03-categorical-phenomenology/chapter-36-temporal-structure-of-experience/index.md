@@ -51,4 +51,4 @@ overlaps. The categorical formalization matches Husserl's
 phenomenological analysis while making precise what “gluing across
 temporal moments” means. This chapter provides the phenomenological
 account of time; for the ontological account, see
-Chapter [ch:causation-space-time].
+the relevant chapter.

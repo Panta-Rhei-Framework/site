@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 18: The Internal Bipolar Classifier"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-20-the-spectral-algebra-complete/"
 next_chapter_title: "Chapter 20: The Spectral Algebra Complete"
-summary_short: "Chapter [ch:internal-bipolar-classifier] replaced informal lobe language with the computable bipolar classifier $Label_n$, assigning to every boundary…"
+summary_short: "the relevant chapter replaced informal lobe language with the computable bipolar classifier $Label_n$, assigning to every boundary…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:internal-bipolar-classifier]
+the relevant chapter
 replaced informal lobe language
 with the computable bipolar classifier $Label_n$,
 assigning to every boundary character at level $n$

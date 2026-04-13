@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/c
 prev_chapter_title: "Chapter 41: Pre-Symbolic Resonance"
 next_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/chapter-43-beauty-as-invariance/"
 next_chapter_title: "Chapter 43: Beauty as Invariance"
-summary_short: "Pre-symbolic resonance (Chapter [ch:pre-symbolic]) established that aesthetic response precedes symbolic representation: a motif resonates when it transports…"
+summary_short: "Pre-symbolic resonance  established that aesthetic response precedes symbolic representation: a motif resonates when it transports…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-04-categorical-aesthetics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Pre-symbolic resonance (Chapter [ch:pre-symbolic]) established that
+Pre-symbolic resonance  established that
 aesthetic response precedes symbolic representation: a motif resonates
 when it transports under admissible transformations without
 re-interpretation. This chapter makes the notion precise by introducing

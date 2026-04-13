@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-prin
 prev_chapter_title: "Chapter 8: The Canonical Ladder Theorem"
 next_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-10-the-4/"
 next_chapter_title: "Chapter 10: The 4+"
-summary_short: "The Canonical Ladder Theorem (Chapter [ch:canonical-ladder-theorem]) established four enrichment layers $E_0 ⊂neq E_1 ⊂neq E_2 ⊂neq E_3$ and a universal layer…"
+summary_short: "The Canonical Ladder Theorem  established four enrichment layers $E_0 ⊂neq E_1 ⊂neq E_2 ⊂neq E_3$ and a universal layer…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The Canonical Ladder Theorem
-(Chapter [ch:canonical-ladder-theorem])
+
 established four enrichment layers
 $E_0 ⊂neq E_1 ⊂neq E_2 ⊂neq E_3$
 and a universal layer template.

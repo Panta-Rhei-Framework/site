@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapte
 prev_chapter_title: "Chapter 38: σ"
 next_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapter-40-the-physics-layer-complete/"
 next_chapter_title: "Chapter 40: The Physics Layer Complete"
-summary_short: "Chapter [ch:sigma-fixed-characters-and-sector-addressability] introduced the concepts this chapter brings to proof: $σ$-fixed boundary characters (Definition…"
+summary_short: "the relevant chapter introduced the concepts this chapter brings to proof: $σ$-fixed boundary characters (Definition…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-05-the-physics-layer/"
@@ -38,12 +38,12 @@ right_rail:
 ---
 
 
-Chapter [ch:sigma-fixed-characters-and-sector-addressability]
+the relevant chapter
 introduced the concepts this chapter brings to proof:
 $σ$-fixed boundary characters
-(Definition [def:sigma-fixed-character])
+
 and sector addressability
-(Definition [def:sector-addressability]).
+.
 We now prove the **NF-Addressability Theorem**:
 every $σ$-fixed boundary character
 at finite primorial depth
@@ -52,14 +52,14 @@ $S ∈ \{A, B, C, D\}$.
 The proof proceeds sector by sector.
 The electromagnetic sector ($B$) serves as model case,
 using the spectral trichotomy
-(Theorem [thm:spectral-trichotomy], Ch. 19)
+(the relevant theorem, Ch. 19)
 and the $Label_n$ stabilization
-(Theorem [thm:label-convergence], Ch. 18).
+(the relevant theorem, Ch. 18).
 The strong sector ($C$), weak sector ($A$),
 and gravity sector ($D$) follow the same schema
 with sector-specific adjustments.
 A coherence check against the five-item checklist
-(Definition [def:mutual-determination-schema], Ch. 21)
+(the relevant definition, Ch. 21)
 confirms that the result sits at enrichment level $E_1$,
 with the bridge to classical Hodge theory
 flagged as conjectural.

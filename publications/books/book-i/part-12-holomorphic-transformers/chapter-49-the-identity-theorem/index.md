@@ -51,13 +51,13 @@ Does $τ$-holomorphy enjoy a similar rigidity?
 This chapter proves that it does,
 and in a stronger form.
 The **$τ$-Identity Theorem**
-(Theorem [thm:tau-identity], I.T21)
+(the relevant theorem, I.T21)
 shows that agreement at a single primorial depth $d_0$
 forces global equality on all omega-tails.
 The proof uses tower coherence
-(Definition [def:tower-coherence], I.D46)
+(the relevant definition, I.D46)
 and the CRT coherence structure
-(Theorem [thm:crt-coherence], I.T18)
+(the relevant theorem, I.T18)
 rather than Taylor series or analytic continuation.
 The key intermediate result is
 **Tail Agreement Propagation**
@@ -69,11 +69,11 @@ where agreement propagates via analytic continuation.
 In $τ$, the Chinese Remainder Theorem
 forces upward propagation.
 We also define the space $Hol(𝕃)$
-(Definition [def:hol-L], I.D49)
+(the relevant definition, I.D49)
 of $τ$-holomorphic functions
 on the algebraic lemniscate,
 whose elements are uniquely determined
 by finite-depth data —
 a consequence that will be exploited
 in the Global Hartogs Theorem
-(Chapter [ch:global-hartogs]).
+.

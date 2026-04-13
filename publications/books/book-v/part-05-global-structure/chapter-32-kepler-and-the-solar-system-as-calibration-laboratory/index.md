@@ -53,7 +53,7 @@ In Category $τ$,
 Kepler's laws are not corollaries of a force law.
 They are **theorems** of the
 *rotational flux constraint*
-(\S[sec:ch35-rotational-flux])—a
+(\S)—a
 conservation law within the boundary holonomy algebra
 $H_∂[ω]$ that governs
 how angular momentum characters
@@ -61,12 +61,12 @@ are preserved along the $α$-orbit.
 The inverse-square force law
 is a *consequence* of the constraint,
 not its input
-(\S[sec:ch35-kepler-three-laws]).
+(\S).
 
 The solar system serves
 as the highest-precision calibration laboratory
 for the $τ$-Einstein equation
-(\S[sec:ch35-precision-tests]).
+(\S).
 Three classical tests—Mercury's
 perihelion advance (43.0 arcsec/century),
 the deflection of starlight near the Sun (1.75 arcsec),
@@ -75,14 +75,14 @@ post-Newtonian corrections
 to the Keplerian readout,
 and all three are predicted
 by the linearized $τ$-Einstein equation
-of Chapter [ch:book5-ch14-linear-tau-einstein]
+of the relevant chapter
 with zero free parameters.
 
 The chapter closes with a brief treatment
 of the Sun as a rotational dynamo
-(\S[sec:ch35-solar-dynamo]):
+(\S):
 sunspots, flares, and the solar wind
 as $D$-sector boundary character oscillations,
 and planetary magnetospheres
 as bridges to stellar physics
-(\S[sec:ch35-magnetospheres]).
+(\S).

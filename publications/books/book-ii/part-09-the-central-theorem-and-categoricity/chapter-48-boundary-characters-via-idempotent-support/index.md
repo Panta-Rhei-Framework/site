@@ -45,7 +45,7 @@ which splits every holomorphic map
 $f = e_+ · f_+ + e_- · f_-$
 into its $B$-channel and $C$-channel projections,
 and the Three-Lemma Chain
-(Theorem [thm:hol-iff-idempotent], II.T33),
+(the relevant theorem, II.T33),
 which shows that holomorphy is *equivalent to*
 idempotent support.
 This chapter turns that equivalence inward:
@@ -54,7 +54,7 @@ spectral characters (I.D19, I.D22–I.D23)
 in the language of idempotent decomposition,
 proving that *every* spectral character
 valued in calibrated $H_τ$
-(Definition [def:calibrated-H-tau], II.D35)
+(the relevant definition, II.D35)
 admits a unique canonical decomposition
 $χ = e_+ · χ_+ + e_- · χ_-$.
 The character algebra $A_{spec}(𝕃)$
@@ -63,4 +63,4 @@ there are no others.
 This chapter sets up the input side of the Central Theorem:
 the boundary characters, fully organized
 by their idempotent support structure,
-ready for the Hartogs extension of Chapter [ch:hartogs-extension-h-tau].
+ready for the Hartogs extension of the relevant chapter.

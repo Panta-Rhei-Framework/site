@@ -56,7 +56,7 @@ electron degeneracy pressure
 Book IV)
 supports the remnant:
 the result is a **white dwarf**
-(\S[sec:ch38-white-dwarfs]).
+(\S).
 Above $M_{Ch}$
 but below the Tolman–Oppenheimer–Volkoff limit
 $M_{TOV} ≈ 2.0\text–2.3 M_\odot$,
@@ -65,11 +65,11 @@ and the strong nuclear force
 (the $C$-sector)
 support the remnant:
 the result is a **neutron star**
-(\S[sec:ch38-neutron-stars]).
+(\S).
 Above $M_{TOV}$,
 no known force can resist gravitational collapse,
 and the result is a **black hole**
-(\S[sec:ch38-black-holes]).
+(\S).
 
 Each rung of the ladder
 is a readout of the competition
@@ -83,10 +83,10 @@ are *relational thresholds*:
 mass values at which
 the balance between sectors shifts
 irreversibly
-(\S[sec:ch38-unified-ladder]).
+(\S).
 
 The chapter closes with pulsar timing
-(\S[sec:ch38-pulsar-timing])—the
+(\S)—the
 most precise clocks in nature—and
 their role as probes
 of the $τ$-Einstein equation

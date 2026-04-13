@@ -46,5 +46,5 @@ This chapter treats architecture as a cultural readout: a physical
 encoding of social structure that makes implicit norms legible across
 time and reproduces expectations for generations. The analysis
 connects built space to the sphereology of
-Chapter [ch:spheres-sloterdijk] and the urban topology of
-Chapter [ch:cities].
+the relevant chapter and the urban topology of
+the relevant chapter.

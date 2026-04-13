@@ -65,12 +65,12 @@ The bright ring is not the photon sphere
 of a Schwarzschild metric;
 it is the equatorial emission
 from the accretion funnel
-(Chapter [ch:book5-ch40-accretion-jets-agn])
+
 wrapped around the *donut*,
 not the sphere.
 
 This chapter develops the **Shadow Shape Theorem**
-(Theorem [thm:ch42-shadow-shape]),
+,
 which predicts specific differences
 between $T^2$ and $S^2$ shadows:
 inner-shadow ellipticity,

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 20: The Spectral Algebra Complete"
 next_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapter-22-the-functional-equation-in-h/"
 next_chapter_title: "Chapter 22: The Functional Equation in H_"
-summary_short: "In Chapter [ch:eight-guarantees] we previewed the Master Schema: boundary determines interior determines spectral invariants. In Chapter…"
+summary_short: "In the relevant chapter we previewed the Master Schema: boundary determines interior determines spectral invariants. In Chapter…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"
@@ -38,6 +38,6 @@ right_rail:
 ---
 
 
-In Chapter [ch:eight-guarantees] we previewed the Master Schema: boundary determines interior determines spectral invariants. In Chapter [ch:spectral-algebra-complete] we completed the spectral algebra foundation. We now possess *earned infrastructure* to address the Millennium Problems as *instances of one structural pattern*.
+In the relevant chapter we previewed the Master Schema: boundary determines interior determines spectral invariants. In the relevant chapter we completed the spectral algebra foundation. We now possess *earned infrastructure* to address the Millennium Problems as *instances of one structural pattern*.
 
 This chapter frames the coherence programme: a uniform checklist applied to every millennium problem in Parts IV–VI and IX. Each problem receives (i) a Mutual Determination formulation, (ii) an admissibility predicate, (iii) an enrichment-level placement, (iv) a conjectural bridge to orthodox statements, and (v) a 4-tier scope grade. Part IV demonstrates the pattern at enrichment level $E_0$ (RH, Poincar\'e); Parts V and VI scale to $E_1$ and the $E_1 → E_2$ bridge; Part IX addresses P vs NP at $E_2$.

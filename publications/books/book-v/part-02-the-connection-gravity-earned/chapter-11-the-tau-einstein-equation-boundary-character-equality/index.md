@@ -59,7 +59,7 @@ $G_{μν} = (8π G/c^4) T_{μν}$
 are recovered as the chart shadow
 of this boundary identity
 under the local readout functors
-of Chapter [ch:book5-ch12-lorentz-without-minkowski].
+of the relevant chapter.
 Conservation ($∇ · T = 0$)
 is a corollary, not an extra axiom.
 Backreaction is automatic.

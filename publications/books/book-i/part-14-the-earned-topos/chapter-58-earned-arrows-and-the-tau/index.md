@@ -49,22 +49,22 @@ from the monoid of $τ$-holomorphic functions
 that Part XII assembled.
 This chapter constructs the **earned category**
 $Cat_τ$
-(Definition [def:cat-tau], I.D51)
+(the relevant definition, I.D51)
 whose arrows are **$τ$-arrows** —
 normal-form equivalence classes of $τ$-holomorphic programs
-(Definition [def:tau-arrow], I.D50).
+(the relevant definition, I.D50).
 The category axioms —
 identity, composition, associativity —
 are not assumed;
 they are *proved*
-(Theorem [thm:category-axioms], I.T22)
+(the relevant theorem, I.T22)
 from the HolFun monoid structure:
 composition closure
-(Theorem [thm:composition-closure], I.T20),
+(the relevant theorem, I.T20),
 associativity
 (Proposition [prop:holfun-associativity], I.P24),
 and the identity transformer from the program monoid
-(Theorem [thm:comp-assoc], I.T03).
+(the relevant theorem, I.T03).
 The proof is short
 because all the hard work was done in Part XII.
 A striking consequence is that $Cat_τ$
@@ -75,11 +75,11 @@ there is at most one arrow.
 Thinness is not an axiom —
 it is a *consequence*
 of the $τ$-Identity Theorem
-(Theorem [thm:tau-identity], I.T21,
-Chapter [ch:identity-theorem]):
+(the relevant theorem, I.T21,
+the relevant chapter):
 holomorphic rigidity forces uniqueness of arrows,
 just as it forces uniqueness of HolFuns.
 The remaining chapters of Part XIV build on $Cat_τ$:
-functors (Chapter [ch:functors]),
-limits and sites (Chapter [ch:limits-sites]),
-and the earned topos (Chapter [ch:earned-topos]).
+functors ,
+limits and sites ,
+and the earned topos .

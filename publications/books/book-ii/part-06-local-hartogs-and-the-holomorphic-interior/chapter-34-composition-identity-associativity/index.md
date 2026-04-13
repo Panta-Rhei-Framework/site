@@ -43,22 +43,22 @@ built the **objects** and **morphisms**
 of split-complex holomorphy:
 $τ$-admissible points as objects,
 $ω$-germ transformers as morphisms,
-the BndLift construction (Chapter [ch:bndlift-construction]),
+the BndLift construction ,
 the Mutual Determination Theorem
-(Chapter [ch:mutual-determination], II.T27),
+(the relevant chapter, II.T27),
 and the evolution operator
-(Chapter [ch:evolution-operator], II.D37).
+(the relevant chapter, II.D37).
 This chapter verifies that these morphisms
 form a **category**.
 Composition of holomorphic maps
 is defined as stagewise composition
 of $ω$-germs
-(Definition [def:composition], II.D39).
+(the relevant definition, II.D39).
 The identity map is the constant family
 assigning the identity germ at each stage
-(Definition [def:identity-map], II.D40).
+(the relevant definition, II.D40).
 The central result is
-**Theorem [thm:associativity**] (II.T29):
+**the relevant theorem (II.T29):
 associativity of composition,
 which is *not* trivial.
 The proof lifts the program monoid's
@@ -67,7 +67,7 @@ through the tower coherence conditions
 that every holomorphic map must satisfy.
 With identity and associativity established,
 the category $HolEnd_τ$
-(Definition [def:holend-tau], II.D41) is formed:
+(the relevant definition, II.D41) is formed:
 the category of $τ$-holomorphic endomorphisms,
 the algebraic skeleton
 on which Parts VII–IX will build.

@@ -73,13 +73,13 @@ The geometric form $S^1 ∨ S^1$ emerges in Book II
 when topology is earned.
 
 The chapter sequence:
-Chapter [ch:omega-germs] defines omega-germs
+the relevant chapter defines omega-germs
 on the ontic elements.
-Chapter [ch:polarized-omega-germs] introduces
+the relevant chapter introduces
 polarized omega-germs and the crossing-point germ.
-Chapter [ch:bipolar-algebra] discovers the
+the relevant chapter discovers the
 bipolar spectral algebra and defines the algebraic lemniscate.
-Chapter [ch:finite-witnesses] reflects on the
+the relevant chapter reflects on the
 hinge block in retrospect and previews the road ahead.
 
 ## Chapters

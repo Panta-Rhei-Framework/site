@@ -71,15 +71,15 @@ in the $\SectorD$ (gravity) sector.
 This chapter derives
 the binary inspiral waveform
 from the $τ$-Einstein equation
-(Chapter [ch:book5-ch13-tau-einstein-equation]),
+,
 proves the **Chirp Mass Theorem**
-(Theorem [thm:ch41-chirp-mass])
+
 relating the waveform parameters
 to boundary holonomy invariants,
 defines the **ringdown readout**
-(Definition [def:ch41-ringdown-readout])
+
 as the quasi-normal mode spectrum
 of the merged coherent instance,
 and establishes the **standard siren**
 as a distance measure
-(Definition [def:ch41-standard-siren]).
+.

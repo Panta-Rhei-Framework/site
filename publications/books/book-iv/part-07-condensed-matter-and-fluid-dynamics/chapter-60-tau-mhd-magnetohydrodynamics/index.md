@@ -45,7 +45,7 @@ and at large scales the two become inseparable.
 This is magnetohydrodynamics (MHD).
 In $τ^3$, the MHD equations emerge by coupling
 the $τ$-Navier–Stokes dynamics of defect transport
-(Chapter [ch:iv-tau-ns])
+
 to the B-sector holonomy of the electromagnetic field.
 This chapter derives the $τ$-MHD system,
 introduces the magnetic Reynolds number,

@@ -59,10 +59,10 @@ if finitely much boundary data suffices
 to determine $f$ at $p$.
 This chapter introduces
 **$τ$-Regularity**
-(Definition [def:tau-regularity], II.D49),
+(the relevant definition, II.D49),
 proves the
 **Regularity Criterion**
-(Theorem [thm:regularity-criterion], II.T34),
+(the relevant theorem, II.T34),
 which establishes a sharp dichotomy —
 every point is either $τ$-regular
 (stabilization at finite stage)
@@ -83,13 +83,13 @@ the Global Hartogs Theorem
 (I.T31, the Global Hartogs Extension (Book I, Chapter 62))
 establishes that boundary data determines interior data;
 the Idempotent Decomposition Lemma
-(II.L07, Chapter [ch:idempotent-decomposition])
+(II.L07, the relevant chapter)
 provides the canonical $e_±$-splitting;
 the Holomorphic $⇔$ Idempotent-Supported
 equivalence
-(II.T33, Chapter [ch:three-lemma-chain])
+(II.T33, the relevant chapter)
 characterizes holomorphic maps;
 and the evolution operator
-(II.D37, Chapter [ch:evolution-operator])
+(II.D37, the relevant chapter)
 provides the propagation mechanism
 through which stabilization occurs.

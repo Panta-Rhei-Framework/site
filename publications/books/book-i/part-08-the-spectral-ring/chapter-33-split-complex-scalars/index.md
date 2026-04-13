@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-
 prev_chapter_title: "Chapter 32: The Profinite Boundary Ring Z"
 next_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/"
 next_chapter_title: "Chapter 34: The Master Constant ι_τ = 2/(π + e)"
-summary_short: "Chapter [ch:bipolar-algebra] proved that bipolar polarization forces $j^2 = +1$ (Theorem [thm:split-complex-forced], I.T10). This chapter formalizes the…"
+summary_short: "the relevant chapter proved that bipolar polarization forces $j^2 = +1$ (the relevant theorem, I.T10). This chapter formalizes the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-08-the-spectral-ring/"
@@ -38,9 +38,9 @@ right_rail:
 ---
 
 
-Chapter [ch:bipolar-algebra] proved
+the relevant chapter proved
 that bipolar polarization forces $j^2 = +1$
-(Theorem [thm:split-complex-forced], I.T10).
+(the relevant theorem, I.T10).
 This chapter formalizes the extension
 $\hatℤ_τ[j]$,
 the *split-complex scalar ring*,

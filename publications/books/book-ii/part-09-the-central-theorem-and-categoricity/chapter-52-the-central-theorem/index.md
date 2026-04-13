@@ -53,13 +53,13 @@ not a coincidence of notation,
 not a heuristic analogy.
 It is a theorem.
 Its proof assembles the full dependency chain:
-boundary characters (Chapter [ch:boundary-characters-idempotent]),
-Hartogs extension in $H_τ$ (Chapter [ch:hartogs-extension-h-tau]),
+boundary characters ,
+Hartogs extension in $H_τ$ ,
 extensions as $ω$-germ transformers
-(Chapter [ch:extensions-omega-germs]),
+,
 and the Yoneda identification of $ω$-germs
 with holomorphic functions
-(Chapter [ch:yoneda-applied]).
+.
 The Central Theorem is an exact holographic correspondence:
 the $1$-dimensional boundary data
 (characters on $𝕃$)

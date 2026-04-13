@@ -48,7 +48,7 @@ and canonical topology (II.T09),
 we can ask: *is $L*$ the minimal
 quotient of $T^2$ preserving both gauge factors?
 This chapter answers yes
-(Theorem [thm:boundary-minimality], II.T12),
+(the relevant theorem, II.T12),
 defines **angular sectors**
 from B/C solenoidal constraints (II.D17),
 and proves that the two lobes of $𝕃$

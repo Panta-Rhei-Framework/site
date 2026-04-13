@@ -45,4 +45,4 @@ among strangers. This chapter frames common urban phenomena —
 anonymity, formality, neighbourhoods, weak ties, and cosmopolitan
 coexistence — as structural consequences of thin overlaps and
 mediated gluing in a social topology whose carrier set far exceeds
-the Dunbar threshold of Chapter [ch:rural-dunbar].
+the Dunbar threshold of the relevant chapter.

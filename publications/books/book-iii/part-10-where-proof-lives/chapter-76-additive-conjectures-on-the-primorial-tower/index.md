@@ -38,8 +38,8 @@ right_rail:
 
 The primorial tower provides a natural arena for three of number theory's
 deepest unsolved problems: Goldbach's conjecture, the twin prime conjecture,
-and the ABC conjecture. Chapter [ch:spectral-algebra-complete] built
-the spectral toolkit; Chapters [ch:the-bridge-axiom]–[ch:the-honest-claim]
+and the ABC conjecture. the relevant chapter built
+the spectral toolkit; Chapters –
 established the bridge discipline. This chapter deploys both to push
 computational verification, prove structural theorems at primorial levels,
 and—most importantly—precisely characterize *what the $τ$ framework

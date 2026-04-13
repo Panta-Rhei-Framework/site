@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-05-categorical-language-mea
 prev_chapter_title: "Chapter 55: The Subsymbolic Is Real"
 next_chapter_url: "/publications/books/book-vii/part-05-categorical-language-meaning/chapter-57-language-as-self-enrichment/"
 next_chapter_title: "Chapter 57: Language as Self-Enrichment"
-summary_short: "Chapter [ch:what-language-adds] identified temporalization as language's most consequential addition to the subsymbolic layer. This chapter formalizes the…"
+summary_short: "the relevant chapter identified temporalization as language's most consequential addition to the subsymbolic layer. This chapter formalizes the…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-05-categorical-language-meaning/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:what-language-adds] identified temporalization as
+the relevant chapter identified temporalization as
 language's most consequential addition to the subsymbolic layer.
 This chapter formalizes the structure of symbolic time. Tense,
 aspect, and mood are not surface features of grammar but functorial

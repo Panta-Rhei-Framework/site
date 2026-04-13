@@ -41,13 +41,13 @@ right_rail:
 The previous ten chapters of Part V
 have shown—one astrophysical system at a time—that
 dark matter is *not needed*.
-Rotation curves (Chapter [ch:book5-ch37-rotation-curves]),
+Rotation curves ,
 cluster mass profiles
-(Chapter [ch:book5-ch43-bullet-cluster-lss]),
+,
 the Bullet Cluster
-(Theorem [thm:ch43-bullet-no-dm]),
+,
 and the cosmic web
-(Theorem [thm:ch43-cosmic-web-holonomy])
+
 are all accounted for
 by the boundary holonomy mass
 of Category $τ$.
@@ -58,20 +58,20 @@ it is **structurally impossible**.
 The argument is purely algebraic
 and rests on three premises:
 enumerate[(i)]
- \item The coherence kernel of Category $τ$
+ - The coherence kernel of Category $τ$
  has exactly five generators
  $\{α, π, γ, η, ω\}$
  (the 5-Generator Theorem, Book I).
- \item Each generator maps to exactly one sector
+ - Each generator maps to exactly one sector
  through the Generator–Sector Correspondence
  (Book IV, Chapter 6).
- \item The fifth generator $ω$
+ - The fifth generator $ω$
  is not independent:
  $ω = γ ∩ η$
  (the crossing point of the lemniscate).
 enumerate
 The result is the Sector Exhaustion Theorem
-(Theorem [thm:ch44-sector-exhaustion]):
+:
 the boundary holonomy algebra decomposes as
 $H_∂[ω]
 = ⊕_{X ∈ \{A,B,C,D\}} H_X ⊕ H_ω$,

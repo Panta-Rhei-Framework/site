@@ -48,7 +48,7 @@ to solve even approximately.
 In Category $τ$,
 the situation is structurally simpler.
 A black hole is a single-excision coherent instance
-(Chapter [ch:book5-ch50-bh-birth-topology]):
+:
 a region of $τ^3$ where the topological defect
 $d_{top} = 1$
 permanently removes a boundary component.
@@ -57,7 +57,7 @@ the coherence kernel forces convergence
 to a unique fixed point:
 a single excision with combined mass.
 This is the **Merger Normal Form**
-(Theorem [thm:ch52-merger-normal-form]).
+.
 The theorem says that the merger outcome is unique —
 two excisions always become one,
 and the resulting excision is fully determined

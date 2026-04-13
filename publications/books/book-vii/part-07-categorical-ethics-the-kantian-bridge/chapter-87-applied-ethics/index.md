@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-k
 prev_chapter_title: "Chapter 86: Virtue Ethics: Character as Fixed Point"
 next_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-88-the-ci-as-j-closed-fixed-point/"
 next_chapter_title: "Chapter 88: The CI as j-Closed Fixed Point"
-summary_short: "Principles meet practice. This chapter applies the categorical ethical framework developed in Chapters [ch:dignity-foundation]–[ch:kant-tau] to three urgent…"
+summary_short: "Principles meet practice. This chapter applies the categorical ethical framework developed in Chapters – to three urgent…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 Principles meet practice. This chapter applies the categorical ethical
-framework developed in Chapters [ch:dignity-foundation]–[ch:kant-tau]
+framework developed in Chapters –
 to three urgent domains: bioethics (beginning and end of life, genetic
 engineering, informed consent), environmental ethics (obligations to
 ecosystems, structural value, sustainability), and AI ethics (duties

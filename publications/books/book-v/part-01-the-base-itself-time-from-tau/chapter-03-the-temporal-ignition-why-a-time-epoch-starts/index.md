@@ -75,12 +75,12 @@ the range of refinement depths
 at which proper time is
 a well-defined, operationally meaningful quantity.
 The present chapter identifies three epochs
-(Definition [def:ch05-three-epochs], V.D17),
+(the relevant definition, V.D17),
 defines the ignition condition
 that marks the onset of the temporal epoch
-(Definition [def:ch05-ignition-depth], V.D18),
+(the relevant definition, V.D18),
 constructs the “now” hypersurface $Σ_{now}$
-(Definition [def:ch05-sigma-now], V.D19),
+(the relevant definition, V.D19),
 and proves that the current state of the universe
 lies well within the temporal epoch
-(Theorem [thm:ch05-now-within-epoch], V.T10).
+(the relevant theorem, V.T10).

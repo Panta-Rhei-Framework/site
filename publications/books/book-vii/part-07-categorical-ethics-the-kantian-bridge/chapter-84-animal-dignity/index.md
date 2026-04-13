@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-k
 prev_chapter_title: "Chapter 83: Thermodynamic Ethics"
 next_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-85-future-generations/"
 next_chapter_title: "Chapter 85: Future Generations"
-summary_short: "If dignity is structural, it cannot be confined to a single species. This chapter extends the framework of Chapter [ch:dignity-foundation] beyond humans by…"
+summary_short: "If dignity is structural, it cannot be confined to a single species. This chapter extends the framework of the relevant chapter beyond humans by…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
@@ -40,7 +40,7 @@ right_rail:
 
 If dignity is structural, it cannot be confined to a single species.
 This chapter extends the framework of
-Chapter [ch:dignity-foundation] beyond humans by identifying the
+the relevant chapter beyond humans by identifying the
 structural threshold for moral standing: any carrier with
 $τ$-distinction — a well-defined NF address and non-trivial
 identity-invariants — has dignity. Since many animals meet this

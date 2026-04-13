@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 15: The CRT Decomposition Theorem"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-17-the-adelic-embedding/"
 next_chapter_title: "Chapter 17: The Adelic Embedding"
-summary_short: "The CRT Decomposition Theorem (Chapter [ch:crt-decomposition-theorem]) split the primorial residue ring $ℤ / M_d ℤ$ into a product of prime-power components.…"
+summary_short: "The CRT Decomposition Theorem  split the primorial residue ring $ℤ / M_d ℤ$ into a product of prime-power components.…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The CRT Decomposition Theorem
-(Chapter [ch:crt-decomposition-theorem])
+
 split the primorial residue ring
 $ℤ / M_d ℤ$
 into a product of prime-power components.

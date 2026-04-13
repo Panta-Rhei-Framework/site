@@ -45,7 +45,7 @@ In Category $τ$,
 plasma is a *boundary-obstruction flow*:
 the charged defects
 (topological obstructions in the $\SectorB$-sector holonomy,
-Chapter [ch:book5-ch29-charge-boundary-obstruction])
+the relevant chapter)
 propagate as a collective
 through the macro defect-transport equation.
 
@@ -63,8 +63,8 @@ the solar wind, stellar interiors,
 and accretion environments.
 The plasma vocabulary established here
 is prerequisite for MHD
-(Chapter [ch:book5-ch31-tau-mhd])
+
 and Alfv\'en modes
-(Chapter [ch:book5-ch32-tau-alfven]).
+.
 
 Scope: $τ$-effective throughout.

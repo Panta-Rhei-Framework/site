@@ -10,7 +10,7 @@ part_number: 8
 part_display: "Part VIII"
 part_slug: "part-08-the-spectral-ring"
 chapter_count: 4
-summary_short: "Part VII introduced the boundary local ring (Chapter [ch:bipolar-algebra]): stagewise ring operations on omega-tails, the Chinese Remainder Theorem on the…"
+summary_short: "Part VII introduced the boundary local ring : stagewise ring operations on omega-tails, the Chinese Remainder Theorem on the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -31,7 +31,7 @@ right_rail:
 
 
 Part VII introduced the boundary local ring
-(Chapter [ch:bipolar-algebra]):
+:
 stagewise ring operations on omega-tails,
 the Chinese Remainder Theorem on the primorial ladder,
 and the split-complex structure forced by bipolar polarization.

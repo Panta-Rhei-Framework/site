@@ -43,7 +43,7 @@ social topology: bubbles (intimate dyads), globes (communal
 institutions), and foams (modern plural coexistence). This chapter
 formalizes spheres as internal topoi with shared covers, embedding
 Sloterdijk's sphereology in the categorical social ontology of
-Chapter [ch:objects-dignity-worlds]. Atmosphere — the
+the relevant chapter. Atmosphere — the
 pre-symbolic dimension of social life — appears as the
 phenomenological correlate of stabilized local coherence within a
 sphere.

@@ -10,7 +10,7 @@ part_number: 9
 part_display: "Part IX"
 part_slug: "part-09-earned-number-systems"
 chapter_count: 4
-summary_short: "Part VIII introduced the number tower $ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ$ (Chapter [ch:number-tower]), establishing definitions and basic properties for each level.…"
+summary_short: "Part VIII introduced the number tower $ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ$ , establishing definitions and basic properties for each level.…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -33,7 +33,7 @@ right_rail:
 Part VIII introduced the number tower
 $ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ
 ⊆ ℝ_τ ⊆ ℂ_τ$
-(Chapter [ch:number-tower]),
+,
 establishing definitions and basic properties for each level.
 The first three levels — naturals, integers, rationals —
 were *fully earned* from the 7 axioms and 5 generators

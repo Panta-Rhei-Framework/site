@@ -67,11 +67,11 @@ carries a natural metric structure
 inherited from the profinite topology.
 **Proper time** is geodesic arc length
 along $τ^1$
-(Definition [def:ch04-proper-time], V.D14).
+(the relevant definition, V.D14).
 Each step of the $α$-orbit —
 each application of $ρ$ —
 is one **$α$-tick**
-(Definition [def:ch04-alpha-tick], V.D13),
+(the relevant definition, V.D13),
 and the accumulated arc length up to tick $n$
 is the physical time $t(n)$.
 
@@ -81,11 +81,11 @@ is the generative direction of the $α$-orbit
 not a thermodynamic accident
 but a structural feature of the kernel axioms.
 **Causality** is orbit ordering
-(Theorem [thm:ch04-causal-ordering], V.T07):
+(the relevant theorem, V.T07):
 if $α_m$ precedes $α_n$ in the refinement tower,
 then event $m$ causally precedes event $n$.
 And physical time is **bounded**
-(Theorem [thm:ch04-bounded-time], V.T08):
+(the relevant theorem, V.T08):
 the base circle is compact,
 the universe has finite temporal extent
 from $α_a$ (beginning) to $α_o$ (end).

@@ -41,7 +41,7 @@ right_rail:
 Throughout Part IV we classified primes
 into two sectors — $B$-dominant and $C$-dominant —
 according to their behavior in the prime bipolar partition
-(Chapter [ch:prime-polarity]).
+.
 This classification is not merely qualitative:
 the *ratio* of $B$-dominant to $C$-dominant primes
 converges to a fixed number as we range over all primes.

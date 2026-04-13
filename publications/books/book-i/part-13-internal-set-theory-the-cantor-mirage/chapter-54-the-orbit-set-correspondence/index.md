@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-ca
 prev_chapter_title: "Chapter 53: The τ"
 next_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-55-countability-is-not-a-limitation/"
 next_chapter_title: "Chapter 55: Countability Is Not a Limitation"
-summary_short: "Part VIII built an internal set theory on a single orbit: $τ$-Idx, equipped with $∈_τ = \\mid$ (Chapter [ch:membership-divisibility]). But Category $τ$ has…"
+summary_short: "Part VIII built an internal set theory on a single orbit: $τ$-Idx, equipped with $∈_τ = \\mid$ . But Category $τ$ has…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -41,9 +41,9 @@ right_rail:
 Part VIII built an internal set theory on a single orbit:
 $τ$-Idx, equipped with
 $∈_τ = \mid$
-(Chapter [ch:membership-divisibility]).
+.
 But Category $τ$ has *five* orbits
-(Theorem [thm:ontic-closure], Proposition [prop:orbit-disjoint]),
+(the relevant theorem, Proposition [prop:orbit-disjoint]),
 and each orbit carries generators
 with distinct structural roles.
 This chapter extends internal set theory

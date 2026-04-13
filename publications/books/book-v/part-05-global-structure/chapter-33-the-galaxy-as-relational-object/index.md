@@ -47,7 +47,7 @@ $H_∂[ω]$
 that binds baryonic matter, radiation,
 and the gravitational field
 into a single self-consistent readout
-(\S[sec:ch36-relational-definition]).
+(\S).
 
 This redefinition has immediate consequences.
 Galaxy formation is not the gravitational collapse
@@ -56,18 +56,18 @@ followed by baryonic infall.
 It is the emergence of relational coherence
 from the initial boundary conditions
 encoded in the CMB constraint surface
-(Chapter [ch:book5-ch09-boundary-data],
-\S[sec:ch36-formation]).
+(the relevant chapter,
+\S).
 The cosmic web—the
 filamentary large-scale structure of the universe—is
 not an afterthought but the **boundary condition**
 that determines where galaxies form
-(\S[sec:ch36-cosmic-web]).
+(\S).
 The classification of galaxies
 (elliptical, spiral, irregular)
 corresponds to distinct patterns
 in the $D$-sector capacity profile
-(\S[sec:ch36-morphology]).
+(\S).
 
 Throughout this chapter,
 the structural features are $τ$-effective.

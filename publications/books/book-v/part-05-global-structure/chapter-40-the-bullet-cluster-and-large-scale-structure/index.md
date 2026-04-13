@@ -60,7 +60,7 @@ is collisionless—i.e., dark matter.
 This chapter presents the $τ$-re-read.
 In Category $τ$, dark matter does not exist
 (the Sector Exhaustion Theorem,
-Chapter [ch:book5-ch44-sector-exhaustion]).
+the relevant chapter).
 Yet the Bullet Cluster observation is real.
 The resolution lies in the distinction
 between **boundary mass**
@@ -76,7 +76,7 @@ is a topological quantity
 that does not interact through the EM sector.
 The offset between X-ray gas and lensing mass
 is a **boundary-mass offset**
-(Definition [def:ch43-boundary-mass-offset])—a
+—a
 natural consequence of the distinction
 between $\SectorD$-sector (gravitational)
 and $\SectorB$-sector (electromagnetic) readouts.
@@ -86,7 +86,7 @@ addresses large-scale structure.
 The cosmic web—the filamentary network
 of galaxies spanning hundreds of megaparsecs—is
 derived as a **Wilson skeleton**
-(Definition [def:ch43-wilson-skeleton]):
+:
 the network of large-scale holonomy loops
 on the base $τ^1$.
 Baryon acoustic oscillations (BAO)

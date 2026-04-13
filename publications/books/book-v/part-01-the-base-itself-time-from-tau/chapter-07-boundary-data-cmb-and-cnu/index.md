@@ -58,17 +58,17 @@ The CMB encodes the state of $H_∂[ω]$
 at the recombination orbit depth $n_{rec}$—the
 orbit at which the baryon–photon fluid
 releases its photons as free-streaming null intertwiners
-(\S[sec:ch09-cmb-constraint]).
+(\S).
 The C$ν$B encodes an earlier state
 at the neutrino-decoupling orbit depth
 $n_ν < n_{rec}$—a
 time-like echo of the deeper past
-(\S[sec:ch09-cnub-echo]).
+(\S).
 Both surfaces constrain the subsequent physics
 of Parts II through VIII
-(\S[sec:ch09-constraints-forward]).
+(\S).
 The chapter closes with a preview
 of the power spectrum predictions
 that will be developed in the falsification pack
 of Part VI
-(\S[sec:ch09-power-spectrum]).
+(\S).

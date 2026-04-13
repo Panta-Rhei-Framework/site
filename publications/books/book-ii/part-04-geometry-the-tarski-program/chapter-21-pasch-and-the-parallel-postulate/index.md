@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-progr
 prev_chapter_title: "Chapter 20: Congruence from Canonical Distance"
 next_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/"
 next_chapter_title: "Chapter 22: Wave-Type Causal Structure"
-summary_short: "Chapters [ch:betweenness] and [ch:congruence] earned betweenness (II.D19, II.T15) and congruence (II.D20, II.T16) from the ultrametric structure on $τ^3$. This…"
+summary_short: "Chapters  and  earned betweenness (II.D19, II.T15) and congruence (II.D20, II.T16) from the ultrametric structure on $τ^3$. This…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapters [ch:betweenness] and [ch:congruence]
+Chapters  and 
 earned betweenness (II.D19, II.T15)
 and congruence (II.D20, II.T16)
 from the ultrametric structure on $τ^3$.

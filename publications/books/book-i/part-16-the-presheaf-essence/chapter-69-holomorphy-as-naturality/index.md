@@ -45,7 +45,7 @@ Part XIV earned the categorical vocabulary —
 presheaves, natural transformations, functors.
 This chapter closes the loop:
 the **Presheaf Characterization Theorem**
-(Theorem [thm:presheaf-characterization], I.T40)
+(the relevant theorem, I.T40)
 proves that $τ$-holomorphic functions are
 *precisely* the natural transformations
 from the primorial presheaf to its split-complex extension

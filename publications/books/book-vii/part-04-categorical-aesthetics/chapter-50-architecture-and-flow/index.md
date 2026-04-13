@@ -46,9 +46,9 @@ architectural space as a category whose objects are positions and whose
 morphisms are possible movements, and analyzes flow, proportion, and
 sacred design as instances of the aesthetic functional applied to the
 built environment. The body
-(Chapter [ch:embodiment]) is the measure of architectural space:
+ is the measure of architectural space:
 good architecture accommodates and extends bodily engagement; poor
 architecture obstructs it. Every building, finally, is a boundary
-in the sense of Chapter [ch:boundary-archetype]—an interface
+in the sense of the relevant chapter—an interface
 between inside and outside, shelter and exposure, the intimate and
 the public.

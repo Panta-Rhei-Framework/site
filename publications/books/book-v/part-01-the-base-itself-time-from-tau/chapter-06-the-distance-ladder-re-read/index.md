@@ -56,14 +56,14 @@ but the *readout functor*
 $R_d\colon Orbit_n → SI$
 that maps orbit-depth progression on $τ^1$
 to SI-measured lengths
-(\S[sec:ch08-what-we-calibrate]).
+(\S).
 Each standard candle and standard ruler
 is a readout calibrator:
 a physical system whose intrinsic properties
 (period, luminosity, oscillation scale)
 are themselves earned from the physics
 of Books IV and V
-(\S[sec:ch08-candles-rulers]).
+(\S).
 The Hubble tension is not a measurement crisis
 but a *category error*:
 the “early universe” $H_0$ from the CMB
@@ -73,11 +73,11 @@ are readouts at different orbit depths,
 and the tension arises from assuming
 a single scale-factor history
 when the $τ$-framework has regime-dependent readout
-(\S[sec:ch08-hubble-tension]).
+(\S).
 The chapter closes with a first pass
 on the “dark energy” puzzle:
 the apparent accelerating expansion
 is a readout effect,
 not a new energy component
-(\S[sec:ch08-dark-energy],
+(\S,
 detailed treatment in Part V).

@@ -57,7 +57,25 @@ Wenn Sie uns per E-Mail kontaktieren, werden die von Ihnen mitgeteilten Daten (z
 
 **Löschung:** Die im Rahmen der Kontaktaufnahme gespeicherten Daten werden gelöscht, sobald sie für die Erreichung des Zwecks der Erhebung nicht mehr erforderlich sind.
 
-## 5. Externe Links und Drittangebote
+## 5. Newsletter / Research Notes (Buttondown)
+
+Diese Website bietet die Möglichkeit, sich für den Empfang von **Research Notes** per E-Mail anzumelden. Die Anmeldung erfolgt über den Dienst **Buttondown** (Buttondown, LLC, USA).
+
+Bei der Anmeldung werden folgende Daten erhoben:
+
+- E-Mail-Adresse (Pflichtfeld)
+
+Die Anmeldung erfolgt im **Double-Opt-in-Verfahren**: Nach Eingabe Ihrer E-Mail-Adresse erhalten Sie eine Bestätigungsmail. Erst nach Bestätigung durch Klick auf den darin enthaltenen Link werden Sie in die Empfängerliste aufgenommen.
+
+**Zweck:** Versand von Research Notes des Panta Rhei Research Program.
+
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. a DSGVO (Einwilligung).
+
+**Dienstleister:** Buttondown, LLC, USA. Ihre E-Mail-Adresse wird bei Buttondown gespeichert und verarbeitet. Details finden Sie in der [Buttondown Privacy Policy](https://buttondown.com/legal/privacy).
+
+**Widerruf:** Sie können Ihre Einwilligung jederzeit widerrufen und sich von der Empfängerliste abmelden. Ein Abmeldelink ist in jeder versendeten E-Mail enthalten.
+
+## 6. Externe Links und Drittangebote
 
 Diese Website enthält Links zu externen Websites, insbesondere:
 
@@ -66,23 +84,23 @@ Diese Website enthält Links zu externen Websites, insbesondere:
 
 Mit dem Anklicken eines externen Links verlassen Sie diese Website. Für die Datenverarbeitung auf den Zielseiten ist der jeweilige Anbieter verantwortlich. Wir haben keinen Einfluss auf die dort erhobenen Daten.
 
-## 6. Suchfunktion auf dieser Website
+## 7. Suchfunktion auf dieser Website
 
 Die Suchfunktion dieser Website wird über **Pagefind** bereitgestellt. Pagefind ist eine rein clientseitige Suchlösung: Suchanfragen werden vollständig im Browser des Nutzers verarbeitet. Es werden keine Suchdaten an einen externen Server oder Drittanbieter übertragen.
 
-## 7. Cookies und ähnliche Technologien
+## 8. Cookies und ähnliche Technologien
 
 Auf dieser Website werden **nur technisch notwendige Technologien** eingesetzt, die für den ordnungsgemäßen Betrieb der Website erforderlich sind. Es werden keine Tracking-Cookies, Analyse-Tools oder Marketing-Technologien verwendet.
 
 Soweit künftig darüber hinausgehende Analyse-, Tracking- oder Komfortfunktionen eingesetzt werden sollten, werden wir diese Datenschutzerklärung und — soweit rechtlich erforderlich — das Einwilligungsmanagement entsprechend anpassen.
 
-## 8. Schriftarten
+## 9. Schriftarten
 
 Diese Website lädt Schriftarten von **Google Fonts** (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Beim Abruf der Schriftarten wird Ihre IP-Adresse an Google übermittelt. Details finden Sie in der [Google Datenschutzerklärung](https://policies.google.com/privacy).
 
 **Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der einheitlichen Darstellung der Website).
 
-## 9. Ihre Rechte
+## 10. Ihre Rechte
 
 Sie haben gegenüber dem Verantwortlichen folgende Rechte hinsichtlich der Sie betreffenden personenbezogenen Daten:
 
@@ -96,6 +114,6 @@ Sie haben gegenüber dem Verantwortlichen folgende Rechte hinsichtlich der Sie b
 
 Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
 
-## 10. Beschwerderecht
+## 11. Beschwerderecht
 
 Sie haben das Recht, sich bei einer Datenschutz-Aufsichtsbehörde über die Verarbeitung Ihrer personenbezogenen Daten zu beschweren.

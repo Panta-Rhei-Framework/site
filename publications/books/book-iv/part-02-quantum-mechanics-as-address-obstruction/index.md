@@ -40,7 +40,7 @@ conjugate coordinate systems—the *address obstruction* that gives
 this Part its name.
 
 The eight chapters trace a single arc from the CR-address space
-(Chapter [ch:iv-cr-address-space]) through the holomorphic Hilbert
+ through the holomorphic Hilbert
 space, quantization, the address-obstruction theorem (Heisenberg),
 measurement, the Schrödinger equation, and energy/entropy, culminating
 in the first quantitative prediction of the framework: the

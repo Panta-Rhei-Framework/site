@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-11-tau/chapter-45-boolean-rec
 prev_chapter_title: "Chapter 45: Boolean Recovery and the Subobject Classifier Preview"
 next_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/chapter-47-tower-coherence-and-tau/"
 next_chapter_title: "Chapter 47: Tower Coherence and τ"
-summary_short: "Chapter [ch:split-complex-scalars] earned the split-complex scalar ring $\\hatℤ_τ[j]$ (Definition [def:split-complex], I.D20), and Chapter [ch:bipolar-algebra]…"
+summary_short: "the relevant chapter earned the split-complex scalar ring $\\hatℤ_τ[j]$ (the relevant definition, I.D20), and the relevant chapter…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-12-holomorphic-transformers/"
@@ -38,25 +38,25 @@ right_rail:
 ---
 
 
-Chapter [ch:split-complex-scalars] earned the
+the relevant chapter earned the
 split-complex scalar ring
 $\hatℤ_τ[j]$
-(Definition [def:split-complex], I.D20),
-and Chapter [ch:bipolar-algebra] constructed
+(the relevant definition, I.D20),
+and the relevant chapter constructed
 the bipolar spectral algebra
 $H_τ = \hatℤ_τ[j]$
-(Definition [def:bipolar-spectral-algebra], I.D27)
+(the relevant definition, I.D27)
 with $j^2 = +1$ forced by the bipolar structure
-(Theorem [thm:split-complex-forced], I.T10).
+(the relevant theorem, I.T10).
 This chapter develops the first layer of analysis
 on $H_τ$:
 **D-differentiability**
-(Definition [def:d-differentiability], I.D42),
+(the relevant definition, I.D42),
 the split-complex analog of complex differentiability.
 The role played by the Cauchy–Riemann equations
 in classical complex analysis is taken here
 by the **split Cauchy–Riemann equations**
-(Definition [def:split-cr-equations], I.D43),
+(the relevant definition, I.D43),
 whose characteristic feature is a
 *plus sign* where the classical equations
 carry a minus sign —
@@ -85,5 +85,5 @@ are the root cause.
 The chapter closes by diagnosing this pathology
 precisely, setting the stage for the $τ$-framework's
 rescue of D-holomorphy
-via tower coherence (Chapter [ch:tau-holomorphic])
-and diagonal discipline (Chapter [ch:diagonal-free-protection]).
+via tower coherence 
+and diagonal discipline .

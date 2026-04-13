@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-
 prev_chapter_title: "Chapter 29: Polarized Omega-Germs"
 next_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-31-finite-witnesses-the-road-ahead/"
 next_chapter_title: "Chapter 31: Finite Witnesses & the Road Ahead"
-summary_short: "The polarized omega-germs of Chapter [ch:polarized-omega-germs] split the boundary data of $τ$ into three families: B-polarized germs, C-polarized germs, and…"
+summary_short: "The polarized omega-germs of the relevant chapter split the boundary data of $τ$ into three families: B-polarized germs, C-polarized germs, and…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The polarized omega-germs of Chapter [ch:polarized-omega-germs]
+The polarized omega-germs of the relevant chapter
 split the boundary data of $τ$ into three families:
 B-polarized germs, C-polarized germs,
 and the unique crossing-point germ.

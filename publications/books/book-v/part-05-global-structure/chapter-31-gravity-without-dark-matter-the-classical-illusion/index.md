@@ -61,12 +61,12 @@ is not a fundamental equation.
 It is a *readout artifact*—a
 coarse-grained projection
 of the $τ$-Einstein equation
-(\S[sec:ch34-newton-from-tau-einstein])
+(\S)
 that appears exact
 when three conditions hold:
 weak fields, slow speeds,
 and negligible boundary-character gradients
-(\S[sec:ch34-three-conditions]).
+(\S).
 When these conditions fail—at
 galactic scales,
 near compact objects,
@@ -79,20 +79,20 @@ The $τ$-framework offers a different path:
 the breakdown is not a signal
 of missing matter
 but a failure of the coarse-grained projection
-(\S[sec:ch34-failure-modes]).
+(\S).
 The same $τ$-Einstein equation
 that reproduces Newton in the solar system
 produces modified dynamics at galactic scales—not
 because new physics enters,
 but because the readout functor
 changes regime
-(\S[sec:ch34-regime-readout]).
+(\S).
 Closed orbits are dictionary entries
 in the classical readout,
 not fundamental laws
-(\S[sec:ch34-closed-orbits]).
+(\S).
 Straight lines seem natural
 only because the constraints
 that curve them are invisible
 to the coarse-grained eye
-(\S[sec:ch34-straight-line-illusion]).
+(\S).

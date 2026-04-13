@@ -66,7 +66,7 @@ that was never divided.
 
 This chapter makes this claim precise.
 The **Boundary Completeness Theorem**
-(Theorem [thm:ch56-boundary-completeness])
+
 proves that all four primitive sectors
 satisfy a commuting Hartogs square:
 every pair of sectors

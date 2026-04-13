@@ -45,7 +45,7 @@ a holomorphic function defined
 outside such a set extends across it.
 This chapter develops the $τ$-analog —
 **primorial thinness**
-(Definition [def:primorial-thinness], I.D67):
+(the relevant definition, I.D67):
 $K ⊆ 𝕃$ is thin if,
 at each primorial stage,
 it misses $≥ 2$ independent CRT directions.
@@ -54,9 +54,9 @@ The **CRT Extension Lemma**
 reconstructs function values locally
 along the missing directions.
 The **Removable Singularity Theorem**
-(Theorem [thm:removable-singularity], I.T30)
+(the relevant theorem, I.T30)
 shows that a bounded HolFun on $𝕃 \setminus K$
 with $K$ thin extends uniquely to $𝕃$.
 This is the *local* Hartogs extension —
 the global theorem follows in
-Chapter [ch:global-hartogs].
+the relevant chapter.

@@ -49,7 +49,7 @@ to decompose the lift
 into two independent channels.
 The bipolar idempotents
 $e_± = (1 ± \jj)/2$
-(II.D33, Chapter [ch:j-replaces-i])
+(II.D33, the relevant chapter)
 split the lift into a B-sector component
 and a C-sector component,
 each governed by its own calibration constant
@@ -57,9 +57,9 @@ each governed by its own calibration constant
 The coupling between the two channels
 is controlled by the master constant
 $ι_τ = 2/(π + e)$
-(I.D24, Book I; II.T25, Chapter [ch:iota-tau-confirmed]).
+(I.D24, Book I; II.T25, the relevant chapter).
 The main results are:
-the lift *exists* (Theorem [thm:bndlift-existence]),
+the lift *exists* ,
 it is *unique*
 (forced by CRT and the diagonal discipline K5),
 and the two channels are *independent*

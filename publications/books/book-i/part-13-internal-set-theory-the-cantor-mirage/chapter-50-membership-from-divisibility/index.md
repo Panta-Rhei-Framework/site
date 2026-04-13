@@ -44,7 +44,7 @@ This chapter takes the opposite approach:
 membership is *defined*
 in terms of a relation already earned —
 internal divisibility
-(Chapter [ch:primes-divisibility]).
+.
 The definition $A ∈_τ B \iff A \mid B$
 is simple, but its consequences are far-reaching:
 membership becomes decidable,

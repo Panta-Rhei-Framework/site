@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 25: Circles from Solenoidal Structure"
 next_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-27-e-earned-the-self-reproducing-growth-base/"
 next_chapter_title: "Chapter 27: e Earned — The Self-Reproducing Growth Base"
-summary_short: "Chapters [ch:lines-countable] and [ch:circles-solenoidal] earned lines and circles from the primorial tower: $ℝ$ as the Archimedean shadow of the radial…"
+summary_short: "Chapters  and  earned lines and circles from the primorial tower: $ℝ$ as the Archimedean shadow of the radial…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -38,8 +38,8 @@ right_rail:
 ---
 
 
-Chapters [ch:lines-countable]
-and [ch:circles-solenoidal]
+Chapters 
+and 
 earned lines and circles
 from the primorial tower:
 $ℝ$ as the Archimedean shadow
@@ -53,7 +53,7 @@ This chapter earns the first transcendental constant:
 **$π = 3.14159…$**.
 Three independent constructions produce $π$,
 and their agreement is a **theorem**
-(Theorem [thm:three-pi], II.T22):
+(the relevant theorem, II.T22):
 enumerate
  \item[(T)]
  **Topological $π$**:
@@ -66,7 +66,7 @@ enumerate
  the circumference-to-diameter ratio
  of the earned circle $S^1$,
  computed via the Archimedes polygon sequence
- (Definition [def:archimedes-polygon], II.D29).
+ (the relevant definition, II.D29).
  \item[(S)]
  **Spectral $π$**:
  the spectral radius

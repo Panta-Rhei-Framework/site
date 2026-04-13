@@ -46,11 +46,11 @@ that requires the spectral force framework of Book III
 (enrichment layer $E_2$).
 What this chapter establishes is the structural prerequisite:
 **proto-rationality**
-(Definition [def:proto-rationality], II.D66),
+(the relevant definition, II.D66),
 the condition that spectral coefficients of
 $τ$-$L$-functions lie in the image of the
 canonical basis $B_τ$
-(Definition [def:canonical-basis], II.D45).
+(the relevant definition, II.D45).
 The **BSD Bridge**
 (Remark [rem:bsd-bridge], II.R18)
 identifies what Book II provides

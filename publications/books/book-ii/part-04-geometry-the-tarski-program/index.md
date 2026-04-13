@@ -32,39 +32,39 @@ right_rail:
 
 Part IV executes the Tarski program: deriving Euclidean geometry from
 ultrametric foundations.
-The two-readout principle (II.D18a, Chapter [ch:connectivity-via-coherence])
+The two-readout principle (II.D18a, the relevant chapter)
 established that geometry is the coarse-grain readout of the coherence kernel,
 parallel to (not dependent on) the fine-grain topological readout of Part III.
 Five chapters earn betweenness, congruence, Pasch, and the parallel postulate
 as theorems—not axioms.
 
-Chapter [ch:betweenness] defines the betweenness relation $B(x,y,z)$ from
+the relevant chapter defines the betweenness relation $B(x,y,z)$ from
 ultrametric ordering on NF prefixes.
-{\bfseries Theorem II.T15} verifies that betweenness satisfies Tarski axioms T1–T3.
+**Theorem II.T15** verifies that betweenness satisfies Tarski axioms T1–T3.
 
-Chapter [ch:congruence] defines congruence $≅$ from the canonical
+the relevant chapter defines congruence $≅$ from the canonical
 ultrametric distance $d(x,y) = 2^{-δ(x,y)}$.
-{\bfseries Theorem II.T16} verifies Tarski congruence axioms C1–C6.
+**Theorem II.T16** verifies Tarski congruence axioms C1–C6.
 Euclidean congruence emerges from a non-Archimedean base.
 
-Chapter [ch:pasch-parallel] proves both the Pasch axiom and the
-parallel postulate as {\bfseries Theorems II.T17–II.T18}.
+the relevant chapter proves both the Pasch axiom and the
+parallel postulate as **Theorems II.T17–II.T18**.
 Pasch follows from ultrametric triangle structure;
 the parallel postulate follows from cylinder separability.
 
-Chapter [ch:wave-causal] explains that split-complex holomorphy
+the relevant chapter explains that split-complex holomorphy
 generates wave-type PDEs (not Laplacian).
 Characteristic curves define a causal structure.
 Euclidean geometry emerges as the static limit (wave speed $→ ∞$).
 
-Chapter [ch:orthodox-bridge] outlines the denotation map
+the relevant chapter outlines the denotation map
 from $τ$-geometry to classical Euclidean geometry.
 $ℝ^4$ appears as a limit of $τ$-approximations,
 not as an ambient space.
 This bridges to the calibration dictionary of Part V.
 
 Together, these five chapters show that Euclidean geometry is
-a {\itshape theorem} in $τ$, earned from the axioms.
+a *theorem* in $τ$, earned from the axioms.
 
 ## Chapters
 

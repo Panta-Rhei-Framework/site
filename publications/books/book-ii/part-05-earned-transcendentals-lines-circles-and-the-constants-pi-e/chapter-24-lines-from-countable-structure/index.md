@@ -42,7 +42,7 @@ Part IV constructed the denotation map
 $den : τ^3 → ℝ^4$
 by sending each $τ$-admissible point
 to the limit of its stage-$k$ approximation sequence
-(Chapter [ch:orthodox-bridge]).
+.
 The map is well-defined and preserves all Tarski axioms,
 but it treats $ℝ$ as a target:
 the real line appears as the Archimedean completion
@@ -57,7 +57,7 @@ its metric is ultrametric,
 and its closure—the inverse limit
 of stage-$k$ projections—recovers
 the classical real line.
-**Theorem [thm:real-inverse-limit**] (II.T20):
+**the relevant theorem (II.T20):
 $ℝ$ is the Archimedean shadow
 of the $α$-ray inverse limit,
 not an uncountable continuum
@@ -65,4 +65,4 @@ not an uncountable continuum
 Level circles at each NF depth
 provide the transverse slices
 that will become solenoidal circles
-in Chapter [ch:circles-solenoidal].
+in the relevant chapter.

@@ -48,5 +48,5 @@ inside (*Leib*) and the body as observed from outside
 of a single structural fact. Perception is bodily engagement: what
 can be perceived depends on the body's sensorimotor repertoire, which
 constrains the available covers. The body is a boundary in the
-precise sense of Chapter [ch:boundary-archetype]—a lemniscate-like
+precise sense of the relevant chapter—a lemniscate-like
 interface between interiority and exteriority.

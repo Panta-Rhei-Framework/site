@@ -36,7 +36,7 @@ structure from the holomorphic atlas, preview BSD, lay out the
 differential-geometric agenda, launch the enrichment frontier,
 and crystallize the entire book into a single diagram.
 
-Chapter [ch:complete-dependency] traces the full dependency chain
+the relevant chapter traces the full dependency chain
 through the split-complex lens:
 Prime Polarity (I.T05)
 $→$ bipolar idempotents (I.D21)
@@ -54,20 +54,20 @@ $→$ Yoneda
 $→$ Central Theorem.
 Every step is earned; no external imports.
 
-Chapter [ch:bsd-bridge] introduces proto-rationality in the split-complex regime.
+the relevant chapter introduces proto-rationality in the split-complex regime.
 Classical BSD is deferred to Book VI.
 This chapter bridges: $τ$ begins to engage transcendental number
-theory via {\itshape L}-functions and modular forms,
+theory via *L*-functions and modular forms,
 but the full BSD proof requires the enrichment ladder $E_2$.
 
-Chapter [ch:forward-book3] previews Book III's mission.
+the relevant chapter previews Book III's mission.
 The eight spectral forces will operate in $H_τ$ (not $ℂ$).
 $ι_τ$ calibration carries to all forces.
 Riemann Hypothesis, Navier-Stokes, Yang-Mills: all in split-complex regime.
 The enrichment ladder $E_0 → E_1 → E_2 → E_3$ is explicit.
 Book III tackles the Millennium Problems in layer $E_1 → E_2$.
 
-Chapter [ch:tau-manifold] defines the $τ$-manifold: a smooth manifold
+the relevant chapter defines the $τ$-manifold: a smooth manifold
 $(M, A_τ)$ whose transition functions are $τ$-analytic.
 The model spaces $τ^1$ (base), $T^2$ (fiber), and
 $τ^3 = τ^1 ×_f T^2$ (total) are earned from the holomorphic atlas
@@ -75,14 +75,14 @@ of Parts I–IX.
 The $τ$-exterior derivative $d_τ \colon Ω^k_τ → Ω^{k+1}_τ$
 is nilpotent ($d_τ^2 = 0$), completing the smooth layer.
 
-Chapter [ch:diff-geo-agenda] previews the differential-geometric programme
+the relevant chapter previews the differential-geometric programme
 for Book III: $τ$-connections, $τ$-sheaf cohomology, $τ$-Riemannian
 metrics, and $τ$-Hodge decomposition.
 The enrichment ladder $E_0 → E_1 → E_2 → E_3$ is made explicit:
 Book I lives at $E_0$, Book II at $E_1$;
 Books III–V earn $E_2$ (physics), and Book VI earns $E_3$ (life).
 
-Chapter [ch:results-inventory] provides a complete inventory:
+the relevant chapter provides a complete inventory:
 all theorems (II.T01–II.T38),
 all definitions (II.D01–II.D61),
 all lemmas, propositions, corollaries, remarks.
@@ -91,7 +91,7 @@ full BSD proof, Millennium Problems in split-complex regime,
 $E_1 → E_2$ physics enrichment, Navier-Stokes regularity as positive structure.
 All Lean modules verified with zero {\tt sorry}.
 
-Chapter [ch:geometric-bisquare] constructs the
+the relevant chapter constructs the
 **geometric bi-square**:
 the algebraic bi-square of Book I (I.T41)
 filled with every geometric object earned in Parts I–IX.

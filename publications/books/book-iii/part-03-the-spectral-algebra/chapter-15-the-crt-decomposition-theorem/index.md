@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 14: The Primorial Ladder"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-16-hensel-lifting-and-local-fields/"
 next_chapter_title: "Chapter 16: Hensel Lifting and Local Fields"
-summary_short: "Chapter [ch:primorial-ladder] established the primorial ladder $Prim(k) = p_1 ⋯ p_k$ as the canonical cofinal filtration of the $τ$ kernel. Every $τ$-effective…"
+summary_short: "the relevant chapter established the primorial ladder $Prim(k) = p_1 ⋯ p_k$ as the canonical cofinal filtration of the $τ$ kernel. Every $τ$-effective…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:primorial-ladder] established the primorial ladder
+the relevant chapter established the primorial ladder
 $Prim(k) = p_1 ⋯ p_k$
 as the canonical cofinal filtration of the $τ$ kernel.
 Every $τ$-effective property reduces to finitely many

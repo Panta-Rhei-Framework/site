@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chap
 prev_chapter_title: "Chapter 38: The Elliptic Quaternions"
 next_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chapter-40-characters-on-the-algebraic-lemniscate/"
 next_chapter_title: "Chapter 40: Characters on the Algebraic Lemniscate"
-summary_short: "The CRT isomorphism $\\hatℤ_τ ≅ ∏_p ℤ_p$ (Chapter [ch:profinite-boundary-ring]) decomposes the boundary ring into local factors, and the spectral characters…"
+summary_short: "The CRT isomorphism $\\hatℤ_τ ≅ ∏_p ℤ_p$  decomposes the boundary ring into local factors, and the spectral characters…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-09-earned-number-systems/"
@@ -40,10 +40,10 @@ right_rail:
 
 The CRT isomorphism
 $\hatℤ_τ ≅ ∏_p ℤ_p$
-(Chapter [ch:profinite-boundary-ring])
+
 decomposes the boundary ring into local factors,
 and the spectral characters $χ_+$, $χ_-$
-(see Part X, Definition [def:lemniscate-characters], I.D37)
+(see Part X, the relevant definition, I.D37)
 probe each factor.
 This chapter identifies *where* those characters live:
 the **cyclotomic fields**

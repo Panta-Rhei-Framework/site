@@ -40,7 +40,7 @@ right_rail:
 
 The orthodox presentation postulates protons and electrons as fundamental
 particles and builds atoms from them. Category $τ$ reverses this order.
-The neutron is primary (Chapter [ch:iv-neutron-minimal]).
+The neutron is primary .
 $β$-decay has been demonstrated
-(Chapter [ch:iv-beta-decay]). Now we **derive** the proton and
+. Now we **derive** the proton and
 the electron as products of that decay. They are earned, not assumed.

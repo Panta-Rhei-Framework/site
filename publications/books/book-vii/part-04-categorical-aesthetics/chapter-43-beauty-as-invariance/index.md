@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/c
 prev_chapter_title: "Chapter 42: The Aesthetic Functional"
 next_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/chapter-44-elegance-and-minimal-tension/"
 next_chapter_title: "Chapter 44: Elegance and Minimal Tension"
-summary_short: "Chapter [ch:aesthetic-functional] established the structural identification: a motif is beautiful if and only if the aesthetic functional vanishes, i.e., the…"
+summary_short: "the relevant chapter established the structural identification: a motif is beautiful if and only if the aesthetic functional vanishes, i.e., the…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-04-categorical-aesthetics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:aesthetic-functional] established the structural
+the relevant chapter established the structural
 identification: a motif is beautiful if and only if the aesthetic
 functional vanishes, i.e., the motif is invariant under all admissible
 transformations. This chapter tests the identification against three

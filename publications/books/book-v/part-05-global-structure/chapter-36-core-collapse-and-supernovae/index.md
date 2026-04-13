@@ -54,7 +54,7 @@ a core-collapse supernova.
 This chapter interprets the collapse
 in the language of Category $τ$.
 The trigger is not a failure of pressure support
-in the na\"ive sense.
+in the naïve sense.
 It is the **opening of a topological channel**—a
 transition in the defect functional
 from $d_{top} = 0$
@@ -63,7 +63,7 @@ occurs when the GR tension
 (the difference between the $D$-sector curvature
 and the fiber-sector pressure)
 exceeds a critical threshold
-(\S[sec:ch39-trigger]).
+(\S).
 
 The explosion mechanism
 (the “bounce and revival” of the shock)
@@ -72,14 +72,14 @@ the topological channel that opened inward
 during collapse
 reverses direction at nuclear density,
 driving a shock outward
-(\S[sec:ch39-bounce]).
+(\S).
 The neutrino-driven mechanism
 is a $A$-sector (Weak) energy transfer
 from the proto-neutron star to the stalled shock
-(\S[sec:ch39-neutrino-mechanism]).
+(\S).
 
 The chapter closes with the nucleosynthesis bridge
-(\S[sec:ch39-nucleosynthesis]):
+(\S):
 the explosive environment
 forges elements heavier than iron
 through rapid neutron capture (the $r$-process),

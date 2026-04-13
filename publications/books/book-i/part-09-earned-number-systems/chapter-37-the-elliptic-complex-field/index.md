@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chap
 prev_chapter_title: "Chapter 36: The Constructive Reals: Ordered Field and Completeness"
 next_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-38-the-elliptic-quaternions/"
 next_chapter_title: "Chapter 38: The Elliptic Quaternions"
-summary_short: "Chapter [ch:number-tower] defined $ℂ_τ = ℝ_τ[i]$ with $i^2 = -1$ as the top level of the number tower, and Remark [rem:ch39-two-i] distinguished the elliptic…"
+summary_short: "the relevant chapter defined $ℂ_τ = ℝ_τ[i]$ with $i^2 = -1$ as the top level of the number tower, and Remark [rem:ch39-two-i] distinguished the elliptic…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-09-earned-number-systems/"
@@ -38,16 +38,16 @@ right_rail:
 ---
 
 
-Chapter [ch:number-tower] defined $ℂ_τ = ℝ_τ[i]$
+the relevant chapter defined $ℂ_τ = ℝ_τ[i]$
 with $i^2 = -1$ as the top level of the number tower,
 and Remark [rem:ch39-two-i] distinguished the elliptic unit $i$
-from the hyperbolic unit $j$ of Chapter [ch:split-complex-scalars].
+from the hyperbolic unit $j$ of the relevant chapter.
 This chapter develops $ℂ_τ$ as a complete algebraic object.
 We verify the field axioms,
 define conjugation and the multiplicative norm,
 and state the central structural result of this Part:
 the **elliptic–hyperbolic dichotomy**
-(Definition [def:elliptic-hyperbolic]),
+,
 which classifies the two quadratic extensions of $ℝ_τ$
 by the sign of the defining relation ($i^2 = -1$ vs. $j^2 = +1$)
 and by the presence or absence of zero divisors.

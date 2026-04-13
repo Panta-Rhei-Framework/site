@@ -68,7 +68,7 @@ $(g ∘ f)_± = g_± ∘ f_±$,
 the channels do not mix),
 and **complete**
 ($f_+$ and $f_-$ together determine $f$ uniquely).
-**Definition [def:canonical-decomposition**] (II.D48)
+**the relevant definition (II.D48)
 formalizes the canonical decomposition.
 **Proposition [prop:decomposition-functoriality**] (II.P09)
 establishes functoriality.

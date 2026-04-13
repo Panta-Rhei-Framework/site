@@ -47,4 +47,4 @@ free energy, the ethical arrow points toward coherence, and the second
 law of thermodynamic ethics states that admissible policies do not
 increase defect along any relevant loop. The result is not a reduction
 of ethics to physics but a structural parallel that sharpens the
-non-harm constraint of Test 4 (Chapter [ch:four-tests]).
+non-harm constraint of Test 4 .

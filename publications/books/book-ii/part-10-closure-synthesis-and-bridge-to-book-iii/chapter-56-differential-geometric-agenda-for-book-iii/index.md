@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bri
 prev_chapter_title: "Chapter 55: τ-Manifold Structure from Holomorphic Atlas"
 next_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-57-bsd-bridge-proto-rationality-in-split-complex-regime/"
 next_chapter_title: "Chapter 57: BSD Bridge: Proto-Rationality in Split-Complex Regime"
-summary_short: "Book II has earned interior holomorphy: the $τ$-manifold structure (Definition [def:tau-manifold], II.D63), the holomorphic atlas (Definition…"
+summary_short: "Book II has earned interior holomorphy: the $τ$-manifold structure (the relevant definition, II.D63), the holomorphic atlas (Definition…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
@@ -40,9 +40,9 @@ right_rail:
 
 Book II has earned interior holomorphy:
 the $τ$-manifold structure
-(Definition [def:tau-manifold], II.D63),
+(the relevant definition, II.D63),
 the holomorphic atlas
-(Definition [def:tau-analytic-atlas], II.D64),
+(the relevant definition, II.D64),
 the Central Theorem
 $O(τ^3) ≅ A_{spec}(\Lemniscate)$ (II.T40),
 and the categoricity of $τ^3$ (II.T42).
@@ -53,18 +53,18 @@ and the Millennium Problems.
 This chapter is a **preview**:
 it declares what Book III must accomplish
 without proving anything.
-We inventory what Book III inherits (Section [sec:ch55-inheritance]),
+We inventory what Book III inherits ,
 then present four previews—$τ$-connections
-(Section [sec:ch55-connections]),
+,
 $τ$-sheaf cohomology
-(Section [sec:ch55-cohomology]),
+,
 $τ$-metric geometry
-(Section [sec:ch55-metric]),
+,
 and $τ$-Hodge theory
-(Section [sec:ch55-hodge])—and
+—and
 close with the enrichment ladder
 that organizes the full seven-book programme
-(Section [sec:ch55-enrichment]).
+.
 **Remark [rem:diff-geo-agenda**] (II.R21)
 records the agenda as a formal forward declaration.
 **Remark [rem:enrichment-forward**] (II.R22)

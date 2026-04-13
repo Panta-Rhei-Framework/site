@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror
 prev_chapter_title: "Chapter 73: The TauLib Linearity Audit"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-75-star-autonomous-categories-and-the-diagonal-barrier/"
 next_chapter_title: "Chapter 75: Star-Autonomous Categories and the Diagonal Barrier"
-summary_short: "Chapter [ch:linearity-audit] closed with the Gap Declaration (Remark [rem:gap-declaration], I.R17): CIC's structural rules, type formation rules, and kernel…"
+summary_short: "the relevant chapter closed with the Gap Declaration (Remark [rem:gap-declaration], I.R17): CIC's structural rules, type formation rules, and kernel…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:linearity-audit] closed with the Gap Declaration
+the relevant chapter closed with the Gap Declaration
 (Remark [rem:gap-declaration], I.R17):
 CIC's structural rules, type formation rules,
 and kernel axioms remain unearned —
@@ -46,7 +46,7 @@ honest starting conditions,
 not defects.
 The enrichment ladder
 $E_0 → E_1 → E_2 → E_3$
-(Definition [def:enrichment-ladder])
+
 charts a path from external CIC substrate
 to full self-hosting,
 where $τ$ reasons about its own proof theory
@@ -60,7 +60,7 @@ This chapter surveys the landscape.
 The answer is no.
 
 The **Self-Hosting Degree Classification**
-(Definition [def:self-hosting-degree], I.D80)
+(the relevant definition, I.D80)
 establishes four levels:
 none, partial, fragment, and full.
 We then examine the structural wall —
@@ -94,6 +94,6 @@ can cross the wall.
 It identifies precisely where the wall stands
 and why $K5$'s linear discipline —
 confirmed by the Diagonal–Linear Correspondence
-(Theorem [thm:diagonal-linear], I.T37) —
+(the relevant theorem, I.T37) —
 may offer a structural route
 that contraction-based frameworks cannot take.

@@ -35,36 +35,36 @@ from purely countable discrete structure.
 Six chapters bridge from ABCD refinement rays to the classical constants
 and the Archimedean-Non-Archimedean duality.
 
-Chapter [ch:lines-countable] defines the $α$-ray as the canonical
+the relevant chapter defines the $α$-ray as the canonical
 “real line” $ℓ_α = \{α_n : n ≥ 1\} ∪ \{ω\}$
 and shows that $ℝ$ appears as the inverse limit of ultrametric
 radial sequences—not as an uncountable continuum (consistent with Book I's
 Cantor refutation, I.T35).
 
-Chapter [ch:circles-solenoidal] constructs circles as solenoidal inverse
+the relevant chapter constructs circles as solenoidal inverse
 limits in A/B/C coordinates.
-Each angular tower's inverse limit {\itshape is} $S^1$ (a profinite circle),
+Each angular tower's inverse limit *is* $S^1$ (a profinite circle),
 unifying geometric and topological circles.
 
-Chapter [ch:pi-earned] proves
-{\bfseries Theorem II.T22}: three perspectives on $π$ converge.
+the relevant chapter proves
+**Theorem II.T22**: three perspectives on $π$ converge.
 Topological $π$ from the lemniscate period (I.T05);
 geometric $π$ via the Archimedes polygon method (circumference/diameter);
 spectral $π$ as the spectral radius of B-channel primes (I.D19 boundary ring).
 All three yield $π = 3.14159…$.
 
-Chapter [ch:e-earned] derives $e$ as the eigenvalue of the $ν$-iterator
+the relevant chapter derives $e$ as the eigenvalue of the $ν$-iterator
 in the ladder $ρ → μ → ν → θ$ (I.D04).
 The unique self-reproducing growth base: $e = \lim(1+1/n)^n$ computed in earned index arithmetic.
 
-Chapter [ch:j-replaces-i] establishes $j$ (with $j^2 = +1$) from bipolar
+the relevant chapter establishes $j$ (with $j^2 = +1$) from bipolar
 polarity structure.
-$τ$ has no rotation (no continuous $SO(2)$), only a {\itshape discrete}
+$τ$ has no rotation (no continuous $SO(2)$), only a *discrete*
 bipolar flip.
 Idempotents $e_± = (1 ± j)/2$ are canonical sector projections.
 
-Chapter [ch:iota-tau-confirmed] confirms the master constant
-$ι_τ = 2/(π + e)$ and establishes the {\bfseries Archimedean-Non-Archimedean Bridge}:
+the relevant chapter confirms the master constant
+$ι_τ = 2/(π + e)$ and establishes the **Archimedean-Non-Archimedean Bridge**:
 ultrametric refinement (D-depth) and Euclidean resolution (ABC precision)
 describe the same process from two coordinate perspectives.
 $τ$ accesses transcendentals without importing $ℝ$.

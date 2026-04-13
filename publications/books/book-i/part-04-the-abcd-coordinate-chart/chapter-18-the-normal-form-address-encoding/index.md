@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/
 prev_chapter_title: "Chapter 17: Tower Atoms and the Greedy Peel"
 next_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-19-the-abcd-coordinate-chart/"
 next_chapter_title: "Chapter 19: The ABCD Coordinate Chart"
-summary_short: "Chapter [ch:tower-atoms] defined tower atoms and the greedy peel-off algorithm. The peel produces a single tuple $(\A, \B, \C,…"
+summary_short: "the relevant chapter defined tower atoms and the greedy peel-off algorithm. The peel produces a single tuple $(\A, \B, \C,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:tower-atoms] defined tower atoms
+the relevant chapter defined tower atoms
 and the greedy peel-off algorithm.
 The peel produces a single tuple
 $(A, B, C, D)$

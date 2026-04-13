@@ -45,9 +45,9 @@ as a structural mediator between the B and C channels
 At that stage, neither $π$ nor $e$ was earned:
 $ι_τ$ was a formal ratio
 awaiting numerical content.
-Chapters [ch:pi-earned] and [ch:e-earned]
+Chapters  and 
 earned $π$ and $e$ from the $τ$-framework itself,
-and Chapter [ch:j-replaces-i]
+and the relevant chapter
 established the bipolar unit $\jj$.
 This chapter closes the circle.
 We confirm $ι_τ = 2/(π + e)$

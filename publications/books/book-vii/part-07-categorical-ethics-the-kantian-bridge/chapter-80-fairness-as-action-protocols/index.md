@@ -40,9 +40,9 @@ right_rail:
 
 Fairness is not abstract principle but executable protocol. This
 chapter derives step-by-step procedures for fair decision-making from
-the structural foundations of dignity (Chapter [ch:dignity-foundation]),
-the categorical imperative (Chapter [ch:ci-sheaf]), and the
-no-conflict theorem (Chapter [ch:no-conflict]). The Fairness
+the structural foundations of dignity ,
+the categorical imperative , and the
+no-conflict theorem . The Fairness
 Protocol (VII.D67) formalizes the decision procedure; Fairness from
 CI (VII.P18) proves that the protocol is the unique dignity-preserving
 selection mechanism in boundary-symmetric settings. Applications

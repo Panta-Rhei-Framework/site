@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-10-the-logos-sector/chapter
 prev_chapter_title: "Chapter 122: Synchronicity as Kernel Resonance"
 next_chapter_url: "/publications/books/book-vii/part-10-the-logos-sector/chapter-124-the-logos-sector-synthesis/"
 next_chapter_title: "Chapter 124: The Logos Sector Synthesis"
-summary_short: "Preview of Part XII's central result. The boundary collapse lemma is *stated* here; the proof is deferred to Chapter [ch:boundary-collapse]. The $ω$-germ…"
+summary_short: "Preview of Part XII's central result. The boundary collapse lemma is *stated* here; the proof is deferred to the relevant chapter. The $ω$-germ…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-10-the-logos-sector/"
@@ -40,7 +40,7 @@ right_rail:
 
 Preview of Part XII's central result. The boundary collapse lemma is
 *stated* here; the proof is deferred to
-Chapter [ch:boundary-collapse]. The $ω$-germ question—is
+the relevant chapter. The $ω$-germ question—is
 $ω$ inhabited?—cannot be answered from within $S_D$ because any
 $S_D$-internal proof of $ω$-inhabitation requires $ω$ as
 presupposition, collapsing subject and tool. Book VI proved the

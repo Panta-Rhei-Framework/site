@@ -33,33 +33,33 @@ right_rail:
 Part VIII proves that $τ$ enriches over itself, yielding Yoneda as a theorem.
 Five chapters build self-enrichment and the enrichment ladder.
 
-Chapter [ch:tau-self-enrichment] establishes the key structural fact:
+the relevant chapter establishes the key structural fact:
 $Hom(A,B) ∈ Obj(τ)$.
 Morphism spaces are objects.
 They are NF-addressable and valued in $H_τ$;
 each $Hom(A,B)$ inherits bipolar decomposition:
 $Hom(A,B) = e_+ · Hom_+(A,B) + e_- · Hom_-(A,B)$.
 
-Chapter [ch:yoneda-theorem] proves
-{\bfseries Theorem II.T36}: the Yoneda embedding $τ \hookrightarrow [τ^{op}, τ]$
-as a {\itshape theorem} (not axiom).
+the relevant chapter proves
+**Theorem II.T36**: the Yoneda embedding $τ \hookrightarrow [τ^{op}, τ]$
+as a *theorem* (not axiom).
 The proof uses probe naturality: the same condition that forced
 continuity in Part II now forces Yoneda embedding.
 This is the deep reason holomorphy is primitive in $τ$.
 
-Chapter [ch:two-categories] shows how enrichment layers iterate:
+the relevant chapter shows how enrichment layers iterate:
 $τ → [τ,τ] → [[τ,τ],[τ,τ]]$.
 Two-morphisms arise from $Hom(Hom(A,B), Hom(C,D))$.
 Split-complex structure propagates to all higher layers.
 This is the beginning of the self-enrichment ladder $E_0 → E_1 → E_2 → E_3$.
 
-Chapter [ch:self-describing] articulates that $τ$ describes its own morphisms.
-Self-enrichment {\itshape is} self-description.
+the relevant chapter articulates that $τ$ describes its own morphisms.
+Self-enrichment *is* self-description.
 The split-complex codomain is rich enough for self-reference.
 This transition from $E_0$ (Book I + Part I–VII) to $E_1$ (Part VIII)
 initiates the enrichment frontier (I.D82).
 
-Chapter [ch:book3-foundation] previews the enrichment ladder:
+the relevant chapter previews the enrichment ladder:
 $E_0 = τ$ (Books I + II Parts I–VII);
 $E_1 = τ$ enriched over itself (Book II Part VIII);
 $E_2 = $ Physics layer (Books III–V, not yet earned);

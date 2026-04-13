@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 24: Lines from Countable Structure"
 next_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-26-three-perspectives-on-pi/"
 next_chapter_title: "Chapter 26: Three Perspectives on π"
-summary_short: "Chapter [ch:lines-countable] earned the real line as the Archimedean shadow of the radial $α$-ray and introduced level circles $Λ_k^X$ as finite cyclic groups…"
+summary_short: "the relevant chapter earned the real line as the Archimedean shadow of the radial $α$-ray and introduced level circles $Λ_k^X$ as finite cyclic groups…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -38,17 +38,17 @@ right_rail:
 ---
 
 
-Chapter [ch:lines-countable] earned the real line
+the relevant chapter earned the real line
 as the Archimedean shadow of the radial $α$-ray
 and introduced level circles $Λ_k^X$
 as finite cyclic groups at each NF stage.
 This chapter takes the inverse limit
 of those level circles and produces
 the **solenoidal circle**
-(Definition [def:solenoidal-circle], II.D26):
+(the relevant definition, II.D26):
 a profinite group whose Archimedean projection
 is the classical circle $S^1$.
-**Theorem [thm:circle-profinite**] (II.T21):
+**the relevant theorem (II.T21):
 $S^1$ is the Archimedean shadow
 of the solenoidal inverse limit—not
 an independently existing uncountable continuum.
@@ -58,6 +58,6 @@ and the topological circle
 (the unique compact connected $1$-manifold)
 are identified as two descriptions
 of the same solenoidal limit object
-(Definition [def:geo-topo-unification], II.D27).
+(the relevant definition, II.D27).
 No uncountable continuum is needed at any step
 (I.T35, Book I).

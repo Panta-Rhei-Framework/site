@@ -45,7 +45,7 @@ structural: it is a special case of the Beauty as Invariance theorem
 (VII.T19). A fractal is beautiful because it is an invariant of the
 scaling transformation; the observer recognizes the same motif at
 every magnification, producing the resonance of
-Chapter [ch:pre-symbolic]. Natural fractals—coastlines,
+the relevant chapter. Natural fractals—coastlines,
 trees, lungs, river networks, mountain profiles—demonstrate that
 self-similarity is not a mathematical curiosity but a design principle
 pervasive in the physical world. The aesthetic appeal of fractal

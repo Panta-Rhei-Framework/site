@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapte
 prev_chapter_title: "Chapter 40: The Physics Layer Complete"
 next_chapter_url: "/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-42-tau/"
 next_chapter_title: "Chapter 42: τ"
-summary_short: "Part V proved three theorems at enrichment level $E_1$: positive regularity (Theorem [thm:positive-regularity], Ch. 37), the Yang–Mills gap (Theorem…"
+summary_short: "Part V proved three theorems at enrichment level $E_1$: positive regularity (the relevant theorem, Ch. 37), the Yang–Mills gap (Theorem…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-06-the-arithmetic-mirror/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Part V proved three theorems at enrichment level $E_1$: positive regularity (Theorem [thm:positive-regularity], Ch. 37), the Yang–Mills gap (Theorem [thm:yang-mills-gap-theorem], Ch. 40), and NF-addressability (Theorem [thm:nf-addressability], Ch. 42). All three were stated as $E_1$ results, but the enrichment step itself—the passage from $E_0$ to $E_1$—was used implicitly: each chapter assumed the split-complex structure, the sector decomposition, and the defect functional framework without isolating the functor that creates them. This chapter makes the functor explicit. We define the enrichment functor $Enr_{01}$ (Definition [def:enrichment-functor-e01]), catalogue the three structural additions it provides, and recast Part V's capstone results as three readings of a single Mutual Determination instance at $E_1$ (Definition [def:e1-mutual-determination], Proposition [prop:three-reading-equivalence-e1]). The chapter closes with a preview of the $E_1 → E_2$ step that BSD and Langlands will supply.
+Part V proved three theorems at enrichment level $E_1$: positive regularity (the relevant theorem, Ch. 37), the Yang–Mills gap (the relevant theorem, Ch. 40), and NF-addressability (the relevant theorem, Ch. 42). All three were stated as $E_1$ results, but the enrichment step itself—the passage from $E_0$ to $E_1$—was used implicitly: each chapter assumed the split-complex structure, the sector decomposition, and the defect functional framework without isolating the functor that creates them. This chapter makes the functor explicit. We define the enrichment functor $Enr_{01}$ , catalogue the three structural additions it provides, and recast Part V's capstone results as three readings of a single Mutual Determination instance at $E_1$ (the relevant definition, Proposition [prop:three-reading-equivalence-e1]). The chapter closes with a preview of the $E_1 → E_2$ step that BSD and Langlands will supply.

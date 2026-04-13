@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chap
 prev_chapter_title: "Chapter 39: Cyclotomic Fields and Roots of Unity"
 next_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chapter-41-spectral-decomposition/"
 next_chapter_title: "Chapter 41: Spectral Decomposition"
-summary_short: "Chapter [ch:bipolar-algebra] earned the algebraic lemniscate $𝕃 = (H_τ, ω_𝕃, σ)$ as the pre-geometric boundary of $τ$, and Chapter [ch:split-complex-scalars]…"
+summary_short: "the relevant chapter earned the algebraic lemniscate $𝕃 = (H_τ, ω_𝕃, σ)$ as the pre-geometric boundary of $τ$, and the relevant chapter…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-10-lemniscate-characters/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-Chapter [ch:bipolar-algebra] earned the algebraic lemniscate
+the relevant chapter earned the algebraic lemniscate
 $𝕃 = (H_τ, ω_𝕃, σ)$
 as the pre-geometric boundary of $τ$,
-and Chapter [ch:split-complex-scalars] formalized
+and the relevant chapter formalized
 the split-complex scalar ring
 $\hatℤ_τ[j]$
 with its idempotent decomposition
@@ -52,17 +52,17 @@ into the split-complex scalars.
 The fundamental characters $χ_+$ and $χ_-$
 project onto the $B$-sector and $C$-sector respectively.
 The polarity character $\tildeχ$
-(Definition [def:polarity-character])
+
 is recovered as a character in this formal sense.
 The full character group $Char(𝕃)$
 is a group under pointwise multiplication,
 and every character traces back
 to the bipolar partition of primes
 established by the Prime Polarity Theorem
-(Theorem [thm:prime-polarity]).
+.
 Characters are the spectral probes of $𝕃$:
 they detect sector membership
 and will drive the spectral decomposition
-of Chapter [ch:spectral-decomposition]
+of the relevant chapter
 and the bipolar Fourier analysis
-of Chapter [ch:crossing-point].
+of the relevant chapter.

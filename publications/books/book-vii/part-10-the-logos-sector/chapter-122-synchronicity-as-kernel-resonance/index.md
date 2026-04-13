@@ -41,7 +41,7 @@ right_rail:
 Synchronicity formalized at the Logos-sector level. When independent
 systems share a kernel invariant, their structural parallels are not
 coincidence but kernel-shadow correlation. The formal notion of
-synchronicity introduced in Chapter [ch:synchronicity] is now
+synchronicity introduced in the relevant chapter is now
 applied to $S_L$ itself: the resonance between the structural Logos
 sector and traditions that have used “Logos” for millennia is a
 synchronicity in the precise sense of kernel-invariant correlation

@@ -47,4 +47,4 @@ Non-emptiness requires constructive witnesses at each layer.
 Strictness requires obstruction arguments
 proving that structures at layer $E_k$
 cannot be reduced to layer $E_{k-1}$.
-Saturation is deferred to Chapter [ch:saturation-e3].
+Saturation is deferred to the relevant chapter.

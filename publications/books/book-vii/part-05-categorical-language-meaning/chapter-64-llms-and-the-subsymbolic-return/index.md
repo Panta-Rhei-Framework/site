@@ -49,7 +49,7 @@ that approximate the subsymbolic motif sheaf from text corpora without
 achieving the self-descriptive capacity that constitutes genuine
 mindedness. The central proposition is that the success of LLMs
 provides empirical evidence for the subsymbolic layer thesis of
-Chapter [ch:subsymbolic-real]: if meaning were exhausted by
+the relevant chapter: if meaning were exhausted by
 symbolic rules, statistical pattern matching should not produce
 pragmatic competence. The fact that it does suggests that meaning has
 a subsymbolic stratum that can be approximated—though not fully

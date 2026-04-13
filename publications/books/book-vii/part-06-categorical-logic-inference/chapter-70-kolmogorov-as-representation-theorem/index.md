@@ -47,6 +47,6 @@ conditions*: they encode how the internal complexity of
 $τ$-constructions projects into numerical measures. Probability is
 derivative; structure is primary. The axioms are consequences of the
 kernel's architecture, not independent postulates, and the synthesis
-of Bayesian credences (Chapter [ch:bayesian-meso]) with
+of Bayesian credences  with
 Kolmogorov measures is explained by the fact that both represent the
 same underlying structural complexity viewed from different angles.

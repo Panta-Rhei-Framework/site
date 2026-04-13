@@ -37,23 +37,23 @@ With these tools in hand, the complexity arc begins in earnest.
 
 Part V builds upward from the generation structure of fermions
 to the full nuclear landscape and the periodic table.
-Chapter [ch:iv-three-generations] derives three generations
+the relevant chapter derives three generations
 as a topological necessity of $π_1(τ^3)$, and
-Chapter [ch:iv-koide-mass-hierarchies] unpacks the Koide relation
+the relevant chapter unpacks the Koide relation
 and mass hierarchies from character mode structure on $𝕃$.
-Chapter [ch:iv-hadrons-nuclei] treats hadrons as confined composites;
-Chapter [ch:iv-micro-donut-ternary] develops the micro-donut
+the relevant chapter treats hadrons as confined composites;
+the relevant chapter develops the micro-donut
 and its ternary structure—baryons as three-fold $T^2$ saturation,
 mesons as two-fold.
-Chapters [ch:iv-alpha-particle-nuclear]–[ch:iv-stellar-nucleosynthesis]
+Chapters –
 traverse the nuclear landscape:
 the $α$-particle as universal building block,
 light nuclei from helium to iron,
 heavy elements forged in supernovae and neutron star mergers,
 and stellar nucleosynthesis as $T^2$ saturation writ large.
-Chapter [ch:iv-periodic-table] derives the periodic table
+the relevant chapter derives the periodic table
 as a structural consequence of $T^2$ quantisation,
-and Chapter [ch:iv-particle-spectrum-complete]
+and the relevant chapter
 closes Part V with the complete particle spectrum—every Standard Model
 particle located, every coupling derived, zero free parameters
 beyond the neutron mass $m_n$.

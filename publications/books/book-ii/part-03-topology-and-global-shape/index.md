@@ -36,41 +36,41 @@ an invariant of canonical denotation, earn the geometric lemniscate
 from torus degeneration, and resolve the apparent paradox between
 total disconnectedness and Euclidean geometry.
 
-Chapter [ch:stone-space] proves three compactness theorems:
-{\bfseries Theorems II.T07–II.T09}.
+the relevant chapter proves three compactness theorems:
+**Theorems II.T07–II.T09**.
 $τ$ is compact (from inverse-limit construction, constructively),
 Hausdorff (from ultrametric separation), and totally disconnected
 (from clopen basis).
 Together, $τ$ is a Stone space—a profinite space.
 
-Chapter [ch:topology-invariant] establishes that topology is NOT chosen
+the relevant chapter establishes that topology is NOT chosen
 but earned: it is the unique topology making NF recursion continuous.
 Greedy extraction = winding number; ABCD coordinates determine
 the topology uniquely.
 There are no arbitrary topological choices in $τ$.
 
-Chapter [ch:dimension-four] defines $τ$-dimension as the minimal number
+the relevant chapter defines $τ$-dimension as the minimal number
 of independent refinement rays and proves
-{\bfseries Theorem II.T11}: $\dim_τ = 4$ with a forced $1+3$ split
+**Theorem II.T11**: $\dim_τ = 4$ with a forced $1+3$ split
 (D radial, ABC solenoidal).
 
-Chapter [ch:boundary-minimality] extends the Boundary Minimality Theorem
+the relevant chapter extends the Boundary Minimality Theorem
 (I.T05 from Book I) to the interior context and shows that the boundary
 lemniscate $𝕃 = S^1 ∨ S^1$ has two lobes corresponding to
 the bipolar channels (B and C).
 Idempotent lobes are topologically visible as complementary clopen subsets.
 
-Chapter [ch:torus-degeneration] earns the geometric realisation of the
+the relevant chapter earns the geometric realisation of the
 lemniscate: the $T^2$ fiber degenerates to $𝕃 = S^1 ∨ S^1$
 at the boundary via the canonical pinch map.
 Book I's algebraic lemniscate (I.D18) now receives its geometric body.
 The fundamental group changes from $ℤ^2$ to $F_2$
 (abelian to free non-abelian), yet both gauge factors $U(1)_γ$
 and $U(1)_η$ survive as lobe rotations on $𝕃$.
-{\bfseries Theorem II.T13} proves that the pinch map is the unique
+**Theorem II.T13** proves that the pinch map is the unique
 degeneration satisfying the five canonical constraints.
 
-Chapter [ch:connectivity-via-coherence] resolves the apparent paradox:
+the relevant chapter resolves the apparent paradox:
 how can a totally disconnected space support Euclidean geometry?
 The answer is the **two-readout principle** (II.D18a):
 topology (fine-grain) and geometry (coarse-grain) are parallel readouts

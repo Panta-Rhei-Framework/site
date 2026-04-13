@@ -56,11 +56,11 @@ complex analysis powerful.
 The $τ$-framework rescues D-holomorphy
 through two guards:
 enumerate
- \item **Tower coherence**:
+ - **Tower coherence**:
  a $τ$-holomorphic function
  must be compatible with every primorial reduction map,
  forcing cross-stage agreement via the Chinese Remainder Theorem.
- \item **Diagonal discipline**:
+ - **Diagonal discipline**:
  the no-diagonals axiom (K5)
  prevents any omega-germ from projecting nontrivially
  onto *both* idempotent sectors simultaneously,
@@ -70,7 +70,7 @@ Together, these constraints give $τ$-holomorphic functions
 the rigidity of complex holomorphy
 without the pathologies of classical D-holomorphy.
 The crown jewel is the **$τ$-Identity Theorem**
-(Chapter [ch:identity-theorem]):
+:
 agreement on deep enough omega-germs
 forces global equality —
 the hallmark of holomorphic rigidity.

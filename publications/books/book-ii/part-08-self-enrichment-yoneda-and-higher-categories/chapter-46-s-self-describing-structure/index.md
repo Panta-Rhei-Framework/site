@@ -52,10 +52,10 @@ The meta-level floats free of the object level.
 
 Category $\T$ breaks this pattern.
 The self-enrichment established in
-Chapter [ch:tau-self-enrichment]
+the relevant chapter
 (II.D53, II.D54)
 and the Yoneda embedding proved in
-Chapter [ch:yoneda-theorem] (II.T36)
+the relevant chapter (II.T36)
 combine to yield a structural fact:
 **$\T$ describes its own morphisms
 using its own language.**

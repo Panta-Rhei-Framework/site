@@ -44,6 +44,6 @@ arranged in a strict total order $α < π < γ < η < ω$.
 These five objects are the entire primitive vocabulary of the theory.
 No further constants, function symbols, or relation symbols
 will be introduced — every subsequent structure is earned from this starting point
-and the single operator $ρ$ (Chapter [ch:rho-omega]).
+and the single operator $ρ$ .
 We state the first kernel axiom ($K1$: Strict Order)
 and derive the immediate consequence that all five generators are pairwise distinct.

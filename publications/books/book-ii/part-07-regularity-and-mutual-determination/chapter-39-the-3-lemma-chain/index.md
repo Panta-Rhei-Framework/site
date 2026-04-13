@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-det
 prev_chapter_title: "Chapter 38: Idempotent Decomposition Lemma"
 next_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-40-regularity-as-positive-structure/"
 next_chapter_title: "Chapter 40: Regularity as Positive Structure"
-summary_short: "Chapter [ch:idempotent-decomposition] established the Idempotent Decomposition Lemma (II.L07): every $τ$-holomorphic map decomposes canonically as $f = e_+ ·…"
+summary_short: "the relevant chapter established the Idempotent Decomposition Lemma (II.L07): every $τ$-holomorphic map decomposes canonically as $f = e_+ ·…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:idempotent-decomposition]
+the relevant chapter
 established the Idempotent Decomposition Lemma (II.L07):
 every $τ$-holomorphic map decomposes canonically
 as $f = e_+ · f_+ + e_- · f_-$.
@@ -64,11 +64,11 @@ the $\jj$-involution interchanges the two sectors:
 $σ_\jj(G_+) = G_-$ and $σ_\jj(G_-) = G_+$,
 so the two channels carry symmetric information.
 Together, these three lemmas yield
-**Theorem [thm:hol-iff-idempotent**] (II.T33):
+**the relevant theorem (II.T33):
 $τ$-holomorphic $\Longleftrightarrow$
 idempotent-supported.
 This is the equivalence that unifies
 the analytic viewpoint (holomorphy)
 with the algebraic viewpoint (idempotent support structure),
 and it completes the regularity program
-initiated in Chapter [ch:idempotent-decomposition].
+initiated in the relevant chapter.

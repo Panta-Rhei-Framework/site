@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-6
 prev_chapter_title: "Chapter 63: Wedge Product and the Co-Cartesian Structure"
 next_chapter_url: "/publications/books/book-i/part-15-global-hartogs/chapter-65-spectral-coefficients-and-the-restriction-map/"
 next_chapter_title: "Chapter 65: Spectral Coefficients and the Restriction Map"
-summary_short: "Chapter [ch:cartesian-product] (Part XIV) earned the cartesian product $×$ in $E_τ$ (Definition [def:categorical-product], I.D60), and Part XIII built the…"
+summary_short: "the relevant chapter (Part XIV) earned the cartesian product $×$ in $E_τ$ (the relevant definition, I.D60), and Part XIII built the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-14-the-earned-topos/"
@@ -38,16 +38,16 @@ right_rail:
 ---
 
 
-Chapter [ch:cartesian-product] (Part XIV) earned
+the relevant chapter (Part XIV) earned
 the cartesian product $×$ in $E_τ$
-(Definition [def:categorical-product], I.D60),
+(the relevant definition, I.D60),
 and Part XIII built the Yoneda embedding
 $y : Cat_τ → PSh(Cat_τ)$
-(Definition [def:yoneda-embedding], I.D54).
+(the relevant definition, I.D54).
 This chapter constructs the **internal hom**
 (exponential) $Q^P$ in the earned topos
 $E_τ = PSh(Cat_τ)$
-(Definition [def:internal-hom], I.D64),
+(the relevant definition, I.D64),
 satisfying the universal property:
 $$
  \Hom(A × P, Q)
@@ -63,7 +63,7 @@ the exponential is determined
 by a **support predicate**
 on divisibility pairs.
 The **Cartesian Closed Theorem**
-(Theorem [thm:cartesian-closed], I.T28)
+(the relevant theorem, I.T28)
 proves that $E_τ$ has all exponentials,
 completing its structure as a cartesian closed category.
 The **Self-Enrichment Proposition**
@@ -74,5 +74,5 @@ the Hom-sets of $E_τ$
 live inside $E_τ$.
 The internal hom provides the function-space structure
 needed for the spectral coefficients
-of Chapter [ch:spectral-coefficients-holfun]
+of the relevant chapter
 and for the Global Hartogs Theorem (Part XV).

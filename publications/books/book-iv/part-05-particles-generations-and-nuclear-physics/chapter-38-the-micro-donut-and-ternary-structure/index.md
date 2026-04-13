@@ -47,6 +47,6 @@ and the saturation principle establishes stability. The ternary
 structure of hadrons—baryons as three-fold and mesons as two-fold
 $T^2$ composites—then follows from the three-fold covering
 structure of the C-sector
-(Chapter [ch:iv-strong-vacuum-holonomy]).
+.
 The donut ladder extends this architecture from $10^{-15}$ m to
 $10^{10}$ m.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-ver
 prev_chapter_title: "Chapter 64: What τ Refuses"
 next_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-66-what-tau-earns/"
 next_chapter_title: "Chapter 66: What τ Earns"
-summary_short: "Chapter [ch:refuses] catalogued what Category $τ$ structurally refuses. This chapter catalogues the opposite: **what $τ$ structurally gains**—theorems,…"
+summary_short: "the relevant chapter catalogued what Category $τ$ structurally refuses. This chapter catalogues the opposite: **what $τ$ structurally gains**—theorems,…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:refuses] catalogued
+the relevant chapter catalogued
 what Category $τ$ structurally refuses.
 This chapter catalogues the opposite:
 **what $τ$ structurally gains**—theorems,

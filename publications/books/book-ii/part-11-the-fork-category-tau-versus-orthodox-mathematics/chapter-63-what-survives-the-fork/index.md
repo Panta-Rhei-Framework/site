@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-ver
 prev_chapter_title: "Chapter 62: The Master Switch"
 next_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-64-what-tau-refuses/"
 next_chapter_title: "Chapter 64: What τ Refuses"
-summary_short: "Chapter [ch:master-switch-new] established that a single sign—$\\jj^2 = +1$ versus $i^2 = -1$—rewires twelve levels of mathematical structure. This chapter asks…"
+summary_short: "the relevant chapter established that a single sign—$\\jj^2 = +1$ versus $i^2 = -1$—rewires twelve levels of mathematical structure. This chapter asks…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:master-switch-new] established
+the relevant chapter established
 that a single sign—$\jj^2 = +1$ versus $i^2 = -1$—rewires
 twelve levels of mathematical structure.
 This chapter asks the complementary question:

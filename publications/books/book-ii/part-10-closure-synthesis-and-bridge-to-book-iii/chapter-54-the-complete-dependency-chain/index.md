@@ -46,9 +46,9 @@ through every definition, lemma, and theorem
 of Books I and II
 to the Central Theorem
 $O(τ^3) ≅ A_{spec}(\Lemniscate)$
-(Theorem [thm:central-theorem], II.T40).
+(the relevant theorem, II.T40).
 The dependency is organized as a directed acyclic graph
-(Definition [def:dependency-graph], II.D62)
+(the relevant definition, II.D62)
 whose unique sources are the axioms
 and whose unique sink is the Central Theorem.
 The **Complete Dependency Chain**

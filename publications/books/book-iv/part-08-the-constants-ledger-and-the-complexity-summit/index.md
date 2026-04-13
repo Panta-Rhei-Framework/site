@@ -33,32 +33,32 @@ right_rail:
 Part VIII draws together every constant, every derivation,
 every structural theorem developed throughout Book IV.
 
-The complete coupling ledger (Chapter [ch:iv-coupling-ledger])
+The complete coupling ledger 
 tabulates all ten inter-sector couplings as rational functions
 of a single number $ι_τ$.
 The ontological layer stack
-(Chapter [ch:iv-shared-ontological])
+
 organizes the derivations into a strict hierarchy:
 geometry first, spectral theory second, calibration third.
 The running-versus-readout distinction
-(Chapter [ch:iv-running-readout])
+
 explains why $τ^3$ has no renormalization group flow:
 constants are read out, not run.
 The 10-link mass ratio chain
-(Chapter [ch:iv-mass-ratio])
+
 derives $R = m_n / m_e$ from $ι_τ$ alone,
 matching CODATA to sub-ppm precision.
 The neutron lifetime
-(Chapter [ch:iv-neutron-lifetime])
+
 is the crown of the calibration cascade:
 the most complex derived quantity,
 depending on every earlier derivation.
 Laws as structure
-(Chapter [ch:iv-laws-structure])
+
 argues that physical laws are not external prescriptions
 but diagram-level tautologies within $τ^3$.
 And the finale
-(Chapter [ch:iv-synthesis])
+
 confronts the thesis that gives Book IV its name:
 **the self-describing universe**.
 

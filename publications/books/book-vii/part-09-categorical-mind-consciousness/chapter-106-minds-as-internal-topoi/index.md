@@ -49,6 +49,6 @@ reasoning, and self-modelling instantiates an internal topos. The
 mind–body relation is thereby reframed: “body” and “mind” are two
 descriptions of one organized process — external dynamics in $τ^3$
 and internal logic on the carrier's domain. The account supports
-graded mindedness for animals (Chapter [ch:animal-dignity]) and
+graded mindedness for animals  and
 principled criteria for artificial minds
-(Chapter [ch:minds-machines]).
+.

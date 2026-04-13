@@ -43,7 +43,7 @@ two-dimensional frame—is spatial aesthetics at its most
 explicit. Balance, flow, color harmony, and the “rule of
 thirds” are not arbitrary conventions but structural
 optimizations of the aesthetic functional introduced in
-Chapter [ch:aesthetic-functional]. This chapter analyzes
+the relevant chapter. This chapter analyzes
 compositional principles as instances of invariance:
 a balanced composition is one that is stable under small
 perturbations of the viewing angle; flow is the path of
@@ -51,7 +51,7 @@ least aesthetic tension through visual space; the rule of
 thirds approximates golden-ratio subdivision of the frame.
 Remark VII.R21 identifies these principles as consequences
 of how visual perception
-(Chapter [ch:perception-experience]) glues spatial
+ glues spatial
 sections—not culturally contingent rules but structural
 features of the observer–image interaction. The same
 principles govern painting, photography, and film,

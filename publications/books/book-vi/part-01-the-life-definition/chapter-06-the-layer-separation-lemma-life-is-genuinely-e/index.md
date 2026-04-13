@@ -41,7 +41,7 @@ right_rail:
 The sharpest formal result of the book: SelfDesc is not automatic for all
 refinement-coherent distinctions. A neutron star near the TOV limit provides
 the canonical counterexample—it has a conditionally stable distinction
-satisfying all five conditions of Chapter [ch:tau-distinction], yet
+satisfying all five conditions of the relevant chapter, yet
 boundary instability prevents the evaluator $Eval_X$ from converging
 to a fixed point, so SelfDesc fails. The proof is constructive, not abstract:
 we exhibit the system, verify the five conditions, and demonstrate the failure

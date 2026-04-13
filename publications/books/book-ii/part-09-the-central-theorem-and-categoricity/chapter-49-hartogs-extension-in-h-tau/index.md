@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-c
 prev_chapter_title: "Chapter 48: Boundary Characters via Idempotent Support"
 next_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/"
 next_chapter_title: "Chapter 50: Extensions Are ω-Germ Transformers"
-summary_short: "Chapter [ch:boundary-characters-idempotent] restated the boundary ring characters as idempotent-supported objects (Definition [def:idempotent-character],…"
+summary_short: "the relevant chapter restated the boundary ring characters as idempotent-supported objects (the relevant definition,…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-Chapter [ch:boundary-characters-idempotent]
+the relevant chapter
 restated the boundary ring characters
 as idempotent-supported objects
-(Definition [def:idempotent-character], II.D59):
+(the relevant definition, II.D59):
 every character decomposes canonically as
 $χ = e_+ · χ_+ + e_- · χ_-$
 (Proposition [prop:character-decomposition], II.P13).
@@ -57,20 +57,20 @@ first, the **Extension Lemma**
 (Lemma [lem:extension-h-tau], II.L12)
 builds the extension channel-by-channel
 using the $BndLift$ operator
-(Definition [def:bndlift], II.D36)
+(the relevant definition, II.D36)
 from Part VI;
 second, the **Hartogs Extension Uniqueness Theorem**
-(Theorem [thm:hartogs-uniqueness], II.T37)
+(the relevant theorem, II.T37)
 proves that the extension is the *only one* —
 any $τ$-holomorphic function on $τ^3$
 whose boundary restriction is $χ$
 must coincide with the constructed extension.
 Uniqueness follows from two independent arguments:
 the Code/Decode bijection
-(Theorem [thm:code-decode-bijection], II.T35)
+(the relevant theorem, II.T35)
 and, more illuminatingly,
 the Mutual Determination Theorem
-(Theorem [thm:mutual-determination], II.T27).
+(the relevant theorem, II.T27).
 Both arguments exploit the same structural feature:
 **bipolar channel independence**.
 The B-channel and C-channel extensions
@@ -84,4 +84,4 @@ The reverse direction
 (interior $→$ boundary)
 and the full isomorphism
 $O(τ^3) ≅ A_{spec}(𝕃)$
-are assembled in Chapter [ch:central-theorem].
+are assembled in the relevant chapter.

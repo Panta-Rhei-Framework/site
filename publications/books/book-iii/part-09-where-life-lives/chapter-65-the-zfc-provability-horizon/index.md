@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter
 prev_chapter_title: "Chapter 64: Abstract Computation in the τ"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-66-zfc-as-2/"
 next_chapter_title: "Chapter 66: ZFC as 2"
-summary_short: "Chapters 78–79 proved $P = NP$ for all $\\T$-native computation—physical (Theorem [thm:physical-p-equals-np]) and abstract (Theorem…"
+summary_short: "Chapters 78–79 proved $P = NP$ for all $\\T$-native computation—physical  and abstract (Theorem…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-09-where-life-lives/"
@@ -39,8 +39,8 @@ right_rail:
 
 
 Chapters 78–79 proved $P = NP$ for all
-$\T$-native computation—physical (Theorem [thm:physical-p-equals-np])
-and abstract (Theorem [thm:universal-admissibility]).
+$\T$-native computation—physical 
+and abstract .
 This chapter asks: can these results be stated and proved within ZFC?
 The Physical Realizability Predicate (III.D79) quantifies
 over all possible $E_1$ instantiations of a Turing machine—a

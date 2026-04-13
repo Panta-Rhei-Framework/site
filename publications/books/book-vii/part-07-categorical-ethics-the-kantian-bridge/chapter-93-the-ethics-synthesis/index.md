@@ -45,7 +45,7 @@ monodromy, virtue as fixed point, the CI proof programme, the commitment
 register, the Kant-$τ$ correspondence, and the earned/unearned
 distinction—into a unified arc. The dignity–CI–$j$-closure arc
 parallels the pattern–symbol–proof arc of the diagrammatic sector
-(Chapter [ch:diagrammatic-synthesis]). A formal correspondence
+. A formal correspondence
 between the four registers and the four enrichment layers reveals the
 structural unity underlying both sectors. Part VIII extends the
 analysis from individual ethics to social structures: institutions,

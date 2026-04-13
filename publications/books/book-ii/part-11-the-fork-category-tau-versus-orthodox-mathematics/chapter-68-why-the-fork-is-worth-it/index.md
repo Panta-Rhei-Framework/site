@@ -14,7 +14,7 @@ chapter_slug: "chapter-68-why-the-fork-is-worth-it"
 page_in_book: 423
 prev_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-67-the-master-trade-off/"
 prev_chapter_title: "Chapter 67: The Master Trade-Off"
-summary_short: "Chapter [ch:master-trade-off] assembled the master trade-off: 49 gains against 16 costs, structurally inseparable, with the incompatibility theorem proving…"
+summary_short: "the relevant chapter assembled the master trade-off: 49 gains against 16 costs, structurally inseparable, with the incompatibility theorem proving…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/"
@@ -36,7 +36,7 @@ right_rail:
 ---
 
 
-Chapter [ch:master-trade-off] assembled the master trade-off:
+the relevant chapter assembled the master trade-off:
 49 gains against 16 costs,
 structurally inseparable,
 with the incompatibility theorem

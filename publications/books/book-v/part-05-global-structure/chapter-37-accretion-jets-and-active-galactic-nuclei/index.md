@@ -68,12 +68,12 @@ localized concentration of boundary holonomy
 on $\Lemniscate$.
 Matter approaching such an instance
 follows the geodesics of the boundary-character
-metric (Part II, Chapter [ch:book5-ch13-tau-einstein-equation]),
+metric (Part II, the relevant chapter),
 and the topology of $T^2$
 forces these geodesics into a specific pattern:
 an **accretion funnel**
 converging on the equatorial plane of the torus
-(Definition [def:ch40-accretion-funnel]).
+.
 
 Jets are equally topological.
 The axis of the torus $T^2$
@@ -82,7 +82,7 @@ through which energy and momentum
 can escape without crossing
 the equatorial accretion flow.
 The **Jet Collimation Theorem**
-(Theorem [thm:ch40-jet-collimation])
+
 proves that the topological index
 of the torus axis
 forces jet opening angles
@@ -92,7 +92,7 @@ AGN are then classified
 not by ad hoc orientation angles
 but by the **lifecycle phase**
 of the coherent instance
-(Definition [def:ch40-agn-lifecycle]),
+,
 with quasars, Seyferts, and radio galaxies
 as different readout projections
 of the same underlying $T^2$ structure.

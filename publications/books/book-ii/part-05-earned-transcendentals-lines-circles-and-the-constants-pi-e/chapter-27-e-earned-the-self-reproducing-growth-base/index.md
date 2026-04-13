@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 26: Three Perspectives on π"
 next_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-28-replaces-i-polarity-not-rotation/"
 next_chapter_title: "Chapter 28: Replaces i — Polarity, Not Rotation"
-summary_short: "Chapter [ch:pi-earned] earned $π$ from three convergent perspectives: topological, geometric, and spectral. This chapter earns $e$ from a single, unavoidable…"
+summary_short: "the relevant chapter earned $π$ from three convergent perspectives: topological, geometric, and spectral. This chapter earns $e$ from a single, unavoidable…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chapter [ch:pi-earned] earned $π$ from three convergent perspectives:
+the relevant chapter earned $π$ from three convergent perspectives:
 topological, geometric, and spectral.
 This chapter earns $e$ from a single, unavoidable source:
 the **$ν$-iterator** in the generator ladder
@@ -55,4 +55,4 @@ The chapter establishes $e$ as the second calibration
 constant of the $τ$-framework,
 alongside $π$ (II.T22)
 and prior to the bipolar unit $\jj$
-(Chapter [ch:j-replaces-i]).
+.

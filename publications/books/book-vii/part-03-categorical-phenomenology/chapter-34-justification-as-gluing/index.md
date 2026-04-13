@@ -40,7 +40,7 @@ right_rail:
 
 Justification is not a chain of reasons but the satisfaction of
 gluing constraints on local observations. This chapter develops the
-sheaf-theoretic epistemology launched in Chapter [ch:knowledge-sections]
+sheaf-theoretic epistemology launched in the relevant chapter
 along four axes. First, justification is defined as the gluing condition
 itself: local data cohere on overlaps. Second, the force of the better
 argument (Habermas) is identified with the section that glues over the
