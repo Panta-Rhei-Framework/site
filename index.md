@@ -35,7 +35,7 @@ right_rail:
 
 {% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign book_count = site.data.publications.books | size %}{% assign chapter_count = site.data.publications.chapters | size %}
 <div class="content-card homepage-section">
-<h2>Why this program is built from a constrained kernel</h2>
+<h2><svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="11" width="18" height="11" rx="2" ry="2"/><path d="M7 11V7a5 5 0 0 1 10 0v4"/></svg>Why this program is built from a constrained kernel</h2>
 
 The program binds itself to strong constraints. Every mathematical tool is *earned* from five generators, seven axioms, and one operator — not imported from existing mathematics. Every scope claim carries an explicit label: established, tau-effective, conjectural, or metaphorical. Every derivation chain is machine-checked in Lean 4.
 
@@ -45,7 +45,7 @@ The stronger the claimed scope, the stricter the foundation must be. This is not
 </div>
 
 <div class="content-card homepage-section">
-<h2>The Tau framework</h2>
+<h2><svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2L2 7l10 5 10-5-10-5z"/><path d="M2 17l10 5 10-5"/><path d="M2 12l10 5 10-5"/></svg>The Tau framework</h2>
 
 Category tau begins below ordinary category theory. Five generators (alpha, pi, gamma, eta, omega) in strict total order, one progression operator (rho), and seven axioms (K0-K6) define a complete, rigid, countable universe. From this kernel, the framework earns its own arithmetic, geometry, analysis, topology, and category theory — then enriches itself through four layers:
 
@@ -63,7 +63,7 @@ The master constant iota_tau = 2/(pi+e) governs all quantitative predictions. Ze
 </div>
 
 <div class="content-card homepage-section">
-<h2>Current scope of the program's claims</h2>
+<h2><svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>Current scope of the program's claims</h2>
 
 The program currently presents **{{ result_count }} key results** across four domains, each with typed epistemic status. A small selection of flagship claims:
 
@@ -83,7 +83,7 @@ Every claim carries a status: resolved, partial, qualitative, or contradicted. T
 </div>
 
 <div class="content-card homepage-section">
-<h2>The program is public through verification surfaces</h2>
+<h2><svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="m21 21-4.35-4.35"/><path d="m11 8-3 3 3 3"/><path d="m14 8-3 3 3 3" transform="translate(-3,0)"/></svg>The program is public through verification surfaces</h2>
 
 This is not a program that asks for trust. It is a program that provides inspection routes:
 
@@ -103,7 +103,7 @@ The decisive empirical test: CMB-S4 will measure the tensor-to-scalar ratio *r*.
 </div>
 
 <div class="content-card homepage-section">
-<h2>Why this could matter if it holds</h2>
+<h2><svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><path d="M12 2a14.5 14.5 0 0 0 0 20 14.5 14.5 0 0 0 0-20"/><path d="M2 12h20"/></svg>Why this could matter if it holds</h2>
 
 If the framework holds — or partially holds — consequences could propagate into public-good domains. The program's impact lane explores 11 conditional deployment portfolios across agriculture, climate, energy, ocean science, public health, and more, grounded in 44 companion papers.
 
@@ -113,7 +113,7 @@ The word *if* is load-bearing. These are scenario analyses, not predictions of s
 </div>
 
 <div class="content-card homepage-section">
-<h2>Read, inspect, follow, and engage</h2>
+<h2><svg class="section-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><path d="M4 4h16c1.1 0 2 .9 2 2v12c0 1.1-.9 2-2 2H4c-1.1 0-2-.9-2-2V6c0-1.1.9-2 2-2z"/><polyline points="22,6 12,13 2,6"/></svg>Read, inspect, follow, and engage</h2>
 
 The program can be entered through many routes:
 
