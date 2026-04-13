@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The nucleon axial coupling g_A = 1.27637 is derived at +5.5 ppm from
   PDG using κ_D²/ι_τ with a continued-fraction window NLO correction.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: P
 domain_group: "Mind"
 summary_short: Consciousness is a global section of the mind sheaf; binding is sheaf
   gluing; CC1–CC3 are testable necessary and sufficient conditions.
-canonical_books: []
+canonical_books: ["VII"]
 right_rail:
   meta:
     type: Structural Readout

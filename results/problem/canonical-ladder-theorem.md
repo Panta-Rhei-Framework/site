@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Enriched Category Theory"
 summary_short: The enrichment chain E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal chain;
   it terminates at E₃ with no possible E₄.
-canonical_books: []
+canonical_books: ["III"]
 right_rail:
   meta:
     type: Structural Readout

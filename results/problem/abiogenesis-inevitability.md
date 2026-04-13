@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Biology"
 summary_short: A 7-link chain from axioms K0–K6 to absorbing basin proves that abiogenesis
   is structurally forced, not a lucky accident.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

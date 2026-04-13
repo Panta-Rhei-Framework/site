@@ -15,7 +15,7 @@ domain_group: "Physics"
 summary_short: 'The merger-directed network of ω-codes converges to ι_τ: the universe
   trends toward maximal aliveness, with the cosmological endstate having code exactly
   ι_τ.'
-canonical_books: []
+canonical_books: ["II"]
 right_rail:
   meta:
     type: Structural Readout

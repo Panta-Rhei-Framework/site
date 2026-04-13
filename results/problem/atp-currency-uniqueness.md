@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Cellular Biology"
 summary_short: 'ATP is the unique energy currency of life: topology plus coupling
   constraints admit exactly one energy oscillation mode at the biological scale.'
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

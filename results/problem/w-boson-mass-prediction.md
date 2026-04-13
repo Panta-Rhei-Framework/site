@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Electroweak"
 summary_short: The W-boson mass is derived as M_W = (17/5)ι_τ⁻³ m_n [1 + (5/17)αι_τ²]
   at −0.5 ppm from the PDG value.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

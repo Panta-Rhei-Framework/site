@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: Spatial flatness of the universe, Ω_k = 0 exactly, is derived as a
   structural consequence of the compactness of τ³ — not from inflation or fine-tuning.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

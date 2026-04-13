@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: The Higgs self-coupling λ_H = 0.12928 is derived from the τ-coherence
   fixing potential at +16 ppm from the Standard Model value, completing the EW arc.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

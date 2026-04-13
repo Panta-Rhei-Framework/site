@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: Flat rotation curves follow from v_∞ = (GM_b c²/(2ℓ_τ))^(1/4) — the
   Baryonic Tully-Fisher Relation derived with zero free parameters.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

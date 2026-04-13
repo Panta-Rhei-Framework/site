@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Foundations"
 summary_short: Category τ is uniquely determined by seven axioms K0–K6 on five generators
   and one operator. The static kernel has a unique model up to isomorphism.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

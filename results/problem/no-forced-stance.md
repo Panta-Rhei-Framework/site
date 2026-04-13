@@ -12,7 +12,7 @@ importance_class: core-foundational-problem
 status_code: R
 domain_group: "Commitment Boundary"
 summary_short: "A flagship closure page for Book VII and the public ethics of the program itself."
-canonical_books: []
+canonical_books: ["VII"]
 right_rail:
   meta:
     type: "Consequence"
@@ -21,17 +21,22 @@ right_rail:
     status: "Resolved"
     updated: April 2026
 ---
-
 ## Overview
 
-No Forced Stance is a consequence in the Commitment Boundary domain of the Panta Rhei Research Program.
+Does the Panta Rhei framework force a commitment regarding the existence of God, the nature of ultimate reality, or any specific metaphysical stance? This is a crucial question for the program's epistemic integrity.
 
-A flagship closure page for Book VII and the public ethics of the program itself.
+## Why It Matters
 
-## Status
+A framework that claims to derive ethics (the Categorical Imperative), consciousness, and the architecture of reality might be suspected of smuggling in metaphysical commitments. The No Forced Stance theorem establishes that the framework's structural results do not and cannot force any commitment-register stance.
 
-**Epistemic status**: Resolved
+## Panta Rhei Stance
 
-**Result kind**: Consequence
+Book VII, Chapter 126 proves the **No Forced Stance theorem**: the Boundary Collapse Lemma demonstrates that the diagrammatic register (Reg_D — structural mathematics) cannot settle the ω-germ question (whether the fixed point ω is "inhabited" in any ontological sense).
 
-**Importance**: Core Foundational Problem
+The proof works by showing symmetry: neither inhabitation nor non-inhabitation is diagrammatically demonstrable. Since the diagrammatic register cannot deliver the answer, it cannot force a commitment-register stance. Neither theism nor atheism nor agnosticism is structurally mandated.
+
+The distinction is between **shape** (Reg_D content — what the framework proves) and **stance** (Reg_C content — what one commits to). The framework delivers the landscape — the 4+1 sectors, the enrichment ladder, the convergence of ι_τ toward ω — but the landscape's shape is categorically different from one's stance toward it.
+
+## Result Statement
+
+No Forced Stance (VII.T-series): The diagrammatic register cannot settle the ω-germ question. Neither theism, atheism, nor agnosticism is structurally mandated. Shape (Reg_D) and stance (Reg_C) are irreducibly distinct. Status: Resolved.

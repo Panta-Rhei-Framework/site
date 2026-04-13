@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The profinite structure of τ³ ensures bounded norms at all stages,
   so a → 0 cannot occur. The Big Bang is a bounded opening regime.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

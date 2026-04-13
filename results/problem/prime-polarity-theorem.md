@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: Every prime carries a canonical bipolar polarization via γ/η dominance,
   rooting all local-global gluing in τ.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

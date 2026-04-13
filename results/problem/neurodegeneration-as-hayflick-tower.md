@@ -15,7 +15,7 @@ domain_group: "Biology"
 summary_short: Neurodegenerative diseases are structurally identified as specific
   levels of the neural defect tower reaching their Hayflick bound before the organismal
   limit.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

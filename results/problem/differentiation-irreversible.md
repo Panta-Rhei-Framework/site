@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: 'Cellular differentiation is provably irreversible: the Waddington
   descent function is a monotone that cannot increase.'
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

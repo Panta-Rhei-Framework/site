@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The modal logic S4 is derived as a theorem within Category τ — possibility
   and necessity operators arise from the ρ-orbit and depth structure.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

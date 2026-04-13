@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The arrow of time is derived from the non-invertibility of the ρ-orbit
   at E₁ — a structural asymmetry, not a statistical one.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

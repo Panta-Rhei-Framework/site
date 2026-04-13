@@ -15,7 +15,7 @@ domain_group: "Mathematics"
 summary_short: 'The S₈ structure-growth tension is resolved at S₈ = 0.783, derived
   from three multiplicative suppressions: matter suppression, growth factor, and neutrino
   free-streaming.'
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

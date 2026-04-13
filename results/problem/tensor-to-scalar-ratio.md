@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: The CMB tensor-to-scalar ratio is derived as r = ι_τ⁴ = 0.0136 — a
   falsifiable prediction for CMB-S4 at ~14σ above the current upper bound.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

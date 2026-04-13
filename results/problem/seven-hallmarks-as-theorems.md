@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Biology"
 summary_short: The seven canonical hallmarks of life are derived as theorems VI.T08–T14
   from the 5+3 conditions rather than observed as biological facts.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Cosmology"
 summary_short: The Hubble constant h = 0.6735 is derived as h = 2/3 + ι_τ²/17 at –120
   ppm from SH0ES/JWST, resolving the Hubble tension without free parameters.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

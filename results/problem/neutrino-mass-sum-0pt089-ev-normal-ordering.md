@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Particle Physics"
 summary_short: The neutrino mass sum Σm_ν = 0.089 eV and normal mass ordering are
   derived from the τ-framework. Normal hierarchy is Lean-verified from p < q.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

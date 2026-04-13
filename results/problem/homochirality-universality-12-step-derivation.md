@@ -15,7 +15,7 @@ domain_group: "Origin of Life"
 summary_short: The universal chirality of life — L-amino acids and D-sugars — is derived
   in a 12-step chain from K0–K6 through the Parity Bridge. Open problem VI.OP9 is
   solved.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

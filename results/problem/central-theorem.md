@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The algebra of holomorphic functions on τ³ is isomorphic to the spectral
   algebra of the lemniscate boundary — interior fully determined by boundary.
-canonical_books: []
+canonical_books: ["II"]
 right_rail:
   meta:
     type: Structural Readout

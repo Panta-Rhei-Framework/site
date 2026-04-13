@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The She–Lévêque anomalous turbulence scaling exponents ζ_p = p/9 +
   2[1–(2/3)^{p/3}] are derived exactly from the dimension of τ³ with no free parameters.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

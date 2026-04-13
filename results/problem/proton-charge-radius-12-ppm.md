@@ -15,7 +15,7 @@ domain_group: "Nuclear Physics"
 summary_short: The proton charge radius r_p = 0.84088 fm is predicted at +12 ppm from
   PRad-II/MUSE — a 37-fold improvement over the prior +450 ppm estimate achieved in
   Wave 46.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The Cabibbo angle is derived as sin θ_C = ι_τ(1 − ι_τ) = 0.22456...,
   at −2327 ppm from the experimental value.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

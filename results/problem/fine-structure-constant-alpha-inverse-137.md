@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The dimensionless fine-structure constant α⁻¹ = 137.036 is derived
   from ι_τ at approximately zero ppm agreement with CODATA — no free parameters.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

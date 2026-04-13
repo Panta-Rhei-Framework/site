@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: Six ontic requirements OR1–OR6 together force K0–K6 and 5 generators;
   independence is proved by six counterexamples.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The gravitational fine structure constant is derived as α_G = α¹⁸√3(1
   − (3/π)α) at 3 ppm from observation.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: The electron mass m_e = 0.510998937 MeV is derived from a 10-link chain
   starting at axioms K0–K6, achieving 0.025 ppm agreement with CODATA.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

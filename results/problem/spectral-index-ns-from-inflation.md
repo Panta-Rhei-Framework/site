@@ -14,7 +14,7 @@ status_code: P
 domain_group: "Cosmology"
 summary_short: The CMB primordial spectral tilt n_s = 1 – 2/57 is derived from the
   τ-framework e-fold count N_e = 57, achieving +13 ppm agreement with Planck.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

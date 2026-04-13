@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: Personal identity is defined as persistence of the ABCD Normal Form
   address across state changes — a formal resolution of the Ship of Theseus problem.
-canonical_books: []
+canonical_books: ["VI", "VII"]
 right_rail:
   meta:
     type: Structural Readout

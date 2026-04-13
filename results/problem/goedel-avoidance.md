@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Logic / Inference"
 summary_short: Five independent mechanisms in Category τ prevent the diagonal self-negation
   that underlies Gödel's incompleteness theorems.
-canonical_books: []
+canonical_books: ["VII"]
 right_rail:
   meta:
     type: Structural Readout

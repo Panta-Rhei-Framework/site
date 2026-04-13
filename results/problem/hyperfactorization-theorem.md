@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: Every object in Category τ carries a unique canonical normal form given
   by the ABCD coordinate chart, generalising Gödel numbering.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

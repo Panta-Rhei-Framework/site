@@ -12,7 +12,7 @@ importance_class: core-foundational-problem
 status_code: P
 domain_group: "Millennium Problems"
 summary_short: "Keep typed partial."
-canonical_books: []
+canonical_books: ["III"]
 right_rail:
   meta:
     type: "Frontier Problem"
@@ -21,17 +21,22 @@ right_rail:
     status: "Partial"
     updated: April 2026
 ---
-
 ## Overview
 
-Riemann Hypothesis (spectral approach) is a frontier problem in the Millennium Problems domain of the Panta Rhei Research Program.
+The Riemann Hypothesis (RH) asks whether all non-trivial zeros of the Riemann zeta function lie on the critical line Re(s) = 1/2. It is one of the seven Millennium Prize Problems and the most important unsolved problem in analytic number theory.
 
-High-salience frontier math problem; major journalist/expert entry point.
+The Panta Rhei framework approaches RH through the spectral correspondence developed in Book III, Parts 4-5. The zeros of the zeta function are mapped to eigenvalues of a self-adjoint operator H_L on the lemniscate boundary. Self-adjointness forces eigenvalues to be real, and this reality condition constrains the location of zeros to the critical line.
 
-## Status
+## Why It Is Hard
 
-**Epistemic status**: Partial
+RH has resisted proof for over 160 years despite deep connections to prime distribution, random matrix theory, and quantum chaos. No known approach has produced a complete proof. The Hilbert-Pólya conjecture (that zeros correspond to eigenvalues of a self-adjoint operator) remains the most promising strategy but has never been realized concretely.
 
-**Result kind**: Frontier Problem
+## Panta Rhei Stance
 
-**Importance**: Core Foundational Problem
+The framework provides a *structural* spectral correspondence (III.T-series) that maps zeta zeros to eigenvalues of H_L, the Hamiltonian on the lemniscate boundary L = S¹ ∨ S¹. The K5 diagonal discipline forbids off-diagonal mixing in H_L, and this propagates through the spectral correspondence to constrain zero locations. The balance between B-sector and C-sector contributions is enforced by bipolar symmetry from Book I's prime polarity.
+
+**Status: Partial.** The spectral correspondence is structurally grounded but the full proof chain from τ-spectral theory to classical RH is not yet complete. The approach is typed as partial, not claimed as a full resolution.
+
+## Result Statement
+
+The τ-spectral approach to the Riemann Hypothesis provides a concrete realization of the Hilbert-Pólya strategy via the operator H_L on the lemniscate boundary, with self-adjointness enforced by the kernel's diagonal discipline (K5). The approach is structurally motivated but remains partial (status P).

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Life Definition"
 summary_short: The 5 τ-Distinction and 3 SelfDesc conditions are jointly necessary
   and sufficient for life, with no mention of any physical substrate.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

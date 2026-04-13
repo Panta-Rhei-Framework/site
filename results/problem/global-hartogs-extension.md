@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: Any τ-holomorphic function on the boundary L extends uniquely to the
   interior of τ³ — the Global Hartogs Extension Theorem.
-canonical_books: []
+canonical_books: ["I", "II"]
 right_rail:
   meta:
     type: Structural Readout

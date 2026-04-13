@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: Proper time is derived from the τ-axioms K0–K6 as the parameter of
   ρ-orbit traversal — time is not postulated but proven.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

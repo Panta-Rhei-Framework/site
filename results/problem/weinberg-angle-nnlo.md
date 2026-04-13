@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The weak mixing angle sin²θ_W is derived at NNLO to −0.7 ppm accuracy
   using the Window Universality W₃(4) = 5 correction.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

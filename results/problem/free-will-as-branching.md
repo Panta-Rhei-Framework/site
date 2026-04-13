@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Philosophy"
 summary_short: Free will is defined as branching at E₂-level ρ-orbit choice; the free
   will vs. determinism debate is dissolved as a confusion of enrichment levels.
-canonical_books: []
+canonical_books: ["VII"]
 right_rail:
   meta:
     type: Structural Readout

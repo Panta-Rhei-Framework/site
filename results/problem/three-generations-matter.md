@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Particle Physics"
 summary_short: 'Exactly three independent proofs that the number of fermion generations
   is three: first homology, primitive winding classes, and lemniscate regions.'
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

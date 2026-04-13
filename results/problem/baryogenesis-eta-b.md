@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The baryon-to-photon ratio η_B is derived as α·ι_τ¹⁵·(5/6) at −1%,
   with the three Sakharov conditions satisfied structurally.
-canonical_books: []
+canonical_books: ["IV", "V"]
 right_rail:
   meta:
     type: Structural Readout

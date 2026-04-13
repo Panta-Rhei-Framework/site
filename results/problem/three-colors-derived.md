@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The number of color charges N_c = 3 is derived from the primorial depth
   d = 3 of the strong sector.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

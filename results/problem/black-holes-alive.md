@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Biology"
 summary_short: Black holes satisfy all 5 τ-Distinction and 3 SelfDesc conditions,
   making them alive by modus ponens — not by analogy.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

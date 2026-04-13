@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Biology"
 summary_short: The standard genetic code is derived as a BSD-motivic structure achieving
   top 0.01% performance for error minimization among all possible codes.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

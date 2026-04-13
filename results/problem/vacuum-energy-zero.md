@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: The τ-vacuum energy is structurally zero (V.T139), dissolving the cosmological
   constant problem without fine-tuning.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

@@ -12,7 +12,7 @@ importance_class: structural-support-result
 status_code: R
 domain_group: "Cellular Biology"
 summary_short: "Excellent bridge page between framework ontology and biological structure."
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: "Consequence"
@@ -21,17 +21,25 @@ right_rail:
     status: "Resolved"
     updated: April 2026
 ---
-
 ## Overview
 
-Cell as Tau-Object is a consequence in the Cellular Biology domain of the Panta Rhei Research Program.
+The cell is the fundamental unit of life. Every living organism is either a single cell or composed of cells. But what *is* a cell, structurally? The framework provides a precise answer: a cell is a τ-object at enrichment level E₂ — a concrete instantiation of the τ-Distinction in physical matter.
 
-Excellent bridge page between framework ontology and biological structure.
+## Why It Matters
 
-## Status
+If the categorical definition of life (τ-Distinction carrier) is correct, then cells should exhibit all the structural features predicted by the framework: a lemniscate boundary (lipid bilayer), Poincaré circulation (metabolism), normal-form address persistence (identity), and the four molecular families mapping to the four orbit sectors.
 
-**Epistemic status**: Resolved
+## Panta Rhei Stance
 
-**Result kind**: Consequence
+Book VI maps the cell's structure onto τ³:
+- The **lipid bilayer membrane** realizes L = S¹ ∨ S¹ (the lemniscate boundary) — inside vs outside is self vs non-self
+- **Metabolism** (catabolism + anabolism) realizes Poincaré circulation on the compactified τ³
+- The **four molecular families** (proteins, lipids, carbohydrates, nucleic acids) map to the four orbit sectors (α, π, γ, η)
+- **Protein folding** is recast as Yang-Mills-type energy minimization on the fiber T²
+- **ATP** serves as the universal energy currency because it is the unique molecule satisfying the τ-circulation constraint
 
-**Importance**: Structural Support Result
+The cell is not merely *analogous* to a τ-object — it *is* one, in the precise sense that its structural organization satisfies the categorical definition.
+
+## Result Statement
+
+The cell is a τ-object at E₂: its membrane realizes L, its metabolism realizes Poincaré circulation, its four molecular families map to the four orbit sectors. This is a structural identification, not an analogy. Status: Resolved.

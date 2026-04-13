@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Particle Physics"
 summary_short: The muon anomalous magnetic moment a_μ is derived at +8.8 ppm from
   FNAL g–2 by propagating α_τ through the QED corrections.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

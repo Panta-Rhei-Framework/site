@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Ethics"
 summary_short: Kant's Categorical Imperative is proven to be the unique j-closed fixed
   point of the τ-digestion operator — ethics derived, not postulated.
-canonical_books: []
+canonical_books: ["VII"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: Five characterizations of τ-holomorphic functions are mutually equivalent,
   making the theory structurally over-determined.
-canonical_books: []
+canonical_books: ["II"]
 right_rail:
   meta:
     type: Structural Readout

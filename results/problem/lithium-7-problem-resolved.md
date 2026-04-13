@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: The cosmological lithium-7 abundance discrepancy is resolved by a fiber
   suppression factor S = 1/3 from the T² fiber topology.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: The proton-neutron mass difference Δm = m_n − m_p is derived from a
   two-sector formula at +33 ppm from the measured value.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

@@ -15,7 +15,7 @@ domain_group: "Mathematics"
 summary_short: All content of Books IV–VII is a sector instantiation of the Book III
   template; all inter-sector couplings are rational functions of ι_τ with zero free
   parameters.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

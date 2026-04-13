@@ -14,7 +14,7 @@ status_code: P
 domain_group: "Millennium Problems"
 summary_short: The τ-Yang-Mills spectral gap δ∞^s > 0 is derived; the orthodox Yang-Mills
   mass gap problem is addressed via the Master Schema bridge.
-canonical_books: []
+canonical_books: ["III", "IV"]
 right_rail:
   meta:
     type: Structural Readout

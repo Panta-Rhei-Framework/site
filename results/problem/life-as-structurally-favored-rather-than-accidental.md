@@ -12,7 +12,7 @@ importance_class: high-impact-frontier-problem
 status_code: Q
 domain_group: "Cross-Stack"
 summary_short: "Likely typed as qualitative / structural."
-canonical_books: []
+canonical_books: ["III", "VI"]
 right_rail:
   meta:
     type: "Consequence"
@@ -21,17 +21,22 @@ right_rail:
     status: "Qualitative"
     updated: April 2026
 ---
-
 ## Overview
 
-Life as Structurally Favored Rather Than Accidental is a consequence in the Cross-Stack domain of the Panta Rhei Research Program.
+Is life a cosmic accident — an improbable fluctuation in an indifferent universe — or is it structurally favored by the laws of physics? The prevailing scientific narrative leans toward accident: life arose through a sequence of low-probability events and could easily not have occurred.
 
-Strong conceptual page tying E2 semantics to public biological relevance.
+## Why It Matters
 
-## Status
+If life is accidental, then astrobiology is a search for rare coincidences. If life is structurally favored, then the universe is *expected* to produce life wherever conditions permit, and the emergence of life is a structural prediction, not a historical contingency.
 
-**Epistemic status**: Qualitative
+## Panta Rhei Stance
 
-**Result kind**: Consequence
+The enrichment ladder E₀ → E₁ → E₂ → E₃ is the unique maximal chain (Book III). E₂ (life) is not an optional enrichment — it is the *structurally necessary* next layer after E₁ (physics). The self-enrichment functor F_E, applied twice, produces E₂ as inevitably as it produces E₁.
 
-**Importance**: High Impact Frontier Problem
+This does not mean life will arise everywhere (local conditions matter), but it means the *capacity* for life is built into the framework's architecture. Life is structurally favored in the sense that the enrichment ladder demands it: a universe governed by E₁ physics will, given sufficient complexity, produce E₂ carriers.
+
+**Status: Qualitative.** The structural argument is clear but the quantitative question (how *likely* is life given specific planetary conditions) remains open. The framework predicts structural favorability, not specific probability.
+
+## Result Statement
+
+Life is structurally favored, not accidental: the enrichment ladder E₀ → E₁ → E₂ → E₃ makes E₂ (life) a structurally necessary layer. The capacity for life is architectural, not contingent. Status: Qualitative — structural argument established but quantitative probability remains open.

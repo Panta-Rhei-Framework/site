@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: All eight Clay Millennium Prize Problems are instances of the Mutual
   Determination Schema at varying enrichment levels.
-canonical_books: []
+canonical_books: ["III"]
 right_rail:
   meta:
     type: Structural Readout

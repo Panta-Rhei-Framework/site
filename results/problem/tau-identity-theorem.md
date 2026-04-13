@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: If two τ-holomorphic functions agree at any single depth level, they
   agree at all depths — the τ-analogue of the identity theorem for holomorphic functions.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

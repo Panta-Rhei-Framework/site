@@ -15,7 +15,7 @@ domain_group: "Biology"
 summary_short: The Parity Bridge Theorem proves that the transition from E₁ (physics)
   to E₂ (life) must factor uniquely through the weak sector — parity violation is
   structurally required for life.
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

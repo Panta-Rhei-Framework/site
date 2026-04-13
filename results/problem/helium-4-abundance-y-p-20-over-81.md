@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The primordial helium-4 mass fraction Y_p = 20/81 ≈ 0.24691 is derived
   at 0.43σ from the Planck+BBN value 0.2449 ± 0.0040.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: Q
 domain_group: "Millennium Problems"
 summary_short: 'Within Category τ, P = NP: the τ-admissibility condition collapses
   polynomial-time verifiability to polynomial-time solvability at E₂.'
-canonical_books: []
+canonical_books: ["III"]
 right_rail:
   meta:
     type: Structural Readout

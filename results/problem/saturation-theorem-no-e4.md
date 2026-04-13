@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: 'Three independent structural blockages prevent any E₄: No-New-Lobe,
   No-New-Crossing-Mediator, and Carrier Closure. The ladder has exactly four layers.'
-canonical_books: []
+canonical_books: ["III"]
 right_rail:
   meta:
     type: Structural Readout

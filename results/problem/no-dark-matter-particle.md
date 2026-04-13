@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Cosmology"
 summary_short: The Sector Exhaustion Theorem proves no additional sector can be added,
   therefore no dark matter particle exists.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

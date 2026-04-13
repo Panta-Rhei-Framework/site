@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Biology"
 summary_short: SelfDesc (the self-description predicate) is strictly unavailable at
   enrichment level E₁ — life requires E₂.
-canonical_books: []
+canonical_books: ["III"]
 right_rail:
   meta:
     type: Structural Readout

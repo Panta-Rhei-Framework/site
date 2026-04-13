@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: 'The Unification Obstruction (II.T45) is bypassed: QM and GR coexist
   in the τ³ fibration as fiber (T²) and base (τ¹) structures respectively.'
-canonical_books: []
+canonical_books: ["I"]
 right_rail:
   meta:
     type: Structural Readout

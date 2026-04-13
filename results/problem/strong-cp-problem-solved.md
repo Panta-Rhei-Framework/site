@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: θ_QCD = 0 exactly, derived from the SA-i admissibility condition on
   η-winding mod-3 structure. No axion mechanism needed.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

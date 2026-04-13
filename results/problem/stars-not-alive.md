@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Biology"
 summary_short: Stars satisfy τ-Distinction but not SelfDesc, placing them in Quadrant
   III of the 2×2 matrix — alive by common speech but not by the formal definition.
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout

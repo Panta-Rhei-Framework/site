@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The Koide relation Q = (m_e + m_μ + m_τ)/(√m_e + √m_μ + √m_τ)² = 2/3
   is derived at −9 ppm from the σ-equivariant mass matrix.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

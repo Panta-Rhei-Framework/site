@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The Rydberg constant R_∞ is derived to seven significant figures —
   at 0.026 ppm agreement with CODATA — from the τ-framework with zero free parameters.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

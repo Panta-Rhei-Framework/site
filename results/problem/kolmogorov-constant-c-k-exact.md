@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Mathematics"
 summary_short: The Kolmogorov constant C_K = 3/2 is derived exactly as dim(τ³)/dim(T²)
   = 3/2, with no free parameters.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Physics"
 summary_short: The Higgs boson mass is derived from the structural integer n = 7 =
   2·|lobes| + |sectors| at +8.0 ppm from the PDG value of 125.20 GeV.
-canonical_books: []
+canonical_books: ["IV"]
 right_rail:
   meta:
     type: Structural Readout

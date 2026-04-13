@@ -12,7 +12,7 @@ importance_class: high-impact-frontier-problem
 status_code: R
 domain_group: "Ontology"
 summary_short: "Strong public-facing ontology page and deeply aligned with the program’s relational stance."
-canonical_books: []
+canonical_books: ["VII"]
 right_rail:
   meta:
     type: "Frontier Problem"
@@ -21,17 +21,22 @@ right_rail:
     status: "Resolved"
     updated: April 2026
 ---
-
 ## Overview
 
-Substance vs Process Ontology is a frontier problem in the Ontology domain of the Panta Rhei Research Program.
+Western metaphysics has been dominated by substance ontology since Aristotle: reality consists of enduring things (substances) that undergo change (accidents). Process philosophy (Whitehead, Rescher) offers an alternative: reality consists of processes, and things are stable patterns in process.
 
-Strong public-facing ontology page and deeply aligned with the program’s relational stance.
+## Why It Is Hard
 
-## Status
+Substance ontology struggles with quantum mechanics (particles are excitations of fields, not enduring things), relativity (no preferred time-slice), and biology (organisms constantly replace their material constituents). But process ontology lacks the formal precision needed to ground physics and mathematics.
 
-**Epistemic status**: Resolved
+## Panta Rhei Stance
 
-**Result kind**: Frontier Problem
+Category τ is inherently processual. The sole operator ρ (progression) generates all objects through iteration — objects are stabilized patterns in the ρ-orbit structure, not pre-given substances. The name "Panta Rhei" (everything flows) is not a metaphor but a structural description.
 
-**Importance**: High Impact Frontier Problem
+Book VII, Part II derives this explicitly: relations precede relata. Objects in τ are individuated by their normal-form addresses (structural positions), not by underlying substance. Personal identity, physical particles, and mathematical objects are all patterns in the relational web of τ³.
+
+The framework thus provides what process philosophy lacked: a formally precise, axiomatically grounded process ontology that can underwrite mathematics, physics, biology, and metaphysics.
+
+## Result Statement
+
+Substance ontology is replaced by relational/process ontology: objects are stabilized patterns in ρ-orbits, individuated by normal-form addresses. Relations precede relata. The framework provides formal precision that classical process philosophy lacked. Status: Resolved.

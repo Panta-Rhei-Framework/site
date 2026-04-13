@@ -14,7 +14,7 @@ status_code: C
 domain_group: "Black Holes"
 summary_short: Black hole mass is non-decreasing in the τ-framework (dM/dn ≥ 0 exactly);
   Hawking evaporation does not occur and information is preserved.
-canonical_books: []
+canonical_books: ["V"]
 right_rail:
   meta:
     type: Structural Readout

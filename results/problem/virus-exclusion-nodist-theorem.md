@@ -14,7 +14,7 @@ status_code: R
 domain_group: "Biology"
 summary_short: 'Viruses are structurally excluded from the living category: the NoDist
   Theorem proves that viruses outside a host fail 3 of the 5 τ-Distinction conditions.'
-canonical_books: []
+canonical_books: ["VI"]
 right_rail:
   meta:
     type: Structural Readout
