@@ -107,6 +107,31 @@
       }, { rootMargin: '-80px 0px -70% 0px', threshold: 0 });
 
       tocLinks.forEach(function(t) { observer.observe(t.el); });
+
+      // Mobile TOC: clone above main content on small screens
+      if (!window.matchMedia('(min-width: 1081px)').matches && tocLinks.length > 0) {
+        var details = document.createElement('details');
+        details.className = 'mobile-toc';
+        var summary = document.createElement('summary');
+        summary.className = 'mobile-toc-toggle';
+        summary.innerHTML = '<span>On this page</span><svg class="mobile-toc-chevron" width="16" height="16" viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5"><polyline points="4 6 8 10 12 6"/></svg>';
+        details.appendChild(summary);
+
+        var body = document.createElement('div');
+        body.className = 'mobile-toc-body';
+        tocLinks.forEach(function(t) {
+          var clone = t.link.cloneNode(true);
+          clone.className = 'mobile-toc-link';
+          clone.addEventListener('click', function() { details.open = false; });
+          body.appendChild(clone);
+        });
+        details.appendChild(body);
+
+        var main = document.querySelector('.main-content');
+        if (main && main.parentNode) {
+          main.parentNode.insertBefore(details, main);
+        }
+      }
     });
   </script>
 

@@ -45,9 +45,10 @@
 
   @media (max-width: $bp-collapse) {
     position: static;
-    order: 2;
+    order: 0; // above content — collapsed by default via <details>
     max-height: none;
-    margin-top: $shell-gap;
+    margin-top: 0;
+    padding: 0; // padding is inside the details/body
   }
 }
 
