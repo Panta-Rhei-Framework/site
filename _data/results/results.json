@@ -1535,5 +1535,1346 @@
     "canonical_books": [
       "III"
     ]
+  },
+  {
+    "id": "result-086",
+    "slug": "hyperfactorization",
+    "title": "Hyperfactorization",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "COORD",
+    "summary_short": "",
+    "url": "/results/problem/hyperfactorization/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-087",
+    "slug": "prime-polarity",
+    "title": "Prime Polarity",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "POLAR",
+    "summary_short": "",
+    "url": "/results/problem/prime-polarity/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-088",
+    "slug": "categoricity-of-tau",
+    "title": "Categoricity of Tau",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "FOUND",
+    "summary_short": "",
+    "url": "/results/problem/categoricity-of-tau/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-089",
+    "slug": "enrichment-ladder",
+    "title": "Enrichment Ladder",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "ENR",
+    "summary_short": "",
+    "url": "/results/problem/enrichment-ladder/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-090",
+    "slug": "identity-theorem",
+    "title": "Identity Theorem",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "HOLO",
+    "summary_short": "",
+    "url": "/results/problem/identity-theorem/",
+    "canonical_books": [
+      "II"
+    ]
+  },
+  {
+    "id": "result-091",
+    "slug": "riemann-hypothesis",
+    "title": "Riemann Hypothesis",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "MILL",
+    "summary_short": "",
+    "url": "/results/problem/riemann-hypothesis/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-092",
+    "slug": "p-vs-np",
+    "title": "P vs NP",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "MILL",
+    "summary_short": "",
+    "url": "/results/problem/p-vs-np/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-093",
+    "slug": "goldbach-conjecture",
+    "title": "Goldbach Conjecture",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "CLASSICAL-NT",
+    "summary_short": "",
+    "url": "/results/problem/goldbach-conjecture/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-094",
+    "slug": "twin-primes",
+    "title": "Twin Primes",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "CLASSICAL-NT",
+    "summary_short": "",
+    "url": "/results/problem/twin-primes/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-095",
+    "slug": "abc-conjecture",
+    "title": "ABC Conjecture",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "CLASSICAL-NT",
+    "summary_short": "",
+    "url": "/results/problem/abc-conjecture/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-096",
+    "slug": "translation-functor-tau-zfc",
+    "title": "Translation Functor tau → ZFC",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "partial",
+    "result_kind": "consequence",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "BRIDGE",
+    "summary_short": "",
+    "url": "/results/problem/translation-functor-tau-zfc/",
+    "canonical_books": [
+      "I",
+      "III"
+    ]
+  },
+  {
+    "id": "result-097",
+    "slug": "structural-instability-zfc-identity-slippage",
+    "title": "Structural Instability / ZFC Identity Slippage",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "contradicted",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "C",
+    "domain_group": "BRIDGE",
+    "summary_short": "",
+    "url": "/results/problem/structural-instability-zfc-identity-slippage/",
+    "canonical_books": [
+      "I",
+      "III"
+    ]
+  },
+  {
+    "id": "result-098",
+    "slug": "why-three-generations",
+    "title": "Why Three Generations?",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART",
+    "summary_short": "",
+    "url": "/results/problem/why-three-generations/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-099",
+    "slug": "theta-qcd-0-strong-cp-problem",
+    "title": "Theta_QCD = 0 / Strong CP Problem",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "QCD",
+    "summary_short": "",
+    "url": "/results/problem/theta-qcd-0-strong-cp-problem/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-100",
+    "slug": "w-mass-puzzle",
+    "title": "W Mass Puzzle",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART/EW",
+    "summary_short": "",
+    "url": "/results/problem/w-mass-puzzle/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-101",
+    "slug": "electron-mass-precision",
+    "title": "Electron Mass Precision",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART",
+    "summary_short": "",
+    "url": "/results/problem/electron-mass-precision/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-102",
+    "slug": "dark-sector-closure",
+    "title": "Dark Sector Closure",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "FOUND/COSMO",
+    "summary_short": "",
+    "url": "/results/problem/dark-sector-closure/",
+    "canonical_books": [
+      "IV",
+      "V"
+    ]
+  },
+  {
+    "id": "result-103",
+    "slug": "muon-g-2-anomaly",
+    "title": "Muon g−2 Anomaly",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART",
+    "summary_short": "",
+    "url": "/results/problem/muon-g-2-anomaly/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-104",
+    "slug": "higgs-self-coupling",
+    "title": "Higgs Self-Coupling",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART/EW",
+    "summary_short": "",
+    "url": "/results/problem/higgs-self-coupling/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-105",
+    "slug": "neutrino-mass-ordering",
+    "title": "Neutrino Mass Ordering",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART",
+    "summary_short": "",
+    "url": "/results/problem/neutrino-mass-ordering/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-106",
+    "slug": "individual-quark-masses",
+    "title": "Individual Quark Masses",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART",
+    "summary_short": "",
+    "url": "/results/problem/individual-quark-masses/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-107",
+    "slug": "0-majorana-neutrinos",
+    "title": "0νββ / Majorana Neutrinos",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PART",
+    "summary_short": "",
+    "url": "/results/problem/0-majorana-neutrinos/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-108",
+    "slug": "hubble-tension",
+    "title": "Hubble Tension",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "COSMO",
+    "summary_short": "",
+    "url": "/results/problem/hubble-tension/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-109",
+    "slug": "s8-tension",
+    "title": "S8 Tension",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "COSMO",
+    "summary_short": "",
+    "url": "/results/problem/s8-tension/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-110",
+    "slug": "desi-bao",
+    "title": "DESI BAO",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "COSMO/ASTRO",
+    "summary_short": "",
+    "url": "/results/problem/desi-bao/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-111",
+    "slug": "inflation-mechanism",
+    "title": "Inflation Mechanism",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "COSMO",
+    "summary_short": "",
+    "url": "/results/problem/inflation-mechanism/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-112",
+    "slug": "baryon-asymmetry",
+    "title": "Baryon Asymmetry",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "BBN/EW",
+    "summary_short": "",
+    "url": "/results/problem/baryon-asymmetry/",
+    "canonical_books": [
+      "IV",
+      "V"
+    ]
+  },
+  {
+    "id": "result-113",
+    "slug": "galaxy-rotation-curves-without-dark-matter",
+    "title": "Galaxy Rotation Curves without Dark Matter",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ASTRO",
+    "summary_short": "",
+    "url": "/results/problem/galaxy-rotation-curves-without-dark-matter/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-114",
+    "slug": "no-hawking-radiation",
+    "title": "No Hawking Radiation",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "consequence",
+    "bridge_status": "contradicted",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "C",
+    "domain_group": "BH",
+    "summary_short": "",
+    "url": "/results/problem/no-hawking-radiation/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-115",
+    "slug": "no-axion-needed",
+    "title": "No Axion Needed",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "consequence",
+    "bridge_status": "contradicted",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "C",
+    "domain_group": "QCD",
+    "summary_short": "",
+    "url": "/results/problem/no-axion-needed/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-116",
+    "slug": "not-mond",
+    "title": "Not MOND",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "consequence",
+    "bridge_status": "contradicted",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "C",
+    "domain_group": "GRAV",
+    "summary_short": "",
+    "url": "/results/problem/not-mond/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-117",
+    "slug": "high-tc-superconductivity",
+    "title": "High-Tc Superconductivity",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "P",
+    "domain_group": "COND",
+    "summary_short": "",
+    "url": "/results/problem/high-tc-superconductivity/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-118",
+    "slug": "proton-spin-puzzle",
+    "title": "Proton Spin Puzzle",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "PART",
+    "summary_short": "",
+    "url": "/results/problem/proton-spin-puzzle/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-119",
+    "slug": "quantum-computing",
+    "title": "Quantum Computing",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "QM",
+    "summary_short": "",
+    "url": "/results/problem/quantum-computing/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-120",
+    "slug": "navier-stokes-regularity",
+    "title": "Navier–Stokes Regularity",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "N",
+    "domain_group": "FLUID",
+    "summary_short": "",
+    "url": "/results/problem/navier-stokes-regularity/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-121",
+    "slug": "necessary-vs-sufficient-conditions-for-life",
+    "title": "Necessary vs Sufficient Conditions for Life",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "FORM",
+    "summary_short": "",
+    "url": "/results/problem/necessary-vs-sufficient-conditions-for-life/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-122",
+    "slug": "non-reductive-emergence",
+    "title": "Non-Reductive Emergence",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "FORM",
+    "summary_short": "",
+    "url": "/results/problem/non-reductive-emergence/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-123",
+    "slug": "substrate-independence-multiple-realizability",
+    "title": "Substrate Independence / Multiple Realizability",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "FORM",
+    "summary_short": "",
+    "url": "/results/problem/substrate-independence-multiple-realizability/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-124",
+    "slug": "mathematical-biology-categorical-methods",
+    "title": "Mathematical Biology — Categorical Methods",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "FORM",
+    "summary_short": "",
+    "url": "/results/problem/mathematical-biology-categorical-methods/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-125",
+    "slug": "homochirality-origin",
+    "title": "Homochirality Origin",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "ORIG",
+    "summary_short": "",
+    "url": "/results/problem/homochirality-origin/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-126",
+    "slug": "abiogenesis-timescale",
+    "title": "Abiogenesis Timescale",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ORIG",
+    "summary_short": "",
+    "url": "/results/problem/abiogenesis-timescale/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-127",
+    "slug": "minimal-cell-synthetic-life-criteria",
+    "title": "Minimal Cell / Synthetic Life Criteria",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ORIG",
+    "summary_short": "",
+    "url": "/results/problem/minimal-cell-synthetic-life-criteria/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-128",
+    "slug": "genetic-code-optimality",
+    "title": "Genetic Code Optimality",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "GENE",
+    "summary_short": "",
+    "url": "/results/problem/genetic-code-optimality/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-129",
+    "slug": "epigenetics",
+    "title": "Epigenetics",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "GENE",
+    "summary_short": "",
+    "url": "/results/problem/epigenetics/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-130",
+    "slug": "cell-membrane-origins",
+    "title": "Cell Membrane Origins",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "CELL",
+    "summary_short": "",
+    "url": "/results/problem/cell-membrane-origins/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-131",
+    "slug": "atp-uniqueness",
+    "title": "ATP Uniqueness",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "CELL",
+    "summary_short": "",
+    "url": "/results/problem/atp-uniqueness/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-132",
+    "slug": "neurodegeneration",
+    "title": "Neurodegeneration",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "NEUR",
+    "summary_short": "",
+    "url": "/results/problem/neurodegeneration/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-133",
+    "slug": "machine-consciousness-life-side-bridge",
+    "title": "Machine Consciousness (Life-side bridge)",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "P",
+    "domain_group": "CONS",
+    "summary_short": "",
+    "url": "/results/problem/machine-consciousness-life-side-bridge/",
+    "canonical_books": [
+      "VI",
+      "VII"
+    ]
+  },
+  {
+    "id": "result-134",
+    "slug": "bh-as-alive",
+    "title": "BH-as-Alive",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "COSM",
+    "summary_short": "",
+    "url": "/results/problem/bh-as-alive/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-135",
+    "slug": "protein-folding",
+    "title": "Protein Folding",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "CELL",
+    "summary_short": "",
+    "url": "/results/problem/protein-folding/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-136",
+    "slug": "immune-specificity",
+    "title": "Immune Specificity",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "NEUR/ECOL",
+    "summary_short": "",
+    "url": "/results/problem/immune-specificity/",
+    "canonical_books": []
+  },
+  {
+    "id": "result-137",
+    "slug": "aging-mechanism",
+    "title": "Aging Mechanism",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "not-addressed",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "N",
+    "domain_group": "EVOL",
+    "summary_short": "",
+    "url": "/results/problem/aging-mechanism/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-138",
+    "slug": "identity-of-indiscernibles",
+    "title": "Identity of Indiscernibles",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ONT",
+    "summary_short": "",
+    "url": "/results/problem/identity-of-indiscernibles/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-139",
+    "slug": "structural-realism",
+    "title": "Structural Realism",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ONT",
+    "summary_short": "",
+    "url": "/results/problem/structural-realism/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-140",
+    "slug": "hard-problem-of-consciousness",
+    "title": "Hard Problem of Consciousness",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "PHEN/MIND",
+    "summary_short": "",
+    "url": "/results/problem/hard-problem-of-consciousness/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-141",
+    "slug": "temporal-experience",
+    "title": "Temporal Experience",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PHEN",
+    "summary_short": "",
+    "url": "/results/problem/temporal-experience/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-142",
+    "slug": "definition-of-beauty",
+    "title": "Definition of Beauty",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "AEST",
+    "summary_short": "",
+    "url": "/results/problem/definition-of-beauty/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-143",
+    "slug": "beauty-and-truth",
+    "title": "Beauty and Truth",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "AEST",
+    "summary_short": "",
+    "url": "/results/problem/beauty-and-truth/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-144",
+    "slug": "reference-problem",
+    "title": "Reference Problem",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "LANG",
+    "summary_short": "",
+    "url": "/results/problem/reference-problem/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-145",
+    "slug": "private-language-argument",
+    "title": "Private Language Argument",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "LANG",
+    "summary_short": "",
+    "url": "/results/problem/private-language-argument/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-146",
+    "slug": "g-del-avoidance",
+    "title": "Gödel Avoidance",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "LOGIC/FOUND",
+    "summary_short": "",
+    "url": "/results/problem/g-del-avoidance/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-147",
+    "slug": "paraconsistent-logic",
+    "title": "Paraconsistent Logic",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "LOGIC",
+    "summary_short": "",
+    "url": "/results/problem/paraconsistent-logic/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-148",
+    "slug": "categorical-imperative-derivation",
+    "title": "Categorical Imperative Derivation",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "ETHICS",
+    "summary_short": "",
+    "url": "/results/problem/categorical-imperative-derivation/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-149",
+    "slug": "ci-uniqueness",
+    "title": "CI Uniqueness",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ETHICS",
+    "summary_short": "",
+    "url": "/results/problem/ci-uniqueness/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-150",
+    "slug": "free-will-and-moral-responsibility",
+    "title": "Free Will and Moral Responsibility",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ETHICS/MIND",
+    "summary_short": "",
+    "url": "/results/problem/free-will-and-moral-responsibility/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-151",
+    "slug": "political-legitimacy",
+    "title": "Political Legitimacy",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "SOC",
+    "summary_short": "",
+    "url": "/results/problem/political-legitimacy/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-152",
+    "slug": "machine-consciousness-e3",
+    "title": "Machine Consciousness (E3)",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "MIND",
+    "summary_short": "",
+    "url": "/results/problem/machine-consciousness-e3/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-153",
+    "slug": "faith-reason-bridge",
+    "title": "Faith–Reason Bridge",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "LOGOS",
+    "summary_short": "",
+    "url": "/results/problem/faith-reason-bridge/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-154",
+    "slug": "why-so-many-results-are-even-possible",
+    "title": "Why So Many Results Are Even Possible",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "SERIES",
+    "summary_short": "",
+    "url": "/results/problem/why-so-many-results-are-even-possible/",
+    "canonical_books": [
+      "III",
+      "VII"
+    ]
+  },
+  {
+    "id": "result-155",
+    "slug": "consciousness-across-e1-e3",
+    "title": "Consciousness Across E1–E3",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "partial",
+    "result_kind": "consequence",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "SERIES",
+    "summary_short": "",
+    "url": "/results/problem/consciousness-across-e1-e3/",
+    "canonical_books": [
+      "III",
+      "VII"
+    ]
+  },
+  {
+    "id": "result-156",
+    "slug": "black-holes-across-e1-e3",
+    "title": "Black Holes Across E1–E3",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "SERIES",
+    "summary_short": "",
+    "url": "/results/problem/black-holes-across-e1-e3/",
+    "canonical_books": [
+      "III",
+      "VII"
+    ]
+  },
+  {
+    "id": "result-157",
+    "slug": "chirality-symmetry-breaking-across-e0-e2",
+    "title": "Chirality / Symmetry Breaking Across E0–E2",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "SERIES",
+    "summary_short": "",
+    "url": "/results/problem/chirality-symmetry-breaking-across-e0-e2/",
+    "canonical_books": [
+      "III",
+      "VII"
+    ]
+  },
+  {
+    "id": "result-158",
+    "slug": "ethics-normativity-across-e2-e3",
+    "title": "Ethics / Normativity Across E2–E3",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "SERIES",
+    "summary_short": "",
+    "url": "/results/problem/ethics-normativity-across-e2-e3/",
+    "canonical_books": [
+      "III",
+      "VII"
+    ]
+  },
+  {
+    "id": "result-159",
+    "slug": "information-self-reference-across-e0-e3",
+    "title": "Information / Self-Reference Across E0–E3",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "SERIES",
+    "summary_short": "",
+    "url": "/results/problem/information-self-reference-across-e0-e3/",
+    "canonical_books": [
+      "III",
+      "VII"
+    ]
   }
 ]

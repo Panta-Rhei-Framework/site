@@ -3,14 +3,14 @@ layout: program-doc
 title: Key Results
 permalink: /results/
 lane: results
-summary_short: "A frontier-problem-first research interface — 85 results across mathematics, physics, biology, and philosophy."
+summary_short: "A frontier-problem-first research interface — 159 results across mathematics, physics, biology, and philosophy."
 summary_cards:
 - title: What this lane does
   body: "Connects the program's internal claims to recognized problems, with explicit epistemic status and canonical grounding."
-- title: "85 results"
+- title: "159 results"
   body: "Frontier problems, foundational mathematics, and consequence/reframing results across four domains."
 - title: "Three result types"
-  body: "Frontier problem (44), foundational math (32), consequence (9)."
+  body: "Frontier problem (96), foundational math (39), consequence (24)."
 right_rail:
   related:
   - title: Framework Overview
@@ -39,28 +39,28 @@ Every result distinguishes:
 
 ## Featured Results
 
-- [Central Theorem: O(τ³) ≅ A_spec(L)]({{ '/results/problem/central-theorem/' | relative_url }}) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior f
-- [Hubble Tension Resolved: h = 2/3 + ι_τ²/17 at –120 ppm]({{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}) — The Hubble constant h = 0.6735 is derived as h = 2/3 + ι_τ²/17 at –120 ppm from SH0ES/JWST, resolving the Hubble tension
-- [No Dark Matter Particle: Sector Exhaustion Theorem]({{ '/results/problem/no-dark-matter-particle/' | relative_url }}) — The Sector Exhaustion Theorem proves no additional sector can be added, therefore no dark matter particle exists.
-- [Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids]({{ '/results/problem/homochirality-universality-12-step-derivation/' | relative_url }}) — The universal chirality of life — L-amino acids and D-sugars — is derived in a 12-step chain from K0–K6 through the Pari
-- [The Categorical Imperative Is the Unique j-Closed Fixed Point]({{ '/results/problem/categorical-imperative-fixed-point/' | relative_url }}) — Kant's Categorical Imperative is proven to be the unique j-closed fixed point of the τ-digestion operator — ethics deriv
-- [Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ]({{ '/results/problem/goedel-avoidance/' | relative_url }}) — Five independent mechanisms in Category τ prevent the diagonal self-negation that underlies Gödel's incompleteness theor
+- [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior f
+- [Hubble Tension Resolved: h = 2/3 + ι_τ²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — The Hubble constant h = 0.6735 is derived as h = 2/3 + ι_τ²/17 at –120 ppm from SH0ES/JWST, resolving the Hubble tension
+- [No Dark Matter Particle: Sector Exhaustion Theorem](/results/problem/no-dark-matter-particle/) — The Sector Exhaustion Theorem proves no additional sector can be added, therefore no dark matter particle exists.
+- [Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids](/results/problem/homochirality-universality-12-step-derivation/) — The universal chirality of life — L-amino acids and D-sugars — is derived in a 12-step chain from K0–K6 through the Pari
+- [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — Kant's Categorical Imperative is proven to be the unique j-closed fixed point of the τ-digestion operator — ethics deriv
+- [Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ](/results/problem/goedel-avoidance/) — Five independent mechanisms in Category τ prevent the diagonal self-negation that underlies Gödel's incompleteness theor
 
 ## Browse by Topic
 
-- [Biology]({{ '/results/topic/biology/' | relative_url }}) — 18 results
-- [Mathematics]({{ '/results/topic/mathematics/' | relative_url }}) — 43 results
-- [Philosophy]({{ '/results/topic/philosophy/' | relative_url }}) — 9 results
-- [Physics]({{ '/results/topic/physics/' | relative_url }}) — 15 results
+- [Biology](/results/topic/biology/) — 35 results
+- [Mathematics](/results/topic/mathematics/) — 61 results
+- [Philosophy](/results/topic/philosophy/) — 25 results
+- [Physics](/results/topic/physics/) — 38 results
 
 ## Browse
 
-- [All results by problem]({{ '/results/by-problem/' | relative_url }})
-- [Results by domain]({{ '/results/by-domain/' | relative_url }})
-- [Results by book]({{ '/results/by-book/' | relative_url }})
+- [All results by problem](/results/by-problem/)
+- [Results by domain](/results/by-domain/)
+- [Results by book](/results/by-book/)
 
 ## Understanding This Lane
 
-- [Why So Many Results Are Possible]({{ '/results/why-so-many-results/' | relative_url }})
-- [How to Read a Result Page]({{ '/results/how-to-read-a-result-page/' | relative_url }})
-- [Status and Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }})
+- [Why So Many Results Are Possible](/results/why-so-many-results/)
+- [How to Read a Result Page](/results/how-to-read-a-result-page/)
+- [Status and Claim Typing](/results/status-and-claim-typing/)

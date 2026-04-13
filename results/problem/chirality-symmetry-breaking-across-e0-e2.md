@@ -1,0 +1,31 @@
+---
+layout: result-page
+title: "Chirality / Symmetry Breaking Across E0–E2"
+permalink: /results/problem/chirality-symmetry-breaking-across-e0-e2/
+result_id: result-157
+topic: mathematics
+layer: mathematics
+result_type: consequence
+bridge_status: resolved
+result_kind: consequence
+importance_class: core-foundational-problem
+status_code: R
+domain_group: "SERIES"
+summary_short: "Chirality and symmetry breaking appear across mathematics (prime polarity), physics (parity violation), and biology (homochirality). The τ-framework derives all…"
+canonical_books: ["III", "VII"]
+right_rail:
+  meta:
+    type: "Consequence"
+    layer: "Mathematics"
+    topic: "Mathematics"
+    status: "Resolved"
+    updated: April 2026
+---
+
+## Overview
+
+Chirality and symmetry breaking appear across mathematics (prime polarity), physics (parity violation), and biology (homochirality). The τ-framework derives all three from the same bipolar decomposition.
+
+## Result Statement
+
+Chirality across E₀-E₂: prime polarity (E₀), parity violation (E₁), homochirality (E₂) — all from bipolar decomposition. Status: Resolved.
