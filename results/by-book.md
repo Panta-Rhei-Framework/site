@@ -3,7 +3,7 @@ layout: program-doc
 title: Results by Book
 permalink: /results/by-book/
 lane: results
-summary_short: "All 234 results grouped by their canonical book source across the seven-volume series."
+summary_short: "234 results grouped by canonical book source. Results spanning multiple books appear under each."
 right_rail:
   related:
   - title: Results Overview

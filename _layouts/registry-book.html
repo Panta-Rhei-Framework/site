@@ -29,7 +29,7 @@ layout: default
     {% if book_objects.size > 0 %}
     <div class="dep-list">
       {% for obj in book_objects %}
-      <a href="{{ obj.url }}" class="dep-link">
+      <a href="{{ obj.url | relative_url }}" class="dep-link">
         <span class="dep-id">{{ obj.id }}</span>
         <span class="dep-title">{{ obj.name }}</span>
         <span class="chip" style="margin-left:auto">{{ obj.type }}</span>
