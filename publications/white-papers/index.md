@@ -27,12 +27,12 @@ right_rail:
 
 | Document | Pages | Audience |
 |----------|:-----:|----------|
-| **Falsification Pack** | 8 | Physicists, experimentalists |
-| **Lean Verification Report** | 6 | Formal methods, mathematicians |
-| **Reviewer's Dossier** | 4 | Journal reviewers, evaluators |
-| **Reader's Guide** | 3 | All readers |
-| **Series Prospectus** | 23 | Academics, institutions |
-| **Seminar Abstracts** | 4 | Seminar organizers |
-| **Category τ at a Glance** | 1 | Everyone |
+| **Falsification Pack**{: #falsification-pack} | 8 | Physicists, experimentalists |
+| **Lean Verification Report**{: #lean-verification-report} | 6 | Formal methods, mathematicians |
+| **Reviewer's Dossier**{: #reviewers-dossier} | 4 | Journal reviewers, evaluators |
+| **Reader's Guide**{: #readers-guide} | 3 | All readers |
+| **Series Prospectus**{: #series-prospectus} | 23 | Academics, institutions |
+| **Seminar Abstracts**{: #seminar-abstracts} | 4 | Seminar organizers |
+| **Category τ at a Glance**{: #category-tau-at-a-glance} | 1 | Everyone |
 
-Available as PDF downloads at [panta-rhei.site](https://panta-rhei.site).
+White papers will be made available as PDF downloads. For advance copies, contact [contact@panta-rhei.site](mailto:contact@panta-rhei.site).

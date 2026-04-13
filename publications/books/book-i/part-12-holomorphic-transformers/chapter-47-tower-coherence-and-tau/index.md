@@ -74,4 +74,4 @@ The **CRT coherence constraint**
 shows that tower coherence reduces the infinite-dimensional
 problem to a prime-by-prime determination:
 a $τ$-holomorphic function is determined
-by its action on each CRT factor $ℤ/\underlinep_iℤ$.
+by its action on each CRT factor $ℤ/p_iℤ$.

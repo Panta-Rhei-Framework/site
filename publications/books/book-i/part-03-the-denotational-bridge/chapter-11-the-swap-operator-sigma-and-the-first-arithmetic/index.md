@@ -50,5 +50,5 @@ Index multiplication is defined by structural recursion
 on addition.
 We prove commutativity and associativity of addition,
 distributivity of multiplication over addition,
-and establish that $(τ-Idx, +, ×, \underline0, \underline1)$
+and establish that $(τ-Idx, +, ×, 0, 1)$
 is a commutative semiring.
