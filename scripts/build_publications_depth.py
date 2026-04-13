@@ -57,6 +57,17 @@ BOOK_PAGES = {
     "I": 483, "II": 504, "III": 437, "IV": 479, "V": 542, "VI": 440, "VII": 546,
 }
 
+# Golden-source subtitles (from _data/publications/books.json)
+BOOK_SUBTITLES = {
+    "I": "How Mathematics Is Earned",
+    "II": "Finite Readouts of Infinity",
+    "III": "Where Physics Lives",
+    "IV": "The Self-Describing Universe",
+    "V": "The Biography of the Universe",
+    "VI": "Life as Self-Decoding Distinctions",
+    "VII": "The Final Self-Enrichment",
+}
+
 # ---------------------------------------------------------------------------
 # Helpers
 # ---------------------------------------------------------------------------
@@ -201,7 +212,8 @@ def generate_book_page(book: dict, parts_data: list, book_slug: str) -> str:
     """Generate enriched book page Markdown."""
     roman = book["book"]
     title = clean_title(book["title"])
-    subtitle = clean_title(book.get("subtitle", ""))
+    # Use golden-source subtitle, falling back to outline
+    subtitle = BOOK_SUBTITLES.get(roman, clean_title(book.get("subtitle", "")))
     layer_code, layer_name = BOOK_LAYERS[roman]
     page_count = BOOK_PAGES.get(roman, 0)
     part_count = len(parts_data)
@@ -389,6 +401,7 @@ publication_type: chapter
 book_id: "{roman}"
 book_slug: "{book_slug}"
 part_number: {part_info["part_number"]}
+part_display: {yaml_str(part_info["display_name"])}
 part_slug: "{part_info["slug"]}"
 chapter_number: {ch_info["chapter_number"]}
 chapter_slug: "{ch_info["slug"]}"

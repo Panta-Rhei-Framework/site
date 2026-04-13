@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-coherence-kernel"
 chapter_number: 5
 chapter_slug: "chapter-05-the-object-closure-axiom-and-the-static-kernel-tau"

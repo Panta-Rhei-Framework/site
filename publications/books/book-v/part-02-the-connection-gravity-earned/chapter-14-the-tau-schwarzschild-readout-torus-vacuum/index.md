@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-the-connection-gravity-earned"
 chapter_number: 14
 chapter_slug: "chapter-14-the-tau-schwarzschild-readout-torus-vacuum"

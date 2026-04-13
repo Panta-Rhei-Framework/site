@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 8
+part_display: "Part VIII"
 part_slug: "part-08-self-enrichment-yoneda-and-higher-categories"
 chapter_number: 46
 chapter_slug: "chapter-46-s-self-describing-structure"

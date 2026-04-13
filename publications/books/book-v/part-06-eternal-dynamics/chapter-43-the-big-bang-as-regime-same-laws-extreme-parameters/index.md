@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-eternal-dynamics"
 chapter_number: 43
 chapter_slug: "chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters"

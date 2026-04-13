@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-closure-fungi-and-the-recycling-fiber"
 chapter_number: 32
 chapter_slug: "chapter-32-healing-regeneration-and-the-repair-budget"

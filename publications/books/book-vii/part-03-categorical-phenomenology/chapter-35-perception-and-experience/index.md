@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-categorical-phenomenology"
 chapter_number: 35
 chapter_slug: "chapter-35-perception-and-experience"

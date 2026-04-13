@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 10
+part_display: "Part X"
 part_slug: "part-10-closure-synthesis-and-bridge-to-book-iii"
 chapter_number: 58
 chapter_slug: "chapter-58-forward-to-book-iii-spectral-forces-in-h-tau"

@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-the-denotational-bridge"
 chapter_number: 13
 chapter_slug: "chapter-13-the-program-monoid-composition-as-a-theorem"

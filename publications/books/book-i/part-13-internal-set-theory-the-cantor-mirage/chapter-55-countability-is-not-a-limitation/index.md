@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 13
+part_display: "Part XIII"
 part_slug: "part-13-internal-set-theory-the-cantor-mirage"
 chapter_number: 55
 chapter_slug: "chapter-55-countability-is-not-a-limitation"

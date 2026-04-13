@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 9
+part_display: "Part IX"
 part_slug: "part-09-the-central-theorem-and-categoricity"
 chapter_number: 51
 chapter_slug: "chapter-51-yoneda-applied-omega-germs-are-holomorphic-functions"

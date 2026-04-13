@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 8
+part_display: "Part VIII"
 part_slug: "part-08-the-constants-ledger-and-the-complexity-summit"
 chapter_number: 70
 chapter_slug: "chapter-70-the-mass-ratio-r-and-the-10-link-chain"

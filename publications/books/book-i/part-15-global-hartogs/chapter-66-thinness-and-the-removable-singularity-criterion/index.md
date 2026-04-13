@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 15
+part_display: "Part XV"
 part_slug: "part-15-global-hartogs"
 chapter_number: 66
 chapter_slug: "chapter-66-thinness-and-the-removable-singularity-criterion"

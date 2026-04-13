@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 8
+part_display: "Part VIII"
 part_slug: "part-08-categorical-societies"
 chapter_number: 103
 chapter_slug: "chapter-103-nine-global-spheres"

@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 0
+part_display: "Prologue"
 part_slug: "part-00-the-third-self-enrichment"
 chapter_number: 1
 chapter_slug: "chapter-01-the-third-self-enrichment-entry-to-e"

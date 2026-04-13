@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-particles-generations-and-nuclear-physics"
 chapter_number: 38
 chapter_slug: "chapter-38-the-micro-donut-and-ternary-structure"

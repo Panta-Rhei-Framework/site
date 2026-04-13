@@ -6,14 +6,14 @@ lane: publications
 publication_type: book
 book_id: "VI"
 book_slug: "book-vi"
-subtitle: "The Parity Bridge: From Physics to Life"
+subtitle: "Life as Self-Decoding Distinctions"
 part_count: 9
 chapter_count: 53
 page_count: 440
-summary_short: "The Parity Bridge: From Physics to Life"
+summary_short: "Life as Self-Decoding Distinctions"
 summary_cards:
 - title: Subtitle
-  body: "The Parity Bridge: From Physics to Life"
+  body: "Life as Self-Decoding Distinctions"
 - title: Structure
   body: "9 parts, 53 chapters, 440 pages"
 - title: Layer
@@ -42,7 +42,7 @@ right_rail:
     updated: April 2026
 ---
 
-## The Parity Bridge: From Physics to Life
+## Life as Self-Decoding Distinctions
 
 Book VI is part of the **Life** layer (E₂) of the Panta Rhei framework.
 

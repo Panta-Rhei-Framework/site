@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 11
+part_display: "Part XI"
 part_slug: "part-11-tau"
 chapter_number: 44
 chapter_slug: "chapter-44-the-explosion-barrier"

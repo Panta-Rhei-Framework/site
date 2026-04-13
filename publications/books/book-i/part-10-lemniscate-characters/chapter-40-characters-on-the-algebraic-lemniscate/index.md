@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 10
+part_display: "Part X"
 part_slug: "part-10-lemniscate-characters"
 chapter_number: 40
 chapter_slug: "chapter-40-characters-on-the-algebraic-lemniscate"

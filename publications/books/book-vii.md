@@ -6,14 +6,14 @@ lane: publications
 publication_type: book
 book_id: "VII"
 book_slug: "book-vii"
-subtitle: "From Proof to Commitment"
+subtitle: "The Final Self-Enrichment"
 part_count: 13
 chapter_count: 128
 page_count: 546
-summary_short: "From Proof to Commitment"
+summary_short: "The Final Self-Enrichment"
 summary_cards:
 - title: Subtitle
-  body: "From Proof to Commitment"
+  body: "The Final Self-Enrichment"
 - title: Structure
   body: "13 parts, 128 chapters, 546 pages"
 - title: Layer
@@ -42,7 +42,7 @@ right_rail:
     updated: April 2026
 ---
 
-## From Proof to Commitment
+## The Final Self-Enrichment
 
 Book VII is part of the **Metaphysics** layer (E₃) of the Panta Rhei framework.
 

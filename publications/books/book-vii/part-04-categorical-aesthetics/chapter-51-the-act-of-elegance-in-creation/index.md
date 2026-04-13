@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-categorical-aesthetics"
 chapter_number: 51
 chapter_slug: "chapter-51-the-act-of-elegance-in-creation"

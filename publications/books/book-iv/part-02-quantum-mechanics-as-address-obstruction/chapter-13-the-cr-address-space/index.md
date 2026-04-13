@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-quantum-mechanics-as-address-obstruction"
 chapter_number: 13
 chapter_slug: "chapter-13-the-cr-address-space"

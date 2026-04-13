@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-persistence-archaea-and-the-temporal-axis"
 chapter_number: 15
 chapter_slug: "chapter-15-circadian-rhythms-poincar-e-orbits-on-the-temporal-circle"

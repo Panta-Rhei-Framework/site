@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 10
+part_display: "Part X"
 part_slug: "part-10-the-logos-sector"
 chapter_number: 122
 chapter_slug: "chapter-122-synchronicity-as-kernel-resonance"

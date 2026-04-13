@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-source-plants-and-the-production-fiber"
 chapter_number: 23
 chapter_slug: "chapter-23-the-source-sector-structure-generation"

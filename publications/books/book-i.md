@@ -6,14 +6,14 @@ lane: publications
 publication_type: book
 book_id: "I"
 book_slug: "book-i"
-subtitle: "The Unique Foundation of Mathematics"
+subtitle: "How Mathematics Is Earned"
 part_count: 18
 chapter_count: 79
 page_count: 483
-summary_short: "The Unique Foundation of Mathematics"
+summary_short: "How Mathematics Is Earned"
 summary_cards:
 - title: Subtitle
-  body: "The Unique Foundation of Mathematics"
+  body: "How Mathematics Is Earned"
 - title: Structure
   body: "18 parts, 79 chapters, 483 pages"
 - title: Layer
@@ -42,7 +42,7 @@ right_rail:
     updated: April 2026
 ---
 
-## The Unique Foundation of Mathematics
+## How Mathematics Is Earned
 
 Book I is part of the **Mathematics** layer (E₀) of the Panta Rhei framework.
 

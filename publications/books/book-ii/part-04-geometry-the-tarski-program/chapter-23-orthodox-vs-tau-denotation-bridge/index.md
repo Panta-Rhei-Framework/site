@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-geometry-the-tarski-program"
 chapter_number: 23
 chapter_slug: "chapter-23-orthodox-vs-tau-denotation-bridge"

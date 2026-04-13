@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 8
+part_display: "Part VIII"
 part_slug: "part-08-consciousness-language-and-the-bridge-to-e"
 chapter_number: 52
 chapter_slug: "chapter-52-communication-and-language-the-extended-lemniscate"

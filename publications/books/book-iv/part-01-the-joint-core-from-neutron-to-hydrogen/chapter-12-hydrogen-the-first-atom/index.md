@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-joint-core-from-neutron-to-hydrogen"
 chapter_number: 12
 chapter_slug: "chapter-12-hydrogen-the-first-atom"

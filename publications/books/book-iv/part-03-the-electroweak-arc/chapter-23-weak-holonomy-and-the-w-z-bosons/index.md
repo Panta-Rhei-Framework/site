@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-the-electroweak-arc"
 chapter_number: 23
 chapter_slug: "chapter-23-weak-holonomy-and-the-w-z-bosons"

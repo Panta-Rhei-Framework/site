@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-the-connection-gravity-earned"
 chapter_number: 13
 chapter_slug: "chapter-13-nonlinear-tau-einstein-address-resolution-not-pde-solving"

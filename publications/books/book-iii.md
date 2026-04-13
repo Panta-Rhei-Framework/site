@@ -6,14 +6,14 @@ lane: publications
 publication_type: book
 book_id: "III"
 book_slug: "book-iii"
-subtitle: "The Enrichment Ladder and the Millennium Problems"
+subtitle: "Where Physics Lives"
 part_count: 11
 chapter_count: 76
 page_count: 437
-summary_short: "The Enrichment Ladder and the Millennium Problems"
+summary_short: "Where Physics Lives"
 summary_cards:
 - title: Subtitle
-  body: "The Enrichment Ladder and the Millennium Problems"
+  body: "Where Physics Lives"
 - title: Structure
   body: "11 parts, 76 chapters, 437 pages"
 - title: Layer
@@ -42,7 +42,7 @@ right_rail:
     updated: April 2026
 ---
 
-## The Enrichment Ladder and the Millennium Problems
+## Where Physics Lives
 
 Book III is part of the **Mathematics (Hinge)** layer (E₀) of the Panta Rhei framework.
 

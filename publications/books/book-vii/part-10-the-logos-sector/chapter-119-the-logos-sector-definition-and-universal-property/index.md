@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 10
+part_display: "Part X"
 part_slug: "part-10-the-logos-sector"
 chapter_number: 119
 chapter_slug: "chapter-119-the-logos-sector-definition-and-universal-property"

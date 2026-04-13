@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-the-spectral-doors"
 chapter_number: 30
 chapter_slug: "chapter-30-the-master-schema"

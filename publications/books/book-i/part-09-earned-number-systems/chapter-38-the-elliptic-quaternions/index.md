@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 9
+part_display: "Part IX"
 part_slug: "part-09-earned-number-systems"
 chapter_number: 38
 chapter_slug: "chapter-38-the-elliptic-quaternions"

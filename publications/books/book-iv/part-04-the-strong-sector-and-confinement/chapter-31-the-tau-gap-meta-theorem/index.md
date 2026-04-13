@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 4
+part_display: "Part IV"
 part_slug: "part-04-the-strong-sector-and-confinement"
 chapter_number: 31
 chapter_slug: "chapter-31-the-tau-gap-meta-theorem"

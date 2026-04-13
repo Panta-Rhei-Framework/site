@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 16
+part_display: "Part XVI"
 part_slug: "part-16-the-presheaf-essence"
 chapter_number: 70
 chapter_slug: "chapter-70-the-holomorphy-bi-square"

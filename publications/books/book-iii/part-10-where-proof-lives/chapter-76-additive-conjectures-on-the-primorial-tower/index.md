@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 10
+part_display: "Part X"
 part_slug: "part-10-where-proof-lives"
 chapter_number: 76
 chapter_slug: "chapter-76-additive-conjectures-on-the-primorial-tower"

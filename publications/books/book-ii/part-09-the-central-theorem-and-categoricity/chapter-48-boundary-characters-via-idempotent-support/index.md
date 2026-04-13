@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 9
+part_display: "Part IX"
 part_slug: "part-09-the-central-theorem-and-categoricity"
 chapter_number: 48
 chapter_slug: "chapter-48-boundary-characters-via-idempotent-support"

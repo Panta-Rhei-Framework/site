@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-the-arithmetic-mirror"
 chapter_number: 43
 chapter_slug: "chapter-43-proto-codes-and-the-bsd-bridgehead"

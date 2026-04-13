@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-eternal-dynamics"
 chapter_number: 49
 chapter_slug: "chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink"

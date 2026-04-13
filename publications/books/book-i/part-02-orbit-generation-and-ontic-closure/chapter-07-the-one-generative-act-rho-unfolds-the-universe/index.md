@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-orbit-generation-and-ontic-closure"
 chapter_number: 7
 chapter_slug: "chapter-07-the-one-generative-act-rho-unfolds-the-universe"

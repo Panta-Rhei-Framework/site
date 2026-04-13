@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 9
+part_display: "Part IX"
 part_slug: "part-09-categorical-mind-consciousness"
 chapter_number: 111
 chapter_slug: "chapter-111-the-self-recognition-loop"

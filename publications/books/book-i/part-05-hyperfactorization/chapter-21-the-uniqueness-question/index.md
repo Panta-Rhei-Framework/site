@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-hyperfactorization"
 chapter_number: 21
 chapter_slug: "chapter-21-the-uniqueness-question"

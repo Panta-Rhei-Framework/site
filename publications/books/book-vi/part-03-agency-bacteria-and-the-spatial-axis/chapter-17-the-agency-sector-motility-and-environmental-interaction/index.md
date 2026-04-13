@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-agency-bacteria-and-the-spatial-axis"
 chapter_number: 17
 chapter_slug: "chapter-17-the-agency-sector-motility-and-environmental-interaction"

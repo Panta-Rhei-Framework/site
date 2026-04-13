@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-categorical-ethics-the-kantian-bridge"
 chapter_number: 82
 chapter_slug: "chapter-82-the-four-ethical-tests"

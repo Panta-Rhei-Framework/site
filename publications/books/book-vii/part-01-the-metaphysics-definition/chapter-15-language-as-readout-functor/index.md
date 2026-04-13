@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-metaphysics-definition"
 chapter_number: 15
 chapter_slug: "chapter-15-language-as-readout-functor"

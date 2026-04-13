@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-life-definition"
 chapter_number: 7
 chapter_slug: "chapter-07-the-life-loop-class-and-metabolic-geometry"

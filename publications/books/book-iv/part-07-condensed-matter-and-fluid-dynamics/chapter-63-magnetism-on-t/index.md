@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "IV"
 book_slug: "book-iv"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-condensed-matter-and-fluid-dynamics"
 chapter_number: 63
 chapter_slug: "chapter-63-magnetism-on-t"

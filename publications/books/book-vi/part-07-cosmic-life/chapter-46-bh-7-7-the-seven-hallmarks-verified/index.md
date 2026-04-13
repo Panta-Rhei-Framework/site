@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-cosmic-life"
 chapter_number: 46
 chapter_slug: "chapter-46-bh-7-7-the-seven-hallmarks-verified"

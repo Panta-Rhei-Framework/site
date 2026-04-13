@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "III"
 book_slug: "book-iii"
 part_number: 8
+part_display: "Part VIII"
 part_slug: "part-08-where-physics-lives"
 chapter_number: 55
 chapter_slug: "chapter-55-e"

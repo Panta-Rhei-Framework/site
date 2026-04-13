@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 6
+part_display: "Part VI"
 part_slug: "part-06-consumer-animals-and-the-mixed-sector"
 chapter_number: 33
 chapter_slug: "chapter-33-the-consumer-mixer-uniqueness-on-gamma-eta"

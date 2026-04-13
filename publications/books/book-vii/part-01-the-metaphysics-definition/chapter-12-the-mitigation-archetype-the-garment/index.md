@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-metaphysics-definition"
 chapter_number: 12
 chapter_slug: "chapter-12-the-mitigation-archetype-the-garment"

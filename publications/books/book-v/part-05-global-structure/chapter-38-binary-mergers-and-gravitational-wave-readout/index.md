@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 5
+part_display: "Part V"
 part_slug: "part-05-global-structure"
 chapter_number: 38
 chapter_slug: "chapter-38-binary-mergers-and-gravitational-wave-readout"

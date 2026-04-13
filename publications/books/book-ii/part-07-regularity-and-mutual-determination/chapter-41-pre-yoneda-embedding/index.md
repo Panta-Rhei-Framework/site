@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "II"
 book_slug: "book-ii"
 part_number: 7
+part_display: "Part VII"
 part_slug: "part-07-regularity-and-mutual-determination"
 chapter_number: 41
 chapter_slug: "chapter-41-pre-yoneda-embedding"

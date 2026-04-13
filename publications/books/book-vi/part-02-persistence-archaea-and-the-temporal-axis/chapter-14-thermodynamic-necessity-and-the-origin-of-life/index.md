@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 2
+part_display: "Part II"
 part_slug: "part-02-persistence-archaea-and-the-temporal-axis"
 chapter_number: 14
 chapter_slug: "chapter-14-thermodynamic-necessity-and-the-origin-of-life"

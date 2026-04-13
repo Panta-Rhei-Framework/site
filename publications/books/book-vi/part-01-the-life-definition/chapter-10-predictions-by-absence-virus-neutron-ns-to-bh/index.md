@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VI"
 book_slug: "book-vi"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-life-definition"
 chapter_number: 10
 chapter_slug: "chapter-10-predictions-by-absence-virus-neutron-ns-to-bh"

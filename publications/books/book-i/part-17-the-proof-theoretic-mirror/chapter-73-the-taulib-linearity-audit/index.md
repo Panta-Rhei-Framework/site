@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 17
+part_display: "Part XVII"
 part_slug: "part-17-the-proof-theoretic-mirror"
 chapter_number: 73
 chapter_slug: "chapter-73-the-taulib-linearity-audit"

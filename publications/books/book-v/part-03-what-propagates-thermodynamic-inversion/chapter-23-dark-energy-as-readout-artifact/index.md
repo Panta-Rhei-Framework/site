@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "V"
 book_slug: "book-v"
 part_number: 3
+part_display: "Part III"
 part_slug: "part-03-what-propagates-thermodynamic-inversion"
 chapter_number: 23
 chapter_slug: "chapter-23-dark-energy-as-readout-artifact"

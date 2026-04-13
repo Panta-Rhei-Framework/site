@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "VII"
 book_slug: "book-vii"
 part_number: 12
+part_display: "Part XII"
 part_slug: "part-12-the-final-boundary-from-proof-to-commitment"
 chapter_number: 128
 chapter_slug: "chapter-128-the-series-closing-line"

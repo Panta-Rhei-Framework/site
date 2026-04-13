@@ -7,6 +7,7 @@ publication_type: chapter
 book_id: "I"
 book_slug: "book-i"
 part_number: 1
+part_display: "Part I"
 part_slug: "part-01-the-coherence-kernel"
 chapter_number: 6
 chapter_slug: "chapter-06-diagonal-discipline-why-exactly-four-channels"
