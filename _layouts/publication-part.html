@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+<nav class="breadcrumb" aria-label="Breadcrumb">
+  <a href="{{ '/publications/' | relative_url }}">Publications</a>
+  <span class="breadcrumb-sep">/</span>
+  <a href="{{ '/publications/books/' | relative_url }}">Books</a>
+  <span class="breadcrumb-sep">/</span>
+  <a href="{{ page.canonical_book_url | relative_url }}">Book {{ page.book_id }}</a>
+  <span class="breadcrumb-sep">/</span>
+  <span class="breadcrumb-current">{{ page.part_display }}</span>
+</nav>
+
+<div class="hero-card">
+  <span class="eyebrow">Book {{ page.book_id }} · {{ page.part_display }}</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short | truncate: 200 }}</p>
+  {% endif %}
+  <div class="btn-group">
+    <a href="{{ page.canonical_book_url | relative_url }}" class="btn-secondary">Book {{ page.book_id }}</a>
+  </div>
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>

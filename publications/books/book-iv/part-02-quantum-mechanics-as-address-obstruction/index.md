@@ -1,0 +1,62 @@
+---
+layout: publication-part
+title: "Part II: Quantum Mechanics as Address Obstruction"
+permalink: /publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/
+lane: publications
+publication_type: part
+book_id: "IV"
+book_slug: "book-iv"
+part_number: 2
+part_display: "Part II"
+part_slug: "part-02-quantum-mechanics-as-address-obstruction"
+chapter_count: 8
+summary_short: "Quantum mechanics is not postulated—it is *derived* from the $τ^3$ geometry. The CR-structure on the fibered product $τ^3 = τ^1 ×_f T^2$ couples the torus…"
+canonical_book_url: "/publications/books/book-iv/"
+canonical_book_title: "Book IV: Categorical Microcosm"
+right_rail:
+  related:
+  - title: "Book IV: Categorical Microcosm"
+    url: /publications/books/book-iv/
+  - title: Guided Tours
+    url: /publications/guided-tours/
+  - title: Registry
+    url: /registry/books/book-iv/
+  meta:
+    type: Part
+    book: "Book IV"
+    layer: "E₁ Physics (Microcosm)"
+    chapters: "8"
+    updated: April 2026
+---
+
+
+Quantum mechanics is not postulated—it is *derived* from the
+$τ^3$ geometry. The CR-structure on the fibered product
+$τ^3 = τ^1 ×_f T^2$ couples the torus fiber to the worldline
+base in a way that forces discrete spectra, non-commuting observables,
+and the full Hilbert-space formalism. Uncertainty is not epistemological
+but geometric: a CR-address on $T^2$ cannot simultaneously resolve
+conjugate coordinate systems—the *address obstruction* that gives
+this Part its name.
+
+The eight chapters trace a single arc from the CR-address space
+(Chapter [ch:iv-cr-address-space]) through the holomorphic Hilbert
+space, quantization, the address-obstruction theorem (Heisenberg),
+measurement, the Schr\"odinger equation, and energy/entropy, culminating
+in the first quantitative prediction of the framework: the
+neutron-to-electron mass ratio
+$R_0 = ι_τ^{-7} - \sqrt3 ι_τ^{-2} ≈ 1838.7$,
+derived from the breathing mode spectrum, the Epstein zeta function, the
+lemniscate capacity, and the holonomy correction $π^3α^2$—at
+${\sim} 0.001%$ (8 ppm) agreement with the CODATA value, with no free parameters.
+
+## Chapters
+
+- **[Chapter 13: The CR Address Space](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-13-the-cr-address-space/)**
+- **[Chapter 14: Characters as Quantum Addresses](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-14-characters-as-quantum-addresses/)**
+- **[Chapter 15: The Holomorphic State Space](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-15-the-holomorphic-state-space/)**
+- **[Chapter 16: Holomorphic Quantization](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-16-holomorphic-quantization/)**
+- **[Chapter 17: The Address-Obstruction Theorem](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-17-the-address-obstruction-theorem/)**
+- **[Chapter 18: Measurement and the Schr\"odinger Equation](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-18-measurement-and-the-schr-odinger-equation/)**
+- **[Chapter 19: Energy, Entropy, and the Arrow](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-19-energy-entropy-and-the-arrow/)**
+- **[Chapter 20: The Electron Mass Prediction](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-20-the-electron-mass-prediction/)**

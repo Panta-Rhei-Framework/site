@@ -1,0 +1,129 @@
+---
+layout: publication-part
+title: "Part XVII: The Proof-Theoretic Mirror"
+permalink: /publications/books/book-i/part-17-the-proof-theoretic-mirror/
+lane: publications
+publication_type: part
+book_id: "I"
+book_slug: "book-i"
+part_number: 17
+part_display: "Part XVII"
+part_slug: "part-17-the-proof-theoretic-mirror"
+chapter_count: 9
+summary_short: "Part XVII closed the development: sixty-seven chapters, every object and theorem earned from five generators, one operator, and seven axioms $K0$–$K6$. The…"
+canonical_book_url: "/publications/books/book-i/"
+canonical_book_title: "Book I: Categorical Foundations"
+right_rail:
+  related:
+  - title: "Book I: Categorical Foundations"
+    url: /publications/books/book-i/
+  - title: Guided Tours
+    url: /publications/guided-tours/
+  - title: Registry
+    url: /registry/books/book-i/
+  meta:
+    type: Part
+    book: "Book I"
+    layer: "E₀ Mathematics"
+    chapters: "9"
+    updated: April 2026
+---
+
+
+Part XVII closed the development:
+sixty-seven chapters, every object and theorem
+earned from five generators, one operator,
+and seven axioms $K0$–$K6$.
+The Kernel Hinge Diagram traces each result
+back to the coherence kernel
+with no outstanding imports.
+But this accounting has a blind spot.
+
+The **logic** used to write the proofs —
+the Calculus of Inductive Constructions
+that powers Lean 4 —
+was itself *imported*, not earned.
+CIC provides structural rules
+(contraction, weakening, exchange)
+that $K5$ refuses at the object level.
+Every `have h` in TauLib
+silently invokes a meta-logical substrate
+that the seven axioms never generated.
+
+This Part names the gap, maps the landscape,
+locates the structural barrier,
+and charts a precise research frontier.
+Chapter [ch:meta-logical-toolkit]
+takes inventory of what CIC provides
+and what Book I actually used.
+Chapter [ch:diagonal-linear-correspondence]
+identifies the diagonal–linear correspondence:
+the structural signature that $τ$ shares
+with linear logic.
+Chapter [ch:linearity-audit]
+audits TauLib module by module
+for linearity compliance.
+Chapter [ch:self-hosting-landscape]
+surveys every serious attempt at proof-theoretic
+self-hosting — from Willard to Girard —
+and classifies them by self-hosting degree.
+Chapter [ch:star-autonomous-barrier]
+names the categorical barrier:
+Lawvere's fixed-point theorem in cartesian closed categories,
+and proves that $K5$'s diagonal discipline
+places $τ$ on the star-autonomous side
+where the barrier does not apply.
+Chapter [ch:enrichment-frontier]
+maps the enrichment ladder $E_0 → E_1 → E_2 → E_3$
+onto the existing literature,
+grades each transition by precedent,
+and declares the scale of Book III's program.
+
+Chapter [ch:diagonal-resonance]
+diagnoses the deepest structural consequence
+of the diagonal discipline:
+orthodox foundations suffer from *diagonal resonance*,
+a three-component splice (contraction $+$ equality-as-congruence
+$+$ ontic self-products) that produces
+*identity slippage* —
+a partial decoherence of ontic self-identity.
+Chapter [ch:ontic-identity-invariance]
+proves the resolution:
+$τ$'s coherence kernel preserves ontic identity
+at every construction step,
+with identity coherence at 100%.
+The **Ontic Identity Invariance Theorem**
+(Theorem [thm:ontic-identity-invariance], I.T46)
+and the **Conditional Theorem**
+(Theorem [thm:slippage-breaks-omega], I.T47)
+show that identity slippage breaks unique $ω$.
+Chapter [ch:reception-criterion]
+draws the implications:
+the **Identity-Faithful Reception Criterion**
+(Definition [def:identity-faithful-reception], I.D92)
+and the **Structural Instability Theorem**
+(Theorem [thm:structural-instability], I.T48)
+characterize when a foundation can host $τ$ ontically.
+
+We do not claim to close the gap here.
+Closing it requires the self-enrichment ladder
+of Book III, where $τ$ learns to reason
+about its own reasoning.
+What this Part provides is both an honest mirror —
+a precise description of what was borrowed —
+and a research roadmap showing why the debt
+can be repaid, where the known obstructions lie,
+and what completing the repayment would mean
+for proof theory at large.
+
+## Chapters
+
+- **[Chapter 71: The Meta-Logical Toolkit](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-71-the-meta-logical-toolkit/)**
+- **[Chapter 72: Diagonal Discipline as Linear Logic](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-72-diagonal-discipline-as-linear-logic/)**
+- **[Chapter 73: The TauLib Linearity Audit](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-73-the-taulib-linearity-audit/)**
+- **[Chapter 74: The Self-Hosting Landscape](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-74-the-self-hosting-landscape/)**
+- **[Chapter 75: Star-Autonomous Categories and the Diagonal Barrier](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-75-star-autonomous-categories-and-the-diagonal-barrier/)**
+- **[Chapter 76: The Enrichment Frontier](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/)**
+- **[Chapter 77: Diagonal Resonance and Identity Slippage](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-77-diagonal-resonance-and-identity-slippage/)**
+- **[Chapter 78: Ontic Identity Invariance](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-78-ontic-identity-invariance/)**
+- **[Chapter 79: The Identity-Faithful Reception Criterion](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/)**

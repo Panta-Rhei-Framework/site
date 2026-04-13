@@ -1,0 +1,22 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">Publications · Books</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.subtitle %}
+  <p class="hero-subtitle">{{ page.subtitle }}</p>
+  {% endif %}
+  {% if page.summary_short and page.summary_short != page.subtitle %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+</div>
+
+{% include summary-cards.html %}
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
