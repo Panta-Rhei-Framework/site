@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Climate-Smart Irrigation, Soil Moisture, and Water Productivity
 permalink: /impact/papers/climate-smart-irrigation-soil-moisture-water-productivity/
 paper_id: companion-agriculture-paper-2

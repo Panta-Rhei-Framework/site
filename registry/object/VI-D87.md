@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D87 — Neural Defect Level
 permalink: /registry/object/VI.D87/
 registry_id: VI.D87

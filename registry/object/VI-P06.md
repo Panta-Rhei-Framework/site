@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P06 — Thermodynamic Necessity at E₂
 permalink: /registry/object/VI.P06/
 registry_id: VI.P06

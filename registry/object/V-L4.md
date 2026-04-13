@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: V.L4 — Single Scale Degree of Freedom
 permalink: /registry/object/V.L4/
 registry_id: V.L4

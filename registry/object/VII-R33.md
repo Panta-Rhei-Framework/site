@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R33 — Kant's Three Methodological Rules
 permalink: /registry/object/VII.R33/
 registry_id: VII.R33

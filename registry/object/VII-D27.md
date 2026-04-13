@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D27 — Truth-Maker in τ (Ontological)
 permalink: /registry/object/VII.D27/
 registry_id: VII.D27

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R94 — Leptons share the same structure
 permalink: /registry/object/IV.R94/
 registry_id: IV.R94

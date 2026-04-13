@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T17 — Emergence of Spin-1/2
 permalink: /registry/object/IV.T17/
 registry_id: IV.T17

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P15 — 3-Condition Sufficiency
 permalink: /registry/object/III.P15/
 registry_id: III.P15

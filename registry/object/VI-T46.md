@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T46 — Abiogenesis Inevitability
 permalink: /registry/object/VI.T46/
 registry_id: VI.T46

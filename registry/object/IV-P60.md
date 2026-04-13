@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P60 — Z Field Composition
 permalink: /registry/object/IV.P60/
 registry_id: IV.P60

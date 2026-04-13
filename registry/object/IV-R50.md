@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R50 — Physical meaning of truncation coherence
 permalink: /registry/object/IV.R50/
 registry_id: IV.R50

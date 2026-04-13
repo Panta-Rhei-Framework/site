@@ -52,7 +52,7 @@ Book V is part of the **Physics (Macrocosm)** layer (E₁) of the Panta Rhei fra
 ## About This Volume
 
 center
-*``The way up and the way down are one and the same.''*\\
+*“The way up and the way down are one and the same.”*\\
 — Heraclitus, Fragment 60
 center
 
@@ -98,17 +98,17 @@ that connects them.
 
 ## Parts
 
-- **[Prologue: The Hermetic Principle](/publications/books/book-v/part-00-the-hermetic-principle/)** — 1 chapter
-- **[Part I: The Base Itself: Time from τ¹](/publications/books/book-v/part-01-the-base-itself-time-from-tau/)** — 7 chapters
-- **[Part II: The Connection: Gravity Earned](/publications/books/book-v/part-02-the-connection-gravity-earned/)** — 10 chapters
-- **[Part III: What Propagates: Thermodynamic Inversion](/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/)** — 5 chapters
-- **[Part IV: Collective Dynamics](/publications/books/book-v/part-04-collective-dynamics/)** — 7 chapters
-- **[Part V: Global Structure](/publications/books/book-v/part-05-global-structure/)** — 12 chapters
-- **[Part VI: Eternal Dynamics](/publications/books/book-v/part-06-eternal-dynamics/)** — 13 chapters
-- **[Part VII: The Closure](/publications/books/book-v/part-07-the-closure/)** — 3 chapters
+- **[Prologue: The Hermetic Principle]({{ '/publications/books/book-v/part-00-the-hermetic-principle/' | relative_url }})** — 1 chapter
+- **[Part I: The Base Itself: Time from τ¹]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/' | relative_url }})** — 7 chapters
+- **[Part II: The Connection: Gravity Earned]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/' | relative_url }})** — 10 chapters
+- **[Part III: What Propagates: Thermodynamic Inversion]({{ '/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/' | relative_url }})** — 5 chapters
+- **[Part IV: Collective Dynamics]({{ '/publications/books/book-v/part-04-collective-dynamics/' | relative_url }})** — 7 chapters
+- **[Part V: Global Structure]({{ '/publications/books/book-v/part-05-global-structure/' | relative_url }})** — 12 chapters
+- **[Part VI: Eternal Dynamics]({{ '/publications/books/book-v/part-06-eternal-dynamics/' | relative_url }})** — 13 chapters
+- **[Part VII: The Closure]({{ '/publications/books/book-v/part-07-the-closure/' | relative_url }})** — 3 chapters
 
 ## Canonical Artifacts
 
-- **Registry**: [58 chapters mapped to registry objects](/registry/books/book-v/)
-- **Dashboard**: [Formalization status and dependency graph](/registry/dashboards/book-v/)
+- **Registry**: [58 chapters mapped to registry objects]({{ '/registry/books/book-v/' | relative_url }})
+- **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-v/' | relative_url }})
 - **Formalization**: [TauLib BookV](https://github.com/Panta-Rhei-Framework/formalization) — Lean 4 verification

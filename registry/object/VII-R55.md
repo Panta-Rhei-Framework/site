@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R55 — Part I Imports Cross-Book Check
 permalink: /registry/object/VII.R55/
 registry_id: VII.R55

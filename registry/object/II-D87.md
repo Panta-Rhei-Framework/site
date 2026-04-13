@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D87 — Sheaf Cohomology Groups
 permalink: /registry/object/II.D87/
 registry_id: II.D87

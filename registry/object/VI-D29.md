@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D29 — Agency Sector
 permalink: /registry/object/VI.D29/
 registry_id: VI.D29

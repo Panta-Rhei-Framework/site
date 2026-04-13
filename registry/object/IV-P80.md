@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P80 — Spectral tightening in the C-sector
 permalink: /registry/object/IV.P80/
 registry_id: IV.P80

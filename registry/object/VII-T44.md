@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T44 — Emotions as Register-Crossings
 permalink: /registry/object/VII.T44/
 registry_id: VII.T44

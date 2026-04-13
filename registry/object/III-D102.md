@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D102 — Sieve-Accelerated Goldbach
 permalink: /registry/object/III.D102/
 registry_id: III.D102

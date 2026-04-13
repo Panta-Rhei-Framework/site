@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T46 — Bridge Equivalence at S_L
 permalink: /registry/object/VII.T46/
 registry_id: VII.T46

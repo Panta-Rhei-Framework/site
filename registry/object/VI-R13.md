@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R13 — Eukarya as Fiber-Enabled Regime
 permalink: /registry/object/VI.R13/
 registry_id: VI.R13

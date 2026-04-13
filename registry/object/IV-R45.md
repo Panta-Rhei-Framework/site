@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R45 — Part IV Reflection Summary
 permalink: /registry/object/IV.R45/
 registry_id: IV.R45

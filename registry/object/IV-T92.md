@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T92 — Phase transition as regime crossing
 permalink: /registry/object/IV.T92/
 registry_id: IV.T92

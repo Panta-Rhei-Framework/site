@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D29 — Archimedes Polygon Sequence
 permalink: /registry/object/II.D29/
 registry_id: II.D29

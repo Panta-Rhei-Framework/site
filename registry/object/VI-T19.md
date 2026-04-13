@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T19 — Universal Currency Uniqueness
 permalink: /registry/object/VI.T19/
 registry_id: VI.T19

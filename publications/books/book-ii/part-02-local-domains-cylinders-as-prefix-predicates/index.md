@@ -63,7 +63,7 @@ establish the boundary-first paradigm: topology emerges from holomorphy.
 
 ## Chapters
 
-- **[Chapter 9: Cylinder Domains from ABCD Refinement](/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-09-cylinder-domains-from-abcd-refinement/)**
-- **[Chapter 10: The Ultrametric and First Disagreement Depth](/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-10-the-ultrametric-and-first-disagreement-depth/)**
-- **[Chapter 11: Holomorphic Implies Continuous (The Inverted Dependency)](/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-11-holomorphic-implies-continuous-the-inverted-dependency/)**
-- **[Chapter 12: Split-Complex Structure Not Yet Load-Bearing](/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-12-split-complex-structure-not-yet-load-bearing/)**
+- **[Chapter 9: Cylinder Domains from ABCD Refinement]({{ '/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-09-cylinder-domains-from-abcd-refinement/' | relative_url }})**
+- **[Chapter 10: The Ultrametric and First Disagreement Depth]({{ '/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-10-the-ultrametric-and-first-disagreement-depth/' | relative_url }})**
+- **[Chapter 11: Holomorphic Implies Continuous (The Inverted Dependency)]({{ '/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-11-holomorphic-implies-continuous-the-inverted-dependency/' | relative_url }})**
+- **[Chapter 12: Split-Complex Structure Not Yet Load-Bearing]({{ '/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-12-split-complex-structure-not-yet-load-bearing/' | relative_url }})**

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P84 — Non-emptiness of $\mathrm{Adm_s{[n
 permalink: /registry/object/IV.P84/
 registry_id: IV.P84

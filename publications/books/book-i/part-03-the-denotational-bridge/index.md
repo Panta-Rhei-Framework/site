@@ -49,7 +49,7 @@ with composition defined by concatenation and normalization.
 Composition associativity is a *theorem*, not an axiom —
 proved via the NF-Confluence Lemma.
 Three levels of sameness (ontic identity, address equivalence,
-shadow equality) replace the single primitive ``$=$''
+shadow equality) replace the single primitive “$=$”
 with a principled hierarchy.
 The denotational order extends $K1$ to all of $\Obj(τ)$,
 completing the well-ordered structure.
@@ -60,9 +60,9 @@ Parts IV–XV will build the entire edifice of mathematics upon them.
 
 ## Chapters
 
-- **[Chapter 10: τ-Idx — The Alpha-Orbit as Internal Natural Numbers](/publications/books/book-i/part-03-the-denotational-bridge/chapter-10-tau-idx-the-alpha-orbit-as-internal-natural-numbers/)**
-- **[Chapter 11: The Swap Operator σ and the First Arithmetic](/publications/books/book-i/part-03-the-denotational-bridge/chapter-11-the-swap-operator-sigma-and-the-first-arithmetic/)**
-- **[Chapter 12: Earned Exponentiation and Tetration](/publications/books/book-i/part-03-the-denotational-bridge/chapter-12-earned-exponentiation-and-tetration/)**
-- **[Chapter 13: The Program Monoid — Composition as a Theorem](/publications/books/book-i/part-03-the-denotational-bridge/chapter-13-the-program-monoid-composition-as-a-theorem/)**
-- **[Chapter 14: Three Levels of Sameness](/publications/books/book-i/part-03-the-denotational-bridge/chapter-14-three-levels-of-sameness/)**
-- **[Chapter 15: The Denotational Order and the Road Ahead](/publications/books/book-i/part-03-the-denotational-bridge/chapter-15-the-denotational-order-and-the-road-ahead/)**
+- **[Chapter 10: τ-Idx — The Alpha-Orbit as Internal Natural Numbers]({{ '/publications/books/book-i/part-03-the-denotational-bridge/chapter-10-tau-idx-the-alpha-orbit-as-internal-natural-numbers/' | relative_url }})**
+- **[Chapter 11: The Swap Operator σ and the First Arithmetic]({{ '/publications/books/book-i/part-03-the-denotational-bridge/chapter-11-the-swap-operator-sigma-and-the-first-arithmetic/' | relative_url }})**
+- **[Chapter 12: Earned Exponentiation and Tetration]({{ '/publications/books/book-i/part-03-the-denotational-bridge/chapter-12-earned-exponentiation-and-tetration/' | relative_url }})**
+- **[Chapter 13: The Program Monoid — Composition as a Theorem]({{ '/publications/books/book-i/part-03-the-denotational-bridge/chapter-13-the-program-monoid-composition-as-a-theorem/' | relative_url }})**
+- **[Chapter 14: Three Levels of Sameness]({{ '/publications/books/book-i/part-03-the-denotational-bridge/chapter-14-three-levels-of-sameness/' | relative_url }})**
+- **[Chapter 15: The Denotational Order and the Road Ahead]({{ '/publications/books/book-i/part-03-the-denotational-bridge/chapter-15-the-denotational-order-and-the-road-ahead/' | relative_url }})**

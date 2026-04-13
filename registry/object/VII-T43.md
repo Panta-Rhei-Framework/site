@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T43 — Free Will as Branching
 permalink: /registry/object/VII.T43/
 registry_id: VII.T43

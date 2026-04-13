@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P19 — EM Sector Verification
 permalink: /registry/object/III.P19/
 registry_id: III.P19

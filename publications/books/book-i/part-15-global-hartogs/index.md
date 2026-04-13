@@ -60,7 +60,7 @@ into the geometric slogan *boundary determines interior*.
 
 ## Chapters
 
-- **[Chapter 65: Spectral Coefficients and the Restriction Map](/publications/books/book-i/part-15-global-hartogs/chapter-65-spectral-coefficients-and-the-restriction-map/)**
-- **[Chapter 66: Thinness and the Removable Singularity Criterion](/publications/books/book-i/part-15-global-hartogs/chapter-66-thinness-and-the-removable-singularity-criterion/)**
-- **[Chapter 67: The Global Hartogs Extension Theorem](/publications/books/book-i/part-15-global-hartogs/chapter-67-the-global-hartogs-extension-theorem/)**
-- **[Chapter 68: The Limit-Stage Passage](/publications/books/book-i/part-15-global-hartogs/chapter-68-the-limit-stage-passage/)**
+- **[Chapter 65: Spectral Coefficients and the Restriction Map]({{ '/publications/books/book-i/part-15-global-hartogs/chapter-65-spectral-coefficients-and-the-restriction-map/' | relative_url }})**
+- **[Chapter 66: Thinness and the Removable Singularity Criterion]({{ '/publications/books/book-i/part-15-global-hartogs/chapter-66-thinness-and-the-removable-singularity-criterion/' | relative_url }})**
+- **[Chapter 67: The Global Hartogs Extension Theorem]({{ '/publications/books/book-i/part-15-global-hartogs/chapter-67-the-global-hartogs-extension-theorem/' | relative_url }})**
+- **[Chapter 68: The Limit-Stage Passage]({{ '/publications/books/book-i/part-15-global-hartogs/chapter-68-the-limit-stage-passage/' | relative_url }})**

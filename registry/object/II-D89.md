@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D89 — Five Comparison Modes
 permalink: /registry/object/II.D89/
 registry_id: II.D89

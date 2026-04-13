@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T39 — tau-AB Kernel Theorem
 permalink: /registry/object/IV.T39/
 registry_id: IV.T39

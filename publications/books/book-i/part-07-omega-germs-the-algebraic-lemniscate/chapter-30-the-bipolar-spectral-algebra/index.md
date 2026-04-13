@@ -15,17 +15,17 @@ page_in_book: 115
 prev_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-29-polarized-omega-germs/"
 prev_chapter_title: "Chapter 29: Polarized Omega-Germs"
 next_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-31-finite-witnesses-the-road-ahead/"
-next_chapter_title: "Chapter 31: Finite Witnesses \& the Road Ahead"
+next_chapter_title: "Chapter 31: Finite Witnesses & the Road Ahead"
 summary_short: "The polarized omega-germs of Chapter [ch:polarized-omega-germs] split the boundary data of $τ$ into three families: B-polarized germs, C-polarized germs, and…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
-canonical_part_title: "Part VII: Omega-Germs \& the Algebraic Lemniscate"
+canonical_part_title: "Part VII: Omega-Germs & the Algebraic Lemniscate"
 right_rail:
   related:
   - title: "Book I: Categorical Foundations"
     url: /publications/books/book-i/
-  - title: "Part VII: Omega-Germs \& the Algebraic Lemniscate"
+  - title: "Part VII: Omega-Germs & the Algebraic Lemniscate"
     url: /publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/
   - title: Registry
     url: /registry/books/book-i/

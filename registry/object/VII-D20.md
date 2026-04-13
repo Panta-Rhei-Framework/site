@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D20 — Meta-Framing Archetype
 permalink: /registry/object/VII.D20/
 registry_id: VII.D20

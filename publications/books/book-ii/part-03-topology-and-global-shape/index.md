@@ -84,9 +84,9 @@ the geometric theorems of Part IV.
 
 ## Chapters
 
-- **[Chapter 13: Compact, Hausdorff, Totally Disconnected](/publications/books/book-ii/part-03-topology-and-global-shape/chapter-13-compact-hausdorff-totally-disconnected/)**
-- **[Chapter 14: Topology as Invariant of Canonical Denotation](/publications/books/book-ii/part-03-topology-and-global-shape/chapter-14-topology-as-invariant-of-canonical-denotation/)**
-- **[Chapter 15: Dimension Four from Refinement Rays](/publications/books/book-ii/part-03-topology-and-global-shape/chapter-15-dimension-four-from-refinement-rays/)**
-- **[Chapter 16: Boundary Minimality and Angular Sectors](/publications/books/book-ii/part-03-topology-and-global-shape/chapter-16-boundary-minimality-and-angular-sectors/)**
-- **[Chapter 17: Torus Degeneration and the Geometric Lemniscate](/publications/books/book-ii/part-03-topology-and-global-shape/chapter-17-torus-degeneration-and-the-geometric-lemniscate/)**
-- **[Chapter 18: Connectivity via Coherence: The Two-Readout Principle](/publications/books/book-ii/part-03-topology-and-global-shape/chapter-18-connectivity-via-coherence-the-two-readout-principle/)**
+- **[Chapter 13: Compact, Hausdorff, Totally Disconnected]({{ '/publications/books/book-ii/part-03-topology-and-global-shape/chapter-13-compact-hausdorff-totally-disconnected/' | relative_url }})**
+- **[Chapter 14: Topology as Invariant of Canonical Denotation]({{ '/publications/books/book-ii/part-03-topology-and-global-shape/chapter-14-topology-as-invariant-of-canonical-denotation/' | relative_url }})**
+- **[Chapter 15: Dimension Four from Refinement Rays]({{ '/publications/books/book-ii/part-03-topology-and-global-shape/chapter-15-dimension-four-from-refinement-rays/' | relative_url }})**
+- **[Chapter 16: Boundary Minimality and Angular Sectors]({{ '/publications/books/book-ii/part-03-topology-and-global-shape/chapter-16-boundary-minimality-and-angular-sectors/' | relative_url }})**
+- **[Chapter 17: Torus Degeneration and the Geometric Lemniscate]({{ '/publications/books/book-ii/part-03-topology-and-global-shape/chapter-17-torus-degeneration-and-the-geometric-lemniscate/' | relative_url }})**
+- **[Chapter 18: Connectivity via Coherence: The Two-Readout Principle]({{ '/publications/books/book-ii/part-03-topology-and-global-shape/chapter-18-connectivity-via-coherence-the-two-readout-principle/' | relative_url }})**

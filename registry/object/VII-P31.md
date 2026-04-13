@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P31 — Enrichment Stabilization
 permalink: /registry/object/VII.P31/
 registry_id: VII.P31

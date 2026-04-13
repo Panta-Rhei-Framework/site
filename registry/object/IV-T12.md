@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T12 — Correction Smallness
 permalink: /registry/object/IV.T12/
 registry_id: IV.T12

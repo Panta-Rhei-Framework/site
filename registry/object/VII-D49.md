@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D49 — Musical Consonance as Ratio Invariance
 permalink: /registry/object/VII.D49/
 registry_id: VII.D49

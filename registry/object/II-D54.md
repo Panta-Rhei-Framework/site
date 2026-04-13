@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D54 — Hom Object
 permalink: /registry/object/II.D54/
 registry_id: II.D54

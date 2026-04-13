@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D88 — Neural Defect Tower
 permalink: /registry/object/VI.D88/
 registry_id: VI.D88

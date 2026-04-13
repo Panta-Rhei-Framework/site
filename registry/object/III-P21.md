@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P21 — Earned Admissibility
 permalink: /registry/object/III.P21/
 registry_id: III.P21

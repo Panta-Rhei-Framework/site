@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R14 — Plants as Source Archetype
 permalink: /registry/object/VI.R14/
 registry_id: VI.R14

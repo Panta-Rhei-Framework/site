@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R09 — Self-Assessment
 permalink: /registry/object/IV.R09/
 registry_id: IV.R09

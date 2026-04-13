@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R01 — E₃ Enrichment Positioning
 permalink: /registry/object/VII.R01/
 registry_id: VII.R01

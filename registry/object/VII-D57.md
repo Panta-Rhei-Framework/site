@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D57 — Boolean Micro-Logic
 permalink: /registry/object/VII.D57/
 registry_id: VII.D57

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P19 — Long Exact Sequence
 permalink: /registry/object/II.P19/
 registry_id: II.P19

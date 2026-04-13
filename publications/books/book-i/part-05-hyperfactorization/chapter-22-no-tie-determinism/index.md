@@ -46,7 +46,7 @@ Could two different tetration heights
 $c_1 ≠ c_2$
 compete for the maximum?
 This chapter proves the **No-Tie Lemma**:
-tetration heights cannot ``tie''.
+tetration heights cannot “tie”.
 If $\underlineA ↑↑ c_1 \mid X$
 and $\underlineA ↑↑ c_2 \mid X$
 with $c_1 < c_2$,

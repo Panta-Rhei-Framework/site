@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ and Climate-Smart Shipping
 permalink: /impact/papers/climate-smart-shipping-decarbonization-wind-corridors/
 paper_id: companion-ocean-paper-2

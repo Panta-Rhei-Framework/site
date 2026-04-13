@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P70 — No Grand Unification
 permalink: /registry/object/IV.P70/
 registry_id: IV.P70

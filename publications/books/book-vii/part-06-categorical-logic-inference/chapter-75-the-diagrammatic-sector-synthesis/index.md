@@ -20,12 +20,12 @@ summary_short: "The diagrammatic sector $S_D$ closes. Across three sub-registers
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
-canonical_part_title: "Part VI: Categorical Logic \& Inference"
+canonical_part_title: "Part VI: Categorical Logic & Inference"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part VI: Categorical Logic \& Inference"
+  - title: "Part VI: Categorical Logic & Inference"
     url: /publications/books/book-vii/part-06-categorical-logic-inference/
   - title: Registry
     url: /registry/books/book-vii/
@@ -45,5 +45,5 @@ recognition through symbolic representation to formal proof. This
 chapter synthesizes the deliverables of the sector, identifies the
 internal architecture that unifies them, and marks the boundary where
 the diagrammatic register must yield to the practical register. The
-question ``What can I prove?'' has been answered; Part VII opens with
-the question ``What ought I to do?''
+question “What can I prove?” has been answered; Part VII opens with
+the question “What ought I to do?”

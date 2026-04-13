@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R29 — Diagrammatic Sector Summary
 permalink: /registry/object/VII.R29/
 registry_id: VII.R29

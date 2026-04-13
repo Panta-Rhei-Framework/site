@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R40 — Honesty About Precision
 permalink: /registry/object/IV.R40/
 registry_id: IV.R40

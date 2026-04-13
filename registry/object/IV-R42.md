@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R42 — Five Conceptual Shifts
 permalink: /registry/object/IV.R42/
 registry_id: IV.R42

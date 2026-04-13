@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R49 — Genesis Synthesis
 permalink: /registry/object/VII.R49/
 registry_id: VII.R49

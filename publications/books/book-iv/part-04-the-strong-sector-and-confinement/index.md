@@ -57,9 +57,9 @@ C (strong)—and the crossing $ω$ (Higgs/mass) have been earned.
 
 ## Chapters
 
-- **[Chapter 29: The Strong Vacuum and Color Holonomy](/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-29-the-strong-vacuum-and-color-holonomy/)**
-- **[Chapter 30: Confinement as Address Irresolvability](/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-30-confinement-as-address-irresolvability/)**
-- **[Chapter 31: The τ-Gap Meta-Theorem](/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-31-the-tau-gap-meta-theorem/)**
-- **[Chapter 32: Strong Coupling and Quarks](/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-32-strong-coupling-and-quarks/)**
-- **[Chapter 33: The Vacuum Catastrophe Dissolved](/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-33-the-vacuum-catastrophe-dissolved/)**
-- **[Chapter 34: The Sector Atlas](/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-34-the-sector-atlas/)**
+- **[Chapter 29: The Strong Vacuum and Color Holonomy]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-29-the-strong-vacuum-and-color-holonomy/' | relative_url }})**
+- **[Chapter 30: Confinement as Address Irresolvability]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-30-confinement-as-address-irresolvability/' | relative_url }})**
+- **[Chapter 31: The τ-Gap Meta-Theorem]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-31-the-tau-gap-meta-theorem/' | relative_url }})**
+- **[Chapter 32: Strong Coupling and Quarks]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-32-strong-coupling-and-quarks/' | relative_url }})**
+- **[Chapter 33: The Vacuum Catastrophe Dissolved]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-33-the-vacuum-catastrophe-dissolved/' | relative_url }})**
+- **[Chapter 34: The Sector Atlas]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-34-the-sector-atlas/' | relative_url }})**

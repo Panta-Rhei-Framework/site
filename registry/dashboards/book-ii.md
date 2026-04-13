@@ -1,5 +1,6 @@
 ---
 layout: registry-dashboard
+lane: registry
 title: 'Registry Dashboard — Book II: Categorical Holomorphy'
 permalink: /registry/dashboards/book-ii/
 book: II

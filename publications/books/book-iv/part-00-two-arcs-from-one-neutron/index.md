@@ -53,5 +53,5 @@ and the $E_1$ export contracts—so that nothing need be re-derived.
 
 ## Chapters
 
-- **[Chapter 1: The Self-Describing Universe](/publications/books/book-iv/part-00-two-arcs-from-one-neutron/chapter-01-the-self-describing-universe/)**
-- **[Chapter 2: Importing Book~III: The E₁ Template](/publications/books/book-iv/part-00-two-arcs-from-one-neutron/chapter-02-importing-book-iii-the-e-template/)**
+- **[Chapter 1: The Self-Describing Universe]({{ '/publications/books/book-iv/part-00-two-arcs-from-one-neutron/chapter-01-the-self-describing-universe/' | relative_url }})**
+- **[Chapter 2: Importing Book~III: The E₁ Template]({{ '/publications/books/book-iv/part-00-two-arcs-from-one-neutron/chapter-02-importing-book-iii-the-e-template/' | relative_url }})**

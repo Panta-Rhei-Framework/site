@@ -42,7 +42,7 @@ this Part its name.
 The eight chapters trace a single arc from the CR-address space
 (Chapter [ch:iv-cr-address-space]) through the holomorphic Hilbert
 space, quantization, the address-obstruction theorem (Heisenberg),
-measurement, the Schr\"odinger equation, and energy/entropy, culminating
+measurement, the Schrödinger equation, and energy/entropy, culminating
 in the first quantitative prediction of the framework: the
 neutron-to-electron mass ratio
 $R_0 = ι_τ^{-7} - \sqrt3 ι_τ^{-2} ≈ 1838.7$,
@@ -52,11 +52,11 @@ ${\sim} 0.001%$ (8 ppm) agreement with the CODATA value, with no free parameters
 
 ## Chapters
 
-- **[Chapter 13: The CR Address Space](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-13-the-cr-address-space/)**
-- **[Chapter 14: Characters as Quantum Addresses](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-14-characters-as-quantum-addresses/)**
-- **[Chapter 15: The Holomorphic State Space](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-15-the-holomorphic-state-space/)**
-- **[Chapter 16: Holomorphic Quantization](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-16-holomorphic-quantization/)**
-- **[Chapter 17: The Address-Obstruction Theorem](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-17-the-address-obstruction-theorem/)**
-- **[Chapter 18: Measurement and the Schr\"odinger Equation](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-18-measurement-and-the-schr-odinger-equation/)**
-- **[Chapter 19: Energy, Entropy, and the Arrow](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-19-energy-entropy-and-the-arrow/)**
-- **[Chapter 20: The Electron Mass Prediction](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-20-the-electron-mass-prediction/)**
+- **[Chapter 13: The CR Address Space]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-13-the-cr-address-space/' | relative_url }})**
+- **[Chapter 14: Characters as Quantum Addresses]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-14-characters-as-quantum-addresses/' | relative_url }})**
+- **[Chapter 15: The Holomorphic State Space]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-15-the-holomorphic-state-space/' | relative_url }})**
+- **[Chapter 16: Holomorphic Quantization]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-16-holomorphic-quantization/' | relative_url }})**
+- **[Chapter 17: The Address-Obstruction Theorem]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-17-the-address-obstruction-theorem/' | relative_url }})**
+- **[Chapter 18: Measurement and the Schrödinger Equation]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-18-measurement-and-the-schr-odinger-equation/' | relative_url }})**
+- **[Chapter 19: Energy, Entropy, and the Arrow]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-19-energy-entropy-and-the-arrow/' | relative_url }})**
+- **[Chapter 20: The Electron Mass Prediction]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-20-the-electron-mass-prediction/' | relative_url }})**

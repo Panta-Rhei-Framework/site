@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T54 — Confinement Bridge Identity
 permalink: /registry/object/III.T54/
 registry_id: III.T54

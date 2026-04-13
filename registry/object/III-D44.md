@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D44 — τ-Admissible Gauge Data
 permalink: /registry/object/III.D44/
 registry_id: III.D44

@@ -64,6 +64,6 @@ in the Central Theorem of Book II.
 
 ## Chapters
 
-- **[Chapter 40: Characters on the Algebraic Lemniscate](/publications/books/book-i/part-10-lemniscate-characters/chapter-40-characters-on-the-algebraic-lemniscate/)**
-- **[Chapter 41: Spectral Decomposition](/publications/books/book-i/part-10-lemniscate-characters/chapter-41-spectral-decomposition/)**
-- **[Chapter 42: The Crossing Point and Bipolar Fourier Analysis](/publications/books/book-i/part-10-lemniscate-characters/chapter-42-the-crossing-point-and-bipolar-fourier-analysis/)**
+- **[Chapter 40: Characters on the Algebraic Lemniscate]({{ '/publications/books/book-i/part-10-lemniscate-characters/chapter-40-characters-on-the-algebraic-lemniscate/' | relative_url }})**
+- **[Chapter 41: Spectral Decomposition]({{ '/publications/books/book-i/part-10-lemniscate-characters/chapter-41-spectral-decomposition/' | relative_url }})**
+- **[Chapter 42: The Crossing Point and Bipolar Fourier Analysis]({{ '/publications/books/book-i/part-10-lemniscate-characters/chapter-42-the-crossing-point-and-bipolar-fourier-analysis/' | relative_url }})**

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-5
 prev_chapter_title: "Chapter 50: The Merger Normal Form and BH Astrophysics"
 next_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/"
 next_chapter_title: "Chapter 52: The Cosmological Endstate: Eternal Circulation"
-summary_short: "Is the universe infinite? Orthodox cosmology answers ambiguously: the observable universe is finite (bounded by the particle horizon), but the ``full''…"
+summary_short: "Is the universe infinite? Orthodox cosmology answers ambiguously: the observable universe is finite (bounded by the particle horizon), but the “full”…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-06-eternal-dynamics/"
@@ -42,7 +42,7 @@ Is the universe infinite?
 Orthodox cosmology answers ambiguously:
 the observable universe is finite
 (bounded by the particle horizon),
-but the ``full'' universe may be infinite,
+but the “full” universe may be infinite,
 depending on the spatial curvature.
 The $Λ$CDM model
 with $Ω_k = 0$

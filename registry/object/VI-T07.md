@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T07 — Generator Adequacy at E₂
 permalink: /registry/object/VI.T07/
 registry_id: VI.T07

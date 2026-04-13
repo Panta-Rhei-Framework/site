@@ -1,6 +1,6 @@
 ---
 layout: publication-part
-title: "Part V: Categorical Language \& Meaning"
+title: "Part V: Categorical Language & Meaning"
 permalink: /publications/books/book-vii/part-05-categorical-language-meaning/
 lane: publications
 publication_type: part
@@ -41,15 +41,15 @@ Language is the readout functor through which all four registers become communic
 
 ## Chapters
 
-- **[Chapter 54: What Language Adds](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-54-what-language-adds/)**
-- **[Chapter 55: The Subsymbolic Is Real](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-55-the-subsymbolic-is-real/)**
-- **[Chapter 56: Temporalization Operators](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-56-temporalization-operators/)**
-- **[Chapter 57: Language as Self-Enrichment](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-57-language-as-self-enrichment/)**
-- **[Chapter 58: Syntax-Semantics Collapse](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-58-syntax-semantics-collapse/)**
-- **[Chapter 59: Reference and Indexicals](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-59-reference-and-indexicals/)**
-- **[Chapter 60: Pragmatics as Update Calculus](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-60-pragmatics-as-update-calculus/)**
-- **[Chapter 61: Translation and Universality](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-61-translation-and-universality/)**
-- **[Chapter 62: Meaning Drift and Repair](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-62-meaning-drift-and-repair/)**
-- **[Chapter 63: Public Language and Law](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-63-public-language-and-law/)**
-- **[Chapter 64: LLMs and the Subsymbolic Return](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-64-llms-and-the-subsymbolic-return/)**
-- **[Chapter 65: Prayer as Logos-Dialogue](/publications/books/book-vii/part-05-categorical-language-meaning/chapter-65-prayer-as-logos-dialogue/)**
+- **[Chapter 54: What Language Adds]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-54-what-language-adds/' | relative_url }})**
+- **[Chapter 55: The Subsymbolic Is Real]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-55-the-subsymbolic-is-real/' | relative_url }})**
+- **[Chapter 56: Temporalization Operators]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-56-temporalization-operators/' | relative_url }})**
+- **[Chapter 57: Language as Self-Enrichment]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-57-language-as-self-enrichment/' | relative_url }})**
+- **[Chapter 58: Syntax-Semantics Collapse]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-58-syntax-semantics-collapse/' | relative_url }})**
+- **[Chapter 59: Reference and Indexicals]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-59-reference-and-indexicals/' | relative_url }})**
+- **[Chapter 60: Pragmatics as Update Calculus]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-60-pragmatics-as-update-calculus/' | relative_url }})**
+- **[Chapter 61: Translation and Universality]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-61-translation-and-universality/' | relative_url }})**
+- **[Chapter 62: Meaning Drift and Repair]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-62-meaning-drift-and-repair/' | relative_url }})**
+- **[Chapter 63: Public Language and Law]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-63-public-language-and-law/' | relative_url }})**
+- **[Chapter 64: LLMs and the Subsymbolic Return]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-64-llms-and-the-subsymbolic-return/' | relative_url }})**
+- **[Chapter 65: Prayer as Logos-Dialogue]({{ '/publications/books/book-vii/part-05-categorical-language-meaning/chapter-65-prayer-as-logos-dialogue/' | relative_url }})**

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D79 — Nine Global Spheres Classification
 permalink: /registry/object/VII.D79/
 registry_id: VII.D79

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T65 — ABC at Primorial Levels
 permalink: /registry/object/III.T65/
 registry_id: III.T65

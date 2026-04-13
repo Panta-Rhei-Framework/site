@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T17 — Gettier Dissolution
 permalink: /registry/object/VII.T17/
 registry_id: VII.T17

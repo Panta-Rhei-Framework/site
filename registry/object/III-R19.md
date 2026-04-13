@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R19 — YM Export Contracts
 permalink: /registry/object/III.R19/
 registry_id: III.R19

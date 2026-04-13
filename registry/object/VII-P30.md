@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P30 — Register Completeness
 permalink: /registry/object/VII.P30/
 registry_id: VII.P30

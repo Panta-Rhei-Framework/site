@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D07 — Metaphysics Sector S_E
 permalink: /registry/object/VII.D07/
 registry_id: VII.D07

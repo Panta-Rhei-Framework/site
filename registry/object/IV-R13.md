@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R13 — Physical Factor of Two
 permalink: /registry/object/IV.R13/
 registry_id: IV.R13

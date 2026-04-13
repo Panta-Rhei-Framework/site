@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T56 — Tree-Level Rho = 1
 permalink: /registry/object/IV.T56/
 registry_id: IV.T56

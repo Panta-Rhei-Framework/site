@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D82 — Mind as Internal Topos
 permalink: /registry/object/VII.D82/
 registry_id: VII.D82

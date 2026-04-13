@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T37 — Gauge Invariance Kernel Theorem
 permalink: /registry/object/IV.T37/
 registry_id: IV.T37

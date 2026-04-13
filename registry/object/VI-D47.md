@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D47 — Fiber-Enabled Regime
 permalink: /registry/object/VI.D47/
 registry_id: VI.D47

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T51 — Physical Admissibility Theorem
 permalink: /registry/object/III.T51/
 registry_id: III.T51

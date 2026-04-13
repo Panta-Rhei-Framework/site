@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L17 — Register Orthogonality
 permalink: /registry/object/VII.L17/
 registry_id: VII.L17

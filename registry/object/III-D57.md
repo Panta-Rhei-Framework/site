@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D57 — Enrichment Functor Enr₀₁
 permalink: /registry/object/III.D57/
 registry_id: III.D57

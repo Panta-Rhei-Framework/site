@@ -20,12 +20,12 @@ summary_short: "Chapter [ch:cantor-diagonal] showed that Cantor's diagonal argum
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-canonical_part_title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+canonical_part_title: "Part XIII: Internal Set Theory & The Cantor Mirage"
 right_rail:
   related:
   - title: "Book I: Categorical Foundations"
     url: /publications/books/book-i/
-  - title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+  - title: "Part XIII: Internal Set Theory & The Cantor Mirage"
     url: /publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/
   - title: Registry
     url: /registry/books/book-i/
@@ -46,7 +46,7 @@ the mechanism that produces uncountable sets.
 But blocking the diagonal is a *negative* result —
 it says what $τ$ does *not* have.
 This chapter provides the *positive* replacement.
-The ``structure of infinity'' that analysis needs
+The “structure of infinity” that analysis needs
 comes not from different *sizes* of infinity
 (the cardinality hierarchy $\aleph_0 < \aleph_1 < \aleph_2 < ⋯$)
 but from different *approaches* to the unique infinity $ω$.

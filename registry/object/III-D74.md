@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D74 — Diagrammatic Sector of E₃
 permalink: /registry/object/III.D74/
 registry_id: III.D74

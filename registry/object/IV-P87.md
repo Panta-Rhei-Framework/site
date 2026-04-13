@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P87 — Properties of the canonical strong lift
 permalink: /registry/object/IV.P87/
 registry_id: IV.P87

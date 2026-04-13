@@ -36,4 +36,4 @@ right_rail:
 ---
 
 
-Every classical attempt to define life—Aristotle's soul aristotle-de-anima, Schr\"odinger's negentropy schrodinger1944, NASA's working definition—captures a necessary condition but none is sufficient. Fire metabolizes, mules don't reproduce, crystals grow, computers process information. The seven hallmarks of life are previewed here as empirical observations awaiting formal derivation from a categorical definition in which all seven follow as theorems.
+Every classical attempt to define life—Aristotle's soul aristotle-de-anima, Schrödinger's negentropy schrodinger1944, NASA's working definition—captures a necessary condition but none is sufficient. Fire metabolizes, mules don't reproduce, crystals grow, computers process information. The seven hallmarks of life are previewed here as empirical observations awaiting formal derivation from a categorical definition in which all seven follow as theorems.

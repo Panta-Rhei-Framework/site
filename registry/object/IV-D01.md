@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D01 — Sector Physics Template
 permalink: /registry/object/IV.D01/
 registry_id: IV.D01

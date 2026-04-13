@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R40 — The Reality Test
 permalink: /registry/object/II.R40/
 registry_id: II.R40

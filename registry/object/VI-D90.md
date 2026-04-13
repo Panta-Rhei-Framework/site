@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D90 — Sleep Repair Function
 permalink: /registry/object/VI.D90/
 registry_id: VI.D90

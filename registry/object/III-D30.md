@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D30 — τ-Effective RH Statement
 permalink: /registry/object/III.D30/
 registry_id: III.D30

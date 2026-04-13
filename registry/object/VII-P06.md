@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P06 — Temporal Ordering from Persistence
 permalink: /registry/object/VII.P06/
 registry_id: VII.P06

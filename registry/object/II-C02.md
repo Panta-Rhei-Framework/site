@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.C02 — Uniqueness of Category Tau
 permalink: /registry/object/II.C02/
 registry_id: II.C02

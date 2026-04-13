@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T14 — Fundamental Group Degeneration
 permalink: /registry/object/II.T14/
 registry_id: II.T14

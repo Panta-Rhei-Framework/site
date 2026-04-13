@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R06 — Part I Export Contracts
 permalink: /registry/object/III.R06/
 registry_id: III.R06

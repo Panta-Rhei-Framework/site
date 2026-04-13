@@ -52,7 +52,7 @@ capturing exponent structure and tetration height.
 The full interior is the **fibered product**
 $τ^3 = τ^1 ×_f T^2$—not
 a Cartesian product, because the constraint
-``prime factors of $D$ are bounded by $A$''
+“prime factors of $D$ are bounded by $A$”
 couples the base coordinates,
 which in turn couples the base to the fiber.
 The chapter closes with an ontological reframe:

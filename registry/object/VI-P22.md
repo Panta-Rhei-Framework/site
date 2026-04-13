@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P22 — Cell Fate as Fixed Point
 permalink: /registry/object/VI.P22/
 registry_id: VI.P22

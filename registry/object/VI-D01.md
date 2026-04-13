@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D01 — Polarity Functional
 permalink: /registry/object/VI.D01/
 registry_id: VI.D01

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R33 — Poincaré Established
 permalink: /registry/object/III.R33/
 registry_id: III.R33

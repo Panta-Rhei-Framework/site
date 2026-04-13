@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D49 — CR-Manifold
 permalink: /registry/object/IV.D49/
 registry_id: IV.D49

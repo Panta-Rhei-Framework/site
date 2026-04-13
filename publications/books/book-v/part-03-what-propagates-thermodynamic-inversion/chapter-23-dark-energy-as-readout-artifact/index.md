@@ -55,7 +55,7 @@ is the acceleration itself.
 This chapter demonstrates
 that the acceleration is real
 but the dark energy is not.
-``Dark energy'' is diagnosed
+“Dark energy” is diagnosed
 as a **readout artifact**:
 a base-progression phenomenon
 on $τ^1$

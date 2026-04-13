@@ -46,7 +46,7 @@ from which spacetime itself emerged.
 The singularity theorems of Penrose and Hawking
 guarantee that under mild energy conditions,
 a past-incomplete geodesic must exist:
-the universe ``began'' in a singularity.
+the universe “began” in a singularity.
 But a singularity is not a physical state.
 It is a signal that the theory has broken down.
 General relativity predicts its own failure.
@@ -69,6 +69,6 @@ $α_a = α_1$:
 the beginning of the $α$-orbit
 is a legitimate structural point,
 not a limit or a blow-up.
-The ``Planck epoch'' is not an era of unknown physics
+The “Planck epoch” is not an era of unknown physics
 but the first few $α$-ticks,
 where the boundary characters are close to their maximal values.

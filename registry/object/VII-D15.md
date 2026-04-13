@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D15 — Bounded Witness Form
 permalink: /registry/object/VII.D15/
 registry_id: VII.D15

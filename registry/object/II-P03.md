@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P03 — Four-Ray Rigidity
 permalink: /registry/object/II.P03/
 registry_id: II.P03

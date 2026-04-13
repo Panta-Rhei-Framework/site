@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D76 — Energy as CR-Tension
 permalink: /registry/object/IV.D76/
 registry_id: IV.D76

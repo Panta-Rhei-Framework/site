@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T25 — Heisenberg Uncertainty (Position-Momentum)
 permalink: /registry/object/IV.T25/
 registry_id: IV.T25

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T21 — Syntax-Semantics Collapse
 permalink: /registry/object/VII.T21/
 registry_id: VII.T21

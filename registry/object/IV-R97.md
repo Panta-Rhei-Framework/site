@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R97 — The χ₋/χ₊ duality
 permalink: /registry/object/IV.R97/
 registry_id: IV.R97

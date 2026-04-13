@@ -39,6 +39,6 @@ science–faith boundary. Six export contracts close Book VI; Book VII opens at 
 
 ## Chapters
 
-- **[Chapter 51: Consciousness: Structural Definition of the Self-Model](/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-51-consciousness-structural-definition-of-the-self-model/)**
-- **[Chapter 52: Communication and Language: The Extended Lemniscate](/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-52-communication-and-language-the-extended-lemniscate/)**
-- **[Chapter 53: Bridge to Book VII: The ω-Germ Question and E₃](/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-53-bridge-to-book-vii-the-omega-germ-question-and-e/)**
+- **[Chapter 51: Consciousness: Structural Definition of the Self-Model]({{ '/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-51-consciousness-structural-definition-of-the-self-model/' | relative_url }})**
+- **[Chapter 52: Communication and Language: The Extended Lemniscate]({{ '/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-52-communication-and-language-the-extended-lemniscate/' | relative_url }})**
+- **[Chapter 53: Bridge to Book VII: The ω-Germ Question and E₃]({{ '/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-53-bridge-to-book-vii-the-omega-germ-question-and-e/' | relative_url }})**

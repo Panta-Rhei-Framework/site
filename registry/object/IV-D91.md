@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D91 — Parallel Transport
 permalink: /registry/object/IV.D91/
 registry_id: IV.D91

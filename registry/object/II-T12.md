@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T12 — Boundary Minimality
 permalink: /registry/object/II.T12/
 registry_id: II.T12

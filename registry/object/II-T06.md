@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T06 — Holomorphic Implies Continuous
 permalink: /registry/object/II.T06/
 registry_id: II.T06

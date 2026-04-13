@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D85 — Qualia as Internal Morphisms
 permalink: /registry/object/VII.D85/
 registry_id: VII.D85

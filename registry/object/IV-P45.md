@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P45 — Charge Density as Winding-Number Density
 permalink: /registry/object/IV.P45/
 registry_id: IV.P45

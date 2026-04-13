@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D31 — Grand GRH (τ-effective)
 permalink: /registry/object/III.D31/
 registry_id: III.D31

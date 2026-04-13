@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R35 — Architecture of Reality
 permalink: /registry/object/III.R35/
 registry_id: III.R35

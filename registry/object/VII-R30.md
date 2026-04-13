@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R30 — Graduated Dignity Scale
 permalink: /registry/object/VII.R30/
 registry_id: VII.R30

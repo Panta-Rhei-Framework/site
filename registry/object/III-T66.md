@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T66 — Sieve Correctness
 permalink: /registry/object/III.T66/
 registry_id: III.T66

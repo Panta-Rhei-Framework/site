@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T47 — Honest Claim Theorem
 permalink: /registry/object/III.T47/
 registry_id: III.T47

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D24 — Alpha-Ray Line
 permalink: /registry/object/II.D24/
 registry_id: II.D24

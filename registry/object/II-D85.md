@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D85 — Homology via SES
 permalink: /registry/object/II.D85/
 registry_id: II.D85

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R98 — Neutron stability in nuclei
 permalink: /registry/object/IV.R98/
 registry_id: IV.R98

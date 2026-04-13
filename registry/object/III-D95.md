@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D95 — Goldbach Representation
 permalink: /registry/object/III.D95/
 registry_id: III.D95

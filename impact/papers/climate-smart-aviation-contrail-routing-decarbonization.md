@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ-Enabled Climate-Smart Aviation
 permalink: /impact/papers/climate-smart-aviation-contrail-routing-decarbonization/
 paper_id: companion-weather-paper-2

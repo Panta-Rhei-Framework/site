@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D57 — Strong-Saturation Defect
 permalink: /registry/object/VI.D57/
 registry_id: VI.D57

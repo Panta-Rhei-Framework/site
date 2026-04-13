@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D27 — Functional Equation Involution J
 permalink: /registry/object/III.D27/
 registry_id: III.D27

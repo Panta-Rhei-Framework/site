@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R36 — Book III Coherence Certificate
 permalink: /registry/object/III.R36/
 registry_id: III.R36

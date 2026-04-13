@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D87 — Arithmetic Translation Functor
 permalink: /registry/object/III.D87/
 registry_id: III.D87

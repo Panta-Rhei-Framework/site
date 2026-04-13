@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P09 — Decomposition Functoriality
 permalink: /registry/object/II.P09/
 registry_id: II.P09

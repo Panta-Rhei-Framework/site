@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P10 — Density Halving
 permalink: /registry/object/IV.P10/
 registry_id: IV.P10

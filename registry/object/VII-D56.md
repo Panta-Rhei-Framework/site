@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D56 — Prayer as ω-Addressed Communication
 permalink: /registry/object/VII.D56/
 registry_id: VII.D56

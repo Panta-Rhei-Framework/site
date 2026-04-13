@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L01 — Weak-Sector Uniqueness
 permalink: /registry/object/VI.L01/
 registry_id: VI.L01

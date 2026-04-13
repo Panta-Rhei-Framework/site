@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D58 — Geometric Charge
 permalink: /registry/object/IV.D58/
 registry_id: IV.D58

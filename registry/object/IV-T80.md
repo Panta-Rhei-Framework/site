@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T80 — Exactly four primitive forces (physical reading)
 permalink: /registry/object/IV.T80/
 registry_id: IV.T80

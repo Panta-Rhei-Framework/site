@@ -20,12 +20,12 @@ summary_short: "Part VIII built an internal set theory on a single orbit: $τ$-I
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-canonical_part_title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+canonical_part_title: "Part XIII: Internal Set Theory & The Cantor Mirage"
 right_rail:
   related:
   - title: "Book I: Categorical Foundations"
     url: /publications/books/book-i/
-  - title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+  - title: "Part XIII: Internal Set Theory & The Cantor Mirage"
     url: /publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/
   - title: Registry
     url: /registry/books/book-i/
@@ -54,8 +54,8 @@ $Set \colon \Obj(τ) → P(\Obj(τ))$
 that assigns to every $τ$-element
 a structurally determined set.
 The resulting correspondence is injective,
-partitions $τ$ into ``opaque'' (self-containing)
-and ``transparent'' (organizing) elements,
+partitions $τ$ into “opaque” (self-containing)
+and “transparent” (organizing) elements,
 and reveals that the boundary between finite
 and infinite sets coincides exactly
 with the radial-solenoidal divide.

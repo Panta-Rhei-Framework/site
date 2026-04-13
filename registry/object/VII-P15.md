@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P15 — Randomness as Internal Complexity
 permalink: /registry/object/VII.P15/
 registry_id: VII.P15

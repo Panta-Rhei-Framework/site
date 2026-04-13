@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P26 — Bridgehead Proposition
 permalink: /registry/object/III.P26/
 registry_id: III.P26

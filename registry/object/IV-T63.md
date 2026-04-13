@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T63 — Vacuum Construction
 permalink: /registry/object/IV.T63/
 registry_id: IV.T63

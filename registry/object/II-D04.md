@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D04 — Omega Readout
 permalink: /registry/object/II.D04/
 registry_id: II.D04

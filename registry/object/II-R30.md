@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R30 — Books IV-V Preview
 permalink: /registry/object/II.R30/
 registry_id: II.R30

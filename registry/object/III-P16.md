@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P16 — NF Discreteness Lemma
 permalink: /registry/object/III.P16/
 registry_id: III.P16

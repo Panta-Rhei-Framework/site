@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R10 — Coherence Checklist Template
 permalink: /registry/object/III.R10/
 registry_id: III.R10

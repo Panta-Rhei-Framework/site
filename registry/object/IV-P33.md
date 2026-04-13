@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P33 — Photon Spin and Polarization
 permalink: /registry/object/IV.P33/
 registry_id: IV.P33

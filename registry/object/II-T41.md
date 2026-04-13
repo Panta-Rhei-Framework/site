@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T41 — Liouville Categorical Dodge
 permalink: /registry/object/II.T41/
 registry_id: II.T41

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R47 — Classical Comparison
 permalink: /registry/object/III.R47/
 registry_id: III.R47

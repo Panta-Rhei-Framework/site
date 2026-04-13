@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T91 — Second law via defect functional
 permalink: /registry/object/IV.T91/
 registry_id: IV.T91

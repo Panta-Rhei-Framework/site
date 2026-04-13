@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P31 — Terminal Level Characterization
 permalink: /registry/object/III.P31/
 registry_id: III.P31

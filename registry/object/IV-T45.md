@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T45 — Source-Defect Correspondence
 permalink: /registry/object/IV.T45/
 registry_id: IV.T45

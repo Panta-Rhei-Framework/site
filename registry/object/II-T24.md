@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T24 — j Replaces i
 permalink: /registry/object/II.T24/
 registry_id: II.T24

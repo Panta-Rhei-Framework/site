@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D18a — Two-Readout Principle
 permalink: /registry/object/II.D18a/
 registry_id: II.D18a

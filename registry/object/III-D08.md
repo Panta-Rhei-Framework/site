@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D08 — E₂ Layer (Computation)
 permalink: /registry/object/III.D08/
 registry_id: III.D08

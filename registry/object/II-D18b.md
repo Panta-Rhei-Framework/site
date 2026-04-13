@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D18b — Spine Address Path
 permalink: /registry/object/II.D18b/
 registry_id: II.D18b

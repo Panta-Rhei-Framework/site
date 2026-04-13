@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L28 — Operator Graph Completeness
 permalink: /registry/object/VII.L28/
 registry_id: VII.L28

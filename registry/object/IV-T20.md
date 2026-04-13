@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T20 — Topological Quantization
 permalink: /registry/object/IV.T20/
 registry_id: IV.T20

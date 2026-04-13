@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R31 — Weinberg Angle Gap Assessment
 permalink: /registry/object/IV.R31/
 registry_id: IV.R31

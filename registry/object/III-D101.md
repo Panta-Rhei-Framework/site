@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D101 — Brun Sieve Count
 permalink: /registry/object/III.D101/
 registry_id: III.D101

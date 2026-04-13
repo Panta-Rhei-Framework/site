@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D77 — Graph Energy Density
 permalink: /registry/object/IV.D77/
 registry_id: IV.D77

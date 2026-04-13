@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Energy
 permalink: /impact/portfolio/energy/
 portfolio_id: impact-energy
@@ -27,9 +28,9 @@ Global electricity demand rose by 4.3% in 2024 and is forecast to continue growi
 
 ## Companion Papers (5)
 
-- [τ for Advanced Fission Safety, Operations, Licensing, and Fleet Modernization](/impact/papers/advanced-fission-safety-operations-licensing-fleet-modernization/)
-- [Tau for DER Orchestration, Storage, Flexible Demand, Microgrids, and T&D Planning](/impact/papers/der-storage-flexible-demand-microgrids-td-planning/)
-- [τ for Fusion Digital Twins, Plasma Control, Heat Exhaust, and ITER → DEMO → Commercialization](/impact/papers/fusion-digital-twins-plasma-control-heat-exhaust-iter-demo/)
-- [Tau-Grade Grid Digital Twins, Reliability, Dispatch, and Resilience](/impact/papers/grid-digital-twins-reliability-dispatch-resilience/)
-- [τ for Integrated Energy-System Planning, Market Design, Investment Prioritization, and International Coordination](/impact/papers/integrated-energy-system-planning-market-design-investment-coordination/)
+- [τ for Advanced Fission Safety, Operations, Licensing, and Fleet Modernization]({{ '/impact/papers/advanced-fission-safety-operations-licensing-fleet-modernization/' | relative_url }})
+- [Tau for DER Orchestration, Storage, Flexible Demand, Microgrids, and T&D Planning]({{ '/impact/papers/der-storage-flexible-demand-microgrids-td-planning/' | relative_url }})
+- [τ for Fusion Digital Twins, Plasma Control, Heat Exhaust, and ITER → DEMO → Commercialization]({{ '/impact/papers/fusion-digital-twins-plasma-control-heat-exhaust-iter-demo/' | relative_url }})
+- [Tau-Grade Grid Digital Twins, Reliability, Dispatch, and Resilience]({{ '/impact/papers/grid-digital-twins-reliability-dispatch-resilience/' | relative_url }})
+- [τ for Integrated Energy-System Planning, Market Design, Investment Prioritization, and International Coordination]({{ '/impact/papers/integrated-energy-system-planning-market-design-investment-coordination/' | relative_url }})
 

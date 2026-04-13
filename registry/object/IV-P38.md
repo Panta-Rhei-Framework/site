@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P38 — Parallel Transport is Gauge-Covariant
 permalink: /registry/object/IV.P38/
 registry_id: IV.P38

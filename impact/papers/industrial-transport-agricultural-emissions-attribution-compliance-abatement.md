@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Industrial, Transport, and Agricultural Emissions Attribution, Compliance,
   and High-Return Abatement Targeting
 permalink: /impact/papers/industrial-transport-agricultural-emissions-attribution-compliance-abatement/

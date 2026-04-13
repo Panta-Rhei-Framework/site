@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D11 — Boundary Character Space
 permalink: /registry/object/III.D11/
 registry_id: III.D11

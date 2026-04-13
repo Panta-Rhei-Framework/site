@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L29 — F Lattice Completeness
 permalink: /registry/object/VII.L29/
 registry_id: VII.L29

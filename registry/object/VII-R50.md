@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R50 — Ladder–Saturation Bridge
 permalink: /registry/object/VII.R50/
 registry_id: VII.R50

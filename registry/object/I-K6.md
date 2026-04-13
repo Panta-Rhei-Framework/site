@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.K6 — Object Closure (K6)
 permalink: /registry/object/I.K6/
 registry_id: I.K6

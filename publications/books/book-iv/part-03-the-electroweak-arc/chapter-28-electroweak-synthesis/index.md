@@ -43,7 +43,7 @@ preceding chapters and extracts its ontological consequences. The
 A-sector (weak, $π$) and B-sector (EM, $γ$) cooperate through
 the $ω$-crossing. All coupling constants—$α$,
 $\sin^2θ_W$, $G_F$—are derived from $τ^3$ geometry with
-zero free parameters. Electroweak ``unification'' is reconceived as
+zero free parameters. Electroweak “unification” is reconceived as
 a coupling cascade: topology $→$ geometry $→$ numbers. The
 chapter then draws the deeper lesson: particles are not fundamental
 entities but **modes of the boundary algebra**, and forces are

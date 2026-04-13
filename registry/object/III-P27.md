@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P27 — BSD Three-Ingredient Proof
 permalink: /registry/object/III.P27/
 registry_id: III.P27

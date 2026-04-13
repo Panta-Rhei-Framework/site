@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D36 — Abstract Object as Structural Position
 permalink: /registry/object/VII.D36/
 registry_id: VII.D36

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T12 — Operator Realism
 permalink: /registry/object/VII.T12/
 registry_id: VII.T12

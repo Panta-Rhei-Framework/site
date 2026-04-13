@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T52 — Inter-Level Cascade
 permalink: /registry/object/VI.T52/
 registry_id: VI.T52

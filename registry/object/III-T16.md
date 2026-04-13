@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T16 — Bipolar Euler Product
 permalink: /registry/object/III.T16/
 registry_id: III.T16

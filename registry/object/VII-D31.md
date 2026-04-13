@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D31 — Law as Admissible Continuation
 permalink: /registry/object/VII.D31/
 registry_id: VII.D31

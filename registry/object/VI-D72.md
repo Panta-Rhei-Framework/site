@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D72 — Chirality Seed
 permalink: /registry/object/VI.D72/
 registry_id: VI.D72

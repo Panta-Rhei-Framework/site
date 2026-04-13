@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T32 — No-Conflict Theorem
 permalink: /registry/object/VII.T32/
 registry_id: VII.T32

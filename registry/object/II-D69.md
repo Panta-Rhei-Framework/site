@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D69 — The Infinity Trade-Off
 permalink: /registry/object/II.D69/
 registry_id: II.D69

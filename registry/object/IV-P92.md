@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P92 — Tracelessness from Color-Neutral Vacuum
 permalink: /registry/object/IV.P92/
 registry_id: IV.P92

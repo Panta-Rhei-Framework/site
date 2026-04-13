@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.D19b — Internal Primes
 permalink: /registry/object/I.D19b/
 registry_id: I.D19b

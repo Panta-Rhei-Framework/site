@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P43 — Categorical Derivation of Gauge Structure
 permalink: /registry/object/IV.P43/
 registry_id: IV.P43

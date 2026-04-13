@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R28 — Spectral Forces Inherit Hyperbolicity
 permalink: /registry/object/II.R28/
 registry_id: II.R28

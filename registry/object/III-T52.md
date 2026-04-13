@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T52 — Physical P=NP
 permalink: /registry/object/III.T52/
 registry_id: III.T52

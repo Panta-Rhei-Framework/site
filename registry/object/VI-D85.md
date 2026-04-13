@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D85 — Epigenetic Drift
 permalink: /registry/object/VI.D85/
 registry_id: VI.D85

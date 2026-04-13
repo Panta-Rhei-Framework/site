@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R43 — Actual vs Potential Infinity
 permalink: /registry/object/III.R43/
 registry_id: III.R43

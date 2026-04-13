@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T45 — Parallel Preservation
 permalink: /registry/object/II.T45/
 registry_id: II.T45

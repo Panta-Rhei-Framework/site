@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D60 — Rank as Tower Depth
 permalink: /registry/object/III.D60/
 registry_id: III.D60

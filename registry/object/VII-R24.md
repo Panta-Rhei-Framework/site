@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R24 — Environmental Beauty
 permalink: /registry/object/VII.R24/
 registry_id: VII.R24

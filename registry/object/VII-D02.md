@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D02 — Practical Register
 permalink: /registry/object/VII.D02/
 registry_id: VII.D02

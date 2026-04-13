@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D37 — Structure Generation Predicate
 permalink: /registry/object/VI.D37/
 registry_id: VI.D37

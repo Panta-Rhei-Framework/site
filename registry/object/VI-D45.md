@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D45 — Repair Budget
 permalink: /registry/object/VI.D45/
 registry_id: VI.D45

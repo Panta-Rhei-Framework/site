@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D46 — Strong Defect Functional
 permalink: /registry/object/III.D46/
 registry_id: III.D46

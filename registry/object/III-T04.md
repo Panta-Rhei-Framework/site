@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T04 — Canonical Ladder Theorem
 permalink: /registry/object/III.T04/
 registry_id: III.T04

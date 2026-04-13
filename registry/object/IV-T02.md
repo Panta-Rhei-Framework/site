@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T02 — Temporal Multiplicative Closure
 permalink: /registry/object/IV.T02/
 registry_id: IV.T02

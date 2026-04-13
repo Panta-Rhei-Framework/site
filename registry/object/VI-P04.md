@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P04 — Seven Hallmarks Complete
 permalink: /registry/object/VI.P04/
 registry_id: VI.P04

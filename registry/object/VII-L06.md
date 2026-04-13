@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L06 — No-New-Crossing-Mediator Lemma
 permalink: /registry/object/VII.L06/
 registry_id: VII.L06

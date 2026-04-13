@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D69 — Four Ethical Tests
 permalink: /registry/object/VII.D69/
 registry_id: VII.D69

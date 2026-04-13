@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T81 — Exactly one derived sector
 permalink: /registry/object/IV.T81/
 registry_id: IV.T81

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T21 — Canonical Commutation Relation
 permalink: /registry/object/IV.T21/
 registry_id: IV.T21

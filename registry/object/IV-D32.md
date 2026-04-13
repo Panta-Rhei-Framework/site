@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D32 — Tau Physical Scale
 permalink: /registry/object/IV.D32/
 registry_id: IV.D32

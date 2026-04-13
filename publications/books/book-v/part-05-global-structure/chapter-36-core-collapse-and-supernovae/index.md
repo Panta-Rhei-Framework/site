@@ -66,7 +66,7 @@ exceeds a critical threshold
 (\S[sec:ch39-trigger]).
 
 The explosion mechanism
-(the ``bounce and revival'' of the shock)
+(the “bounce and revival” of the shock)
 is reinterpreted as a **channel reversal**:
 the topological channel that opened inward
 during collapse

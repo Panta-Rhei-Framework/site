@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P18 — Development as Controlled Differentiation
 permalink: /registry/object/VI.P18/
 registry_id: VI.P18

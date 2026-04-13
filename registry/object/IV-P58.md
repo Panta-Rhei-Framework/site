@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P58 — EM-Weak Coupling Hierarchy
 permalink: /registry/object/IV.P58/
 registry_id: IV.P58

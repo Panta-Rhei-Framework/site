@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P04 — No-Diagonal Principle
 permalink: /registry/object/VII.P04/
 registry_id: VII.P04

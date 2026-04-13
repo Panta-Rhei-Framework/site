@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D53 — Interface Width
 permalink: /registry/object/III.D53/
 registry_id: III.D53

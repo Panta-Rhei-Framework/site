@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D81 — Spectral Projector
 permalink: /registry/object/III.D81/
 registry_id: III.D81

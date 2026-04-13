@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T30 — Energy Conservation
 permalink: /registry/object/IV.T30/
 registry_id: IV.T30

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T32 — Sheaf Axioms
 permalink: /registry/object/II.T32/
 registry_id: II.T32

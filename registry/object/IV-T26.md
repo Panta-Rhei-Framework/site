@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T26 — Heisenberg Uncertainty (Time-Energy)
 permalink: /registry/object/IV.T26/
 registry_id: IV.T26

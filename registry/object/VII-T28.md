@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T28 — Kripke Soundness in τ
 permalink: /registry/object/VII.T28/
 registry_id: VII.T28

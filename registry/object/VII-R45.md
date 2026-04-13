@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R45 — Logos Synchronicity
 permalink: /registry/object/VII.R45/
 registry_id: VII.R45

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R15 — Embodiment as Self-Boundary
 permalink: /registry/object/VII.R15/
 registry_id: VII.R15

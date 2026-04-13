@@ -1,6 +1,6 @@
 ---
 layout: publication-part
-title: "Part VI: Categorical Logic \& Inference"
+title: "Part VI: Categorical Logic & Inference"
 permalink: /publications/books/book-vii/part-06-categorical-logic-inference/
 lane: publications
 publication_type: part
@@ -42,13 +42,13 @@ and now proof, the $S_D$ apparatus is complete.
 
 ## Chapters
 
-- **[Chapter 66: Boolean Logic at the Micro Scale](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-66-boolean-logic-at-the-micro-scale/)**
-- **[Chapter 67: Bayesian Inference at Meso/Macro Scale](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-67-bayesian-inference-at-meso-macro-scale/)**
-- **[Chapter 68: Internal Randomness](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-68-internal-randomness/)**
-- **[Chapter 69: No External Randomness](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-69-no-external-randomness/)**
-- **[Chapter 70: Kolmogorov as Representation Theorem](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-70-kolmogorov-as-representation-theorem/)**
-- **[Chapter 71: Inference as Categorical Necessity](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-71-inference-as-categorical-necessity/)**
-- **[Chapter 72: Truth and Truth-Makers](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-72-truth-and-truth-makers/)**
-- **[Chapter 73: Modal Logic in τ](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-73-modal-logic-in-tau/)**
-- **[Chapter 74: Paraconsistent Logic at Boundaries](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-74-paraconsistent-logic-at-boundaries/)**
-- **[Chapter 75: The Diagrammatic Sector Synthesis](/publications/books/book-vii/part-06-categorical-logic-inference/chapter-75-the-diagrammatic-sector-synthesis/)**
+- **[Chapter 66: Boolean Logic at the Micro Scale]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-66-boolean-logic-at-the-micro-scale/' | relative_url }})**
+- **[Chapter 67: Bayesian Inference at Meso/Macro Scale]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-67-bayesian-inference-at-meso-macro-scale/' | relative_url }})**
+- **[Chapter 68: Internal Randomness]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-68-internal-randomness/' | relative_url }})**
+- **[Chapter 69: No External Randomness]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-69-no-external-randomness/' | relative_url }})**
+- **[Chapter 70: Kolmogorov as Representation Theorem]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-70-kolmogorov-as-representation-theorem/' | relative_url }})**
+- **[Chapter 71: Inference as Categorical Necessity]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-71-inference-as-categorical-necessity/' | relative_url }})**
+- **[Chapter 72: Truth and Truth-Makers]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-72-truth-and-truth-makers/' | relative_url }})**
+- **[Chapter 73: Modal Logic in τ]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-73-modal-logic-in-tau/' | relative_url }})**
+- **[Chapter 74: Paraconsistent Logic at Boundaries]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-74-paraconsistent-logic-at-boundaries/' | relative_url }})**
+- **[Chapter 75: The Diagrammatic Sector Synthesis]({{ '/publications/books/book-vii/part-06-categorical-logic-inference/chapter-75-the-diagrammatic-sector-synthesis/' | relative_url }})**

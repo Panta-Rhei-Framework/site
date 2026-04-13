@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T84 — Koide relation Q=2/3
 permalink: /registry/object/IV.T84/
 registry_id: IV.T84

@@ -39,15 +39,15 @@ The epistemology/ontology distinction dissolves: knowing and being are the same 
 structure viewed from different angles. Husserl and Merleau-Ponty meet category theory.
 Together with Part II, the empirical sector $S_E$ covers what classical philosophy calls
 ontology and epistemology—the two domains governed by the register question
-``what do I observe?''
+“what do I observe?”
 
 ## Chapters
 
-- **[Chapter 33: Knowledge as Sections over Experience](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-33-knowledge-as-sections-over-experience/)**
-- **[Chapter 34: Justification as Gluing](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-34-justification-as-gluing/)**
-- **[Chapter 35: Perception and Experience](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-35-perception-and-experience/)**
-- **[Chapter 36: Temporal Structure of Experience](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-36-temporal-structure-of-experience/)**
-- **[Chapter 37: Intersubjectivity](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-37-intersubjectivity/)**
-- **[Chapter 38: Embodiment and the Lived Body](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/)**
-- **[Chapter 39: The Ontology-Epistemology Dissolution](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-39-the-ontology-epistemology-dissolution/)**
-- **[Chapter 40: The Empirical Sector Synthesis](/publications/books/book-vii/part-03-categorical-phenomenology/chapter-40-the-empirical-sector-synthesis/)**
+- **[Chapter 33: Knowledge as Sections over Experience]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-33-knowledge-as-sections-over-experience/' | relative_url }})**
+- **[Chapter 34: Justification as Gluing]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-34-justification-as-gluing/' | relative_url }})**
+- **[Chapter 35: Perception and Experience]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-35-perception-and-experience/' | relative_url }})**
+- **[Chapter 36: Temporal Structure of Experience]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-36-temporal-structure-of-experience/' | relative_url }})**
+- **[Chapter 37: Intersubjectivity]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-37-intersubjectivity/' | relative_url }})**
+- **[Chapter 38: Embodiment and the Lived Body]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/' | relative_url }})**
+- **[Chapter 39: The Ontology-Epistemology Dissolution]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-39-the-ontology-epistemology-dissolution/' | relative_url }})**
+- **[Chapter 40: The Empirical Sector Synthesis]({{ '/publications/books/book-vii/part-03-categorical-phenomenology/chapter-40-the-empirical-sector-synthesis/' | relative_url }})**

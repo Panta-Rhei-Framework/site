@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T85 — Hydrogen energy levels
 permalink: /registry/object/IV.T85/
 registry_id: IV.T85

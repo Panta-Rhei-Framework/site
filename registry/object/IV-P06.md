@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P06 — √3 Approximation Quality
 permalink: /registry/object/IV.P06/
 registry_id: IV.P06

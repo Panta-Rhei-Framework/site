@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P07 — Bipolar Channel Independence
 permalink: /registry/object/II.P07/
 registry_id: II.P07

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D78 — Chromatin Partition
 permalink: /registry/object/VI.D78/
 registry_id: VI.D78

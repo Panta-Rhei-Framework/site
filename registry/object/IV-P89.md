@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P89 — Color Quantization
 permalink: /registry/object/IV.P89/
 registry_id: IV.P89

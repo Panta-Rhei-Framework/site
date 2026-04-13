@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P32 — No Rest Frame
 permalink: /registry/object/IV.P32/
 registry_id: IV.P32

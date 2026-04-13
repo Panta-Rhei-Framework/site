@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau-Grade Solar Forecasting for Bulk-Grid Operations and Market Dispatch
 permalink: /impact/papers/bulk-grid-solar-forecasting/
 paper_id: companion-solar-paper-1

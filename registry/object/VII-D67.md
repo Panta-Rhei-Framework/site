@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D67 — Fairness Protocol
 permalink: /registry/object/VII.D67/
 registry_id: VII.D67

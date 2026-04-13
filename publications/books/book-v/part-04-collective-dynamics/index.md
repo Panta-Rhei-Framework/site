@@ -94,10 +94,10 @@ of Part V.
 
 ## Chapters
 
-- **[Chapter 24: Navier–Stokes at Macro Level: Regularity from τ³](/publications/books/book-v/part-04-collective-dynamics/chapter-24-navier-stokes-at-macro-level-regularity-from-tau/)**
-- **[Chapter 25: Turbulence: Energy Cascades and Structural Reinterpretation](/publications/books/book-v/part-04-collective-dynamics/chapter-25-turbulence-energy-cascades-and-structural-reinterpretation/)**
-- **[Chapter 26: Charge as Boundary Obstruction: No Isolated τ](/publications/books/book-v/part-04-collective-dynamics/chapter-26-charge-as-boundary-obstruction-no-isolated-tau/)**
-- **[Chapter 27: τ](/publications/books/book-v/part-04-collective-dynamics/chapter-27-tau/)**
-- **[Chapter 28: τ](/publications/books/book-v/part-04-collective-dynamics/chapter-28-tau/)**
-- **[Chapter 29: τ](/publications/books/book-v/part-04-collective-dynamics/chapter-29-tau/)**
-- **[Chapter 30: Macro Phase Transitions and Regime Crossings](/publications/books/book-v/part-04-collective-dynamics/chapter-30-macro-phase-transitions-and-regime-crossings/)**
+- **[Chapter 24: Navier–Stokes at Macro Level: Regularity from τ³]({{ '/publications/books/book-v/part-04-collective-dynamics/chapter-24-navier-stokes-at-macro-level-regularity-from-tau/' | relative_url }})**
+- **[Chapter 25: Turbulence: Energy Cascades and Structural Reinterpretation]({{ '/publications/books/book-v/part-04-collective-dynamics/chapter-25-turbulence-energy-cascades-and-structural-reinterpretation/' | relative_url }})**
+- **[Chapter 26: Charge as Boundary Obstruction: No Isolated τ]({{ '/publications/books/book-v/part-04-collective-dynamics/chapter-26-charge-as-boundary-obstruction-no-isolated-tau/' | relative_url }})**
+- **[Chapter 27: τ]({{ '/publications/books/book-v/part-04-collective-dynamics/chapter-27-tau/' | relative_url }})**
+- **[Chapter 28: τ]({{ '/publications/books/book-v/part-04-collective-dynamics/chapter-28-tau/' | relative_url }})**
+- **[Chapter 29: τ]({{ '/publications/books/book-v/part-04-collective-dynamics/chapter-29-tau/' | relative_url }})**
+- **[Chapter 30: Macro Phase Transitions and Regime Crossings]({{ '/publications/books/book-v/part-04-collective-dynamics/chapter-30-macro-phase-transitions-and-regime-crossings/' | relative_url }})**

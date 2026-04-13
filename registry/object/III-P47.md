@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P47 — Squarefree Dominance Theorem
 permalink: /registry/object/III.P47/
 registry_id: III.P47

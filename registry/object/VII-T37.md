@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T37 — Semantic Object Construction (S)
 permalink: /registry/object/VII.T37/
 registry_id: VII.T37

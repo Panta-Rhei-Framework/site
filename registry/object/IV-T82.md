@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T82 — Generator adequacy and minimality
 permalink: /registry/object/IV.T82/
 registry_id: IV.T82

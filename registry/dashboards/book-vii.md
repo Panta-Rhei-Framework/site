@@ -1,5 +1,6 @@
 ---
 layout: registry-dashboard
+lane: registry
 title: 'Registry Dashboard — Book VII: Categorical Metaphysics'
 permalink: /registry/dashboards/book-vii/
 book: VII

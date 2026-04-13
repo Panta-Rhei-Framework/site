@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T10 — Topology Uniqueness
 permalink: /registry/object/II.T10/
 registry_id: II.T10

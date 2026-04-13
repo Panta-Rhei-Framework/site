@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D81 — τ-Geodesic
 permalink: /registry/object/II.D81/
 registry_id: II.D81

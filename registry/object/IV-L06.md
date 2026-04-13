@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L06 — Crossing-Point Mode Classification
 permalink: /registry/object/IV.L06/
 registry_id: IV.L06

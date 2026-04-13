@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P34 — E₂ ⊋ E₁ Strict Witness
 permalink: /registry/object/III.P34/
 registry_id: III.P34

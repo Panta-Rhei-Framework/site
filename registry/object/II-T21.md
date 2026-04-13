@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T21 — S^1 as Profinite Limit
 permalink: /registry/object/II.T21/
 registry_id: II.T21

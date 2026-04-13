@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D63 — Physical State Space
 permalink: /registry/object/IV.D63/
 registry_id: IV.D63

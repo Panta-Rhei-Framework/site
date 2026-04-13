@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P20 — Sector-by-Sector Protocol
 permalink: /registry/object/III.P20/
 registry_id: III.P20

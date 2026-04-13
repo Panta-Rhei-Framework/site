@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T22 — Representation Barrier Theorem
 permalink: /registry/object/III.T22/
 registry_id: III.T22

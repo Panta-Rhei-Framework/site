@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R95 — Why \mathrm{SU not \mathrm{U
 permalink: /registry/object/IV.R95/
 registry_id: IV.R95

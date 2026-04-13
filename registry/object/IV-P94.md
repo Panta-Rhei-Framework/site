@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P94 — Singlet Stability
 permalink: /registry/object/IV.P94/
 registry_id: IV.P94

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T14 — Level 0 Range
 permalink: /registry/object/IV.T14/
 registry_id: IV.T14

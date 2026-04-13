@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R13 — Diagonal Protection via K5
 permalink: /registry/object/II.R13/
 registry_id: II.R13

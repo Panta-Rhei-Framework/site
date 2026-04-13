@@ -1,5 +1,6 @@
 ---
 layout: registry-dashboard
+lane: registry
 title: 'Registry Dashboard — Book I: Categorical Foundations'
 permalink: /registry/dashboards/book-i/
 book: I

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.K4 — No-Jump / Cover (K4)
 permalink: /registry/object/I.K4/
 registry_id: I.K4

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R20 — Golden Ratio as Kernel Shadow
 permalink: /registry/object/VII.R20/
 registry_id: VII.R20

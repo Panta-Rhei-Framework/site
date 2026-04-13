@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D09 — E₃ Layer (Metaphysics)
 permalink: /registry/object/III.D09/
 registry_id: III.D09

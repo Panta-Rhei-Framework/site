@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P98 — Properties of h_n
 permalink: /registry/object/IV.P98/
 registry_id: IV.P98

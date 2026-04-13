@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P25 — Saturation Equality
 permalink: /registry/object/IV.P25/
 registry_id: IV.P25

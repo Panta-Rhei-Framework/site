@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T16 — ω-Uniqueness
 permalink: /registry/object/VII.T16/
 registry_id: VII.T16

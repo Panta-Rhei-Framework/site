@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T57 — Operational Closure Theorem
 permalink: /registry/object/III.T57/
 registry_id: III.T57

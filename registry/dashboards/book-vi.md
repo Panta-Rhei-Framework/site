@@ -1,5 +1,6 @@
 ---
 layout: registry-dashboard
+lane: registry
 title: 'Registry Dashboard — Book VI: Categorical Life'
 permalink: /registry/dashboards/book-vi/
 book: VI

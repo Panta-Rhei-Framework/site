@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D20 — Congruence Relation
 permalink: /registry/object/II.D20/
 registry_id: II.D20

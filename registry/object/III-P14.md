@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P14 — Defect Contractivity
 permalink: /registry/object/III.P14/
 registry_id: III.P14

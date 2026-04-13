@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P10 — Functions as Tau-Objects
 permalink: /registry/object/II.P10/
 registry_id: II.P10

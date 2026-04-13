@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L03 — Photon Phase Quantum
 permalink: /registry/object/IV.L03/
 registry_id: IV.L03

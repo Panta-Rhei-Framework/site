@@ -71,10 +71,10 @@ $B$-supported, $C$-supported, and $X$-mixing components via the spectral trichot
 
 ## Chapters
 
-- **[Chapter 14: The Primorial Ladder](/publications/books/book-iii/part-03-the-spectral-algebra/chapter-14-the-primorial-ladder/)**
-- **[Chapter 15: The CRT Decomposition Theorem](/publications/books/book-iii/part-03-the-spectral-algebra/chapter-15-the-crt-decomposition-theorem/)**
-- **[Chapter 16: Hensel Lifting and Local Fields](/publications/books/book-iii/part-03-the-spectral-algebra/chapter-16-hensel-lifting-and-local-fields/)**
-- **[Chapter 17: The Adelic Embedding](/publications/books/book-iii/part-03-the-spectral-algebra/chapter-17-the-adelic-embedding/)**
-- **[Chapter 18: The Internal Bipolar Classifier](/publications/books/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/)**
-- **[Chapter 19: The Spectral Trichotomy](/publications/books/book-iii/part-03-the-spectral-algebra/chapter-19-the-spectral-trichotomy/)**
-- **[Chapter 20: The Spectral Algebra Complete](/publications/books/book-iii/part-03-the-spectral-algebra/chapter-20-the-spectral-algebra-complete/)**
+- **[Chapter 14: The Primorial Ladder]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/chapter-14-the-primorial-ladder/' | relative_url }})**
+- **[Chapter 15: The CRT Decomposition Theorem]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/chapter-15-the-crt-decomposition-theorem/' | relative_url }})**
+- **[Chapter 16: Hensel Lifting and Local Fields]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/chapter-16-hensel-lifting-and-local-fields/' | relative_url }})**
+- **[Chapter 17: The Adelic Embedding]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/chapter-17-the-adelic-embedding/' | relative_url }})**
+- **[Chapter 18: The Internal Bipolar Classifier]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/' | relative_url }})**
+- **[Chapter 19: The Spectral Trichotomy]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/chapter-19-the-spectral-trichotomy/' | relative_url }})**
+- **[Chapter 20: The Spectral Algebra Complete]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/chapter-20-the-spectral-algebra-complete/' | relative_url }})**

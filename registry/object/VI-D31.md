@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D31 — Metabolic Circulation
 permalink: /registry/object/VI.D31/
 registry_id: VI.D31

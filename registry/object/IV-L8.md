@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L8 — Winding Preservation
 permalink: /registry/object/IV.L8/
 registry_id: IV.L8

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D91 — Obstruction Cocycle
 permalink: /registry/object/III.D91/
 registry_id: III.D91

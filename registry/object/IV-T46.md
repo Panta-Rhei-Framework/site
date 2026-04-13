@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T46 — Coulomb's Law from tau-Maxwell
 permalink: /registry/object/IV.T46/
 registry_id: IV.T46

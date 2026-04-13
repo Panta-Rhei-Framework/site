@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L35 — Social Base Space Well-Definedness
 permalink: /registry/object/VII.L35/
 registry_id: VII.L35

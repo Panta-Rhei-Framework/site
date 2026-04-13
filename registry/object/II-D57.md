@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D57 — E1 Enrichment Layer
 permalink: /registry/object/II.D57/
 registry_id: II.D57

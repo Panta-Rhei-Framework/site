@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P69 — Weinberg Angle Residual Analysis
 permalink: /registry/object/IV.P69/
 registry_id: IV.P69

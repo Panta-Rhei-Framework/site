@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.D19e — Prime Spectral Signature
 permalink: /registry/object/I.D19e/
 registry_id: I.D19e

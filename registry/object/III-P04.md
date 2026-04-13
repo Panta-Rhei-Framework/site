@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P04 — Balanced Sector Uniqueness
 permalink: /registry/object/III.P04/
 registry_id: III.P04

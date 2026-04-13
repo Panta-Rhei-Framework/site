@@ -43,10 +43,10 @@ measures the current expansion rate of the universe.
 For over a decade,
 two classes of measurement
 have yielded discrepant values:
-``early-universe'' methods (CMB analysis via Planck planck2020cosmological,
+“early-universe” methods (CMB analysis via Planck planck2020cosmological,
 BAO calibration)
 give $H_0 ≈ 67.4 ± 0.5$ km/s/Mpc,
-while ``late-universe'' methods
+while “late-universe” methods
 (Cepheid-calibrated Type Ia supernovae riess1998observational
 via SH0ES and related programmes)
 give $H_0 ≈ 73.0 ± 1.0$ km/s/Mpc.
@@ -63,7 +63,7 @@ It is an **orbit-depth-dependent readout**
 the progression rate on the base $τ^1$
 varies with the depth $n$
 of the refinement tower,
-and ``early'' and ``late'' measurements
+and “early” and “late” measurements
 probe *different depths*.
 The early-universe measurement
 reads the progression rate

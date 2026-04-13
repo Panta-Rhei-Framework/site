@@ -52,7 +52,7 @@ Chapter [ch:regularity-positive] shifts from negative regularity
 (absence of singularity) to positive regularity
 (existence of stabilized $ω$-germ).
 A map is regular if and only if it has a canonical extension to the interior.
-No ``removable singularity'' pathology: either regular or genuinely singular.
+No “removable singularity” pathology: either regular or genuinely singular.
 
 Chapter [ch:pre-yoneda] shows the embedding $Hol_τ \hookrightarrow d(τ^3)$:
 holomorphic functions are both transformers {\itshape and} germs.
@@ -71,8 +71,8 @@ idempotent-supported $ω$-germ transformers.
 
 ## Chapters
 
-- **[Chapter 38: Idempotent Decomposition Lemma](/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-38-idempotent-decomposition-lemma/)**
-- **[Chapter 39: The 3-Lemma Chain](/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-39-the-3-lemma-chain/)**
-- **[Chapter 40: Regularity as Positive Structure](/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-40-regularity-as-positive-structure/)**
-- **[Chapter 41: Pre-Yoneda Embedding](/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-41-pre-yoneda-embedding/)**
-- **[Chapter 42: Code/Decode and Diagonal Protection](/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-42-code-decode-and-diagonal-protection/)**
+- **[Chapter 38: Idempotent Decomposition Lemma]({{ '/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-38-idempotent-decomposition-lemma/' | relative_url }})**
+- **[Chapter 39: The 3-Lemma Chain]({{ '/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-39-the-3-lemma-chain/' | relative_url }})**
+- **[Chapter 40: Regularity as Positive Structure]({{ '/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-40-regularity-as-positive-structure/' | relative_url }})**
+- **[Chapter 41: Pre-Yoneda Embedding]({{ '/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-41-pre-yoneda-embedding/' | relative_url }})**
+- **[Chapter 42: Code/Decode and Diagonal Protection]({{ '/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-42-code-decode-and-diagonal-protection/' | relative_url }})**

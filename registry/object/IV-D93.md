@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D93 — Aharonov-Bohm Phase
 permalink: /registry/object/IV.D93/
 registry_id: IV.D93

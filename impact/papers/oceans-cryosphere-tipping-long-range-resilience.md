@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Oceans, Cryosphere, Tipping Elements, and Long-Range Resilience
 permalink: /impact/papers/oceans-cryosphere-tipping-long-range-resilience/
 paper_id: companion-climate-paper-4

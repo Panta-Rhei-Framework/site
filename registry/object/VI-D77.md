@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D77 — Abiogenesis Timescale Bound
 permalink: /registry/object/VI.D77/
 registry_id: VI.D77

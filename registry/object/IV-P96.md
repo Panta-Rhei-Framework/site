@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P96 — Linear Confinement Potential
 permalink: /registry/object/IV.P96/
 registry_id: IV.P96

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D03 — Constraint Lattice
 permalink: /registry/object/II.D03/
 registry_id: II.D03

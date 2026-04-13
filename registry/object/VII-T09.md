@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T09 — Cross-Register Correlation
 permalink: /registry/object/VII.T09/
 registry_id: VII.T09

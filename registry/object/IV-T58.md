@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T58 — Spectral Gap Exponent
 permalink: /registry/object/IV.T58/
 registry_id: IV.T58

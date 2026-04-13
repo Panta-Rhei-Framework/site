@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D05 — MetaDecode Operator
 permalink: /registry/object/VII.D05/
 registry_id: VII.D05

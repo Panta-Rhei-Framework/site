@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T16 — Persistence as α-Base Stability
 permalink: /registry/object/VI.T16/
 registry_id: VI.T16

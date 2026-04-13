@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T26 — BndLift Existence
 permalink: /registry/object/II.T26/
 registry_id: II.T26

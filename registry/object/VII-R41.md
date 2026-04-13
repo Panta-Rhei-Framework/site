@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R41 — Hard Problem Reformulated
 permalink: /registry/object/VII.R41/
 registry_id: VII.R41

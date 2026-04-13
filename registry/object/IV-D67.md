@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D67 — Observable
 permalink: /registry/object/IV.D67/
 registry_id: IV.D67

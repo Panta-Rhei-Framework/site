@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R76 — Analogy with lattice gauge theory
 permalink: /registry/object/IV.R76/
 registry_id: IV.R76

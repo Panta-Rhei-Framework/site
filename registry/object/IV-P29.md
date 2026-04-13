@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P29 — Energy-Localization Bound
 permalink: /registry/object/IV.P29/
 registry_id: IV.P29

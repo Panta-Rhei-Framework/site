@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D94 — YM Mass Gap Persistence
 permalink: /registry/object/III.D94/
 registry_id: III.D94

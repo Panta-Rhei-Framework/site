@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R45 — The Complete P vs NP Landscape
 permalink: /registry/object/III.R45/
 registry_id: III.R45

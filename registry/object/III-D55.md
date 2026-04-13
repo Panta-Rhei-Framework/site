@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D55 — NP Witness as Canonical Address
 permalink: /registry/object/III.D55/
 registry_id: III.D55

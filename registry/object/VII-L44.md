@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L44 — Rite of Passage as Boundary Crossing
 permalink: /registry/object/VII.L44/
 registry_id: VII.L44

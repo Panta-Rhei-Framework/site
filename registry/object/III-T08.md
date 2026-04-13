@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T08 — No Knobs Principle
 permalink: /registry/object/III.T08/
 registry_id: III.T08

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P16 — Repair Budget Exhaustion
 permalink: /registry/object/VI.P16/
 registry_id: VI.P16

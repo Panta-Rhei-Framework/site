@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R27 — Public Language as Infrastructure
 permalink: /registry/object/VII.R27/
 registry_id: VII.R27

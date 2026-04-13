@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T30 — Dignity Universality
 permalink: /registry/object/VII.T30/
 registry_id: VII.T30

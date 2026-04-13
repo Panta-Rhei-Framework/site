@@ -70,12 +70,12 @@ or genuinely singular
 (the germ sequence diverges) —
 and explains in
 **Remark [rem:positive-negative-regularity**] (II.R11)
-why the classical notion of ``removable singularity''
+why the classical notion of “removable singularity”
 has no $τ$-analogue.
 The ultrametric topology
 admits no epsilon-delta wiggle room:
 cylinders are clopen,
-so singularities cannot be ``approached'' and then ``removed.''
+so singularities cannot be “approached” and then “removed.”
 They are either present at a given stage or absent.
 
 The key dependencies are:

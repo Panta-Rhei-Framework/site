@@ -47,7 +47,7 @@ two invisible ingredients:
 dark matter and dark energy.
 
 The arc of Part V is a scaling ladder.
-**Chapter 34** dissolves the ``classical illusion'':
+**Chapter 34** dissolves the “classical illusion”:
 the impression that Newtonian mechanics
 is a fundamental large-scale law
 rather than a coarse-grained readout
@@ -93,15 +93,15 @@ or phantom energy.
 
 ## Chapters
 
-- **[Chapter 31: Gravity Without Dark Matter: The Classical Illusion](/publications/books/book-v/part-05-global-structure/chapter-31-gravity-without-dark-matter-the-classical-illusion/)**
-- **[Chapter 32: Kepler and the Solar System as Calibration Laboratory](/publications/books/book-v/part-05-global-structure/chapter-32-kepler-and-the-solar-system-as-calibration-laboratory/)**
-- **[Chapter 33: The Galaxy as Relational Object](/publications/books/book-v/part-05-global-structure/chapter-33-the-galaxy-as-relational-object/)**
-- **[Chapter 34: Rotation Curves Without Dark Matter](/publications/books/book-v/part-05-global-structure/chapter-34-rotation-curves-without-dark-matter/)**
-- **[Chapter 35: The Compact-Object Ladder](/publications/books/book-v/part-05-global-structure/chapter-35-the-compact-object-ladder/)**
-- **[Chapter 36: Core Collapse and Supernovae](/publications/books/book-v/part-05-global-structure/chapter-36-core-collapse-and-supernovae/)**
-- **[Chapter 37: Accretion, Jets, and Active Galactic Nuclei](/publications/books/book-v/part-05-global-structure/chapter-37-accretion-jets-and-active-galactic-nuclei/)**
-- **[Chapter 38: Binary Mergers and Gravitational-Wave Readout](/publications/books/book-v/part-05-global-structure/chapter-38-binary-mergers-and-gravitational-wave-readout/)**
-- **[Chapter 39: The EHT Re-Read: The Ring Is the Donut](/publications/books/book-v/part-05-global-structure/chapter-39-the-eht-re-read-the-ring-is-the-donut/)**
-- **[Chapter 40: The Bullet Cluster and Large-Scale Structure](/publications/books/book-v/part-05-global-structure/chapter-40-the-bullet-cluster-and-large-scale-structure/)**
-- **[Chapter 41: The Sector Exhaustion Theorem: Dark Matter Cannot Exist](/publications/books/book-v/part-05-global-structure/chapter-41-the-sector-exhaustion-theorem-dark-matter-cannot-exist/)**
-- **[Chapter 42: H₀](/publications/books/book-v/part-05-global-structure/chapter-42-h/)**
+- **[Chapter 31: Gravity Without Dark Matter: The Classical Illusion]({{ '/publications/books/book-v/part-05-global-structure/chapter-31-gravity-without-dark-matter-the-classical-illusion/' | relative_url }})**
+- **[Chapter 32: Kepler and the Solar System as Calibration Laboratory]({{ '/publications/books/book-v/part-05-global-structure/chapter-32-kepler-and-the-solar-system-as-calibration-laboratory/' | relative_url }})**
+- **[Chapter 33: The Galaxy as Relational Object]({{ '/publications/books/book-v/part-05-global-structure/chapter-33-the-galaxy-as-relational-object/' | relative_url }})**
+- **[Chapter 34: Rotation Curves Without Dark Matter]({{ '/publications/books/book-v/part-05-global-structure/chapter-34-rotation-curves-without-dark-matter/' | relative_url }})**
+- **[Chapter 35: The Compact-Object Ladder]({{ '/publications/books/book-v/part-05-global-structure/chapter-35-the-compact-object-ladder/' | relative_url }})**
+- **[Chapter 36: Core Collapse and Supernovae]({{ '/publications/books/book-v/part-05-global-structure/chapter-36-core-collapse-and-supernovae/' | relative_url }})**
+- **[Chapter 37: Accretion, Jets, and Active Galactic Nuclei]({{ '/publications/books/book-v/part-05-global-structure/chapter-37-accretion-jets-and-active-galactic-nuclei/' | relative_url }})**
+- **[Chapter 38: Binary Mergers and Gravitational-Wave Readout]({{ '/publications/books/book-v/part-05-global-structure/chapter-38-binary-mergers-and-gravitational-wave-readout/' | relative_url }})**
+- **[Chapter 39: The EHT Re-Read: The Ring Is the Donut]({{ '/publications/books/book-v/part-05-global-structure/chapter-39-the-eht-re-read-the-ring-is-the-donut/' | relative_url }})**
+- **[Chapter 40: The Bullet Cluster and Large-Scale Structure]({{ '/publications/books/book-v/part-05-global-structure/chapter-40-the-bullet-cluster-and-large-scale-structure/' | relative_url }})**
+- **[Chapter 41: The Sector Exhaustion Theorem: Dark Matter Cannot Exist]({{ '/publications/books/book-v/part-05-global-structure/chapter-41-the-sector-exhaustion-theorem-dark-matter-cannot-exist/' | relative_url }})**
+- **[Chapter 42: H₀]({{ '/publications/books/book-v/part-05-global-structure/chapter-42-h/' | relative_url }})**

@@ -50,8 +50,8 @@ what orthodox mathematics takes as axiom
 or obtains via a fundamentally different proof.
 The mathematical content is identical;
 the epistemic status is upgraded.
-``Proved from fewer assumptions''
-outranks ``postulated''—even
+“Proved from fewer assumptions”
+outranks “postulated”—even
 when the conclusion is the same.
 
 The chapter catalogues 13 earned results

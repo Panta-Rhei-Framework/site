@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P35 — Photon as Boundary Character
 permalink: /registry/object/IV.P35/
 registry_id: IV.P35

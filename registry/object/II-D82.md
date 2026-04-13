@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D82 — L² Inner Product
 permalink: /registry/object/II.D82/
 registry_id: II.D82

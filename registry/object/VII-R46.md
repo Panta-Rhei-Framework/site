@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R46 — Crown Jewel of 2nd Edition
 permalink: /registry/object/VII.R46/
 registry_id: VII.R46

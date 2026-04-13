@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Climate
 permalink: /impact/portfolio/climate/
 portfolio_id: impact-climate
@@ -27,8 +28,8 @@ The Climate portfolio frames climate as one of the most important τ deployment 
 
 ## Companion Papers (4)
 
-- [Tau for Carbon-Cycle, Methane, Aerosol, and Sink Intelligence](/impact/papers/carbon-cycle-methane-aerosol-sink-intelligence/)
-- [Tau for Climate Policy Optimization, Investment Prioritization, and International Coordination](/impact/papers/climate-policy-optimization-investment-prioritization-international-coordination/)
-- [τ for Oceans, Cryosphere, Tipping Elements, and Long-Range Resilience](/impact/papers/oceans-cryosphere-tipping-long-range-resilience/)
-- [Tau for Regional Adaptation Planning and Sectoral Impact Intelligence](/impact/papers/regional-adaptation-sectoral-impact-intelligence/)
+- [Tau for Carbon-Cycle, Methane, Aerosol, and Sink Intelligence]({{ '/impact/papers/carbon-cycle-methane-aerosol-sink-intelligence/' | relative_url }})
+- [Tau for Climate Policy Optimization, Investment Prioritization, and International Coordination]({{ '/impact/papers/climate-policy-optimization-investment-prioritization-international-coordination/' | relative_url }})
+- [τ for Oceans, Cryosphere, Tipping Elements, and Long-Range Resilience]({{ '/impact/papers/oceans-cryosphere-tipping-long-range-resilience/' | relative_url }})
+- [Tau for Regional Adaptation Planning and Sectoral Impact Intelligence]({{ '/impact/papers/regional-adaptation-sectoral-impact-intelligence/' | relative_url }})
 

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R28 — Prayer Across Traditions
 permalink: /registry/object/VII.R28/
 registry_id: VII.R28

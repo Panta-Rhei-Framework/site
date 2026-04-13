@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P21 — Monotone Convergence of Enantiomeric Excess
 permalink: /registry/object/VI.P21/
 registry_id: VI.P21

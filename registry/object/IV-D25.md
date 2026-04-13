@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D25 — Defect Budget
 permalink: /registry/object/IV.D25/
 registry_id: IV.D25

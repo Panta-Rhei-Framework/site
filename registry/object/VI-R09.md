@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R09 — Homochirality Scope Discipline
 permalink: /registry/object/VI.R09/
 registry_id: VI.R09

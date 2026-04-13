@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P19 — Central Theorem Implies Boundary Determination
 permalink: /registry/object/IV.P19/
 registry_id: IV.P19

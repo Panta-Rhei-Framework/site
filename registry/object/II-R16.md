@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R16 — Enrichment Ladder Preview
 permalink: /registry/object/II.R16/
 registry_id: II.R16

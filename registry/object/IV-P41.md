@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P41 — Self-Interaction from Non-Commutativity
 permalink: /registry/object/IV.P41/
 registry_id: IV.P41

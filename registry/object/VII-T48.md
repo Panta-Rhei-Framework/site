@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T48 — Layer-Conflation as Category Error
 permalink: /registry/object/VII.T48/
 registry_id: VII.T48

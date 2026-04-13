@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T18 — Parallel Postulate
 permalink: /registry/object/II.T18/
 registry_id: II.T18

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P03 — Boundary Instability Prevents Code Closure
 permalink: /registry/object/VI.P03/
 registry_id: VI.P03

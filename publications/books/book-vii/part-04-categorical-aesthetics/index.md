@@ -42,16 +42,16 @@ pattern recognition before symbolic encoding.
 
 ## Chapters
 
-- **[Chapter 41: Pre-Symbolic Resonance](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-41-pre-symbolic-resonance/)**
-- **[Chapter 42: The Aesthetic Functional](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-42-the-aesthetic-functional/)**
-- **[Chapter 43: Beauty as Invariance](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-43-beauty-as-invariance/)**
-- **[Chapter 44: Elegance and Minimal Tension](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-44-elegance-and-minimal-tension/)**
-- **[Chapter 45: Style, Motif, and Genre](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-45-style-motif-and-genre/)**
-- **[Chapter 46: The Golden Ratio](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-46-the-golden-ratio/)**
-- **[Chapter 47: Fractal Aesthetics](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-47-fractal-aesthetics/)**
-- **[Chapter 48: Music and Harmony](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-48-music-and-harmony/)**
-- **[Chapter 49: Visual Composition](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-49-visual-composition/)**
-- **[Chapter 50: Architecture and Flow](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-50-architecture-and-flow/)**
-- **[Chapter 51: The Act of Elegance in Creation](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-51-the-act-of-elegance-in-creation/)**
-- **[Chapter 52: The Sublime](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-52-the-sublime/)**
-- **[Chapter 53: Environmental Aesthetics](/publications/books/book-vii/part-04-categorical-aesthetics/chapter-53-environmental-aesthetics/)**
+- **[Chapter 41: Pre-Symbolic Resonance]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-41-pre-symbolic-resonance/' | relative_url }})**
+- **[Chapter 42: The Aesthetic Functional]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-42-the-aesthetic-functional/' | relative_url }})**
+- **[Chapter 43: Beauty as Invariance]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-43-beauty-as-invariance/' | relative_url }})**
+- **[Chapter 44: Elegance and Minimal Tension]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-44-elegance-and-minimal-tension/' | relative_url }})**
+- **[Chapter 45: Style, Motif, and Genre]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-45-style-motif-and-genre/' | relative_url }})**
+- **[Chapter 46: The Golden Ratio]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-46-the-golden-ratio/' | relative_url }})**
+- **[Chapter 47: Fractal Aesthetics]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-47-fractal-aesthetics/' | relative_url }})**
+- **[Chapter 48: Music and Harmony]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-48-music-and-harmony/' | relative_url }})**
+- **[Chapter 49: Visual Composition]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-49-visual-composition/' | relative_url }})**
+- **[Chapter 50: Architecture and Flow]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-50-architecture-and-flow/' | relative_url }})**
+- **[Chapter 51: The Act of Elegance in Creation]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-51-the-act-of-elegance-in-creation/' | relative_url }})**
+- **[Chapter 52: The Sublime]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-52-the-sublime/' | relative_url }})**
+- **[Chapter 53: Environmental Aesthetics]({{ '/publications/books/book-vii/part-04-categorical-aesthetics/chapter-53-environmental-aesthetics/' | relative_url }})**

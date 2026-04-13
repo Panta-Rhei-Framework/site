@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L17 — Silicon Realization
 permalink: /registry/object/VI.L17/
 registry_id: VI.L17

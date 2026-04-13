@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P37 — EM Bundle Topology
 permalink: /registry/object/IV.P37/
 registry_id: IV.P37

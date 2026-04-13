@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D40 — Hartogs Flow Operator
 permalink: /registry/object/III.D40/
 registry_id: III.D40

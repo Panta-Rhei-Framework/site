@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L07 — Consumer as Bridge-Head to E₃
 permalink: /registry/object/VI.L07/
 registry_id: VI.L07

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R04 — ABCD vs Quaternions
 permalink: /registry/object/II.R04/
 registry_id: II.R04

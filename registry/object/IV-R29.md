@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R29 — Hierarchy Problem in Category Tau
 permalink: /registry/object/IV.R29/
 registry_id: IV.R29

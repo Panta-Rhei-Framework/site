@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R06 — Possible Worlds as Internal Domains
 permalink: /registry/object/VII.R06/
 registry_id: VII.R06

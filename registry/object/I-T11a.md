@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.T11a — Six-Generator Rigidity Failure
 permalink: /registry/object/I.T11a/
 registry_id: I.T11a

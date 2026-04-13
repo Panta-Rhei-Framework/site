@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D88 — Tau-Exponential
 permalink: /registry/object/II.D88/
 registry_id: II.D88

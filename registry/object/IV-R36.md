@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R36 — Where τ and SM Could Diverge
 permalink: /registry/object/IV.R36/
 registry_id: IV.R36

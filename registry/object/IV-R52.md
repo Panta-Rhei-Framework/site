@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R52 — The gauge group is derived, not postulated
 permalink: /registry/object/IV.R52/
 registry_id: IV.R52

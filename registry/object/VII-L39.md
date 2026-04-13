@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L39 — Power Morphism Well-Typed
 permalink: /registry/object/VII.L39/
 registry_id: VII.L39

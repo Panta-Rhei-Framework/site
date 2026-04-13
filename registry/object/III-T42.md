@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T42 — No Knobs Theorem
 permalink: /registry/object/III.T42/
 registry_id: III.T42

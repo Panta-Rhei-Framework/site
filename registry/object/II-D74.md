@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D74 — The Unification Obstruction
 permalink: /registry/object/II.D74/
 registry_id: II.D74

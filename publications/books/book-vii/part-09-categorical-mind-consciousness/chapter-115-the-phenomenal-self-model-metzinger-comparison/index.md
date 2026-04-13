@@ -20,12 +20,12 @@ summary_short: "This chapter compares the categorical account of mind developed 
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/"
-canonical_part_title: "Part IX: Categorical Mind \& Consciousness"
+canonical_part_title: "Part IX: Categorical Mind & Consciousness"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part IX: Categorical Mind \& Consciousness"
+  - title: "Part IX: Categorical Mind & Consciousness"
     url: /publications/books/book-vii/part-09-categorical-mind-consciousness/
   - title: Registry
     url: /registry/books/book-vii/

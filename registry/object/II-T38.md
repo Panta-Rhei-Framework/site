@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T38 — Extensions Are Omega-Germ Transformers
 permalink: /registry/object/II.T38/
 registry_id: II.T38

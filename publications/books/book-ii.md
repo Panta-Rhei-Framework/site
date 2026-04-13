@@ -84,7 +84,7 @@ $⇒$ geometry $⇒$ transcendentals $⇒$
 holomorphic interior} — exact inversion of orthodox order.
 
 A note on terminology: throughout this book,
-$τ^3$ means ``$τ$ viewed through its geometric coordinate chart.''
+$τ^3$ means “$τ$ viewed through its geometric coordinate chart.”
 The superscript $3$ is a structural index naming the three-factor
 fibered product $τ^1 ×_f T^2$.
 It is not a dimension count (the interior is four-dimensional),
@@ -116,21 +116,21 @@ Welcome to the holomorphic interior.
 
 ## Parts
 
-- **[Prologue: From Kernel to Interior](/publications/books/book-ii/part-00-from-kernel-to-interior/)** — 3 chapters
-- **[Part I: Interior Points and the τ³](/publications/books/book-ii/part-01-interior-points-and-the-tau/)** — 5 chapters
-- **[Part II: Local Domains: Cylinders as Prefix Predicates](/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/)** — 4 chapters
-- **[Part III: Topology and Global Shape](/publications/books/book-ii/part-03-topology-and-global-shape/)** — 6 chapters
-- **[Part IV: Geometry: The Tarski Program](/publications/books/book-ii/part-04-geometry-the-tarski-program/)** — 5 chapters
-- **[Part V: Earned Transcendentals: Lines, Circles, and the Constants π, e, j](/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/)** — 6 chapters
-- **[Part VI: Local Hartogs and the Holomorphic Interior](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/)** — 8 chapters
-- **[Part VII: Regularity and Mutual Determination](/publications/books/book-ii/part-07-regularity-and-mutual-determination/)** — 5 chapters
-- **[Part VIII: Self-Enrichment, Yoneda, and Higher Categories](/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/)** — 5 chapters
-- **[Part IX: The Central Theorem and Categoricity](/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/)** — 6 chapters
-- **[Part X: Closure: Synthesis and Bridge to Book III](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/)** — 7 chapters
-- **[Part XI: The Fork — Category τ versus Orthodox Mathematics](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/)** — 8 chapters
+- **[Prologue: From Kernel to Interior]({{ '/publications/books/book-ii/part-00-from-kernel-to-interior/' | relative_url }})** — 3 chapters
+- **[Part I: Interior Points and the τ³]({{ '/publications/books/book-ii/part-01-interior-points-and-the-tau/' | relative_url }})** — 5 chapters
+- **[Part II: Local Domains: Cylinders as Prefix Predicates]({{ '/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/' | relative_url }})** — 4 chapters
+- **[Part III: Topology and Global Shape]({{ '/publications/books/book-ii/part-03-topology-and-global-shape/' | relative_url }})** — 6 chapters
+- **[Part IV: Geometry: The Tarski Program]({{ '/publications/books/book-ii/part-04-geometry-the-tarski-program/' | relative_url }})** — 5 chapters
+- **[Part V: Earned Transcendentals: Lines, Circles, and the Constants π, e, j]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/' | relative_url }})** — 6 chapters
+- **[Part VI: Local Hartogs and the Holomorphic Interior]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/' | relative_url }})** — 8 chapters
+- **[Part VII: Regularity and Mutual Determination]({{ '/publications/books/book-ii/part-07-regularity-and-mutual-determination/' | relative_url }})** — 5 chapters
+- **[Part VIII: Self-Enrichment, Yoneda, and Higher Categories]({{ '/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/' | relative_url }})** — 5 chapters
+- **[Part IX: The Central Theorem and Categoricity]({{ '/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/' | relative_url }})** — 6 chapters
+- **[Part X: Closure: Synthesis and Bridge to Book III]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/' | relative_url }})** — 7 chapters
+- **[Part XI: The Fork — Category τ versus Orthodox Mathematics]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/' | relative_url }})** — 8 chapters
 
 ## Canonical Artifacts
 
-- **Registry**: [68 chapters mapped to registry objects](/registry/books/book-ii/)
-- **Dashboard**: [Formalization status and dependency graph](/registry/dashboards/book-ii/)
+- **Registry**: [68 chapters mapped to registry objects]({{ '/registry/books/book-ii/' | relative_url }})
+- **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-ii/' | relative_url }})
 - **Formalization**: [TauLib BookII](https://github.com/Panta-Rhei-Framework/formalization) — Lean 4 verification

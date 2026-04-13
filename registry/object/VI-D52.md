@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D52 — Neural Architecture as τ³ Computer
 permalink: /registry/object/VI.D52/
 registry_id: VI.D52

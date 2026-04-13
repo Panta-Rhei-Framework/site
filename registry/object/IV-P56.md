@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P56 — Charged and Neutral Combinations
 permalink: /registry/object/IV.P56/
 registry_id: IV.P56

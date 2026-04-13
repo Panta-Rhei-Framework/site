@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R25 — BSD Export Contracts
 permalink: /registry/object/III.R25/
 registry_id: III.R25

@@ -50,7 +50,7 @@ The key construction:
 a **stage-$k$ cylinder** is the set of all points
 that agree with a given point
 modulo the $k$th primorial $P_k$.
-This is a ``prefix predicate'':
+This is a “prefix predicate”:
 two points lie in the same cylinder
 if and only if their first $k$ prime reductions coincide.
 Cylinders decompose along the four ABCD coordinates,

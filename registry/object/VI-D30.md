@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D30 — Spatial Motility Predicate
 permalink: /registry/object/VI.D30/
 registry_id: VI.D30

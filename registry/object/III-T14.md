@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T14 — Spectral Trichotomy Lemma
 permalink: /registry/object/III.T14/
 registry_id: III.T14

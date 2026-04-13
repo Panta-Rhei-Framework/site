@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D02 — EM Sector at E₁
 permalink: /registry/object/IV.D02/
 registry_id: IV.D02

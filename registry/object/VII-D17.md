@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D17 — Archetype Extractor Protocol
 permalink: /registry/object/VII.D17/
 registry_id: VII.D17

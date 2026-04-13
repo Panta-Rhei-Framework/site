@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D79 — Physical Realizability Predicate
 permalink: /registry/object/III.D79/
 registry_id: III.D79

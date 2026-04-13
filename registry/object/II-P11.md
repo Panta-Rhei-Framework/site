@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P11 — Hom Bipolar Decomposition
 permalink: /registry/object/II.P11/
 registry_id: II.P11

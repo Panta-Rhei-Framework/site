@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D61 — Proto-Code
 permalink: /registry/object/III.D61/
 registry_id: III.D61

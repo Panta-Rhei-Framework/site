@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D13 — Ultrametric Distance
 permalink: /registry/object/II.D13/
 registry_id: II.D13

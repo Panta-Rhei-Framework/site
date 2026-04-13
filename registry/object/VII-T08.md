@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T08 — Archetype Existence
 permalink: /registry/object/VII.T08/
 registry_id: VII.T08

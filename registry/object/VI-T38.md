@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T38 — Consciousness as Mixed-Sector Self-Modeling
 permalink: /registry/object/VI.T38/
 registry_id: VI.T38

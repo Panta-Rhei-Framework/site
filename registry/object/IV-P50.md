@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P50 — Photon Uniqueness
 permalink: /registry/object/IV.P50/
 registry_id: IV.P50

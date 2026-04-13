@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.C3 — Ontological Identity of Laws and Matter
 permalink: /registry/object/IV.C3/
 registry_id: IV.C3

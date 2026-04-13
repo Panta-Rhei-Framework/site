@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T18 — Spectral Correspondence Theorem
 permalink: /registry/object/III.T18/
 registry_id: III.T18

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R59 — Asymptotic freedom preview
 permalink: /registry/object/IV.R59/
 registry_id: IV.R59

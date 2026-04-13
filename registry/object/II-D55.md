@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D55 — 2-Category Structure
 permalink: /registry/object/II.D55/
 registry_id: II.D55

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T62 — NS Flow Causal Arrow
 permalink: /registry/object/III.T62/
 registry_id: III.T62

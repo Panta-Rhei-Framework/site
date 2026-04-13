@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R27 — sqrt(3) Triad
 permalink: /registry/object/IV.R27/
 registry_id: IV.R27

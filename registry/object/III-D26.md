@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D26 — Split-Complex Zeta ζ_τ
 permalink: /registry/object/III.D26/
 registry_id: III.D26

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D73 — Kant-τ Correspondence
 permalink: /registry/object/VII.D73/
 registry_id: VII.D73

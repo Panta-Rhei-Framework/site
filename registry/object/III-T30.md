@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T30 — TTM τ-Nativity
 permalink: /registry/object/III.T30/
 registry_id: III.T30

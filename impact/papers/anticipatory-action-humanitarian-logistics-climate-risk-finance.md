@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Anticipatory Action, Humanitarian Logistics, and Climate-Risk Finance
 permalink: /impact/papers/anticipatory-action-humanitarian-logistics-climate-risk-finance/
 paper_id: companion-disaster-paper-5

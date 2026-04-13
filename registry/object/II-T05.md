@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T05 — Ultrametric Triangle Inequality
 permalink: /registry/object/II.T05/
 registry_id: II.T05

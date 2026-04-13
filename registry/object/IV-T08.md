@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T08 — Coulomb-Permittivity
 permalink: /registry/object/IV.T08/
 registry_id: IV.T08

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P46 — Current as Defect Transport
 permalink: /registry/object/IV.P46/
 registry_id: IV.P46

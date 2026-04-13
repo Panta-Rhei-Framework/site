@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D09 — Internal Evaluator
 permalink: /registry/object/VI.D09/
 registry_id: VI.D09

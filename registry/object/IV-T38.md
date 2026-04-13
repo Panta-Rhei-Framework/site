@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T38 — Gauge Invariance of F_mu_nu
 permalink: /registry/object/IV.T38/
 registry_id: IV.T38

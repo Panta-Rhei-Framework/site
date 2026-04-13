@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D38 — Fluid Sector Decomposition
 permalink: /registry/object/III.D38/
 registry_id: III.D38

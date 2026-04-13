@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D03 — Diagrammatic Register
 permalink: /registry/object/VII.D03/
 registry_id: VII.D03

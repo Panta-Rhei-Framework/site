@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R31 — Results Inventory
 permalink: /registry/object/III.R31/
 registry_id: III.R31

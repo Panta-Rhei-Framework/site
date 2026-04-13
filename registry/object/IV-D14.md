@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D14 — Uncertainty Product
 permalink: /registry/object/IV.D14/
 registry_id: IV.D14

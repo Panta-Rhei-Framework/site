@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P15 — Tau3 Is a Tau-Manifold
 permalink: /registry/object/II.P15/
 registry_id: II.P15

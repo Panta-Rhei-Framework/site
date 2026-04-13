@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R35 — Denotation Map as Shadow Functor
 permalink: /registry/object/II.R35/
 registry_id: II.R35

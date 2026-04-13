@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D32 — Causation as Constrained Composition
 permalink: /registry/object/VII.D32/
 registry_id: VII.D32

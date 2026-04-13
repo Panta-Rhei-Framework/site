@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Critical Infrastructure, Emergency Operations, and Public-Service Continuity
 permalink: /impact/papers/critical-infrastructure-emergency-operations-public-service-continuity/
 paper_id: companion-disaster-paper-4

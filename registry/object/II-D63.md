@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D63 — Tau-Analytic Atlas
 permalink: /registry/object/II.D63/
 registry_id: II.D63

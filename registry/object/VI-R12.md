@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R12 — Sector Assignment Table
 permalink: /registry/object/VI.R12/
 registry_id: VI.R12

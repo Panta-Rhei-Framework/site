@@ -39,8 +39,8 @@ finite repair budget of mortal carriers.
 
 ## Chapters
 
-- **[Chapter 28: The Closure Sector: Decomposition and Nutrient Return](/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-28-the-closure-sector-decomposition-and-nutrient-return/)**
-- **[Chapter 29: Fungi: The Recycling Networks](/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-29-fungi-the-recycling-networks/)**
-- **[Chapter 30: Death, Decomposition, and Aging](/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-30-death-decomposition-and-aging/)**
-- **[Chapter 31: Symbiosis and Ecosystems: The Inter-Sector Web](/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-31-symbiosis-and-ecosystems-the-inter-sector-web/)**
-- **[Chapter 32: Healing, Regeneration, and the Repair Budget](/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-32-healing-regeneration-and-the-repair-budget/)**
+- **[Chapter 28: The Closure Sector: Decomposition and Nutrient Return]({{ '/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-28-the-closure-sector-decomposition-and-nutrient-return/' | relative_url }})**
+- **[Chapter 29: Fungi: The Recycling Networks]({{ '/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-29-fungi-the-recycling-networks/' | relative_url }})**
+- **[Chapter 30: Death, Decomposition, and Aging]({{ '/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-30-death-decomposition-and-aging/' | relative_url }})**
+- **[Chapter 31: Symbiosis and Ecosystems: The Inter-Sector Web]({{ '/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-31-symbiosis-and-ecosystems-the-inter-sector-web/' | relative_url }})**
+- **[Chapter 32: Healing, Regeneration, and the Repair Budget]({{ '/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-32-healing-regeneration-and-the-repair-budget/' | relative_url }})**

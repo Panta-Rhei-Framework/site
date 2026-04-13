@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R07 — Orthodox Denotation Bridge
 permalink: /registry/object/II.R07/
 registry_id: II.R07

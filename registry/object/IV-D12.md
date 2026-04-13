@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D12 — Particle Kind
 permalink: /registry/object/IV.D12/
 registry_id: IV.D12

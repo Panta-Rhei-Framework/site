@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D16 — Radial-Solenoidal Split
 permalink: /registry/object/II.D16/
 registry_id: II.D16

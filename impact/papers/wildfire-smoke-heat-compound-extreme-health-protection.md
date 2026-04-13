@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Wildfire, Smoke, Heat, and Compound-Extreme Health Protection
 permalink: /impact/papers/wildfire-smoke-heat-compound-extreme-health-protection/
 paper_id: companion-disaster-paper-3

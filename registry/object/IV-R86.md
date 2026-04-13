@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R86 — Lean translatability
 permalink: /registry/object/IV.R86/
 registry_id: IV.R86

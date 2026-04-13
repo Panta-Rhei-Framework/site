@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D28 — Weinberg Near-Match
 permalink: /registry/object/IV.D28/
 registry_id: IV.D28

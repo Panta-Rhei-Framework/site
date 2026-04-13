@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P55 — SU(2)_L from Lemniscate Automorphisms
 permalink: /registry/object/IV.P55/
 registry_id: IV.P55

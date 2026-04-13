@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D03 — Three Polarity Terms
 permalink: /registry/object/VI.D03/
 registry_id: VI.D03

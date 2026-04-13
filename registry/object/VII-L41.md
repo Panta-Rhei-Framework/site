@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L41 — Legitimacy Dignity Connection
 permalink: /registry/object/VII.L41/
 registry_id: VII.L41

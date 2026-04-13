@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D35 — Coulomb Constant
 permalink: /registry/object/IV.D35/
 registry_id: IV.D35

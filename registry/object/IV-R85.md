@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R85 — Mixing at the cross-coupling level
 permalink: /registry/object/IV.R85/
 registry_id: IV.R85

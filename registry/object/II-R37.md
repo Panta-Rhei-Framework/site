@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R37 — Shadow Families in SCV
 permalink: /registry/object/II.R37/
 registry_id: II.R37

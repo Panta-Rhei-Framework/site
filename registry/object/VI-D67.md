@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D67 — Three Identity Regimes
 permalink: /registry/object/VI.D67/
 registry_id: VI.D67

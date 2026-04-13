@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D16 — Defect Component
 permalink: /registry/object/IV.D16/
 registry_id: IV.D16

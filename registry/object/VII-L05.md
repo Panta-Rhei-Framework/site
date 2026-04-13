@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L05 — No-New-Lobe Lemma
 permalink: /registry/object/VII.L05/
 registry_id: VII.L05

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T40 — Central Theorem
 permalink: /registry/object/II.T40/
 registry_id: II.T40

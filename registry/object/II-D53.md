@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D53 — Self-Enrichment Structure
 permalink: /registry/object/II.D53/
 registry_id: II.D53

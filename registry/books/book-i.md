@@ -1,5 +1,6 @@
 ---
 layout: registry-book
+lane: registry
 title: 'Registry — Book I: Categorical Foundations'
 permalink: /registry/books/book-i/
 book: I

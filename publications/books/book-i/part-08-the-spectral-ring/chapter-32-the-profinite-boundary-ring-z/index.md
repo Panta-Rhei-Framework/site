@@ -13,7 +13,7 @@ chapter_number: 32
 chapter_slug: "chapter-32-the-profinite-boundary-ring-z"
 page_in_book: 127
 prev_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-31-finite-witnesses-the-road-ahead/"
-prev_chapter_title: "Chapter 31: Finite Witnesses \& the Road Ahead"
+prev_chapter_title: "Chapter 31: Finite Witnesses & the Road Ahead"
 next_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-33-split-complex-scalars/"
 next_chapter_title: "Chapter 33: Split-Complex Scalars"
 summary_short: "Chapter [ch:bipolar-algebra] introduced the boundary local ring on omega-tails with stagewise addition and multiplication. This chapter extends that local…"

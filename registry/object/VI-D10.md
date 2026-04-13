@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D10 — Life Loop Class
 permalink: /registry/object/VI.D10/
 registry_id: VI.D10

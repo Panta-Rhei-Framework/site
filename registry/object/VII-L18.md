@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L18 — Enrichment Monotonicity
 permalink: /registry/object/VII.L18/
 registry_id: VII.L18

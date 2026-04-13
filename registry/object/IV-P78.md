@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P78 — τ-Yukawa Hierarchy
 permalink: /registry/object/IV.P78/
 registry_id: IV.P78

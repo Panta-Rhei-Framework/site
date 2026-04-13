@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R40 — Temporal-Spatial Decomposition
 permalink: /registry/object/III.R40/
 registry_id: III.R40

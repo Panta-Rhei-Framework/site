@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T22 — Three Perspectives on Pi
 permalink: /registry/object/II.T22/
 registry_id: II.T22

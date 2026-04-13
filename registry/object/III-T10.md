@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T10 — CRT Decomposition Theorem
 permalink: /registry/object/III.T10/
 registry_id: III.T10

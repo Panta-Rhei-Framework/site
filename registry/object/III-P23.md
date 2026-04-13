@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P23 — Polynomial Refinement
 permalink: /registry/object/III.P23/
 registry_id: III.P23

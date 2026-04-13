@@ -20,12 +20,12 @@ summary_short: "Obligations do not end at the present. This chapter extends the 
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
-canonical_part_title: "Part VII: Categorical Ethics \& the Kantian Bridge"
+canonical_part_title: "Part VII: Categorical Ethics & the Kantian Bridge"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part VII: Categorical Ethics \& the Kantian Bridge"
+  - title: "Part VII: Categorical Ethics & the Kantian Bridge"
     url: /publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/
   - title: Registry
     url: /registry/books/book-vii/
@@ -44,6 +44,6 @@ prospective dignity, and admissible policies must account for them.
 Intergenerational justice arises as a coherence constraint on temporal
 loops, not as a preference or discount-rate choice. The chapter argues
 that temporal discounting of dignity is structurally inadmissible: the
-label ``future'' is contingent, and label-independence forbids basing
+label “future” is contingent, and label-independence forbids basing
 ethical weight on it. The result is a structural account of
 sustainability as gluing across time.

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R64 — Multi-quark states
 permalink: /registry/object/IV.R64/
 registry_id: IV.R64

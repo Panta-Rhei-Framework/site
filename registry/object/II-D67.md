@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D67 — E1 Export Package
 permalink: /registry/object/II.D67/
 registry_id: II.D67

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D05 — Gravity Sector at E₁
 permalink: /registry/object/IV.D05/
 registry_id: IV.D05

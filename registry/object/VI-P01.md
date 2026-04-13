@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P01 — Low-Noise Carrier Condition
 permalink: /registry/object/VI.P01/
 registry_id: VI.P01

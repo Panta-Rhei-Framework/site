@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T31 — Second Law of Thermodynamics
 permalink: /registry/object/IV.T31/
 registry_id: IV.T31

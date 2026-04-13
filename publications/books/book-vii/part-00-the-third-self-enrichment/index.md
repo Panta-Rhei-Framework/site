@@ -47,5 +47,5 @@ to commitment (Part XII).
 
 ## Chapters
 
-- **[Chapter 1: The Third Self-Enrichment: Entry to E₃](/publications/books/book-vii/part-00-the-third-self-enrichment/chapter-01-the-third-self-enrichment-entry-to-e/)**
-- **[Chapter 2: Map of Book VII](/publications/books/book-vii/part-00-the-third-self-enrichment/chapter-02-map-of-book-vii/)**
+- **[Chapter 1: The Third Self-Enrichment: Entry to E₃]({{ '/publications/books/book-vii/part-00-the-third-self-enrichment/chapter-01-the-third-self-enrichment-entry-to-e/' | relative_url }})**
+- **[Chapter 2: Map of Book VII]({{ '/publications/books/book-vii/part-00-the-third-self-enrichment/chapter-02-map-of-book-vii/' | relative_url }})**

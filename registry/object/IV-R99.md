@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R99 — The worst prediction
 permalink: /registry/object/IV.R99/
 registry_id: IV.R99

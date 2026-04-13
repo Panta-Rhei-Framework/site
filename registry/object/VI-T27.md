@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T27 — Evolution as Optimization
 permalink: /registry/object/VI.T27/
 registry_id: VI.T27

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P10 — L-Amino Acid Preference as Parity Shadow
 permalink: /registry/object/VI.P10/
 registry_id: VI.P10

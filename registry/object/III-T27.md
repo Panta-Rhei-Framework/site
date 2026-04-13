@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T27 — Yang-Mills Gap Theorem
 permalink: /registry/object/III.T27/
 registry_id: III.T27

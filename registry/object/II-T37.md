@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T37 — Hartogs Extension Uniqueness
 permalink: /registry/object/II.T37/
 registry_id: II.T37

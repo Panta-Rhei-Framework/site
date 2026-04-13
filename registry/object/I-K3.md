@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.K3 — Orbit-Seeded Generation (K3)
 permalink: /registry/object/I.K3/
 registry_id: I.K3

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T51 — Consciousness Criteria Equivalence
 permalink: /registry/object/VI.T51/
 registry_id: VI.T51

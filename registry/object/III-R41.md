@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R41 — Light Cone Consistency
 permalink: /registry/object/III.R41/
 registry_id: III.R41

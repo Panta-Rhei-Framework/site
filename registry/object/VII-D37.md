@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D37 — Six Ontic Requirements
 permalink: /registry/object/VII.D37/
 registry_id: VII.D37

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P88 — Ternary Decomposition of the η-Circle
 permalink: /registry/object/IV.P88/
 registry_id: IV.P88

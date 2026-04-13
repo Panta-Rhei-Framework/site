@@ -72,8 +72,8 @@ that anchor the entire Panta Rhei series.
 
 ## Chapters
 
-- **[Chapter 16: Internal Primes and Divisibility](/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-16-internal-primes-and-divisibility/)**
-- **[Chapter 17: Tower Atoms and the Greedy Peel](/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-17-tower-atoms-and-the-greedy-peel/)**
-- **[Chapter 18: The Normal-Form Address Encoding](/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-18-the-normal-form-address-encoding/)**
-- **[Chapter 19: The ABCD Coordinate Chart](/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-19-the-abcd-coordinate-chart/)**
-- **[Chapter 20: Dimension and the Fibration Preview](/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-20-dimension-and-the-fibration-preview/)**
+- **[Chapter 16: Internal Primes and Divisibility]({{ '/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-16-internal-primes-and-divisibility/' | relative_url }})**
+- **[Chapter 17: Tower Atoms and the Greedy Peel]({{ '/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-17-tower-atoms-and-the-greedy-peel/' | relative_url }})**
+- **[Chapter 18: The Normal-Form Address Encoding]({{ '/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-18-the-normal-form-address-encoding/' | relative_url }})**
+- **[Chapter 19: The ABCD Coordinate Chart]({{ '/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-19-the-abcd-coordinate-chart/' | relative_url }})**
+- **[Chapter 20: Dimension and the Fibration Preview]({{ '/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-20-dimension-and-the-fibration-preview/' | relative_url }})**

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.C01 — Holographic Principle
 permalink: /registry/object/II.C01/
 registry_id: II.C01

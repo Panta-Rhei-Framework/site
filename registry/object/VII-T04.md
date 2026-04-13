@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T04 — Rigidity Corollary
 permalink: /registry/object/VII.T04/
 registry_id: VII.T04

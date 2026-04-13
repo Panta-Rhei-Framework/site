@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P01 — All Couplings Positive
 permalink: /registry/object/IV.P01/
 registry_id: IV.P01

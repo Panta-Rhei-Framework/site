@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R03 — Four-Tier Scope Discipline
 permalink: /registry/object/III.R03/
 registry_id: III.R03

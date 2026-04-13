@@ -10,7 +10,7 @@ part_number: 0
 part_display: "Prologue"
 part_slug: "part-00-the-hermetic-principle"
 chapter_count: 1
-summary_short: "center *``The way up and the way down are one and the same.''*\\\\ — Heraclitus, Fragment 60 center Book IV completed the fiber. The torus $T^2$, spanned by the…"
+summary_short: "center *“The way up and the way down are one and the same.”*\\\\ — Heraclitus, Fragment 60 center Book IV completed the fiber. The torus $T^2$, spanned by the…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 right_rail:
@@ -31,7 +31,7 @@ right_rail:
 
 
 center
-*``The way up and the way down are one and the same.''*\\
+*“The way up and the way down are one and the same.”*\\
 — Heraclitus, Fragment 60
 center
 
@@ -77,4 +77,4 @@ that connects them.
 
 ## Chapters
 
-- **[Chapter 1: The Hermetic Principle: Fiber Complete, Base Awaits](/publications/books/book-v/part-00-the-hermetic-principle/chapter-01-the-hermetic-principle-fiber-complete-base-awaits/)**
+- **[Chapter 1: The Hermetic Principle: Fiber Complete, Base Awaits]({{ '/publications/books/book-v/part-00-the-hermetic-principle/chapter-01-the-hermetic-principle-fiber-complete-base-awaits/' | relative_url }})**

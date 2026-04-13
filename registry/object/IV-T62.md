@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T62 — Mixing Uniqueness Theorem
 permalink: /registry/object/IV.T62/
 registry_id: IV.T62

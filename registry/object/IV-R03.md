@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R03 — Physical Constants Core
 permalink: /registry/object/IV.R03/
 registry_id: IV.R03

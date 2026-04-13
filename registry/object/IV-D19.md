@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D19 — Regime Signature
 permalink: /registry/object/IV.D19/
 registry_id: IV.D19

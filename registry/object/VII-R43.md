@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R43 — Metzinger-τ Comparison
 permalink: /registry/object/VII.R43/
 registry_id: VII.R43

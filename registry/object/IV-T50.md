@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T50 — No-Running Principle for alpha_em
 permalink: /registry/object/IV.T50/
 registry_id: IV.T50

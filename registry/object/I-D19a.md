@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.D19a — Internal Divisibility
 permalink: /registry/object/I.D19a/
 registry_id: I.D19a

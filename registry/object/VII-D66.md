@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D66 — CI as Naturality Constraint
 permalink: /registry/object/VII.D66/
 registry_id: VII.D66

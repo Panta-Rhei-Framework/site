@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R71 — Why α-Idx prevents gap closure
 permalink: /registry/object/IV.R71/
 registry_id: IV.R71

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R46 — The (1 + ι_τ) contrast
 permalink: /registry/object/IV.R46/
 registry_id: IV.R46

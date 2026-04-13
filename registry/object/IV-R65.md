@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R65 — Physical string tension
 permalink: /registry/object/IV.R65/
 registry_id: IV.R65

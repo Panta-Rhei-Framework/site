@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: 'VI.R29 — Scope: structural, not empirical'
 permalink: /registry/object/VI.R29/
 registry_id: VI.R29

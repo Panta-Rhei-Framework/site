@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D14 — Sector Normaliser
 permalink: /registry/object/VII.D14/
 registry_id: VII.D14

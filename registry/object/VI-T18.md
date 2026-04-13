@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T18 — Agency as π-Base Extension
 permalink: /registry/object/VI.T18/
 registry_id: VI.T18

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T03 — Sector Decomposition at E₃
 permalink: /registry/object/VII.T03/
 registry_id: VII.T03

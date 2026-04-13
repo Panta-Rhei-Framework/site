@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D61 — Lift_ω Constructor
 permalink: /registry/object/VI.D61/
 registry_id: VI.D61

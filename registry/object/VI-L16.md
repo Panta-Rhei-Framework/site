@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L16 — Basin Is Absorbing
 permalink: /registry/object/VI.L16/
 registry_id: VI.L16

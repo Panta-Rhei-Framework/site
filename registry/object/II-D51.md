@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D51 — Code Map
 permalink: /registry/object/II.D51/
 registry_id: II.D51

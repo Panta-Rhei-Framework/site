@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R74 — The simplest non-trivial case
 permalink: /registry/object/IV.R74/
 registry_id: IV.R74

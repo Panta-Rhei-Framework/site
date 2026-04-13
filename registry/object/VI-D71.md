@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D71 — Polarity Propagation
 permalink: /registry/object/VI.D71/
 registry_id: VI.D71

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L22 — Bounded Witness Form Check
 permalink: /registry/object/VII.L22/
 registry_id: VII.L22

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T74 — HL Constant Convergence
 permalink: /registry/object/III.T74/
 registry_id: III.T74

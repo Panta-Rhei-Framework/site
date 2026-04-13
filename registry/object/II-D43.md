@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D43 — Residue
 permalink: /registry/object/II.D43/
 registry_id: II.D43

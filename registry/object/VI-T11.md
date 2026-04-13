@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T11 — Growth = Carrier Refinement
 permalink: /registry/object/VI.T11/
 registry_id: VI.T11

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P33 — Spectral Resolution
 permalink: /registry/object/III.P33/
 registry_id: III.P33

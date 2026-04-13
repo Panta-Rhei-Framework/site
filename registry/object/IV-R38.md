@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R38 — Precision Gap Lesson
 permalink: /registry/object/IV.R38/
 registry_id: IV.R38

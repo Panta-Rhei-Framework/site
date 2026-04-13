@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R17 — NS Scope Boundary
 permalink: /registry/object/III.R17/
 registry_id: III.R17

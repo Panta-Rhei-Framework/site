@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D40 — BSD Motivic Structure of the Genetic Code
 permalink: /registry/object/VI.D40/
 registry_id: VI.D40

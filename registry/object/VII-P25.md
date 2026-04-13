@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P25 — Legitimacy as Recognition Coherence
 permalink: /registry/object/VII.P25/
 registry_id: VII.P25

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D80 — Holomorphic Entropy
 permalink: /registry/object/IV.D80/
 registry_id: IV.D80

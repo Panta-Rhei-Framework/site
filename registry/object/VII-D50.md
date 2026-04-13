@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D50 — The Sublime as Comprehension Boundary
 permalink: /registry/object/VII.D50/
 registry_id: VII.D50

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T01 — Non-Emptiness Theorem
 permalink: /registry/object/III.T01/
 registry_id: III.T01

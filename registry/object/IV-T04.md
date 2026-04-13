@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T04 — Euler Budget Conservation
 permalink: /registry/object/IV.T04/
 registry_id: IV.T04

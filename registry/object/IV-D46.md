@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D46 — Mass Ratio Bulk Term
 permalink: /registry/object/IV.D46/
 registry_id: IV.D46

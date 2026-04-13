@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P08 — Projection Formula
 permalink: /registry/object/II.P08/
 registry_id: II.P08

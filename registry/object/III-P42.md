@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P42 — Sieve-CRT Compatibility
 permalink: /registry/object/III.P42/
 registry_id: III.P42

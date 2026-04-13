@@ -68,8 +68,8 @@ a {\itshape theorem} in $τ$, earned from the axioms.
 
 ## Chapters
 
-- **[Chapter 19: Betweenness from Ultrametric](/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-19-betweenness-from-ultrametric/)**
-- **[Chapter 20: Congruence from Canonical Distance](/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-20-congruence-from-canonical-distance/)**
-- **[Chapter 21: Pasch and the Parallel Postulate](/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-21-pasch-and-the-parallel-postulate/)**
-- **[Chapter 22: Wave-Type Causal Structure](/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/)**
-- **[Chapter 23: Orthodox vs.\ τ Denotation Bridge](/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/)**
+- **[Chapter 19: Betweenness from Ultrametric]({{ '/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-19-betweenness-from-ultrametric/' | relative_url }})**
+- **[Chapter 20: Congruence from Canonical Distance]({{ '/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-20-congruence-from-canonical-distance/' | relative_url }})**
+- **[Chapter 21: Pasch and the Parallel Postulate]({{ '/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-21-pasch-and-the-parallel-postulate/' | relative_url }})**
+- **[Chapter 22: Wave-Type Causal Structure]({{ '/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/' | relative_url }})**
+- **[Chapter 23: Orthodox vs.\ τ Denotation Bridge]({{ '/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-23-orthodox-vs-tau-denotation-bridge/' | relative_url }})**

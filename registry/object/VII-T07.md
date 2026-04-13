@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T07 — Gödel Avoidance Theorem
 permalink: /registry/object/VII.T07/
 registry_id: VII.T07

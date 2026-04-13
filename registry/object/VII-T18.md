@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T18 — Ontology-Epistemology Collapse
 permalink: /registry/object/VII.T18/
 registry_id: VII.T18

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R15 — Sessile = Pure Source
 permalink: /registry/object/VI.R15/
 registry_id: VI.R15

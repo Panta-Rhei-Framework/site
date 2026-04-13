@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D34 — Planck Constant
 permalink: /registry/object/IV.D34/
 registry_id: IV.D34

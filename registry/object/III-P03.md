@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P03 — E₁ Physical Preview
 permalink: /registry/object/III.P03/
 registry_id: III.P03

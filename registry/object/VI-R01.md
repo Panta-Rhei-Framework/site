@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R01 — Classical Definitions Fail
 permalink: /registry/object/VI.R01/
 registry_id: VI.R01

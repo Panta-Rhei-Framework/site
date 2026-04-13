@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D02 — Millennium-Problem Gluing Table
 permalink: /registry/object/III.D02/
 registry_id: III.D02

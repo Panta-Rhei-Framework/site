@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P30 — Sector Instantiation Lemma
 permalink: /registry/object/III.P30/
 registry_id: III.P30

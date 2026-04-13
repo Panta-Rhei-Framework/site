@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R22 — Architecture as Spatial Aesthetics
 permalink: /registry/object/VII.R22/
 registry_id: VII.R22

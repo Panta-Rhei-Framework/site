@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R17 — Mycelial Network Topology
 permalink: /registry/object/VI.R17/
 registry_id: VI.R17

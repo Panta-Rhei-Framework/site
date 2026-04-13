@@ -40,19 +40,19 @@ Religion shapes spheres through the sacred-profane distinction; rituals glue ind
 communities.
 Together with Part VII, the practical sector $S_P$ covers what classical philosophy calls
 ethics and political philosophy—the two domains governed by the register question
-``what should I do?''
+“what should I do?”
 
 ## Chapters
 
-- **[Chapter 94: Objects with Dignity and Worlds with Structure](/publications/books/book-vii/part-08-categorical-societies/chapter-94-objects-with-dignity-and-worlds-with-structure/)**
-- **[Chapter 95: Spheres, Bubbles, and Foams: Sloterdijk](/publications/books/book-vii/part-08-categorical-societies/chapter-95-spheres-bubbles-and-foams-sloterdijk/)**
-- **[Chapter 96: Rural Worlds and Dunbar Limits](/publications/books/book-vii/part-08-categorical-societies/chapter-96-rural-worlds-and-dunbar-limits/)**
-- **[Chapter 97: Cities as Connection Regulators](/publications/books/book-vii/part-08-categorical-societies/chapter-97-cities-as-connection-regulators/)**
-- **[Chapter 98: Architecture as Cultural Mirroring](/publications/books/book-vii/part-08-categorical-societies/chapter-98-architecture-as-cultural-mirroring/)**
-- **[Chapter 99: Generations, Lineages, and Drift](/publications/books/book-vii/part-08-categorical-societies/chapter-99-generations-lineages-and-drift/)**
-- **[Chapter 100: Capital Networks and World-Interior](/publications/books/book-vii/part-08-categorical-societies/chapter-100-capital-networks-and-world-interior/)**
-- **[Chapter 101: Overload, Fragmentation, and Schizophrenia](/publications/books/book-vii/part-08-categorical-societies/chapter-101-overload-fragmentation-and-schizophrenia/)**
-- **[Chapter 102: From Collective to Individual](/publications/books/book-vii/part-08-categorical-societies/chapter-102-from-collective-to-individual/)**
-- **[Chapter 103: Nine Global Spheres](/publications/books/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/)**
-- **[Chapter 104: Political Philosophy in τ](/publications/books/book-vii/part-08-categorical-societies/chapter-104-political-philosophy-in-tau/)**
-- **[Chapter 105: Religion and the Sacred](/publications/books/book-vii/part-08-categorical-societies/chapter-105-religion-and-the-sacred/)**
+- **[Chapter 94: Objects with Dignity and Worlds with Structure]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-94-objects-with-dignity-and-worlds-with-structure/' | relative_url }})**
+- **[Chapter 95: Spheres, Bubbles, and Foams: Sloterdijk]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-95-spheres-bubbles-and-foams-sloterdijk/' | relative_url }})**
+- **[Chapter 96: Rural Worlds and Dunbar Limits]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-96-rural-worlds-and-dunbar-limits/' | relative_url }})**
+- **[Chapter 97: Cities as Connection Regulators]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-97-cities-as-connection-regulators/' | relative_url }})**
+- **[Chapter 98: Architecture as Cultural Mirroring]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-98-architecture-as-cultural-mirroring/' | relative_url }})**
+- **[Chapter 99: Generations, Lineages, and Drift]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-99-generations-lineages-and-drift/' | relative_url }})**
+- **[Chapter 100: Capital Networks and World-Interior]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-100-capital-networks-and-world-interior/' | relative_url }})**
+- **[Chapter 101: Overload, Fragmentation, and Schizophrenia]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-101-overload-fragmentation-and-schizophrenia/' | relative_url }})**
+- **[Chapter 102: From Collective to Individual]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-102-from-collective-to-individual/' | relative_url }})**
+- **[Chapter 103: Nine Global Spheres]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-103-nine-global-spheres/' | relative_url }})**
+- **[Chapter 104: Political Philosophy in τ]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-104-political-philosophy-in-tau/' | relative_url }})**
+- **[Chapter 105: Religion and the Sacred]({{ '/publications/books/book-vii/part-08-categorical-societies/chapter-105-religion-and-the-sacred/' | relative_url }})**

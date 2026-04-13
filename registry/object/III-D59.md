@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D59 — τ-Rational Point
 permalink: /registry/object/III.D59/
 registry_id: III.D59

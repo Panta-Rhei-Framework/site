@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-con
 prev_chapter_title: "Chapter 32: Strong Coupling and Quarks"
 next_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-34-the-sector-atlas/"
 next_chapter_title: "Chapter 34: The Sector Atlas"
-summary_short: "The cosmological constant problem—often called the ``worst prediction in physics''—is the $10^{120}$-fold discrepancy between the quantum field theory…"
+summary_short: "The cosmological constant problem—often called the “worst prediction in physics”—is the $10^{120}$-fold discrepancy between the quantum field theory…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-The cosmological constant problem—often called the ``worst prediction in
-physics''—is the $10^{120}$-fold discrepancy between the quantum field
+The cosmological constant problem—often called the “worst prediction in
+physics”—is the $10^{120}$-fold discrepancy between the quantum field
 theory prediction for vacuum energy and the observed value. In Category $τ$,
 there is no vacuum catastrophe because vacuum energy is **structural**,
 not summed over modes. The defect functional on $τ^3$ gives finite vacuum
-energy by construction. The ``catastrophe'' arose from treating QFT as
+energy by construction. The “catastrophe” arose from treating QFT as
 fundamental rather than as a readout approximation of the $τ^3$ geometry.

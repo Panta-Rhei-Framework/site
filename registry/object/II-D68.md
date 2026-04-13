@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D68 — Structural Sign Classification
 permalink: /registry/object/II.D68/
 registry_id: II.D68

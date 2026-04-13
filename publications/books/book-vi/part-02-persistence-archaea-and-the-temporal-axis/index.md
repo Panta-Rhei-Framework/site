@@ -40,8 +40,8 @@ shadows the Parity Bridge at molecular scale.
 
 ## Chapters
 
-- **[Chapter 12: The Persistence Sector: Temporal Stability and Homeostasis](/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-12-the-persistence-sector-temporal-stability-and-homeostasis/)**
-- **[Chapter 13: Archaea: Life at the Extremes of Deep Time](/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-13-archaea-life-at-the-extremes-of-deep-time/)**
-- **[Chapter 14: Thermodynamic Necessity and the Origin of Life](/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-14-thermodynamic-necessity-and-the-origin-of-life/)**
-- **[Chapter 15: Circadian Rhythms: Poincar\'e Orbits on the Temporal Circle](/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-15-circadian-rhythms-poincar-e-orbits-on-the-temporal-circle/)**
-- **[Chapter 16: Homochirality: The Parity Bridge Made Visible](/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-16-homochirality-the-parity-bridge-made-visible/)**
+- **[Chapter 12: The Persistence Sector: Temporal Stability and Homeostasis]({{ '/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-12-the-persistence-sector-temporal-stability-and-homeostasis/' | relative_url }})**
+- **[Chapter 13: Archaea: Life at the Extremes of Deep Time]({{ '/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-13-archaea-life-at-the-extremes-of-deep-time/' | relative_url }})**
+- **[Chapter 14: Thermodynamic Necessity and the Origin of Life]({{ '/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-14-thermodynamic-necessity-and-the-origin-of-life/' | relative_url }})**
+- **[Chapter 15: Circadian Rhythms: Poincar\'e Orbits on the Temporal Circle]({{ '/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-15-circadian-rhythms-poincar-e-orbits-on-the-temporal-circle/' | relative_url }})**
+- **[Chapter 16: Homochirality: The Parity Bridge Made Visible]({{ '/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-16-homochirality-the-parity-bridge-made-visible/' | relative_url }})**

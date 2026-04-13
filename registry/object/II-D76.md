@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D76 — Dimensional Rigidity
 permalink: /registry/object/II.D76/
 registry_id: II.D76

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P17 — Trolley Resolution
 permalink: /registry/object/VII.P17/
 registry_id: VII.P17

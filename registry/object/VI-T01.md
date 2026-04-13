@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T01 — Parity Bridge Theorem
 permalink: /registry/object/VI.T01/
 registry_id: VI.T01

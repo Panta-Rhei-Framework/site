@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D05 — Base tau^1
 permalink: /registry/object/II.D05/
 registry_id: II.D05

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P51 — alpha_em versus iota_tau
 permalink: /registry/object/IV.P51/
 registry_id: IV.P51

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D14 — Closure Sub-Class (Loop_rec)
 permalink: /registry/object/VI.D14/
 registry_id: VI.D14

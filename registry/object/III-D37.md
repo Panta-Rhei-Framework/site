@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D37 — Clopen Cylinder Domain
 permalink: /registry/object/III.D37/
 registry_id: III.D37

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P13 — Quantum Coherence in FMO Complex
 permalink: /registry/object/VI.P13/
 registry_id: VI.P13

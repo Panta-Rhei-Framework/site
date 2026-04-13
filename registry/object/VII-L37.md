@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L37 — Social Sheaf Construction
 permalink: /registry/object/VII.L37/
 registry_id: VII.L37

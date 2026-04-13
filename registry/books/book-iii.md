@@ -1,5 +1,6 @@
 ---
 layout: registry-book
+lane: registry
 title: 'Registry — Book III: Categorical Spectrum'
 permalink: /registry/books/book-iii/
 book: III

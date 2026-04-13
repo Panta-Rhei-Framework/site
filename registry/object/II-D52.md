@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D52 — Decode Map
 permalink: /registry/object/II.D52/
 registry_id: II.D52

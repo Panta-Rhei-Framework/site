@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D63 — Carrier Ladder
 permalink: /registry/object/VI.D63/
 registry_id: VI.D63

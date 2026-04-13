@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P15 — Central Dogma as Morphism Composition
 permalink: /registry/object/VI.P15/
 registry_id: VI.P15

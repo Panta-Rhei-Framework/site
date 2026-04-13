@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R26 — Lorentz Force as Geometric Deviation
 permalink: /registry/object/IV.R26/
 registry_id: IV.R26

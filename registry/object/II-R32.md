@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: 'II.R32 — Honest Scope: Ladder vs. SCV'
 permalink: /registry/object/II.R32/
 registry_id: II.R32

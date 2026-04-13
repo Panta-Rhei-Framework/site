@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D68 — Address Uncertainty
 permalink: /registry/object/IV.D68/
 registry_id: IV.D68

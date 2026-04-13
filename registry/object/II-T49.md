@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T49 — Geometric Bi-Square Theorem
 permalink: /registry/object/II.T49/
 registry_id: II.T49

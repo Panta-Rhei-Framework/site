@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P45 — Twin Admissibility Fraction
 permalink: /registry/object/III.P45/
 registry_id: III.P45

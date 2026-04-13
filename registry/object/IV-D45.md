@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D45 — Holonomy Correction
 permalink: /registry/object/IV.D45/
 registry_id: IV.D45

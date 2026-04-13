@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T23 — No-Joint-Minimum Theorem
 permalink: /registry/object/IV.T23/
 registry_id: IV.T23

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D72 — The Rewiring Table
 permalink: /registry/object/II.D72/
 registry_id: II.D72

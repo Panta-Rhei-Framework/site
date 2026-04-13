@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D39 — Defect Functional Δ
 permalink: /registry/object/III.D39/
 registry_id: III.D39

@@ -118,12 +118,12 @@ for proof theory at large.
 
 ## Chapters
 
-- **[Chapter 71: The Meta-Logical Toolkit](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-71-the-meta-logical-toolkit/)**
-- **[Chapter 72: Diagonal Discipline as Linear Logic](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-72-diagonal-discipline-as-linear-logic/)**
-- **[Chapter 73: The TauLib Linearity Audit](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-73-the-taulib-linearity-audit/)**
-- **[Chapter 74: The Self-Hosting Landscape](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-74-the-self-hosting-landscape/)**
-- **[Chapter 75: Star-Autonomous Categories and the Diagonal Barrier](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-75-star-autonomous-categories-and-the-diagonal-barrier/)**
-- **[Chapter 76: The Enrichment Frontier](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/)**
-- **[Chapter 77: Diagonal Resonance and Identity Slippage](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-77-diagonal-resonance-and-identity-slippage/)**
-- **[Chapter 78: Ontic Identity Invariance](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-78-ontic-identity-invariance/)**
-- **[Chapter 79: The Identity-Faithful Reception Criterion](/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/)**
+- **[Chapter 71: The Meta-Logical Toolkit]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-71-the-meta-logical-toolkit/' | relative_url }})**
+- **[Chapter 72: Diagonal Discipline as Linear Logic]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-72-diagonal-discipline-as-linear-logic/' | relative_url }})**
+- **[Chapter 73: The TauLib Linearity Audit]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-73-the-taulib-linearity-audit/' | relative_url }})**
+- **[Chapter 74: The Self-Hosting Landscape]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-74-the-self-hosting-landscape/' | relative_url }})**
+- **[Chapter 75: Star-Autonomous Categories and the Diagonal Barrier]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-75-star-autonomous-categories-and-the-diagonal-barrier/' | relative_url }})**
+- **[Chapter 76: The Enrichment Frontier]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/' | relative_url }})**
+- **[Chapter 77: Diagonal Resonance and Identity Slippage]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-77-diagonal-resonance-and-identity-slippage/' | relative_url }})**
+- **[Chapter 78: Ontic Identity Invariance]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-78-ontic-identity-invariance/' | relative_url }})**
+- **[Chapter 79: The Identity-Faithful Reception Criterion]({{ '/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-79-the-identity-faithful-reception-criterion/' | relative_url }})**

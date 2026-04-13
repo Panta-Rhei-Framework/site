@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P76 — Goldstone Modes at Crossing Point
 permalink: /registry/object/IV.P76/
 registry_id: IV.P76

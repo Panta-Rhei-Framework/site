@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Regional Adaptation Planning and Sectoral Impact Intelligence
 permalink: /impact/papers/regional-adaptation-sectoral-impact-intelligence/
 paper_id: companion-climate-paper-3

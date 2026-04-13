@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T21 — Turing Patterns as Hodge Eigenmode Instantiations
 permalink: /registry/object/VI.T21/
 registry_id: VI.T21

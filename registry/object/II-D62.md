@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D62 — Tau-Manifold
 permalink: /registry/object/II.D62/
 registry_id: II.D62

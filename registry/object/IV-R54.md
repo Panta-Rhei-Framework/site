@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R54 — Labeling convention
 permalink: /registry/object/IV.R54/
 registry_id: IV.R54

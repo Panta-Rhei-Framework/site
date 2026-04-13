@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T53 — Sleep Consolidates Levels 1-2
 permalink: /registry/object/VI.T53/
 registry_id: VI.T53

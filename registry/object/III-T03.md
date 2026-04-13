@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T03 — Saturation at E₃
 permalink: /registry/object/III.T03/
 registry_id: III.T03

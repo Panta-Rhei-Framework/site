@@ -51,6 +51,6 @@ as many layers of the framework.
 The neutron lifetime is the **crown of the cascade**:
 the most complex readout from the single input $ι_τ$.
 This chapter derives $τ_n$ within $τ^3$,
-confronts the ``bottle vs. beam'' experimental discrepancy,
+confronts the “bottle vs. beam” experimental discrepancy,
 and explains why $τ_n$ closes the calibration programme
 by connecting geometry to a macroscopic timescale.

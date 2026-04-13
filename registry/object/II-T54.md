@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T54 — Tower Coherence
 permalink: /registry/object/II.T54/
 registry_id: II.T54

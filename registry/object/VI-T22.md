@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T22 — Codon Degeneracy as Error Correction
 permalink: /registry/object/VI.T22/
 registry_id: VI.T22

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R51 — E₃–Consciousness Consistency
 permalink: /registry/object/VII.R51/
 registry_id: VII.R51

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D52 — Observable Transition
 permalink: /registry/object/III.D52/
 registry_id: III.D52

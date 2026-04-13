@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R69 — The role of NF Discreteness
 permalink: /registry/object/IV.R69/
 registry_id: IV.R69

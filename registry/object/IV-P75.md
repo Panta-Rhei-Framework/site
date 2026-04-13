@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P75 — Higgs Mass Readout
 permalink: /registry/object/IV.P75/
 registry_id: IV.P75

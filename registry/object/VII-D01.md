@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D01 — Empirical Register
 permalink: /registry/object/VII.D01/
 registry_id: VII.D01

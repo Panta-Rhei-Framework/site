@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D27 — Geometric-Topological Unification
 permalink: /registry/object/II.D27/
 registry_id: II.D27

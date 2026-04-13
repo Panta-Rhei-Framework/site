@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T26 — τ-Gap Meta-Theorem
 permalink: /registry/object/III.T26/
 registry_id: III.T26

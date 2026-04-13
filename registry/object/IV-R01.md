@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R01 — Holonomy vs Spectral
 permalink: /registry/object/IV.R01/
 registry_id: IV.R01

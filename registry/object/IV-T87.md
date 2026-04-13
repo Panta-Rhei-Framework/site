@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T87 — Fine structure from holonomy corrections
 permalink: /registry/object/IV.T87/
 registry_id: IV.T87

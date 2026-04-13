@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R57 — Connection to III.D43
 permalink: /registry/object/IV.R57/
 registry_id: IV.R57

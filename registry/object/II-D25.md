@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D25 — Level Circle
 permalink: /registry/object/II.D25/
 registry_id: II.D25

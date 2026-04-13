@@ -39,8 +39,8 @@ biological scale; the genetic code carries BSD motivic structure. The central do
 
 ## Chapters
 
-- **[Chapter 23: The Source Sector: Structure Generation](/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/)**
-- **[Chapter 24: Photosynthesis: Quantum Coherence and Carbon Fixation](/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-24-photosynthesis-quantum-coherence-and-carbon-fixation/)**
-- **[Chapter 25: Plants: The Sessile Engines](/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-25-plants-the-sessile-engines/)**
-- **[Chapter 26: Morphogenesis: Hodge Gradients and Pattern Formation](/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-26-morphogenesis-hodge-gradients-and-pattern-formation/)**
-- **[Chapter 27: The Genetic Code: BSD Structure and Replication](/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-27-the-genetic-code-bsd-structure-and-replication/)**
+- **[Chapter 23: The Source Sector: Structure Generation]({{ '/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/' | relative_url }})**
+- **[Chapter 24: Photosynthesis: Quantum Coherence and Carbon Fixation]({{ '/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-24-photosynthesis-quantum-coherence-and-carbon-fixation/' | relative_url }})**
+- **[Chapter 25: Plants: The Sessile Engines]({{ '/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-25-plants-the-sessile-engines/' | relative_url }})**
+- **[Chapter 26: Morphogenesis: Hodge Gradients and Pattern Formation]({{ '/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-26-morphogenesis-hodge-gradients-and-pattern-formation/' | relative_url }})**
+- **[Chapter 27: The Genetic Code: BSD Structure and Replication]({{ '/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-27-the-genetic-code-bsd-structure-and-replication/' | relative_url }})**

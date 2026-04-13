@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D10 — Ladder Checker
 permalink: /registry/object/III.D10/
 registry_id: III.D10

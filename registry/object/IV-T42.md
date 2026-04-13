@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T42 — Homogeneous Maxwell Equations
 permalink: /registry/object/IV.T42/
 registry_id: IV.T42

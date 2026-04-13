@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T13 — Response = SelfDesc Adjustment
 permalink: /registry/object/VI.T13/
 registry_id: VI.T13

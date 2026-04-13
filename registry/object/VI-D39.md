@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D39 — Hodge Gradient at Biological Scale
 permalink: /registry/object/VI.D39/
 registry_id: VI.D39

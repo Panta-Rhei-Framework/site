@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R31 — Current AI systems
 permalink: /registry/object/VI.R31/
 registry_id: VI.R31

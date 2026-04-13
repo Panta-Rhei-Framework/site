@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T13 — Torus Degeneration Theorem
 permalink: /registry/object/II.T13/
 registry_id: II.T13

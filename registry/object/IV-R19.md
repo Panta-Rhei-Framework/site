@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R19 — Measurement Problem Dissolves
 permalink: /registry/object/IV.R19/
 registry_id: IV.R19

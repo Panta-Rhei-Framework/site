@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T50 — Global Cartesian Gluing Theorem
 permalink: /registry/object/III.T50/
 registry_id: III.T50

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T47 — Simultaneous Rung Theorem
 permalink: /registry/object/II.T47/
 registry_id: II.T47

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D36 — Vacuum Permittivity
 permalink: /registry/object/IV.D36/
 registry_id: IV.D36

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D10 — Carrier Type
 permalink: /registry/object/IV.D10/
 registry_id: IV.D10

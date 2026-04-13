@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D09 — Cylinder Domain
 permalink: /registry/object/II.D09/
 registry_id: II.D09

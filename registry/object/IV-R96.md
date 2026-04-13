@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R96 — Self-interaction and confinement
 permalink: /registry/object/IV.R96/
 registry_id: IV.R96

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T44 — Attractor Existence
 permalink: /registry/object/VI.T44/
 registry_id: VI.T44

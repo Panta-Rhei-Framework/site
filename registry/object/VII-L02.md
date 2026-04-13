@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L02 — Shadow Soundness Lemma
 permalink: /registry/object/VII.L02/
 registry_id: VII.L02

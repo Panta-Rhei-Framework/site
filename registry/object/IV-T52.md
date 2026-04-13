@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T52 — Weak Gauge Group
 permalink: /registry/object/IV.T52/
 registry_id: IV.T52

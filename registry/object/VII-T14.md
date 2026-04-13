@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T14 — Inevitability Convergence
 permalink: /registry/object/VII.T14/
 registry_id: VII.T14

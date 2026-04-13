@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T17 — Self-Adjointness of H_L
 permalink: /registry/object/III.T17/
 registry_id: III.T17

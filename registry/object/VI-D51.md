@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D51 — Cellular Distinction Predicate
 permalink: /registry/object/VI.D51/
 registry_id: VI.D51

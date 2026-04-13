@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T06 — τ-Collapse (5→1)
 permalink: /registry/object/IV.T06/
 registry_id: IV.T06

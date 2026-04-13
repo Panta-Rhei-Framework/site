@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D26 — SI Reference Table
 permalink: /registry/object/IV.D26/
 registry_id: IV.D26

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D80 — Power as Morphism Structure
 permalink: /registry/object/VII.D80/
 registry_id: VII.D80

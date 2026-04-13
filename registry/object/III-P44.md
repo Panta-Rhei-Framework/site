@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P44 — Goldbach Gap Characterization
 permalink: /registry/object/III.P44/
 registry_id: III.P44

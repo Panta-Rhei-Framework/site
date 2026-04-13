@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D22 — NoSelfDesc
 permalink: /registry/object/VI.D22/
 registry_id: VI.D22

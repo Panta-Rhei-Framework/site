@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D84 — Electric Charge
 permalink: /registry/object/IV.D84/
 registry_id: IV.D84

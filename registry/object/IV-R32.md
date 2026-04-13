@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R32 — Structural Not Energy-Scale Obstruction
 permalink: /registry/object/IV.R32/
 registry_id: IV.R32

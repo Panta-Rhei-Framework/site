@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D46 — Cylinder Generator
 permalink: /registry/object/II.D46/
 registry_id: II.D46

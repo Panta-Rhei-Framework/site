@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T03 — Sector Lifts σ-Equivariant
 permalink: /registry/object/IV.T03/
 registry_id: IV.T03

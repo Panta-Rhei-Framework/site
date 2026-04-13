@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T28 — B/C Asymmetry Implies Time Arrow
 permalink: /registry/object/II.T28/
 registry_id: II.T28

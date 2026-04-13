@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D82 — Photon Mode
 permalink: /registry/object/IV.D82/
 registry_id: IV.D82

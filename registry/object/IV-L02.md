@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L02 — Holonomy Normalization
 permalink: /registry/object/IV.L02/
 registry_id: IV.L02

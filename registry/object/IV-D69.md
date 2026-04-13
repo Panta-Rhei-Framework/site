@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D69 — τ-Normal Form for Joint Address
 permalink: /registry/object/IV.D69/
 registry_id: IV.D69

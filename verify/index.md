@@ -58,15 +58,15 @@ The Panta Rhei Research Program distinguishes sharply between what can be formal
 | **Guided tours** | 8 interactive walkthroughs | `Tour/*.lean` in TauLib |
 | **Hinge companions** | 49 structural hinges mapped to Lean | `Tour/GuidedTour/Book*.lean` in TauLib |
 | **Falsification pack** | 220+ quantitative predictions | Book V, Chapter 56 |
-| **Registry** | 4,547 objects with dependency graph | [Registry lane](/registry/) |
+| **Registry** | 4,547 objects with dependency graph | [Registry lane]({{ '/registry/' | relative_url }}) |
 
 ## The Right First Question
 
 The right first question is not "should I already believe this?" The right first question is: **"is this a serious research program that has earned structured engagement?"**
 
 To answer that, start here:
-1. **Read** the [About the Research](/research-program/about/) overview
-2. **Browse** the [Framework](/framework/about/) conceptual staircase
-3. **Inspect** the [Registry](/registry/) for any theorem that interests you
+1. **Read** the [About the Research]({{ '/research-program/about/' | relative_url }}) overview
+2. **Browse** the [Framework]({{ '/framework/about/' | relative_url }}) conceptual staircase
+3. **Inspect** the [Registry]({{ '/registry/' | relative_url }}) for any theorem that interests you
 4. **Run** `lake build` on TauLib to verify internal consistency
-5. **Challenge** the [Results](/results/) with your domain expertise
+5. **Challenge** the [Results]({{ '/results/' | relative_url }}) with your domain expertise

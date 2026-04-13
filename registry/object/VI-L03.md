@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L03 — Loop Factorization
 permalink: /registry/object/VI.L03/
 registry_id: VI.L03

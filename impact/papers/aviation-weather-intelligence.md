@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau-Grade Aviation Weather Intelligence for Mainstream Aviation
 permalink: /impact/papers/aviation-weather-intelligence/
 paper_id: companion-weather-paper-1

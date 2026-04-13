@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T22 — Phase Transport Monotonicity
 permalink: /registry/object/IV.T22/
 registry_id: IV.T22

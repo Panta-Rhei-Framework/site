@@ -20,12 +20,12 @@ summary_short: "Chapter [ch:internal-randomness] established that randomness in 
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
-canonical_part_title: "Part VI: Categorical Logic \& Inference"
+canonical_part_title: "Part VI: Categorical Logic & Inference"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part VI: Categorical Logic \& Inference"
+  - title: "Part VI: Categorical Logic & Inference"
     url: /publications/books/book-vii/part-06-categorical-logic-inference/
   - title: Registry
     url: /registry/books/book-vii/
@@ -42,7 +42,7 @@ Chapter [ch:internal-randomness] established that randomness in
 $τ$ arises from internal structural complexity. This chapter draws
 the complementary conclusion: there is no genuinely external source of
 randomness. The kernel is terminal; every admissible construction
-factors through it; there is no ``outside'' from which random input
+factors through it; there is no “outside” from which random input
 could be injected. What appears to be external randomness is always
 internal complexity that the observer cannot resolve. The classical
 debate between determinism and indeterminism is thereby dissolved: the

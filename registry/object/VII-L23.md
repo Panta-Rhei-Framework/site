@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L23 — LT Axiom Verification
 permalink: /registry/object/VII.L23/
 registry_id: VII.L23

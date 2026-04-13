@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D83 — Kleene Fixed Point
 permalink: /registry/object/III.D83/
 registry_id: III.D83

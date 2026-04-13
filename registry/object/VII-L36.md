@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L36 — Recognition Topology Generation
 permalink: /registry/object/VII.L36/
 registry_id: VII.L36

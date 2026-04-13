@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Solar-Synchronized Flexible Demand and Grid Logistics
 permalink: /impact/papers/solar-synchronized-flexible-demand-grid-logistics/
 paper_id: companion-solar-paper-5

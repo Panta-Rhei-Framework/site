@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Solar
 permalink: /impact/portfolio/solar/
 portfolio_id: impact-solar
@@ -27,9 +28,9 @@ Solar PV reached 2,000 TWh and 7% of global electricity in 2024, with over 2.2 T
 
 ## Companion Papers (5)
 
-- [Tau-Grade Solar Forecasting for Bulk-Grid Operations and Market Dispatch](/impact/papers/bulk-grid-solar-forecasting/)
-- [τ for Distributed PV Visibility and Distribution-Grid Orchestration](/impact/papers/distributed-pv-visibility-distribution-grid-orchestration/)
-- [τ for PV Asset Protection, Storm-Hardening, and Long-Term System Planning](/impact/papers/pv-asset-protection-storm-hardening-long-term-planning/)
-- [τ for Solar-Plus-Storage, Microgrids, and Critical-Infrastructure Resilience](/impact/papers/solar-storage-microgrids-critical-infrastructure-resilience/)
-- [τ for Solar-Synchronized Flexible Demand and Grid Logistics](/impact/papers/solar-synchronized-flexible-demand-grid-logistics/)
+- [Tau-Grade Solar Forecasting for Bulk-Grid Operations and Market Dispatch]({{ '/impact/papers/bulk-grid-solar-forecasting/' | relative_url }})
+- [τ for Distributed PV Visibility and Distribution-Grid Orchestration]({{ '/impact/papers/distributed-pv-visibility-distribution-grid-orchestration/' | relative_url }})
+- [τ for PV Asset Protection, Storm-Hardening, and Long-Term System Planning]({{ '/impact/papers/pv-asset-protection-storm-hardening-long-term-planning/' | relative_url }})
+- [τ for Solar-Plus-Storage, Microgrids, and Critical-Infrastructure Resilience]({{ '/impact/papers/solar-storage-microgrids-critical-infrastructure-resilience/' | relative_url }})
+- [τ for Solar-Synchronized Flexible Demand and Grid Logistics]({{ '/impact/papers/solar-synchronized-flexible-demand-grid-logistics/' | relative_url }})
 

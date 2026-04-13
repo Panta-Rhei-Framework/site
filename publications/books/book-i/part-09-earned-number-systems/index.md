@@ -73,7 +73,7 @@ for all subsequent enrichment layers.
 
 ## Chapters
 
-- **[Chapter 36: The Constructive Reals: Ordered Field and Completeness](/publications/books/book-i/part-09-earned-number-systems/chapter-36-the-constructive-reals-ordered-field-and-completeness/)**
-- **[Chapter 37: The Elliptic Complex Field](/publications/books/book-i/part-09-earned-number-systems/chapter-37-the-elliptic-complex-field/)**
-- **[Chapter 38: The Elliptic Quaternions](/publications/books/book-i/part-09-earned-number-systems/chapter-38-the-elliptic-quaternions/)**
-- **[Chapter 39: Cyclotomic Fields and Roots of Unity](/publications/books/book-i/part-09-earned-number-systems/chapter-39-cyclotomic-fields-and-roots-of-unity/)**
+- **[Chapter 36: The Constructive Reals: Ordered Field and Completeness]({{ '/publications/books/book-i/part-09-earned-number-systems/chapter-36-the-constructive-reals-ordered-field-and-completeness/' | relative_url }})**
+- **[Chapter 37: The Elliptic Complex Field]({{ '/publications/books/book-i/part-09-earned-number-systems/chapter-37-the-elliptic-complex-field/' | relative_url }})**
+- **[Chapter 38: The Elliptic Quaternions]({{ '/publications/books/book-i/part-09-earned-number-systems/chapter-38-the-elliptic-quaternions/' | relative_url }})**
+- **[Chapter 39: Cyclotomic Fields and Roots of Unity]({{ '/publications/books/book-i/part-09-earned-number-systems/chapter-39-cyclotomic-fields-and-roots-of-unity/' | relative_url }})**

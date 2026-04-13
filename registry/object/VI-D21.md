@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D21 — NoDist
 permalink: /registry/object/VI.D21/
 registry_id: VI.D21

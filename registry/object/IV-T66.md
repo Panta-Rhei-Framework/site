@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T66 — Electroweak Prediction Table
 permalink: /registry/object/IV.T66/
 registry_id: IV.T66

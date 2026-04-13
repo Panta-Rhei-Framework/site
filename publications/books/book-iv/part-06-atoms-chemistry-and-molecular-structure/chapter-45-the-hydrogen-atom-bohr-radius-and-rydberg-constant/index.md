@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and
 prev_chapter_title: "Chapter 44: The Particle Spectrum Complete"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-46-the-hydrogen-spectrum/"
 next_chapter_title: "Chapter 46: The Hydrogen Spectrum"
-summary_short: "Hydrogen is the simplest atom and the first co-rotor system built from the nuclear modes of Part V. In Category $τ$, the hydrogen atom is not ``a proton plus…"
+summary_short: "Hydrogen is the simplest atom and the first co-rotor system built from the nuclear modes of Part V. In Category $τ$, the hydrogen atom is not “a proton plus…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -40,7 +40,7 @@ right_rail:
 
 Hydrogen is the simplest atom and the first co-rotor system built
 from the nuclear modes of Part V. In Category $τ$, the hydrogen
-atom is not ``a proton plus an electron'': it is a single torus
+atom is not “a proton plus an electron”: it is a single torus
 $τ^2$ carrying two coupled bulk modes—proton core and electron
 orbit. This chapter derives the ground state, the Bohr radius
 $a_0$, the Rydberg constant $R_∞$, and the complete

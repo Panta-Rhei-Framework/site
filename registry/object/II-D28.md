@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D28 — Geometric Pi
 permalink: /registry/object/II.D28/
 registry_id: II.D28

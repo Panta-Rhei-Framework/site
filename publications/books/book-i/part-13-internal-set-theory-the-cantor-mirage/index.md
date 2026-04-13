@@ -1,6 +1,6 @@
 ---
 layout: publication-part
-title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+title: "Part XIII: Internal Set Theory & The Cantor Mirage"
 permalink: /publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/
 lane: publications
 publication_type: part
@@ -78,11 +78,11 @@ replaces the cardinal hierarchy.
 
 ## Chapters
 
-- **[Chapter 50: Membership from Divisibility](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-50-membership-from-divisibility/)**
-- **[Chapter 51: Set-Theoretic Operations](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-51-set-theoretic-operations/)**
-- **[Chapter 52: The Bounded Powerset](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-52-the-bounded-powerset/)**
-- **[Chapter 53: The τ](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-53-the-tau/)**
-- **[Chapter 54: The Orbit-Set Correspondence](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-54-the-orbit-set-correspondence/)**
-- **[Chapter 55: Countability Is Not a Limitation](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-55-countability-is-not-a-limitation/)**
-- **[Chapter 56: The Three Failures of Cantor's Diagonal](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-56-the-three-failures-of-cantor-s-diagonal/)**
-- **[Chapter 57: Approaches to Infinity](/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-57-approaches-to-infinity/)**
+- **[Chapter 50: Membership from Divisibility]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-50-membership-from-divisibility/' | relative_url }})**
+- **[Chapter 51: Set-Theoretic Operations]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-51-set-theoretic-operations/' | relative_url }})**
+- **[Chapter 52: The Bounded Powerset]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-52-the-bounded-powerset/' | relative_url }})**
+- **[Chapter 53: The τ]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-53-the-tau/' | relative_url }})**
+- **[Chapter 54: The Orbit-Set Correspondence]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-54-the-orbit-set-correspondence/' | relative_url }})**
+- **[Chapter 55: Countability Is Not a Limitation]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-55-countability-is-not-a-limitation/' | relative_url }})**
+- **[Chapter 56: The Three Failures of Cantor's Diagonal]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-56-the-three-failures-of-cantor-s-diagonal/' | relative_url }})**
+- **[Chapter 57: Approaches to Infinity]({{ '/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-57-approaches-to-infinity/' | relative_url }})**

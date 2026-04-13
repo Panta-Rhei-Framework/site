@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T88 — Period length sequence
 permalink: /registry/object/IV.T88/
 registry_id: IV.T88

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P01 — Lemniscate as Coordinate Limit
 permalink: /registry/object/II.P01/
 registry_id: II.P01

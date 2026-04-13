@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T36 — Tau-Yoneda Embedding
 permalink: /registry/object/II.T36/
 registry_id: II.T36

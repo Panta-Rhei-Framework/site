@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D64 — Local Langlands Instance
 permalink: /registry/object/III.D64/
 registry_id: III.D64

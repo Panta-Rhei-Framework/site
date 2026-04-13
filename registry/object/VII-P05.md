@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P05 — Boundary Archetype Minimality
 permalink: /registry/object/VII.P05/
 registry_id: VII.P05

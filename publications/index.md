@@ -32,7 +32,7 @@ The Panta Rhei Research Program publishes through complementary surfaces. Each s
 
 ## Publication Families
 
-### [The Seven Books](/publications/books/)
+### [The Seven Books]({{ '/publications/books/' | relative_url }})
 
 The canonical monograph series — organized in proof-order, 79 parts, 535 chapters, ~3,430 pages. Each book earns its content from what came before.
 
@@ -40,19 +40,19 @@ The canonical monograph series — organized in proof-order, 79 parts, 535 chapt
 - **Book {{ book.roman }}**: [{{ book.title }}]({{ book.url | relative_url }}) — *{{ book.subtitle }}* ({{ book.pages }} pages)
 {% endfor %}
 
-### [Guided Tours](/publications/guided-tours/)
+### [Guided Tours]({{ '/publications/guided-tours/' | relative_url }})
 
 Structural falsification whitepapers (56 pages, 49 hinges), Lean verification companions, and 8 interactive TauLib tours for different audiences.
 
-### [White Papers](/publications/white-papers/)
+### [White Papers]({{ '/publications/white-papers/' | relative_url }})
 
 Technical documents: falsification pack (220+ predictions), Lean verification report, reviewer's dossier, reader's guide, series prospectus, and seminar abstracts.
 
-### [Companion Papers](/publications/companion-papers/)
+### [Companion Papers]({{ '/publications/companion-papers/' | relative_url }})
 
-44 public-good deployment papers across 11 impact portfolios — conditional scenario analyses. Full text available in the [Impact lane](/impact/).
+44 public-good deployment papers across 11 impact portfolios — conditional scenario analyses. Full text available in the [Impact lane]({{ '/impact/' | relative_url }}).
 
-### [Assessment Protocols](/publications/protocols/)
+### [Assessment Protocols]({{ '/publications/protocols/' | relative_url }})
 
 Structured guides helping domain experts evaluate specific claims. Currently in development.
 

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D24 — Entropy Splitting
 permalink: /registry/object/IV.D24/
 registry_id: IV.D24

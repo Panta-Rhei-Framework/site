@@ -64,13 +64,13 @@ The microcosm is complete.
 
 ## Chapters
 
-- **[Chapter 35: Three Generations](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-35-three-generations/)**
-- **[Chapter 36: The Koide Relation and Mass Hierarchies](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-36-the-koide-relation-and-mass-hierarchies/)**
-- **[Chapter 37: Hadrons and Nuclei](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-37-hadrons-and-nuclei/)**
-- **[Chapter 38: The Micro-Donut and Ternary Structure](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-38-the-micro-donut-and-ternary-structure/)**
-- **[Chapter 39: The Alpha Particle](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-39-the-alpha-particle/)**
-- **[Chapter 40: Light Nuclei: Helium to Iron](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-40-light-nuclei-helium-to-iron/)**
-- **[Chapter 41: Heavy Elements and Radioactivity](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-41-heavy-elements-and-radioactivity/)**
-- **[Chapter 42: Stellar Nucleosynthesis](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-42-stellar-nucleosynthesis/)**
-- **[Chapter 43: The Periodic Table](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-43-the-periodic-table/)**
-- **[Chapter 44: The Particle Spectrum Complete](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-44-the-particle-spectrum-complete/)**
+- **[Chapter 35: Three Generations]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-35-three-generations/' | relative_url }})**
+- **[Chapter 36: The Koide Relation and Mass Hierarchies]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-36-the-koide-relation-and-mass-hierarchies/' | relative_url }})**
+- **[Chapter 37: Hadrons and Nuclei]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-37-hadrons-and-nuclei/' | relative_url }})**
+- **[Chapter 38: The Micro-Donut and Ternary Structure]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-38-the-micro-donut-and-ternary-structure/' | relative_url }})**
+- **[Chapter 39: The Alpha Particle]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-39-the-alpha-particle/' | relative_url }})**
+- **[Chapter 40: Light Nuclei: Helium to Iron]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-40-light-nuclei-helium-to-iron/' | relative_url }})**
+- **[Chapter 41: Heavy Elements and Radioactivity]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-41-heavy-elements-and-radioactivity/' | relative_url }})**
+- **[Chapter 42: Stellar Nucleosynthesis]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-42-stellar-nucleosynthesis/' | relative_url }})**
+- **[Chapter 43: The Periodic Table]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-43-the-periodic-table/' | relative_url }})**
+- **[Chapter 44: The Particle Spectrum Complete]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-44-the-particle-spectrum-complete/' | relative_url }})**

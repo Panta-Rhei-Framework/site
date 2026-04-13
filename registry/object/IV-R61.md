@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R61 — Electric charge analogy
 permalink: /registry/object/IV.R61/
 registry_id: IV.R61

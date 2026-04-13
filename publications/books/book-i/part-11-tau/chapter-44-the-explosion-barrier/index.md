@@ -48,7 +48,7 @@ introduced the four truth values
 $T$, $F$, $B$, $N$
 (Definition [def:truth4], I.D21),
 where $B$ represents the
-overdetermined state ``both true and false.''
+overdetermined state “both true and false.”
 The critical question is:
 does $B$ trigger explosion?
 This chapter proves that it does not.

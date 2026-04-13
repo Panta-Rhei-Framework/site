@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R68 — The pattern of maturation
 permalink: /registry/object/IV.R68/
 registry_id: IV.R68

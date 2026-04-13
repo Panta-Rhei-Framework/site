@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L30 — CI Uniqueness Derivation
 permalink: /registry/object/VII.L30/
 registry_id: VII.L30

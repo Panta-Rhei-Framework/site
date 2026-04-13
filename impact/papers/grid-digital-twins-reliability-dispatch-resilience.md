@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau-Grade Grid Digital Twins, Reliability, Dispatch, and Resilience
 permalink: /impact/papers/grid-digital-twins-reliability-dispatch-resilience/
 paper_id: companion-energy-paper-1

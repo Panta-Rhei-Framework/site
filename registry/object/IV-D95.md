@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D95 — Sigma-Equivariance
 permalink: /registry/object/IV.D95/
 registry_id: IV.D95

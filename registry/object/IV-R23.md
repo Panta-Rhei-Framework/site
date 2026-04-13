@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R23 — Flux Quantization on tau^1
 permalink: /registry/object/IV.R23/
 registry_id: IV.R23

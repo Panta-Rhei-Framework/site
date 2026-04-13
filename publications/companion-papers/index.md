@@ -27,7 +27,7 @@ right_rail:
 
 The companion papers are detailed scenario analyses exploring public-good consequences of the framework — organized under 11 impact portfolios. Each paper is assumption-led, conditional, and explicitly downstream of the framework's validation status.
 
-Browse the full papers in the [Impact lane](/impact/).
+Browse the full papers in the [Impact lane]({{ '/impact/' | relative_url }}).
 
 ### By Portfolio
 

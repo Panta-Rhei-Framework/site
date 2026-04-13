@@ -64,5 +64,5 @@ Five generators, seven axioms, one bi-square.
 
 ## Chapters
 
-- **[Chapter 69: Holomorphy as Naturality](/publications/books/book-i/part-16-the-presheaf-essence/chapter-69-holomorphy-as-naturality/)**
-- **[Chapter 70: The Holomorphy Bi-Square](/publications/books/book-i/part-16-the-presheaf-essence/chapter-70-the-holomorphy-bi-square/)**
+- **[Chapter 69: Holomorphy as Naturality]({{ '/publications/books/book-i/part-16-the-presheaf-essence/chapter-69-holomorphy-as-naturality/' | relative_url }})**
+- **[Chapter 70: The Holomorphy Bi-Square]({{ '/publications/books/book-i/part-16-the-presheaf-essence/chapter-70-the-holomorphy-bi-square/' | relative_url }})**

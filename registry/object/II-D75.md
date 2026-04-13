@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D75 — Archimedean-Elliptic Engine
 permalink: /registry/object/II.D75/
 registry_id: II.D75

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R27 — Part VI Coherence Summary
 permalink: /registry/object/III.R27/
 registry_id: III.R27

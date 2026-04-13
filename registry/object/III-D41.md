@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D41 — Operator Polarity Swap
 permalink: /registry/object/III.D41/
 registry_id: III.D41

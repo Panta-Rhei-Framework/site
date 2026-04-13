@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D55 — Para-Mind
 permalink: /registry/object/VII.D55/
 registry_id: VII.D55

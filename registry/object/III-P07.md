@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P07 — Adelic Euler Product
 permalink: /registry/object/III.P07/
 registry_id: III.P07

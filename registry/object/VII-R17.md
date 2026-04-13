@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R17 — Empirical Sector Summary
 permalink: /registry/object/VII.R17/
 registry_id: VII.R17

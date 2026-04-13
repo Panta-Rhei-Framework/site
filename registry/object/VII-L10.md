@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L10 — Truth4 Paraconsistency
 permalink: /registry/object/VII.L10/
 registry_id: VII.L10

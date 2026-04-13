@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D43 — Spectral Distance √3
 permalink: /registry/object/IV.D43/
 registry_id: IV.D43

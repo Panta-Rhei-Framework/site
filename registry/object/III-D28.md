@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D28 — Lemniscate Operator H_L
 permalink: /registry/object/III.D28/
 registry_id: III.D28

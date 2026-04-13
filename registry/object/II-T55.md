@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T55 — H⁰ = Global Sections
 permalink: /registry/object/II.T55/
 registry_id: II.T55

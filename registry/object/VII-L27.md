@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L27 — Sheaf Gluing Verification
 permalink: /registry/object/VII.L27/
 registry_id: VII.L27

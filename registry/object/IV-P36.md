@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P36 — Photon Coupling Strength
 permalink: /registry/object/IV.P36/
 registry_id: IV.P36

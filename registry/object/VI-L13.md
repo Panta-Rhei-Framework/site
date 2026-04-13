@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L13 — ω-Germ Cannot Be Resolved Diagrammatically
 permalink: /registry/object/VI.L13/
 registry_id: VI.L13

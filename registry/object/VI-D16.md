@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D16 — Persistence Sector (α-base)
 permalink: /registry/object/VI.D16/
 registry_id: VI.D16

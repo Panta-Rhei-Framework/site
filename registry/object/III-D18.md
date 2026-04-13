@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D18 — Coupling Ledger
 permalink: /registry/object/III.D18/
 registry_id: III.D18

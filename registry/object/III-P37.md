@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P37 — Boundary Restriction
 permalink: /registry/object/III.P37/
 registry_id: III.P37

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D88 — CRT-Integer Correspondence
 permalink: /registry/object/III.D88/
 registry_id: III.D88

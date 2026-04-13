@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D41 — Closure Sector
 permalink: /registry/object/VI.D41/
 registry_id: VI.D41

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D44 — Meromorphic Function
 permalink: /registry/object/II.D44/
 registry_id: II.D44

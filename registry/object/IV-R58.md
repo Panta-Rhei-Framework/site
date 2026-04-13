@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R58 — In τ language
 permalink: /registry/object/IV.R58/
 registry_id: IV.R58

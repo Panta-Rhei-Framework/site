@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D63 — Automorphic-Galois Duality in τ
 permalink: /registry/object/III.D63/
 registry_id: III.D63

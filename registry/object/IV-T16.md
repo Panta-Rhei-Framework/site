@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T16 — CR Parity Constraint
 permalink: /registry/object/IV.T16/
 registry_id: IV.T16

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 24: The Neutrino as Time Eigenmode"
 next_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-26-the-tau-higgs-mechanism/"
 next_chapter_title: "Chapter 26: The τ-Higgs Mechanism"
-summary_short: "Electromagnetism and the weak force appear vastly different: one is long-range and familiar, the other short-range and exotic. The Standard Model ``unifies''…"
+summary_short: "Electromagnetism and the weak force appear vastly different: one is long-range and familiar, the other short-range and exotic. The Standard Model “unifies”…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-03-the-electroweak-arc/"
@@ -40,10 +40,10 @@ right_rail:
 
 Electromagnetism and the weak force appear vastly different: one
 is long-range and familiar, the other short-range and exotic. The
-Standard Model ``unifies'' them as SU(2)$_L×$U(1)$_Y$. In
+Standard Model “unifies” them as SU(2)$_L×$U(1)$_Y$. In
 Category $τ$ the picture is more precise: the A-sector (weak,
 $π$) and B-sector (EM, $γ$) are *distinct sectors*
 that **couple** through the inter-sector parameter
 $κ(A,B) = ι_τ^3 ≈ 0.0398$.
-Electroweak ``unification'' is *not* identity—it is
+Electroweak “unification” is *not* identity—it is
 coupling. The Weinberg angle is derived, not input.

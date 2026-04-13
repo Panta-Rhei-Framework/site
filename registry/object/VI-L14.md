@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L14 — Propagation Uniqueness
 permalink: /registry/object/VI.L14/
 registry_id: VI.L14

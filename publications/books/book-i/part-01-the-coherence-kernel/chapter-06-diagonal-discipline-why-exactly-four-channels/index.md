@@ -44,7 +44,7 @@ Why four?
 Why not three, or seven, or countably many?
 The answer lies in the *diagonal discipline*:
 a structural principle that constrains how an operator
-can ``overflow'' from one channel into another.
+can “overflow” from one channel into another.
 Each overflow is a *diagonal rewiring* —
 a step in which the self-application of an operation
 at one level produces a genuinely new operation

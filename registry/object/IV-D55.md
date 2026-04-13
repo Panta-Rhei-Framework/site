@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D55 — Character on a Space
 permalink: /registry/object/IV.D55/
 registry_id: IV.D55

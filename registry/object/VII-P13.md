@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P13 — Universal Bridgeability
 permalink: /registry/object/VII.P13/
 registry_id: VII.P13

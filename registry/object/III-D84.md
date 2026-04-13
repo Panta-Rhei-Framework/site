@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D84 — E₂ Orbit Structure
 permalink: /registry/object/III.D84/
 registry_id: III.D84

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R08 — Primorial Verification Principle
 permalink: /registry/object/III.R08/
 registry_id: III.R08

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L11 — Probe Naturality iff Yoneda
 permalink: /registry/object/II.L11/
 registry_id: II.L11

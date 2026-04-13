@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R92 — Fractional charges are not inputs
 permalink: /registry/object/IV.R92/
 registry_id: IV.R92

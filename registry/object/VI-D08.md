@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D08 — SelfDesc Predicate
 permalink: /registry/object/VI.D08/
 registry_id: VI.D08

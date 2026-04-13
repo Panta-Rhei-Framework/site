@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D89 — Gauge Connection
 permalink: /registry/object/IV.D89/
 registry_id: IV.D89

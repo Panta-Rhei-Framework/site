@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R20 — Fitness Landscape Topology
 permalink: /registry/object/VI.R20/
 registry_id: VI.R20

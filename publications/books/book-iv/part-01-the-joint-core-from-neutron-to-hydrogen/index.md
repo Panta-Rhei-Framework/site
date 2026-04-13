@@ -52,13 +52,13 @@ Every subsequent chapter in Books IV and V builds on this foundation.
 
 ## Chapters
 
-- **[Chapter 3: The τ³ Arena: Fiber T² as Microcosm](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-03-the-tau-arena-fiber-t-as-microcosm/)**
-- **[Chapter 4: Particles as Persistent Defect Bundles](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-04-particles-as-persistent-defect-bundles/)**
-- **[Chapter 5: The Photon as Null Transport](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-05-the-photon-as-null-transport/)**
-- **[Chapter 6: The Neutron: Minimal Stable Defect Bundle](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-06-the-neutron-minimal-stable-defect-bundle/)**
-- **[Chapter 7: -Decay: The Rosetta Stone](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-07-decay-the-rosetta-stone/)**
-- **[Chapter 8: The Proton and the Electron: -Decay Products](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-08-the-proton-and-the-electron-decay-products/)**
-- **[Chapter 9: The Five Sectors in Concert](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-09-the-five-sectors-in-concert/)**
-- **[Chapter 10: The Fine-Structure Constant](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-10-the-fine-structure-constant/)**
-- **[Chapter 11: The Calibration Anchor: mn Sets the Scale](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-11-the-calibration-anchor-mn-sets-the-scale/)**
-- **[Chapter 12: Hydrogen: The First Atom](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-12-hydrogen-the-first-atom/)**
+- **[Chapter 3: The τ³ Arena: Fiber T² as Microcosm]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-03-the-tau-arena-fiber-t-as-microcosm/' | relative_url }})**
+- **[Chapter 4: Particles as Persistent Defect Bundles]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-04-particles-as-persistent-defect-bundles/' | relative_url }})**
+- **[Chapter 5: The Photon as Null Transport]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-05-the-photon-as-null-transport/' | relative_url }})**
+- **[Chapter 6: The Neutron: Minimal Stable Defect Bundle]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-06-the-neutron-minimal-stable-defect-bundle/' | relative_url }})**
+- **[Chapter 7: -Decay: The Rosetta Stone]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-07-decay-the-rosetta-stone/' | relative_url }})**
+- **[Chapter 8: The Proton and the Electron: -Decay Products]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-08-the-proton-and-the-electron-decay-products/' | relative_url }})**
+- **[Chapter 9: The Five Sectors in Concert]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-09-the-five-sectors-in-concert/' | relative_url }})**
+- **[Chapter 10: The Fine-Structure Constant]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-10-the-fine-structure-constant/' | relative_url }})**
+- **[Chapter 11: The Calibration Anchor: mn Sets the Scale]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-11-the-calibration-anchor-mn-sets-the-scale/' | relative_url }})**
+- **[Chapter 12: Hydrogen: The First Atom]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-12-hydrogen-the-first-atom/' | relative_url }})**

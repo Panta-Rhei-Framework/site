@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D13 — Planck Character
 permalink: /registry/object/IV.D13/
 registry_id: IV.D13

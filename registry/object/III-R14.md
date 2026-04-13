@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R14 — P vs NP Honest Non-Claim
 permalink: /registry/object/III.R14/
 registry_id: III.R14

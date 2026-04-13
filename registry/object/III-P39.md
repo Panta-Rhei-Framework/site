@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P39 — Bridge Ledger Completeness
 permalink: /registry/object/III.P39/
 registry_id: III.P39

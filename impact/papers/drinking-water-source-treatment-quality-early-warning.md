@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau-Grade Drinking-Water Source, Treatment, and Quality Early Warning
 permalink: /impact/papers/drinking-water-source-treatment-quality-early-warning/
 paper_id: companion-water-wash-paper-1

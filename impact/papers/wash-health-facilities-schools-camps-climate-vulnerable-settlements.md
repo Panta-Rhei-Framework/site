@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for WASH in Health Facilities, Schools, Camps, and Climate-Vulnerable Settlements
 permalink: /impact/papers/wash-health-facilities-schools-camps-climate-vulnerable-settlements/
 paper_id: companion-water-wash-paper-5

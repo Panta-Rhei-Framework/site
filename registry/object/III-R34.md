@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R34 — Bridge Settlement Criteria
 permalink: /registry/object/III.R34/
 registry_id: III.R34

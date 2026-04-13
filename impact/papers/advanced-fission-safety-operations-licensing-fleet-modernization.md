@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Advanced Fission Safety, Operations, Licensing, and Fleet Modernization
 permalink: /impact/papers/advanced-fission-safety-operations-licensing-fleet-modernization/
 paper_id: companion-energy-paper-4

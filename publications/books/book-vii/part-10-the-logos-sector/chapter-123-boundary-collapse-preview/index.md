@@ -45,7 +45,7 @@ $ω$ inhabited?—cannot be answered from within $S_D$ because any
 $S_D$-internal proof of $ω$-inhabitation requires $ω$ as
 presupposition, collapsing subject and tool. Book VI proved the
 question is non-diagrammatic; this chapter identifies the precise
-structural mechanism. The ``No Forced Stance'' theorem (VII.T47)
+structural mechanism. The “No Forced Stance” theorem (VII.T47)
 establishes that the framework cannot and does not force a particular
 answer: any stance on $ω$-inhabitation belongs to $ℝeg_C$, not
 to $ℝeg_D$. Locating this boundary is not a failure but the deepest

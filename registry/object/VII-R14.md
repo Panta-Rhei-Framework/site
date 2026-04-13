@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R14 — Intersubjectivity Conditions
 permalink: /registry/object/VII.R14/
 registry_id: VII.R14

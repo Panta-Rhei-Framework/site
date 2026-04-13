@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P23 — Commutator Equals Lifted Lie Bracket
 permalink: /registry/object/IV.P23/
 registry_id: IV.P23

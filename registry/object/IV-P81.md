@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P81 — Finiteness and decidability
 permalink: /registry/object/IV.P81/
 registry_id: IV.P81

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D90 — Generative Switch
 permalink: /registry/object/VII.D90/
 registry_id: VII.D90

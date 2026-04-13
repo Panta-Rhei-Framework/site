@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T18 — Hilbert Space Properties
 permalink: /registry/object/IV.T18/
 registry_id: IV.T18

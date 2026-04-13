@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P26 — Compatibilism Dissolution
 permalink: /registry/object/VII.P26/
 registry_id: VII.P26

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D54 — CR-Admissible Sublattice
 permalink: /registry/object/IV.D54/
 registry_id: IV.D54

@@ -55,7 +55,7 @@ it is a chart shadow—a
 convenient coordinate representation
 of the deeper $τ^3$ structure.
 What orthodox physics interprets
-as the ``geometry of spacetime''
+as the “geometry of spacetime”
 is the constraint geometry
 imposed by the $τ^3$ fibration
 on the readout functors.

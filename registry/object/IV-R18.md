@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R18 — Determinism and (×,∧)-Tension
 permalink: /registry/object/IV.R18/
 registry_id: IV.R18

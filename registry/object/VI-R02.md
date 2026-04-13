@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R02 — E₂ Enrichment Positioning
 permalink: /registry/object/VI.R02/
 registry_id: VI.R02

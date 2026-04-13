@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D11 — DecodeTarget
 permalink: /registry/object/VI.D11/
 registry_id: VI.D11

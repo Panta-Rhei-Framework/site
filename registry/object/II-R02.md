@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R02 — Split-Complex Necessity
 permalink: /registry/object/II.R02/
 registry_id: II.R02

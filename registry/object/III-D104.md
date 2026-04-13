@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D104 — Goldbach Obstruction
 permalink: /registry/object/III.D104/
 registry_id: III.D104

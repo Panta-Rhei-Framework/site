@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T02 — Fiber Degeneration at Omega
 permalink: /registry/object/II.T02/
 registry_id: II.T02

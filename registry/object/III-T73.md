@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T73 — Twin Density Primorial
 permalink: /registry/object/III.T73/
 registry_id: III.T73

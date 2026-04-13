@@ -46,13 +46,13 @@ providing the blueprint for which patches exist and which structures are spectra
 
 ## Chapters
 
-- **[Chapter 31: τ](/publications/books/book-iii/part-05-the-physics-layer/chapter-31-tau/)**
-- **[Chapter 32: Fluid Sectors and the Defect Functional](/publications/books/book-iii/part-05-the-physics-layer/chapter-32-fluid-sectors-and-the-defect-functional/)**
-- **[Chapter 33: The Hartogs Flow Operator](/publications/books/book-iii/part-05-the-physics-layer/chapter-33-the-hartogs-flow-operator/)**
-- **[Chapter 34: Positive Regularity](/publications/books/book-iii/part-05-the-physics-layer/chapter-34-positive-regularity/)**
-- **[Chapter 35: The Strong Sector and NF Discreteness](/publications/books/book-iii/part-05-the-physics-layer/chapter-35-the-strong-sector-and-nf-discreteness/)**
-- **[Chapter 36: The τ](/publications/books/book-iii/part-05-the-physics-layer/chapter-36-the-tau/)**
-- **[Chapter 37: The Yang–Mills Mass Gap](/publications/books/book-iii/part-05-the-physics-layer/chapter-37-the-yang-mills-mass-gap/)**
-- **[Chapter 38: σ](/publications/books/book-iii/part-05-the-physics-layer/chapter-38-sigma/)**
-- **[Chapter 39: The NF-Addressability Theorem](/publications/books/book-iii/part-05-the-physics-layer/chapter-39-the-nf-addressability-theorem/)**
-- **[Chapter 40: The Physics Layer Complete](/publications/books/book-iii/part-05-the-physics-layer/chapter-40-the-physics-layer-complete/)**
+- **[Chapter 31: τ]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-31-tau/' | relative_url }})**
+- **[Chapter 32: Fluid Sectors and the Defect Functional]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-32-fluid-sectors-and-the-defect-functional/' | relative_url }})**
+- **[Chapter 33: The Hartogs Flow Operator]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-33-the-hartogs-flow-operator/' | relative_url }})**
+- **[Chapter 34: Positive Regularity]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-34-positive-regularity/' | relative_url }})**
+- **[Chapter 35: The Strong Sector and NF Discreteness]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-35-the-strong-sector-and-nf-discreteness/' | relative_url }})**
+- **[Chapter 36: The τ]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-36-the-tau/' | relative_url }})**
+- **[Chapter 37: The Yang–Mills Mass Gap]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-37-the-yang-mills-mass-gap/' | relative_url }})**
+- **[Chapter 38: σ]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-38-sigma/' | relative_url }})**
+- **[Chapter 39: The NF-Addressability Theorem]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-39-the-nf-addressability-theorem/' | relative_url }})**
+- **[Chapter 40: The Physics Layer Complete]({{ '/publications/books/book-iii/part-05-the-physics-layer/chapter-40-the-physics-layer-complete/' | relative_url }})**

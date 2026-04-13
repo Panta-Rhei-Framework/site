@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R16 — Fungi as Closure Archetype
 permalink: /registry/object/VI.R16/
 registry_id: VI.R16

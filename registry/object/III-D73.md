@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D73 — Proof Theory as E₃
 permalink: /registry/object/III.D73/
 registry_id: III.D73

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D84 — Cell Fate
 permalink: /registry/object/VI.D84/
 registry_id: VI.D84

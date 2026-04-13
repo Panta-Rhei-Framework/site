@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D70 — Phase Transport Witness
 permalink: /registry/object/IV.D70/
 registry_id: IV.D70

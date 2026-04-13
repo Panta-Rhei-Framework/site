@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P14 — LLM as Subsymbolic Evidence
 permalink: /registry/object/VII.P14/
 registry_id: VII.P14

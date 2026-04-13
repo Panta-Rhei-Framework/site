@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D26 — Abiogenesis as First Persistence Event
 permalink: /registry/object/VI.D26/
 registry_id: VI.D26

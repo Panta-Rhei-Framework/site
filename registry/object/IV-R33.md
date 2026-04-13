@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R33 — One Property Two Consequences
 permalink: /registry/object/IV.R33/
 registry_id: IV.R33

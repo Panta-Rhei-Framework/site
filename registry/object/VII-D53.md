@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D53 — Temporalization Operators
 permalink: /registry/object/VII.D53/
 registry_id: VII.D53

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T45 — Logos Sector Uniqueness
 permalink: /registry/object/VII.T45/
 registry_id: VII.T45

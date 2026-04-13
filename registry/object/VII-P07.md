@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P07 — Special Composition Answer
 permalink: /registry/object/VII.P07/
 registry_id: VII.P07

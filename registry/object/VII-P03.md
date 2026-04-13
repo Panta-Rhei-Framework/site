@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P03 — Four-Orbit Implies Four-Layer
 permalink: /registry/object/VII.P03/
 registry_id: VII.P03

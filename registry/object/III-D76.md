@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D76 — Minkowski Extension
 permalink: /registry/object/III.D76/
 registry_id: III.D76

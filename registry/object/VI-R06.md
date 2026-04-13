@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R06 — Archaea as Persistence Archetype
 permalink: /registry/object/VI.R06/
 registry_id: VI.R06

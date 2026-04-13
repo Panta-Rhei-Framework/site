@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P17 — Inner Product Properties
 permalink: /registry/object/IV.P17/
 registry_id: IV.P17

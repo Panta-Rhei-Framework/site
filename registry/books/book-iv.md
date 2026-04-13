@@ -1,5 +1,6 @@
 ---
 layout: registry-book
+lane: registry
 title: 'Registry — Book IV: Categorical Microcosm'
 permalink: /registry/books/book-iv/
 book: IV

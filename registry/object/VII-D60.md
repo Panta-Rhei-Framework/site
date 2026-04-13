@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D60 — Truth-Maker in τ (Logical)
 permalink: /registry/object/VII.D60/
 registry_id: VII.D60

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T35 — Code/Decode Bijection
 permalink: /registry/object/II.T35/
 registry_id: II.T35

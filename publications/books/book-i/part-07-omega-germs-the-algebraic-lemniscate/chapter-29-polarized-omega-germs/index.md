@@ -20,12 +20,12 @@ summary_short: "Chapter [ch:omega-germs] constructed omega-tails as the pre-topo
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
-canonical_part_title: "Part VII: Omega-Germs \& the Algebraic Lemniscate"
+canonical_part_title: "Part VII: Omega-Germs & the Algebraic Lemniscate"
 right_rail:
   related:
   - title: "Book I: Categorical Foundations"
     url: /publications/books/book-i/
-  - title: "Part VII: Omega-Germs \& the Algebraic Lemniscate"
+  - title: "Part VII: Omega-Germs & the Algebraic Lemniscate"
     url: /publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/
   - title: Registry
     url: /registry/books/book-i/

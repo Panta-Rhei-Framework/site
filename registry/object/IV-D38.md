@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D38 — Ledger Entry
 permalink: /registry/object/IV.D38/
 registry_id: IV.D38

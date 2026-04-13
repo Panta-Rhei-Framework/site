@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R42 — Coherence Horizon
 permalink: /registry/object/III.R42/
 registry_id: III.R42

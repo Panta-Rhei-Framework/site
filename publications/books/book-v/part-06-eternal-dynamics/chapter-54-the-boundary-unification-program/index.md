@@ -60,7 +60,7 @@ already present in the boundary holonomy algebra
 $H_∂[ω]$
 *is* the unification.
 The four forces are not four separate theories
-that must be ``glued together'' —
+that must be “glued together” —
 they are four sectors of a single algebra
 that was never divided.
 

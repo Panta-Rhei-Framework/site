@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R01 — Naive Coordinate Picture
 permalink: /registry/object/III.R01/
 registry_id: III.R01

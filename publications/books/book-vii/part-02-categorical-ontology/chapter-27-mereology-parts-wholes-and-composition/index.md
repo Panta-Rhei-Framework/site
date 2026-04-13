@@ -43,7 +43,7 @@ categorical colimit: the whole is the universal construction that
 receives morphisms from each part compatibly with the part-to-part
 relations. Restricted composition follows naturally—not everything
 composes, because not every diagram admits a colimit in the admissible
-category. The Special Composition Question (``When do parts compose?'')
+category. The Special Composition Question (“When do parts compose?”)
 receives a precise structural answer: when the colimit exists.
 Emergence—genuinely new properties of wholes that are not properties
 of any part—is demystified: colimits can have properties that none of

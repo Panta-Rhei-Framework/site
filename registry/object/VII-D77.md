@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D77 — Sphere as Shared Topos
 permalink: /registry/object/VII.D77/
 registry_id: VII.D77

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T23 — Closure as η-Fiber Return
 permalink: /registry/object/VI.T23/
 registry_id: VI.T23

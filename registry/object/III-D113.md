@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D113 — Forbidden Move Mapping
 permalink: /registry/object/III.D113/
 registry_id: III.D113

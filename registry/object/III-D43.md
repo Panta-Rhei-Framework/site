@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D43 — Strong Sector at E₁
 permalink: /registry/object/III.D43/
 registry_id: III.D43

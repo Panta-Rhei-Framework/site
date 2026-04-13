@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R35 — Structural Resolution of Hierarchy
 permalink: /registry/object/IV.R35/
 registry_id: IV.R35

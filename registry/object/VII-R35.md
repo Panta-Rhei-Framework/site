@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R35 — Sloterdijk-τ Correspondence
 permalink: /registry/object/VII.R35/
 registry_id: VII.R35

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D47 — Aesthetic Functional
 permalink: /registry/object/VII.D47/
 registry_id: VII.D47

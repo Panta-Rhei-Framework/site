@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R31 — Intergenerational Obligations
 permalink: /registry/object/VII.R31/
 registry_id: VII.R31

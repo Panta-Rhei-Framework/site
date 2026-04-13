@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D36 — BndLift Construction
 permalink: /registry/object/II.D36/
 registry_id: II.D36

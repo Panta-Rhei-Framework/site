@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D05 — Layer Template
 permalink: /registry/object/III.D05/
 registry_id: III.D05

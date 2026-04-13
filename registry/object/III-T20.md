@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T20 — Prime Polarity Scaling Theorem
 permalink: /registry/object/III.T20/
 registry_id: III.T20

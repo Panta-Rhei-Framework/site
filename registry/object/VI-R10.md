@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R10 — Bacteria as Agency Archetype
 permalink: /registry/object/VI.R10/
 registry_id: VI.R10

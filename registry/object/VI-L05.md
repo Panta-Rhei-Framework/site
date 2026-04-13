@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L05 — Neutron NoDist
 permalink: /registry/object/VI.L05/
 registry_id: VI.L05

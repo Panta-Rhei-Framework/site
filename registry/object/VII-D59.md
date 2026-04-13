@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D59 — Internal Randomness
 permalink: /registry/object/VII.D59/
 registry_id: VII.D59

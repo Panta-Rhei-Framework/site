@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D48 — Sector Addressability
 permalink: /registry/object/III.D48/
 registry_id: III.D48

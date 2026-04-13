@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T24 — No External Randomness
 permalink: /registry/object/VII.T24/
 registry_id: VII.T24

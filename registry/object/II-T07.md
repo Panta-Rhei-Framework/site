@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T07 — Compactness
 permalink: /registry/object/II.T07/
 registry_id: II.T07

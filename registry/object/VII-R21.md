@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R21 — Visual Composition Principles
 permalink: /registry/object/VII.R21/
 registry_id: VII.R21

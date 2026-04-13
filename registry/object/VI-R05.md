@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R05 — τ³ Biology Correspondence
 permalink: /registry/object/VI.R05/
 registry_id: VI.R05

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T46 — Fourth Quadrant Resolution
 permalink: /registry/object/II.T46/
 registry_id: II.T46

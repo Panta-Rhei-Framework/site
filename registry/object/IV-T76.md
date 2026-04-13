@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T76 — Uniqueness of the strong coupling
 permalink: /registry/object/IV.T76/
 registry_id: IV.T76

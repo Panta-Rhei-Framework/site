@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P57 — Fermi Constant from Weak Coupling
 permalink: /registry/object/IV.P57/
 registry_id: IV.P57

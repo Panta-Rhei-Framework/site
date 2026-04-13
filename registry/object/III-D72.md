@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D72 — Shadow Diagram
 permalink: /registry/object/III.D72/
 registry_id: III.D72

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.C01 — Right-handed decoupling
 permalink: /registry/object/IV.C01/
 registry_id: IV.C01

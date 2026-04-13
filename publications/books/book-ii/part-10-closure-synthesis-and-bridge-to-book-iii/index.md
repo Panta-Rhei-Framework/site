@@ -107,10 +107,10 @@ as the foundation for Book III's physical forces.
 
 ## Chapters
 
-- **[Chapter 54: The Complete Dependency Chain](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-54-the-complete-dependency-chain/)**
-- **[Chapter 55: τ-Manifold Structure from Holomorphic Atlas](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-55-tau-manifold-structure-from-holomorphic-atlas/)**
-- **[Chapter 56: Differential-Geometric Agenda for Book~III](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-56-differential-geometric-agenda-for-book-iii/)**
-- **[Chapter 57: BSD Bridge: Proto-Rationality in Split-Complex Regime](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-57-bsd-bridge-proto-rationality-in-split-complex-regime/)**
-- **[Chapter 58: Forward to Book~III — Spectral Forces in H_τ](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-58-forward-to-book-iii-spectral-forces-in-h-tau/)**
-- **[Chapter 59: Results Inventory and Open Questions](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-59-results-inventory-and-open-questions/)**
-- **[Chapter 60: The Geometric Bi-Square](/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-60-the-geometric-bi-square/)**
+- **[Chapter 54: The Complete Dependency Chain]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-54-the-complete-dependency-chain/' | relative_url }})**
+- **[Chapter 55: τ-Manifold Structure from Holomorphic Atlas]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-55-tau-manifold-structure-from-holomorphic-atlas/' | relative_url }})**
+- **[Chapter 56: Differential-Geometric Agenda for Book~III]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-56-differential-geometric-agenda-for-book-iii/' | relative_url }})**
+- **[Chapter 57: BSD Bridge: Proto-Rationality in Split-Complex Regime]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-57-bsd-bridge-proto-rationality-in-split-complex-regime/' | relative_url }})**
+- **[Chapter 58: Forward to Book~III — Spectral Forces in H_τ]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-58-forward-to-book-iii-spectral-forces-in-h-tau/' | relative_url }})**
+- **[Chapter 59: Results Inventory and Open Questions]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-59-results-inventory-and-open-questions/' | relative_url }})**
+- **[Chapter 60: The Geometric Bi-Square]({{ '/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-60-the-geometric-bi-square/' | relative_url }})**

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P05 — Independence of Prime-Level Actions
 permalink: /registry/object/III.P05/
 registry_id: III.P05

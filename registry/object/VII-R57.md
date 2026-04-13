@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R57 — Genesis-Kernel Cross-Book Consistency
 permalink: /registry/object/VII.R57/
 registry_id: VII.R57

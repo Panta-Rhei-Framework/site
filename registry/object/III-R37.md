@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R37 — Eight Guarantees Ledger (Earned)
 permalink: /registry/object/III.R37/
 registry_id: III.R37

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P03 — Power Hierarchy
 permalink: /registry/object/IV.P03/
 registry_id: IV.P03

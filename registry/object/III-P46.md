@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P46 — Twin Gap Characterization
 permalink: /registry/object/III.P46/
 registry_id: III.P46

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T99 — Temporal Complement
 permalink: /registry/object/IV.T99/
 registry_id: IV.T99

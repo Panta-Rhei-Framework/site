@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D63 — Accessibility Morphism
 permalink: /registry/object/VII.D63/
 registry_id: VII.D63

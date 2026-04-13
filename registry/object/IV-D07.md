@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D07 — Coupling Formula Map
 permalink: /registry/object/IV.D07/
 registry_id: IV.D07

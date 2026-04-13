@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R44 — Commitment Sector Summary
 permalink: /registry/object/VII.R44/
 registry_id: VII.R44

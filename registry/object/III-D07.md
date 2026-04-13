@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D07 — E₁ Layer (Physics)
 permalink: /registry/object/III.D07/
 registry_id: III.D07

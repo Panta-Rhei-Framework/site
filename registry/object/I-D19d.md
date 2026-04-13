@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.D19d — Greedy Peel Algorithm
 permalink: /registry/object/I.D19d/
 registry_id: I.D19d

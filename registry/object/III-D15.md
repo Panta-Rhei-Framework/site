@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D15 — Langlands₁ Reflection Bridge
 permalink: /registry/object/III.D15/
 registry_id: III.D15

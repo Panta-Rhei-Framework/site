@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D47 — Holomorphic Presheaf
 permalink: /registry/object/II.D47/
 registry_id: II.D47

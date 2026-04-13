@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P17 — Geodesic Completeness
 permalink: /registry/object/II.P17/
 registry_id: II.P17

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T79 — Tower Finite Decidable
 permalink: /registry/object/III.T79/
 registry_id: III.T79

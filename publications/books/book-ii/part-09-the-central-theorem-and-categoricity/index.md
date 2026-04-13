@@ -76,9 +76,9 @@ The interior is completely determined by boundary character algebra.
 
 ## Chapters
 
-- **[Chapter 48: Boundary Characters via Idempotent Support](/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-48-boundary-characters-via-idempotent-support/)**
-- **[Chapter 49: Hartogs Extension in H_τ](/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-49-hartogs-extension-in-h-tau/)**
-- **[Chapter 50: Extensions Are ω-Germ Transformers](/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/)**
-- **[Chapter 51: Yoneda Applied — ω-Germs Are Holomorphic Functions](/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-51-yoneda-applied-omega-germs-are-holomorphic-functions/)**
-- **[Chapter 52: The Central Theorem](/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-52-the-central-theorem/)**
-- **[Chapter 53: Liouville Categorical Dodge and Categoricity](/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/)**
+- **[Chapter 48: Boundary Characters via Idempotent Support]({{ '/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-48-boundary-characters-via-idempotent-support/' | relative_url }})**
+- **[Chapter 49: Hartogs Extension in H_τ]({{ '/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-49-hartogs-extension-in-h-tau/' | relative_url }})**
+- **[Chapter 50: Extensions Are ω-Germ Transformers]({{ '/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-50-extensions-are-omega-germ-transformers/' | relative_url }})**
+- **[Chapter 51: Yoneda Applied — ω-Germs Are Holomorphic Functions]({{ '/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-51-yoneda-applied-omega-germs-are-holomorphic-functions/' | relative_url }})**
+- **[Chapter 52: The Central Theorem]({{ '/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-52-the-central-theorem/' | relative_url }})**
+- **[Chapter 53: Liouville Categorical Dodge and Categoricity]({{ '/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-53-liouville-categorical-dodge-and-categoricity/' | relative_url }})**

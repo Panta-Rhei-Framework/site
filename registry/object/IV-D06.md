@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D06 — Weak Sector at E₁
 permalink: /registry/object/IV.D06/
 registry_id: IV.D06

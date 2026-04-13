@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L12 — Basin Fusion via SMBH Merger
 permalink: /registry/object/VI.L12/
 registry_id: VI.L12

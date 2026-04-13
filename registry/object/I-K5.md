@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.K5 — Beacon Non-Successor (K5)
 permalink: /registry/object/I.K5/
 registry_id: I.K5

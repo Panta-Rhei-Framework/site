@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T33 — Photon Masslessness
 permalink: /registry/object/IV.T33/
 registry_id: IV.T33

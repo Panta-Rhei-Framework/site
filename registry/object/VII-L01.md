@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L01 — BH Basin Law-Code
 permalink: /registry/object/VII.L01/
 registry_id: VII.L01

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D84 — Chain Complex
 permalink: /registry/object/II.D84/
 registry_id: II.D84

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R25 — Gauge Invariance Is Geometric Not Dynamic
 permalink: /registry/object/IV.R25/
 registry_id: IV.R25

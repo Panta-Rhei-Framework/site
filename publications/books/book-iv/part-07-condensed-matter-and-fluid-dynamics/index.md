@@ -77,14 +77,14 @@ one framework governs all.
 
 ## Chapters
 
-- **[Chapter 56: The Defect Functional and Fluid Regimes](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/)**
-- **[Chapter 57: The Universal Defect Tuple](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-57-the-universal-defect-tuple/)**
-- **[Chapter 58: τ-Euler: Inviscid Flow](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-58-tau-euler-inviscid-flow/)**
-- **[Chapter 59: τ-Navier–Stokes: Viscous Flow](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-59-tau-navier-stokes-viscous-flow/)**
-- **[Chapter 60: τ-MHD: Magnetohydrodynamics](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-60-tau-mhd-magnetohydrodynamics/)**
-- **[Chapter 61: Superfluids and Superconductors](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-61-superfluids-and-superconductors/)**
-- **[Chapter 62: Crystals, Glass, and Phase Transitions](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-62-crystals-glass-and-phase-transitions/)**
-- **[Chapter 63: Magnetism on~T²](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-63-magnetism-on-t/)**
-- **[Chapter 64: Decidable Regimes and the NFL Theorem](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-64-decidable-regimes-and-the-nfl-theorem/)**
-- **[Chapter 65: τ-NS Regularity at Fiber Level](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-65-tau-ns-regularity-at-fiber-level/)**
-- **[Chapter 66: The Unified Regime Table](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-66-the-unified-regime-table/)**
+- **[Chapter 56: The Defect Functional and Fluid Regimes]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/' | relative_url }})**
+- **[Chapter 57: The Universal Defect Tuple]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-57-the-universal-defect-tuple/' | relative_url }})**
+- **[Chapter 58: τ-Euler: Inviscid Flow]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-58-tau-euler-inviscid-flow/' | relative_url }})**
+- **[Chapter 59: τ-Navier–Stokes: Viscous Flow]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-59-tau-navier-stokes-viscous-flow/' | relative_url }})**
+- **[Chapter 60: τ-MHD: Magnetohydrodynamics]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-60-tau-mhd-magnetohydrodynamics/' | relative_url }})**
+- **[Chapter 61: Superfluids and Superconductors]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-61-superfluids-and-superconductors/' | relative_url }})**
+- **[Chapter 62: Crystals, Glass, and Phase Transitions]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-62-crystals-glass-and-phase-transitions/' | relative_url }})**
+- **[Chapter 63: Magnetism on~T²]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-63-magnetism-on-t/' | relative_url }})**
+- **[Chapter 64: Decidable Regimes and the NFL Theorem]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-64-decidable-regimes-and-the-nfl-theorem/' | relative_url }})**
+- **[Chapter 65: τ-NS Regularity at Fiber Level]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-65-tau-ns-regularity-at-fiber-level/' | relative_url }})**
+- **[Chapter 66: The Unified Regime Table]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-66-the-unified-regime-table/' | relative_url }})**

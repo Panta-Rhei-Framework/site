@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D78 — τ-Connection
 permalink: /registry/object/II.D78/
 registry_id: II.D78

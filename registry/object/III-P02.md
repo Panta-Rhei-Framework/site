@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P02 — Functor Category Collapse
 permalink: /registry/object/III.P02/
 registry_id: III.P02

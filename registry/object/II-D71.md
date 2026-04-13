@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D71 — Stage-Finite Euclidean Geometry
 permalink: /registry/object/II.D71/
 registry_id: II.D71

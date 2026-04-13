@@ -55,4 +55,4 @@ and the topology is the initial topology
 with respect to these projections.
 Since the projections are canonical,
 so is the topology.
-There is no ``topological creativity'' in $τ$.
+There is no “topological creativity” in $τ$.

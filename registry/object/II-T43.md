@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T43 — Structural Incompatibility of Unique Omega and Archimedean Density
 permalink: /registry/object/II.T43/
 registry_id: II.T43

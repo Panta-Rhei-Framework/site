@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P31 — Reversibility-Irreversibility Resolution
 permalink: /registry/object/IV.P31/
 registry_id: IV.P31

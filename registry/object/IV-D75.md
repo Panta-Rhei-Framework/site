@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D75 — Decoherence
 permalink: /registry/object/IV.D75/
 registry_id: IV.D75

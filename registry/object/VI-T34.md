@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T34 — Stars Are Not Alive
 permalink: /registry/object/VI.T34/
 registry_id: VI.T34

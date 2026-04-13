@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D33 — Membrane as Lemniscate Boundary
 permalink: /registry/object/VI.D33/
 registry_id: VI.D33

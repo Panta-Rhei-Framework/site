@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D70 — PDE Type Classification
 permalink: /registry/object/II.D70/
 registry_id: II.D70

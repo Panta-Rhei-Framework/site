@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D76 — Social Ontology
 permalink: /registry/object/VII.D76/
 registry_id: VII.D76

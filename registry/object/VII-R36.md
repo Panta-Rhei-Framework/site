@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R36 — Urban Topology
 permalink: /registry/object/VII.R36/
 registry_id: VII.R36

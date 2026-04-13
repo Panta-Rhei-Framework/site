@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T80 — Bridge Necessary Insufficient
 permalink: /registry/object/III.T80/
 registry_id: III.T80

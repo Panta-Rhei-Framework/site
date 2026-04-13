@@ -74,18 +74,18 @@ and the $E_1$ export contracts—so that nothing need be re-derived.
 
 ## Parts
 
-- **[Prologue: Two Arcs from One Neutron](/publications/books/book-iv/part-00-two-arcs-from-one-neutron/)** — 2 chapters
-- **[Part I: The Joint Core: From Neutron to Hydrogen](/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/)** — 10 chapters
-- **[Part II: Quantum Mechanics as Address Obstruction](/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/)** — 8 chapters
-- **[Part III: The Electroweak Arc](/publications/books/book-iv/part-03-the-electroweak-arc/)** — 8 chapters
-- **[Part IV: The Strong Sector and Confinement](/publications/books/book-iv/part-04-the-strong-sector-and-confinement/)** — 6 chapters
-- **[Part V: Particles, Generations, and Nuclear Physics](/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/)** — 10 chapters
-- **[Part VI: Atoms, Chemistry, and Molecular Structure](/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/)** — 11 chapters
-- **[Part VII: Condensed Matter and Fluid Dynamics](/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/)** — 11 chapters
-- **[Part VIII: The Constants Ledger and the Complexity Summit](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/)** — 7 chapters
+- **[Prologue: Two Arcs from One Neutron]({{ '/publications/books/book-iv/part-00-two-arcs-from-one-neutron/' | relative_url }})** — 2 chapters
+- **[Part I: The Joint Core: From Neutron to Hydrogen]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/' | relative_url }})** — 10 chapters
+- **[Part II: Quantum Mechanics as Address Obstruction]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/' | relative_url }})** — 8 chapters
+- **[Part III: The Electroweak Arc]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/' | relative_url }})** — 8 chapters
+- **[Part IV: The Strong Sector and Confinement]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/' | relative_url }})** — 6 chapters
+- **[Part V: Particles, Generations, and Nuclear Physics]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/' | relative_url }})** — 10 chapters
+- **[Part VI: Atoms, Chemistry, and Molecular Structure]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/' | relative_url }})** — 11 chapters
+- **[Part VII: Condensed Matter and Fluid Dynamics]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/' | relative_url }})** — 11 chapters
+- **[Part VIII: The Constants Ledger and the Complexity Summit]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/' | relative_url }})** — 7 chapters
 
 ## Canonical Artifacts
 
-- **Registry**: [73 chapters mapped to registry objects](/registry/books/book-iv/)
-- **Dashboard**: [Formalization status and dependency graph](/registry/dashboards/book-iv/)
+- **Registry**: [73 chapters mapped to registry objects]({{ '/registry/books/book-iv/' | relative_url }})
+- **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-iv/' | relative_url }})
 - **Formalization**: [TauLib BookIV](https://github.com/Panta-Rhei-Framework/formalization) — Lean 4 verification

@@ -44,7 +44,7 @@ a single ontology with epistemic stratification—not two worlds
 (physical and mathematical) but one relational structure accessed through
 different readout functors. Platonic forms become normal-form addresses:
 each ontic form has a unique NF position in the kernel, and what looks
-like a ``realm of forms'' is the address space of $τ$ itself. The
+like a “realm of forms” is the address space of $τ$ itself. The
 chapter closes with the $ω$-uniqueness principle and theorem:
 there can be only one terminal coherence point, and local infinities
 cannot compete with it.

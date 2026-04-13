@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P21 — HolEnd Exponentials
 permalink: /registry/object/II.P21/
 registry_id: II.P21

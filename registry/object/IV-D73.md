@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D73 — Canonical Saturation State
 permalink: /registry/object/IV.D73/
 registry_id: IV.D73

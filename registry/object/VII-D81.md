@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D81 — Ritual as Social Gluing
 permalink: /registry/object/VII.D81/
 registry_id: VII.D81

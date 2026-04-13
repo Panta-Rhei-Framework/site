@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T25 — Kolmogorov Representation
 permalink: /registry/object/VII.T25/
 registry_id: VII.T25

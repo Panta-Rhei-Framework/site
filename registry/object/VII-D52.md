@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D52 — Subsymbolic Layer
 permalink: /registry/object/VII.D52/
 registry_id: VII.D52

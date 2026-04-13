@@ -53,7 +53,7 @@ is *earned* from the bipolar structure,
 not axiomatized.
 It has a built-in explosion barrier:
 the overdetermined value $B$
-(``true and false simultaneously'')
+(“true and false simultaneously”)
 does not collapse to triviality,
 because the B-sector witnesses and C-sector witnesses
 live in orthogonal spectral components.
@@ -65,6 +65,6 @@ in the earned topos structure of Part XIII.
 
 ## Chapters
 
-- **[Chapter 43: Four Truth Values from Polarity Stabilization](/publications/books/book-i/part-11-tau/chapter-43-four-truth-values-from-polarity-stabilization/)**
-- **[Chapter 44: The Explosion Barrier](/publications/books/book-i/part-11-tau/chapter-44-the-explosion-barrier/)**
-- **[Chapter 45: Boolean Recovery and the Subobject Classifier Preview](/publications/books/book-i/part-11-tau/chapter-45-boolean-recovery-and-the-subobject-classifier-preview/)**
+- **[Chapter 43: Four Truth Values from Polarity Stabilization]({{ '/publications/books/book-i/part-11-tau/chapter-43-four-truth-values-from-polarity-stabilization/' | relative_url }})**
+- **[Chapter 44: The Explosion Barrier]({{ '/publications/books/book-i/part-11-tau/chapter-44-the-explosion-barrier/' | relative_url }})**
+- **[Chapter 45: Boolean Recovery and the Subobject Classifier Preview]({{ '/publications/books/book-i/part-11-tau/chapter-45-boolean-recovery-and-the-subobject-classifier-preview/' | relative_url }})**

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T44 — Incompleteness as VM Boundary
 permalink: /registry/object/III.T44/
 registry_id: III.T44

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R66 — Comparison with GUTs
 permalink: /registry/object/IV.R66/
 registry_id: IV.R66

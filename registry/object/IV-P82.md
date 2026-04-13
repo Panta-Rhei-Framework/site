@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P82 — Loop class inclusion
 permalink: /registry/object/IV.P82/
 registry_id: IV.P82

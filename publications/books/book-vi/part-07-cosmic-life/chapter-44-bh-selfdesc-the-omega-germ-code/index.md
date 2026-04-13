@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The BH SelfDesc theorem is established by defining the evaluator $Eval^{BH}$ via $DecodeTarget(B_n)$ and $DecodeHorizon(B_n)$. Uniqueness and constancy lemmas guarantee that these decoders select a unique element and remain independent of the blueprint ball radius. The BH SelfDesc Theorem verifies completeness, internality, and refinement coherence for the macro-torus carrier. Every black hole carries a well-defined $ω$-germ code $code(D^{BH})[ω]$—the BH's ``genome.''
+The BH SelfDesc theorem is established by defining the evaluator $Eval^{BH}$ via $DecodeTarget(B_n)$ and $DecodeHorizon(B_n)$. Uniqueness and constancy lemmas guarantee that these decoders select a unique element and remain independent of the blueprint ball radius. The BH SelfDesc Theorem verifies completeness, internality, and refinement coherence for the macro-torus carrier. Every black hole carries a well-defined $ω$-germ code $code(D^{BH})[ω]$—the BH's “genome.”

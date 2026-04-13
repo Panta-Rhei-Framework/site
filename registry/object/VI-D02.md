@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D02 — Polarity-Typed Two-Point Object (2_τ)
 permalink: /registry/object/VI.D02/
 registry_id: VI.D02

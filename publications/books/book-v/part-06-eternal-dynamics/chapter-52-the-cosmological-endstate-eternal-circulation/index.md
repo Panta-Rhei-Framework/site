@@ -51,7 +51,7 @@ and all three extrapolate
 current expansion dynamics to infinity.
 
 Category $τ$ rejects all three.
-The universe does not ``end'' at all.
+The universe does not “end” at all.
 The temporal boundary $α_o$
 — the accumulation point of the $α$-orbit
 at $n → ∞$ —

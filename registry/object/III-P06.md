@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P06 — Completeness Without Topology
 permalink: /registry/object/III.P06/
 registry_id: III.P06

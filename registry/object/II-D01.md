@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D01 — Split-Complex Codomain H_tau
 permalink: /registry/object/II.D01/
 registry_id: II.D01

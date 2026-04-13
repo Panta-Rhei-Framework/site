@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D25 — Mutual Determination Schema
 permalink: /registry/object/III.D25/
 registry_id: III.D25

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D58 — E0/E1 Transition
 permalink: /registry/object/II.D58/
 registry_id: II.D58

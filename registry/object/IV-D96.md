@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D96 — Wilson Loop
 permalink: /registry/object/IV.D96/
 registry_id: IV.D96

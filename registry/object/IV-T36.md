@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T36 — Charge Conservation
 permalink: /registry/object/IV.T36/
 registry_id: IV.T36

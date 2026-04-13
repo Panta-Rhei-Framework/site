@@ -34,19 +34,19 @@ Supporting the research does not mean endorsing the framework. It means valuing 
 
 ## How to Engage
 
-### [Follow the Research](/engage/follow-the-research/)
+### [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }})
 
 Receive research updates, companion publication news, and notices about new verification surfaces as the program develops.
 
-### [Support the Research](/engage/support-the-research/)
+### [Support the Research]({{ '/engage/support-the-research/' | relative_url }})
 
 The most direct way to support the research is to **read the books**. Beyond that: follow the program, share it with domain experts, or contribute to the continuation of the work.
 
-### [Seminars & Guided Sessions](/engage/seminars-and-guided-sessions/)
+### [Seminars & Guided Sessions]({{ '/engage/seminars-and-guided-sessions/' | relative_url }})
 
 Future seminars, guided reading sessions, and structured engagement opportunities. Currently in planning.
 
-### [Media & Contact](/engage/media-and-contact/)
+### [Media & Contact]({{ '/engage/media-and-contact/' | relative_url }})
 
 Typed contact routes for media inquiries, technical questions, institutional correspondence, and general contact.
 

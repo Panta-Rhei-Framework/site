@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P77 — Decay Mode Consistency
 permalink: /registry/object/IV.P77/
 registry_id: IV.P77

@@ -62,6 +62,6 @@ not *creating*.
 
 ## Chapters
 
-- **[Chapter 7: The ONE Generative Act — ρ Unfolds the Universe](/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-07-the-one-generative-act-rho-unfolds-the-universe/)**
-- **[Chapter 8: The Iterator-of-Iterator Ladder and Tetration Saturation](/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-08-the-iterator-of-iterator-ladder-and-tetration-saturation/)**
-- **[Chapter 9: Rigidity — (τ) = \\](/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/)**
+- **[Chapter 7: The ONE Generative Act — ρ Unfolds the Universe]({{ '/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-07-the-one-generative-act-rho-unfolds-the-universe/' | relative_url }})**
+- **[Chapter 8: The Iterator-of-Iterator Ladder and Tetration Saturation]({{ '/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-08-the-iterator-of-iterator-ladder-and-tetration-saturation/' | relative_url }})**
+- **[Chapter 9: Rigidity — (τ) = \\]({{ '/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/' | relative_url }})**

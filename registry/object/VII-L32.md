@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L32 — OR3+OR4 Narrowing
 permalink: /registry/object/VII.L32/
 registry_id: VII.L32

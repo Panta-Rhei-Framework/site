@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P64 — Invisible Width and N_nu
 permalink: /registry/object/IV.P64/
 registry_id: IV.P64

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P43 — CRT-Goldbach Duality
 permalink: /registry/object/III.P43/
 registry_id: III.P43

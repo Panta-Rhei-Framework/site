@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R27 — Geological Consistency
 permalink: /registry/object/VI.R27/
 registry_id: VI.R27

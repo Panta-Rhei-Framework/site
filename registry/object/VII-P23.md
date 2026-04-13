@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P23 — Dunbar Limit as Carrier Capacity
 permalink: /registry/object/VII.P23/
 registry_id: VII.P23

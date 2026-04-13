@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P15 — Conjugate Precision Trade-off
 permalink: /registry/object/IV.P15/
 registry_id: IV.P15

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D04 — Higgs Sector at E₁
 permalink: /registry/object/IV.D04/
 registry_id: IV.D04

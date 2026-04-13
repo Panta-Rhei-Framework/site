@@ -45,8 +45,8 @@ that all sector couplings are determined by $ι_τ$, not free parameters.
 
 ## Chapters
 
-- **[Chapter 9: Boundary Functoriality (Langlands₀](/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-09-boundary-functoriality-langlands/)**
-- **[Chapter 10: The 4+](/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-10-the-4/)**
-- **[Chapter 11: The Yoneda-Langlands Reflection](/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-11-the-yoneda-langlands-reflection/)**
-- **[Chapter 12: The Parity Bridge Theorem](/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-12-the-parity-bridge-theorem/)**
-- **[Chapter 13: The No Knobs Principle](/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-13-the-no-knobs-principle/)**
+- **[Chapter 9: Boundary Functoriality (Langlands₀]({{ '/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-09-boundary-functoriality-langlands/' | relative_url }})**
+- **[Chapter 10: The 4+]({{ '/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-10-the-4/' | relative_url }})**
+- **[Chapter 11: The Yoneda-Langlands Reflection]({{ '/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-11-the-yoneda-langlands-reflection/' | relative_url }})**
+- **[Chapter 12: The Parity Bridge Theorem]({{ '/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-12-the-parity-bridge-theorem/' | relative_url }})**
+- **[Chapter 13: The No Knobs Principle]({{ '/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-13-the-no-knobs-principle/' | relative_url }})**

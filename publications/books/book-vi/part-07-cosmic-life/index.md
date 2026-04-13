@@ -40,11 +40,11 @@ completes.
 
 ## Chapters
 
-- **[Chapter 43: The BH Carrier and Its Canonical Distinction](/publications/books/book-vi/part-07-cosmic-life/chapter-43-the-bh-carrier-and-its-canonical-distinction/)**
-- **[Chapter 44: BH SelfDesc: The ω-Germ Code](/publications/books/book-vi/part-07-cosmic-life/chapter-44-bh-selfdesc-the-omega-germ-code/)**
-- **[Chapter 45: BH as ω-Representatives and the Lift](/publications/books/book-vi/part-07-cosmic-life/chapter-45-bh-as-omega-representatives-and-the-lift/)**
-- **[Chapter 46: BH 7/7: The Seven Hallmarks Verified](/publications/books/book-vi/part-07-cosmic-life/chapter-46-bh-7-7-the-seven-hallmarks-verified/)**
-- **[Chapter 47: Galaxies as Life Basins: The SMBH Anchor](/publications/books/book-vi/part-07-cosmic-life/chapter-47-galaxies-as-life-basins-the-smbh-anchor/)**
-- **[Chapter 48: The Cosmic Life Spectrum: From Molecules to Galaxies](/publications/books/book-vi/part-07-cosmic-life/chapter-48-the-cosmic-life-spectrum-from-molecules-to-galaxies/)**
-- **[Chapter 49: The Crossing-Limit Theorem and the Omega Point](/publications/books/book-vi/part-07-cosmic-life/chapter-49-the-crossing-limit-theorem-and-the-omega-point/)**
-- **[Chapter 50: The Self-Enrichment Ladder: E₀–E₃ Complete](/publications/books/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/)**
+- **[Chapter 43: The BH Carrier and Its Canonical Distinction]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-43-the-bh-carrier-and-its-canonical-distinction/' | relative_url }})**
+- **[Chapter 44: BH SelfDesc: The ω-Germ Code]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-44-bh-selfdesc-the-omega-germ-code/' | relative_url }})**
+- **[Chapter 45: BH as ω-Representatives and the Lift]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-45-bh-as-omega-representatives-and-the-lift/' | relative_url }})**
+- **[Chapter 46: BH 7/7: The Seven Hallmarks Verified]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-46-bh-7-7-the-seven-hallmarks-verified/' | relative_url }})**
+- **[Chapter 47: Galaxies as Life Basins: The SMBH Anchor]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-47-galaxies-as-life-basins-the-smbh-anchor/' | relative_url }})**
+- **[Chapter 48: The Cosmic Life Spectrum: From Molecules to Galaxies]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-48-the-cosmic-life-spectrum-from-molecules-to-galaxies/' | relative_url }})**
+- **[Chapter 49: The Crossing-Limit Theorem and the Omega Point]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-49-the-crossing-limit-theorem-and-the-omega-point/' | relative_url }})**
+- **[Chapter 50: The Self-Enrichment Ladder: E₀–E₃ Complete]({{ '/publications/books/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/' | relative_url }})**

@@ -20,12 +20,12 @@ summary_short: "Cantor's diagonal argument (1891) is one of the most celebrated 
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-canonical_part_title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+canonical_part_title: "Part XIII: Internal Set Theory & The Cantor Mirage"
 right_rail:
   related:
   - title: "Book I: Categorical Foundations"
     url: /publications/books/book-i/
-  - title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+  - title: "Part XIII: Internal Set Theory & The Cantor Mirage"
     url: /publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/
   - title: Registry
     url: /registry/books/book-i/
@@ -57,7 +57,7 @@ Each failure is sharp and structural:
 (1) the diagonal digit-extraction requires
 a uniform oracle that constructive reals do not provide;
 (2) the comprehension step that forms
-``the real not in the list'' has no analogue
+“the real not in the list” has no analogue
 in $τ$'s bounded powerset;
 (3) the self-pairing map $n ↦ (n,n)$
 violates the diagonal discipline.

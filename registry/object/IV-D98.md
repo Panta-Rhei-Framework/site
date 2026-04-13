@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D98 — EM Gauge Bundle
 permalink: /registry/object/IV.D98/
 registry_id: IV.D98

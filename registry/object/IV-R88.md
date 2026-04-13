@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R88 — What varies
 permalink: /registry/object/IV.R88/
 registry_id: IV.R88

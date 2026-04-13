@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R41 — Bridge Declaration
 permalink: /registry/object/II.R41/
 registry_id: II.R41

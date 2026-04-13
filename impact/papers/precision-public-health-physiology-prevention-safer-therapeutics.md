@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Precision Public Health, Physiology-Aware Prevention, and Safer Therapeutics
   / Response Optimization
 permalink: /impact/papers/precision-public-health-physiology-prevention-safer-therapeutics/

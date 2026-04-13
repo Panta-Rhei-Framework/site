@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R18 — Nash Equilibria in Ecological Communities
 permalink: /registry/object/VI.R18/
 registry_id: VI.R18

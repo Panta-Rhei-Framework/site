@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T50 — Flat Connection Existence
 permalink: /registry/object/II.T50/
 registry_id: II.T50

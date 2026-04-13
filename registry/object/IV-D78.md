@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D78 — Mass as Fiber Stiffness
 permalink: /registry/object/IV.D78/
 registry_id: IV.D78

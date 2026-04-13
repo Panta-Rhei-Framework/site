@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D04 — τ-Distinction
 permalink: /registry/object/VI.D04/
 registry_id: VI.D04

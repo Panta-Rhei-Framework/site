@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R10 — Normalization
 permalink: /registry/object/IV.R10/
 registry_id: IV.R10

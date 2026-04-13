@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P40 — Additive-Multiplicative Duality
 permalink: /registry/object/III.P40/
 registry_id: III.P40

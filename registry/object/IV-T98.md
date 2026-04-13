@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T98 — Uniqueness of Phi
 permalink: /registry/object/IV.T98/
 registry_id: IV.T98

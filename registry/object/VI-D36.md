@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D36 — Source Sector
 permalink: /registry/object/VI.D36/
 registry_id: VI.D36

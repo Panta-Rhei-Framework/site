@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T31 — Finite Spectral Support
 permalink: /registry/object/II.T31/
 registry_id: II.T31

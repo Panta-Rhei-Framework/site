@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D55 — Lexicographic Defect Functional
 permalink: /registry/object/VI.D55/
 registry_id: VI.D55

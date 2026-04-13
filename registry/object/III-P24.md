@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P24 — Three-Reading Equivalence at E₁
 permalink: /registry/object/III.P24/
 registry_id: III.P24

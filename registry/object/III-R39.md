@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R39 — Export Contracts to Books IV-V
 permalink: /registry/object/III.R39/
 registry_id: III.R39

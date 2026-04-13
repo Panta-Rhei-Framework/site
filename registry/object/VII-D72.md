@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D72 — Commitment Register Admissibility
 permalink: /registry/object/VII.D72/
 registry_id: VII.D72

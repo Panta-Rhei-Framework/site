@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R53 — Archetypes-CI j-Closure Bridge
 permalink: /registry/object/VII.R53/
 registry_id: VII.R53

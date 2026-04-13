@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T71 — Obstruction Bounded
 permalink: /registry/object/III.T71/
 registry_id: III.T71

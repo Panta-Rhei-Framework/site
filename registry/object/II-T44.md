@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T44 — Asymmetric Determination
 permalink: /registry/object/II.T44/
 registry_id: II.T44

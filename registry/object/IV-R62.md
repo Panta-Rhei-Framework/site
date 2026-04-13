@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R62 — Physical interpretation
 permalink: /registry/object/IV.R62/
 registry_id: IV.R62

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T34p — Solenoid Pitch Theorem
 permalink: /registry/object/IV.T34p/
 registry_id: IV.T34p

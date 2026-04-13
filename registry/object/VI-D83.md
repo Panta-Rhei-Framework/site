@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D83 — Waddington Landscape
 permalink: /registry/object/VI.D83/
 registry_id: VI.D83

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D15 — Sector Lift Functor
 permalink: /registry/object/IV.D15/
 registry_id: IV.D15

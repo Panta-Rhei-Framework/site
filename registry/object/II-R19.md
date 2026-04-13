@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R19 — Spectral Forces Preview
 permalink: /registry/object/II.R19/
 registry_id: II.R19

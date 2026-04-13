@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R34 — Coherence Fixing vs Mass Generation
 permalink: /registry/object/IV.R34/
 registry_id: IV.R34

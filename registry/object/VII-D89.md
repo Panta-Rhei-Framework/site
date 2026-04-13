@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D89 — Subject-Tool Collapse
 permalink: /registry/object/VII.D89/
 registry_id: VII.D89

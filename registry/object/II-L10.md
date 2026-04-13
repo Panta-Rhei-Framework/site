@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L10 — Polarity Symmetry
 permalink: /registry/object/II.L10/
 registry_id: II.L10

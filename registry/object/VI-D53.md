@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D53 — SelfDesc over Code, Not Carrier
 permalink: /registry/object/VI.D53/
 registry_id: VI.D53

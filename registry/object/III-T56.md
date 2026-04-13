@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T56 — Parseval Identity
 permalink: /registry/object/III.T56/
 registry_id: III.T56

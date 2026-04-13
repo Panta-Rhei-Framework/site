@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D03 — Strong Sector at E₁
 permalink: /registry/object/IV.D03/
 registry_id: IV.D03

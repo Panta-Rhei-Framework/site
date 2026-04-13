@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Climate Policy Optimization, Investment Prioritization, and International
   Coordination
 permalink: /impact/papers/climate-policy-optimization-investment-prioritization-international-coordination/

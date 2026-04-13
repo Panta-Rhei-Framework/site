@@ -59,6 +59,6 @@ modes and six axes—that organizes the entire audit.
 The modes classify every $τ$-construction
 by its relationship to its orthodox counterpart.
 The axes provide a uniform evaluation framework.
-Together, they turn ``$τ$ is different''
+Together, they turn “$τ$ is different”
 from a vague claim into a verifiable,
 structure-by-structure inventory.

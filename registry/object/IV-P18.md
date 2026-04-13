@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P18 — Inner Product Uniqueness
 permalink: /registry/object/IV.P18/
 registry_id: IV.P18

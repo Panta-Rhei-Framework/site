@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D44 — Perception Functor
 permalink: /registry/object/VII.D44/
 registry_id: VII.D44

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P02 — Seven-Book Partition
 permalink: /registry/object/VII.P02/
 registry_id: VII.P02

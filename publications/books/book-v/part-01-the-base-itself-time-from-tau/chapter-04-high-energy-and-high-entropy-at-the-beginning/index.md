@@ -13,7 +13,7 @@ chapter_number: 4
 chapter_slug: "chapter-04-high-energy-and-high-entropy-at-the-beginning"
 page_in_book: 29
 prev_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/"
-prev_chapter_title: "Chapter 3: The Temporal Ignition: Why a ``Time Epoch'' Starts"
+prev_chapter_title: "Chapter 3: The Temporal Ignition: Why a “Time Epoch” Starts"
 next_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-05-the-macro-readout-operational-distance-and-photon-ontology/"
 next_chapter_title: "Chapter 5: The Macro Readout: Operational Distance and Photon Ontology"
 summary_short: "The preceding chapters established proper time as arc length along $τ^1$ and identified three temporal epochs. The temporal epoch begins at the ignition depth…"
@@ -65,7 +65,7 @@ the coupling constant $κ_τ = 1 - ι_τ$
 is at full strength,
 and the resulting chart-level readout
 is what orthodox physics calls
-the ``hot Big Bang'' kolb1990early.
+the “hot Big Bang” kolb1990early.
 
 The chapter also gives a first-pass interpretation
 of cosmological inflation:

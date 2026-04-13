@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D18 — Pinch Map
 permalink: /registry/object/II.D18/
 registry_id: II.D18

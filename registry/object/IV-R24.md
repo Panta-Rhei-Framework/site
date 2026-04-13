@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R24 — Charge Balance |Q_p| = |Q_e|
 permalink: /registry/object/IV.R24/
 registry_id: IV.R24

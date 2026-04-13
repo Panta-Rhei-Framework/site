@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R42 — Artificial Mind Criteria
 permalink: /registry/object/VII.R42/
 registry_id: VII.R42

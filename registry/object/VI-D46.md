@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D46 — Consumer Mixer on (γ, η)
 permalink: /registry/object/VI.D46/
 registry_id: VI.D46

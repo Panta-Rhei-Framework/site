@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D40 — Non-Dualistic Platonism
 permalink: /registry/object/VII.D40/
 registry_id: VII.D40

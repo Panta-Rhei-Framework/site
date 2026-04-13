@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T51 — Parity Violation in the A-Sector
 permalink: /registry/object/IV.T51/
 registry_id: IV.T51

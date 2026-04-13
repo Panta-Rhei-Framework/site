@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P08 — Each Requirement Independently Necessary
 permalink: /registry/object/VII.P08/
 registry_id: VII.P08

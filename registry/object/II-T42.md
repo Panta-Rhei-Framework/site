@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T42 — Categoricity
 permalink: /registry/object/II.T42/
 registry_id: II.T42

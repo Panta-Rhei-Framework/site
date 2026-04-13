@@ -84,13 +84,13 @@ and the master constant $ι_τ$.
 
 ## Chapters
 
-- **[Chapter 9: The Frame Holonomy Sector: Gravity as Canonical Gap](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-09-the-frame-holonomy-sector-gravity-as-canonical-gap/)**
-- **[Chapter 10: Lorentz Without Minkowski: Constraint Geometry](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-10-lorentz-without-minkowski-constraint-geometry/)**
-- **[Chapter 11: The τ-Einstein Equation: Boundary-Character Equality](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-11-the-tau-einstein-equation-boundary-character-equality/)**
-- **[Chapter 12: Linear τ-Einstein: Weak-Field Regime and Classical Tests](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-12-linear-tau-einstein-weak-field-regime-and-classical-tests/)**
-- **[Chapter 13: Nonlinear τ-Einstein: Address Resolution, Not PDE Solving](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-13-nonlinear-tau-einstein-address-resolution-not-pde-solving/)**
-- **[Chapter 14: The τ-Schwarzschild Readout: Torus Vacuum](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-14-the-tau-schwarzschild-readout-torus-vacuum/)**
-- **[Chapter 15: TOV Existence and the Star Builder](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-15-tov-existence-and-the-star-builder/)**
-- **[Chapter 16: TOV Phase Boundary and Forced Topology Relaxation](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-16-tov-phase-boundary-and-forced-topology-relaxation/)**
-- **[Chapter 17: The Calibration Triangle: Neutron →](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-17-the-calibration-triangle-neutron/)**
-- **[Chapter 18: The Gravitational Closing Identity](/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-18-the-gravitational-closing-identity/)**
+- **[Chapter 9: The Frame Holonomy Sector: Gravity as Canonical Gap]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-09-the-frame-holonomy-sector-gravity-as-canonical-gap/' | relative_url }})**
+- **[Chapter 10: Lorentz Without Minkowski: Constraint Geometry]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-10-lorentz-without-minkowski-constraint-geometry/' | relative_url }})**
+- **[Chapter 11: The τ-Einstein Equation: Boundary-Character Equality]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-11-the-tau-einstein-equation-boundary-character-equality/' | relative_url }})**
+- **[Chapter 12: Linear τ-Einstein: Weak-Field Regime and Classical Tests]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-12-linear-tau-einstein-weak-field-regime-and-classical-tests/' | relative_url }})**
+- **[Chapter 13: Nonlinear τ-Einstein: Address Resolution, Not PDE Solving]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-13-nonlinear-tau-einstein-address-resolution-not-pde-solving/' | relative_url }})**
+- **[Chapter 14: The τ-Schwarzschild Readout: Torus Vacuum]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-14-the-tau-schwarzschild-readout-torus-vacuum/' | relative_url }})**
+- **[Chapter 15: TOV Existence and the Star Builder]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-15-tov-existence-and-the-star-builder/' | relative_url }})**
+- **[Chapter 16: TOV Phase Boundary and Forced Topology Relaxation]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-16-tov-phase-boundary-and-forced-topology-relaxation/' | relative_url }})**
+- **[Chapter 17: The Calibration Triangle: Neutron →]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-17-the-calibration-triangle-neutron/' | relative_url }})**
+- **[Chapter 18: The Gravitational Closing Identity]({{ '/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-18-the-gravitational-closing-identity/' | relative_url }})**

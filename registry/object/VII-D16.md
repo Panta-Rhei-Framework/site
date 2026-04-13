@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D16 — Archetype as Minimal j-Closed Fixed Point
 permalink: /registry/object/VII.D16/
 registry_id: VII.D16

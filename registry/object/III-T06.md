@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T06 — Template Invariance Under Reflection
 permalink: /registry/object/III.T06/
 registry_id: III.T06

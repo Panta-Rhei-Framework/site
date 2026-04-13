@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P32 — Bridge Algebraic Reduction
 permalink: /registry/object/III.P32/
 registry_id: III.P32

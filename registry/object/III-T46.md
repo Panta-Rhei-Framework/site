@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T46 — Bridge Ledger
 permalink: /registry/object/III.T46/
 registry_id: III.T46

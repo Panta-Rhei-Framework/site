@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R30 — Oscillation as Tau^1 Geometry
 permalink: /registry/object/IV.R30/
 registry_id: IV.R30

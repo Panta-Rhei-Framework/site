@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D93 — RH Spectral Gap Characterization
 permalink: /registry/object/III.D93/
 registry_id: III.D93

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T17 — Circadian Rhythm as Poincaré Orbit
 permalink: /registry/object/VI.T17/
 registry_id: VI.T17

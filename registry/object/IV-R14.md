@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R14 — Fractional Charges and Confinement
 permalink: /registry/object/IV.R14/
 registry_id: IV.R14

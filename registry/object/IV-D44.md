@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D44 — Triple Holonomy
 permalink: /registry/object/IV.D44/
 registry_id: IV.D44

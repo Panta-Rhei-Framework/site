@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P25 — Mordell-Weil Analogue
 permalink: /registry/object/III.P25/
 registry_id: III.P25

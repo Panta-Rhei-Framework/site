@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R12 — Charge Conjugation
 permalink: /registry/object/IV.R12/
 registry_id: IV.R12

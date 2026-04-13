@@ -41,7 +41,7 @@ right_rail:
 The neutrino is the ghost particle—almost massless, weakly
 interacting, mysterious. In Category $τ$ the mystery dissolves:
 the neutrino is the $τ^1$ **time eigenmode** that emerges
-in $β^-$ decay. It is literally a ``ray of time'' made manifest
+in $β^-$ decay. It is literally a “ray of time” made manifest
 as a particle. Its near-masslessness, its weak-only interaction,
 and its definite helicity all follow from a single geometric fact:
 the neutrino lives primarily on the base $τ^1$, with minimal

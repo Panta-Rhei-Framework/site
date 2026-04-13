@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L09 — Modal Collapse Prevention
 permalink: /registry/object/VII.L09/
 registry_id: VII.L09

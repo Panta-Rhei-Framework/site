@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R39 — √3 as Category τ Signature
 permalink: /registry/object/IV.R39/
 registry_id: IV.R39

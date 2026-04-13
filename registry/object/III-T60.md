@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T60 — Topological Faithfulness
 permalink: /registry/object/III.T60/
 registry_id: III.T60

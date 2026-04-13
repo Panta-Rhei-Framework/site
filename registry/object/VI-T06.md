@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T06 — Consumer Mixer Uniqueness
 permalink: /registry/object/VI.T06/
 registry_id: VI.T06

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D24 — Boundary Normal Form
 permalink: /registry/object/III.D24/
 registry_id: III.D24

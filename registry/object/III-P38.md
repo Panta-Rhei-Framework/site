@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P38 — P vs NP as Polynomial Translation Obstruction
 permalink: /registry/object/III.P38/
 registry_id: III.P38

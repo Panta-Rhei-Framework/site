@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.K1 — Strict Order (K1)
 permalink: /registry/object/I.K1/
 registry_id: I.K1

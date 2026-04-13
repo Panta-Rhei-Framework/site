@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P07 — All Links Tau-Effective
 permalink: /registry/object/IV.P07/
 registry_id: IV.P07

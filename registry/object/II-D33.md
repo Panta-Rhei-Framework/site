@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D33 — Bipolar Idempotents Interior
 permalink: /registry/object/II.D33/
 registry_id: II.D33

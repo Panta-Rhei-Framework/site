@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R28 — Abiogenesis is not contingent
 permalink: /registry/object/VI.R28/
 registry_id: VI.R28

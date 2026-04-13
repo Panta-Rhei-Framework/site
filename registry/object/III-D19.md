@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D19 — Primorial Ladder
 permalink: /registry/object/III.D19/
 registry_id: III.D19

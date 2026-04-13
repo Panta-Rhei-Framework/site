@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D99 — Eratosthenes Sieve
 permalink: /registry/object/III.D99/
 registry_id: III.D99

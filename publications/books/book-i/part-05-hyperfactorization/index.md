@@ -85,8 +85,8 @@ has exactly one canonical address.
 
 ## Chapters
 
-- **[Chapter 21: The Uniqueness Question](/publications/books/book-i/part-05-hyperfactorization/chapter-21-the-uniqueness-question/)**
-- **[Chapter 22: No-Tie Determinism](/publications/books/book-i/part-05-hyperfactorization/chapter-22-no-tie-determinism/)**
-- **[Chapter 23: Strict Remainder Descent](/publications/books/book-i/part-05-hyperfactorization/chapter-23-strict-remainder-descent/)**
-- **[Chapter 24: The Hyperfactorization Theorem](/publications/books/book-i/part-05-hyperfactorization/chapter-24-the-hyperfactorization-theorem/)**
-- **[Chapter 25: Consequences and the Constructive Substrate](/publications/books/book-i/part-05-hyperfactorization/chapter-25-consequences-and-the-constructive-substrate/)**
+- **[Chapter 21: The Uniqueness Question]({{ '/publications/books/book-i/part-05-hyperfactorization/chapter-21-the-uniqueness-question/' | relative_url }})**
+- **[Chapter 22: No-Tie Determinism]({{ '/publications/books/book-i/part-05-hyperfactorization/chapter-22-no-tie-determinism/' | relative_url }})**
+- **[Chapter 23: Strict Remainder Descent]({{ '/publications/books/book-i/part-05-hyperfactorization/chapter-23-strict-remainder-descent/' | relative_url }})**
+- **[Chapter 24: The Hyperfactorization Theorem]({{ '/publications/books/book-i/part-05-hyperfactorization/chapter-24-the-hyperfactorization-theorem/' | relative_url }})**
+- **[Chapter 25: Consequences and the Constructive Substrate]({{ '/publications/books/book-i/part-05-hyperfactorization/chapter-25-consequences-and-the-constructive-substrate/' | relative_url }})**

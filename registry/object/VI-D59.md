@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D59 — BH DecodeHorizon
 permalink: /registry/object/VI.D59/
 registry_id: VI.D59

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R05 — Topological Skeleton
 permalink: /registry/object/II.R05/
 registry_id: II.R05

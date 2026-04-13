@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D72 — σ-Equivariant Crossing-Point Mediator
 permalink: /registry/object/IV.D72/
 registry_id: IV.D72

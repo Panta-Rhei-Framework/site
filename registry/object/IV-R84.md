@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R84 — Why π-typed, not η-typed
 permalink: /registry/object/IV.R84/
 registry_id: IV.R84

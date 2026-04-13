@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R40 — Religion as Readout Functor
 permalink: /registry/object/VII.R40/
 registry_id: VII.R40

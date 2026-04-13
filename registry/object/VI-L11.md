@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L11 — Primorial Ladder Convergence
 permalink: /registry/object/VI.L11/
 registry_id: VI.L11

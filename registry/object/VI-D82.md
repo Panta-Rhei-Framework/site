@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D82 — Intergenerational Transfer
 permalink: /registry/object/VI.D82/
 registry_id: VI.D82

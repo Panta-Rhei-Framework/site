@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T28 — Autoimmunity as Distinction Failure
 permalink: /registry/object/VI.T28/
 registry_id: VI.T28

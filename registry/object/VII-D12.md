@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D12 — Sector Witness Bundle
 permalink: /registry/object/VII.D12/
 registry_id: VII.D12

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D71 — Bridge Axiom
 permalink: /registry/object/III.D71/
 registry_id: III.D71

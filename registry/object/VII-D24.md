@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D24 — τ-Kernel Philosophical Summary
 permalink: /registry/object/VII.D24/
 registry_id: VII.D24

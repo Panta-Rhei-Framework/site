@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R22 — Organism/Ecosystem/Basin Taxonomy
 permalink: /registry/object/VI.R22/
 registry_id: VI.R22

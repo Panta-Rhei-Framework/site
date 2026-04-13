@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P10 — K5 Off-Diagonal Exclusion
 permalink: /registry/object/III.P10/
 registry_id: III.P10

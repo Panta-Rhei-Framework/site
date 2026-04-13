@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D23 — τ³ Domain Correspondence
 permalink: /registry/object/VI.D23/
 registry_id: VI.D23

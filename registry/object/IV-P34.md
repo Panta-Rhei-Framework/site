@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P34 — Charge of Fundamental Modes
 permalink: /registry/object/IV.P34/
 registry_id: IV.P34

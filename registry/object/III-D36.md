@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D36 — τ-Admissible Fluid Data
 permalink: /registry/object/III.D36/
 registry_id: III.D36

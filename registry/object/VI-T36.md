@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T36 — Universal BH = Fully Alive State
 permalink: /registry/object/VI.T36/
 registry_id: VI.T36

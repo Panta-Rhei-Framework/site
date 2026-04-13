@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P01 — Sector Independence at E₃
 permalink: /registry/object/VII.P01/
 registry_id: VII.P01

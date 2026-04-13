@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R58 — Layer-Conflation Diagnostic
 permalink: /registry/object/VII.R58/
 registry_id: VII.R58

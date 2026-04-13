@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D58 — E₁ Mutual Determination Instance
 permalink: /registry/object/III.D58/
 registry_id: III.D58

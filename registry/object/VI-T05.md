@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T05 — Metabolic Fiber Theorem
 permalink: /registry/object/VI.T05/
 registry_id: VI.T05

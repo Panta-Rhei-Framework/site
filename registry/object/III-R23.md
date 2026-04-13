@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R23 — 1st Edition Error Diagnosis
 permalink: /registry/object/III.R23/
 registry_id: III.R23

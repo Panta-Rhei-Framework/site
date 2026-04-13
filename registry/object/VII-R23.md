@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R23 — Kant's Sublime in Categorical Terms
 permalink: /registry/object/VII.R23/
 registry_id: VII.R23

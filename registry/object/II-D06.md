@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D06 — Fiber T^2
 permalink: /registry/object/II.D06/
 registry_id: II.D06

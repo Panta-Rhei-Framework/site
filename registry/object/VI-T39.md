@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T39 — Language as Shared Code
 permalink: /registry/object/VI.T39/
 registry_id: VI.T39

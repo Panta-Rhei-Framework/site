@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R44 — Alpha Formula Correction
 permalink: /registry/object/IV.R44/
 registry_id: IV.R44

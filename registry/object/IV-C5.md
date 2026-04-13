@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.C5 — The -Matrix as Composed Morphism
 permalink: /registry/object/IV.C5/
 registry_id: IV.C5

@@ -70,20 +70,20 @@ Physics *is* $E_1$.
 
 ## Parts
 
-- **[Prologue: Where Does Physics Live?](/publications/books/book-iii/part-00-where-does-physics-live/)** — 3 chapters
-- **[Part I: The Self-Enrichment Principle](/publications/books/book-iii/part-01-the-self-enrichment-principle/)** — 5 chapters
-- **[Part II: The 4+1 Sector Template](/publications/books/book-iii/part-02-the-4-1-sector-template/)** — 5 chapters
-- **[Part III: The Spectral Algebra](/publications/books/book-iii/part-03-the-spectral-algebra/)** — 7 chapters
-- **[Part IV: The Spectral Doors](/publications/books/book-iii/part-04-the-spectral-doors/)** — 10 chapters
-- **[Part V: The Physics Layer](/publications/books/book-iii/part-05-the-physics-layer/)** — 10 chapters
-- **[Part VI: The Arithmetic Mirror](/publications/books/book-iii/part-06-the-arithmetic-mirror/)** — 8 chapters
-- **[Part VII: The Hinge Theorem](/publications/books/book-iii/part-07-the-hinge-theorem/)** — 4 chapters
-- **[Part VIII: Where Physics Lives](/publications/books/book-iii/part-08-where-physics-lives/)** — 4 chapters
-- **[Part IX: Where Life Lives](/publications/books/book-iii/part-09-where-life-lives/)** — 9 chapters
-- **[Part X: Where Proof Lives](/publications/books/book-iii/part-10-where-proof-lives/)** — 11 chapters
+- **[Prologue: Where Does Physics Live?]({{ '/publications/books/book-iii/part-00-where-does-physics-live/' | relative_url }})** — 3 chapters
+- **[Part I: The Self-Enrichment Principle]({{ '/publications/books/book-iii/part-01-the-self-enrichment-principle/' | relative_url }})** — 5 chapters
+- **[Part II: The 4+1 Sector Template]({{ '/publications/books/book-iii/part-02-the-4-1-sector-template/' | relative_url }})** — 5 chapters
+- **[Part III: The Spectral Algebra]({{ '/publications/books/book-iii/part-03-the-spectral-algebra/' | relative_url }})** — 7 chapters
+- **[Part IV: The Spectral Doors]({{ '/publications/books/book-iii/part-04-the-spectral-doors/' | relative_url }})** — 10 chapters
+- **[Part V: The Physics Layer]({{ '/publications/books/book-iii/part-05-the-physics-layer/' | relative_url }})** — 10 chapters
+- **[Part VI: The Arithmetic Mirror]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/' | relative_url }})** — 8 chapters
+- **[Part VII: The Hinge Theorem]({{ '/publications/books/book-iii/part-07-the-hinge-theorem/' | relative_url }})** — 4 chapters
+- **[Part VIII: Where Physics Lives]({{ '/publications/books/book-iii/part-08-where-physics-lives/' | relative_url }})** — 4 chapters
+- **[Part IX: Where Life Lives]({{ '/publications/books/book-iii/part-09-where-life-lives/' | relative_url }})** — 9 chapters
+- **[Part X: Where Proof Lives]({{ '/publications/books/book-iii/part-10-where-proof-lives/' | relative_url }})** — 11 chapters
 
 ## Canonical Artifacts
 
-- **Registry**: [76 chapters mapped to registry objects](/registry/books/book-iii/)
-- **Dashboard**: [Formalization status and dependency graph](/registry/dashboards/book-iii/)
+- **Registry**: [76 chapters mapped to registry objects]({{ '/registry/books/book-iii/' | relative_url }})
+- **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-iii/' | relative_url }})
 - **Formalization**: [TauLib BookIII](https://github.com/Panta-Rhei-Framework/formalization) — Lean 4 verification

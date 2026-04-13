@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D78 — τ-Native Abstract Turing Machine
 permalink: /registry/object/III.D78/
 registry_id: III.D78

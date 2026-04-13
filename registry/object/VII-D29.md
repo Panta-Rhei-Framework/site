@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D29 — τ³ Philosophical Framing
 permalink: /registry/object/VII.D29/
 registry_id: VII.D29

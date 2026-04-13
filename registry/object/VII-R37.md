@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R37 — Architecture as Cultural Readout
 permalink: /registry/object/VII.R37/
 registry_id: VII.R37

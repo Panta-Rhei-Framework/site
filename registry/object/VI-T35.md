@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T35 — Crossing-Limit Theorem
 permalink: /registry/object/VI.T35/
 registry_id: VI.T35

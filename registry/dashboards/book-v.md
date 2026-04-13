@@ -1,5 +1,6 @@
 ---
 layout: registry-dashboard
+lane: registry
 title: 'Registry Dashboard — Book V: Categorical Macrocosm'
 permalink: /registry/dashboards/book-v/
 book: V

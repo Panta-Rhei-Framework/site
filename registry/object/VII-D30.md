@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D30 — Bulk-Boundary Duality
 permalink: /registry/object/VII.D30/
 registry_id: VII.D30

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P16 — Holonomy Triviality
 permalink: /registry/object/II.P16/
 registry_id: II.P16

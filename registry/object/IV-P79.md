@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P79 — Framework Comparison
 permalink: /registry/object/IV.P79/
 registry_id: IV.P79

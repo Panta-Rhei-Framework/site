@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P49 — Perturbative Expansion in alpha
 permalink: /registry/object/IV.P49/
 registry_id: IV.P49

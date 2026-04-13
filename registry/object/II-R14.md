@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R14 — E1 Preview
 permalink: /registry/object/II.R14/
 registry_id: II.R14

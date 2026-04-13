@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D103 — Partition Count at Primorial
 permalink: /registry/object/III.D103/
 registry_id: III.D103

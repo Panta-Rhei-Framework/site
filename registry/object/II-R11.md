@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R11 — Positive vs Negative Regularity
 permalink: /registry/object/II.R11/
 registry_id: II.R11

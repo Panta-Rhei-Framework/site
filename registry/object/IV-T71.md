@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T71 — Confinement Theorem
 permalink: /registry/object/IV.T71/
 registry_id: IV.T71

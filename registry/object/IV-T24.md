@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T24 — Planck Character Uniqueness
 permalink: /registry/object/IV.T24/
 registry_id: IV.T24

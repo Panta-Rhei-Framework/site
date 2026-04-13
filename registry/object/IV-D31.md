@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D31 — τ-to-SI Conversion
 permalink: /registry/object/IV.D31/
 registry_id: IV.D31

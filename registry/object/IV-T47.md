@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T47 — EM Wave Equation
 permalink: /registry/object/IV.T47/
 registry_id: IV.T47

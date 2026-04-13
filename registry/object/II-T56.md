@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T56 — Trade-Off Atomicity
 permalink: /registry/object/II.T56/
 registry_id: II.T56

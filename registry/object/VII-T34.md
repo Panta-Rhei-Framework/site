@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T34 — Flourishing as Global Section
 permalink: /registry/object/VII.T34/
 registry_id: VII.T34

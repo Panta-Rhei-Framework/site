@@ -48,7 +48,7 @@ protention is the section's extension to the anticipated future
 context. Temporal synthesis—the composition of the three moments
 into experienced duration—is the gluing operation on temporal
 overlaps. The categorical formalization matches Husserl's
-phenomenological analysis while making precise what ``gluing across
-temporal moments'' means. This chapter provides the phenomenological
+phenomenological analysis while making precise what “gluing across
+temporal moments” means. This chapter provides the phenomenological
 account of time; for the ontological account, see
 Chapter [ch:causation-space-time].

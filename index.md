@@ -48,7 +48,7 @@ The program is organized by four enrichment layers:
 
 ## Start exploring
 
-The **Research Program** lane explains what the program is, why it exists, and what kind of engagement it asks for. Start with [About the Research](/research-program/about/) for an overview.
+The **Research Program** lane explains what the program is, why it exists, and what kind of engagement it asks for. Start with [About the Research]({{ '/research-program/about/' | relative_url }}) for an overview.
 
 *First earn the language, then earn the question, then earn the answer.*
 

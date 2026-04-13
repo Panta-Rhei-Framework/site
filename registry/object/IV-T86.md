@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T86 — Rydberg prediction at 0.025 ppm
 permalink: /registry/object/IV.T86/
 registry_id: IV.T86

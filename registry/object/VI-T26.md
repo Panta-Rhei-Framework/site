@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T26 — Sex as Second Distinction
 permalink: /registry/object/VI.T26/
 registry_id: VI.T26

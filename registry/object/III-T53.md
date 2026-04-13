@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T53 — Universal Admissibility Theorem
 permalink: /registry/object/III.T53/
 registry_id: III.T53

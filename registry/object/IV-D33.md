@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D33 — Speed of Light
 permalink: /registry/object/IV.D33/
 registry_id: IV.D33

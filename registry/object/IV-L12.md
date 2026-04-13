@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L12 — Excitation coherence
 permalink: /registry/object/IV.L12/
 registry_id: IV.L12

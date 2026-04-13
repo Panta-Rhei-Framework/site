@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T68 — Goldbach Verified to 500
 permalink: /registry/object/III.T68/
 registry_id: III.T68

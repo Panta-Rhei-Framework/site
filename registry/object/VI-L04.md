@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L04 — No Fifth Primitive Sector
 permalink: /registry/object/VI.L04/
 registry_id: VI.L04

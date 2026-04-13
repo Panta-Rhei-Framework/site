@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D49 — E₂ Computational Agent
 permalink: /registry/object/III.D49/
 registry_id: III.D49

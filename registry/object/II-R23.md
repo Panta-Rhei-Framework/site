@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R23 — The Rewiring Thesis
 permalink: /registry/object/II.R23/
 registry_id: II.R23

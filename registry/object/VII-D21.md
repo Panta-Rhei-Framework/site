@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D21 — Synchronicity as Kernel Invariant
 permalink: /registry/object/VII.D21/
 registry_id: VII.D21

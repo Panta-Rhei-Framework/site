@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T19 — Orthonormal Basis
 permalink: /registry/object/IV.T19/
 registry_id: IV.T19

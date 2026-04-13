@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T36 — Functoriality Theorem
 permalink: /registry/object/III.T36/
 registry_id: III.T36

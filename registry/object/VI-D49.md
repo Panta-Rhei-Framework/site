@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D49 — Recombination Functor
 permalink: /registry/object/VI.D49/
 registry_id: VI.D49

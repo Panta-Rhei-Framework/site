@@ -20,12 +20,12 @@ summary_short: "Reference is not a mysterious relation between word and world bu
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-05-categorical-language-meaning/"
-canonical_part_title: "Part V: Categorical Language \& Meaning"
+canonical_part_title: "Part V: Categorical Language & Meaning"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part V: Categorical Language \& Meaning"
+  - title: "Part V: Categorical Language & Meaning"
     url: /publications/books/book-vii/part-05-categorical-language-meaning/
   - title: Registry
     url: /registry/books/book-vii/

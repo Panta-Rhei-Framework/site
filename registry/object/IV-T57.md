@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T57 — Low-Energy Limit of W Exchange (Fermi Limit)
 permalink: /registry/object/IV.T57/
 registry_id: IV.T57

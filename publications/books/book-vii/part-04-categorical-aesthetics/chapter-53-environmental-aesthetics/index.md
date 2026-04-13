@@ -47,7 +47,7 @@ of ecological coherence. A healthy ecosystem exhibits high structural
 invariance (stable cycles, resilient populations, balanced energy
 flows); a degraded ecosystem exhibits low invariance (fragility,
 instability, dissonance). The perception of natural beauty therefore
-tracks a real structural property: environments that ``look right''
+tracks a real structural property: environments that “look right”
 tend to be functioning well. This observation opens a bridge from
 aesthetics to ethics: if beauty tracks structural integrity, then
 destroying natural beauty is not merely an aesthetic loss but a

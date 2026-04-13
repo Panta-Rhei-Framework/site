@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D39 — Complete Constants Ledger
 permalink: /registry/object/IV.D39/
 registry_id: IV.D39

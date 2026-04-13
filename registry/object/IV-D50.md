@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D50 — CR-Structure on τ³
 permalink: /registry/object/IV.D50/
 registry_id: IV.D50

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L02 — Refinement-Spectral Equivalence
 permalink: /registry/object/II.L02/
 registry_id: II.L02

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P40 — Observable Hierarchy
 permalink: /registry/object/IV.P40/
 registry_id: IV.P40

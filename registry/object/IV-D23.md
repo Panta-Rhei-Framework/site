@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D23 — Mass-Energy Relation
 permalink: /registry/object/IV.D23/
 registry_id: IV.D23

@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Pest, Disease, and Livestock-Stress Early Warning
 permalink: /impact/papers/pest-disease-livestock-stress-early-warning/
 paper_id: companion-agriculture-paper-3

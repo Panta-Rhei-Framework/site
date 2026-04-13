@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D32 — L-Function as Spectral Determinant
 permalink: /registry/object/III.D32/
 registry_id: III.D32

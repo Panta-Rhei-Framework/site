@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T43 — Move-Bridge Correspondence
 permalink: /registry/object/III.T43/
 registry_id: III.T43

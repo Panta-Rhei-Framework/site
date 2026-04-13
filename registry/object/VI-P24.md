@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P24 — Sleep Deprivation Accelerates Defect Crossing
 permalink: /registry/object/VI.P24/
 registry_id: VI.P24

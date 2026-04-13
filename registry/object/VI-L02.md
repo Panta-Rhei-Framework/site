@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L02 — NS-TOV Counterexample
 permalink: /registry/object/VI.L02/
 registry_id: VI.L02

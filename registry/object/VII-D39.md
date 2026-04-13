@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D39 — Three-Layer Solipsism Resolution
 permalink: /registry/object/VII.D39/
 registry_id: VII.D39

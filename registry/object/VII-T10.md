@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T10 — Readout Functor Faithfulness
 permalink: /registry/object/VII.T10/
 registry_id: VII.T10

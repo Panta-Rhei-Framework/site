@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T15 — Betweenness Axioms
 permalink: /registry/object/II.T15/
 registry_id: II.T15

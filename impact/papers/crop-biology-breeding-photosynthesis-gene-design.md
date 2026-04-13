@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Crop Biology, Breeding, Photosynthesis Engineering, and Targeted Gene
   Design
 permalink: /impact/papers/crop-biology-breeding-photosynthesis-gene-design/

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R30 — Empirical identification caveat
 permalink: /registry/object/VI.R30/
 registry_id: VI.R30

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P20 — Animal Dignity from Distinction
 permalink: /registry/object/VII.P20/
 registry_id: VII.P20

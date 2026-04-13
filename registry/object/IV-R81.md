@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R81 — Physical meaning
 permalink: /registry/object/IV.R81/
 registry_id: IV.R81

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L04 — Germ-Character Equivalence
 permalink: /registry/object/II.L04/
 registry_id: II.L04

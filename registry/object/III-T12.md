@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T12 — Adelic Embedding Theorem
 permalink: /registry/object/III.T12/
 registry_id: III.T12

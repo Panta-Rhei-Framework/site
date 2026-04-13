@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T34 — Regularity Criterion
 permalink: /registry/object/II.T34/
 registry_id: II.T34

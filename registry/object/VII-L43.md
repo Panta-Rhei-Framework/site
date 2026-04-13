@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L43 — Ritual Gluing Well-Defined
 permalink: /registry/object/VII.L43/
 registry_id: VII.L43

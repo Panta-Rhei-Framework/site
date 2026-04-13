@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D75 — E₂→E₃ Boundary Crossing
 permalink: /registry/object/III.D75/
 registry_id: III.D75

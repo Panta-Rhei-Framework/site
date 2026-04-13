@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R06 — Topology as Invariant
 permalink: /registry/object/II.R06/
 registry_id: II.R06

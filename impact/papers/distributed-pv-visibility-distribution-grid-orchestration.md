@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Distributed PV Visibility and Distribution-Grid Orchestration
 permalink: /impact/papers/distributed-pv-visibility-distribution-grid-orchestration/
 paper_id: companion-solar-paper-2

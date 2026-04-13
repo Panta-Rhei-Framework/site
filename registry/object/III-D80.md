@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D80 — q-Expansion Coefficients
 permalink: /registry/object/III.D80/
 registry_id: III.D80

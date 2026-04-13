@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D25 — Temporal Stability Predicate
 permalink: /registry/object/VI.D25/
 registry_id: VI.D25

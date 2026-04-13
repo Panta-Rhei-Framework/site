@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T29 — BH Distinction Theorem
 permalink: /registry/object/VI.T29/
 registry_id: VI.T29

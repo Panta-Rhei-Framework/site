@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L04 — Strictness Between Layers
 permalink: /registry/object/VII.L04/
 registry_id: VII.L04

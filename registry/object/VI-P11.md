@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P11 — Krebs Cycle as Loop_L Instantiation
 permalink: /registry/object/VI.P11/
 registry_id: VI.P11

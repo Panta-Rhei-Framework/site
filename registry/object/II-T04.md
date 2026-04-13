@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T04 — Cylinder Basis Theorem
 permalink: /registry/object/II.T04/
 registry_id: II.T04

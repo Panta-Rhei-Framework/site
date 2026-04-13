@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D28 — Derived Geometry
 permalink: /registry/object/VII.D28/
 registry_id: VII.D28

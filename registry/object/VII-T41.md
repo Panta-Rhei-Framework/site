@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T41 — Consciousness as Global Section
 permalink: /registry/object/VII.T41/
 registry_id: VII.T41

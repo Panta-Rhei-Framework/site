@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter
 prev_chapter_title: "Chapter 61: The Computational Bi-Square"
 next_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter-63-physical-turing-machines-as-tau/"
 next_chapter_title: "Chapter 63: Physical Turing Machines as τ"
-summary_short: "The 1st Edition posed a ``Representation Barrier'': no faithful encoding $\\{0,1\\}^* → Addr(τ)$ preserves complexity separation. This chapter diagnoses that…"
+summary_short: "The 1st Edition posed a “Representation Barrier”: no faithful encoding $\\{0,1\\}^* → Addr(τ)$ preserves complexity separation. This chapter diagnoses that…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-09-where-life-lives/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The 1st Edition posed a ``Representation Barrier'': no faithful encoding
+The 1st Edition posed a “Representation Barrier”: no faithful encoding
 $\{0,1\}^* → Addr(τ)$ preserves complexity separation.
 This chapter diagnoses that barrier as a category error—asking an
 $E_2$ question with $E_0$ tools—and proves that at

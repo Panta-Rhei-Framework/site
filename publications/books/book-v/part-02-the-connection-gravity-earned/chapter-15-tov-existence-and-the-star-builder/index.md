@@ -71,7 +71,7 @@ The construction begins
 with the spherical carrier predicate
 (\S[sec:ch17-spherical-carrier]),
 which specifies what
-``spherically symmetric'' means
+“spherically symmetric” means
 in the $τ$-framework;
 introduces the GR tension functional
 (\S[sec:ch17-tension-functional]),

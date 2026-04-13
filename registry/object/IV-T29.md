@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T29 — Energy Duality
 permalink: /registry/object/IV.T29/
 registry_id: IV.T29

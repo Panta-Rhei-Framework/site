@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T29 — Physics Layer Assembly
 permalink: /registry/object/III.T29/
 registry_id: III.T29

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T40 — Narrative Identity as Functor
 permalink: /registry/object/VII.T40/
 registry_id: VII.T40

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T11 — Coherence-Correspondence Unification
 permalink: /registry/object/VII.T11/
 registry_id: VII.T11

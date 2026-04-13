@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P20 — Čech-to-Derived Comparison
 permalink: /registry/object/II.P20/
 registry_id: II.P20

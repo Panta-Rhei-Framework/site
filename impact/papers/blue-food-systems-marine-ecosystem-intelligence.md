@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ and Blue Food Systems
 permalink: /impact/papers/blue-food-systems-marine-ecosystem-intelligence/
 paper_id: companion-ocean-paper-3

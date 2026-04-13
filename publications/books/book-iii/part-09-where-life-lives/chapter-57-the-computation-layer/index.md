@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-08-where-physics-lives/chap
 prev_chapter_title: "Chapter 56: The Temporal-Spatial Decomposition"
 next_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter-58-the-tau/"
 next_chapter_title: "Chapter 58: The τ"
-summary_short: "This chapter opens the P vs NP block by establishing that the question ``Can search be efficient?'' is *native* to the enrichment level $E_2$—and meaningless…"
+summary_short: "This chapter opens the P vs NP block by establishing that the question “Can search be efficient?” is *native* to the enrichment level $E_2$—and meaningless…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-09-where-life-lives/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-This chapter opens the P vs NP block by establishing that the question ``Can search be efficient?'' is *native* to the enrichment level $E_2$—and meaningless below it. At $E_0$, objects have relations but no processes: there are no agents, no steps, no execution. At $E_1$, dynamics exist but no self-referential codes: a rock falling under gravity is not computing. The qualitative leap to $E_2$ occurs when objects contain their own decoders—when data carries the instructions for reading itself. We formalise this leap as the *Code–Execution–Code cycle*, define the $E_2$ *computational agent* and *operational closure*, and show that life is the physical instantiation of this cycle running on $E_1$ hardware. The chapter closes by demonstrating that every ingredient of the P vs NP problem—agents, steps, efficiency—presupposes $E_2$ structure. The question is not hard to answer at lower levels; it is vacuous there.
+This chapter opens the P vs NP block by establishing that the question “Can search be efficient?” is *native* to the enrichment level $E_2$—and meaningless below it. At $E_0$, objects have relations but no processes: there are no agents, no steps, no execution. At $E_1$, dynamics exist but no self-referential codes: a rock falling under gravity is not computing. The qualitative leap to $E_2$ occurs when objects contain their own decoders—when data carries the instructions for reading itself. We formalise this leap as the *Code–Execution–Code cycle*, define the $E_2$ *computational agent* and *operational closure*, and show that life is the physical instantiation of this cycle running on $E_1$ hardware. The chapter closes by demonstrating that every ingredient of the P vs NP problem—agents, steps, efficiency—presupposes $E_2$ structure. The question is not hard to answer at lower levels; it is vacuous there.

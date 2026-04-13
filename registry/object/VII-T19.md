@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T19 — Beauty as Invariance
 permalink: /registry/object/VII.T19/
 registry_id: VII.T19

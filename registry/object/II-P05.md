@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P05 — Lobes as Clopen Sets
 permalink: /registry/object/II.P05/
 registry_id: II.P05

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T24 — Hartogs Flow Theorem
 permalink: /registry/object/III.T24/
 registry_id: III.T24

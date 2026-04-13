@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L11 — Vacuum coherence
 permalink: /registry/object/IV.L11/
 registry_id: IV.L11

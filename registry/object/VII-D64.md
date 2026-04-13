@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D64 — Paraconsistent Boundary Logic
 permalink: /registry/object/VII.D64/
 registry_id: VII.D64

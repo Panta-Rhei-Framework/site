@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D04 — Commitment Register
 permalink: /registry/object/VII.D04/
 registry_id: VII.D04

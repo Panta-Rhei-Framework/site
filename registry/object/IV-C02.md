@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.C02 — Twin Prime Residue Theorem
 permalink: /registry/object/IV.C02/
 registry_id: IV.C02

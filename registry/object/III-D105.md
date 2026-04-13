@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D105 — Twin Prime Sieve Count
 permalink: /registry/object/III.D105/
 registry_id: III.D105

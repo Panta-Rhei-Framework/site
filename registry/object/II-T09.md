@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T09 — Total Disconnectedness
 permalink: /registry/object/II.T09/
 registry_id: II.T09

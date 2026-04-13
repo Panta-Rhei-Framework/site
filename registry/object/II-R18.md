@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R18 — BSD Bridge
 permalink: /registry/object/II.R18/
 registry_id: II.R18

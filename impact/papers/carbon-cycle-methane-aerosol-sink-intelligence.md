@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Carbon-Cycle, Methane, Aerosol, and Sink Intelligence
 permalink: /impact/papers/carbon-cycle-methane-aerosol-sink-intelligence/
 paper_id: companion-climate-paper-2

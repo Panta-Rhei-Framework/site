@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P26 — Measurement Repeatability
 permalink: /registry/object/IV.P26/
 registry_id: IV.P26

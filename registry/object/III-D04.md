@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D04 — Enrichment Functor
 permalink: /registry/object/III.D04/
 registry_id: III.D04

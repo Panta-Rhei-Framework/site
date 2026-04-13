@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R22 — Computation Cannot Live Below E₂
 permalink: /registry/object/III.R22/
 registry_id: III.R22

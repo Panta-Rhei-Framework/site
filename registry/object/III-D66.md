@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D66 — Complete Dependency Chain
 permalink: /registry/object/III.D66/
 registry_id: III.D66

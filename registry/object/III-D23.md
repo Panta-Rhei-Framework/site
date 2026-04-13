@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D23 — Internal Bipolar Classifier
 permalink: /registry/object/III.D23/
 registry_id: III.D23

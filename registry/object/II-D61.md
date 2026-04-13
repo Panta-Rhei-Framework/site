@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D61 — Moduli Space
 permalink: /registry/object/II.D61/
 registry_id: II.D61

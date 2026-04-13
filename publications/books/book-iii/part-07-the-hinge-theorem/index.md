@@ -53,7 +53,7 @@ mathematics closing the arc.
 
 ## Chapters
 
-- **[Chapter 49: The Complete Dependency Chain](/publications/books/book-iii/part-07-the-hinge-theorem/chapter-49-the-complete-dependency-chain/)**
-- **[Chapter 50: The Hinge Theorem](/publications/books/book-iii/part-07-the-hinge-theorem/chapter-50-the-hinge-theorem/)**
-- **[Chapter 51: Export Contracts to Books IV–VII](/publications/books/book-iii/part-07-the-hinge-theorem/chapter-51-export-contracts-to-books-iv-vii/)**
-- **[Chapter 52: No Knobs and One Diagram](/publications/books/book-iii/part-07-the-hinge-theorem/chapter-52-no-knobs-and-one-diagram/)**
+- **[Chapter 49: The Complete Dependency Chain]({{ '/publications/books/book-iii/part-07-the-hinge-theorem/chapter-49-the-complete-dependency-chain/' | relative_url }})**
+- **[Chapter 50: The Hinge Theorem]({{ '/publications/books/book-iii/part-07-the-hinge-theorem/chapter-50-the-hinge-theorem/' | relative_url }})**
+- **[Chapter 51: Export Contracts to Books IV–VII]({{ '/publications/books/book-iii/part-07-the-hinge-theorem/chapter-51-export-contracts-to-books-iv-vii/' | relative_url }})**
+- **[Chapter 52: No Knobs and One Diagram]({{ '/publications/books/book-iii/part-07-the-hinge-theorem/chapter-52-no-knobs-and-one-diagram/' | relative_url }})**

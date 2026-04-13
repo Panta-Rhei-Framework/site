@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D83 — U(1) Holonomy on T^2
 permalink: /registry/object/IV.D83/
 registry_id: IV.D83

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D86 — Paradox Absorption Map
 permalink: /registry/object/III.D86/
 registry_id: III.D86

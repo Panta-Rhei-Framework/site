@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P42 — Non-Abelian Holonomy
 permalink: /registry/object/IV.P42/
 registry_id: IV.P42

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D45 — Canonical Holomorphic Basis
 permalink: /registry/object/II.D45/
 registry_id: II.D45

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T13 — Modal Logic Soundness in τ
 permalink: /registry/object/VII.T13/
 registry_id: VII.T13

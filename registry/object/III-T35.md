@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T35 — BSD Coherence Theorem
 permalink: /registry/object/III.T35/
 registry_id: III.T35

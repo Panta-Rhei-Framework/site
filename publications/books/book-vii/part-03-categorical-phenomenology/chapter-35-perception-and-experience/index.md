@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-03-categorical-phenomenolog
 prev_chapter_title: "Chapter 34: Justification as Gluing"
 next_chapter_url: "/publications/books/book-vii/part-03-categorical-phenomenology/chapter-36-temporal-structure-of-experience/"
 next_chapter_title: "Chapter 36: Temporal Structure of Experience"
-summary_short: "Perception is reformulated as a functor from sensory input to perceptual synthesis. Sensory input provides ``patches''—local data from different sense…"
+summary_short: "Perception is reformulated as a functor from sensory input to perceptual synthesis. Sensory input provides “patches”—local data from different sense…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-03-categorical-phenomenology/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 Perception is reformulated as a functor from sensory input to
-perceptual synthesis. Sensory input provides ``patches''—local
+perceptual synthesis. Sensory input provides “patches”—local
 data from different sense modalities and attentional frames.
 Perceptual synthesis glues these patches into a unified perceptual
 experience. The perception functor

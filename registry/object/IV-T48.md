@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T48 — Non-Trivial Strong Vacuum
 permalink: /registry/object/IV.T48/
 registry_id: IV.T48

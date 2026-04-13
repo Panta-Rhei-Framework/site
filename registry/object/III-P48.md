@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P48 — ABC Gap Characterization
 permalink: /registry/object/III.P48/
 registry_id: III.P48

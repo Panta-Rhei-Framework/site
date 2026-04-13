@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D81 — Temporal Direction
 permalink: /registry/object/IV.D81/
 registry_id: IV.D81

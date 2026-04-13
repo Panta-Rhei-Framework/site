@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P41 — Radical-Primorial Identity
 permalink: /registry/object/III.P41/
 registry_id: III.P41

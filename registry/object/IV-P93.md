@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P93 — Gluon Self-Interaction
 permalink: /registry/object/IV.P93/
 registry_id: IV.P93

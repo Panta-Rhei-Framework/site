@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D69 — Five Forbidden Moves
 permalink: /registry/object/III.D69/
 registry_id: III.D69

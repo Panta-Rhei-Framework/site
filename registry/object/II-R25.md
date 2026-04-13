@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R25 — Why Hartogs Is the Wave Front
 permalink: /registry/object/II.R25/
 registry_id: II.R25

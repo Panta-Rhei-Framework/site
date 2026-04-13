@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P29 — Four-Register Convergence at S_L
 permalink: /registry/object/VII.P29/
 registry_id: VII.P29

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D97 — Non-Abelian Gauge Field
 permalink: /registry/object/IV.D97/
 registry_id: IV.D97

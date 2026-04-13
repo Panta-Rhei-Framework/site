@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: V.L5 — Minimal Mature Black Hole
 permalink: /registry/object/V.L5/
 registry_id: V.L5

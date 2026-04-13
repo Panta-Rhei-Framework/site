@@ -1,5 +1,6 @@
 ---
 layout: registry-book
+lane: registry
 title: 'Registry — Book VII: Categorical Metaphysics'
 permalink: /registry/books/book-vii/
 book: VII

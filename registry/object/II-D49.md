@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D49 — Tau-Regularity
 permalink: /registry/object/II.D49/
 registry_id: II.D49

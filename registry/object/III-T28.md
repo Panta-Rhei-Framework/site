@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T28 — NF-Addressability Theorem
 permalink: /registry/object/III.T28/
 registry_id: III.T28

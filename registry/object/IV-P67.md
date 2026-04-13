@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P67 — CP Violation from Sigma-Polarity
 permalink: /registry/object/IV.P67/
 registry_id: IV.P67

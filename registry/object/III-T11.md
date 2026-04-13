@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T11 — Constructive Hensel Lifting
 permalink: /registry/object/III.T11/
 registry_id: III.T11

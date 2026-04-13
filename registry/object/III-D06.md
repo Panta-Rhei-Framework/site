@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D06 — E₀ Layer (Mathematics)
 permalink: /registry/object/III.D06/
 registry_id: III.D06

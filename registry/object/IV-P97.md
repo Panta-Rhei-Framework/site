@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P97 — Well-definedness
 permalink: /registry/object/IV.P97/
 registry_id: IV.P97

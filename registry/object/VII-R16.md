@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R16 — Consequences for Traditional Epistemology
 permalink: /registry/object/VII.R16/
 registry_id: VII.R16

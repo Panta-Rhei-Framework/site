@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D42 — Stabilized ω-Germ
 permalink: /registry/object/III.D42/
 registry_id: III.D42

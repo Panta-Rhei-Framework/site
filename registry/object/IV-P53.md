@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P53 — Mass of Channel-Switching Defect Bundles
 permalink: /registry/object/IV.P53/
 registry_id: IV.P53

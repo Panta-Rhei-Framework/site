@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R38 — Protection Architecture
 permalink: /registry/object/II.R38/
 registry_id: II.R38

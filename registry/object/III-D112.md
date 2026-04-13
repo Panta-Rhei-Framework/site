@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D112 — Gap Type
 permalink: /registry/object/III.D112/
 registry_id: III.D112

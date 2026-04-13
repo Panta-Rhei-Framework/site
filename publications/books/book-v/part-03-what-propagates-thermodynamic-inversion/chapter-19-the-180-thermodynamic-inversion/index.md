@@ -46,12 +46,12 @@ the universe marches toward heat death.
 Boltzmann derived it statistically;
 Clausius stated it as principle;
 Eddington called it
-``the supreme metaphysical law of the entire universe.''
+“the supreme metaphysical law of the entire universe.”
 
 This chapter inverts it.
 
 Not by denying the mathematics,
-but by *decomposing* what ``entropy'' means
+but by *decomposing* what “entropy” means
 in the $τ$-native framework.
 Book IV, Chapter [ch:book4-ch22-energy-entropy-arrow],
 proved that holomorphic entropy

@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Disaster
 permalink: /impact/portfolio/disaster/
 portfolio_id: impact-disaster
@@ -27,8 +28,8 @@ WMO reports nearly 12,000 disasters, US$4.3 trillion in reported losses, and 2 m
 
 ## Companion Papers (4)
 
-- [Tau for Anticipatory Action, Humanitarian Logistics, and Climate-Risk Finance](/impact/papers/anticipatory-action-humanitarian-logistics-climate-risk-finance/)
-- [Tau for Critical Infrastructure, Emergency Operations, and Public-Service Continuity](/impact/papers/critical-infrastructure-emergency-operations-public-service-continuity/)
-- [Tau for Flood, Coastal Surge, Flash Flood, and Landslide Resilience](/impact/papers/flood-coastal-surge-landslide-resilience/)
-- [τ for Wildfire, Smoke, Heat, and Compound-Extreme Health Protection](/impact/papers/wildfire-smoke-heat-compound-extreme-health-protection/)
+- [Tau for Anticipatory Action, Humanitarian Logistics, and Climate-Risk Finance]({{ '/impact/papers/anticipatory-action-humanitarian-logistics-climate-risk-finance/' | relative_url }})
+- [Tau for Critical Infrastructure, Emergency Operations, and Public-Service Continuity]({{ '/impact/papers/critical-infrastructure-emergency-operations-public-service-continuity/' | relative_url }})
+- [Tau for Flood, Coastal Surge, Flash Flood, and Landslide Resilience]({{ '/impact/papers/flood-coastal-surge-landslide-resilience/' | relative_url }})
+- [τ for Wildfire, Smoke, Heat, and Compound-Extreme Health Protection]({{ '/impact/papers/wildfire-smoke-heat-compound-extreme-health-protection/' | relative_url }})
 

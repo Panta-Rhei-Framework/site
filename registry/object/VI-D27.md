@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D27 — Temporal Lemniscate
 permalink: /registry/object/VI.D27/
 registry_id: VI.D27

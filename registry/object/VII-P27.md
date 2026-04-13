@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P27 — Identity as Address Persistence (Mind)
 permalink: /registry/object/VII.P27/
 registry_id: VII.P27

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D90 — Dimension Recovery
 permalink: /registry/object/III.D90/
 registry_id: III.D90

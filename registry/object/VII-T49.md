@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T49 — Mitigation Archetype j-Closure
 permalink: /registry/object/VII.T49/
 registry_id: VII.T49

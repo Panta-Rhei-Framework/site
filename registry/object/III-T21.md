@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T21 — τ-Admissibility Collapse Theorem (v1)
 permalink: /registry/object/III.T21/
 registry_id: III.T21

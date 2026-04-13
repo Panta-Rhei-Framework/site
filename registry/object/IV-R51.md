@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R51 — Why the coupling is deferred
 permalink: /registry/object/IV.R51/
 registry_id: IV.R51

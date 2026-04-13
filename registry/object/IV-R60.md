@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R60 — Asymptotic formula
 permalink: /registry/object/IV.R60/
 registry_id: IV.R60

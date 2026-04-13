@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D77 — Physical E₂ Agent
 permalink: /registry/object/III.D77/
 registry_id: III.D77

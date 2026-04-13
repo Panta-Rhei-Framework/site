@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D22 — Readout Functor
 permalink: /registry/object/VII.D22/
 registry_id: VII.D22

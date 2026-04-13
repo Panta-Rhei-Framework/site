@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P91 — χ₋-Dominance Forces Non-Commutativity
 permalink: /registry/object/IV.P91/
 registry_id: IV.P91

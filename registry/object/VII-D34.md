@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D34 — Identity as Address Persistence
 permalink: /registry/object/VII.D34/
 registry_id: VII.D34

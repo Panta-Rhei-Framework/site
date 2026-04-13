@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D03 — E₁ as Gluing Principle
 permalink: /registry/object/III.D03/
 registry_id: III.D03

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P05 — Canonical Life Phase Boundary
 permalink: /registry/object/VI.P05/
 registry_id: VI.P05

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R24 — What Each Path Buys
 permalink: /registry/object/II.R24/
 registry_id: II.R24

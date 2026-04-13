@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P83 — Properties of \Delta_n^s
 permalink: /registry/object/IV.P83/
 registry_id: IV.P83

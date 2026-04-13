@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T77 — No ontic running --- strong sector
 permalink: /registry/object/IV.T77/
 registry_id: IV.T77

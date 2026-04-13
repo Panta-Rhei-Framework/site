@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T20 — Language as Self-Enrichment
 permalink: /registry/object/VII.T20/
 registry_id: VII.T20

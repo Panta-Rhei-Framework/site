@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L40 — Legitimacy Sheaf Connection
 permalink: /registry/object/VII.L40/
 registry_id: VII.L40

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T47 — No Forced Stance
 permalink: /registry/object/VII.T47/
 registry_id: VII.T47

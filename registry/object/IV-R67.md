@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R67 — What about the electroweak sector?
 permalink: /registry/object/IV.R67/
 registry_id: IV.R67

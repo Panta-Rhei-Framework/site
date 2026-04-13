@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P14 — Reaction-Diffusion from τ³ Structure
 permalink: /registry/object/VI.P14/
 registry_id: VI.P14

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T40 — Six Export Contracts to Book VII
 permalink: /registry/object/VI.T40/
 registry_id: VI.T40

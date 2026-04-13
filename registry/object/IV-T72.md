@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T72 — Proton Stability
 permalink: /registry/object/IV.T72/
 registry_id: IV.T72

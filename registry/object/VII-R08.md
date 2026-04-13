@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R08 — Central Theorem Philosophical Import
 permalink: /registry/object/VII.R08/
 registry_id: VII.R08

@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Ocean
 permalink: /impact/portfolio/ocean/
 portfolio_id: impact-ocean
@@ -27,8 +28,8 @@ Maritime transport carries over 80% of world trade by volume. International ship
 
 ## Companion Papers (4)
 
-- [τ and Blue Food Systems](/impact/papers/blue-food-systems-marine-ecosystem-intelligence/)
-- [τ and Climate-Smart Shipping](/impact/papers/climate-smart-shipping-decarbonization-wind-corridors/)
-- [τ and the Ocean Logistics Opportunity](/impact/papers/ocean-logistics-maritime-routing-port-flow-green-corridors/)
-- [τ and Ocean Stewardship, Cleanup, and Marine Emergency Response](/impact/papers/ocean-stewardship-cleanup-marine-emergency-response/)
+- [τ and Blue Food Systems]({{ '/impact/papers/blue-food-systems-marine-ecosystem-intelligence/' | relative_url }})
+- [τ and Climate-Smart Shipping]({{ '/impact/papers/climate-smart-shipping-decarbonization-wind-corridors/' | relative_url }})
+- [τ and the Ocean Logistics Opportunity]({{ '/impact/papers/ocean-logistics-maritime-routing-port-flow-green-corridors/' | relative_url }})
+- [τ and Ocean Stewardship, Cleanup, and Marine Emergency Response]({{ '/impact/papers/ocean-stewardship-cleanup-marine-emergency-response/' | relative_url }})
 

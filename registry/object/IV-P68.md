@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P68 — Coupling Relations
 permalink: /registry/object/IV.P68/
 registry_id: IV.P68

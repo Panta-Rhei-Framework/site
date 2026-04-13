@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D92 — Mode E Catalog
 permalink: /registry/object/II.D92/
 registry_id: II.D92

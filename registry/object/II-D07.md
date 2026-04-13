@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D07 — Fibered Product tau^3
 permalink: /registry/object/II.D07/
 registry_id: II.D07

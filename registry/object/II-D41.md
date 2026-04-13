@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D41 — Holomorphic Endomorphism Category
 permalink: /registry/object/II.D41/
 registry_id: II.D41

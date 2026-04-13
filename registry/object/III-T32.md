@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T32 — Product-Meet Collapse
 permalink: /registry/object/III.T32/
 registry_id: III.T32

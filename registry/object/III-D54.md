@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D54 — τ-Admissibility (E₂)
 permalink: /registry/object/III.D54/
 registry_id: III.D54

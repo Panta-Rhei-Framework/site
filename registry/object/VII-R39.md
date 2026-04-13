@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R39 — Individuation as Structural Process
 permalink: /registry/object/VII.R39/
 registry_id: VII.R39

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D12 — First Disagreement Depth
 permalink: /registry/object/II.D12/
 registry_id: II.D12

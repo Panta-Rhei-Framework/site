@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T01 — Point Set Well-Defined
 permalink: /registry/object/II.T01/
 registry_id: II.T01

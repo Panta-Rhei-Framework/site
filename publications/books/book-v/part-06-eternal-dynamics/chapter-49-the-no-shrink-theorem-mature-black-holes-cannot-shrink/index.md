@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-4
 prev_chapter_title: "Chapter 48: Black Hole Bipolarity and Blueprint Fusion"
 next_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-50-the-merger-normal-form-and-bh-astrophysics/"
 next_chapter_title: "Chapter 50: The Merger Normal Form and BH Astrophysics"
-summary_short: "Can a black hole lose mass? In orthodox general relativity, the answer was ``no'' until 1975. Hawking's celebrated calculation — quantum fields on a curved…"
+summary_short: "Can a black hole lose mass? In orthodox general relativity, the answer was “no” until 1975. Hawking's celebrated calculation — quantum fields on a curved…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-06-eternal-dynamics/"
@@ -40,7 +40,7 @@ right_rail:
 
 Can a black hole lose mass?
 In orthodox general relativity,
-the answer was ``no'' until 1975.
+the answer was “no” until 1975.
 Hawking's celebrated calculation
 — quantum fields on a curved spacetime background —
 predicted thermal radiation

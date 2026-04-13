@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L21 — Carrier Exhaustion
 permalink: /registry/object/VII.L21/
 registry_id: VII.L21

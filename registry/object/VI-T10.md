@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T10 — Homeostasis = Basin Stability
 permalink: /registry/object/VI.T10/
 registry_id: VI.T10

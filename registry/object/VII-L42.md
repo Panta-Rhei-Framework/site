@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L42 — Legitimacy from CI
 permalink: /registry/object/VII.L42/
 registry_id: VII.L42

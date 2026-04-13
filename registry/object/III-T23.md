@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T23 — Master Schema Theorem
 permalink: /registry/object/III.T23/
 registry_id: III.T23

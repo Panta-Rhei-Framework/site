@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T65 — No Hierarchy Problem in Category τ
 permalink: /registry/object/IV.T65/
 registry_id: IV.T65

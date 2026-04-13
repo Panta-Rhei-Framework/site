@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D23 — Relational Primacy Principle
 permalink: /registry/object/VII.D23/
 registry_id: VII.D23

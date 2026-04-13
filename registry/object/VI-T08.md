@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T08 — Organization = Distinction Structure
 permalink: /registry/object/VI.T08/
 registry_id: VI.T08

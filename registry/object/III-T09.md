@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T09 — Primorial Cofinality
 permalink: /registry/object/III.T09/
 registry_id: III.T09

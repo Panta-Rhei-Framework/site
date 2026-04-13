@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R09 — Refinement Equals Resolution
 permalink: /registry/object/II.R09/
 registry_id: II.R09

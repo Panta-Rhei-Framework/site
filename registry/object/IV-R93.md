@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R93 — Why only three, not more
 permalink: /registry/object/IV.R93/
 registry_id: IV.R93

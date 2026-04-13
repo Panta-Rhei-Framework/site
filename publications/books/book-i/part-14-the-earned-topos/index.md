@@ -86,10 +86,10 @@ of Part XVII makes precise.
 
 ## Chapters
 
-- **[Chapter 58: Earned Arrows and the τ](/publications/books/book-i/part-14-the-earned-topos/chapter-58-earned-arrows-and-the-tau/)**
-- **[Chapter 59: Functors and Natural Transformations](/publications/books/book-i/part-14-the-earned-topos/chapter-59-functors-and-natural-transformations/)**
-- **[Chapter 60: Limits, Sites, and the Presheaf Topos](/publications/books/book-i/part-14-the-earned-topos/chapter-60-limits-sites-and-the-presheaf-topos/)**
-- **[Chapter 61: The Subobject Classifier and the Earned Topos](/publications/books/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/)**
-- **[Chapter 62: Cartesian Product as Earned Bi-Functor](/publications/books/book-i/part-14-the-earned-topos/chapter-62-cartesian-product-as-earned-bi-functor/)**
-- **[Chapter 63: Wedge Product and the Co-Cartesian Structure](/publications/books/book-i/part-14-the-earned-topos/chapter-63-wedge-product-and-the-co-cartesian-structure/)**
-- **[Chapter 64: Internal Hom and Exponentials](/publications/books/book-i/part-14-the-earned-topos/chapter-64-internal-hom-and-exponentials/)**
+- **[Chapter 58: Earned Arrows and the τ]({{ '/publications/books/book-i/part-14-the-earned-topos/chapter-58-earned-arrows-and-the-tau/' | relative_url }})**
+- **[Chapter 59: Functors and Natural Transformations]({{ '/publications/books/book-i/part-14-the-earned-topos/chapter-59-functors-and-natural-transformations/' | relative_url }})**
+- **[Chapter 60: Limits, Sites, and the Presheaf Topos]({{ '/publications/books/book-i/part-14-the-earned-topos/chapter-60-limits-sites-and-the-presheaf-topos/' | relative_url }})**
+- **[Chapter 61: The Subobject Classifier and the Earned Topos]({{ '/publications/books/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/' | relative_url }})**
+- **[Chapter 62: Cartesian Product as Earned Bi-Functor]({{ '/publications/books/book-i/part-14-the-earned-topos/chapter-62-cartesian-product-as-earned-bi-functor/' | relative_url }})**
+- **[Chapter 63: Wedge Product and the Co-Cartesian Structure]({{ '/publications/books/book-i/part-14-the-earned-topos/chapter-63-wedge-product-and-the-co-cartesian-structure/' | relative_url }})**
+- **[Chapter 64: Internal Hom and Exponentials]({{ '/publications/books/book-i/part-14-the-earned-topos/chapter-64-internal-hom-and-exponentials/' | relative_url }})**

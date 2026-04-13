@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P11 — Characters on T²
 permalink: /registry/object/IV.P11/
 registry_id: IV.P11

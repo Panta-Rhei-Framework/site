@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T32 — Structural Arrow of Time
 permalink: /registry/object/IV.T32/
 registry_id: IV.T32

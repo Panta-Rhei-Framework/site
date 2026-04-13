@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D12 — DecodeHorizon
 permalink: /registry/object/VI.D12/
 registry_id: VI.D12

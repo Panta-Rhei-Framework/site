@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D06 — Metaphysics Loop Class
 permalink: /registry/object/VII.D06/
 registry_id: VII.D06

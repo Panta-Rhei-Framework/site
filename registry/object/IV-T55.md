@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T55 — Z Mass from Coherence Fixing
 permalink: /registry/object/IV.T55/
 registry_id: IV.T55

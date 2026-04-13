@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T48 — Fourth Quadrant Ladder Collapse
 permalink: /registry/object/II.T48/
 registry_id: II.T48

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P05 — All Near-Matches in Range
 permalink: /registry/object/IV.P05/
 registry_id: IV.P05

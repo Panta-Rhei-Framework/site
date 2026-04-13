@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T28 — Schrödinger Equation
 permalink: /registry/object/IV.T28/
 registry_id: IV.T28

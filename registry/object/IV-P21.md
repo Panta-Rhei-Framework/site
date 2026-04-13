@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P21 — Generic Entanglement
 permalink: /registry/object/IV.P21/
 registry_id: IV.P21

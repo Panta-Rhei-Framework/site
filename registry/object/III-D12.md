@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D12 — Boundary-to-Interior Functor
 permalink: /registry/object/III.D12/
 registry_id: III.D12

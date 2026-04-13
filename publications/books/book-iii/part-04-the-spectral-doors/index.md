@@ -45,17 +45,17 @@ as the terminal object among closed simply connected 3-manifolds.
 
 The **Master Schema** unifies these two problems as instances of Mutual Determination at $E_0$.
 P versus NP, which requires enrichment level $E_2$ (the computation layer), is deferred to Part IX:
-``Where Life Lives.''
+“Where Life Lives.”
 
 ## Chapters
 
-- **[Chapter 21: The Coherence Programme](/publications/books/book-iii/part-04-the-spectral-doors/chapter-21-the-coherence-programme/)**
-- **[Chapter 22: The Functional Equation in H_](/publications/books/book-iii/part-04-the-spectral-doors/chapter-22-the-functional-equation-in-h/)**
-- **[Chapter 23: The Lemniscate Operator](/publications/books/book-iii/part-04-the-spectral-doors/chapter-23-the-lemniscate-operator/)**
-- **[Chapter 24: The Spectral Correspondence](/publications/books/book-iii/part-04-the-spectral-doors/chapter-24-the-spectral-correspondence/)**
-- **[Chapter 25: Spectral Purity and the Critical Line](/publications/books/book-iii/part-04-the-spectral-doors/chapter-25-spectral-purity-and-the-critical-line/)**
-- **[Chapter 26: Primorial Verification of RH](/publications/books/book-iii/part-04-the-spectral-doors/chapter-26-primorial-verification-of-rh/)**
-- **[Chapter 27: The Grand GRH](/publications/books/book-iii/part-04-the-spectral-doors/chapter-27-the-grand-grh/)**
-- **[Chapter 28: Poincar\'e's Conjecture](/publications/books/book-iii/part-04-the-spectral-doors/chapter-28-poincar-e-s-conjecture/)**
-- **[Chapter 29: Simply Connected in Category τ](/publications/books/book-iii/part-04-the-spectral-doors/chapter-29-simply-connected-in-category-tau/)**
-- **[Chapter 30: The Master Schema](/publications/books/book-iii/part-04-the-spectral-doors/chapter-30-the-master-schema/)**
+- **[Chapter 21: The Coherence Programme]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-21-the-coherence-programme/' | relative_url }})**
+- **[Chapter 22: The Functional Equation in H_]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-22-the-functional-equation-in-h/' | relative_url }})**
+- **[Chapter 23: The Lemniscate Operator]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-23-the-lemniscate-operator/' | relative_url }})**
+- **[Chapter 24: The Spectral Correspondence]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-24-the-spectral-correspondence/' | relative_url }})**
+- **[Chapter 25: Spectral Purity and the Critical Line]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-25-spectral-purity-and-the-critical-line/' | relative_url }})**
+- **[Chapter 26: Primorial Verification of RH]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-26-primorial-verification-of-rh/' | relative_url }})**
+- **[Chapter 27: The Grand GRH]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-27-the-grand-grh/' | relative_url }})**
+- **[Chapter 28: Poincar\'e's Conjecture]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-28-poincar-e-s-conjecture/' | relative_url }})**
+- **[Chapter 29: Simply Connected in Category τ]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-29-simply-connected-in-category-tau/' | relative_url }})**
+- **[Chapter 30: The Master Schema]({{ '/publications/books/book-iii/part-04-the-spectral-doors/chapter-30-the-master-schema/' | relative_url }})**

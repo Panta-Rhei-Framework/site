@@ -41,12 +41,12 @@ right_rail:
 Three-layer resolution of solipsism. Layer 1 (Ontic): collapse to
 $ω$ produces monism with internal distinctions—solipsism is
 trivially true (there is only one structure) and structurally vacuous
-(the ``I'' is not privileged within it). Layer 2 (Epistemic):
+(the “I” is not privileged within it). Layer 2 (Epistemic):
 uncertainty provides an epistemic witness for other minds—a system
 that models its own modeling ($E_3$) necessarily encounters uncertainty
 about other modelers, which is an epistemic signature of other minds.
 Layer 3 (Bayesian): under finite computational resources, solipsism is
 Bayesian-excluded as maximally implausible. The dissolution: solipsism
 is not refuted but shown to be an artefact of substance ontology—in
-relational ontology, the ``self'' is a relational position, not a
-substance, so ``only my self exists'' is structurally incoherent.
+relational ontology, the “self” is a relational position, not a
+substance, so “only my self exists” is structurally incoherent.

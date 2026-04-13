@@ -43,7 +43,7 @@ causal connection are explained by shared kernel invariants across
 typed registers. Two events in different registers can exhibit
 structural correspondence without causal link—both are
 instantiations of the same $j$-closed archetype in their respective
-registers. The hermetic principle ``as above, so below'' is earned
+registers. The hermetic principle “as above, so below” is earned
 structurally as a consequence of kernel invariance. Cross-register
 stabilization is formalized. Explicit guardrails: no causal claims,
 no empirical predictions, no doctrinal endorsements.

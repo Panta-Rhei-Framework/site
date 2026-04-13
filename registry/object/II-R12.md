@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R12 — Probe Naturality Equals Holomorphy
 permalink: /registry/object/II.R12/
 registry_id: II.R12

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D92 — Four-Operator Consequence Architecture
 permalink: /registry/object/VII.D92/
 registry_id: VII.D92

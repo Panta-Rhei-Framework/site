@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D29 — Spectral Parameter Λ(s)
 permalink: /registry/object/III.D29/
 registry_id: III.D29

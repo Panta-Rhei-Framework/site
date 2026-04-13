@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T49 — Applied Saturation
 permalink: /registry/object/III.T49/
 registry_id: III.T49

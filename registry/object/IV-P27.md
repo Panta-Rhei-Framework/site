@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P27 — Classical Limit
 permalink: /registry/object/IV.P27/
 registry_id: IV.P27

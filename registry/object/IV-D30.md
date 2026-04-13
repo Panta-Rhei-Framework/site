@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D30 — Calibration Anchor
 permalink: /registry/object/IV.D30/
 registry_id: IV.D30

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.D16a — Denotational Order
 permalink: /registry/object/I.D16a/
 registry_id: I.D16a

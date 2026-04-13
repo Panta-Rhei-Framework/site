@@ -83,8 +83,8 @@ the subject of Parts II through VI.
 
 ## Chapters
 
-- **[Chapter 4: τ](/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-04-tau/)**
-- **[Chapter 5: The Omega Readout and the Lemniscate](/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-05-the-omega-readout-and-the-lemniscate/)**
-- **[Chapter 6: The τ³ Fibration Emerges](/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-06-the-tau-fibration-emerges/)**
-- **[Chapter 7: Bipolar Decomposition of Interior Points](/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-07-bipolar-decomposition-of-interior-points/)**
-- **[Chapter 8: ABCD Structure Replaces Quaternions](/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-08-abcd-structure-replaces-quaternions/)**
+- **[Chapter 4: τ]({{ '/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-04-tau/' | relative_url }})**
+- **[Chapter 5: The Omega Readout and the Lemniscate]({{ '/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-05-the-omega-readout-and-the-lemniscate/' | relative_url }})**
+- **[Chapter 6: The τ³ Fibration Emerges]({{ '/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-06-the-tau-fibration-emerges/' | relative_url }})**
+- **[Chapter 7: Bipolar Decomposition of Interior Points]({{ '/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-07-bipolar-decomposition-of-interior-points/' | relative_url }})**
+- **[Chapter 8: ABCD Structure Replaces Quaternions]({{ '/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-08-abcd-structure-replaces-quaternions/' | relative_url }})**

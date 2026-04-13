@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T64 — Goldbach at Primorial Levels
 permalink: /registry/object/III.T64/
 registry_id: III.T64

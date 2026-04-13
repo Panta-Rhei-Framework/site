@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R15 — Self-Description Property
 permalink: /registry/object/II.R15/
 registry_id: II.R15

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D17 — Defect Tuple
 permalink: /registry/object/IV.D17/
 registry_id: IV.D17

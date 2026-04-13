@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D08 — Spectral Fine Structure
 permalink: /registry/object/IV.D08/
 registry_id: IV.D08

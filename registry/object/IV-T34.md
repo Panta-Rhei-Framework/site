@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T34 — Photon Propagation Speed
 permalink: /registry/object/IV.T34/
 registry_id: IV.T34

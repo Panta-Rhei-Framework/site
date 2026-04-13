@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L12 — Extension in Split-Complex Codomain
 permalink: /registry/object/II.L12/
 registry_id: II.L12

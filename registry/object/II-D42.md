@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D42 — Laurent Expansion
 permalink: /registry/object/II.D42/
 registry_id: II.D42

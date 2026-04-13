@@ -103,11 +103,11 @@ lives on the side of $\jj^2 = +1$.
 
 ## Chapters
 
-- **[Chapter 61: The Question of Foundations](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-61-the-question-of-foundations/)**
-- **[Chapter 62: The Master Switch](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-62-the-master-switch/)**
-- **[Chapter 63: What Survives the Fork](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-63-what-survives-the-fork/)**
-- **[Chapter 64: What τ Refuses](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-64-what-tau-refuses/)**
-- **[Chapter 65: What τ Gains](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-65-what-tau-gains/)**
-- **[Chapter 66: What τ Earns](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-66-what-tau-earns/)**
-- **[Chapter 67: The Master Trade-Off](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-67-the-master-trade-off/)**
-- **[Chapter 68: Why the Fork Is Worth It](/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-68-why-the-fork-is-worth-it/)**
+- **[Chapter 61: The Question of Foundations]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-61-the-question-of-foundations/' | relative_url }})**
+- **[Chapter 62: The Master Switch]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-62-the-master-switch/' | relative_url }})**
+- **[Chapter 63: What Survives the Fork]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-63-what-survives-the-fork/' | relative_url }})**
+- **[Chapter 64: What τ Refuses]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-64-what-tau-refuses/' | relative_url }})**
+- **[Chapter 65: What τ Gains]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-65-what-tau-gains/' | relative_url }})**
+- **[Chapter 66: What τ Earns]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-66-what-tau-earns/' | relative_url }})**
+- **[Chapter 67: The Master Trade-Off]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-67-the-master-trade-off/' | relative_url }})**
+- **[Chapter 68: Why the Fork Is Worth It]({{ '/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-68-why-the-fork-is-worth-it/' | relative_url }})**

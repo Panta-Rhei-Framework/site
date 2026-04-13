@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D34 — Archimedean Bridge
 permalink: /registry/object/II.D34/
 registry_id: II.D34

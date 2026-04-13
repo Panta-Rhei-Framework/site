@@ -47,4 +47,4 @@ We will notify you when sessions are scheduled and provide details about format,
 
 ---
 
-*The program's seminar abstracts (6 pre-written abstracts for different academic departments) are available in the [Publications lane](/publications/white-papers/).*
+*The program's seminar abstracts (6 pre-written abstracts for different academic departments) are available in the [Publications lane]({{ '/publications/white-papers/' | relative_url }}).*

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D66 — Ontic Enrichment Ladder E₀–E₃
 permalink: /registry/object/VI.D66/
 registry_id: VI.D66

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P20 — Spectral Completeness
 permalink: /registry/object/IV.P20/
 registry_id: IV.P20

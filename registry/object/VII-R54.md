@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R54 — Book II j-Closure Consistency
 permalink: /registry/object/VII.R54/
 registry_id: VII.R54

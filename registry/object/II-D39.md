@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D39 — Composition of Holomorphic Maps
 permalink: /registry/object/II.D39/
 registry_id: II.D39

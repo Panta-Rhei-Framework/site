@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T74 — Profinite spectral preservation
 permalink: /registry/object/IV.T74/
 registry_id: IV.T74

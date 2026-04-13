@@ -20,12 +20,12 @@ summary_short: "Set theory typically begins with an undefined membership relatio
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-canonical_part_title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+canonical_part_title: "Part XIII: Internal Set Theory & The Cantor Mirage"
 right_rail:
   related:
   - title: "Book I: Categorical Foundations"
     url: /publications/books/book-i/
-  - title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+  - title: "Part XIII: Internal Set Theory & The Cantor Mirage"
     url: /publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/
   - title: Registry
     url: /registry/books/book-i/
@@ -48,6 +48,6 @@ internal divisibility
 The definition $A ∈_τ B \iff A \mid B$
 is simple, but its consequences are far-reaching:
 membership becomes decidable,
-the ``elements of $B$'' are exactly the divisors of $B$,
+the “elements of $B$” are exactly the divisors of $B$,
 and every set-theoretic question reduces
 to an arithmetic computation on $τ$-Idx.

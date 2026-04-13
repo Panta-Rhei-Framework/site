@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T34 — No Barrier Theorem
 permalink: /registry/object/III.T34/
 registry_id: III.T34

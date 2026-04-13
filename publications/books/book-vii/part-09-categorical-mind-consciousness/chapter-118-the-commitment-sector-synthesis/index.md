@@ -20,12 +20,12 @@ summary_short: "The commitment sector $S_C$ closes. Across thirteen chapters, Pa
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/"
-canonical_part_title: "Part IX: Categorical Mind \& Consciousness"
+canonical_part_title: "Part IX: Categorical Mind & Consciousness"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part IX: Categorical Mind \& Consciousness"
+  - title: "Part IX: Categorical Mind & Consciousness"
     url: /publications/books/book-vii/part-09-categorical-mind-consciousness/
   - title: Registry
     url: /registry/books/book-vii/
@@ -47,5 +47,5 @@ deliverables of the sector, identifies the register question that
 $S_C$ has answered, examines the $D$–$C$ interface where
 proof-validity meets stance-stability, and marks the boundary where
 the commitment sector yields to the Logos sector. The question
-``What am I willing to live as true?'' has been answered; Part X
-opens with the question ``Where do proof and commitment coincide?''
+“What am I willing to live as true?” has been answered; Part X
+opens with the question “Where do proof and commitment coincide?”

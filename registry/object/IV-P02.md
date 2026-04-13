@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P02 — α Numerical Range
 permalink: /registry/object/IV.P02/
 registry_id: IV.P02

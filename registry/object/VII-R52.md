@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R52 — Sector–Register Correspondence
 permalink: /registry/object/VII.R52/
 registry_id: VII.R52

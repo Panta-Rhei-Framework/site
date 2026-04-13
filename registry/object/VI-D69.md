@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D69 — Minimal Conscious Agent
 permalink: /registry/object/VI.D69/
 registry_id: VI.D69

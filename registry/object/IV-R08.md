@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R08 — G Frontier
 permalink: /registry/object/IV.R08/
 registry_id: IV.R08

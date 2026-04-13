@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P44 — Current Conservation from Gauge Invariance
 permalink: /registry/object/IV.P44/
 registry_id: IV.P44

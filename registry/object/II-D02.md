@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D02 — Tau-Admissible Point
 permalink: /registry/object/II.D02/
 registry_id: II.D02

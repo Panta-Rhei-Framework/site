@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P09 — Integrability of τ³ CR-Structure
 permalink: /registry/object/IV.P09/
 registry_id: IV.P09

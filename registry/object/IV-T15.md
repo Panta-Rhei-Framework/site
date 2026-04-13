@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T15 — Derivation Chain Complete
 permalink: /registry/object/IV.T15/
 registry_id: IV.T15

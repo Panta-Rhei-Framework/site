@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D38 — Causal Arrow
 permalink: /registry/object/II.D38/
 registry_id: II.D38

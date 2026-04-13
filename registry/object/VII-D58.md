@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D58 — Bayesian Meso-Logic
 permalink: /registry/object/VII.D58/
 registry_id: VII.D58

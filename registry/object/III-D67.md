@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D67 — ZFC as E₂ VM
 permalink: /registry/object/III.D67/
 registry_id: III.D67

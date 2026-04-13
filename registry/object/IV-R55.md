@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R55 — Contrast with electric charge
 permalink: /registry/object/IV.R55/
 registry_id: IV.R55

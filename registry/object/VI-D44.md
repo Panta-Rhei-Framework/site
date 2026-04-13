@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D44 — Inter-Sector Web
 permalink: /registry/object/VI.D44/
 registry_id: VI.D44

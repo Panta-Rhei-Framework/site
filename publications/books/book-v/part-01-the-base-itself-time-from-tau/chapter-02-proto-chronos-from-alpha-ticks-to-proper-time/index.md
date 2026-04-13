@@ -15,7 +15,7 @@ page_in_book: 11
 prev_chapter_url: "/publications/books/book-v/part-00-the-hermetic-principle/chapter-01-the-hermetic-principle-fiber-complete-base-awaits/"
 prev_chapter_title: "Chapter 1: The Hermetic Principle: Fiber Complete, Base Awaits"
 next_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/"
-next_chapter_title: "Chapter 3: The Temporal Ignition: Why a ``Time Epoch'' Starts"
+next_chapter_title: "Chapter 3: The Temporal Ignition: Why a “Time Epoch” Starts"
 summary_short: "What is time? Every physical theory must answer this question, and the answer it gives determines everything else. Newtonian mechanics postulates absolute time…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
@@ -42,7 +42,7 @@ What is time?
 Every physical theory must answer this question,
 and the answer it gives determines everything else.
 Newtonian mechanics postulates absolute time
-flowing uniformly ``without relation to anything external.''
+flowing uniformly “without relation to anything external.”
 General relativity replaces this with proper time —
 arc length along a worldline in a Lorentzian manifold —
 but the manifold itself is still postulated as external input.
@@ -56,7 +56,7 @@ Proto-time is discrete, absolute, and structural —
 but it is not yet physical time.
 Physical time requires a metric:
 a way to assign *duration* to intervals,
-to compare ``how long'' one process takes
+to compare “how long” one process takes
 relative to another.
 This chapter bridges the gap.
 

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R13 — Six Proof Obligations Ledger
 permalink: /registry/object/III.R13/
 registry_id: III.R13

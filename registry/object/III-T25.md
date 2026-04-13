@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T25 — Positive Regularity Theorem
 permalink: /registry/object/III.T25/
 registry_id: III.T25

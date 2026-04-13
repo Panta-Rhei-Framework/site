@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D22 — Causal Structure
 permalink: /registry/object/II.D22/
 registry_id: II.D22

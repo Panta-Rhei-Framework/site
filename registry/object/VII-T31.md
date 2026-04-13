@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T31 — CI-Sheaf Equivalence
 permalink: /registry/object/VII.T31/
 registry_id: VII.T31

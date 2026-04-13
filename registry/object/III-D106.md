@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D106 — Hardy-Littlewood Constant
 permalink: /registry/object/III.D106/
 registry_id: III.D106

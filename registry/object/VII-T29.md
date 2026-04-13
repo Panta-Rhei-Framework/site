@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T29 — No-Explosion at Boundaries
 permalink: /registry/object/VII.T29/
 registry_id: VII.T29

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D86 — Čech Complex
 permalink: /registry/object/II.D86/
 registry_id: II.D86

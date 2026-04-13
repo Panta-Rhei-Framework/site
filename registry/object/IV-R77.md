@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R77 — Lean verification
 permalink: /registry/object/IV.R77/
 registry_id: IV.R77

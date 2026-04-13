@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R80 — No continuum parameter to tune
 permalink: /registry/object/IV.R80/
 registry_id: IV.R80

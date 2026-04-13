@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T39 — Mind-Topos Structure Theorem
 permalink: /registry/object/VII.T39/
 registry_id: VII.T39

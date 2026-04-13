@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P12 — Automatic Quantization
 permalink: /registry/object/IV.P12/
 registry_id: IV.P12

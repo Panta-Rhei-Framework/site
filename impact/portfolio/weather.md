@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Weather
 permalink: /impact/portfolio/weather/
 portfolio_id: impact-weather
@@ -28,7 +29,7 @@ The WMO Atlas of 1970–2021 reports nearly 12,000 weather-, climate-, and water
 
 ## Companion Papers (3)
 
-- [Tau-Grade Aviation Weather Intelligence for Mainstream Aviation](/impact/papers/aviation-weather-intelligence/)
-- [τ-Enabled Climate-Smart Aviation](/impact/papers/climate-smart-aviation-contrail-routing-decarbonization/)
-- [τ and New Aerial Logistics](/impact/papers/new-aerial-logistics-aam-airships-humanitarian-remote/)
+- [Tau-Grade Aviation Weather Intelligence for Mainstream Aviation]({{ '/impact/papers/aviation-weather-intelligence/' | relative_url }})
+- [τ-Enabled Climate-Smart Aviation]({{ '/impact/papers/climate-smart-aviation-contrail-routing-decarbonization/' | relative_url }})
+- [τ and New Aerial Logistics]({{ '/impact/papers/new-aerial-logistics-aam-airships-humanitarian-remote/' | relative_url }})
 

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P90 — Color-Charged Modes Have n \neq 0 \pmod{3
 permalink: /registry/object/IV.P90/
 registry_id: IV.P90

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D65 — Enriched Bi-Square at E₁⁺
 permalink: /registry/object/III.D65/
 registry_id: III.D65

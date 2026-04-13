@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T27 — Mutual Determination (5-Way Equivalence)
 permalink: /registry/object/II.T27/
 registry_id: II.T27

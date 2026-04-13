@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P24 — Fragmentation as Gluing Failure
 permalink: /registry/object/VII.P24/
 registry_id: VII.P24

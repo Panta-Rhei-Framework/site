@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D22 — τ-Adele Ring
 permalink: /registry/object/III.D22/
 registry_id: III.D22

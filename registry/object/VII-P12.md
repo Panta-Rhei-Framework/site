@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P12 — Creation as Defect Minimization
 permalink: /registry/object/VII.P12/
 registry_id: VII.P12

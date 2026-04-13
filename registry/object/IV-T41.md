@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T41 — Ambrose-Singer Reconstruction
 permalink: /registry/object/IV.T41/
 registry_id: IV.T41

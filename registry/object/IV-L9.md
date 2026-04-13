@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L9 — Finite-stage spectral problem
 permalink: /registry/object/IV.L9/
 registry_id: IV.L9

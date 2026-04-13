@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T48 — Reprogramming as Refinement Reversal
 permalink: /registry/object/VI.T48/
 registry_id: VI.T48

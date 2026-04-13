@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P22 — CRT Witness Decomposition
 permalink: /registry/object/III.P22/
 registry_id: III.P22

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D65 — Holomorphic Vector Field
 permalink: /registry/object/IV.D65/
 registry_id: IV.D65

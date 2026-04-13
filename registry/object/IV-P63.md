@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P63 — Beta-Decay Rate from Tau-Units
 permalink: /registry/object/IV.P63/
 registry_id: IV.P63

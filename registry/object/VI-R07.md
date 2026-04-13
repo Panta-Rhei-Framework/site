@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R07 — Extremophile Catalog
 permalink: /registry/object/VI.R07/
 registry_id: VI.R07

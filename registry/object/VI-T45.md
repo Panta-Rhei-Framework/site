@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T45 — Timescale From Half-Life
 permalink: /registry/object/VI.T45/
 registry_id: VI.T45

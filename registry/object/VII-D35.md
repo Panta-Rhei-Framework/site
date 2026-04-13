@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D35 — Mereological Composition as Colimit
 permalink: /registry/object/VII.D35/
 registry_id: VII.D35

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T26 — Inference from Kernel Structure
 permalink: /registry/object/VII.T26/
 registry_id: VII.T26

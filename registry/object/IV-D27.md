@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D27 — SI Measured Constants
 permalink: /registry/object/IV.D27/
 registry_id: IV.D27

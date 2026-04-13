@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T50 — Substrate Abstraction
 permalink: /registry/object/VI.T50/
 registry_id: VI.T50

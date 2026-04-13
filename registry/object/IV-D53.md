@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D53 — Address Precision (ch16)
 permalink: /registry/object/IV.D53/
 registry_id: IV.D53

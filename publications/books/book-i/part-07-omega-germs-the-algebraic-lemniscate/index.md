@@ -1,6 +1,6 @@
 ---
 layout: publication-part
-title: "Part VII: Omega-Germs \& the Algebraic Lemniscate"
+title: "Part VII: Omega-Germs & the Algebraic Lemniscate"
 permalink: /publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/
 lane: publications
 publication_type: part
@@ -65,7 +65,7 @@ From this algebra,
 the **algebraic lemniscate** $𝕃$
 *emerges as a theorem*:
 two idempotent sectors $e_+ H_τ$ and $e_- H_τ$
-form two algebraic ``lobes,''
+form two algebraic “lobes,”
 meeting at the crossing-point germ.
 The lemniscate is not postulated but earned —
 it is the algebraic readout of the polarized boundary data.
@@ -84,7 +84,7 @@ hinge block in retrospect and previews the road ahead.
 
 ## Chapters
 
-- **[Chapter 28: Omega-Germs on the Ontic Elements](/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-28-omega-germs-on-the-ontic-elements/)**
-- **[Chapter 29: Polarized Omega-Germs](/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-29-polarized-omega-germs/)**
-- **[Chapter 30: The Bipolar Spectral Algebra](/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-30-the-bipolar-spectral-algebra/)**
-- **[Chapter 31: Finite Witnesses \& the Road Ahead](/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-31-finite-witnesses-the-road-ahead/)**
+- **[Chapter 28: Omega-Germs on the Ontic Elements]({{ '/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-28-omega-germs-on-the-ontic-elements/' | relative_url }})**
+- **[Chapter 29: Polarized Omega-Germs]({{ '/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-29-polarized-omega-germs/' | relative_url }})**
+- **[Chapter 30: The Bipolar Spectral Algebra]({{ '/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-30-the-bipolar-spectral-algebra/' | relative_url }})**
+- **[Chapter 31: Finite Witnesses & the Road Ahead]({{ '/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-31-finite-witnesses-the-road-ahead/' | relative_url }})**

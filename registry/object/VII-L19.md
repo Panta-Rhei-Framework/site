@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L19 — E₃ Uniqueness
 permalink: /registry/object/VII.L19/
 registry_id: VII.L19

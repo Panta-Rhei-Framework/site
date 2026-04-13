@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R73 — The Millennium Problem, revisited
 permalink: /registry/object/IV.R73/
 registry_id: IV.R73

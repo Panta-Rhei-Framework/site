@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T64 — Higgs Scalarity Theorem
 permalink: /registry/object/IV.T64/
 registry_id: IV.T64

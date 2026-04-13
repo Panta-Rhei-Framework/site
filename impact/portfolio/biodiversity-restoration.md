@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Biodiversity/Restoration
 permalink: /impact/portfolio/biodiversity-restoration/
 portfolio_id: impact-biodiversity-restoration
@@ -27,5 +28,5 @@ The Kunming–Montreal Global Biodiversity Framework calls for at least 30% of d
 
 ## Companion Papers (1)
 
-- [τ for Biodiversity Finance, Monitoring, Restoration Verification, and Nature-Positive Investment Prioritization](/impact/papers/biodiversity-finance-monitoring-restoration-verification/)
+- [τ for Biodiversity Finance, Monitoring, Restoration Verification, and Nature-Positive Investment Prioritization]({{ '/impact/papers/biodiversity-finance-monitoring-restoration-verification/' | relative_url }})
 

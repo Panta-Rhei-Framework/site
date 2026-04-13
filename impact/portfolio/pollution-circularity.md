@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Pollution/Circularity
 permalink: /impact/portfolio/pollution-circularity/
 portfolio_id: impact-pollution-circularity
@@ -28,8 +29,8 @@ WHO says 99% of the global population breathes air above WHO guideline levels, a
 
 ## Companion Papers (4)
 
-- [Tau for Chemicals, Toxic Releases, Lead/PFAS/Heavy Metals, Water-Soil-Air Plume Intelligence, and Remediation](/impact/papers/chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation/)
-- [Tau-Grade Clean-Air Digital Twins, Exposure Intelligence, and Urban/Regional Health Protection](/impact/papers/clean-air-digital-twins-exposure-intelligence/)
-- [Tau for Industrial, Transport, and Agricultural Emissions Attribution, Compliance, and High-Return Abatement Targeting](/impact/papers/industrial-transport-agricultural-emissions-attribution-compliance-abatement/)
-- [τ for Waste Systems, Plastics Leakage, Litter Interception, Municipal/Industrial Waste Operations, and Zero-Waste Transitions](/impact/papers/waste-systems-plastics-leakage-zero-waste/)
+- [Tau for Chemicals, Toxic Releases, Lead/PFAS/Heavy Metals, Water-Soil-Air Plume Intelligence, and Remediation]({{ '/impact/papers/chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation/' | relative_url }})
+- [Tau-Grade Clean-Air Digital Twins, Exposure Intelligence, and Urban/Regional Health Protection]({{ '/impact/papers/clean-air-digital-twins-exposure-intelligence/' | relative_url }})
+- [Tau for Industrial, Transport, and Agricultural Emissions Attribution, Compliance, and High-Return Abatement Targeting]({{ '/impact/papers/industrial-transport-agricultural-emissions-attribution-compliance-abatement/' | relative_url }})
+- [τ for Waste Systems, Plastics Leakage, Litter Interception, Municipal/Industrial Waste Operations, and Zero-Waste Transitions]({{ '/impact/papers/waste-systems-plastics-leakage-zero-waste/' | relative_url }})
 

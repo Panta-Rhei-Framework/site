@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D09 — Primary Invariant
 permalink: /registry/object/IV.D09/
 registry_id: IV.D09

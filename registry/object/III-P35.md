@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P35 — Saturation Semantics
 permalink: /registry/object/III.P35/
 registry_id: III.P35

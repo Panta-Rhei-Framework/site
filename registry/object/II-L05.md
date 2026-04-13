@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L05 — Character-Hartogs Equivalence
 permalink: /registry/object/II.L05/
 registry_id: II.L05

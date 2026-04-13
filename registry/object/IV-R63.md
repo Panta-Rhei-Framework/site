@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R63 — Comparison with the mass gap
 permalink: /registry/object/IV.R63/
 registry_id: IV.R63

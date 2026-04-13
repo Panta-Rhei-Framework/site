@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P18 — Hodge Requires E₁
 permalink: /registry/object/III.P18/
 registry_id: III.P18

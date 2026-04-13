@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T67 — Sieve-Tower Compatibility
 permalink: /registry/object/III.T67/
 registry_id: III.T67

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T59 — Neutrino Interaction Channels
 permalink: /registry/object/IV.T59/
 registry_id: IV.T59

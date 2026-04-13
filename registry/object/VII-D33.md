@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D33 — τ-Modal Operators
 permalink: /registry/object/VII.D33/
 registry_id: VII.D33

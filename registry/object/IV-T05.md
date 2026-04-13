@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T05 — Parameter Count
 permalink: /registry/object/IV.T05/
 registry_id: IV.T05

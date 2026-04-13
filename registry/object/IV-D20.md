@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D20 — Mass Index
 permalink: /registry/object/IV.D20/
 registry_id: IV.D20

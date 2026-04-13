@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D45 — Temporal Experience Structure
 permalink: /registry/object/VII.D45/
 registry_id: VII.D45

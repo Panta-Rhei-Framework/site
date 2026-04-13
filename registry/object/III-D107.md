@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D107 — CRT Twin Admissibility
 permalink: /registry/object/III.D107/
 registry_id: III.D107

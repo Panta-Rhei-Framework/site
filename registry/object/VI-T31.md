@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: 'VI.T31 — BH ω-Representative: Fusion Convergence'
 permalink: /registry/object/VI.T31/
 registry_id: VI.T31

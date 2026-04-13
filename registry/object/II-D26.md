@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D26 — Solenoidal Circle
 permalink: /registry/object/II.D26/
 registry_id: II.D26

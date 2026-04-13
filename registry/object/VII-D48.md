@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D48 — Elegance as Minimal Tension
 permalink: /registry/object/VII.D48/
 registry_id: VII.D48

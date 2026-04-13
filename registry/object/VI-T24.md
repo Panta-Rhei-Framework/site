@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T24 — Ecosystem as Multi-Scale Poincaré Circulation
 permalink: /registry/object/VI.T24/
 registry_id: VI.T24

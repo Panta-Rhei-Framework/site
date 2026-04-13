@@ -67,5 +67,5 @@ that determines each prime's polarity.
 
 ## Chapters
 
-- **[Chapter 26: The Spectral Question: What Do Primes See?](/publications/books/book-i/part-06-the-prime-polarity-theorem/chapter-26-the-spectral-question-what-do-primes-see/)**
-- **[Chapter 27: The Prime Polarity Theorem](/publications/books/book-i/part-06-the-prime-polarity-theorem/chapter-27-the-prime-polarity-theorem/)**
+- **[Chapter 26: The Spectral Question: What Do Primes See?]({{ '/publications/books/book-i/part-06-the-prime-polarity-theorem/chapter-26-the-spectral-question-what-do-primes-see/' | relative_url }})**
+- **[Chapter 27: The Prime Polarity Theorem]({{ '/publications/books/book-i/part-06-the-prime-polarity-theorem/chapter-27-the-prime-polarity-theorem/' | relative_url }})**

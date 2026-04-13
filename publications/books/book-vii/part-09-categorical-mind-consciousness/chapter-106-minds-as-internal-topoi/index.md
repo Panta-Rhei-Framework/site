@@ -20,12 +20,12 @@ summary_short: "What is a mind? This chapter proposes a structural answer: a min
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/"
-canonical_part_title: "Part IX: Categorical Mind \& Consciousness"
+canonical_part_title: "Part IX: Categorical Mind & Consciousness"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part IX: Categorical Mind \& Consciousness"
+  - title: "Part IX: Categorical Mind & Consciousness"
     url: /publications/books/book-vii/part-09-categorical-mind-consciousness/
   - title: Registry
     url: /registry/books/book-vii/
@@ -46,7 +46,7 @@ internal truth values governed by a subobject classifier. The
 Mind-Topos Structure Theorem (VII.T39) shows that any system whose
 carrier supports stable representation, flexible counterfactual
 reasoning, and self-modelling instantiates an internal topos. The
-mind–body relation is thereby reframed: ``body'' and ``mind'' are two
+mind–body relation is thereby reframed: “body” and “mind” are two
 descriptions of one organized process — external dynamics in $τ^3$
 and internal logic on the carrier's domain. The account supports
 graded mindedness for animals (Chapter [ch:animal-dignity]) and

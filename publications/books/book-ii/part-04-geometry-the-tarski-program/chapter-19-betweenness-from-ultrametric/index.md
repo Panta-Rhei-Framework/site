@@ -52,7 +52,7 @@ Betweenness is a *theorem*,
 not an axiom—earned from the CRT tower
 and the first disagreement depth.
 The key insight:
-``$y$ is between $x$ and $z$''
+“$y$ is between $x$ and $z$”
 means that $x$ and $y$ agree
 to greater depth in the primorial tower
 than $x$ and $z$ do.

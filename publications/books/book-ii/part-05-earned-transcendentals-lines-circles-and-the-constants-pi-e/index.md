@@ -36,7 +36,7 @@ Six chapters bridge from ABCD refinement rays to the classical constants
 and the Archimedean-Non-Archimedean duality.
 
 Chapter [ch:lines-countable] defines the $α$-ray as the canonical
-``real line'' $ℓ_α = \{α_n : n ≥ 1\} ∪ \{ω\}$
+“real line” $ℓ_α = \{α_n : n ≥ 1\} ∪ \{ω\}$
 and shows that $ℝ$ appears as the inverse limit of ultrametric
 radial sequences—not as an uncountable continuum (consistent with Book I's
 Cantor refutation, I.T35).
@@ -75,9 +75,9 @@ setting up the split-complex holomorphy that becomes load-bearing in Part VI.
 
 ## Chapters
 
-- **[Chapter 24: Lines from Countable Structure](/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-24-lines-from-countable-structure/)**
-- **[Chapter 25: Circles from Solenoidal Structure](/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-25-circles-from-solenoidal-structure/)**
-- **[Chapter 26: Three Perspectives on π](/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-26-three-perspectives-on-pi/)**
-- **[Chapter 27: e Earned — The Self-Reproducing Growth Base](/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-27-e-earned-the-self-reproducing-growth-base/)**
-- **[Chapter 28: Replaces i — Polarity, Not Rotation](/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-28-replaces-i-polarity-not-rotation/)**
-- **[Chapter 29: ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge](/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/)**
+- **[Chapter 24: Lines from Countable Structure]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-24-lines-from-countable-structure/' | relative_url }})**
+- **[Chapter 25: Circles from Solenoidal Structure]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-25-circles-from-solenoidal-structure/' | relative_url }})**
+- **[Chapter 26: Three Perspectives on π]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-26-three-perspectives-on-pi/' | relative_url }})**
+- **[Chapter 27: e Earned — The Self-Reproducing Growth Base]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-27-e-earned-the-self-reproducing-growth-base/' | relative_url }})**
+- **[Chapter 28: Replaces i — Polarity, Not Rotation]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-28-replaces-i-polarity-not-rotation/' | relative_url }})**
+- **[Chapter 29: ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/' | relative_url }})**

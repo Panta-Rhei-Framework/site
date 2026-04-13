@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R04 — Enrichment Ladder Preview
 permalink: /registry/object/III.R04/
 registry_id: III.R04

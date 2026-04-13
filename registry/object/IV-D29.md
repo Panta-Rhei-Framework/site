@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D29 — Strong Near-Match
 permalink: /registry/object/IV.D29/
 registry_id: IV.D29

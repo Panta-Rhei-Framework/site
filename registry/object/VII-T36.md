@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T36 — Kernel Theorem (K)
 permalink: /registry/object/VII.T36/
 registry_id: VII.T36

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D19 — Closure Sector (η-fiber)
 permalink: /registry/object/VI.D19/
 registry_id: VI.D19

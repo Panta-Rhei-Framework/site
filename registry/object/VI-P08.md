@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P08 — Thermodynamic Inevitability of Life
 permalink: /registry/object/VI.P08/
 registry_id: VI.P08

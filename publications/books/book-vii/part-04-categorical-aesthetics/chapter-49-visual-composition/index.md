@@ -40,8 +40,8 @@ right_rail:
 
 Visual composition—the arrangement of elements within a
 two-dimensional frame—is spatial aesthetics at its most
-explicit. Balance, flow, color harmony, and the ``rule of
-thirds'' are not arbitrary conventions but structural
+explicit. Balance, flow, color harmony, and the “rule of
+thirds” are not arbitrary conventions but structural
 optimizations of the aesthetic functional introduced in
 Chapter [ch:aesthetic-functional]. This chapter analyzes
 compositional principles as instances of invariance:

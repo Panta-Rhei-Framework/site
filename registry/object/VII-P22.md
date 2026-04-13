@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P22 — Pseudo-Paradox from Type Violation
 permalink: /registry/object/VII.P22/
 registry_id: VII.P22

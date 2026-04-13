@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D73 — Enantiomeric Excess at Refinement Level n
 permalink: /registry/object/VI.D73/
 registry_id: VI.D73

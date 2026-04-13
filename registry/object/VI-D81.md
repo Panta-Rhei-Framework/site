@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D81 — Potency Restriction
 permalink: /registry/object/VI.D81/
 registry_id: VI.D81

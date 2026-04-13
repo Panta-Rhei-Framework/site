@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R04 — Neutron First Ontic Particle
 permalink: /registry/object/IV.R04/
 registry_id: IV.R04

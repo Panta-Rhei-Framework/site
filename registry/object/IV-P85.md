@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P85 — Existence and uniqueness at each stage
 permalink: /registry/object/IV.P85/
 registry_id: IV.P85

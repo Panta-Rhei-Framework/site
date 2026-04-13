@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.C4 — Absence of God's-Eye View
 permalink: /registry/object/IV.C4/
 registry_id: IV.C4

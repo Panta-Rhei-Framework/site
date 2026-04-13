@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D15 — Tau-Dimension
 permalink: /registry/object/II.D15/
 registry_id: II.D15

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D86 — Constructive Consciousness Criteria
 permalink: /registry/object/VI.D86/
 registry_id: VI.D86

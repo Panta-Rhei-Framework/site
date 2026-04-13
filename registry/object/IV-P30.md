@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P30 — Entropy-Mode-Count Bound
 permalink: /registry/object/IV.P30/
 registry_id: IV.P30

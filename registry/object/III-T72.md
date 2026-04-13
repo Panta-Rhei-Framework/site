@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T72 — Twin Primes to 500
 permalink: /registry/object/III.T72/
 registry_id: III.T72

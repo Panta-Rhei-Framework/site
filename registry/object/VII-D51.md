@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D51 — Language Adds Temporalization
 permalink: /registry/object/VII.D51/
 registry_id: VII.D51

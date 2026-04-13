@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D70 — Character as Ethical Fixed Point
 permalink: /registry/object/VII.D70/
 registry_id: VII.D70

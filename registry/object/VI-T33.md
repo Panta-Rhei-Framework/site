@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T33 — Galaxy-SMBH Anchor Lemma
 permalink: /registry/object/VI.T33/
 registry_id: VI.T33

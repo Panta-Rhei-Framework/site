@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R29 — Binding Conditions
 permalink: /registry/object/III.R29/
 registry_id: III.R29

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R72 — Glueball mass scale
 permalink: /registry/object/IV.R72/
 registry_id: IV.R72

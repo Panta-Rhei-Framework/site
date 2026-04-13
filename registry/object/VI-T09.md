@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T09 — Metabolism = Life Loop Class
 permalink: /registry/object/VI.T09/
 registry_id: VI.T09

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D21 — Wave-Type PDE
 permalink: /registry/object/II.D21/
 registry_id: II.D21

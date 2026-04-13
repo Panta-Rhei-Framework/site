@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R47 — Methodological Override Rules
 permalink: /registry/object/VII.R47/
 registry_id: VII.R47

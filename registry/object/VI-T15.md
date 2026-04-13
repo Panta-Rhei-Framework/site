@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T15 — Virus NoDist
 permalink: /registry/object/VI.T15/
 registry_id: VI.T15

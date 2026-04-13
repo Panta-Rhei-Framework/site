@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D32 — Interior j-Unit
 permalink: /registry/object/II.D32/
 registry_id: II.D32

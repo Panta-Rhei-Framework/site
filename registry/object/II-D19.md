@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D19 — Betweenness Relation
 permalink: /registry/object/II.D19/
 registry_id: II.D19

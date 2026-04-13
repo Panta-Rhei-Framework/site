@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: V.L7 — Clopen Nesting of NF-Prefix Cylinders
 permalink: /registry/object/V.L7/
 registry_id: V.L7

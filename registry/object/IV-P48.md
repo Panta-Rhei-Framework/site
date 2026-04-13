@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P48 — Magnetic Force Does No Work
 permalink: /registry/object/IV.P48/
 registry_id: IV.P48

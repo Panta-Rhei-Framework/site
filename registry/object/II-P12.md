@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P12 — Enrichment Iteration
 permalink: /registry/object/II.P12/
 registry_id: II.P12

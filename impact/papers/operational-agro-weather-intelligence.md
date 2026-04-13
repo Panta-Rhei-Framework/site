@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau-Grade Operational Agro-Weather Intelligence
 permalink: /impact/papers/operational-agro-weather-intelligence/
 paper_id: companion-agriculture-paper-1

@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: One Health
 permalink: /impact/portfolio/one-health/
 portfolio_id: impact-one-health
@@ -27,8 +28,8 @@ One Health problems are usually hard because they sit across systems: weather an
 
 ## Companion Papers (4)
 
-- [Tau for AMR, Wastewater/Environmental Surveillance, and Environmental Transmission Intelligence](/impact/papers/amr-wastewater-environmental-transmission-intelligence/)
-- [Tau for Food Safety, Livestock/Wildlife Interface, and Community Exposure Intelligence](/impact/papers/food-safety-livestock-wildlife-community-exposure/)
-- [Tau-Grade One Health Early Warning for Vector-Borne Disease, Zoonotic Spillover, and Climate-Sensitive Outbreaks](/impact/papers/one-health-vector-zoonotic-spillover-climate-outbreaks/)
-- [τ for Precision Public Health, Physiology-Aware Prevention, and Safer Therapeutics / Response Optimization](/impact/papers/precision-public-health-physiology-prevention-safer-therapeutics/)
+- [Tau for AMR, Wastewater/Environmental Surveillance, and Environmental Transmission Intelligence]({{ '/impact/papers/amr-wastewater-environmental-transmission-intelligence/' | relative_url }})
+- [Tau for Food Safety, Livestock/Wildlife Interface, and Community Exposure Intelligence]({{ '/impact/papers/food-safety-livestock-wildlife-community-exposure/' | relative_url }})
+- [Tau-Grade One Health Early Warning for Vector-Borne Disease, Zoonotic Spillover, and Climate-Sensitive Outbreaks]({{ '/impact/papers/one-health-vector-zoonotic-spillover-climate-outbreaks/' | relative_url }})
+- [τ for Precision Public Health, Physiology-Aware Prevention, and Safer Therapeutics / Response Optimization]({{ '/impact/papers/precision-public-health-physiology-prevention-safer-therapeutics/' | relative_url }})
 

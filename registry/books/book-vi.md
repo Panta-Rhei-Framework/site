@@ -1,5 +1,6 @@
 ---
 layout: registry-book
+lane: registry
 title: 'Registry — Book VI: Categorical Life'
 permalink: /registry/books/book-vi/
 book: VI

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D90 — Six Comparison Axes
 permalink: /registry/object/II.D90/
 registry_id: II.D90

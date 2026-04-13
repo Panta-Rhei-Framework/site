@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: 'VI.R19 — 1st Ed Correction: Mixer (α,π) to (γ,η)'
 permalink: /registry/object/VI.R19/
 registry_id: VI.R19

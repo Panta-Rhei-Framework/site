@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T25 — Signature Rigidity Determines Uniqueness
 permalink: /registry/object/VI.T25/
 registry_id: VI.T25

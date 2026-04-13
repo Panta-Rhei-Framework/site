@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Flood, Coastal Surge, Flash Flood, and Landslide Resilience
 permalink: /impact/papers/flood-coastal-surge-landslide-resilience/
 paper_id: companion-disaster-paper-2

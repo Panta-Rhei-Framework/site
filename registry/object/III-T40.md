@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T40 — Enrichment Tower Assembly
 permalink: /registry/object/III.T40/
 registry_id: III.T40

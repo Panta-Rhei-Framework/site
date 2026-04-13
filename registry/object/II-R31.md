@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R31 — Categoricity Implies No Ladder
 permalink: /registry/object/II.R31/
 registry_id: II.R31

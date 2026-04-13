@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D97 — Radical Function
 permalink: /registry/object/III.D97/
 registry_id: III.D97

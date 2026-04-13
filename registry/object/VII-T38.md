@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T38 — C Register Independence
 permalink: /registry/object/VII.T38/
 registry_id: VII.T38

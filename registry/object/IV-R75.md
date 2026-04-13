@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R75 — The lattice evidence
 permalink: /registry/object/IV.R75/
 registry_id: IV.R75

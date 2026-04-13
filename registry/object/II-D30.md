@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D30 — e as Iterator Eigenvalue
 permalink: /registry/object/II.D30/
 registry_id: II.D30

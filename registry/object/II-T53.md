@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T53 — Cauchy-Schwarz Inequality
 permalink: /registry/object/II.T53/
 registry_id: II.T53

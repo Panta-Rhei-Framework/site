@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R38 — E₁ Complete
 permalink: /registry/object/III.R38/
 registry_id: III.R38

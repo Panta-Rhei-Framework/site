@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R56 — Eight generators = eight gluon types
 permalink: /registry/object/IV.R56/
 registry_id: IV.R56

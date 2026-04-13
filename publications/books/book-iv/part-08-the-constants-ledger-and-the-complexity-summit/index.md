@@ -68,10 +68,10 @@ The entire microcosm.
 
 ## Chapters
 
-- **[Chapter 67: The Complete Coupling Ledger](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-67-the-complete-coupling-ledger/)**
-- **[Chapter 68: The Ontological Layer Architecture](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-68-the-ontological-layer-architecture/)**
-- **[Chapter 69: Running vs.\ Readout](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-69-running-vs-readout/)**
-- **[Chapter 70: The Mass Ratio R and the 10-Link Chain](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-70-the-mass-ratio-r-and-the-10-link-chain/)**
-- **[Chapter 71: The Neutron Lifetime: Crown of the Cascade](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-71-the-neutron-lifetime-crown-of-the-cascade/)**
-- **[Chapter 72: Laws as Structure](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-72-laws-as-structure/)**
-- **[Chapter 73: The Self-Describing Universe](/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-73-the-self-describing-universe/)**
+- **[Chapter 67: The Complete Coupling Ledger]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-67-the-complete-coupling-ledger/' | relative_url }})**
+- **[Chapter 68: The Ontological Layer Architecture]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-68-the-ontological-layer-architecture/' | relative_url }})**
+- **[Chapter 69: Running vs.\ Readout]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-69-running-vs-readout/' | relative_url }})**
+- **[Chapter 70: The Mass Ratio R and the 10-Link Chain]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-70-the-mass-ratio-r-and-the-10-link-chain/' | relative_url }})**
+- **[Chapter 71: The Neutron Lifetime: Crown of the Cascade]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-71-the-neutron-lifetime-crown-of-the-cascade/' | relative_url }})**
+- **[Chapter 72: Laws as Structure]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-72-laws-as-structure/' | relative_url }})**
+- **[Chapter 73: The Self-Describing Universe]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-73-the-self-describing-universe/' | relative_url }})**

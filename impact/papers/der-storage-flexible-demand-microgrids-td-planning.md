@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for DER Orchestration, Storage, Flexible Demand, Microgrids, and T&D Planning
 permalink: /impact/papers/der-storage-flexible-demand-microgrids-td-planning/
 paper_id: companion-energy-paper-2

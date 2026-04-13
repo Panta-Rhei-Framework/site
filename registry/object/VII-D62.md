@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D62 — Modal Frame in τ
 permalink: /registry/object/VII.D62/
 registry_id: VII.D62

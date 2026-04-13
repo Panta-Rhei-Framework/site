@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P20 — Omega Point as Life Convergence
 permalink: /registry/object/VI.P20/
 registry_id: VI.P20

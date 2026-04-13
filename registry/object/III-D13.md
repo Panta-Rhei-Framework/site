@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D13 — 4+1 Sector Decomposition
 permalink: /registry/object/III.D13/
 registry_id: III.D13

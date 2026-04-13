@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T53 — Weak Coupling from Sector Parameters
 permalink: /registry/object/IV.T53/
 registry_id: IV.T53

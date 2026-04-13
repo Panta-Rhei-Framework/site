@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L01 — Naturality Forces Cylinder Compatibility
 permalink: /registry/object/II.L01/
 registry_id: II.L01

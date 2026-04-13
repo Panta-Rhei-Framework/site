@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T37 — Enrichment Saturation Theorem
 permalink: /registry/object/VI.T37/
 registry_id: VI.T37

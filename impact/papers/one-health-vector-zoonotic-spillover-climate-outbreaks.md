@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau-Grade One Health Early Warning for Vector-Borne Disease, Zoonotic Spillover,
   and Climate-Sensitive Outbreaks
 permalink: /impact/papers/one-health-vector-zoonotic-spillover-climate-outbreaks/

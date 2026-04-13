@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D56 — Character Variety of T²
 permalink: /registry/object/IV.D56/
 registry_id: IV.D56

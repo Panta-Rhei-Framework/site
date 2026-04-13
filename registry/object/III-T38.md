@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T38 — Finite Factorization Pasting
 permalink: /registry/object/III.T38/
 registry_id: III.T38

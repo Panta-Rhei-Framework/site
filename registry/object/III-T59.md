@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T59 — Arithmetic Faithfulness
 permalink: /registry/object/III.T59/
 registry_id: III.T59

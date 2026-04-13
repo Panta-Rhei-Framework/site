@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P11 — Primorial RH Verification Protocol
 permalink: /registry/object/III.P11/
 registry_id: III.P11

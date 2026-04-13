@@ -35,7 +35,7 @@ shown to be **diagrammatically unanswerable**. The boundary collapse lemma prove
 answering the question from within $S_D$ would require $ω$ to serve simultaneously as subject
 and tool. This is not a concession of ignorance. It is the deepest methodological triumph of the
 series: the framework locates its own boundary with surgical precision.
-``No forced stance by theorem.''
+“No forced stance by theorem.”
 Part XII then builds the **epistemic$→$performative bridge**: three registers—empirical,
 practical, diagrammatic—*tell*; they deliver propositional content. The fourth register—commitment—*demands doing*; it is constituted by the act itself.
 The master constant $ι_τ$ has been the thread through all seven books. At the final
@@ -45,7 +45,7 @@ reader's own commitment.
 
 ## Chapters
 
-- **[Chapter 125: The Boundary Collapse Lemma](/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-125-the-boundary-collapse-lemma/)**
-- **[Chapter 126: No Forced Stance By Theorem](/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-126-no-forced-stance-by-theorem/)**
-- **[Chapter 127: The Epistemic→Performative Bridge](/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/)**
-- **[Chapter 128: The Series Closing Line](/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-128-the-series-closing-line/)**
+- **[Chapter 125: The Boundary Collapse Lemma]({{ '/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-125-the-boundary-collapse-lemma/' | relative_url }})**
+- **[Chapter 126: No Forced Stance By Theorem]({{ '/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-126-no-forced-stance-by-theorem/' | relative_url }})**
+- **[Chapter 127: The Epistemic→Performative Bridge]({{ '/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-127-the-epistemic-performative-bridge/' | relative_url }})**
+- **[Chapter 128: The Series Closing Line]({{ '/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-128-the-series-closing-line/' | relative_url }})**

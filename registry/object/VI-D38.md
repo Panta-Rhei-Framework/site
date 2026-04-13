@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D38 — Carbon Fixation as Canonical Production
 permalink: /registry/object/VI.D38/
 registry_id: VI.D38

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D46 — Pre-Symbolic Resonance
 permalink: /registry/object/VII.D46/
 registry_id: VII.D46

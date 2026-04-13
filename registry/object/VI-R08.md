@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R08 — Speed of Abiogenesis
 permalink: /registry/object/VI.R08/
 registry_id: VI.R08

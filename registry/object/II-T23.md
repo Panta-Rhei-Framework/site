@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T23 — e from Index Arithmetic
 permalink: /registry/object/II.T23/
 registry_id: II.T23

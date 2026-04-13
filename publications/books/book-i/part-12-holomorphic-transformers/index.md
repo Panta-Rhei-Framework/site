@@ -77,7 +77,7 @@ the hallmark of holomorphic rigidity.
 
 ## Chapters
 
-- **[Chapter 46: D-Holomorphy and the Cauchy–Riemann Analog](/publications/books/book-i/part-12-holomorphic-transformers/chapter-46-d-holomorphy-and-the-cauchy-riemann-analog/)**
-- **[Chapter 47: Tower Coherence and τ](/publications/books/book-i/part-12-holomorphic-transformers/chapter-47-tower-coherence-and-tau/)**
-- **[Chapter 48: The Diagonal-Free Protection Theorem](/publications/books/book-i/part-12-holomorphic-transformers/chapter-48-the-diagonal-free-protection-theorem/)**
-- **[Chapter 49: The Identity Theorem](/publications/books/book-i/part-12-holomorphic-transformers/chapter-49-the-identity-theorem/)**
+- **[Chapter 46: D-Holomorphy and the Cauchy–Riemann Analog]({{ '/publications/books/book-i/part-12-holomorphic-transformers/chapter-46-d-holomorphy-and-the-cauchy-riemann-analog/' | relative_url }})**
+- **[Chapter 47: Tower Coherence and τ]({{ '/publications/books/book-i/part-12-holomorphic-transformers/chapter-47-tower-coherence-and-tau/' | relative_url }})**
+- **[Chapter 48: The Diagonal-Free Protection Theorem]({{ '/publications/books/book-i/part-12-holomorphic-transformers/chapter-48-the-diagonal-free-protection-theorem/' | relative_url }})**
+- **[Chapter 49: The Identity Theorem]({{ '/publications/books/book-i/part-12-holomorphic-transformers/chapter-49-the-identity-theorem/' | relative_url }})**

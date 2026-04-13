@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R11 — Problem Map Table
 permalink: /registry/object/VII.R11/
 registry_id: VII.R11

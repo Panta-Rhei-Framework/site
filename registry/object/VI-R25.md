@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R25 — Principled Science-Faith Boundary
 permalink: /registry/object/VI.R25/
 registry_id: VI.R25

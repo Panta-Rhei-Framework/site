@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R05 — ZFC-as-VM Philosophical Import
 permalink: /registry/object/VII.R05/
 registry_id: VII.R05

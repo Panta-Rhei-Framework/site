@@ -45,5 +45,5 @@ section-existence. The Gettier Dissolution Theorem shows that Gettier
 cases are cover failures, not knowledge failures: the cover was too
 coarse to support a genuine global section. This chapter launches
 Part III by extending categorical ontology from the third-person
-question (``What exists?'') to the first-person question (``What can
-I know?'').
+question (“What exists?”) to the first-person question (“What can
+I know?”).

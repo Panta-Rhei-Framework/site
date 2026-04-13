@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D28 — Homochirality
 permalink: /registry/object/VI.D28/
 registry_id: VI.D28

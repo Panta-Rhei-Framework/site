@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R79 — The key structural point
 permalink: /registry/object/IV.R79/
 registry_id: IV.R79

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D108 — Sieve-Accelerated ABC
 permalink: /registry/object/III.D108/
 registry_id: III.D108

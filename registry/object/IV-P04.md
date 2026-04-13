@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P04 — No-Running Principle
 permalink: /registry/object/IV.P04/
 registry_id: IV.P04

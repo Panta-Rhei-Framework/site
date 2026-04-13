@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D68 — Structural Self-Model
 permalink: /registry/object/VI.D68/
 registry_id: VI.D68

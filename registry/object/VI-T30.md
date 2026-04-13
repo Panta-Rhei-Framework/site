@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T30 — BH SelfDesc Theorem
 permalink: /registry/object/VI.T30/
 registry_id: VI.T30

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T49 — Drift Bounded by Repair
 permalink: /registry/object/VI.T49/
 registry_id: VI.T49

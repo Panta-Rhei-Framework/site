@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D91 — One Free Choice
 permalink: /registry/object/VII.D91/
 registry_id: VII.D91

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R15 — Perelman's Proof (review)
 permalink: /registry/object/III.R15/
 registry_id: III.R15

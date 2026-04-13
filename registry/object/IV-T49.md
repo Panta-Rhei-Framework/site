@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T49 — Holonomy Formula for alpha_em
 permalink: /registry/object/IV.T49/
 registry_id: IV.T49

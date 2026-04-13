@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D110 — Squarefree ABC Check
 permalink: /registry/object/III.D110/
 registry_id: III.D110

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P09 — Underdetermination as Cover Failure
 permalink: /registry/object/VII.P09/
 registry_id: VII.P09

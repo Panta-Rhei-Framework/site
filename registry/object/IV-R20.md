@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R20 — Zero Postulates Significance
 permalink: /registry/object/IV.R20/
 registry_id: IV.R20

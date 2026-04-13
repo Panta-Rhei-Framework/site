@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Seasonal Planning, Disaster Anticipation, and Food-System Resilience
 permalink: /impact/papers/seasonal-planning-disaster-anticipation-food-system-resilience/
 paper_id: companion-agriculture-paper-4

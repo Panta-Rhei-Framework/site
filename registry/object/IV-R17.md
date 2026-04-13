@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R17 — Role of ℏ_τ in Obstruction
 permalink: /registry/object/IV.R17/
 registry_id: IV.R17

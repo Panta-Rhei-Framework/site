@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T70 — Partition Growth
 permalink: /registry/object/III.T70/
 registry_id: III.T70

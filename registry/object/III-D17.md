@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D17 — Spectral Polarity
 permalink: /registry/object/III.D17/
 registry_id: III.D17

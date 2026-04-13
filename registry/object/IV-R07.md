@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R07 — Ontological Priority
 permalink: /registry/object/IV.R07/
 registry_id: IV.R07

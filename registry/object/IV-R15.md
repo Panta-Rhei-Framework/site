@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R15 — Quasi-Ergodic Coverage
 permalink: /registry/object/IV.R15/
 registry_id: IV.R15

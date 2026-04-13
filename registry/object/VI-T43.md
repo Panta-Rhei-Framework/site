@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T43 — Homochirality Universality
 permalink: /registry/object/VI.T43/
 registry_id: VI.T43

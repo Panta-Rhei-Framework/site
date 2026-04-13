@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T75 — τ-Yang--Mills Mass Gap Theorem
 permalink: /registry/object/IV.T75/
 registry_id: IV.T75

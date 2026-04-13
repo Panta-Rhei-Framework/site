@@ -42,8 +42,8 @@ Classical thermodynamics identifies three modes
 of energy transport:
 radiation, conduction, and convection.
 Radiation is electromagnetic (Maxwell's equations).
-Conduction is ``molecular vibration transfer.''
-Convection is ``bulk fluid motion.''
+Conduction is “molecular vibration transfer.”
+Convection is “bulk fluid motion.”
 The three modes appear to have different physical origins:
 radiation is a field phenomenon,
 conduction is a microscopic collision chain,

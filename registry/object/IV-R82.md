@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R82 — Comparison with lattice QCD
 permalink: /registry/object/IV.R82/
 registry_id: IV.R82

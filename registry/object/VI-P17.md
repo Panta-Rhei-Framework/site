@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P17 — Metamorphosis Preserves SelfDesc
 permalink: /registry/object/VI.P17/
 registry_id: VI.P17

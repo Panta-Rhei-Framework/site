@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D40 — Identity Map
 permalink: /registry/object/II.D40/
 registry_id: II.D40

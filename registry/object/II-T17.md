@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T17 — Pasch Axiom
 permalink: /registry/object/II.T17/
 registry_id: II.T17

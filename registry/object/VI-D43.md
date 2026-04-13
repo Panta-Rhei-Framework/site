@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D43 — Aging as Defect Accumulation
 permalink: /registry/object/VI.D43/
 registry_id: VI.D43

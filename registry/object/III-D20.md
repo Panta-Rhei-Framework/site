@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D20 — Reconstruction Functor
 permalink: /registry/object/III.D20/
 registry_id: III.D20

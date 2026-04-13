@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R10 — Platonism-Nominalism Dissolution
 permalink: /registry/object/VII.R10/
 registry_id: VII.R10

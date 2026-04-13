@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R39 — Epistemic Upgrade Principle
 permalink: /registry/object/II.R39/
 registry_id: II.R39

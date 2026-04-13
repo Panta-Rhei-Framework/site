@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D18 — Boundary Archetype
 permalink: /registry/object/VII.D18/
 registry_id: VII.D18

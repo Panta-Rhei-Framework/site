@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T20 — R as Inverse Limit
 permalink: /registry/object/II.T20/
 registry_id: II.T20

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P36 — Arithmetic Preserves Operations
 permalink: /registry/object/III.P36/
 registry_id: III.P36

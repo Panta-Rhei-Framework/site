@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T35 — Dissolution of Wave-Particle Duality
 permalink: /registry/object/IV.T35/
 registry_id: IV.T35

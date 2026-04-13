@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T60 — Neutral Boson Mixing
 permalink: /registry/object/IV.T60/
 registry_id: IV.T60

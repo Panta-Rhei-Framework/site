@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D65 — Distinction/SelfDesc Matrix
 permalink: /registry/object/VI.D65/
 registry_id: VI.D65

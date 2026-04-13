@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T15 — B/C Non-Collapse Theorem
 permalink: /registry/object/III.T15/
 registry_id: III.T15

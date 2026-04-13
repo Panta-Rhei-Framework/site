@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T12 — Reproduction = Blueprint Propagation
 permalink: /registry/object/VI.T12/
 registry_id: VI.T12

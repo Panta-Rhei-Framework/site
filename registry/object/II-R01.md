@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R01 — Boundary-First Principle
 permalink: /registry/object/II.R01/
 registry_id: II.R01

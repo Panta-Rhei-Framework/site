@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L08 — Substrate Replacement Preserves Life-Equivalence
 permalink: /registry/object/VI.L08/
 registry_id: VI.L08

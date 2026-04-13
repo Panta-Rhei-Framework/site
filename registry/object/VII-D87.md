@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D87 — D→C Bridge Functor
 permalink: /registry/object/VII.D87/
 registry_id: VII.D87

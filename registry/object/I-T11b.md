@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.T11b — Four-Generator Ladder Incompleteness
 permalink: /registry/object/I.T11b/
 registry_id: I.T11b

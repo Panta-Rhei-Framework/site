@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R22 — No Past Hypothesis Needed
 permalink: /registry/object/IV.R22/
 registry_id: IV.R22

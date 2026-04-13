@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T22 — Single-Address Classical Logic
 permalink: /registry/object/VII.T22/
 registry_id: VII.T22

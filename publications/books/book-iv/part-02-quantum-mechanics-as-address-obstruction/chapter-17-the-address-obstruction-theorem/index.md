@@ -15,7 +15,7 @@ page_in_book: 87
 prev_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-16-holomorphic-quantization/"
 prev_chapter_title: "Chapter 16: Holomorphic Quantization"
 next_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-18-measurement-and-the-schr-odinger-equation/"
-next_chapter_title: "Chapter 18: Measurement and the Schr\"odinger Equation"
+next_chapter_title: "Chapter 18: Measurement and the Schrödinger Equation"
 summary_short: "The uncertainty principle is not mysterious—it follows from the CR-structure of $τ^3$. Here we derive the Heisenberg relation as an **address obstruction**:…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"

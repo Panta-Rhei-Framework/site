@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R25 — Translation as Functor
 permalink: /registry/object/VII.R25/
 registry_id: VII.R25

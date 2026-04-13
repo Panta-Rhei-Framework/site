@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L24 — Lattice Closure
 permalink: /registry/object/VII.L24/
 registry_id: VII.L24

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T39 — Enriched Bi-Square Comparison
 permalink: /registry/object/III.T39/
 registry_id: III.T39

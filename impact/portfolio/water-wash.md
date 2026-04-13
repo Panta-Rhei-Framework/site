@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Water/WASH
 permalink: /impact/portfolio/water-wash/
 portfolio_id: impact-water-wash
@@ -28,9 +29,9 @@ WHO/UNICEF report 2.1 billion people still lacked safely managed drinking-water 
 
 ## Companion Papers (5)
 
-- [τ for Distribution Networks, Leakage, Pressure, and Service Continuity](/impact/papers/distribution-networks-leakage-pressure-service-continuity/)
-- [Tau-Grade Drinking-Water Source, Treatment, and Quality Early Warning](/impact/papers/drinking-water-source-treatment-quality-early-warning/)
-- [τ for River-Basin, Groundwater, Drought-Flood Allocation, and Water Productivity](/impact/papers/river-basin-groundwater-drought-flood-allocation-water-productivity/)
-- [τ for WASH in Health Facilities, Schools, Camps, and Climate-Vulnerable Settlements](/impact/papers/wash-health-facilities-schools-camps-climate-vulnerable-settlements/)
-- [τ for Wastewater, Stormwater, Sanitation, and Circular Water Reuse](/impact/papers/wastewater-stormwater-sanitation-circular-reuse/)
+- [τ for Distribution Networks, Leakage, Pressure, and Service Continuity]({{ '/impact/papers/distribution-networks-leakage-pressure-service-continuity/' | relative_url }})
+- [Tau-Grade Drinking-Water Source, Treatment, and Quality Early Warning]({{ '/impact/papers/drinking-water-source-treatment-quality-early-warning/' | relative_url }})
+- [τ for River-Basin, Groundwater, Drought-Flood Allocation, and Water Productivity]({{ '/impact/papers/river-basin-groundwater-drought-flood-allocation-water-productivity/' | relative_url }})
+- [τ for WASH in Health Facilities, Schools, Camps, and Climate-Vulnerable Settlements]({{ '/impact/papers/wash-health-facilities-schools-camps-climate-vulnerable-settlements/' | relative_url }})
+- [τ for Wastewater, Stormwater, Sanitation, and Circular Water Reuse]({{ '/impact/papers/wastewater-stormwater-sanitation-circular-reuse/' | relative_url }})
 

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T27 — Alethic Unification
 permalink: /registry/object/VII.T27/
 registry_id: VII.T27

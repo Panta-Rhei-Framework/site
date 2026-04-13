@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R03 — Falsifiability Program
 permalink: /registry/object/VI.R03/
 registry_id: VI.R03

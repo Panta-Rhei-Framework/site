@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R33 — Algebraic-to-Geometric Audit
 permalink: /registry/object/II.R33/
 registry_id: II.R33

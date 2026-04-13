@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T90 — Sector additivity
 permalink: /registry/object/IV.T90/
 registry_id: IV.T90

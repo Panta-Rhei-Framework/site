@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P04 — Cylinders Are Balls
 permalink: /registry/object/II.P04/
 registry_id: II.P04

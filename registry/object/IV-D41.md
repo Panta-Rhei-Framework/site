@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D41 — Chowla-Selberg Decomposition
 permalink: /registry/object/IV.D41/
 registry_id: IV.D41

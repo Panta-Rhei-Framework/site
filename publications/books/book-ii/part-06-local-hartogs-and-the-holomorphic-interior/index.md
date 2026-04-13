@@ -88,11 +88,11 @@ structure all rest on the $e_±$ decomposition.
 
 ## Chapters
 
-- **[Chapter 30: Split-Complex Codomain with Calibration](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/)**
-- **[Chapter 31: The BndLift](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-31-the-bndlift/)**
-- **[Chapter 32: Mutual Determination (5-Way Equivalence)](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-32-mutual-determination-5-way-equivalence/)**
-- **[Chapter 33: Evolution Operator and Causal Arrow](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-33-evolution-operator-and-causal-arrow/)**
-- **[Chapter 34: Composition, Identity, Associativity](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-34-composition-identity-associativity/)**
-- **[Chapter 35: Laurent Series and Residues](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-35-laurent-series-and-residues/)**
-- **[Chapter 36: The Canonical Holomorphic Basis B](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-36-the-canonical-holomorphic-basis-b/)**
-- **[Chapter 37: Sheaf Coherence from ω-Germ Compatibility](/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-37-sheaf-coherence-from-omega-germ-compatibility/)**
+- **[Chapter 30: Split-Complex Codomain with Calibration]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/' | relative_url }})**
+- **[Chapter 31: The BndLift]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-31-the-bndlift/' | relative_url }})**
+- **[Chapter 32: Mutual Determination (5-Way Equivalence)]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-32-mutual-determination-5-way-equivalence/' | relative_url }})**
+- **[Chapter 33: Evolution Operator and Causal Arrow]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-33-evolution-operator-and-causal-arrow/' | relative_url }})**
+- **[Chapter 34: Composition, Identity, Associativity]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-34-composition-identity-associativity/' | relative_url }})**
+- **[Chapter 35: Laurent Series and Residues]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-35-laurent-series-and-residues/' | relative_url }})**
+- **[Chapter 36: The Canonical Holomorphic Basis B]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-36-the-canonical-holomorphic-basis-b/' | relative_url }})**
+- **[Chapter 37: Sheaf Coherence from ω-Germ Compatibility]({{ '/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-37-sheaf-coherence-from-omega-germ-compatibility/' | relative_url }})**

@@ -32,6 +32,6 @@ right_rail:
 
 ## Chapters
 
-- **[Chapter 56: The Complete Constants Ledger and the G–α Bridge](/publications/books/book-v/part-07-the-closure/chapter-56-the-complete-constants-ledger-and-the-g-alpha-bridge/)**
-- **[Chapter 57: Export Contracts and Bridge to Life](/publications/books/book-v/part-07-the-closure/chapter-57-export-contracts-and-bridge-to-life/)**
-- **[Chapter 58: The Hermetic Truth and Panta Rhei](/publications/books/book-v/part-07-the-closure/chapter-58-the-hermetic-truth-and-panta-rhei/)**
+- **[Chapter 56: The Complete Constants Ledger and the G–α Bridge]({{ '/publications/books/book-v/part-07-the-closure/chapter-56-the-complete-constants-ledger-and-the-g-alpha-bridge/' | relative_url }})**
+- **[Chapter 57: Export Contracts and Bridge to Life]({{ '/publications/books/book-v/part-07-the-closure/chapter-57-export-contracts-and-bridge-to-life/' | relative_url }})**
+- **[Chapter 58: The Hermetic Truth and Panta Rhei]({{ '/publications/books/book-v/part-07-the-closure/chapter-58-the-hermetic-truth-and-panta-rhei/' | relative_url }})**

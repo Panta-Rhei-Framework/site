@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P23 — Neural Defect Monotonicity
 permalink: /registry/object/VI.P23/
 registry_id: VI.P23

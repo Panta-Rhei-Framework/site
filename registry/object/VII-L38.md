@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L38 — Collective Intentionality as Glued Section
 permalink: /registry/object/VII.L38/
 registry_id: VII.L38

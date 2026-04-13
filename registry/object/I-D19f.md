@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.D19f — Prime Enumeration and Sieve
 permalink: /registry/object/I.D19f/
 registry_id: I.D19f

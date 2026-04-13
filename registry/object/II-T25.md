@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T25 — Master Constant Confirmed
 permalink: /registry/object/II.T25/
 registry_id: II.T25

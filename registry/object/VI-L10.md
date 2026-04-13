@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L10 — BH Constancy Lemma
 permalink: /registry/object/VI.L10/
 registry_id: VI.L10

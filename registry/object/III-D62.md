@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D62 — BSD Functional
 permalink: /registry/object/III.D62/
 registry_id: III.D62

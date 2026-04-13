@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P13 — Poincaré as Gluing Guarantee
 permalink: /registry/object/III.P13/
 registry_id: III.P13

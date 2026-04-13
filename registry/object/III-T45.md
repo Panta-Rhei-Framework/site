@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T45 — RH Bridge Three-Layer Structure
 permalink: /registry/object/III.T45/
 registry_id: III.T45

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D83 — Story Functor
 permalink: /registry/object/VII.D83/
 registry_id: VII.D83

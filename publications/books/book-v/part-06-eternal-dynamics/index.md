@@ -96,16 +96,16 @@ and the master constant $ι_τ = 2/(π + e)$.
 
 ## Chapters
 
-- **[Chapter 43: The Big Bang as Regime: Same Laws, Extreme Parameters](/publications/books/book-v/part-06-eternal-dynamics/chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters/)**
-- **[Chapter 44: Inflation-as-Regime: No Inflaton Sector](/publications/books/book-v/part-06-eternal-dynamics/chapter-44-inflation-as-regime-no-inflaton-sector/)**
-- **[Chapter 45: The Threshold Ladder: From Baryogenesis to Recombination](/publications/books/book-v/part-06-eternal-dynamics/chapter-45-the-threshold-ladder-from-baryogenesis-to-recombination/)**
-- **[Chapter 46: The Beta-Decay Bookends](/publications/books/book-v/part-06-eternal-dynamics/chapter-46-the-beta-decay-bookends/)**
-- **[Chapter 47: Black Hole Birth as Global Topological Event](/publications/books/book-v/part-06-eternal-dynamics/chapter-47-black-hole-birth-as-global-topological-event/)**
-- **[Chapter 48: Black Hole Bipolarity and Blueprint Fusion](/publications/books/book-v/part-06-eternal-dynamics/chapter-48-black-hole-bipolarity-and-blueprint-fusion/)**
-- **[Chapter 49: The No-Shrink Theorem: Mature Black Holes Cannot Shrink](/publications/books/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/)**
-- **[Chapter 50: The Merger Normal Form and BH Astrophysics](/publications/books/book-v/part-06-eternal-dynamics/chapter-50-the-merger-normal-form-and-bh-astrophysics/)**
-- **[Chapter 51: Global Finiteness: The Four-Theorem Chain](/publications/books/book-v/part-06-eternal-dynamics/chapter-51-global-finiteness-the-four-theorem-chain/)**
-- **[Chapter 52: The Cosmological Endstate: Eternal Circulation](/publications/books/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/)**
-- **[Chapter 53: The Cosmology Falsification Pack](/publications/books/book-v/part-06-eternal-dynamics/chapter-53-the-cosmology-falsification-pack/)**
-- **[Chapter 54: The Boundary Unification Program](/publications/books/book-v/part-06-eternal-dynamics/chapter-54-the-boundary-unification-program/)**
-- **[Chapter 55: Part~VI Synthesis: Eternal Dynamics Complete](/publications/books/book-v/part-06-eternal-dynamics/chapter-55-part-vi-synthesis-eternal-dynamics-complete/)**
+- **[Chapter 43: The Big Bang as Regime: Same Laws, Extreme Parameters]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters/' | relative_url }})**
+- **[Chapter 44: Inflation-as-Regime: No Inflaton Sector]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-44-inflation-as-regime-no-inflaton-sector/' | relative_url }})**
+- **[Chapter 45: The Threshold Ladder: From Baryogenesis to Recombination]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-45-the-threshold-ladder-from-baryogenesis-to-recombination/' | relative_url }})**
+- **[Chapter 46: The Beta-Decay Bookends]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-46-the-beta-decay-bookends/' | relative_url }})**
+- **[Chapter 47: Black Hole Birth as Global Topological Event]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-47-black-hole-birth-as-global-topological-event/' | relative_url }})**
+- **[Chapter 48: Black Hole Bipolarity and Blueprint Fusion]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-48-black-hole-bipolarity-and-blueprint-fusion/' | relative_url }})**
+- **[Chapter 49: The No-Shrink Theorem: Mature Black Holes Cannot Shrink]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/' | relative_url }})**
+- **[Chapter 50: The Merger Normal Form and BH Astrophysics]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-50-the-merger-normal-form-and-bh-astrophysics/' | relative_url }})**
+- **[Chapter 51: Global Finiteness: The Four-Theorem Chain]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-51-global-finiteness-the-four-theorem-chain/' | relative_url }})**
+- **[Chapter 52: The Cosmological Endstate: Eternal Circulation]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-52-the-cosmological-endstate-eternal-circulation/' | relative_url }})**
+- **[Chapter 53: The Cosmology Falsification Pack]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-53-the-cosmology-falsification-pack/' | relative_url }})**
+- **[Chapter 54: The Boundary Unification Program]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-54-the-boundary-unification-program/' | relative_url }})**
+- **[Chapter 55: Part~VI Synthesis: Eternal Dynamics Complete]({{ '/publications/books/book-v/part-06-eternal-dynamics/chapter-55-part-vi-synthesis-eternal-dynamics-complete/' | relative_url }})**

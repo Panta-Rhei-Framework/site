@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T77 — Squarefree Dominance
 permalink: /registry/object/III.T77/
 registry_id: III.T77

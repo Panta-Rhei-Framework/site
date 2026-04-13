@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D94 — EM Loop Space
 permalink: /registry/object/IV.D94/
 registry_id: IV.D94

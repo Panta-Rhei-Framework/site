@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D54 — Pragmatic Update Operator
 permalink: /registry/object/VII.D54/
 registry_id: VII.D54

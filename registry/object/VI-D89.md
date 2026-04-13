@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D89 — Neurodegenerative Disease Mapping
 permalink: /registry/object/VI.D89/
 registry_id: VI.D89

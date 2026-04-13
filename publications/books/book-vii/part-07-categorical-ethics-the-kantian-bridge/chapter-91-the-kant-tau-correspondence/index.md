@@ -20,12 +20,12 @@ summary_short: "Kant completed two pillars of reason at full resolution: the emp
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
-canonical_part_title: "Part VII: Categorical Ethics \& the Kantian Bridge"
+canonical_part_title: "Part VII: Categorical Ethics & the Kantian Bridge"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part VII: Categorical Ethics \& the Kantian Bridge"
+  - title: "Part VII: Categorical Ethics & the Kantian Bridge"
     url: /publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/
   - title: Registry
     url: /registry/books/book-vii/

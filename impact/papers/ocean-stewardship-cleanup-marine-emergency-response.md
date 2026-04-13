@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ and Ocean Stewardship, Cleanup, and Marine Emergency Response
 permalink: /impact/papers/ocean-stewardship-cleanup-marine-emergency-response/
 paper_id: companion-ocean-paper-4

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D60 — Spectral Algebra
 permalink: /registry/object/II.D60/
 registry_id: II.D60

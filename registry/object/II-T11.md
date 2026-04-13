@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T11 — Dimension Four
 permalink: /registry/object/II.T11/
 registry_id: II.T11

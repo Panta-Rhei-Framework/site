@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P18 — L² Completeness
 permalink: /registry/object/II.P18/
 registry_id: II.P18

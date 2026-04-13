@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T51 — Flat Curvature Vanishing
 permalink: /registry/object/II.T51/
 registry_id: II.T51

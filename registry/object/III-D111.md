@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D111 — Tower Decidable Check
 permalink: /registry/object/III.D111/
 registry_id: III.D111

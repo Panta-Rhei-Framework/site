@@ -63,7 +63,7 @@ $⇒$ geometry $⇒$ transcendentals $⇒$
 holomorphic interior} — exact inversion of orthodox order.
 
 A note on terminology: throughout this book,
-$τ^3$ means ``$τ$ viewed through its geometric coordinate chart.''
+$τ^3$ means “$τ$ viewed through its geometric coordinate chart.”
 The superscript $3$ is a structural index naming the three-factor
 fibered product $τ^1 ×_f T^2$.
 It is not a dimension count (the interior is four-dimensional),
@@ -95,6 +95,6 @@ Welcome to the holomorphic interior.
 
 ## Chapters
 
-- **[Chapter 1: The Boundary-First Paradigm](/publications/books/book-ii/part-00-from-kernel-to-interior/chapter-01-the-boundary-first-paradigm/)**
-- **[Chapter 2: The Elliptic-to-Split-Complex Shift](/publications/books/book-ii/part-00-from-kernel-to-interior/chapter-02-the-elliptic-to-split-complex-shift/)**
-- **[Chapter 3: Roadmap and Inverted Dependency](/publications/books/book-ii/part-00-from-kernel-to-interior/chapter-03-roadmap-and-inverted-dependency/)**
+- **[Chapter 1: The Boundary-First Paradigm]({{ '/publications/books/book-ii/part-00-from-kernel-to-interior/chapter-01-the-boundary-first-paradigm/' | relative_url }})**
+- **[Chapter 2: The Elliptic-to-Split-Complex Shift]({{ '/publications/books/book-ii/part-00-from-kernel-to-interior/chapter-02-the-elliptic-to-split-complex-shift/' | relative_url }})**
+- **[Chapter 3: Roadmap and Inverted Dependency]({{ '/publications/books/book-ii/part-00-from-kernel-to-interior/chapter-03-roadmap-and-inverted-dependency/' | relative_url }})**

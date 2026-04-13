@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Solar-Plus-Storage, Microgrids, and Critical-Infrastructure Resilience
 permalink: /impact/papers/solar-storage-microgrids-critical-infrastructure-resilience/
 paper_id: companion-solar-paper-3

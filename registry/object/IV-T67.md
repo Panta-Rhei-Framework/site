@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T67 — Zero Free Parameters in Electroweak Sector
 permalink: /registry/object/IV.T67/
 registry_id: IV.T67

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P99 — Higgs sector as τ-holonomy sector
 permalink: /registry/object/IV.P99/
 registry_id: IV.P99

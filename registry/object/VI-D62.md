@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D62 — Life Basin
 permalink: /registry/object/VI.D62/
 registry_id: VI.D62

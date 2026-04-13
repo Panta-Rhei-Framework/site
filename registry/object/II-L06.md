@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L06 — Gluing Lemma
 permalink: /registry/object/II.L06/
 registry_id: II.L06

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D68 — Gödel Numbering as NF Address
 permalink: /registry/object/III.D68/
 registry_id: III.D68

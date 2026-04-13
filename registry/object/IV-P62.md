@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P62 — Z Heavier Than W
 permalink: /registry/object/IV.P62/
 registry_id: IV.P62

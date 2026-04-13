@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P47 — Photon-Wave Identity
 permalink: /registry/object/IV.P47/
 registry_id: IV.P47

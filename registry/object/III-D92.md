@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D92 — Forbidden Move Obstruction Classes
 permalink: /registry/object/III.D92/
 registry_id: III.D92

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D84 — Intentionality as Morphism
 permalink: /registry/object/VII.D84/
 registry_id: VII.D84

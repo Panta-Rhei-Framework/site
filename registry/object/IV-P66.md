@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P66 — Mass Eigenvalue Ratios
 permalink: /registry/object/IV.P66/
 registry_id: IV.P66

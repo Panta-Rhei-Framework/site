@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D100 — Sieve Prime Count
 permalink: /registry/object/III.D100/
 registry_id: III.D100

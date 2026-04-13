@@ -51,7 +51,7 @@ Book VI is part of the **Life** layer (E₂) of the Panta Rhei framework.
 
 ## About This Volume
 
-What distinguishes living from non-living? Aristotle, Schr\"odinger, NASA—every classical answer
+What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer
 captures a necessary condition but none is sufficient: fire metabolizes, mules don't reproduce,
 crystals grow, computers process information. Book VI is the second self-enrichment layer $E_2$:
 where the kernel's physical structure becomes capable of recognizing itself. Two earned predicates
@@ -60,18 +60,18 @@ organizes all of biology by structural role.
 
 ## Parts
 
-- **[Prologue: The Question of Life](/publications/books/book-vi/part-00-the-question-of-life/)** — 2 chapters
-- **[Part I: The Life Definition](/publications/books/book-vi/part-01-the-life-definition/)** — 9 chapters
-- **[Part II: Persistence — Archaea and the Temporal Axis](/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/)** — 5 chapters
-- **[Part III: Agency — Bacteria and the Spatial Axis](/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/)** — 6 chapters
-- **[Part IV: Source — Plants and the Production Fiber](/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/)** — 5 chapters
-- **[Part V: Closure — Fungi and the Recycling Fiber](/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/)** — 5 chapters
-- **[Part VI: Consumer — Animals and the Mixed Sector](/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/)** — 10 chapters
-- **[Part VII: Cosmic Life](/publications/books/book-vi/part-07-cosmic-life/)** — 8 chapters
-- **[Part VIII: Consciousness, Language, and the Bridge to E₃](/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/)** — 3 chapters
+- **[Prologue: The Question of Life]({{ '/publications/books/book-vi/part-00-the-question-of-life/' | relative_url }})** — 2 chapters
+- **[Part I: The Life Definition]({{ '/publications/books/book-vi/part-01-the-life-definition/' | relative_url }})** — 9 chapters
+- **[Part II: Persistence — Archaea and the Temporal Axis]({{ '/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/' | relative_url }})** — 5 chapters
+- **[Part III: Agency — Bacteria and the Spatial Axis]({{ '/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/' | relative_url }})** — 6 chapters
+- **[Part IV: Source — Plants and the Production Fiber]({{ '/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/' | relative_url }})** — 5 chapters
+- **[Part V: Closure — Fungi and the Recycling Fiber]({{ '/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/' | relative_url }})** — 5 chapters
+- **[Part VI: Consumer — Animals and the Mixed Sector]({{ '/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/' | relative_url }})** — 10 chapters
+- **[Part VII: Cosmic Life]({{ '/publications/books/book-vi/part-07-cosmic-life/' | relative_url }})** — 8 chapters
+- **[Part VIII: Consciousness, Language, and the Bridge to E₃]({{ '/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/' | relative_url }})** — 3 chapters
 
 ## Canonical Artifacts
 
-- **Registry**: [53 chapters mapped to registry objects](/registry/books/book-vi/)
-- **Dashboard**: [Formalization status and dependency graph](/registry/dashboards/book-vi/)
+- **Registry**: [53 chapters mapped to registry objects]({{ '/registry/books/book-vi/' | relative_url }})
+- **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-vi/' | relative_url }})
 - **Formalization**: [TauLib BookVI](https://github.com/Panta-Rhei-Framework/formalization) — Lean 4 verification

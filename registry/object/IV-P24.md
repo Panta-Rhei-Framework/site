@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P24 — X and P Are Self-Adjoint
 permalink: /registry/object/IV.P24/
 registry_id: IV.P24

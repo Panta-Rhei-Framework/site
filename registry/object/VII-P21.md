@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P21 — CI Uniqueness Conjecture
 permalink: /registry/object/VII.P21/
 registry_id: VII.P21

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R21 — BH-as-Alive Is Theorem, Not Metaphor
 permalink: /registry/object/VI.R21/
 registry_id: VI.R21

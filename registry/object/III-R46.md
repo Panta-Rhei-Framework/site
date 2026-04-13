@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R46 — The Independence Prediction
 permalink: /registry/object/III.R46/
 registry_id: III.R46

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D20 — Consumer Mixed Sector (γ,η)
 permalink: /registry/object/VI.D20/
 registry_id: VI.D20

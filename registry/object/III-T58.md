@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T58 — E₃ Self-Model Completeness
 permalink: /registry/object/III.T58/
 registry_id: III.T58

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T11 — Three-Fold Distance Squared
 permalink: /registry/object/IV.T11/
 registry_id: IV.T11

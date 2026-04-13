@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R48 — Why two types of holonomy
 permalink: /registry/object/IV.R48/
 registry_id: IV.R48

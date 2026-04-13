@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T30 — Residue Theorem
 permalink: /registry/object/II.T30/
 registry_id: II.T30

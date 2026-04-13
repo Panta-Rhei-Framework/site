@@ -49,6 +49,6 @@ Physics *is* $E_1$.
 
 ## Chapters
 
-- **[Chapter 1: Where Does Physics Live?](/publications/books/book-iii/part-00-where-does-physics-live/chapter-01-where-does-physics-live/)**
-- **[Chapter 2: The Eight Guarantees](/publications/books/book-iii/part-00-where-does-physics-live/chapter-02-the-eight-guarantees/)**
-- **[Chapter 3: The Reader's Compass](/publications/books/book-iii/part-00-where-does-physics-live/chapter-03-the-reader-s-compass/)**
+- **[Chapter 1: Where Does Physics Live?]({{ '/publications/books/book-iii/part-00-where-does-physics-live/chapter-01-where-does-physics-live/' | relative_url }})**
+- **[Chapter 2: The Eight Guarantees]({{ '/publications/books/book-iii/part-00-where-does-physics-live/chapter-02-the-eight-guarantees/' | relative_url }})**
+- **[Chapter 3: The Reader's Compass]({{ '/publications/books/book-iii/part-00-where-does-physics-live/chapter-03-the-reader-s-compass/' | relative_url }})**

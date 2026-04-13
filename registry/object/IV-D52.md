@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D52 — CR-Address
 permalink: /registry/object/IV.D52/
 registry_id: IV.D52

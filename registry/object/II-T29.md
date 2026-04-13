@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T29 — Associativity of Holomorphic Composition
 permalink: /registry/object/II.T29/
 registry_id: II.T29

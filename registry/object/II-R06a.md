@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R06a — Refinement Rays
 permalink: /registry/object/II.R06a/
 registry_id: II.R06a

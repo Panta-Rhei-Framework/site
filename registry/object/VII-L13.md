@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L13 — First Bombshell Lemma
 permalink: /registry/object/VII.L13/
 registry_id: VII.L13

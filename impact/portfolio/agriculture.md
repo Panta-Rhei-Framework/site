@@ -1,5 +1,6 @@
 ---
 layout: impact-portfolio
+lane: impact
 title: Agriculture
 permalink: /impact/portfolio/agriculture/
 portfolio_id: impact-agriculture
@@ -28,9 +29,9 @@ FAO puts agricultural losses from disasters at USD 3.26 trillion over 1991–202
 
 ## Companion Papers (5)
 
-- [Tau for Climate-Smart Irrigation, Soil Moisture, and Water Productivity](/impact/papers/climate-smart-irrigation-soil-moisture-water-productivity/)
-- [Tau for Crop Biology, Breeding, Photosynthesis Engineering, and Targeted Gene Design](/impact/papers/crop-biology-breeding-photosynthesis-gene-design/)
-- [Tau-Grade Operational Agro-Weather Intelligence](/impact/papers/operational-agro-weather-intelligence/)
-- [Tau for Pest, Disease, and Livestock-Stress Early Warning](/impact/papers/pest-disease-livestock-stress-early-warning/)
-- [Tau for Seasonal Planning, Disaster Anticipation, and Food-System Resilience](/impact/papers/seasonal-planning-disaster-anticipation-food-system-resilience/)
+- [Tau for Climate-Smart Irrigation, Soil Moisture, and Water Productivity]({{ '/impact/papers/climate-smart-irrigation-soil-moisture-water-productivity/' | relative_url }})
+- [Tau for Crop Biology, Breeding, Photosynthesis Engineering, and Targeted Gene Design]({{ '/impact/papers/crop-biology-breeding-photosynthesis-gene-design/' | relative_url }})
+- [Tau-Grade Operational Agro-Weather Intelligence]({{ '/impact/papers/operational-agro-weather-intelligence/' | relative_url }})
+- [Tau for Pest, Disease, and Livestock-Stress Early Warning]({{ '/impact/papers/pest-disease-livestock-stress-early-warning/' | relative_url }})
+- [Tau for Seasonal Planning, Disaster Anticipation, and Food-System Resilience]({{ '/impact/papers/seasonal-planning-disaster-anticipation-food-system-resilience/' | relative_url }})
 

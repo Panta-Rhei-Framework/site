@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R49 — Why new loops appear
 permalink: /registry/object/IV.R49/
 registry_id: IV.R49

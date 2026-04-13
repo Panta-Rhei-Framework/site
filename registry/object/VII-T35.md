@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T35 — CI as j-Closed Fixed Point
 permalink: /registry/object/VII.T35/
 registry_id: VII.T35

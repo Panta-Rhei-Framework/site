@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D79 — Parallel Transport
 permalink: /registry/object/II.D79/
 registry_id: II.D79

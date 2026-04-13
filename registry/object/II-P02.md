@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P02 — Sector Inheritance
 permalink: /registry/object/II.P02/
 registry_id: II.P02

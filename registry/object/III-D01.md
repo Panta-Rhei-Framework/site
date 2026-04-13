@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D01 — Hartogs Bulk Projection
 permalink: /registry/object/III.D01/
 registry_id: III.D01

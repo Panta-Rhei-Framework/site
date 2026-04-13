@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D51 — τ-Tower Machine
 permalink: /registry/object/III.D51/
 registry_id: III.D51

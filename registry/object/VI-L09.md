@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L09 — BH Uniqueness Lemma
 permalink: /registry/object/VI.L09/
 registry_id: VI.L09

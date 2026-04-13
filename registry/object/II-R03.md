@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R03 — Inverted Dependency Chain
 permalink: /registry/object/II.R03/
 registry_id: II.R03

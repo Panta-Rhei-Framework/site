@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T16 — Congruence Axioms
 permalink: /registry/object/II.T16/
 registry_id: II.T16

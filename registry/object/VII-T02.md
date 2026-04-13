@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T02 — E₃ Non-Emptiness
 permalink: /registry/object/VII.T02/
 registry_id: VII.T02

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L01 — Wedge Holonomy
 permalink: /registry/object/IV.L01/
 registry_id: IV.L01

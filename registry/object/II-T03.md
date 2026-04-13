@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T03 — Fibration Structure
 permalink: /registry/object/II.T03/
 registry_id: II.T03

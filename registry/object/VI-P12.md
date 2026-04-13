@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P12 — Self-Assembly as Boundary-Induced Distinction
 permalink: /registry/object/VI.P12/
 registry_id: VI.P12

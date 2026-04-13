@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P28 — Determinism-Probability Reconciliation
 permalink: /registry/object/IV.P28/
 registry_id: IV.P28

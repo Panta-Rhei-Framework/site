@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T07 — Maxwell Relation
 permalink: /registry/object/IV.T07/
 registry_id: IV.T07

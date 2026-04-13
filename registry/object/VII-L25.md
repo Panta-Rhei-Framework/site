@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L25 — Minimality Witness
 permalink: /registry/object/VII.L25/
 registry_id: VII.L25

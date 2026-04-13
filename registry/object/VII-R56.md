@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R56 — BH Basin Cross-Book Consistency
 permalink: /registry/object/VII.R56/
 registry_id: VII.R56

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L34 — Archetypal Basis Completeness
 permalink: /registry/object/VII.L34/
 registry_id: VII.L34

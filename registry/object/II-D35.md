@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D35 — Calibrated Split-Complex Codomain
 permalink: /registry/object/II.D35/
 registry_id: II.D35

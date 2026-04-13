@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D75 — Register-Enrichment Correspondence
 permalink: /registry/object/VII.D75/
 registry_id: VII.D75

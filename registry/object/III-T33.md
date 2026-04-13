@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T33 — τ-Admissibility Collapse
 permalink: /registry/object/III.T33/
 registry_id: III.T33

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D65 — Proto-Rationality
 permalink: /registry/object/II.D65/
 registry_id: II.D65

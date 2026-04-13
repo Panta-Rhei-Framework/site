@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.K2 — Omega Fixed Point (K2)
 permalink: /registry/object/I.K2/
 registry_id: I.K2

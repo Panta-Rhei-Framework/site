@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D35 — Simply Connected in Category τ
 permalink: /registry/object/III.D35/
 registry_id: III.D35

@@ -42,26 +42,26 @@ The 2nd Edition adds the **inevitability argument** (six ontic requirements that
 converge uniquely to $τ$), the **metaphysical problem map** ($\sim$17 classical
 problems classified as resolved, reframed, or open), a **three-layer resolution of
 solipsism**, **non-dualistic Platonism** (single ontology with epistemic stratification),
-and **$ω$-uniqueness** (``there can be only one'').
+and **$ω$-uniqueness** (“there can be only one”).
 This is the deepest rewrite among the retained Parts: every chapter is updated for the
 $τ$-kernel vocabulary earned in the 2nd Edition.
 
 ## Chapters
 
-- **[Chapter 16: Relational Primacy: Relations Precede Relata](/publications/books/book-vii/part-02-categorical-ontology/chapter-16-relational-primacy-relations-precede-relata/)**
-- **[Chapter 17: The Structure τ: Signature, Axioms, Rigidity](/publications/books/book-vii/part-02-categorical-ontology/chapter-17-the-structure-tau-signature-axioms-rigidity/)**
-- **[Chapter 18: Internal Sets and Boundedness](/publications/books/book-vii/part-02-categorical-ontology/chapter-18-internal-sets-and-boundedness/)**
-- **[Chapter 19: Worlds, Topos, and Truth-Makers](/publications/books/book-vii/part-02-categorical-ontology/chapter-19-worlds-topos-and-truth-makers/)**
-- **[Chapter 20: Geometry from Generators](/publications/books/book-vii/part-02-categorical-ontology/chapter-20-geometry-from-generators/)**
-- **[Chapter 21: τ³: Base, Fiber, and the Central Arena](/publications/books/book-vii/part-02-categorical-ontology/chapter-21-tau-base-fiber-and-the-central-arena/)**
-- **[Chapter 22: Boundary and Bulk-Boundary Duality](/publications/books/book-vii/part-02-categorical-ontology/chapter-22-boundary-and-bulk-boundary-duality/)**
-- **[Chapter 23: Law, Regularity, and the Operator](/publications/books/book-vii/part-02-categorical-ontology/chapter-23-law-regularity-and-the-operator/)**
-- **[Chapter 24: Causation, Space, and Time](/publications/books/book-vii/part-02-categorical-ontology/chapter-24-causation-space-and-time/)**
-- **[Chapter 25: Modality and Necessity](/publications/books/book-vii/part-02-categorical-ontology/chapter-25-modality-and-necessity/)**
-- **[Chapter 26: Being, Becoming, and Change](/publications/books/book-vii/part-02-categorical-ontology/chapter-26-being-becoming-and-change/)**
-- **[Chapter 27: Mereology: Parts, Wholes, and Composition](/publications/books/book-vii/part-02-categorical-ontology/chapter-27-mereology-parts-wholes-and-composition/)**
-- **[Chapter 28: Abstract Objects and Structural Realism](/publications/books/book-vii/part-02-categorical-ontology/chapter-28-abstract-objects-and-structural-realism/)**
-- **[Chapter 29: The Inevitability Argument: Six Ontic Requirements](/publications/books/book-vii/part-02-categorical-ontology/chapter-29-the-inevitability-argument-six-ontic-requirements/)**
-- **[Chapter 30: The Metaphysical Problem Map](/publications/books/book-vii/part-02-categorical-ontology/chapter-30-the-metaphysical-problem-map/)**
-- **[Chapter 31: Solipsism Resolved: Three Layers](/publications/books/book-vii/part-02-categorical-ontology/chapter-31-solipsism-resolved-three-layers/)**
-- **[Chapter 32: Non-Dualistic Platonism and ω-Uniqueness](/publications/books/book-vii/part-02-categorical-ontology/chapter-32-non-dualistic-platonism-and-omega-uniqueness/)**
+- **[Chapter 16: Relational Primacy: Relations Precede Relata]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-16-relational-primacy-relations-precede-relata/' | relative_url }})**
+- **[Chapter 17: The Structure τ: Signature, Axioms, Rigidity]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-17-the-structure-tau-signature-axioms-rigidity/' | relative_url }})**
+- **[Chapter 18: Internal Sets and Boundedness]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-18-internal-sets-and-boundedness/' | relative_url }})**
+- **[Chapter 19: Worlds, Topos, and Truth-Makers]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-19-worlds-topos-and-truth-makers/' | relative_url }})**
+- **[Chapter 20: Geometry from Generators]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-20-geometry-from-generators/' | relative_url }})**
+- **[Chapter 21: τ³: Base, Fiber, and the Central Arena]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-21-tau-base-fiber-and-the-central-arena/' | relative_url }})**
+- **[Chapter 22: Boundary and Bulk-Boundary Duality]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-22-boundary-and-bulk-boundary-duality/' | relative_url }})**
+- **[Chapter 23: Law, Regularity, and the Operator]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-23-law-regularity-and-the-operator/' | relative_url }})**
+- **[Chapter 24: Causation, Space, and Time]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-24-causation-space-and-time/' | relative_url }})**
+- **[Chapter 25: Modality and Necessity]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-25-modality-and-necessity/' | relative_url }})**
+- **[Chapter 26: Being, Becoming, and Change]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-26-being-becoming-and-change/' | relative_url }})**
+- **[Chapter 27: Mereology: Parts, Wholes, and Composition]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-27-mereology-parts-wholes-and-composition/' | relative_url }})**
+- **[Chapter 28: Abstract Objects and Structural Realism]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-28-abstract-objects-and-structural-realism/' | relative_url }})**
+- **[Chapter 29: The Inevitability Argument: Six Ontic Requirements]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-29-the-inevitability-argument-six-ontic-requirements/' | relative_url }})**
+- **[Chapter 30: The Metaphysical Problem Map]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-30-the-metaphysical-problem-map/' | relative_url }})**
+- **[Chapter 31: Solipsism Resolved: Three Layers]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-31-solipsism-resolved-three-layers/' | relative_url }})**
+- **[Chapter 32: Non-Dualistic Platonism and ω-Uniqueness]({{ '/publications/books/book-vii/part-02-categorical-ontology/chapter-32-non-dualistic-platonism-and-omega-uniqueness/' | relative_url }})**

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and
 prev_chapter_title: "Chapter 37: Hadrons and Nuclei"
 next_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-39-the-alpha-particle/"
 next_chapter_title: "Chapter 39: The Alpha Particle"
-summary_short: "The neutron is the first ``micro-donut''—a saturated $T^2$ configuration whose bi-rotating character traces a pseudo-dense path across the toroidal fiber. This…"
+summary_short: "The neutron is the first “micro-donut”—a saturated $T^2$ configuration whose bi-rotating character traces a pseudo-dense path across the toroidal fiber. This…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The neutron is the first ``micro-donut''—a saturated $T^2$
+The neutron is the first “micro-donut”—a saturated $T^2$
 configuration whose bi-rotating character traces a pseudo-dense path
 across the toroidal fiber. This chapter develops the micro-donut
 picture: bi-rotation at speed $c$ yields $E = mc^2$ kinematically,

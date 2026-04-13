@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T55 — S-Duality Transport
 permalink: /registry/object/III.T55/
 registry_id: III.T55

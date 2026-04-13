@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D18 — Source Sector (γ-fiber)
 permalink: /registry/object/VI.D18/
 registry_id: VI.D18

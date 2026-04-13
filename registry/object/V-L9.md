@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: V.L9 — Basin Preservation under Ringdown Dynamics
 permalink: /registry/object/V.L9/
 registry_id: V.L9

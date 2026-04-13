@@ -79,7 +79,7 @@ No mode counting, no cutoff, no catastrophe.
 
 **Chapter 26** (*Dark Energy as Readout Artifact*)
 shows that cosmic acceleration requires no cosmological constant $Λ$.
-``Dark energy'' is diagnosed as a category error:
+“Dark energy” is diagnosed as a category error:
 a base-progression phenomenon
 misread through the orthodox readout functor.
 
@@ -92,8 +92,8 @@ And 68% of the orthodox cosmic budget dissolves.
 
 ## Chapters
 
-- **[Chapter 19: The 180^ Thermodynamic Inversion](/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-19-the-180-thermodynamic-inversion/)**
-- **[Chapter 20: Entropy Splitting: S_def](/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-20-entropy-splitting-sdef/)**
-- **[Chapter 21: Global Defect Exhaustion](/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-21-global-defect-exhaustion/)**
-- **[Chapter 22: Heat Is Electromagnetism: Macro Energy Transport](/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-22-heat-is-electromagnetism-macro-energy-transport/)**
-- **[Chapter 23: Dark Energy as Readout Artifact](/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-23-dark-energy-as-readout-artifact/)**
+- **[Chapter 19: The 180^ Thermodynamic Inversion]({{ '/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-19-the-180-thermodynamic-inversion/' | relative_url }})**
+- **[Chapter 20: Entropy Splitting: S_def]({{ '/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-20-entropy-splitting-sdef/' | relative_url }})**
+- **[Chapter 21: Global Defect Exhaustion]({{ '/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-21-global-defect-exhaustion/' | relative_url }})**
+- **[Chapter 22: Heat Is Electromagnetism: Macro Energy Transport]({{ '/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-22-heat-is-electromagnetism-macro-energy-transport/' | relative_url }})**
+- **[Chapter 23: Dark Energy as Readout Artifact]({{ '/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-23-dark-energy-as-readout-artifact/' | relative_url }})**

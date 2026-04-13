@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R32 — P vs NP Bridge Break
 permalink: /registry/object/III.R32/
 registry_id: III.R32

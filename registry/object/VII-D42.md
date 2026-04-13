@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D42 — Knowledge as Section
 permalink: /registry/object/VII.D42/
 registry_id: VII.D42

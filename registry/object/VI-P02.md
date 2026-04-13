@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P02 — Code Reconstruction
 permalink: /registry/object/VI.P02/
 registry_id: VI.P02

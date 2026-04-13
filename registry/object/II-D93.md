@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D93 — Combined Gain-Cost Ledger
 permalink: /registry/object/II.D93/
 registry_id: II.D93

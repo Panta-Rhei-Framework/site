@@ -1,6 +1,6 @@
 ---
 layout: publication-chapter
-title: "Chapter 18: Measurement and the Schr\"odinger Equation"
+title: "Chapter 18: Measurement and the Schrödinger Equation"
 permalink: /publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-18-measurement-and-the-schr-odinger-equation/
 lane: publications
 publication_type: chapter
@@ -42,6 +42,6 @@ Two pillars of quantum mechanics—measurement and time evolution—are
 here derived from $τ^3$ geometry. Measurement is character mode
 selection: projecting a superposition onto the CR-admissible basis.
 The Born rule follows from the Pythagorean theorem in Hilbert space.
-The Schr\"odinger equation emerges as the infinitesimal generator of
+The Schrödinger equation emerges as the infinitesimal generator of
 holomorphic time evolution along $τ^1$. Neither is postulated;
 both are geometric consequences of the CR-structure.

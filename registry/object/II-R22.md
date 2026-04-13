@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R22 — Enrichment Ladder Forward Declaration
 permalink: /registry/object/II.R22/
 registry_id: II.R22

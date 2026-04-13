@@ -71,7 +71,7 @@ When these conditions fail—at
 galactic scales,
 near compact objects,
 or at cosmological distances—the
-``classical'' description breaks down,
+“classical” description breaks down,
 and orthodoxy invokes dark matter
 or dark energy to patch the gap.
 

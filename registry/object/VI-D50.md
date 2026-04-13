@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D50 — PPAS Algorithm on Fitness Landscapes
 permalink: /registry/object/VI.D50/
 registry_id: VI.D50

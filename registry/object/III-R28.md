@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: 'III.R28 — Export Contracts: Books IV-VII'
 permalink: /registry/object/III.R28/
 registry_id: III.R28

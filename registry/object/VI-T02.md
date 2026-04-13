@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T02 — Distinction Well-Definedness
 permalink: /registry/object/VI.T02/
 registry_id: VI.T02

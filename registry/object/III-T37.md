@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T37 — Base Change-Transfer Naturality
 permalink: /registry/object/III.T37/
 registry_id: III.T37

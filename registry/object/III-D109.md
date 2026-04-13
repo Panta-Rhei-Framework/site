@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D109 — High Quality Count
 permalink: /registry/object/III.D109/
 registry_id: III.D109

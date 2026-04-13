@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D74 — Address Resolution
 permalink: /registry/object/IV.D74/
 registry_id: IV.D74

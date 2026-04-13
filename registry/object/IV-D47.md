@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D47 — Level 0 Formula
 permalink: /registry/object/IV.D47/
 registry_id: IV.D47

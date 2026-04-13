@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T10 — Leading Exponent
 permalink: /registry/object/IV.T10/
 registry_id: IV.T10

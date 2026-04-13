@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T42 — Stereochemical Selection
 permalink: /registry/object/VI.T42/
 registry_id: VI.T42

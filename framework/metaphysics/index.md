@@ -31,33 +31,33 @@ Layer E₃ is the terminal enrichment. Four registers decompose reality. Ethics 
 
 ### Foundations
 
-- **E3-001**: [Four Registers & Saturation](/framework/metaphysics-four-registers/) — Empirical, Practical, Diagrammatic, Commitment — four orthogonal modes of engagement.
+- **E3-001**: [Four Registers & Saturation]({{ '/framework/metaphysics-four-registers/' | relative_url }}) — Empirical, Practical, Diagrammatic, Commitment — four orthogonal modes of engagement.
 
 ### Empirical
 
-- **E3-002**: [Categorical Ontology](/framework/metaphysics-ontology/) — Relations precede relata — what exists is structural, not substantial.
-- **E3-003**: [Categorical Phenomenology](/framework/metaphysics-phenomenology/) — Knowledge as sections; perception as constraint-filtered readout.
+- **E3-002**: [Categorical Ontology]({{ '/framework/metaphysics-ontology/' | relative_url }}) — Relations precede relata — what exists is structural, not substantial.
+- **E3-003**: [Categorical Phenomenology]({{ '/framework/metaphysics-phenomenology/' | relative_url }}) — Knowledge as sections; perception as constraint-filtered readout.
 
 ### Diagrammatic
 
-- **E3-004**: [Categorical Aesthetics](/framework/metaphysics-aesthetics/) — Pre-symbolic beauty — resonance under transformation, the sublime at comprehension's edge.
-- **E3-005**: [Categorical Language & Meaning](/framework/metaphysics-language-meaning/) — How meaning arises — temporalization, mortality, and the subsymbolic layer.
-- **E3-006**: [Categorical Logic & Inference](/framework/metaphysics-logic-inference/) — Boolean at micro-scale, Bayesian at meso — truth-makers, modal frames, paraconsistent boundaries.
+- **E3-004**: [Categorical Aesthetics]({{ '/framework/metaphysics-aesthetics/' | relative_url }}) — Pre-symbolic beauty — resonance under transformation, the sublime at comprehension's edge.
+- **E3-005**: [Categorical Language & Meaning]({{ '/framework/metaphysics-language-meaning/' | relative_url }}) — How meaning arises — temporalization, mortality, and the subsymbolic layer.
+- **E3-006**: [Categorical Logic & Inference]({{ '/framework/metaphysics-logic-inference/' | relative_url }}) — Boolean at micro-scale, Bayesian at meso — truth-makers, modal frames, paraconsistent boundaries.
 
 ### Practical
 
-- **E3-007**: [Categorical Ethics & the Kantian Bridge](/framework/metaphysics-categorical-ethics/) — The Categorical Imperative as the unique minimal j-closed fixed point — ethics derived, not postulated.
-- **E3-008**: [Categorical Societies](/framework/metaphysics-societies/) — Social ontology as sheaf theory; power as morphism; legitimacy as recognition coherence.
+- **E3-007**: [Categorical Ethics & the Kantian Bridge]({{ '/framework/metaphysics-categorical-ethics/' | relative_url }}) — The Categorical Imperative as the unique minimal j-closed fixed point — ethics derived, not postulated.
+- **E3-008**: [Categorical Societies]({{ '/framework/metaphysics-societies/' | relative_url }}) — Social ontology as sheaf theory; power as morphism; legitimacy as recognition coherence.
 
 ### Commitment
 
-- **E3-009**: [Categorical Mind & Consciousness](/framework/metaphysics-mind-consciousness/) — Mind as internal topos; consciousness as global section; free will as branching; identity as address persistence.
+- **E3-009**: [Categorical Mind & Consciousness]({{ '/framework/metaphysics-mind-consciousness/' | relative_url }}) — Mind as internal topos; consciousness as global section; free will as branching; identity as address persistence.
 
 ### Logos
 
-- **E3-010**: [The Logos Sector](/framework/metaphysics-logos-sector/) — Where proof-validity and stance-stability coincide — the crown of E₃.
+- **E3-010**: [The Logos Sector]({{ '/framework/metaphysics-logos-sector/' | relative_url }}) — Where proof-validity and stance-stability coincide — the crown of E₃.
 
 ### Boundary
 
-- **E3-011**: [No Forced Stance](/framework/metaphysics-no-forced-stance/) — The framework proves its own limit — the sorry is the destination.
+- **E3-011**: [No Forced Stance]({{ '/framework/metaphysics-no-forced-stance/' | relative_url }}) — The framework proves its own limit — the sorry is the destination.
 

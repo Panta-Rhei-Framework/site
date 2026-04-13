@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R28 — CP Violation and the Crossing Phase
 permalink: /registry/object/IV.R28/
 registry_id: IV.R28

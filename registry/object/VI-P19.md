@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P19 — Sleep as Temporal Lemniscate Second Lobe
 permalink: /registry/object/VI.P19/
 registry_id: VI.P19

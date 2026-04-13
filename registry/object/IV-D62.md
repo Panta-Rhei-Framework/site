@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D62 — Holomorphic Hilbert Space
 permalink: /registry/object/IV.D62/
 registry_id: IV.D62

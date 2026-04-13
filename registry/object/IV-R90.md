@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R90 — Unification in the τ picture
 permalink: /registry/object/IV.R90/
 registry_id: IV.R90

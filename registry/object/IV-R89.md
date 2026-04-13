@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R89 — The physical picture
 permalink: /registry/object/IV.R89/
 registry_id: IV.R89

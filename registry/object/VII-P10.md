@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P10 — Perspectival Gluing Grounds Objectivity
 permalink: /registry/object/VII.P10/
 registry_id: VII.P10

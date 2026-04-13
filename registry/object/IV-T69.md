@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T69 — SU(3) Gauge Algebra
 permalink: /registry/object/IV.T69/
 registry_id: IV.T69

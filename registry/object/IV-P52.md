@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P52 — Polarity Assignments
 permalink: /registry/object/IV.P52/
 registry_id: IV.P52

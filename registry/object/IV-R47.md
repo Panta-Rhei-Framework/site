@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R47 — Comparison with the B-sector
 permalink: /registry/object/IV.R47/
 registry_id: IV.R47

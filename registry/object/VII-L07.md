@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L07 — Carrier Closure Lemma
 permalink: /registry/object/VII.L07/
 registry_id: VII.L07

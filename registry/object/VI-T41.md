@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T41 — Propagation Preserves Chirality
 permalink: /registry/object/VI.T41/
 registry_id: VI.T41

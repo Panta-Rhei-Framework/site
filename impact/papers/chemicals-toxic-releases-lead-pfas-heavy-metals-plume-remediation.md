@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Chemicals, Toxic Releases, Lead/PFAS/Heavy Metals, Water-Soil-Air Plume
   Intelligence, and Remediation
 permalink: /impact/papers/chemicals-toxic-releases-lead-pfas-heavy-metals-plume-remediation/

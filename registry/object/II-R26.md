@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R26 — The Minkowski Comparison
 permalink: /registry/object/II.R26/
 registry_id: II.R26

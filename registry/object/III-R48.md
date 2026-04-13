@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R48 — Honest Conclusion
 permalink: /registry/object/III.R48/
 registry_id: III.R48

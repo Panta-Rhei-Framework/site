@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L03 — Non-Emptiness at Each Layer
 permalink: /registry/object/VII.L03/
 registry_id: VII.L03

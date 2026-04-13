@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Fusion Digital Twins, Plasma Control, Heat Exhaust, and ITER → DEMO →
   Commercialization
 permalink: /impact/papers/fusion-digital-twins-plasma-control-heat-exhaust-iter-demo/

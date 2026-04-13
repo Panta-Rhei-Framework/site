@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P17 — Gap Stabilization
 permalink: /registry/object/III.P17/
 registry_id: III.P17

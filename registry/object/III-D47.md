@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D47 — σ-Fixed Character
 permalink: /registry/object/III.D47/
 registry_id: III.D47

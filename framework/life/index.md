@@ -31,21 +31,21 @@ Layer E₂ defines life through two categorical predicates: Distinction (self/no
 
 ### Definition
 
-- **E2-001**: [Life Defined](/framework/life-life-defined/) — Life = Distinction + SelfDesc — two predicates from which all seven hallmarks follow.
-- **E2-002**: [Layer Separation](/framework/life-layer-separation/) — Life is genuinely E₂ — the neutron star counterexample proves the gap is real.
-- **E2-003**: [Seven Hallmarks as Theorems](/framework/life-seven-hallmarks/) — Organization, metabolism, homeostasis, growth, reproduction, response, evolution — all derived.
+- **E2-001**: [Life Defined]({{ '/framework/life-life-defined/' | relative_url }}) — Life = Distinction + SelfDesc — two predicates from which all seven hallmarks follow.
+- **E2-002**: [Layer Separation]({{ '/framework/life-layer-separation/' | relative_url }}) — Life is genuinely E₂ — the neutron star counterexample proves the gap is real.
+- **E2-003**: [Seven Hallmarks as Theorems]({{ '/framework/life-seven-hallmarks/' | relative_url }}) — Organization, metabolism, homeostasis, growth, reproduction, response, evolution — all derived.
 
 ### Sectors
 
-- **E2-004**: [The 4+1 Life Sectors](/framework/life-life-sectors/) — Persistence, Agency, Source, Closure, Consumer — the same template that produces four forces.
+- **E2-004**: [The 4+1 Life Sectors]({{ '/framework/life-life-sectors/' | relative_url }}) — Persistence, Agency, Source, Closure, Consumer — the same template that produces four forces.
 
 ### Biology
 
-- **E2-005**: [Genetic Code & Central Dogma](/framework/life-genetic-code/) — DNA→RNA→Protein as categorical morphism; codon degeneracy as error correction.
-- **E2-006**: [Neural Architecture & Consciousness Bridge](/framework/life-neural-architecture/) — The nervous system as τ³ computer; sleep as temporal lemniscate; consciousness at E₂.
-- **E2-008**: [Evolution & Speciation](/framework/life-evolution/) — Evolution as PPAS optimization; speciation via τ³ bifurcation.
+- **E2-005**: [Genetic Code & Central Dogma]({{ '/framework/life-genetic-code/' | relative_url }}) — DNA→RNA→Protein as categorical morphism; codon degeneracy as error correction.
+- **E2-006**: [Neural Architecture & Consciousness Bridge]({{ '/framework/life-neural-architecture/' | relative_url }}) — The nervous system as τ³ computer; sleep as temporal lemniscate; consciousness at E₂.
+- **E2-008**: [Evolution & Speciation]({{ '/framework/life-evolution/' | relative_url }}) — Evolution as PPAS optimization; speciation via τ³ bifurcation.
 
 ### Cosmic Life
 
-- **E2-007**: [Crossing-Limit Theorem](/framework/life-crossing-limit/) — The BH merger net converges to ι_τ — the universe tends toward maximal aliveness.
+- **E2-007**: [Crossing-Limit Theorem]({{ '/framework/life-crossing-limit/' | relative_url }}) — The BH merger net converges to ι_τ — the universe tends toward maximal aliveness.
 

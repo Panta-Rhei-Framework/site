@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D13 — Sector Vacuum
 permalink: /registry/object/VII.D13/
 registry_id: VII.D13

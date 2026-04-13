@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P59 — W as Crossing Process
 permalink: /registry/object/IV.P59/
 registry_id: IV.P59

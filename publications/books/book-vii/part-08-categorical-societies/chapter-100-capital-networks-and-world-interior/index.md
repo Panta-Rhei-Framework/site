@@ -44,6 +44,6 @@ mobilize resources through institutions, knowledge, and network
 position. This chapter models exchange as flow on recognition
 graphs, analyses hub formation and wealth concentration as
 structural consequences of network dynamics, and develops
-Sloterdijk's ``world interior of capital'' as a large-scale
+Sloterdijk's “world interior of capital” as a large-scale
 enclosure produced by ubiquitous exchangeability. The Capital
 Network definition (VII.D78) captures the categorical structure.

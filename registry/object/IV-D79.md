@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D79 — Frequency as Base Circulation
 permalink: /registry/object/IV.D79/
 registry_id: IV.D79

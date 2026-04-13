@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L20 — Crossing Point Uniqueness
 permalink: /registry/object/VII.L20/
 registry_id: VII.L20

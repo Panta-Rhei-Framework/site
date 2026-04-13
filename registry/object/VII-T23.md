@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T23 — Scale-Dependent Logic Theorem
 permalink: /registry/object/VII.T23/
 registry_id: VII.T23

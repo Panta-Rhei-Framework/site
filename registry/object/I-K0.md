@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.K0 — Universe Postulate
 permalink: /registry/object/I.K0/
 registry_id: I.K0

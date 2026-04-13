@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R09 — Complete Spectral Vocabulary
 permalink: /registry/object/III.R09/
 registry_id: III.R09

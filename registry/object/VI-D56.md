@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D56 — Frame-Closure Defect
 permalink: /registry/object/VI.D56/
 registry_id: VI.D56

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R21 — Energy-Entropy Complementarity
 permalink: /registry/object/IV.R21/
 registry_id: IV.R21

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R09 — Panta Rhei with Invariants
 permalink: /registry/object/VII.R09/
 registry_id: VII.R09

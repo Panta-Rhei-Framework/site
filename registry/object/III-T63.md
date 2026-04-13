@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T63 — P vs NP Forbidden Triple
 permalink: /registry/object/III.T63/
 registry_id: III.T63

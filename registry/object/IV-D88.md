@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D88 — Section of the EM Bundle
 permalink: /registry/object/IV.D88/
 registry_id: IV.D88

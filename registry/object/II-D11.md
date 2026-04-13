@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D11 — Clopen Basis
 permalink: /registry/object/II.D11/
 registry_id: II.D11

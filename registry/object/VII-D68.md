@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D68 — Moral Monodromy
 permalink: /registry/object/VII.D68/
 registry_id: VII.D68

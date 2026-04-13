@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R05 — Book II Handoff
 permalink: /registry/object/III.R05/
 registry_id: III.R05

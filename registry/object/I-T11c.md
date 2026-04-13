@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.T11c — Tetration Algebraic Degradation
 permalink: /registry/object/I.T11c/
 registry_id: I.T11c

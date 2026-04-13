@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T97 — Boundary Triad Theorem
 permalink: /registry/object/IV.T97/
 registry_id: IV.T97

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D60 — ω-Representative of Life
 permalink: /registry/object/VI.D60/
 registry_id: VI.D60

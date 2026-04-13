@@ -57,7 +57,7 @@ that are postulated rather than derived,
 and the AGN taxonomy (Seyferts, blazars,
 quasars, radio galaxies)
 is unified only by an orientation-dependent
-``unified model'' whose underlying geometry
+“unified model” whose underlying geometry
 remains unexplained.
 
 In Category $τ$, accretion has a topological origin.

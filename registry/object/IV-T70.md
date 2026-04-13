@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T70 — Color Number Theorem
 permalink: /registry/object/IV.T70/
 registry_id: IV.T70

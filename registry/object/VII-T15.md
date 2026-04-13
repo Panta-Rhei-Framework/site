@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T15 — Bayesian Exclusion of Solipsism
 permalink: /registry/object/VII.T15/
 registry_id: VII.T15

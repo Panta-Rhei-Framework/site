@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R26 — Homochirality Scope Upgrade
 permalink: /registry/object/VI.R26/
 registry_id: VI.R26

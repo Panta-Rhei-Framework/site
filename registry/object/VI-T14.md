@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T14 — Evolution = PPAS Optimization
 permalink: /registry/object/VI.T14/
 registry_id: VI.T14

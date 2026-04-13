@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D14 — Stone Space
 permalink: /registry/object/II.D14/
 registry_id: II.D14

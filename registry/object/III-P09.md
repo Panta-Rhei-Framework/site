@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P09 — Discrete Spectrum of H_L
 permalink: /registry/object/III.P09/
 registry_id: III.P09

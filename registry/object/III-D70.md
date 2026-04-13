@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D70 — Host-Level Property
 permalink: /registry/object/III.D70/
 registry_id: III.D70

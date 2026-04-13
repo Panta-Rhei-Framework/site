@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T89 — Tower compatibility
 permalink: /registry/object/IV.T89/
 registry_id: IV.T89

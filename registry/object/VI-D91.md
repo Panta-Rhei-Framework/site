@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D91 — Neural Hayflick Bound
 permalink: /registry/object/VI.D91/
 registry_id: VI.D91

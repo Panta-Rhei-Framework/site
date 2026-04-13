@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T08 — Hausdorff Property
 permalink: /registry/object/II.T08/
 registry_id: II.T08

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D21 — Energy Index
 permalink: /registry/object/IV.D21/
 registry_id: IV.D21

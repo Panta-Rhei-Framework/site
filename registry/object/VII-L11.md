@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L11 — Duty Typing Lemma
 permalink: /registry/object/VII.L11/
 registry_id: VII.L11

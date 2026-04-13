@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P86 — Structure of Fix(s)
 permalink: /registry/object/IV.P86/
 registry_id: IV.P86

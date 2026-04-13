@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Waste Systems, Plastics Leakage, Litter Interception, Municipal/Industrial
   Waste Operations, and Zero-Waste Transitions
 permalink: /impact/papers/waste-systems-plastics-leakage-zero-waste/

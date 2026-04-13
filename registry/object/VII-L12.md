@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L12 — CI Minimality Lemma
 permalink: /registry/object/VII.L12/
 registry_id: VII.L12

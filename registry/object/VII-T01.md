@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T01 — Register Independence Theorem
 permalink: /registry/object/VII.T01/
 registry_id: VII.T01

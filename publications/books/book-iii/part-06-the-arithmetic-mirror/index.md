@@ -48,11 +48,11 @@ statement that the entire pasted diagram commutes.
 
 ## Chapters
 
-- **[Chapter 41: Enrichment from 0](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-41-enrichment-from-0/)**
-- **[Chapter 42: τ](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-42-tau/)**
-- **[Chapter 43: Proto-Codes and the BSD Bridgehead](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-43-proto-codes-and-the-bsd-bridgehead/)**
-- **[Chapter 44: The BSD Coherence Theorem](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-44-the-bsd-coherence-theorem/)**
-- **[Chapter 45: Automorphic–Galois Duality](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-45-automorphic-galois-duality/)**
-- **[Chapter 46: Functoriality as Diagram Commutativity](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-46-functoriality-as-diagram-commutativity/)**
-- **[Chapter 47: The Enriched Bi-Square](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-47-the-enriched-bi-square/)**
-- **[Chapter 48: The Tower Closes](/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-48-the-tower-closes/)**
+- **[Chapter 41: Enrichment from 0]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-41-enrichment-from-0/' | relative_url }})**
+- **[Chapter 42: τ]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-42-tau/' | relative_url }})**
+- **[Chapter 43: Proto-Codes and the BSD Bridgehead]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-43-proto-codes-and-the-bsd-bridgehead/' | relative_url }})**
+- **[Chapter 44: The BSD Coherence Theorem]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-44-the-bsd-coherence-theorem/' | relative_url }})**
+- **[Chapter 45: Automorphic–Galois Duality]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-45-automorphic-galois-duality/' | relative_url }})**
+- **[Chapter 46: Functoriality as Diagram Commutativity]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-46-functoriality-as-diagram-commutativity/' | relative_url }})**
+- **[Chapter 47: The Enriched Bi-Square]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-47-the-enriched-bi-square/' | relative_url }})**
+- **[Chapter 48: The Tower Closes]({{ '/publications/books/book-iii/part-06-the-arithmetic-mirror/chapter-48-the-tower-closes/' | relative_url }})**

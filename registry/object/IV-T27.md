@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T27 — Born Rule
 permalink: /registry/object/IV.T27/
 registry_id: IV.T27

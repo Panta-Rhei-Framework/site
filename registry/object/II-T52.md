@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T52 — Lemniscate Holonomy
 permalink: /registry/object/II.T52/
 registry_id: II.T52

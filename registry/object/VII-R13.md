@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R13 — Husserl-τ Correspondence
 permalink: /registry/object/VII.R13/
 registry_id: VII.R13

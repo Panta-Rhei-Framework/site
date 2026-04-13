@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R26 — Meaning Drift as Perturbation
 permalink: /registry/object/VII.R26/
 registry_id: VII.R26

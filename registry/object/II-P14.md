@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P14 — Character Algebra Ring Structure
 permalink: /registry/object/II.P14/
 registry_id: II.P14

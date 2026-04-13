@@ -43,8 +43,8 @@ $(Carrier_k, Predicate_k, Decoder_k, Invariant_k)$.
 
 ## Chapters
 
-- **[Chapter 4: The Self-Enrichment Functor](/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-04-the-self-enrichment-functor/)**
-- **[Chapter 5: The Layer Template](/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-05-the-layer-template/)**
-- **[Chapter 6: Non-Emptiness and Strictness](/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-06-non-emptiness-and-strictness/)**
-- **[Chapter 7: Saturation at E₃](/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-07-saturation-at-e/)**
-- **[Chapter 8: The Canonical Ladder Theorem](/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-08-the-canonical-ladder-theorem/)**
+- **[Chapter 4: The Self-Enrichment Functor]({{ '/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-04-the-self-enrichment-functor/' | relative_url }})**
+- **[Chapter 5: The Layer Template]({{ '/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-05-the-layer-template/' | relative_url }})**
+- **[Chapter 6: Non-Emptiness and Strictness]({{ '/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-06-non-emptiness-and-strictness/' | relative_url }})**
+- **[Chapter 7: Saturation at E₃]({{ '/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-07-saturation-at-e/' | relative_url }})**
+- **[Chapter 8: The Canonical Ladder Theorem]({{ '/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-08-the-canonical-ladder-theorem/' | relative_url }})**

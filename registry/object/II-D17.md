@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D17 — Angular Sectors
 permalink: /registry/object/II.D17/
 registry_id: II.D17

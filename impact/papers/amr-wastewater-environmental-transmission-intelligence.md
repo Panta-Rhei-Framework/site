@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for AMR, Wastewater/Environmental Surveillance, and Environmental Transmission
   Intelligence
 permalink: /impact/papers/amr-wastewater-environmental-transmission-intelligence/

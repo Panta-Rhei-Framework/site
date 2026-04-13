@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T04 — Layer Separation Lemma
 permalink: /registry/object/VI.T04/
 registry_id: VI.T04

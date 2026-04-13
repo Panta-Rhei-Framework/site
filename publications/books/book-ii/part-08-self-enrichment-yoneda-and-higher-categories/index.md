@@ -71,8 +71,8 @@ $τ$ is capable of self-reference and categorical abstraction.
 
 ## Chapters
 
-- **[Chapter 43: τ Enriches Over Itself](/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-43-tau-enriches-over-itself/)**
-- **[Chapter 44: Yoneda Embedding as Theorem](/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-44-yoneda-embedding-as-theorem/)**
-- **[Chapter 45: 2-Categories from Iterated Enrichment](/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-45-2-categories-from-iterated-enrichment/)**
-- **[Chapter 46: 's Self-Describing Structure](/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-46-s-self-describing-structure/)**
-- **[Chapter 47: Foundation for Book~III's Self-Enrichment Ladder](/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-47-foundation-for-book-iii-s-self-enrichment-ladder/)**
+- **[Chapter 43: τ Enriches Over Itself]({{ '/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-43-tau-enriches-over-itself/' | relative_url }})**
+- **[Chapter 44: Yoneda Embedding as Theorem]({{ '/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-44-yoneda-embedding-as-theorem/' | relative_url }})**
+- **[Chapter 45: 2-Categories from Iterated Enrichment]({{ '/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-45-2-categories-from-iterated-enrichment/' | relative_url }})**
+- **[Chapter 46: 's Self-Describing Structure]({{ '/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-46-s-self-describing-structure/' | relative_url }})**
+- **[Chapter 47: Foundation for Book~III's Self-Enrichment Ladder]({{ '/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-47-foundation-for-book-iii-s-self-enrichment-ladder/' | relative_url }})**

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D85 — EM Principal Bundle
 permalink: /registry/object/IV.D85/
 registry_id: IV.D85

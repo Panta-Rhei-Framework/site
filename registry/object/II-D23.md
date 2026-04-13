@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D23 — Approximation Sequence
 permalink: /registry/object/II.D23/
 registry_id: II.D23

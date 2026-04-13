@@ -87,7 +87,7 @@ no dark energy field
 (Corollary [cor:ch44-no-dark-energy]),
 and no fifth force
 (Corollary [cor:ch44-no-fifth-force]).
-The 68% ``dark energy'' and 27% ``dark matter''
+The 68% “dark energy” and 27% “dark matter”
 of the $Λ$CDM budget
 are not substance but readout artifacts—projections
 of the $τ$-structure

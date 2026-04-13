@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P18 — Fairness from CI
 permalink: /registry/object/VII.P18/
 registry_id: VII.P18

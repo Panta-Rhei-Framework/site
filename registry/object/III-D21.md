@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D21 — τ-Native Local Field
 permalink: /registry/object/III.D21/
 registry_id: III.D21

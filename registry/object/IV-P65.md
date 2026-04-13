@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P65 — Electroweak Coupling Summary
 permalink: /registry/object/IV.P65/
 registry_id: IV.P65

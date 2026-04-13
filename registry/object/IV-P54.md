@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P54 — Parity in Non-Weak Sectors
 permalink: /registry/object/IV.P54/
 registry_id: IV.P54

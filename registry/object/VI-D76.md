@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D76 — Distinction Threshold
 permalink: /registry/object/VI.D76/
 registry_id: VI.D76

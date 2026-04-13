@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T78 — Radical Primorial 5
 permalink: /registry/object/III.T78/
 registry_id: III.T78

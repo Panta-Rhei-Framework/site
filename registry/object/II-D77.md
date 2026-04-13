@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D77 — Geometric Bi-Square
 permalink: /registry/object/II.D77/
 registry_id: II.D77

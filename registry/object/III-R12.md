@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R12 — Enrichment Placement Table
 permalink: /registry/object/III.R12/
 registry_id: III.R12

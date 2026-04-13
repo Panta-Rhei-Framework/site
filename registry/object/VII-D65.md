@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D65 — Dignity as Label-Independence
 permalink: /registry/object/VII.D65/
 registry_id: VII.D65

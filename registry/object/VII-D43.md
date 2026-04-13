@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D43 — Justification as Gluing
 permalink: /registry/object/VII.D43/
 registry_id: VII.D43

@@ -57,8 +57,8 @@ and the object closure axiom prevents a fourth.
 
 ## Chapters
 
-- **[Chapter 2: The Five Generators](/publications/books/book-i/part-01-the-coherence-kernel/chapter-02-the-five-generators/)**
-- **[Chapter 3: The Iterator ρ and the Omega Beacon](/publications/books/book-i/part-01-the-coherence-kernel/chapter-03-the-iterator-rho-and-the-omega-beacon/)**
-- **[Chapter 4: Orbit-Seeded Generation and the No-Jump Principle](/publications/books/book-i/part-01-the-coherence-kernel/chapter-04-orbit-seeded-generation-and-the-no-jump-principle/)**
-- **[Chapter 5: The Object Closure Axiom and the Static Kernel τ₀](/publications/books/book-i/part-01-the-coherence-kernel/chapter-05-the-object-closure-axiom-and-the-static-kernel-tau/)**
-- **[Chapter 6: Diagonal Discipline — Why Exactly Four Channels](/publications/books/book-i/part-01-the-coherence-kernel/chapter-06-diagonal-discipline-why-exactly-four-channels/)**
+- **[Chapter 2: The Five Generators]({{ '/publications/books/book-i/part-01-the-coherence-kernel/chapter-02-the-five-generators/' | relative_url }})**
+- **[Chapter 3: The Iterator ρ and the Omega Beacon]({{ '/publications/books/book-i/part-01-the-coherence-kernel/chapter-03-the-iterator-rho-and-the-omega-beacon/' | relative_url }})**
+- **[Chapter 4: Orbit-Seeded Generation and the No-Jump Principle]({{ '/publications/books/book-i/part-01-the-coherence-kernel/chapter-04-orbit-seeded-generation-and-the-no-jump-principle/' | relative_url }})**
+- **[Chapter 5: The Object Closure Axiom and the Static Kernel τ₀]({{ '/publications/books/book-i/part-01-the-coherence-kernel/chapter-05-the-object-closure-axiom-and-the-static-kernel-tau/' | relative_url }})**
+- **[Chapter 6: Diagonal Discipline — Why Exactly Four Channels]({{ '/publications/books/book-i/part-01-the-coherence-kernel/chapter-06-diagonal-discipline-why-exactly-four-channels/' | relative_url }})**

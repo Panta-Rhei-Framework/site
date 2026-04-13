@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-We define the initial data and spatial domains for the $τ$-internal approach to Navier–Stokes regularity. The classical problem asks whether smooth initial data produce smooth solutions for all time; the $τ$-internal reformulation replaces ``smooth'' with ``stabilised $ω$-germ'' and replaces $ℝ^3$ with clopen cylinders in $τ^3$. This chapter introduces $τ$-admissible fluid data (Definition III.D36) and clopen cylinder domains (Definition III.D37), and states the scope boundary (Remark III.R17) that governs all of Part V.
+We define the initial data and spatial domains for the $τ$-internal approach to Navier–Stokes regularity. The classical problem asks whether smooth initial data produce smooth solutions for all time; the $τ$-internal reformulation replaces “smooth” with “stabilised $ω$-germ” and replaces $ℝ^3$ with clopen cylinders in $τ^3$. This chapter introduces $τ$-admissible fluid data (Definition III.D36) and clopen cylinder domains (Definition III.D37), and states the scope boundary (Remark III.R17) that governs all of Part V.

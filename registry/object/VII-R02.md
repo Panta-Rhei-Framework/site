@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R02 — E₃ Import Contract
 permalink: /registry/object/VII.R02/
 registry_id: VII.R02

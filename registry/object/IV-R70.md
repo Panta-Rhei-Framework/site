@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R70 — Verification status
 permalink: /registry/object/IV.R70/
 registry_id: IV.R70

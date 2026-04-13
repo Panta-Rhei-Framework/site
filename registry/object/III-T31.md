@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T31 — Interface Width Principle
 permalink: /registry/object/III.T31/
 registry_id: III.T31

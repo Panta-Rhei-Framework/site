@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R07 — Geometry as Consequence
 permalink: /registry/object/VII.R07/
 registry_id: VII.R07

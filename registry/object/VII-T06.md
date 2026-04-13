@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T06 — Saturation Theorem
 permalink: /registry/object/VII.T06/
 registry_id: VII.T06

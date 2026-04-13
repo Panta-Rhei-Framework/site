@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P13 — Character Decomposition
 permalink: /registry/object/II.P13/
 registry_id: II.P13

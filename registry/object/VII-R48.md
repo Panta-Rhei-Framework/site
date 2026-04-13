@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R48 — Archetypal Genesis Reading
 permalink: /registry/object/VII.R48/
 registry_id: VII.R48

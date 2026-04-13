@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D13 — Source Sub-Class (Loop_src)
 permalink: /registry/object/VI.D13/
 registry_id: VI.D13

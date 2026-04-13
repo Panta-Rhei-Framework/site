@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D71 — CI Operator Graph
 permalink: /registry/object/VII.D71/
 registry_id: VII.D71

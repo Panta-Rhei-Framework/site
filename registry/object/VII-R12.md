@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R12 — Discovery-Invention Dissolution
 permalink: /registry/object/VII.R12/
 registry_id: VII.R12

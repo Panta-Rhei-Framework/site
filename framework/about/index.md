@@ -47,38 +47,38 @@ Third, it explains the **stakes** of the framework: why the program treats it no
 
 The pages that follow form a 17-step conceptual staircase. They should be read in sequence at least once.
 
-1. [What the Tau Framework Is](/framework/about/what-the-tau-framework-is/)
-2. [Why It Begins So Low](/framework/about/why-the-framework-begins-so-low/)
-3. [From Symbols to Mathematics](/framework/about/from-symbolic-discipline-to-mathematical-structure/)
-4. [From Mathematics to Category](/framework/about/from-mathematical-structure-to-category-and-logic/)
-5. [Boundary, Interior, and Readout](/framework/about/boundary-interior-and-readout/)
-6. [Self-Enrichment and the Four Layers](/framework/about/self-enrichment-and-the-four-layers/)
-7. [Self-Hosting and Closure](/framework/about/self-hosting-and-internal-semantic-closure/)
-8. [Ontic Seriousness](/framework/about/ontic-seriousness-and-the-question-of-existence/)
-9. [Self-Enrichment → Physics](/framework/about/from-self-enrichment-to-physical-legibility/)
-10. [Structural Isomorphism](/framework/about/structural-isomorphism-and-calibrated-readout/)
-11. [Physics → Life (E₂)](/framework/about/from-physics-to-life-structural-classes-at-e2/)
-12. [Life → Metaphysics (E₃)](/framework/about/from-life-to-metaphysics-reflective-structure-at-e3/)
-13. [Four Layers Compared](/framework/about/how-the-four-layers-determine-reality-differently/)
-14. [What It Does Not Assume](/framework/about/what-the-framework-does-not-assume/)
-15. [What It Makes Possible](/framework/about/what-the-framework-makes-possible/)
-16. [How to Inspect the Framework](/framework/about/how-to-inspect-the-framework/)
+1. [What the Tau Framework Is]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }})
+2. [Why It Begins So Low]({{ '/framework/about/why-the-framework-begins-so-low/' | relative_url }})
+3. [From Symbols to Mathematics]({{ '/framework/about/from-symbolic-discipline-to-mathematical-structure/' | relative_url }})
+4. [From Mathematics to Category]({{ '/framework/about/from-mathematical-structure-to-category-and-logic/' | relative_url }})
+5. [Boundary, Interior, and Readout]({{ '/framework/about/boundary-interior-and-readout/' | relative_url }})
+6. [Self-Enrichment and the Four Layers]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }})
+7. [Self-Hosting and Closure]({{ '/framework/about/self-hosting-and-internal-semantic-closure/' | relative_url }})
+8. [Ontic Seriousness]({{ '/framework/about/ontic-seriousness-and-the-question-of-existence/' | relative_url }})
+9. [Self-Enrichment → Physics]({{ '/framework/about/from-self-enrichment-to-physical-legibility/' | relative_url }})
+10. [Structural Isomorphism]({{ '/framework/about/structural-isomorphism-and-calibrated-readout/' | relative_url }})
+11. [Physics → Life (E₂)]({{ '/framework/about/from-physics-to-life-structural-classes-at-e2/' | relative_url }})
+12. [Life → Metaphysics (E₃)]({{ '/framework/about/from-life-to-metaphysics-reflective-structure-at-e3/' | relative_url }})
+13. [Four Layers Compared]({{ '/framework/about/how-the-four-layers-determine-reality-differently/' | relative_url }})
+14. [What It Does Not Assume]({{ '/framework/about/what-the-framework-does-not-assume/' | relative_url }})
+15. [What It Makes Possible]({{ '/framework/about/what-the-framework-makes-possible/' | relative_url }})
+16. [How to Inspect the Framework]({{ '/framework/about/how-to-inspect-the-framework/' | relative_url }})
 
 ## The Four Layers
 
-### [E₀ Mathematics](/framework/mathematics/) — 23 modules
+### [E₀ Mathematics]({{ '/framework/mathematics/' | relative_url }}) — 23 modules
 
 The coherence kernel: five generators, seven axioms, one operator. From this, the framework earns arithmetic, coordinates, boundary structure, holomorphy, topos theory, the Central Theorem, and the enrichment ladder itself. Books I–III.
 
-### [E₁ Physics](/framework/physics/) — 18 modules
+### [E₁ Physics]({{ '/framework/physics/' | relative_url }}) — 18 modules
 
 The self-describing universe: quantum mechanics, the particle spectrum, four forces, gravity, cosmology, and black holes — all from one constant ι_τ = 2/(π + e) with zero free parameters. Books IV–V.
 
-### [E₂ Life](/framework/life/) — 8 modules
+### [E₂ Life]({{ '/framework/life/' | relative_url }}) — 8 modules
 
 Life as self-decoding distinctions: Distinction + SelfDesc defines life; seven classical hallmarks follow as theorems. The 4+1 life sectors, genetic code, neural architecture, and the Crossing-Limit Theorem. Book VI.
 
-### [E₃ Metaphysics](/framework/metaphysics/) — 11 modules
+### [E₃ Metaphysics]({{ '/framework/metaphysics/' | relative_url }}) — 11 modules
 
 The final self-enrichment: four registers (Empirical, Practical, Diagrammatic, Commitment), ethics as fixed point, consciousness as global section, the Logos sector, and the boundary where proof ends and commitment begins. Book VII.
 
@@ -88,8 +88,8 @@ The final self-enrichment: four registers (Empirical, Practical, Diagrammatic, C
 
 The framework is decomposed into **60 atomic pedagogical modules** organized by understanding-order. Each module is a self-contained unit that traces to specific chapters, registry objects, and results.
 
-{% for m in site.data.framework_modules %}{% if m.id == "E0-001" or m.id == "E1-001" or m.id == "E2-001" or m.id == "E3-001" %}
-- **{{ m.id }}**: [{{ m.title }}](/framework/{{ m.layer | downcase | replace: "e0", "mathematics" | replace: "e1", "physics" | replace: "e2", "life" | replace: "e3", "metaphysics" }}-{{ m.slug }}/) — {{ m.summary_short }}
+{% for m in site.data.framework_modules %}{% if m.id == "E0-001" or m.id == "E1-001" or m.id == "E2-001" or m.id == "E3-001" %}{% assign layer_name = m.layer | downcase | replace: "e0", "mathematics" | replace: "e1", "physics" | replace: "e2", "life" | replace: "e3", "metaphysics" %}{% assign mod_url = '/framework/' | append: layer_name | append: '-' | append: m.slug | append: '/' %}
+- **{{ m.id }}**: [{{ m.title }}]({{ mod_url | relative_url }}) — {{ m.summary_short }}
 {% endif %}{% endfor %}
 
 *First earn the language, then earn the question, then earn the answer.*

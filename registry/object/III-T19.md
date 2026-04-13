@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T19 — Critical Line Theorem
 permalink: /registry/object/III.T19/
 registry_id: III.T19

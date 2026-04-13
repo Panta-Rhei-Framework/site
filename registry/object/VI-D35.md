@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D35 — Three-Domain Sector Taxonomy
 permalink: /registry/object/VI.D35/
 registry_id: VI.D35

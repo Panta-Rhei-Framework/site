@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T54 — Neurodegeneration = Hayflick Crossing
 permalink: /registry/object/VI.T54/
 registry_id: VI.T54

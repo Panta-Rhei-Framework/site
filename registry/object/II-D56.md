@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D56 — 2-Morphism
 permalink: /registry/object/II.D56/
 registry_id: II.D56

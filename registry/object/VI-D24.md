@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D24 — Persistence Sector
 permalink: /registry/object/VI.D24/
 registry_id: VI.D24

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D66 — Quantum Operator
 permalink: /registry/object/IV.D66/
 registry_id: IV.D66

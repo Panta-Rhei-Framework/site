@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R24 — Computation Theme Across the Book
 permalink: /registry/object/VI.R24/
 registry_id: VI.R24

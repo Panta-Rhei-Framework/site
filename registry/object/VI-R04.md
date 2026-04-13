@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R04 — Calibration Constants
 permalink: /registry/object/VI.R04/
 registry_id: VI.R04

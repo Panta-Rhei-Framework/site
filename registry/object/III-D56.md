@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D56 — Computational Bi-Square
 permalink: /registry/object/III.D56/
 registry_id: III.D56

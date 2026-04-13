@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D80 — τ-Curvature
 permalink: /registry/object/II.D80/
 registry_id: II.D80

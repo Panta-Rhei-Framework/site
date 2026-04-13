@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D40 — Epstein Zeta Structure
 permalink: /registry/object/IV.D40/
 registry_id: IV.D40

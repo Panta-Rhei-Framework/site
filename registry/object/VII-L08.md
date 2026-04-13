@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L08 — j-Closure Minimality
 permalink: /registry/object/VII.L08/
 registry_id: VII.L08

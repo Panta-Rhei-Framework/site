@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P28 — Duality as Mutual Determination on ℤ²
 permalink: /registry/object/III.P28/
 registry_id: III.P28

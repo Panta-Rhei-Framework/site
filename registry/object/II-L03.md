@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L03 — Spectral-Germ Equivalence
 permalink: /registry/object/II.L03/
 registry_id: II.L03

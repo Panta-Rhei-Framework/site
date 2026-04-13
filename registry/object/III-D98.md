@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D98 — ABC Quality
 permalink: /registry/object/III.D98/
 registry_id: III.D98

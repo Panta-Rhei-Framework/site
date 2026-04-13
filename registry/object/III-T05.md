@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T05 — Sector Preservation Theorem
 permalink: /registry/object/III.T05/
 registry_id: III.T05

@@ -34,13 +34,13 @@ The Registry is the canonical machine-readable substrate of the Panta Rhei resea
 
 ## Browse by Book
 
-- **Book I**: [Categorical Foundations](/registry/books/book-i/) — 254 objects · [Dashboard](/registry/dashboards/book-i/)
-- **Book II**: [Categorical Holomorphy](/registry/books/book-ii/) — 230 objects · [Dashboard](/registry/dashboards/book-ii/)
-- **Book III**: [Categorical Spectrum](/registry/books/book-iii/) — 289 objects · [Dashboard](/registry/dashboards/book-iii/)
-- **Book IV**: [Categorical Microcosm](/registry/books/book-iv/) — 1864 objects · [Dashboard](/registry/dashboards/book-iv/)
-- **Book V**: [Categorical Macrocosm](/registry/books/book-v/) — 1419 objects · [Dashboard](/registry/dashboards/book-v/)
-- **Book VI**: [Categorical Life](/registry/books/book-vi/) — 217 objects · [Dashboard](/registry/dashboards/book-vi/)
-- **Book VII**: [Categorical Metaphysics](/registry/books/book-vii/) — 274 objects · [Dashboard](/registry/dashboards/book-vii/)
+- **Book I**: [Categorical Foundations]({{ '/registry/books/book-i/' | relative_url }}) — 254 objects · [Dashboard]({{ '/registry/dashboards/book-i/' | relative_url }})
+- **Book II**: [Categorical Holomorphy]({{ '/registry/books/book-ii/' | relative_url }}) — 230 objects · [Dashboard]({{ '/registry/dashboards/book-ii/' | relative_url }})
+- **Book III**: [Categorical Spectrum]({{ '/registry/books/book-iii/' | relative_url }}) — 289 objects · [Dashboard]({{ '/registry/dashboards/book-iii/' | relative_url }})
+- **Book IV**: [Categorical Microcosm]({{ '/registry/books/book-iv/' | relative_url }}) — 1864 objects · [Dashboard]({{ '/registry/dashboards/book-iv/' | relative_url }})
+- **Book V**: [Categorical Macrocosm]({{ '/registry/books/book-v/' | relative_url }}) — 1419 objects · [Dashboard]({{ '/registry/dashboards/book-v/' | relative_url }})
+- **Book VI**: [Categorical Life]({{ '/registry/books/book-vi/' | relative_url }}) — 217 objects · [Dashboard]({{ '/registry/dashboards/book-vi/' | relative_url }})
+- **Book VII**: [Categorical Metaphysics]({{ '/registry/books/book-vii/' | relative_url }}) — 274 objects · [Dashboard]({{ '/registry/dashboards/book-vii/' | relative_url }})
 
 
 ## What each object page shows

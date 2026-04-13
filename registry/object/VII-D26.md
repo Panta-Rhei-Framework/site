@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D26 — Ontic/Virtual Distinction
 permalink: /registry/object/VII.D26/
 registry_id: VII.D26

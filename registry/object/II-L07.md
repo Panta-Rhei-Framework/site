@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L07 — Idempotent Decomposition Lemma
 permalink: /registry/object/II.L07/
 registry_id: II.L07

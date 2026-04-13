@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L13 — Stagewise Naturality
 permalink: /registry/object/II.L13/
 registry_id: II.L13

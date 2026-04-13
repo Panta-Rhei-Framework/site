@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D50 — Pre-Yoneda Embedding
 permalink: /registry/object/II.D50/
 registry_id: II.D50

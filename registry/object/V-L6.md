@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: V.L6 — k* Selection Rule
 permalink: /registry/object/V.L6/
 registry_id: V.L6

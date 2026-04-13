@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D90 — Covariant Derivative
 permalink: /registry/object/IV.D90/
 registry_id: IV.D90

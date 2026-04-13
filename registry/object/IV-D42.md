@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D42 — Lemniscate Three-Fold
 permalink: /registry/object/IV.D42/
 registry_id: IV.D42

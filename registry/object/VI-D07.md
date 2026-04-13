@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D07 — Galactic Carrier
 permalink: /registry/object/VI.D07/
 registry_id: VI.D07

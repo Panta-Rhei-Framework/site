@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L05 — Sigma_A-Admissibility Selects Chirality
 permalink: /registry/object/IV.L05/
 registry_id: IV.L05

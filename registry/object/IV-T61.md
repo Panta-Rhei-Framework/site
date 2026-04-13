@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T61 — Weinberg Angle Prediction
 permalink: /registry/object/IV.T61/
 registry_id: IV.T61

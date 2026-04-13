@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Wastewater, Stormwater, Sanitation, and Circular Water Reuse
 permalink: /impact/papers/wastewater-stormwater-sanitation-circular-reuse/
 paper_id: companion-water-wash-paper-3

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R38 — Cultural Lineage as Code Stream
 permalink: /registry/object/VII.R38/
 registry_id: VII.R38

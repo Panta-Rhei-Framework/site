@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R43 — Donut Persistence
 permalink: /registry/object/IV.R43/
 registry_id: IV.R43

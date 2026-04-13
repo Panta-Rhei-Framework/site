@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: V.L8 — Idempotence of Norm_omega
 permalink: /registry/object/V.L8/
 registry_id: V.L8

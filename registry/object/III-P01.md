@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P01 — E₁ Strictness Witness
 permalink: /registry/object/III.P01/
 registry_id: III.P01

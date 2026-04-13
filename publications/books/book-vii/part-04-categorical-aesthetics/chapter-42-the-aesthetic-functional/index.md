@@ -49,7 +49,7 @@ The central result is the Beauty-as-Invariance Theorem: a motif is
 beautiful if and only if $A(m) = 0$, i.e., if and only if it
 is invariant under all admissible transformations. The theorem does not
 legislate taste; it identifies the structural content of the word
-``beautiful'' within the categorical framework. The subjective-versus-objective
+“beautiful” within the categorical framework. The subjective-versus-objective
 debate in aesthetics is thereby dissolved: subjective responses track
 the functional, so both aspects—felt resonance and structural
 invariance—are real.

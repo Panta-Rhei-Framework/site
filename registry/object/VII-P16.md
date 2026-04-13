@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P16 — Alethic Pluralism
 permalink: /registry/object/VII.P16/
 registry_id: VII.P16

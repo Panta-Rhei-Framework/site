@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D96 — Twin Prime Distribution
 permalink: /registry/object/III.D96/
 registry_id: III.D96

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P22 — Superposition from Linearity
 permalink: /registry/object/IV.P22/
 registry_id: IV.P22

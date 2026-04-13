@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D31 — Growth Base
 permalink: /registry/object/II.D31/
 registry_id: II.D31

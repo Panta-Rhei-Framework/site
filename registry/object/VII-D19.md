@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D19 — Mitigation Archetype
 permalink: /registry/object/VII.D19/
 registry_id: VII.D19

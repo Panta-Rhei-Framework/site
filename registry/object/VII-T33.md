@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T33 — Monodromy as Source of Tragedy
 permalink: /registry/object/VII.T33/
 registry_id: VII.T33

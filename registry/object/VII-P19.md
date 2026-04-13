@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P19 — Ethical Defect Minimization
 permalink: /registry/object/VII.P19/
 registry_id: VII.P19

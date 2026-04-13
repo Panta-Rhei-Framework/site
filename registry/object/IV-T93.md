@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T93 — τ-NS Regularity on T² Fiber (C3 Defect Contractivity)
 permalink: /registry/object/IV.T93/
 registry_id: IV.T93

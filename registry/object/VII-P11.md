@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P11 — Fractal Beauty as Scale Invariance
 permalink: /registry/object/VII.P11/
 registry_id: VII.P11

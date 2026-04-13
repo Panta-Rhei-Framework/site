@@ -43,7 +43,7 @@ coupling at the $Z$ boson mass. In Category $τ$, it is a boundary
 fixed-point invariant: the structural self-coupling
 $κ(C;3) = ι_τ^3/(1 - ι_τ) ≈ 0.0604$, with
 $2κ(C) ≈ 0.1208$ matching the measured $α_s(M_Z) = 0.1180$
-to 2.4%. What orthodox physics calls ``running'' is readout drift.
+to 2.4%. What orthodox physics calls “running” is readout drift.
 Quarks are not fundamental particles but **confined character modes**
 on $T^2$—sub-nucleon vibrational patterns with fractional charges
 arising from the three-fold address structure. Gluons mediate colour

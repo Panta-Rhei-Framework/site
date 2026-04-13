@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D64 — Basin Predicate
 permalink: /registry/object/VI.D64/
 registry_id: VI.D64

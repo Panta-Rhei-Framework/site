@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.C6 — Spacetime Symmetries
 permalink: /registry/object/IV.C6/
 registry_id: IV.C6

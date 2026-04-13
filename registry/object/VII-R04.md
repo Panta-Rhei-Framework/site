@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R04 — Axiom-Philosophy Correspondence
 permalink: /registry/object/VII.R04/
 registry_id: VII.R04

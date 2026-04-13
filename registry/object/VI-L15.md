@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L15 — Complexity Monotone
 permalink: /registry/object/VI.L15/
 registry_id: VI.L15

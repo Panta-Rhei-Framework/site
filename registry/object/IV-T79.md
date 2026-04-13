@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T79 — Tail stabilization of vacuum energy
 permalink: /registry/object/IV.T79/
 registry_id: IV.T79

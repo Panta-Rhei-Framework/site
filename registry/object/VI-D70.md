@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D70 — Extended Lemniscate
 permalink: /registry/object/VI.D70/
 registry_id: VI.D70

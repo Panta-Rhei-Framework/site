@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D60 — Space of CR-Functions
 permalink: /registry/object/IV.D60/
 registry_id: IV.D60

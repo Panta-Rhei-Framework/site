@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L15 — Affect as Subsymbolic Pressure
 permalink: /registry/object/VII.L15/
 registry_id: VII.L15

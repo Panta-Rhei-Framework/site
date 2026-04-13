@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L09 — Prime-Split Support
 permalink: /registry/object/II.L09/
 registry_id: II.L09

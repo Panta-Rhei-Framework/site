@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R23 — τ as Third Option
 permalink: /registry/object/VI.R23/
 registry_id: VI.R23

@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for River-Basin, Groundwater, Drought-Flood Allocation, and Water Productivity
 permalink: /impact/papers/river-basin-groundwater-drought-flood-allocation-water-productivity/
 paper_id: companion-water-wash-paper-4

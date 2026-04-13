@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T32 — BH Seven Hallmarks Verified
 permalink: /registry/object/VI.T32/
 registry_id: VI.T32

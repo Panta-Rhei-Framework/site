@@ -56,13 +56,13 @@ Physical time is bounded: the base circle is compact.
 identifies three epochs—pre-temporal, temporal,
 post-temporal—and defines the ignition condition
 at which proper-time readout becomes well-defined.
-The ``now'' hypersurface $Σ_{now}$
+The “now” hypersurface $Σ_{now}$
 is structural, not conventional.
 
 **Chapter 6** (*High Energy at the Beginning*)
 derives the initial conditions of the temporal epoch:
 all modes active, all sectors maximally coupled.
-The ``hot Big Bang'' is the opening regime
+The “hot Big Bang” is the opening regime
 of the $τ$-Einstein equation,
 and inflation is a refinement-progression phenomenon.
 
@@ -87,10 +87,10 @@ fluids, astrophysics, and cosmology.
 
 ## Chapters
 
-- **[Chapter 2: Proto-Chronos: From α-Ticks to Proper Time](/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-02-proto-chronos-from-alpha-ticks-to-proper-time/)**
-- **[Chapter 3: The Temporal Ignition: Why a ``Time Epoch'' Starts](/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/)**
-- **[Chapter 4: High Energy and High Entropy at the Beginning](/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-04-high-energy-and-high-entropy-at-the-beginning/)**
-- **[Chapter 5: The Macro Readout: Operational Distance and Photon Ontology](/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-05-the-macro-readout-operational-distance-and-photon-ontology/)**
-- **[Chapter 6: The Distance Ladder Re-Read](/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-06-the-distance-ladder-re-read/)**
-- **[Chapter 7: Boundary Data: CMB and Cν](/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-07-boundary-data-cmb-and-cnu/)**
-- **[Chapter 8: Contract with Parts~II–VIII: The Cosmic Stack API](/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-08-contract-with-parts-ii-viii-the-cosmic-stack-api/)**
+- **[Chapter 2: Proto-Chronos: From α-Ticks to Proper Time]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-02-proto-chronos-from-alpha-ticks-to-proper-time/' | relative_url }})**
+- **[Chapter 3: The Temporal Ignition: Why a “Time Epoch” Starts]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/' | relative_url }})**
+- **[Chapter 4: High Energy and High Entropy at the Beginning]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-04-high-energy-and-high-entropy-at-the-beginning/' | relative_url }})**
+- **[Chapter 5: The Macro Readout: Operational Distance and Photon Ontology]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-05-the-macro-readout-operational-distance-and-photon-ontology/' | relative_url }})**
+- **[Chapter 6: The Distance Ladder Re-Read]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-06-the-distance-ladder-re-read/' | relative_url }})**
+- **[Chapter 7: Boundary Data: CMB and Cν]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-07-boundary-data-cmb-and-cnu/' | relative_url }})**
+- **[Chapter 8: Contract with Parts~II–VIII: The Cosmic Stack API]({{ '/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-08-contract-with-parts-ii-viii-the-cosmic-stack-api/' | relative_url }})**

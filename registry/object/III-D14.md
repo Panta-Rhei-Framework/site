@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D14 — ω-Coupling Sector
 permalink: /registry/object/III.D14/
 registry_id: III.D14

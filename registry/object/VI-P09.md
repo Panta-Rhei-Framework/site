@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.P09 — 24-Hour Cycle as τ¹ Rotation
 permalink: /registry/object/VI.P09/
 registry_id: VI.P09

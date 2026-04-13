@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R44 — The Gödel Analogy
 permalink: /registry/object/III.R44/
 registry_id: III.R44

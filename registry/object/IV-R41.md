@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R41 — Ontological Inventory
 permalink: /registry/object/IV.R41/
 registry_id: IV.R41

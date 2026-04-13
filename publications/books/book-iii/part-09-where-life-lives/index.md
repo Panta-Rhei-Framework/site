@@ -34,7 +34,7 @@ The world exists ($E_1$). Can it be *modelled*?
 
 P versus NP has been conspicuously absent from the preceding Parts.
 The reason is not strategic but *ontological*: P vs NP is
-**native to $E_2$**. The question ``Can search be efficient?''
+**native to $E_2$**. The question “Can search be efficient?”
 presupposes a self-referential agent performing the search —
 an object that does not exist at $E_0$ (pure structure, no processes)
 or $E_1$ (physics, dynamics but no codes).
@@ -59,12 +59,12 @@ physically instantiated.
 
 ## Chapters
 
-- **[Chapter 57: The Computation Layer](/publications/books/book-iii/part-09-where-life-lives/chapter-57-the-computation-layer/)**
-- **[Chapter 58: The τ](/publications/books/book-iii/part-09-where-life-lives/chapter-58-the-tau/)**
-- **[Chapter 59: Interface Width and τ](/publications/books/book-iii/part-09-where-life-lives/chapter-59-interface-width-and-tau/)**
-- **[Chapter 60: Witness Search as Address Resolution](/publications/books/book-iii/part-09-where-life-lives/chapter-60-witness-search-as-address-resolution/)**
-- **[Chapter 61: The Computational Bi-Square](/publications/books/book-iii/part-09-where-life-lives/chapter-61-the-computational-bi-square/)**
-- **[Chapter 62: Why There Is No Barrier](/publications/books/book-iii/part-09-where-life-lives/chapter-62-why-there-is-no-barrier/)**
-- **[Chapter 63: Physical Turing Machines as τ](/publications/books/book-iii/part-09-where-life-lives/chapter-63-physical-turing-machines-as-tau/)**
-- **[Chapter 64: Abstract Computation in the τ](/publications/books/book-iii/part-09-where-life-lives/chapter-64-abstract-computation-in-the-tau/)**
-- **[Chapter 65: The ZFC Provability Horizon](/publications/books/book-iii/part-09-where-life-lives/chapter-65-the-zfc-provability-horizon/)**
+- **[Chapter 57: The Computation Layer]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-57-the-computation-layer/' | relative_url }})**
+- **[Chapter 58: The τ]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-58-the-tau/' | relative_url }})**
+- **[Chapter 59: Interface Width and τ]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-59-interface-width-and-tau/' | relative_url }})**
+- **[Chapter 60: Witness Search as Address Resolution]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-60-witness-search-as-address-resolution/' | relative_url }})**
+- **[Chapter 61: The Computational Bi-Square]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-61-the-computational-bi-square/' | relative_url }})**
+- **[Chapter 62: Why There Is No Barrier]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-62-why-there-is-no-barrier/' | relative_url }})**
+- **[Chapter 63: Physical Turing Machines as τ]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-63-physical-turing-machines-as-tau/' | relative_url }})**
+- **[Chapter 64: Abstract Computation in the τ]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-64-abstract-computation-in-the-tau/' | relative_url }})**
+- **[Chapter 65: The ZFC Provability Horizon]({{ '/publications/books/book-iii/part-09-where-life-lives/chapter-65-the-zfc-provability-horizon/' | relative_url }})**

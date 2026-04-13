@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ and the Ocean Logistics Opportunity
 permalink: /impact/papers/ocean-logistics-maritime-routing-port-flow-green-corridors/
 paper_id: companion-ocean-paper-1

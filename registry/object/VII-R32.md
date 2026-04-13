@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R32 — Applied Ethics Domains
 permalink: /registry/object/VII.R32/
 registry_id: VII.R32

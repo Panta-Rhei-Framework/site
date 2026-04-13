@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R37 — Explicit Overlap Integrals
 permalink: /registry/object/IV.R37/
 registry_id: IV.R37

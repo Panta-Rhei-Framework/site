@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R34 — Scaling Chain Forward
 permalink: /registry/object/II.R34/
 registry_id: II.R34

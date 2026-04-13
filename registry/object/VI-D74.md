@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D74 — Far-From-Equilibrium Regime
 permalink: /registry/object/VI.D74/
 registry_id: VI.D74

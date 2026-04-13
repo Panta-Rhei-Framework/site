@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.P06 — Refinement Resolution Bound
 permalink: /registry/object/II.P06/
 registry_id: II.P06

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D54 — Macro-Torus Carrier T(H_BH)
 permalink: /registry/object/VI.D54/
 registry_id: VI.D54

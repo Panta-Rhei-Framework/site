@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-What distinguishes living from non-living? Aristotle, Schr\"odinger, NASA—every classical answer
+What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer
 captures a necessary condition but none is sufficient: fire metabolizes, mules don't reproduce,
 crystals grow, computers process information. Book VI is the second self-enrichment layer $E_2$:
 where the kernel's physical structure becomes capable of recognizing itself. Two earned predicates
@@ -39,5 +39,5 @@ organizes all of biology by structural role.
 
 ## Chapters
 
-- **[Chapter 1: What Is Life? Why Every Classical Answer Fails](/publications/books/book-vi/part-00-the-question-of-life/chapter-01-what-is-life-why-every-classical-answer-fails/)**
-- **[Chapter 2: The Categorical Resolution: Life as E₂ Enrichment](/publications/books/book-vi/part-00-the-question-of-life/chapter-02-the-categorical-resolution-life-as-e-enrichment/)**
+- **[Chapter 1: What Is Life? Why Every Classical Answer Fails]({{ '/publications/books/book-vi/part-00-the-question-of-life/chapter-01-what-is-life-why-every-classical-answer-fails/' | relative_url }})**
+- **[Chapter 2: The Categorical Resolution: Life as E₂ Enrichment]({{ '/publications/books/book-vi/part-00-the-question-of-life/chapter-02-the-categorical-resolution-life-as-e-enrichment/' | relative_url }})**

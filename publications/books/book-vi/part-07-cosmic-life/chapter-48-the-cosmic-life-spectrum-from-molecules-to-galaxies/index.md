@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The full Life spectrum is placed on the Distinction/SelfDesc matrix, ranging from molecules through cells, organisms, ecosystems, basins, and galaxies to black holes. Stars are rigorously shown *not* to be alive: they possess transient distinction but no SelfDesc. Extraterrestrial life becomes a structural question—not ``if'' but ``where along the spectrum''—and the organism/ecosystem/basin taxonomy provides three canonical scales of Life organization.
+The full Life spectrum is placed on the Distinction/SelfDesc matrix, ranging from molecules through cells, organisms, ecosystems, basins, and galaxies to black holes. Stars are rigorously shown *not* to be alive: they possess transient distinction but no SelfDesc. Extraterrestrial life becomes a structural question—not “if” but “where along the spectrum”—and the organism/ecosystem/basin taxonomy provides three canonical scales of Life organization.

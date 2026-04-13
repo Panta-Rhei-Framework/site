@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R18 — NS Export Contracts
 permalink: /registry/object/III.R18/
 registry_id: III.R18

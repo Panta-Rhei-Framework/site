@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R21 — Differential-Geometric Agenda
 permalink: /registry/object/II.R21/
 registry_id: II.R21

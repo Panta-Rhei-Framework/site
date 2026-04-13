@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D38 — Problem Map Classification Scheme
 permalink: /registry/object/VII.D38/
 registry_id: VII.D38

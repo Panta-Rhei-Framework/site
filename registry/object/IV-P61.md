@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P61 — Measured Rho
 permalink: /registry/object/IV.P61/
 registry_id: IV.P61

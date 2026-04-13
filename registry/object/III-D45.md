@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D45 — Gap Constant Γ*
 permalink: /registry/object/III.D45/
 registry_id: III.D45

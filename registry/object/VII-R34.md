@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R34 — Kant's Heroic Restraint
 permalink: /registry/object/VII.R34/
 registry_id: VII.R34

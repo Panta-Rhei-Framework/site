@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D74 — Earned/Unearned Ethics Framework
 permalink: /registry/object/VII.D74/
 registry_id: VII.D74

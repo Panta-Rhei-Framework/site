@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D50 — Operational Closure
 permalink: /registry/object/III.D50/
 registry_id: III.D50

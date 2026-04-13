@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T33 — Holomorphic iff Idempotent-Supported
 permalink: /registry/object/II.T33/
 registry_id: II.T33

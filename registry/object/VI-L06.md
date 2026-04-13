@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.L06 — NS-NoSelfDesc
 permalink: /registry/object/VI.L06/
 registry_id: VI.L06

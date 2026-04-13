@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D85 — Self-Referential Fixed Point
 permalink: /registry/object/III.D85/
 registry_id: III.D85

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L26 — Dignity Witness
 permalink: /registry/object/VII.L26/
 registry_id: VII.L26

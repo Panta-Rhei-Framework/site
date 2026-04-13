@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L07 — Discrete Hessian Spectrum
 permalink: /registry/object/IV.L07/
 registry_id: IV.L07

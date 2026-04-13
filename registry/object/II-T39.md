@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T39 — Omega-Germs iff Holomorphic Functions
 permalink: /registry/object/II.T39/
 registry_id: II.T39

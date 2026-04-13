@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D86 — Local Trivialization
 permalink: /registry/object/IV.D86/
 registry_id: IV.D86

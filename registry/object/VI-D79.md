@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D79 — Epigenetic State
 permalink: /registry/object/VI.D79/
 registry_id: VI.D79

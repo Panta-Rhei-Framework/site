@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D80 — Gene Expression Profile
 permalink: /registry/object/VI.D80/
 registry_id: VI.D80

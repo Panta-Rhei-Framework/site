@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D05 — Finite-Lineage Carrier
 permalink: /registry/object/VI.D05/
 registry_id: VI.D05

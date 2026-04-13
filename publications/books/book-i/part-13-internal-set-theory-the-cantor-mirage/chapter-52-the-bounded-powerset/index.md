@@ -20,12 +20,12 @@ summary_short: "In ZFC, the power set $P(X)$ of a set $X$ is the collection of a
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
-canonical_part_title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+canonical_part_title: "Part XIII: Internal Set Theory & The Cantor Mirage"
 right_rail:
   related:
   - title: "Book I: Categorical Foundations"
     url: /publications/books/book-i/
-  - title: "Part XIII: Internal Set Theory \& The Cantor Mirage"
+  - title: "Part XIII: Internal Set Theory & The Cantor Mirage"
     url: /publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/
   - title: Registry
     url: /registry/books/book-i/

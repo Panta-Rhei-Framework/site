@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L04 — Mediator Ratio
 permalink: /registry/object/IV.L04/
 registry_id: IV.L04

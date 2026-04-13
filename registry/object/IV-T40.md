@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T40 — AB Phase Quantization
 permalink: /registry/object/IV.T40/
 registry_id: IV.T40

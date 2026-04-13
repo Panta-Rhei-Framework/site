@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T76 — ABC Quality 100
 permalink: /registry/object/III.T76/
 registry_id: III.T76

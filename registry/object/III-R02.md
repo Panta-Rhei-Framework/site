@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.R02 — Master Schema Preview
 permalink: /registry/object/III.R02/
 registry_id: III.R02

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P16 — Algebraic Properties of CR(τ³)
 permalink: /registry/object/IV.P16/
 registry_id: IV.P16

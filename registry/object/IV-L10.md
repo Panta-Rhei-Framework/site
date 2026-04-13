@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.L10 — Positive gap at each stage
 permalink: /registry/object/IV.L10/
 registry_id: IV.L10

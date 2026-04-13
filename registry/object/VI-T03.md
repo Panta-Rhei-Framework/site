@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T03 — SelfDesc Closure Theorem
 permalink: /registry/object/VI.T03/
 registry_id: VI.T03

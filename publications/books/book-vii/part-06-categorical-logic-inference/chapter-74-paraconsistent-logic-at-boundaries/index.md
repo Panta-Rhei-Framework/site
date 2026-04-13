@@ -20,12 +20,12 @@ summary_short: "At the lemniscate boundary $𝕃 = S^1 ∨ S^1$, the two spectra
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
-canonical_part_title: "Part VI: Categorical Logic \& Inference"
+canonical_part_title: "Part VI: Categorical Logic & Inference"
 right_rail:
   related:
   - title: "Book VII: Categorical Metaphysics"
     url: /publications/books/book-vii/
-  - title: "Part VI: Categorical Logic \& Inference"
+  - title: "Part VI: Categorical Logic & Inference"
     url: /publications/books/book-vii/part-06-categorical-logic-inference/
   - title: Registry
     url: /registry/books/book-vii/

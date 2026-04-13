@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D92 — Electromagnetic Field Strength
 permalink: /registry/object/IV.D92/
 registry_id: IV.D92

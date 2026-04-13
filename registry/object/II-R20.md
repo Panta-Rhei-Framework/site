@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R20 — Open Questions and Research Agenda
 permalink: /registry/object/II.R20/
 registry_id: II.R20

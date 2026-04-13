@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P29 — Chain Verification Protocol
 permalink: /registry/object/III.P29/
 registry_id: III.P29

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D75 — Complexity Budget
 permalink: /registry/object/VI.D75/
 registry_id: VI.D75

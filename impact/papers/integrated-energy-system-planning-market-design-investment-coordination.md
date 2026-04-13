@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Integrated Energy-System Planning, Market Design, Investment Prioritization,
   and International Coordination
 permalink: /impact/papers/integrated-energy-system-planning-market-design-investment-coordination/

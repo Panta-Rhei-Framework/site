@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R18 — Beauty Across Domains
 permalink: /registry/object/VII.R18/
 registry_id: VII.R18

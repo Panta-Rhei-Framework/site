@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T68 — Truncation coherence for Γ*_s
 permalink: /registry/object/IV.T68/
 registry_id: IV.T68

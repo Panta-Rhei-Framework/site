@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D08 — Interior Bipolar Decomposition
 permalink: /registry/object/II.D08/
 registry_id: II.D08

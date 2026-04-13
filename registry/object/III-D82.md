@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D82 — Spectral Measure
 permalink: /registry/object/III.D82/
 registry_id: III.D82

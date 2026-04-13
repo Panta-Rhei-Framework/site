@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D22 — Speed Constant
 permalink: /registry/object/IV.D22/
 registry_id: IV.D22

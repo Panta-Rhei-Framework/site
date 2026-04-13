@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.T19 — Euclidean as Static Limit
 permalink: /registry/object/II.T19/
 registry_id: II.T19

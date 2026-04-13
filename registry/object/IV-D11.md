@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D11 — Physical Quantity Template
 permalink: /registry/object/IV.D11/
 registry_id: IV.D11

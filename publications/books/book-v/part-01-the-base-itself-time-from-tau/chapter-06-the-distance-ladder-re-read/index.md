@@ -42,7 +42,7 @@ Orthodox cosmology calibrates distances
 using a hierarchy of overlapping techniques:
 parallax, Cepheid variables, Type Ia supernovae,
 baryon acoustic oscillations.
-Each rung of this ``distance ladder''
+Each rung of this “distance ladder”
 is anchored to the rung below,
 and the entire structure rests
 on the assumption that a single global metric
@@ -51,7 +51,7 @@ connects the emission event to the observer.
 This chapter re-reads the distance ladder
 in the language of Category $τ$.
 The central thesis is that what the ladder calibrates
-is not ``physical distance'' in some absolute sense
+is not “physical distance” in some absolute sense
 but the *readout functor*
 $R_d\colon Orbit_n → SI$
 that maps orbit-depth progression on $τ^1$
@@ -66,8 +66,8 @@ of Books IV and V
 (\S[sec:ch08-candles-rulers]).
 The Hubble tension is not a measurement crisis
 but a *category error*:
-the ``early universe'' $H_0$ from the CMB
-and the ``late universe'' $H_0$
+the “early universe” $H_0$ from the CMB
+and the “late universe” $H_0$
 from Cepheid-calibrated supernovae
 are readouts at different orbit depths,
 and the tension arises from assuming
@@ -75,7 +75,7 @@ a single scale-factor history
 when the $τ$-framework has regime-dependent readout
 (\S[sec:ch08-hubble-tension]).
 The chapter closes with a first pass
-on the ``dark energy'' puzzle:
+on the “dark energy” puzzle:
 the apparent accelerating expansion
 is a readout effect,
 not a new energy component

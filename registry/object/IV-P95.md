@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P95 — Singlet Classification
 permalink: /registry/object/IV.P95/
 registry_id: IV.P95

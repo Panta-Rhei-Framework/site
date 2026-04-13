@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D41 — ω-Uniqueness Principle
 permalink: /registry/object/VII.D41/
 registry_id: VII.D41

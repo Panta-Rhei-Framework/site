@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T13 — Label Convergence
 permalink: /registry/object/III.T13/
 registry_id: III.T13

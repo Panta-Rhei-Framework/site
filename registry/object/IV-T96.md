@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T96 — Central Theorem --- physical form
 permalink: /registry/object/IV.T96/
 registry_id: IV.T96

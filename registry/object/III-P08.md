@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.P08 — Label-Idempotent Compatibility
 permalink: /registry/object/III.P08/
 registry_id: III.P08

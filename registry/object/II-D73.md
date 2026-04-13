@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D73 — The Physics Quadrant Matrix
 permalink: /registry/object/II.D73/
 registry_id: II.D73

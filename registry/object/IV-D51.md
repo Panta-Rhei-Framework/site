@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D51 — Character Modes
 permalink: /registry/object/IV.D51/
 registry_id: IV.D51

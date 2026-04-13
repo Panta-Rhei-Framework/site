@@ -56,11 +56,11 @@ and only $τ^3$ is fundamental.
 
 ## Chapters
 
-- **[Chapter 21: Gauge Invariance and the τ-Maxwell Equations](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-21-gauge-invariance-and-the-tau-maxwell-equations/)**
-- **[Chapter 22: The Weak Force and Chirality](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-22-the-weak-force-and-chirality/)**
-- **[Chapter 23: Weak Holonomy and the W/Z Bosons](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-23-weak-holonomy-and-the-w-z-bosons/)**
-- **[Chapter 24: The Neutrino as Time Eigenmode](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-24-the-neutrino-as-time-eigenmode/)**
-- **[Chapter 25: Electroweak Mixing](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-25-electroweak-mixing/)**
-- **[Chapter 26: The τ-Higgs Mechanism](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-26-the-tau-higgs-mechanism/)**
-- **[Chapter 27: The Weinberg Angle and CF Encodings](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-27-the-weinberg-angle-and-cf-encodings/)**
-- **[Chapter 28: Electroweak Synthesis](/publications/books/book-iv/part-03-the-electroweak-arc/chapter-28-electroweak-synthesis/)**
+- **[Chapter 21: Gauge Invariance and the τ-Maxwell Equations]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-21-gauge-invariance-and-the-tau-maxwell-equations/' | relative_url }})**
+- **[Chapter 22: The Weak Force and Chirality]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-22-the-weak-force-and-chirality/' | relative_url }})**
+- **[Chapter 23: Weak Holonomy and the W/Z Bosons]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-23-weak-holonomy-and-the-w-z-bosons/' | relative_url }})**
+- **[Chapter 24: The Neutrino as Time Eigenmode]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-24-the-neutrino-as-time-eigenmode/' | relative_url }})**
+- **[Chapter 25: Electroweak Mixing]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-25-electroweak-mixing/' | relative_url }})**
+- **[Chapter 26: The τ-Higgs Mechanism]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-26-the-tau-higgs-mechanism/' | relative_url }})**
+- **[Chapter 27: The Weinberg Angle and CF Encodings]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-27-the-weinberg-angle-and-cf-encodings/' | relative_url }})**
+- **[Chapter 28: Electroweak Synthesis]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/chapter-28-electroweak-synthesis/' | relative_url }})**

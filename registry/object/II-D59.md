@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D59 — Idempotent-Supported Character
 permalink: /registry/object/II.D59/
 registry_id: II.D59

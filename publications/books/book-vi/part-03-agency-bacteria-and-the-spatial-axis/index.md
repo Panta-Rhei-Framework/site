@@ -39,9 +39,9 @@ self/non-self boundary, and the three-domain taxonomy is revisited through the s
 
 ## Chapters
 
-- **[Chapter 17: The Agency Sector: Motility and Environmental Interaction](/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-17-the-agency-sector-motility-and-environmental-interaction/)**
-- **[Chapter 18: Bacteria: The Spatial Pioneers](/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-18-bacteria-the-spatial-pioneers/)**
-- **[Chapter 19: Metabolism: Circulation at Every Scale](/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-19-metabolism-circulation-at-every-scale/)**
-- **[Chapter 20: ATP: The Universal Energy Currency](/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-20-atp-the-universal-energy-currency/)**
-- **[Chapter 21: Membranes: Self-Assembly and the First Distinction](/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-21-membranes-self-assembly-and-the-first-distinction/)**
-- **[Chapter 22: The Three Domains: Sector Taxonomy of Life](/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-22-the-three-domains-sector-taxonomy-of-life/)**
+- **[Chapter 17: The Agency Sector: Motility and Environmental Interaction]({{ '/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-17-the-agency-sector-motility-and-environmental-interaction/' | relative_url }})**
+- **[Chapter 18: Bacteria: The Spatial Pioneers]({{ '/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-18-bacteria-the-spatial-pioneers/' | relative_url }})**
+- **[Chapter 19: Metabolism: Circulation at Every Scale]({{ '/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-19-metabolism-circulation-at-every-scale/' | relative_url }})**
+- **[Chapter 20: ATP: The Universal Energy Currency]({{ '/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-20-atp-the-universal-energy-currency/' | relative_url }})**
+- **[Chapter 21: Membranes: Self-Assembly and the First Distinction]({{ '/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-21-membranes-self-assembly-and-the-first-distinction/' | relative_url }})**
+- **[Chapter 22: The Three Domains: Sector Taxonomy of Life]({{ '/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-22-the-three-domains-sector-taxonomy-of-life/' | relative_url }})**

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R83 — No claim to the prize
 permalink: /registry/object/IV.R83/
 registry_id: IV.R83

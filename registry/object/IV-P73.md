@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P73 — Finite-Stage Vacuum Existence and Uniqueness
 permalink: /registry/object/IV.P73/
 registry_id: IV.P73

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T83 — Exactly three generations
 permalink: /registry/object/IV.T83/
 registry_id: IV.T83

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D11 — Logos Sector S_L
 permalink: /registry/object/VII.D11/
 registry_id: VII.D11

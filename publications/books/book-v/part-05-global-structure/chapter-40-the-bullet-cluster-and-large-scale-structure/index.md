@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-3
 prev_chapter_title: "Chapter 39: The EHT Re-Read: The Ring Is the Donut"
 next_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-41-the-sector-exhaustion-theorem-dark-matter-cannot-exist/"
 next_chapter_title: "Chapter 41: The Sector Exhaustion Theorem: Dark Matter Cannot Exist"
-summary_short: "The Bullet Cluster (1E 0657-56) is widely regarded as the ``smoking gun'' for dark matter. Two galaxy clusters collided at a relative velocity of $\\sim 4700$…"
+summary_short: "The Bullet Cluster (1E 0657-56) is widely regarded as the “smoking gun” for dark matter. Two galaxy clusters collided at a relative velocity of $\\sim 4700$…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-05-global-structure/"
@@ -40,7 +40,7 @@ right_rail:
 
 The Bullet Cluster (1E 0657-56)
 is widely regarded
-as the ``smoking gun'' for dark matter.
+as the “smoking gun” for dark matter.
 Two galaxy clusters collided
 at a relative velocity of $\sim 4700$ km/s
 approximately 150 million years ago.

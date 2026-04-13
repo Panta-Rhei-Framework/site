@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T94 — Fiber-base factorization
 permalink: /registry/object/IV.T94/
 registry_id: IV.T94

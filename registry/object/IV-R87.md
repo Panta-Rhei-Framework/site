@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.R87 — Range proof from Lean
 permalink: /registry/object/IV.R87/
 registry_id: IV.R87

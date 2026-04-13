@@ -1,5 +1,6 @@
 ---
 layout: registry-dashboard
+lane: registry
 title: 'Registry Dashboard — Book III: Categorical Spectrum'
 permalink: /registry/dashboards/book-iii/
 book: III

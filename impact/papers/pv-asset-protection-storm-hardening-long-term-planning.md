@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for PV Asset Protection, Storm-Hardening, and Long-Term System Planning
 permalink: /impact/papers/pv-asset-protection-storm-hardening-long-term-planning/
 paper_id: companion-solar-paper-4

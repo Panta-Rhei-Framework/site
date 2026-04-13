@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D34 — Molecular Architecture
 permalink: /registry/object/VI.D34/
 registry_id: VI.D34

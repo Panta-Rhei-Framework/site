@@ -39,10 +39,10 @@ operator $ρ$.
 We preview the Three Keys (Hyperfactorization,
 Prime Polarity, Split-Complex Holomorphy),
 the four-layer Kernel Hinge that structures
-the book's seventy-three chapters,
+the book's seventy-nine chapters,
 and the self-enrichment ladder $E_0 → E_1 → E_2 → E_3$
 that connects Book I to the rest of the series.
 
 ## Chapters
 
-- **[Chapter 1: Earned Foundations](/publications/books/book-i/part-00-earned-foundations/chapter-01-earned-foundations/)**
+- **[Chapter 1: Earned Foundations]({{ '/publications/books/book-i/part-00-earned-foundations/chapter-01-earned-foundations/' | relative_url }})**

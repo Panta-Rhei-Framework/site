@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P08 — Integrability Criterion
 permalink: /registry/object/IV.P08/
 registry_id: IV.P08

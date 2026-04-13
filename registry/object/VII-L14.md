@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.L14 — Binding as Gluing
 permalink: /registry/object/VII.L14/
 registry_id: VII.L14

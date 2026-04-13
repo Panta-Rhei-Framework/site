@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.T20 — Source as γ-Fiber Production
 permalink: /registry/object/VI.T20/
 registry_id: VI.T20

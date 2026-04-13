@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T69 — Goldbach at Primorial M₄
 permalink: /registry/object/III.T69/
 registry_id: III.T69

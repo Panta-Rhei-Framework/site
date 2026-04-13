@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: I.D19c — Tower Atom
 permalink: /registry/object/I.D19c/
 registry_id: I.D19c

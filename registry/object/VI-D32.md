@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D32 — ATP/ADP Oscillation
 permalink: /registry/object/VI.D32/
 registry_id: VI.D32

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R08 — Polarity vs Rotation
 permalink: /registry/object/II.R08/
 registry_id: II.R08

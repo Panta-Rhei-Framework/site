@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: Tau for Food Safety, Livestock/Wildlife Interface, and Community Exposure Intelligence
 permalink: /impact/papers/food-safety-livestock-wildlife-community-exposure/
 paper_id: companion-one-health-paper-4

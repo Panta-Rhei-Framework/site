@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P74 — Finite-Stage Hessian Properties
 permalink: /registry/object/IV.P74/
 registry_id: IV.P74

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T61 — Translation Failure Boundary
 permalink: /registry/object/III.T61/
 registry_id: III.T61

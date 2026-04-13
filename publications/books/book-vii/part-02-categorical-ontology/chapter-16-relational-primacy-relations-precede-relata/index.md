@@ -40,7 +40,7 @@ right_rail:
 
 The foundational ontological thesis of this series, restated for the
 metaphysical register. Relations and transformations constitute the
-basic vocabulary of reality; ``objects'' are stabilized patterns within
+basic vocabulary of reality; “objects” are stabilized patterns within
 a relational web. The Yoneda Lemma becomes an ontological principle:
 what an entity *is* reduces to how it relates to everything else.
 Category $τ$ is not a mathematical convenience but the ontic

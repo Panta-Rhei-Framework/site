@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T09 — Ledger Count
 permalink: /registry/object/IV.T09/
 registry_id: IV.T09

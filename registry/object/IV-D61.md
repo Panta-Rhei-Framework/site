@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D61 — Canonical Inner Product
 permalink: /registry/object/IV.D61/
 registry_id: IV.D61

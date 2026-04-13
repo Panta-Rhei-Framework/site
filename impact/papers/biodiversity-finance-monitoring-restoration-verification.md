@@ -1,5 +1,6 @@
 ---
 layout: impact-paper
+lane: impact
 title: τ for Biodiversity Finance, Monitoring, Restoration Verification, and Nature-Positive
   Investment Prioritization
 permalink: /impact/papers/biodiversity-finance-monitoring-restoration-verification/

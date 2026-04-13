@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R10 — Geometric Meaning of Bipolar Idempotents
 permalink: /registry/object/II.R10/
 registry_id: II.R10

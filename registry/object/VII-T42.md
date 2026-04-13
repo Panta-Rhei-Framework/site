@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.T42 — Self-Recognition as E₃ Operator
 permalink: /registry/object/VII.T42/
 registry_id: VII.T42

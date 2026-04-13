@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P72 — Crossing-Point Degeneracy
 permalink: /registry/object/IV.P72/
 registry_id: IV.P72

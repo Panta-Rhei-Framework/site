@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.P71 — Parity Bridge and Mixing
 permalink: /registry/object/IV.P71/
 registry_id: IV.P71

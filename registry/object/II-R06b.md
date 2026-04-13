@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R06b — Compatibility Axiom Schema
 permalink: /registry/object/II.R06b/
 registry_id: II.R06b

@@ -43,7 +43,7 @@ systems share a kernel invariant, their structural parallels are not
 coincidence but kernel-shadow correlation. The formal notion of
 synchronicity introduced in Chapter [ch:synchronicity] is now
 applied to $S_L$ itself: the resonance between the structural Logos
-sector and traditions that have used ``Logos'' for millennia is a
+sector and traditions that have used “Logos” for millennia is a
 synchronicity in the precise sense of kernel-invariant correlation
 across typed registers. The historical instances—Heraclitus, the
 Stoics, Philo, the Johannine Prologue—are independent readout

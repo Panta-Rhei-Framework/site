@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D16 — Universal Operator
 permalink: /registry/object/III.D16/
 registry_id: III.D16

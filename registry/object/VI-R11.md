@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.R11 — Motility Catalog
 permalink: /registry/object/VI.R11/
 registry_id: VI.R11

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L08 — Branch Factorization
 permalink: /registry/object/II.L08/
 registry_id: II.L08

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D15 — Life Sector
 permalink: /registry/object/VI.D15/
 registry_id: VI.D15

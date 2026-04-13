@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.P28 — Extended Mind as Carrier Extension
 permalink: /registry/object/VII.P28/
 registry_id: VII.P28

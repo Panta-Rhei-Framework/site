@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.T75 — CRT Admissible Positive
 permalink: /registry/object/III.T75/
 registry_id: III.T75

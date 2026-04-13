@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D58 — BH DecodeTarget
 permalink: /registry/object/VI.D58/
 registry_id: VI.D58

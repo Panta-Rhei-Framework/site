@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D78 — Capital Network
 permalink: /registry/object/VII.D78/
 registry_id: VII.D78

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D83 — L² Norm
 permalink: /registry/object/II.D83/
 registry_id: II.D83

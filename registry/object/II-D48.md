@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D48 — Canonical Decomposition
 permalink: /registry/object/II.D48/
 registry_id: II.D48

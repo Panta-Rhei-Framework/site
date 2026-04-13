@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R27 — Honest Accounting
 permalink: /registry/object/II.R27/
 registry_id: II.R27

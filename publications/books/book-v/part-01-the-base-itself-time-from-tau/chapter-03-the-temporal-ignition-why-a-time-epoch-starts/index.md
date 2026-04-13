@@ -1,6 +1,6 @@
 ---
 layout: publication-chapter
-title: "Chapter 3: The Temporal Ignition: Why a ``Time Epoch'' Starts"
+title: "Chapter 3: The Temporal Ignition: Why a “Time Epoch” Starts"
 permalink: /publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-03-the-temporal-ignition-why-a-time-epoch-starts/
 lane: publications
 publication_type: chapter
@@ -79,7 +79,7 @@ The present chapter identifies three epochs
 defines the ignition condition
 that marks the onset of the temporal epoch
 (Definition [def:ch05-ignition-depth], V.D18),
-constructs the ``now'' hypersurface $Σ_{now}$
+constructs the “now” hypersurface $Σ_{now}$
 (Definition [def:ch05-sigma-now], V.D19),
 and proves that the current state of the universe
 lies well within the temporal epoch

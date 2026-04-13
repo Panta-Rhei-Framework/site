@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R19 — Style as Categorical Invariant
 permalink: /registry/object/VII.R19/
 registry_id: VII.R19

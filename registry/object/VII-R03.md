@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.R03 — Historical Precursors to Relational Ontology
 permalink: /registry/object/VII.R03/
 registry_id: VII.R03

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.L14 — Yoneda Application
 permalink: /registry/object/II.L14/
 registry_id: II.L14

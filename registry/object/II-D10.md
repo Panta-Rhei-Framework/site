@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.D10 — Stage-k Cylinder
 permalink: /registry/object/II.D10/
 registry_id: II.D10

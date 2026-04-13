@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.T78 — No vacuum catastrophe in τ
 permalink: /registry/object/IV.T78/
 registry_id: IV.T78

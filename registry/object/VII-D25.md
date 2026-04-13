@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D25 — Internal Set Ontology
 permalink: /registry/object/VII.D25/
 registry_id: VII.D25

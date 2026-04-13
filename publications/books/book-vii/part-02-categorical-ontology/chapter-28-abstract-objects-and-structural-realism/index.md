@@ -44,7 +44,7 @@ structuralism—the thesis that mathematical objects have no intrinsic
 nature beyond their structural relations—is the natural ontology of
 Category $τ$. The Platonism-nominalism debate presupposes substance
 ontology; $τ$ removes the presupposition, and the debate dissolves.
-The question ``Is mathematics discovered or invented?'' dissolves in
+The question “Is mathematics discovered or invented?” dissolves in
 parallel: when objects are structural positions, investigation is
 traversal of the address space, and the discovery-invention distinction
 collapses. Abstract objects are not mysterious extras added to a

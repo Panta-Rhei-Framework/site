@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D61 — Truth-Bearer as Section
 permalink: /registry/object/VII.D61/
 registry_id: VII.D61

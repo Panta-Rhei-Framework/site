@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: IV.D59 — Sharp and Spread States
 permalink: /registry/object/IV.D59/
 registry_id: IV.D59

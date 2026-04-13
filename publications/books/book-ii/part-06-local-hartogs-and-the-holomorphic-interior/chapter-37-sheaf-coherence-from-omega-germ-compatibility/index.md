@@ -52,7 +52,7 @@ via analytic continuation and the identity theorem.
 In Category $τ$, the presheaf of holomorphic functions
 on $τ^3$ is defined
 using cylinder domains (II.D10)
-as the ``open sets,''
+as the “open sets,”
 and the sheaf axioms are verified
 from $ω$-germ stagewise compatibility
 and the ultrametric topology.

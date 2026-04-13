@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VI.D42 — Structure Recycling Predicate
 permalink: /registry/object/VI.D42/
 registry_id: VI.D42

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R17 — Complete Dependency Chain Audit
 permalink: /registry/object/II.R17/
 registry_id: II.R17

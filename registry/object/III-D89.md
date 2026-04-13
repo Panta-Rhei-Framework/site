@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D89 — Topological Translation Functor
 permalink: /registry/object/III.D89/
 registry_id: III.D89

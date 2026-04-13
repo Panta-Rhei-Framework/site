@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: II.R36 — Tau-Exponential Sigma-Equivariance
 permalink: /registry/object/II.R36/
 registry_id: II.R36

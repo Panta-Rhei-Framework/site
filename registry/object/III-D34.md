@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: III.D34 — τ-CDCL Architecture
 permalink: /registry/object/III.D34/
 registry_id: III.D34

@@ -1,5 +1,6 @@
 ---
 layout: registry-object
+lane: registry
 title: VII.D88 — Mediator Fixed-Point Basin
 permalink: /registry/object/VII.D88/
 registry_id: VII.D88

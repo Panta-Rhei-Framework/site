@@ -34,7 +34,7 @@ Supporting the Panta Rhei Research Program does not mean endorsing the framework
 The most direct way to support the research is to **engage with the canonical publications**:
 
 {% for book in site.data.publications.books %}
-- **Book {{ book.roman }}**: [{{ book.title }}](/publications/books/{{ book.id }}/) — *{{ book.subtitle }}*
+- **Book {{ book.roman }}**: [{{ book.title }}]({{ book.url | relative_url }}) — *{{ book.subtitle }}*
 {% endfor %}
 
 Available as hardcover, paperback, and Kindle on Amazon KDP.
@@ -42,7 +42,7 @@ Available as hardcover, paperback, and Kindle on Amazon KDP.
 ## 2. Follow the Research
 
 Stay connected to the program's development:
-- [Follow the Research](/engage/follow-the-research/) for email updates
+- [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for email updates
 - Watch the [TauLib repository](https://github.com/Panta-Rhei-Framework/taulib) on GitHub
 - Bookmark this Atlas for new content
 
