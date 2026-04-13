@@ -1,0 +1,68 @@
+// ================================================================
+// Bibliography Styles
+// ================================================================
+
+// List items on the root page
+.bib-list-item {
+  padding: 10px 0;
+  border-bottom: 1px solid $divider;
+
+  &:last-child {
+    border-bottom: none;
+  }
+}
+
+.bib-title {
+  font-family: $font-display;
+  font-size: 0.95rem;
+  line-height: 1.4;
+
+  a {
+    color: $text;
+    text-decoration: none;
+
+    &:hover {
+      color: $accent;
+    }
+  }
+}
+
+.bib-authors {
+  font-family: $font-ui;
+  font-size: 0.84rem;
+  color: $text-muted;
+  margin-bottom: 2px;
+}
+
+.bib-meta {
+  font-family: $font-ui;
+  font-size: 0.82rem;
+  color: $text-muted;
+  display: flex;
+  align-items: center;
+  flex-wrap: wrap;
+  gap: 4px;
+  margin-top: 4px;
+}
+
+// Citation block on entry pages
+.citation-block {
+  font-family: $font-ui;
+  font-size: 0.88rem;
+  line-height: 1.65;
+  padding: 14px 16px;
+  background: rgba(255, 255, 255, 0.42);
+  border: 1px solid $panel-border;
+  border-radius: $radius-sm;
+
+  p { margin: 0; }
+  em { font-style: italic; }
+  strong { font-weight: 600; }
+}
+
+// Chip row on entry pages
+.chip-row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+}

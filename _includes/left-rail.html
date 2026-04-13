@@ -99,6 +99,13 @@
   {% endif %}
   {% endfor %}
 
+  {% elsif page.lane == "bibliography" %}
+  <!-- Bibliography lane navigation -->
+  <div class="rail-title">Bibliography</div>
+  {% for item in site.data.nav.bibliography_nav %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endfor %}
+
   {% elsif page.lane == "verify" %}
   <!-- Verify lane navigation -->
   <div class="rail-title">Verify</div>

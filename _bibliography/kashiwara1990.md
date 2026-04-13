@@ -1,0 +1,41 @@
+---
+title: "Sheaves on manifolds"
+bib_key: "Kashiwara1990"
+entry_type: "book"
+authors: "Kashiwara, Masaki and Schapira, Pierre"
+year: "1990"
+journal_or_booktitle: ""
+publisher: "Springer"
+volume: "292"
+number: ""
+pages: ""
+doi: ""
+url: ""
+isbn: ""
+arxiv: ""
+series: "Grundlehren der Mathematischen Wissenschaften"
+edition: ""
+domain_group: "Category Theory"
+role_in_program: "foundational-source"
+role_display: "Foundational Source"
+type_display: "Book"
+formatted_citation: "Kashiwara, Masaki and Schapira, Pierre. (1990). *Sheaves on manifolds*. **292**. Springer."
+right_rail:
+  toc: false
+  related:
+    - title: "Bibliography"
+      url: /bibliography/
+    - title: "About the Research"
+      url: /research-program/about/
+  artifacts:
+    - title: "Download references.bib"
+      url: /assets/bibliography/references.bib
+  meta:
+    type: "Book"
+    year: "1990"
+    domain: "Category Theory"
+    role: "Foundational Source"
+    updated: "April 2026"
+---
+
+Included as a foundational source for Category Theory on which the program directly builds.

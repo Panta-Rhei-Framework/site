@@ -161,6 +161,28 @@ verify_nav:
   - title: "Glossary"
     url: "/verify/taulib/glossary/"
 
+bibliography_nav:
+  - title: "Overview"
+    url: "/bibliography/"
+  - title: "Foundations and Logic"
+    url: "/bibliography/#foundations-and-logic"
+  - title: "Category Theory"
+    url: "/bibliography/#category-theory"
+  - title: "Topology and Geometry"
+    url: "/bibliography/#topology-and-geometry"
+  - title: "Number Theory and Analysis"
+    url: "/bibliography/#number-theory-and-analysis"
+  - title: "Physics"
+    url: "/bibliography/#physics"
+  - title: "Life and Biology"
+    url: "/bibliography/#life-and-biology"
+  - title: "Metaphysics and Philosophy"
+    url: "/bibliography/#metaphysics-and-philosophy"
+  - title: "Computation and Complexity"
+    url: "/bibliography/#computation-and-complexity"
+  - title: "Download .bib"
+    url: "/assets/bibliography/references.bib"
+
 engage_nav:
   - title: "Overview"
     url: "/engage/"

@@ -1,0 +1,74 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">Bibliography &middot; {{ page.domain_group }}</span>
+  <h1>{{ page.title }}</h1>
+  <div class="chip-row" style="margin-top: 10px;">
+    <span class="chip">{{ page.year }}</span>
+    <span class="chip">{{ page.type_display }}</span>
+    <span class="chip">{{ page.role_display }}</span>
+    <span class="chip">{{ page.domain_group }}</span>
+  </div>
+</div>
+
+<div class="content-card">
+  <h2>Citation</h2>
+  <div class="citation-block">
+    {{ page.formatted_citation | markdownify }}
+  </div>
+  {% if page.doi != "" or page.url != "" or page.arxiv != "" %}
+  <div class="btn-group" style="margin-top: 14px;">
+    {% if page.doi != "" %}
+    <a href="https://doi.org/{{ page.doi }}" class="btn-secondary" target="_blank" rel="noopener">DOI: {{ page.doi }}</a>
+    {% endif %}
+    {% if page.url != "" %}
+    <a href="{{ page.url }}" class="btn-secondary" target="_blank" rel="noopener">Publisher</a>
+    {% endif %}
+    {% if page.arxiv != "" %}
+    <a href="https://arxiv.org/abs/{{ page.arxiv }}" class="btn-secondary" target="_blank" rel="noopener">arXiv: {{ page.arxiv }}</a>
+    {% endif %}
+  </div>
+  {% endif %}
+</div>
+
+{% if content != "" %}
+<div class="content-card">
+  <h2>Why this reference is included</h2>
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
+{% endif %}
+
+<div class="content-card">
+  <h2>Bibliographic Details</h2>
+  <div class="meta-list" style="font-size: 0.88rem;">
+    <div class="meta-item"><span>BibTeX Key</span><span class="meta-value" style="font-family: var(--font-mono, monospace); font-size: 0.82rem;">{{ page.bib_key }}</span></div>
+    <div class="meta-item"><span>Authors</span><span class="meta-value">{{ page.authors }}</span></div>
+    <div class="meta-item"><span>Year</span><span class="meta-value">{{ page.year }}</span></div>
+    <div class="meta-item"><span>Type</span><span class="meta-value">{{ page.type_display }}</span></div>
+    {% if page.journal_or_booktitle != "" %}
+    <div class="meta-item"><span>Journal / Book</span><span class="meta-value">{{ page.journal_or_booktitle }}</span></div>
+    {% endif %}
+    {% if page.publisher != "" %}
+    <div class="meta-item"><span>Publisher</span><span class="meta-value">{{ page.publisher }}</span></div>
+    {% endif %}
+    {% if page.volume != "" %}
+    <div class="meta-item"><span>Volume</span><span class="meta-value">{{ page.volume }}{% if page.number != "" %}({{ page.number }}){% endif %}</span></div>
+    {% endif %}
+    {% if page.pages != "" %}
+    <div class="meta-item"><span>Pages</span><span class="meta-value">{{ page.pages }}</span></div>
+    {% endif %}
+    {% if page.series != "" %}
+    <div class="meta-item"><span>Series</span><span class="meta-value">{{ page.series }}</span></div>
+    {% endif %}
+    {% if page.edition != "" %}
+    <div class="meta-item"><span>Edition</span><span class="meta-value">{{ page.edition }}</span></div>
+    {% endif %}
+    {% if page.isbn != "" %}
+    <div class="meta-item"><span>ISBN</span><span class="meta-value">{{ page.isbn }}</span></div>
+    {% endif %}
+  </div>
+</div>

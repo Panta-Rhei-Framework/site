@@ -11,6 +11,9 @@ collections:
     permalink: /framework/:name/
   taulib_docs:
     output: true
+  bibliography:
+    output: true
+    permalink: /bibliography/:name/
 
 collections_dir: .
 
@@ -46,3 +49,8 @@ defaults:
     values:
       layout: "framework-module"
       lane: "framework"
+  - scope:
+      type: "bibliography"
+    values:
+      layout: "bibliography-entry"
+      lane: "bibliography"

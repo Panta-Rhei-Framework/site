@@ -1,0 +1,44 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">research program</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+  <div class="btn-group" style="margin-top: 16px;">
+    <a href="{{ '/assets/bibliography/references.bib' | relative_url }}" class="btn-secondary" download>Download references.bib</a>
+  </div>
+</div>
+
+{% include summary-cards.html %}
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
+
+{% for group in site.data.bibliography.groups %}
+{% if group.count > 0 %}
+<div class="content-card" id="{{ group.slug }}">
+  <h2>{{ group.domain }} <span style="font-weight: 400; font-size: 0.85em; color: #5b6772;">({{ group.count }})</span></h2>
+  <div class="bib-list">
+    {% for entry in group.entries %}
+    <div class="bib-list-item">
+      <div class="bib-authors">{{ entry.authors }} ({{ entry.year }})</div>
+      <div class="bib-title"><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></div>
+      <div class="bib-meta">
+        {% if entry.journal_or_booktitle != "" %}{{ entry.journal_or_booktitle }}{% endif %}
+        {% if entry.publisher != "" and entry.journal_or_booktitle == "" %}{{ entry.publisher }}{% endif %}
+        <span class="chip" style="margin-left: 6px; height: 22px; font-size: 0.72rem;">{{ entry.type_display }}</span>
+        <span class="chip" style="height: 22px; font-size: 0.72rem;">{{ entry.role_display }}</span>
+      </div>
+    </div>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
+{% endfor %}
