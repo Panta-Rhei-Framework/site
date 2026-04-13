@@ -45,17 +45,19 @@ Available as PDF downloads at [panta-rhei.site](https://panta-rhei.site).
 
 ## Lean Verification Companions
 
-7 native Lean 4 modules (`Tour/GuidedTour/BookI.lean` through `BookVII.lean`) that let you `#check` each hinge theorem directly. 49 structural hinges mapped to their exact formalization.
+7 native Lean 4 modules that let you `#check` each hinge theorem directly. 49 structural hinges mapped to their exact formalization:
+
+- [BookI](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/GuidedTour/BookI.lean) · [BookII](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/GuidedTour/BookII.lean) · [BookIII](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/GuidedTour/BookIII.lean) · [BookIV](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/GuidedTour/BookIV.lean) · [BookV](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/GuidedTour/BookV.lean) · [BookVI](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/GuidedTour/BookVI.lean) · [BookVII](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/GuidedTour/BookVII.lean)
 
 ## Interactive Tours
 
-8 audience-targeted tours in TauLib (`Tour/*.lean`):
+8 audience-targeted tours in TauLib (`Tour/*.lean`), each a self-contained Lean 4 module you can run with `lake build`:
 
-- **VerifyItYourself** — the skeptic's tour (5 claims, verified live)
-- **Foundations** — 5 generators, 7 axioms, rigidity
-- **CentralTheorem** — O(τ³) ≅ A_spec(L)
-- **Physics** — 9 electroweak predictions
-- **OneConstant** — full constants ledger from ι_τ
-- **MillenniumProblems** — GRH, BSD, Poincaré
-- **LifeFromPhysics** — 4+1 life sectors, genetic code
-- **MindAndEthics** — CI, consciousness, free will
+- **[VerifyItYourself](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean)** — the skeptic's tour (5 claims, verified live)
+- **[Foundations](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Foundations.lean)** — 5 generators, 7 axioms, rigidity
+- **[CentralTheorem](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/CentralTheorem.lean)** — O(τ³) ≅ A_spec(L)
+- **[Physics](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Physics.lean)** — 9 electroweak predictions
+- **[OneConstant](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/OneConstant.lean)** — full constants ledger from ι_τ
+- **[MillenniumProblems](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/MillenniumProblems.lean)** — GRH, BSD, Poincaré
+- **[LifeFromPhysics](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/LifeFromPhysics.lean)** — 4+1 life sectors, genetic code
+- **[MindAndEthics](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/MindAndEthics.lean)** — CI, consciousness, free will
