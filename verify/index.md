@@ -60,6 +60,16 @@ The Panta Rhei Research Program distinguishes sharply between what can be formal
 | **Falsification pack** | 220+ quantitative predictions | Book V, Chapter 56 |
 | **Registry** | 4,547 objects with dependency graph | [Registry lane]({{ '/registry/' | relative_url }}) |
 
+## TauLib Documentation
+
+The canonical documentation for TauLib is now integrated into this site:
+
+- **[TauLib Overview]({{ '/verify/taulib/' | relative_url }})** — What TauLib is, how to use it, entry routes
+- **[Architecture]({{ '/verify/taulib/architecture/' | relative_url }})** — Module dependency graph and reading paths by audience
+- **[Formalization Status]({{ '/verify/taulib/status/' | relative_url }})** — Per-book statistics, axiom inventory, sorry inventory
+- **[Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }})** — The 4-tier scope classification system
+- **[Glossary]({{ '/verify/taulib/glossary/' | relative_url }})** — Constants, generators, structures, registry format
+
 ## The Right First Question
 
 The right first question is not "should I already believe this?" The right first question is: **"is this a serious research program that has earned structured engagement?"**

@@ -146,6 +146,16 @@ publications_nav:
 verify_nav:
   - title: "Overview"
     url: "/verify/"
+  - title: "TauLib"
+    url: "/verify/taulib/"
+  - title: "Architecture"
+    url: "/verify/taulib/architecture/"
+  - title: "Formalization Status"
+    url: "/verify/taulib/status/"
+  - title: "Scope Labels"
+    url: "/verify/taulib/scope-labels/"
+  - title: "Glossary"
+    url: "/verify/taulib/glossary/"
 
 engage_nav:
   - title: "Overview"
