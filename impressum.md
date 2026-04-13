@@ -2,7 +2,6 @@
 layout: program-doc
 title: "Impressum"
 permalink: /impressum/
-lane: engage
 summary_short: "Anbieterkennzeichnung gemäß § 5 TMG."
 right_rail:
   related:
@@ -21,17 +20,12 @@ right_rail:
 Dr. Thorsten Fuchs
 Panta Rhei Research Program
 
-<!-- TODO: Insert full postal address -->
-[Straße und Hausnummer]
-[PLZ Ort]
-Deutschland
-
+Ladungsfähige Anschrift auf Anfrage über:
 E-Mail: [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
 
 ## Inhaltlich verantwortlich
 
 Dr. Thorsten Fuchs
-(Anschrift wie oben)
 
 ## Haftungsausschluss
 

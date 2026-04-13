@@ -30,9 +30,9 @@ right_rail:
 The Panta Rhei Research Program is an independent open research program developing **Category τ** — a categorical framework built from five generators, seven axioms, and one operator that derives results across mathematics, physics, biology, and philosophy from a single coherence kernel.
 
 The program's canonical release (April 2026) includes:
-- A **seven-book monograph series** (~3,430 pages, available on Amazon KDP)
+{% assign book_count = site.data.publications.books | size %}{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign part_count = site.data.publications.parts | size %}{% assign chapter_count = site.data.publications.chapters | size %}- A **{{ book_count }}-book monograph series** (~3,430 pages, available on Amazon KDP)
 - A **Lean 4 formalization library** (TauLib, 450 modules, 0 sorry in Books I-VI)
-- This **research website** (5,400+ pages, 85 key results, 4,547 registry objects)
+- This **research website** ({{ result_count }} key results, {{ registry_count }} registry objects)
 - **Guided tours** and **structural falsification whitepapers**
 
 ## Quick Facts
@@ -40,10 +40,10 @@ The program's canonical release (April 2026) includes:
 - **Authors**: Dr. Thorsten Fuchs & Anna-Sophie Fuchs
 - **Framework**: 5 generators, 7 axioms (K0-K6), 1 operator (ρ)
 - **Master constant**: ι_τ = 2/(π+e) ≈ 0.3413
-- **Books**: 7 volumes, 535 chapters, 79 parts
-- **Results**: 85 key results across 4 domains (44 frontier problems, 32 foundational math, 9 consequences)
+- **Books**: {{ book_count }} volumes, {{ chapter_count }} chapters, {{ part_count }} parts
+- **Results**: {{ result_count }} key results across 4 domains
 - **Formalization**: 125,771 lines of Lean 4 code, 4,332 theorems, 3,721 evals
-- **Registry**: 4,547 mathematical objects with dependency graphs
+- **Registry**: {{ registry_count }} mathematical objects with dependency graphs
 - **Falsification**: 220+ quantitative predictions with precision claims
 - **Status**: Independent research — not yet peer-reviewed in traditional journals
 

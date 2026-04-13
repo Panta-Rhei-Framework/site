@@ -2,7 +2,6 @@
 layout: program-doc
 title: "Datenschutzerklärung"
 permalink: /datenschutz/
-lane: engage
 summary_short: "Datenschutzhinweise gemäß DSGVO für die Website des Panta Rhei Research Program."
 right_rail:
   related:
@@ -21,11 +20,7 @@ right_rail:
 Dr. Thorsten Fuchs
 Panta Rhei Research Program
 
-<!-- TODO: Insert full postal address -->
-[Straße und Hausnummer]
-[PLZ Ort]
-Deutschland
-
+Ladungsfähige Anschrift auf Anfrage über:
 E-Mail: [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
 
 ## 2. Allgemeine Hinweise zur Datenverarbeitung

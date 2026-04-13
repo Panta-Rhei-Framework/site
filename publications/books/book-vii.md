@@ -79,7 +79,6 @@ to commitment (Part XII).
 - **[Part VIII: Categorical Societies]({{ '/publications/books/book-vii/part-08-categorical-societies/' | relative_url }})** — 12 chapters
 - **[Part IX: Categorical Mind & Consciousness]({{ '/publications/books/book-vii/part-09-categorical-mind-consciousness/' | relative_url }})** — 13 chapters
 - **[Part X: The Logos Sector]({{ '/publications/books/book-vii/part-10-the-logos-sector/' | relative_url }})** — 6 chapters
-- **[Part XI: Categorical Genesis]({{ '/publications/books/book-vii/part-11-categorical-genesis/' | relative_url }})** — 0 chapters
 - **[Part XII: The Final Boundary: From Proof to Commitment]({{ '/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/' | relative_url }})** — 4 chapters
 
 ## Canonical Artifacts

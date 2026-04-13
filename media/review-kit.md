@@ -49,28 +49,28 @@ The books are the canonical monograph release. The site provides navigable acces
 ### Mathematics-first path
 1. [Book I: Categorical Foundations]({{ '/publications/books/book-i/' | relative_url }})
 2. [Book II: Categorical Holomorphy]({{ '/publications/books/book-ii/' | relative_url }})
-3. [Results by Domain: Mathematics]({{ '/results/topic/mathematics/' | relative_url }}) (43 results)
-4. [Registry — Book I]({{ '/registry/books/book-i/' | relative_url }}) (254 objects)
+{% assign math_results = site.data.results.results | where: "topic", "mathematics" %}3. [Results by Domain: Mathematics]({{ '/results/topic/mathematics/' | relative_url }}) ({{ math_results | size }} results)
+4. [Registry — Book I]({{ '/registry/books/book-i/' | relative_url }})
 5. [Guided Tours — Foundations](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Foundations.lean)
 
 ### Physics-first path
 1. [Book III: Categorical Spectrum]({{ '/publications/books/book-iii/' | relative_url }}) (the hinge)
 2. [Book IV: Categorical Microcosm]({{ '/publications/books/book-iv/' | relative_url }})
 3. [Book V: Categorical Macrocosm]({{ '/publications/books/book-v/' | relative_url }})
-4. [Results by Domain: Physics]({{ '/results/topic/physics/' | relative_url }}) (15 results)
+{% assign phys_results = site.data.results.results | where: "topic", "physics" %}4. [Results by Domain: Physics]({{ '/results/topic/physics/' | relative_url }}) ({{ phys_results | size }} results)
 5. [Guided Tours — Physics](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Physics.lean)
 
 ### Life and metaphysics path
 1. [Book VI: Categorical Life]({{ '/publications/books/book-vi/' | relative_url }})
 2. [Book VII: Categorical Metaphysics]({{ '/publications/books/book-vii/' | relative_url }})
-3. [Results by Domain: Biology]({{ '/results/topic/biology/' | relative_url }}) (18 results)
-4. [Results by Domain: Philosophy]({{ '/results/topic/philosophy/' | relative_url }}) (9 results)
+{% assign bio_results = site.data.results.results | where: "topic", "biology" %}{% assign phil_results = site.data.results.results | where: "topic", "philosophy" %}3. [Results by Domain: Biology]({{ '/results/topic/biology/' | relative_url }}) ({{ bio_results | size }} results)
+4. [Results by Domain: Philosophy]({{ '/results/topic/philosophy/' | relative_url }}) ({{ phil_results | size }} results)
 
 ### Formal verification path
 1. [Verify]({{ '/verify/' | relative_url }})
 2. [TauLib repository](https://github.com/Panta-Rhei-Framework/taulib) — clone and run `lake build`
 3. [Guided Tours — VerifyItYourself](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean)
-4. [Registry]({{ '/registry/' | relative_url }}) — 4,547 objects with dependency graphs
+{% assign reg_count = site.data.registry.objects | size %}4. [Registry]({{ '/registry/' | relative_url }}) — {{ reg_count }} objects with dependency graphs
 
 ## Suggested Starter Packet
 

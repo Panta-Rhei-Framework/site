@@ -30,10 +30,8 @@ right_rail:
 ---
 
 
-center
-*“The way up and the way down are one and the same.”*\\
-— Heraclitus, Fragment 60
-center
+> *”The way up and the way down are one and the same.”*
+> — Heraclitus, Fragment 60
 
 Book IV completed the fiber.
 The torus $T^2$, spanned by the generators
