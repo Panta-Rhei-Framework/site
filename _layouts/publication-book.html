@@ -11,6 +11,12 @@ layout: default
 {% endfor %}
 
 {% assign cover_path = '/assets/books/covers/' | append: page.book_slug | append: '-cover-' %}
+{% assign doi_entry = nil %}
+{% for d in site.data.publications.dois %}
+  {% if d.slug == page.book_slug %}
+    {% assign doi_entry = d %}
+  {% endif %}
+{% endfor %}
 
 <div class="hero-card book-hero">
   <div class="book-hero-inner">
@@ -42,6 +48,29 @@ layout: default
     {{ content }}
   </div>
 </div>
+
+{% if doi_entry %}
+<div class="content-card doi-card">
+  <h2 class="format-section-title">Citation / DOI</h2>
+  <div class="doi-block">
+    <div class="doi-primary">
+      <span class="doi-label">Zenodo DOI</span>
+      <a href="{{ doi_entry.version_doi_url }}" class="doi-link" target="_blank" rel="noopener">{{ doi_entry.version_doi }}</a>
+    </div>
+    <div class="doi-citation">
+      {{ doi_entry.creators | join: " & " }} ({{ doi_entry.publication_date | slice: 0, 4 }}). <em>{{ doi_entry.title }}: {{ doi_entry.subtitle }}</em>. Panta Rhei Research Program, 2nd Edition. Zenodo. <a href="{{ doi_entry.version_doi_url }}" target="_blank" rel="noopener">{{ doi_entry.version_doi_url }}</a>
+    </div>
+    <div class="doi-meta">
+      <a href="{{ doi_entry.record_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Zenodo Record</a>
+      {% if doi_entry.concept_doi_url %}
+      <a href="{{ doi_entry.concept_doi_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">All Versions</a>
+      {% endif %}
+      <a href="{{ '/cite/' | relative_url }}" class="btn-secondary format-btn">Cite All Books</a>
+    </div>
+    <p class="doi-note">Canonical DOI for the current 2nd-edition manuscript record. Retail formats (Kindle, hardcover, paperback) share the same manuscript content.</p>
+  </div>
+</div>
+{% endif %}
 
 {% if amazon %}
 <div class="content-card">
