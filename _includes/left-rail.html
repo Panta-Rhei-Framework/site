@@ -98,6 +98,13 @@
   <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
   {% endfor %}
 
+  {% elsif page.lane == "engage" %}
+  <!-- Engage lane navigation -->
+  <div class="rail-title">Engage</div>
+  {% for item in site.data.nav.engage_nav %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endfor %}
+
   {% else %}
   <!-- Research program lane navigation (default) -->
   <div class="rail-title">Research program</div>

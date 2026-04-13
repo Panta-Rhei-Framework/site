@@ -141,6 +141,18 @@ verify_nav:
   - title: "Overview"
     url: "/verify/"
 
+engage_nav:
+  - title: "Overview"
+    url: "/engage/"
+  - title: "Follow the Research"
+    url: "/engage/follow-the-research/"
+  - title: "Support the Research"
+    url: "/engage/support-the-research/"
+  - title: "Seminars & Sessions"
+    url: "/engage/seminars-and-guided-sessions/"
+  - title: "Media & Contact"
+    url: "/engage/media-and-contact/"
+
 left_rail:
   - title: "About the Research"
     links:
