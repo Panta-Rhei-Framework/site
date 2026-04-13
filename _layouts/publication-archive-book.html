@@ -1,0 +1,134 @@
+---
+layout: default
+---
+
+{% comment %}Look up first-edition metadata for this book{% endcomment %}
+{% assign fe_book = nil %}
+{% for entry in site.data.publications.first_edition %}
+  {% if entry.slug == page.book_slug %}
+    {% assign fe_book = entry %}
+  {% endif %}
+{% endfor %}
+
+{% assign cover_path = '/assets/books/covers/' | append: page.book_slug | append: '-1e-cover-' %}
+
+<div class="hero-card book-hero">
+  <div class="book-hero-inner">
+    <div class="book-hero-text">
+      <span class="eyebrow">Publications &middot; Archived &middot; First Edition</span>
+      <h1>{{ page.title }}</h1>
+      {% if page.subtitle %}
+      <p class="hero-subtitle">{{ page.subtitle }}</p>
+      {% endif %}
+      <div style="margin-top: 12px;">
+        <span class="status-badge status-archived">Archived</span>
+        <span class="status-badge status-archived">First Edition</span>
+        <span class="status-badge status-archived">Superseded</span>
+      </div>
+    </div>
+    <div class="book-hero-cover">
+      <img
+        src="{{ cover_path | append: '256.webp' | relative_url }}"
+        srcset="{{ cover_path | append: '256.webp' | relative_url }} 256w, {{ cover_path | append: '512.webp' | relative_url }} 512w"
+        sizes="(max-width: 760px) min(72vw, 260px), 240px"
+        width="256" height="410"
+        alt="Cover of {{ page.title }}: {{ page.subtitle }} (First Edition)"
+        class="book-cover-img"
+        loading="eager"
+      >
+    </div>
+  </div>
+</div>
+
+{% include summary-cards.html %}
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
+
+{% comment %}Superseded-by card — link to 2nd Edition{% endcomment %}
+{% if page.superseded_by %}
+<div class="content-card">
+  <h2 class="format-section-title">Current Canonical Edition</h2>
+  <p style="font-size: 0.9rem; line-height: 1.65; margin-bottom: 14px;">This volume has been superseded by the Second Edition, which is the current canonical release for reading, citation, and technical engagement.</p>
+  <a href="{{ page.superseded_by | relative_url }}" class="btn-secondary">View Second Edition &rarr;</a>
+</div>
+{% endif %}
+
+{% comment %}DOI / Citation card (placeholder-ready){% endcomment %}
+{% if fe_book and fe_book.zenodo_doi %}
+<div class="content-card doi-card">
+  <h2 class="format-section-title">Citation / DOI (First Edition)</h2>
+  <div class="doi-block">
+    <div class="doi-primary">
+      <span class="doi-label">Zenodo DOI</span>
+      <a href="{{ fe_book.doi_url }}" class="doi-link" target="_blank" rel="noopener">{{ fe_book.zenodo_doi }}</a>
+    </div>
+    <div class="doi-citation">
+      Fuchs, Anna-Sophie &amp; Fuchs, Thorsten (2025). <em>{{ fe_book.title }}: {{ fe_book.subtitle }}</em>. Panta Rhei Research Program, 1st Edition. Zenodo. <a href="{{ fe_book.doi_url }}" target="_blank" rel="noopener">{{ fe_book.doi_url }}</a>
+    </div>
+    <div class="doi-meta">
+      <a href="{{ fe_book.zenodo_record_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Zenodo Record</a>
+    </div>
+    <p class="doi-note">Archival DOI for the First Edition manuscript record. The current canonical release is the Second Edition.</p>
+  </div>
+</div>
+{% endif %}
+
+{% comment %}Availability card{% endcomment %}
+<div class="content-card">
+  <h2 class="format-section-title">Availability</h2>
+  {% if fe_book %}
+  <div style="font-size: 0.9rem; line-height: 1.65;">
+    {% if fe_book.availability_state == "amazon-only-archival" %}
+    <p>Currently available as an archived retail artifact via Amazon. Open archival download may follow once current distribution constraints end.</p>
+    {% elsif fe_book.availability_state == "amazon-plus-open-pdf" %}
+    <p>Available as an archived retail artifact via Amazon and as an open archival PDF for reference.</p>
+    {% elsif fe_book.availability_state == "open-archival-only" %}
+    <p>Available as an open archival PDF for reference.</p>
+    {% endif %}
+
+    <div class="format-cards" style="margin-top: 16px;">
+      <div class="format-card">
+        <div class="format-card-header">
+          <span class="format-label">Hardcover</span>
+          <span class="status-badge status-archived">Archived</span>
+        </div>
+        <div class="format-asin">ISBN {{ fe_book.isbn_hardcover }}</div>
+        {% if fe_book.amazon_url %}
+        <div class="format-links">
+          <a href="{{ fe_book.amazon_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon</a>
+        </div>
+        {% endif %}
+      </div>
+
+      <div class="format-card">
+        <div class="format-card-header">
+          <span class="format-label">Paperback</span>
+          <span class="status-badge status-archived">Archived</span>
+        </div>
+        <div class="format-asin">ISBN {{ fe_book.isbn_paperback }}</div>
+        {% if fe_book.amazon_url %}
+        <div class="format-links">
+          <a href="{{ fe_book.amazon_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon</a>
+        </div>
+        {% endif %}
+      </div>
+
+      {% if fe_book.open_pdf_url %}
+      <div class="format-card">
+        <div class="format-card-header">
+          <span class="format-label">Open Archival PDF</span>
+          <span class="status-badge status-live">Available</span>
+        </div>
+        <div class="format-links">
+          <a href="{{ fe_book.open_pdf_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Download PDF</a>
+        </div>
+      </div>
+      {% endif %}
+    </div>
+  </div>
+  {% endif %}
+</div>
