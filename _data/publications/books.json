@@ -1,0 +1,86 @@
+[
+  {
+    "id": "book-i",
+    "roman": "I",
+    "title": "Categorical Foundations",
+    "subtitle": "How Mathematics Is Earned",
+    "pages": 483,
+    "chapters": 79,
+    "parts": 18,
+    "layer": "E\u2080",
+    "layer_name": "Mathematics",
+    "url": "/publications/books/book-i/"
+  },
+  {
+    "id": "book-ii",
+    "roman": "II",
+    "title": "Categorical Holomorphy",
+    "subtitle": "Finite Readouts of Infinity",
+    "pages": 504,
+    "chapters": 68,
+    "parts": 12,
+    "layer": "E\u2080",
+    "layer_name": "Mathematics",
+    "url": "/publications/books/book-ii/"
+  },
+  {
+    "id": "book-iii",
+    "roman": "III",
+    "title": "Categorical Spectrum",
+    "subtitle": "Where Physics Lives",
+    "pages": 437,
+    "chapters": 76,
+    "parts": 11,
+    "layer": "E\u2080",
+    "layer_name": "Mathematics (Hinge)",
+    "url": "/publications/books/book-iii/"
+  },
+  {
+    "id": "book-iv",
+    "roman": "IV",
+    "title": "Categorical Microcosm",
+    "subtitle": "The Self-Describing Universe",
+    "pages": 479,
+    "chapters": 73,
+    "parts": 9,
+    "layer": "E\u2081",
+    "layer_name": "Physics (Microcosm)",
+    "url": "/publications/books/book-iv/"
+  },
+  {
+    "id": "book-v",
+    "roman": "V",
+    "title": "Categorical Macrocosm",
+    "subtitle": "The Biography of the Universe",
+    "pages": 542,
+    "chapters": 58,
+    "parts": 8,
+    "layer": "E\u2081",
+    "layer_name": "Physics (Macrocosm)",
+    "url": "/publications/books/book-v/"
+  },
+  {
+    "id": "book-vi",
+    "roman": "VI",
+    "title": "Categorical Life",
+    "subtitle": "Life as Self-Decoding Distinctions",
+    "pages": 440,
+    "chapters": 53,
+    "parts": 9,
+    "layer": "E\u2082",
+    "layer_name": "Life",
+    "url": "/publications/books/book-vi/"
+  },
+  {
+    "id": "book-vii",
+    "roman": "VII",
+    "title": "Categorical Metaphysics",
+    "subtitle": "The Final Self-Enrichment",
+    "pages": 546,
+    "chapters": 128,
+    "parts": 12,
+    "layer": "E\u2083",
+    "layer_name": "Metaphysics",
+    "url": "/publications/books/book-vii/"
+  }
+]

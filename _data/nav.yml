@@ -126,6 +126,16 @@ impact_nav:
 publications_nav:
   - title: "Overview"
     url: "/publications/"
+  - title: "The Seven Books"
+    url: "/publications/books/"
+  - title: "Guided Tours"
+    url: "/publications/guided-tours/"
+  - title: "White Papers"
+    url: "/publications/white-papers/"
+  - title: "Companion Papers"
+    url: "/publications/companion-papers/"
+  - title: "Assessment Protocols"
+    url: "/publications/protocols/"
 
 verify_nav:
   - title: "Overview"
