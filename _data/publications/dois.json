@@ -1,0 +1,170 @@
+[
+  {
+    "book_id": "I",
+    "slug": "book-i",
+    "title": "Categorical Foundations",
+    "subtitle": "How Mathematics Is Earned",
+    "version_doi_url": "https://doi.org/10.5281/zenodo.19544301",
+    "version_doi": "10.5281/zenodo.19544301",
+    "record_url": "https://zenodo.org/records/19544301",
+    "concept_doi_url": null,
+    "concept_doi": null,
+    "concept_url": null,
+    "isbn_hardcover_or_primary": null,
+    "publication_date": "2026-04-08",
+    "creators": [
+      "Fuchs, Anna-Sophie",
+      "Fuchs, Thorsten"
+    ],
+    "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
+    "site_integration_targets": [
+      "/publications/books/book-i/",
+      "/cite/",
+      "/publications/"
+    ]
+  },
+  {
+    "book_id": "II",
+    "slug": "book-ii",
+    "title": "Categorical Holomorphy",
+    "subtitle": "Finite Readouts of Infinity",
+    "version_doi_url": "https://doi.org/10.5281/zenodo.19552581",
+    "version_doi": "10.5281/zenodo.19552581",
+    "record_url": "https://zenodo.org/records/19552581",
+    "concept_doi_url": "https://doi.org/10.5281/zenodo.19552580",
+    "concept_doi": "10.5281/zenodo.19552580",
+    "concept_url": "https://zenodo.org/doi/10.5281/zenodo.19552580",
+    "isbn_hardcover_or_primary": "979-8--25050388-4",
+    "publication_date": "2026-04-08",
+    "creators": [
+      "Fuchs, Thorsten",
+      "Fuchs, Anna-Sophie"
+    ],
+    "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
+    "site_integration_targets": [
+      "/publications/books/book-ii/",
+      "/cite/",
+      "/publications/"
+    ]
+  },
+  {
+    "book_id": "III",
+    "slug": "book-iii",
+    "title": "Categorical Spectrum",
+    "subtitle": "Where Physics Lives",
+    "version_doi_url": "https://doi.org/10.5281/zenodo.19552681",
+    "version_doi": "10.5281/zenodo.19552681",
+    "record_url": "https://zenodo.org/records/19552681",
+    "concept_doi_url": "https://doi.org/10.5281/zenodo.19552680",
+    "concept_doi": "10.5281/zenodo.19552680",
+    "concept_url": "https://zenodo.org/doi/10.5281/zenodo.19552680",
+    "isbn_hardcover_or_primary": "979-8--25050445-4",
+    "publication_date": "2026-04-08",
+    "creators": [
+      "Fuchs, Thorsten",
+      "Fuchs, Anna-Sophie"
+    ],
+    "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
+    "site_integration_targets": [
+      "/publications/books/book-iii/",
+      "/cite/",
+      "/publications/"
+    ]
+  },
+  {
+    "book_id": "IV",
+    "slug": "book-iv",
+    "title": "Categorical Microcosm",
+    "subtitle": "The Self-Describing Universe",
+    "version_doi_url": "https://doi.org/10.5281/zenodo.19552679",
+    "version_doi": "10.5281/zenodo.19552679",
+    "record_url": "https://zenodo.org/records/19552679",
+    "concept_doi_url": "https://doi.org/10.5281/zenodo.19552678",
+    "concept_doi": "10.5281/zenodo.19552678",
+    "concept_url": "https://zenodo.org/doi/10.5281/zenodo.19552678",
+    "isbn_hardcover_or_primary": "979-8--25050415-7",
+    "publication_date": "2026-04-08",
+    "creators": [
+      "Fuchs, Thorsten",
+      "Fuchs, Anna-Sophie"
+    ],
+    "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
+    "site_integration_targets": [
+      "/publications/books/book-iv/",
+      "/cite/",
+      "/publications/"
+    ]
+  },
+  {
+    "book_id": "V",
+    "slug": "book-v",
+    "title": "Categorical Macrocosm",
+    "subtitle": "The Biography of the Universe",
+    "version_doi_url": "https://doi.org/10.5281/zenodo.19553410",
+    "version_doi": "10.5281/zenodo.19553410",
+    "record_url": "https://zenodo.org/records/19553410",
+    "concept_doi_url": "https://doi.org/10.5281/zenodo.19553409",
+    "concept_doi": "10.5281/zenodo.19553409",
+    "concept_url": "https://zenodo.org/doi/10.5281/zenodo.19553409",
+    "isbn_hardcover_or_primary": "979-8--25050497-3",
+    "publication_date": "2026-04-08",
+    "creators": [
+      "Fuchs, Thorsten",
+      "Fuchs, Anna-Sophie"
+    ],
+    "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
+    "site_integration_targets": [
+      "/publications/books/book-v/",
+      "/cite/",
+      "/publications/"
+    ]
+  },
+  {
+    "book_id": "VI",
+    "slug": "book-vi",
+    "title": "Categorical Life",
+    "subtitle": "Life as Self-Decoding Distinctions",
+    "version_doi_url": "https://doi.org/10.5281/zenodo.19553667",
+    "version_doi": "10.5281/zenodo.19553667",
+    "record_url": "https://zenodo.org/records/19553667",
+    "concept_doi_url": "https://doi.org/10.5281/zenodo.19553666",
+    "concept_doi": "10.5281/zenodo.19553666",
+    "concept_url": "https://zenodo.org/doi/10.5281/zenodo.19553666",
+    "isbn_hardcover_or_primary": "979-8--25050891-9",
+    "publication_date": "2026-04-08",
+    "creators": [
+      "Fuchs, Thorsten",
+      "Fuchs, Anna-Sophie"
+    ],
+    "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
+    "site_integration_targets": [
+      "/publications/books/book-vi/",
+      "/cite/",
+      "/publications/"
+    ]
+  },
+  {
+    "book_id": "VII",
+    "slug": "book-vii",
+    "title": "Categorical Metaphysics",
+    "subtitle": "The Final Self-Enrichment",
+    "version_doi_url": "https://doi.org/10.5281/zenodo.19553963",
+    "version_doi": "10.5281/zenodo.19553963",
+    "record_url": "https://zenodo.org/records/19553963",
+    "concept_doi_url": "https://doi.org/10.5281/zenodo.19553962",
+    "concept_doi": "10.5281/zenodo.19553962",
+    "concept_url": "https://zenodo.org/doi/10.5281/zenodo.19553962",
+    "isbn_hardcover_or_primary": "979-8--25050928-2",
+    "publication_date": "2026-04-08",
+    "creators": [
+      "Fuchs, Thorsten",
+      "Fuchs, Anna-Sophie"
+    ],
+    "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
+    "site_integration_targets": [
+      "/publications/books/book-vii/",
+      "/cite/",
+      "/publications/"
+    ]
+  }
+]
