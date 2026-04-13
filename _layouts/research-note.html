@@ -1,0 +1,60 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">Research Note &middot; {{ page.date | date: "%B %Y" }}</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+  <div class="chip-row" style="margin-top: 10px;">
+    <span class="chip">{{ page.date | date: "%d %B %Y" }}</span>
+    {% if page.topics %}
+    {% for topic in page.topics %}
+    <span class="chip">{{ topic }}</span>
+    {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
+
+{% if page.related_results or page.related_framework_modules or page.related_publications %}
+<div class="content-card">
+  <h2>Related</h2>
+  <div class="dep-list">
+    {% if page.related_results %}
+    {% for r in page.related_results %}
+    <a href="{{ '/results/' | append: r | append: '/' | relative_url }}" class="dep-link">
+      <span class="dep-title">{{ r | replace: '-', ' ' | capitalize }}</span>
+    </a>
+    {% endfor %}
+    {% endif %}
+    {% if page.related_framework_modules %}
+    {% for m in page.related_framework_modules %}
+    <a href="{{ '/framework/' | append: m | append: '/' | relative_url }}" class="dep-link">
+      <span class="dep-title">{{ m }}</span>
+    </a>
+    {% endfor %}
+    {% endif %}
+    {% if page.related_publications %}
+    {% for p in page.related_publications %}
+    <a href="{{ p | relative_url }}" class="dep-link">
+      <span class="dep-title">{{ p | split: '/' | last | replace: '-', ' ' | capitalize }}</span>
+    </a>
+    {% endfor %}
+    {% endif %}
+  </div>
+</div>
+{% endif %}
+
+<div class="content-card note-subscribe-card">
+  <h2>Receive Research Notes</h2>
+  <p style="font-size: 0.88rem; line-height: 1.6; color: #5b6772;">Receive new Research Notes by email when they are published. No marketing, no noise — only substantial program writing.</p>
+  <a href="{{ '/engage/follow-the-research/' | relative_url }}" class="btn-secondary" style="margin-top: 10px;">Follow the Research</a>
+</div>

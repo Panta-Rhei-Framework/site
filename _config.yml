@@ -14,6 +14,14 @@ collections:
   bibliography:
     output: true
     permalink: /bibliography/:name/
+  research_notes:
+    output: true
+    permalink: /research-notes/:name/
+    sort_by: date
+  changelog:
+    output: true
+    permalink: /changelog/:name/
+    sort_by: date
 
 collections_dir: .
 
@@ -54,3 +62,13 @@ defaults:
     values:
       layout: "bibliography-entry"
       lane: "bibliography"
+  - scope:
+      type: "research_notes"
+    values:
+      layout: "research-note"
+      lane: "engage"
+  - scope:
+      type: "changelog"
+    values:
+      layout: "changelog-entry"
+      lane: "utility"
