@@ -16,26 +16,35 @@
   border-radius: 18px;
   transition: background $transition;
 
-  // Spectral accent bar — signature Panta Rhei gradient
+  // Spectral border — thin rainbow rim wrapping entire navbar
+  // Uses mask-composite to punch out the interior, leaving only the 1px rim
   &::after {
     content: '';
     position: absolute;
-    bottom: -2px;
-    left: 24px;
-    right: 24px;
-    height: 2px;
-    border-radius: 1px;
-    background: linear-gradient(
-      90deg,
-      #8fb6ff 0%,      // Book I
-      #b08cff 16%,     // Book II
-      #86efff 32%,     // Book III
-      #95f3a1 48%,     // Book IV
-      #ffb24d 64%,     // Book V
-      #ff6156 80%,     // Book VI
-      #c8d4e8 100%     // Book VII
+    inset: 0;
+    border-radius: 18px;
+    padding: 1px;
+    background: conic-gradient(
+      from 180deg at 50% 50%,
+      #8fb6ff 0deg,      // Book I — top-center start
+      #b08cff 51deg,     // Book II
+      #86efff 103deg,    // Book III
+      #95f3a1 154deg,    // Book IV
+      #ffb24d 206deg,    // Book V
+      #ff6156 257deg,    // Book VI
+      #c8d4e8 309deg,    // Book VII
+      #8fb6ff 360deg     // close the loop
     );
-    opacity: 0.6;
+    -webkit-mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    -webkit-mask-composite: xor;
+    mask:
+      linear-gradient(#fff 0 0) content-box,
+      linear-gradient(#fff 0 0);
+    mask-composite: exclude;
+    opacity: 0.55;
+    pointer-events: none;
   }
 
   @media (max-width: $bp-stack) {
