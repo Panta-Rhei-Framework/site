@@ -31,10 +31,18 @@ jobs:
         id: pages
         uses: actions/configure-pages@v5
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
       - name: Build with Jekyll
         run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
         env:
           JEKYLL_ENV: production
+
+      - name: Build Pagefind search index
+        run: npx -y pagefind --site _site --output-subdir pagefind
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3

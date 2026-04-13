@@ -11,7 +11,7 @@
     {% for item in site.data.nav.header %}
     <a href="{{ item.url | relative_url }}" class="header-nav-link{% if page.url contains item.match %} active{% endif %}">{{ item.title }}</a>
     {% endfor %}
-    <button class="header-search" aria-label="Search" type="button">
+    <button class="header-search" aria-label="Search (press / or Ctrl+K)" type="button" onclick="openSearch()">
       <svg viewBox="0 0 16 16" fill="none" stroke="currentColor" stroke-width="1.5">
         <circle cx="6.5" cy="6.5" r="5"/>
         <line x1="10" y1="10" x2="14.5" y2="14.5"/>
