@@ -1,0 +1,31 @@
+---
+layout: result-page
+title: "Moral Realism Derived"
+permalink: /results/problem/moral-realism-derived/
+result_id: result-212
+topic: philosophy
+layer: metaphysics
+result_type: foundational_math
+bridge_status: resolved
+result_kind: foundational-math
+importance_class: structural-support-result
+status_code: R
+domain_group: "ETHICS"
+summary_short: "Is morality objective? The τ-framework derives moral realism: dignity as label-independence is a structural invariant, not a convention. The universality t…"
+canonical_books: ["VII"]
+right_rail:
+  meta:
+    type: "Foundational Math"
+    layer: "Metaphysics"
+    topic: "Philosophy"
+    status: "Resolved"
+    updated: April 2026
+---
+
+## Overview
+
+Is morality objective? The τ-framework derives moral realism: dignity as label-independence is a structural invariant, not a convention. The universality theorem ensures moral facts are objective.
+
+## Result Statement
+
+Moral realism derived: dignity as label-independence is a structural invariant. Moral facts are objective. Status: Resolved.

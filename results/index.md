@@ -3,14 +3,14 @@ layout: program-doc
 title: Key Results
 permalink: /results/
 lane: results
-summary_short: "A frontier-problem-first research interface — 159 results across mathematics, physics, biology, and philosophy."
+summary_short: "A frontier-problem-first research interface — 234 results across mathematics, physics, biology, and philosophy."
 summary_cards:
 - title: What this lane does
   body: "Connects the program's internal claims to recognized problems, with explicit epistemic status and canonical grounding."
-- title: "159 results"
+- title: "234 results"
   body: "Frontier problems, foundational mathematics, and consequence/reframing results across four domains."
 - title: "Three result types"
-  body: "Frontier problem (96), foundational math (39), consequence (24)."
+  body: "Frontier problem (143), foundational math (62), consequence (29)."
 right_rail:
   related:
   - title: Framework Overview
@@ -48,10 +48,10 @@ Every result distinguishes:
 
 ## Browse by Topic
 
-- [Biology](/results/topic/biology/) — 35 results
-- [Mathematics](/results/topic/mathematics/) — 61 results
-- [Philosophy](/results/topic/philosophy/) — 25 results
-- [Physics](/results/topic/physics/) — 38 results
+- [Biology](/results/topic/biology/) — 53 results
+- [Mathematics](/results/topic/mathematics/) — 76 results
+- [Philosophy](/results/topic/philosophy/) — 45 results
+- [Physics](/results/topic/physics/) — 60 results
 
 ## Browse
 

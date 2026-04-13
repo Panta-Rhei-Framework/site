@@ -2876,5 +2876,1357 @@
       "III",
       "VII"
     ]
+  },
+  {
+    "id": "result-160",
+    "slug": "weinberg-angle-sin-w-precision",
+    "title": "Weinberg Angle sin²θ_W Precision",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "EW",
+    "summary_short": "The weak mixing angle sin²θ_W is one of the most precisely measured parameters in particle physics. The τ-framework derives it at NNLO precision from the electr",
+    "url": "/results/problem/weinberg-angle-sin-w-precision/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-161",
+    "slug": "strong-coupling-s-at-the-z-pole",
+    "title": "Strong Coupling α_s at the Z Pole",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "QCD",
+    "summary_short": "The strong coupling constant α_s(M_Z) sets the strength of QCD interactions. The τ-framework derives α_s from the strong sector's spectral structure.",
+    "url": "/results/problem/strong-coupling-s-at-the-z-pole/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-162",
+    "slug": "neutron-lifetime-puzzle",
+    "title": "Neutron Lifetime Puzzle",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "NUC",
+    "summary_short": "The neutron lifetime shows a ~8-second discrepancy between bottle and beam measurements. The τ-framework resolves this by deriving the neutron lifetime from the",
+    "url": "/results/problem/neutron-lifetime-puzzle/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-163",
+    "slug": "periodic-table-structure",
+    "title": "Periodic Table Structure",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ATOM",
+    "summary_short": "The periodic table's structure (period lengths 2,8,8,18,18,32,32) is typically explained by quantum mechanics ad hoc. The τ-framework derives the shell structur",
+    "url": "/results/problem/periodic-table-structure/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-164",
+    "slug": "hierarchy-problem",
+    "title": "Hierarchy Problem",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "FOUND",
+    "summary_short": "Why is gravity 10³² times weaker than electromagnetism? The hierarchy problem asks why the Higgs mass is so much lighter than the Planck mass. The τ-framework r",
+    "url": "/results/problem/hierarchy-problem/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-165",
+    "slug": "vacuum-catastrophe-resolution",
+    "title": "Vacuum Catastrophe Resolution",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "FOUND",
+    "summary_short": "The vacuum catastrophe — the 10¹²⁰ discrepancy between the QFT prediction and the observed cosmological constant — is often called the worst prediction in physi",
+    "url": "/results/problem/vacuum-catastrophe-resolution/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-166",
+    "slug": "fine-tuning-dissolved",
+    "title": "Fine-Tuning Dissolved",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "FOUND",
+    "summary_short": "The apparent fine-tuning of physical constants (α, masses, cosmological parameters) is dissolved: every constant is derived from ι_τ = 2/(π+e) with zero free pa",
+    "url": "/results/problem/fine-tuning-dissolved/",
+    "canonical_books": [
+      "III",
+      "IV"
+    ]
+  },
+  {
+    "id": "result-167",
+    "slug": "qcd-confinement",
+    "title": "QCD Confinement",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "QCD",
+    "summary_short": "Color confinement — why quarks are never observed in isolation — lacks a first-principles proof. The τ-framework's Yang-Mills sector provides structural tools (",
+    "url": "/results/problem/qcd-confinement/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-168",
+    "slug": "chandrasekhar-mass-limit",
+    "title": "Chandrasekhar Mass Limit",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "ASTRO",
+    "summary_short": "The Chandrasekhar mass limit (~1.4 M☉) separates white dwarfs from neutron stars. The τ-framework derives this from the degeneracy pressure sector of the fiber ",
+    "url": "/results/problem/chandrasekhar-mass-limit/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-169",
+    "slug": "deuterium-abundance",
+    "title": "Deuterium Abundance",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "BBN",
+    "summary_short": "Primordial deuterium abundance (D/H ≈ 2.5 × 10⁻⁵) is a precision test of Big Bang nucleosynthesis. The τ-framework derives it from the BBN sector template.",
+    "url": "/results/problem/deuterium-abundance/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-170",
+    "slug": "measurement-problem",
+    "title": "Measurement Problem",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "QM",
+    "summary_short": "The measurement problem — why quantum systems appear to 'collapse' upon observation — is resolved in the τ-framework: measurement is a readout functor from the ",
+    "url": "/results/problem/measurement-problem/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-171",
+    "slug": "bh-information-paradox",
+    "title": "BH Information Paradox",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "BH",
+    "summary_short": "The black hole information paradox asks whether information is lost when matter falls into a black hole. The τ-framework resolves this: information is preserved",
+    "url": "/results/problem/bh-information-paradox/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-172",
+    "slug": "equivalence-principle-from",
+    "title": "Equivalence Principle from τ",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "GRAV",
+    "summary_short": "The equivalence principle (gravitational and inertial mass are identical) is derived from the τ-framework's gravitational sector: the α-orbit structure makes gr",
+    "url": "/results/problem/equivalence-principle-from/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-173",
+    "slug": "tully-fisher-relation",
+    "title": "Tully-Fisher Relation",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "ASTRO",
+    "summary_short": "The Tully-Fisher relation (luminosity ∝ v⁴ for spiral galaxies) is an empirical scaling law. The τ-framework derives it from the boundary reading of galaxy rota",
+    "url": "/results/problem/tully-fisher-relation/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-174",
+    "slug": "bh-quasi-normal-modes",
+    "title": "BH Quasi-Normal Modes",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "BH",
+    "summary_short": "Black hole quasi-normal modes (QNMs) are the ringdown frequencies after a BH merger. The τ-framework derives QNM spectra from the spectral structure of the BH b",
+    "url": "/results/problem/bh-quasi-normal-modes/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-175",
+    "slug": "ckm-unitarity-and-cabibbo-anomaly",
+    "title": "CKM Unitarity and Cabibbo Anomaly",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "P",
+    "domain_group": "PART/EW",
+    "summary_short": "The Cabibbo Anomaly — apparent unitarity violation in the first row of the CKM matrix — has attracted attention as a possible BSM signal. The τ-framework has pa",
+    "url": "/results/problem/ckm-unitarity-and-cabibbo-anomaly/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-176",
+    "slug": "neutron-edm",
+    "title": "Neutron EDM",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "NUC",
+    "summary_short": "The neutron electric dipole moment (nEDM) is predicted to be zero or near-zero in the Standard Model. The τ-framework derives nEDM = 0 from θ_QCD = 0 (Strong CP",
+    "url": "/results/problem/neutron-edm/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-177",
+    "slug": "emergence-of-spacetime",
+    "title": "Emergence of Spacetime",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "FOUND",
+    "summary_short": "Does spacetime emerge from a more fundamental structure? The τ-framework says yes: spacetime geometry is earned from the metric structure of τ³, not postulated.",
+    "url": "/results/problem/emergence-of-spacetime/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-178",
+    "slug": "dark-energy-equation-of-state",
+    "title": "Dark Energy Equation of State",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "COSMO",
+    "summary_short": "The dark energy equation of state w(z) determines how dark energy evolves with redshift. The τ-framework derives w = −1 exactly (cosmological constant behavior)",
+    "url": "/results/problem/dark-energy-equation-of-state/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-179",
+    "slug": "primordial-gravitational-waves",
+    "title": "Primordial Gravitational Waves",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "COSMO",
+    "summary_short": "Primordial gravitational waves from inflation would produce B-mode polarization in the CMB. The τ-framework predicts tensor-to-scalar ratio r = ι_τ⁴ ≈ 0.014, te",
+    "url": "/results/problem/primordial-gravitational-waves/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-180",
+    "slug": "silk-damping-scale",
+    "title": "Silk Damping Scale",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "COSMO",
+    "summary_short": "The Silk damping scale sets the cutoff of CMB anisotropy power at small angular scales. The τ-framework derives it from the photon diffusion sector of the bound",
+    "url": "/results/problem/silk-damping-scale/",
+    "canonical_books": [
+      "V"
+    ]
+  },
+  {
+    "id": "result-181",
+    "slug": "proton-g-factor",
+    "title": "Proton g-Factor",
+    "topic": "physics",
+    "layer": "physics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "P",
+    "domain_group": "NUC",
+    "summary_short": "The proton magnetic moment (g-factor) is one of the most precisely measured nuclear constants. The τ-framework has partial structure but complete derivation is ",
+    "url": "/results/problem/proton-g-factor/",
+    "canonical_books": [
+      "IV"
+    ]
+  },
+  {
+    "id": "result-182",
+    "slug": "vitalism-vs-mechanism-dissolved",
+    "title": "Vitalism vs Mechanism Dissolved",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "FORM",
+    "summary_short": "The vitalism-mechanism debate (is life reducible to physics or does it require a vital force?) is dissolved by the τ-framework: Category τ provides a third opti",
+    "url": "/results/problem/vitalism-vs-mechanism-dissolved/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-183",
+    "slug": "computability-of-biological-processes",
+    "title": "Computability of Biological Processes",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "FORM",
+    "summary_short": "Are biological processes computable? The τ-framework proves that the τ-Distinction is computable in dim_τ(X) steps. Biological processes are structurally comput",
+    "url": "/results/problem/computability-of-biological-processes/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-184",
+    "slug": "self-reference-in-living-systems",
+    "title": "Self-Reference in Living Systems",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "FORM",
+    "summary_short": "Living systems are self-referential — they model and modify themselves. The τ-framework formalizes this as SelfDesc: the self-description operator whose closure",
+    "url": "/results/problem/self-reference-in-living-systems/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-185",
+    "slug": "circadian-clock-mechanisms",
+    "title": "Circadian Clock Mechanisms",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "CELL",
+    "summary_short": "Circadian rhythms (~24-hour cycles) are universal in biology. The τ-framework derives them as Poincaré orbits on the temporal lemniscate — the second lobe of th",
+    "url": "/results/problem/circadian-clock-mechanisms/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-186",
+    "slug": "morphogen-gradient-interpretation",
+    "title": "Morphogen Gradient Interpretation",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "CELL",
+    "summary_short": "How do cells interpret morphogen concentration gradients to determine their fate? The τ-framework models this as Hodge gradient reading + Turing eigenmodes on t",
+    "url": "/results/problem/morphogen-gradient-interpretation/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-187",
+    "slug": "cellular-senescence",
+    "title": "Cellular Senescence",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "CELL",
+    "summary_short": "Why do cells stop dividing? The τ-framework models cellular senescence as defect accumulation exceeding the repair budget — the Hayflick limit is a structural c",
+    "url": "/results/problem/cellular-senescence/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-188",
+    "slug": "organelle-evolution-via-endosymbiosis",
+    "title": "Organelle Evolution via Endosymbiosis",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "CELL",
+    "summary_short": "The endosymbiotic origin of mitochondria and chloroplasts is explained in the τ-framework as fiber-enabled regime transition: eukaryotes arise when the carrier ",
+    "url": "/results/problem/organelle-evolution-via-endosymbiosis/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-189",
+    "slug": "metabolic-network-topology",
+    "title": "Metabolic Network Topology",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "CELL",
+    "summary_short": "Why do metabolic networks have hub-and-spoke topology with the Krebs cycle at the center? The τ-framework derives this: the Krebs cycle is the canonical Loop_L ",
+    "url": "/results/problem/metabolic-network-topology/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-190",
+    "slug": "central-dogma-and-its-exceptions",
+    "title": "Central Dogma and Its Exceptions",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "GENE",
+    "summary_short": "The Central Dogma (DNA→RNA→Protein) and its exceptions (reverse transcription, prions) are modeled as morphism composition: τ¹_DNA → (τ¹×T²)_mRNA → T²_Protein, ",
+    "url": "/results/problem/central-dogma-and-its-exceptions/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-191",
+    "slug": "sexual-reproduction-cost-and-benefit",
+    "title": "Sexual Reproduction Cost and Benefit",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "GENE",
+    "summary_short": "Why does sexual reproduction persist despite its twofold cost? The τ-framework derives sex as the 'second distinction' — recombination is a functor that offsets",
+    "url": "/results/problem/sexual-reproduction-cost-and-benefit/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-192",
+    "slug": "convergent-evolution",
+    "title": "Convergent Evolution",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "EVOL",
+    "summary_short": "Why do unrelated lineages independently evolve similar solutions (eyes, wings, echolocation)? The τ-framework explains convergence as universal attractors on th",
+    "url": "/results/problem/convergent-evolution/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-193",
+    "slug": "fitness-landscape-theory",
+    "title": "Fitness Landscape Theory",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "EVOL",
+    "summary_short": "The fitness landscape (Wright, Kauffman) is formalized in the τ-framework: PPAS (Panta Rhei Adaptive Search) operates on τ-fitness landscapes where NP-hard opti",
+    "url": "/results/problem/fitness-landscape-theory/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-194",
+    "slug": "red-queen-hypothesis",
+    "title": "Red Queen Hypothesis",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "EVOL",
+    "summary_short": "Van Valen's Red Queen Hypothesis (organisms must constantly adapt just to maintain fitness) is derived in the τ-framework as two-prover PPAS — sexual recombinat",
+    "url": "/results/problem/red-queen-hypothesis/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-195",
+    "slug": "trophic-cascade-dynamics",
+    "title": "Trophic Cascade Dynamics",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ECOL",
+    "summary_short": "Trophic cascades (top-down and bottom-up effects in food webs) are modeled as inter-sector web dynamics with Poincaré circulation constraints.",
+    "url": "/results/problem/trophic-cascade-dynamics/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-196",
+    "slug": "mycorrhizal-networks",
+    "title": "Mycorrhizal Networks",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "ECOL",
+    "summary_short": "The 'Wood Wide Web' — underground mycorrhizal fungal networks connecting trees — is explained as a closure archetype: fungi serve as the inter-carrier connectio",
+    "url": "/results/problem/mycorrhizal-networks/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-197",
+    "slug": "sleep-function",
+    "title": "Sleep Function",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "NEUR",
+    "summary_short": "Why do organisms sleep? The τ-framework derives sleep as the temporal lemniscate's second lobe: the consolidation + clearance phase of the circadian Poincaré or",
+    "url": "/results/problem/sleep-function/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-198",
+    "slug": "consciousness-neural-correlates",
+    "title": "Consciousness Neural Correlates",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "NEUR",
+    "summary_short": "The neural correlates of consciousness (NCC) — what brain states are necessary and sufficient for conscious experience — are modeled in the τ-framework as consu",
+    "url": "/results/problem/consciousness-neural-correlates/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-199",
+    "slug": "far-future-cosmology-and-universal-bh",
+    "title": "Far-Future Cosmology and Universal BH",
+    "topic": "biology",
+    "layer": "life",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "COSM",
+    "summary_short": "In the far future, all matter converges toward black holes. The τ-framework's Crossing-Limit theorem predicts that the Universal BH (the asymptotic final state)",
+    "url": "/results/problem/far-future-cosmology-and-universal-bh/",
+    "canonical_books": [
+      "VI"
+    ]
+  },
+  {
+    "id": "result-200",
+    "slug": "persistence-through-change",
+    "title": "Persistence Through Change",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ONT",
+    "summary_short": "How can an entity persist through change if all its parts are replaced (Ship of Theseus)? The τ-framework resolves this: identity is NF-address persistence — th",
+    "url": "/results/problem/persistence-through-change/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-201",
+    "slug": "mereological-composition",
+    "title": "Mereological Composition",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ONT",
+    "summary_short": "The Special Composition Question (when do parts compose a whole?) is dissolved: parts compose if and only if their colimit exists in the admissible category. Co",
+    "url": "/results/problem/mereological-composition/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-202",
+    "slug": "ontological-dependence",
+    "title": "Ontological Dependence",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ONT",
+    "summary_short": "Ontological dependence (what grounds what) is formalized as factorization in the categorical structure. Causation is constrained composition; dependence is morp",
+    "url": "/results/problem/ontological-dependence/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-203",
+    "slug": "intentionality",
+    "title": "Intentionality",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PHEN",
+    "summary_short": "Intentionality — the mind's 'aboutness' or directedness toward objects — is formalized as an internal morphism with directional structure in the mind topos.",
+    "url": "/results/problem/intentionality/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-204",
+    "slug": "embodied-cognition",
+    "title": "Embodied Cognition",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "PHEN",
+    "summary_short": "Embodied cognition claims that the body is not merely a vehicle for the mind but constitutive of cognition. The τ-framework agrees: the body is the carrier's se",
+    "url": "/results/problem/embodied-cognition/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-205",
+    "slug": "intersubjectivity",
+    "title": "Intersubjectivity",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "PHEN",
+    "summary_short": "How do separate minds share a common world? The τ-framework derives intersubjectivity from perspectival gluing: objectivity is the global section over a multi-p",
+    "url": "/results/problem/intersubjectivity/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-206",
+    "slug": "the-sublime",
+    "title": "The Sublime",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "AEST",
+    "summary_short": "Kant's sublime — the experience of overwhelming magnitude or power — is formalized as a comprehension boundary: the sublime occurs when the perceiver's cognitiv",
+    "url": "/results/problem/the-sublime/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-207",
+    "slug": "musical-universals",
+    "title": "Musical Universals",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "AEST",
+    "summary_short": "Why are certain musical intervals (octave, fifth, fourth) universal across cultures? The τ-framework derives consonance as ratio invariance: consonant intervals",
+    "url": "/results/problem/musical-universals/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-208",
+    "slug": "gavagai-and-indeterminacy-of-translation",
+    "title": "Gavagai and Indeterminacy of Translation",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "LANG",
+    "summary_short": "Quine's 'gavagai' problem — radical translation is indeterminate — is resolved: kernel invariants translate universally. The readout functor ensures that struct",
+    "url": "/results/problem/gavagai-and-indeterminacy-of-translation/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-209",
+    "slug": "syntax-semantics-dissolution",
+    "title": "Syntax-Semantics Dissolution",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "LANG",
+    "summary_short": "The syntax-semantics gap (how form carries meaning) is dissolved: inside the τ-topos, syntax and semantics are aspects of the same structure. Meaning IS form un",
+    "url": "/results/problem/syntax-semantics-dissolution/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-210",
+    "slug": "ai-language-understanding",
+    "title": "AI Language Understanding",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "LANG",
+    "summary_short": "Do LLMs understand language? The τ-framework classifies LLMs as 'para-minds': they perform subsymbolic processing without an E₃ self-model. They process languag",
+    "url": "/results/problem/ai-language-understanding/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-211",
+    "slug": "trolley-problem-resolution",
+    "title": "Trolley Problem Resolution",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "ETHICS",
+    "summary_short": "The Trolley Problem (switch vs footbridge) is resolved by proper typing and four ethical tests. Switch and footbridge are categorically distinct because the mor",
+    "url": "/results/problem/trolley-problem-resolution/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-212",
+    "slug": "moral-realism-derived",
+    "title": "Moral Realism Derived",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ETHICS",
+    "summary_short": "Is morality objective? The τ-framework derives moral realism: dignity as label-independence is a structural invariant, not a convention. The universality theore",
+    "url": "/results/problem/moral-realism-derived/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-213",
+    "slug": "animal-rights-and-dignity",
+    "title": "Animal Rights and Dignity",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "ETHICS",
+    "summary_short": "Do animals have moral standing? The τ-framework extends dignity to all carriers with the τ-Distinction. Since animals have boundaries, metabolism, and identity ",
+    "url": "/results/problem/animal-rights-and-dignity/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-214",
+    "slug": "is-ought-gap-bridged",
+    "title": "Is-Ought Gap Bridged",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "ETHICS",
+    "summary_short": "Hume's is-ought gap (no 'ought' from 'is') is bridged: the Categorical Imperative is a naturality constraint — universalizability IS the gluing condition. The m",
+    "url": "/results/problem/is-ought-gap-bridged/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-215",
+    "slug": "emotions-as-register-transitions",
+    "title": "Emotions as Register Transitions",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "MIND",
+    "summary_short": "What are emotions? The τ-framework derives six canonical emotions from register transitions in the mind topos. Affect is subsymbolic pressure; emotions are type",
+    "url": "/results/problem/emotions-as-register-transitions/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-216",
+    "slug": "binding-problem-dissolved",
+    "title": "Binding Problem Dissolved",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "high-impact-frontier-problem",
+    "status_code": "R",
+    "domain_group": "MIND",
+    "summary_short": "The binding problem — how unified conscious experience arises from distributed neural processing — is dissolved: binding is the gluing of local sections in the ",
+    "url": "/results/problem/binding-problem-dissolved/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-217",
+    "slug": "extended-mind",
+    "title": "Extended Mind",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "domain-level-open-problem",
+    "status_code": "R",
+    "domain_group": "MIND",
+    "summary_short": "Clark and Chalmers's Extended Mind thesis (cognitive processes can extend beyond the skull) is validated: the carrier domain extends to external substrates sati",
+    "url": "/results/problem/extended-mind/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-218",
+    "slug": "narrative-identity",
+    "title": "Narrative Identity",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "MIND",
+    "summary_short": "Ricoeur's narrative identity — the self as a story told about oneself — is formalized: identity persists when a coherent natural transformation exists between s",
+    "url": "/results/problem/narrative-identity/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-219",
+    "slug": "why-something-rather-than-nothing",
+    "title": "Why Something Rather Than Nothing",
+    "topic": "philosophy",
+    "layer": "metaphysics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "BOUND",
+    "summary_short": "Leibniz's ultimate question — why is there something rather than nothing? — is precisely located in the τ-framework: the ω-germ question is diagrammatically una",
+    "url": "/results/problem/why-something-rather-than-nothing/",
+    "canonical_books": [
+      "VII"
+    ]
+  },
+  {
+    "id": "result-220",
+    "slug": "fundamental-theorem-of-arithmetic",
+    "title": "Fundamental Theorem of Arithmetic",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ARITH",
+    "summary_short": "Every object in Category τ has a unique prime factorization. This is not imported from classical number theory — it is earned from the kernel's orbit structure ",
+    "url": "/results/problem/fundamental-theorem-of-arithmetic/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-221",
+    "slug": "cantor-diagonal-inapplicability",
+    "title": "Cantor Diagonal Inapplicability",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "ARITH",
+    "summary_short": "Cantor's diagonal argument — the basis for the hierarchy of infinities — does not apply inside Category τ. The object closure axiom (K6) and the bounded witness",
+    "url": "/results/problem/cantor-diagonal-inapplicability/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-222",
+    "slug": "unique-infinity",
+    "title": "Unique Infinity",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "consequence",
+    "bridge_status": "resolved",
+    "result_kind": "consequence",
+    "importance_class": "consequence-reframing",
+    "status_code": "R",
+    "domain_group": "ARITH",
+    "summary_short": "Category τ has exactly one infinity: the countable infinity ℵ₀ of the four orbit rays. There is no ℵ₁, no continuum, no uncountable cardinals. This contradicts ",
+    "url": "/results/problem/unique-infinity/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-223",
+    "slug": "stone-duality",
+    "title": "Stone Duality",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "TOPO",
+    "summary_short": "Stone duality (between Boolean algebras and Stone spaces) is earned inside Category τ from the profinite completion of the orbit structure. The Stone space of τ",
+    "url": "/results/problem/stone-duality/",
+    "canonical_books": [
+      "II"
+    ]
+  },
+  {
+    "id": "result-224",
+    "slug": "fibration-structure-f-t",
+    "title": "Fibration Structure τ³ = τ¹ ×_f T²",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "TOPO",
+    "summary_short": "The fibered product τ³ = τ¹ ×_f T² is the central geometric object of the framework. The base τ¹ carries macroscopic/cosmological structure; the fiber T² carrie",
+    "url": "/results/problem/fibration-structure-f-t/",
+    "canonical_books": [
+      "II"
+    ]
+  },
+  {
+    "id": "result-225",
+    "slug": "tarski-axioms-for-geometry",
+    "title": "Tarski Axioms for Geometry",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "GEO",
+    "summary_short": "Tarski's axioms for Euclidean geometry (betweenness + congruence) are earned inside Category τ from the ultrametric structure of the orbit space. Geometry is no",
+    "url": "/results/problem/tarski-axioms-for-geometry/",
+    "canonical_books": [
+      "II"
+    ]
+  },
+  {
+    "id": "result-226",
+    "slug": "yoneda-lemma",
+    "title": "Yoneda Lemma",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ENRICH",
+    "summary_short": "The Yoneda Lemma — the most fundamental result in category theory — is earned inside Category τ. Every object is determined by its relationships to all other ob",
+    "url": "/results/problem/yoneda-lemma/",
+    "canonical_books": [
+      "I",
+      "II"
+    ]
+  },
+  {
+    "id": "result-227",
+    "slug": "earned-topos",
+    "title": "Earned Topos",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ENRICH",
+    "summary_short": "Category τ is a Grothendieck topos — but unlike classical topos theory, this is not assumed. The subobject classifier Ω_τ and the Cartesian closed structure are",
+    "url": "/results/problem/earned-topos/",
+    "canonical_books": [
+      "I"
+    ]
+  },
+  {
+    "id": "result-228",
+    "slug": "poincar-conjecture-reinterpretation",
+    "title": "Poincaré Conjecture Reinterpretation",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "resolved",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "R",
+    "domain_group": "MILL",
+    "summary_short": "Perelman proved the Poincaré Conjecture in 2003. The τ-framework provides a reinterpretation: the result is a special case of the topological rigidity of τ³ — e",
+    "url": "/results/problem/poincar-conjecture-reinterpretation/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-229",
+    "slug": "hodge-conjecture-approach",
+    "title": "Hodge Conjecture Approach",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "MILL",
+    "summary_short": "The Hodge Conjecture asks whether certain cohomology classes are representable by algebraic cycles. The τ-framework's ABCD grading provides a structural approac",
+    "url": "/results/problem/hodge-conjecture-approach/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-230",
+    "slug": "bsd-conjecture-approach",
+    "title": "BSD Conjecture Approach",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "MILL",
+    "summary_short": "The Birch and Swinnerton-Dyer Conjecture relates the rank of an elliptic curve to the order of vanishing of its L-function. The τ-framework's spectral approach ",
+    "url": "/results/problem/bsd-conjecture-approach/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-231",
+    "slug": "langlands-program-approach",
+    "title": "Langlands Program Approach",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "MILL",
+    "summary_short": "The Langlands Program seeks deep connections between number theory and representation theory. The τ-framework's spectral correspondence and enrichment functor p",
+    "url": "/results/problem/langlands-program-approach/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-232",
+    "slug": "grand-grh-approach",
+    "title": "Grand GRH Approach",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "frontier_problem",
+    "bridge_status": "partial",
+    "result_kind": "frontier-problem",
+    "importance_class": "core-foundational-problem",
+    "status_code": "P",
+    "domain_group": "MILL",
+    "summary_short": "The Grand Riemann Hypothesis extends RH to all Dirichlet L-functions. The τ-framework's spectral purity approach extends to the full L-function family but the p",
+    "url": "/results/problem/grand-grh-approach/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-233",
+    "slug": "tower-machine-architecture",
+    "title": "Tower Machine Architecture",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "COMP",
+    "summary_short": "The Tower Machine is the τ-framework's native model of computation — a hierarchical machine that computes τ-admissible functions. It provides the structural bas",
+    "url": "/results/problem/tower-machine-architecture/",
+    "canonical_books": [
+      "III"
+    ]
+  },
+  {
+    "id": "result-234",
+    "slug": "number-tower-n-z-q-r-c",
+    "title": "Number Tower N → Z → Q → R → C",
+    "topic": "mathematics",
+    "layer": "mathematics",
+    "result_type": "foundational_math",
+    "bridge_status": "resolved",
+    "result_kind": "foundational-math",
+    "importance_class": "structural-support-result",
+    "status_code": "R",
+    "domain_group": "ALGT",
+    "summary_short": "The classical number tower (naturals → integers → rationals → reals → complex) is earned step by step inside Category τ. Each extension is forced by the kernel ",
+    "url": "/results/problem/number-tower-n-z-q-r-c/",
+    "canonical_books": [
+      "I"
+    ]
   }
 ]
