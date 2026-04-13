@@ -45,8 +45,8 @@ Each operation is earned by structural recursion
 from the previous level.
 The first critical result is the
 *tetration injectivity* proposition:
-for fixed base $\underlinea ≥ \underline2$,
-the tetration map $\underlinec ↦ {}^{\underlinec}\underlinea$
+for fixed base $a ≥ 2$,
+the tetration map $c ↦ {}^{c}a$
 is injective.
 This injectivity is essential for Part V (Hyperfactorization),
 where tetration provides the outermost coordinate

@@ -13,8 +13,8 @@
     "isbn_hardcover_or_primary": null,
     "publication_date": "2026-04-08",
     "creators": [
-      "Fuchs, Anna-Sophie",
-      "Fuchs, Thorsten"
+      "Fuchs, Thorsten",
+      "Fuchs, Anna-Sophie"
     ],
     "doi_strategy_recommendation": "Use the version DOI on the book page and citation page as the canonical DOI for the current 2nd-edition manuscript record. Optionally surface the concept DOI as a smaller 'all versions / latest' link where available.",
     "site_integration_targets": [

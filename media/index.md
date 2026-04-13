@@ -51,7 +51,7 @@ The program's canonical release (April 2026) includes:
 
 ### For general-audience journalists
 1. [About the Research]({{ '/research-program/about/' | relative_url }})
-2. [Key Results overview]({{ '/results/' | relative_url }}) — 85 results with typed status
+2. [Key Results overview]({{ '/results/' | relative_url }}) — {{ site.data.results.results | size }} results with typed status
 3. [Why So Many Results Are Possible]({{ '/results/why-so-many-results/' | relative_url }})
 
 ### For science/mathematics journalists
@@ -67,7 +67,7 @@ The program's canonical release (April 2026) includes:
 ## Downloadable Descriptions
 
 ### Short description (1 paragraph)
-The Panta Rhei Research Program develops Category τ, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, 85 key results with typed epistemic status, and a public research website with 4,547 registry objects. All claims carry explicit scope labels and verification routes.
+{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}The Panta Rhei Research Program develops Category τ, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {{ result_count }} key results with typed epistemic status, and a public research website with {{ registry_count }} registry objects. All claims carry explicit scope labels and verification routes.
 
 ### Author bios
 

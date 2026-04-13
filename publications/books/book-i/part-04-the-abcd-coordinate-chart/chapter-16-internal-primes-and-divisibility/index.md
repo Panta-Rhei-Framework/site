@@ -52,5 +52,5 @@ This chapter defines divisibility,
 identifies the internal primes,
 and proves the Fundamental Theorem of Arithmetic
 on $τ$-Idx:
-every element $\underlinen ≥ \underline2$
+every element $n ≥ 2$
 has a unique factorization into primes.

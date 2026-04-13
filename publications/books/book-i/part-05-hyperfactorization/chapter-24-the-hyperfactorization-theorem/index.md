@@ -50,7 +50,7 @@ and strict remainder descent
 (Lemma [lem:remainder-descent],
 Chapter [ch:remainder-descent]).
 The theorem states that every
-$X ∈ τ-Idx$ with $X ≥ \underline2$
+$X ∈ τ-Idx$ with $X ≥ 2$
 has a **unique** ABCD encoding.
 The consequence is immediate and profound:
 the ABCD chart $Φ$ is injective,

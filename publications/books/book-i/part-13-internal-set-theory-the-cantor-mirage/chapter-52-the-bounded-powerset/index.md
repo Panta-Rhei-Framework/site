@@ -44,8 +44,8 @@ and for infinite $X$ it is uncountable by Cantor's theorem.
 In $τ$-set theory, the powerset is defined
 *arithmetically* as the set of divisors,
 and it is always *finite*.
-This chapter introduces $P_τ(\underlinex)$,
-the $τ$-powerset of $\underlinex ∈ τ$-Idx,
+This chapter introduces $P_τ(x)$,
+the $τ$-powerset of $x ∈ τ$-Idx,
 and proves its finiteness via the divisor function.
 We show that the Russell paradox cannot arise,
 prove the well-foundedness of strict membership,

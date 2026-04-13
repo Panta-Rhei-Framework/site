@@ -43,15 +43,15 @@ a unique ABCD address.
 The $A$-coordinate picks out a prime —
 the dominant prime of the object.
 But primes are not mere labels.
-Each prime $\underlinep$ appears as the $A$-coordinate
+Each prime $p$ appears as the $A$-coordinate
 of infinitely many objects,
 and for each such object,
-the $B$- and $C$-coordinates record how $\underlinep$
+the $B$- and $C$-coordinates record how $p$
 is stacked (exponent vs. tetration height).
 Does this stacking pattern reveal global structure
-about $\underlinep$ itself?
+about $p$ itself?
 This is the *spectral question*:
 when we look at the full population of objects
-for which $\underlinep$ is dominant,
+for which $p$ is dominant,
 does the $B$/$C$ interaction
 show a systematic asymmetry?

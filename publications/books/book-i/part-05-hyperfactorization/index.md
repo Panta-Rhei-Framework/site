@@ -45,17 +45,17 @@ the first of the two hinge theorems
 that anchor the entire Panta Rhei series.
 The theorem states that the ABCD encoding is
 *unique*: every $X ∈ τ-Idx$
-with $X ≥ \underline2$ has exactly one
-decomposition $X = ((\underlineA ↑↑
-\underlineC)^{\underlineB}) · \underlineD$
+with $X ≥ 2$ has exactly one
+decomposition $X = ((A ↑↑
+C)^{B}) · D$
 satisfying the greedy-peel constraints.
 
 The proof rests on three critical lemmas:
 enumerate
  \item **Tetration injectivity**
  (already proved in Part III, Chapter [ch:exp-tetration]):
- $\underlinea ↑↑ c_1
- = \underlinea ↑↑ c_2$
+ $a ↑↑ c_1
+ = a ↑↑ c_2$
  implies $c_1 = c_2$.
  \item **No-tie determinism**
  (Chapter [ch:no-tie]):
