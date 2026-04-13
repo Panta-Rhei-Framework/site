@@ -337,3 +337,73 @@
     font-style: italic;
   }
 }
+
+// ================================================================
+// Research Notes list items
+// ================================================================
+
+.note-list-date {
+  font-family: $font-ui;
+  font-size: 0.78rem;
+  color: $text-muted;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 4px;
+}
+
+.note-list-title {
+  font-family: $font-display;
+  font-size: 1.1rem;
+  margin-top: 0;
+  margin-bottom: 6px;
+
+  a {
+    color: $text;
+    text-decoration: none;
+    &:hover { color: $accent; }
+  }
+}
+
+.note-list-summary {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: $text-muted;
+  margin: 0;
+}
+
+.note-subscribe-card {
+  border-top: 2px solid rgba($accent, 0.12);
+}
+
+// ================================================================
+// Changelog list items
+// ================================================================
+
+.changelog-date {
+  font-family: $font-ui;
+  font-size: 0.78rem;
+  color: $text-muted;
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+  margin-bottom: 4px;
+}
+
+.changelog-title {
+  font-family: $font-display;
+  font-size: 1rem;
+  margin-top: 0;
+  margin-bottom: 6px;
+
+  a {
+    color: $text;
+    text-decoration: none;
+    &:hover { color: $accent; }
+  }
+}
+
+.changelog-summary {
+  font-size: 0.86rem;
+  line-height: 1.6;
+  color: $text-muted;
+  margin: 0;
+}

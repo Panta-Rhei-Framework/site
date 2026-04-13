@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">Changelog &middot; {{ page.date | date: "%B %Y" }}</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+  <div class="chip-row" style="margin-top: 10px;">
+    <span class="chip">{{ page.date | date: "%d %B %Y" }}</span>
+    {% if page.change_type %}
+    <span class="chip">{{ page.change_type | replace: '-', ' ' | capitalize }}</span>
+    {% endif %}
+    {% if page.affected_lanes %}
+    {% for lane in page.affected_lanes %}
+    <span class="chip">{{ lane | capitalize }}</span>
+    {% endfor %}
+    {% endif %}
+  </div>
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>

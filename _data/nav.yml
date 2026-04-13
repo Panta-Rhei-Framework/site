@@ -180,6 +180,8 @@ utility_nav:
     external: true
   - title: "Contact"
     url: "/engage/media-and-contact/"
+  - title: "Changelog"
+    url: "/changelog/"
   - title: "Impressum"
     url: "/impressum/"
   - title: "Datenschutz"
@@ -210,6 +212,8 @@ bibliography_nav:
 engage_nav:
   - title: "Overview"
     url: "/engage/"
+  - title: "Research Notes"
+    url: "/research-notes/"
   - title: "Follow the Research"
     url: "/engage/follow-the-research/"
   - title: "Support the Research"

@@ -1,0 +1,38 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">utility</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+</div>
+
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
+
+{% assign entries = site.changelog | sort: "date" | reverse %}
+{% for entry in entries %}
+<div class="content-card changelog-list-item">
+  <div class="changelog-date">{{ entry.date | date: "%d %B %Y" }}</div>
+  <h2 class="changelog-title"><a href="{{ entry.url | relative_url }}">{{ entry.title }}</a></h2>
+  {% if entry.summary_short %}
+  <p class="changelog-summary">{{ entry.summary_short }}</p>
+  {% endif %}
+  <div class="chip-row" style="margin-top: 6px;">
+    {% if entry.change_type %}
+    <span class="chip" style="height: 22px; font-size: 0.72rem;">{{ entry.change_type | replace: '-', ' ' | capitalize }}</span>
+    {% endif %}
+    {% if entry.affected_lanes %}
+    {% for lane in entry.affected_lanes %}
+    <span class="chip" style="height: 22px; font-size: 0.72rem;">{{ lane | capitalize }}</span>
+    {% endfor %}
+    {% endif %}
+  </div>
+</div>
+{% endfor %}
