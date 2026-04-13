@@ -1,0 +1,43 @@
+{% comment %}
+  Buttondown subscribe form — reusable include.
+  Parameters (all optional, defaults from site.buttondown config):
+    include.heading     — override heading text
+    include.body        — override body text
+    include.tag         — additional tag for source tracking (e.g. "engage", "research-notes-root", "note-cta")
+    include.compact     — if "true", render a smaller inline variant
+{% endcomment %}
+
+{% assign bd = site.buttondown %}
+{% assign heading = include.heading | default: bd.heading %}
+{% assign body = include.body | default: bd.body %}
+{% assign tag = include.tag | default: "" %}
+
+{% if include.compact == "true" %}
+<div class="bd-subscribe bd-subscribe-compact">
+  <div class="bd-heading">{{ heading }}</div>
+  <form action="{{ bd.form_action }}" method="post" target="_blank" class="bd-form bd-form-inline">
+    <input type="hidden" name="embed" value="1">
+    <input type="hidden" name="tag" value="{{ bd.default_tag }}">
+    {% if tag != "" %}<input type="hidden" name="tag" value="{{ tag }}">{% endif %}
+    <input type="email" name="email" placeholder="your@email.com" required class="bd-input">
+    <button type="submit" class="btn-secondary bd-button">{{ bd.button_label }}</button>
+  </form>
+  <div class="bd-privacy">{{ bd.privacy_note }}</div>
+</div>
+
+{% else %}
+<div class="bd-subscribe">
+  <h2 class="bd-heading">{{ heading }}</h2>
+  <p class="bd-body">{{ body }}</p>
+  <form action="{{ bd.form_action }}" method="post" target="_blank" class="bd-form">
+    <input type="hidden" name="embed" value="1">
+    <input type="hidden" name="tag" value="{{ bd.default_tag }}">
+    {% if tag != "" %}<input type="hidden" name="tag" value="{{ tag }}">{% endif %}
+    <div class="bd-field-row">
+      <input type="email" name="email" placeholder="your@email.com" required class="bd-input">
+      <button type="submit" class="btn-secondary bd-button">{{ bd.button_label }}</button>
+    </div>
+  </form>
+  <div class="bd-privacy">{{ bd.privacy_note }} See our <a href="{{ '/datenschutz/' | relative_url }}">privacy notice</a>.</div>
+</div>
+{% endif %}

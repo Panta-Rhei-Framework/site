@@ -407,3 +407,111 @@
   color: $text-muted;
   margin: 0;
 }
+
+// ================================================================
+// Buttondown Subscribe Form
+// ================================================================
+
+.bd-subscribe {
+  border-top: 2px solid rgba($accent, 0.12);
+  padding-top: 4px;
+}
+
+.bd-heading {
+  font-family: $font-display;
+  font-size: 1.1rem;
+  margin-bottom: 8px;
+}
+
+.bd-body {
+  font-size: 0.88rem;
+  line-height: 1.6;
+  color: $text-muted;
+  margin-bottom: 14px;
+}
+
+.bd-form {
+  margin-bottom: 10px;
+}
+
+.bd-field-row {
+  display: flex;
+  gap: 10px;
+  align-items: center;
+  flex-wrap: wrap;
+}
+
+.bd-input {
+  flex: 1;
+  min-width: 200px;
+  height: 38px;
+  padding: 0 14px;
+  font-family: $font-ui;
+  font-size: 0.88rem;
+  color: $text;
+  background: rgba(255, 255, 255, 0.58);
+  border: 1px solid rgba(24, 32, 39, 0.14);
+  border-radius: $radius-sm;
+  outline: none;
+  transition: border-color $transition;
+
+  &:focus {
+    border-color: $accent;
+  }
+
+  &::placeholder {
+    color: rgba($text-muted, 0.6);
+  }
+}
+
+.bd-button {
+  white-space: nowrap;
+  height: 38px;
+}
+
+.bd-privacy {
+  font-family: $font-ui;
+  font-size: 0.76rem;
+  line-height: 1.5;
+  color: $text-muted;
+
+  a {
+    color: $accent;
+    text-decoration: none;
+    &:hover { text-decoration: underline; }
+  }
+}
+
+// Compact inline variant
+.bd-subscribe-compact {
+  border-top: none;
+  padding-top: 0;
+
+  .bd-heading {
+    font-size: 0.92rem;
+    margin-bottom: 6px;
+  }
+
+  .bd-form-inline {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+    flex-wrap: wrap;
+    margin-bottom: 6px;
+  }
+
+  .bd-input {
+    min-width: 180px;
+    height: 34px;
+    font-size: 0.84rem;
+  }
+
+  .bd-button {
+    height: 34px;
+    font-size: 0.82rem;
+  }
+
+  .bd-privacy {
+    font-size: 0.72rem;
+  }
+}

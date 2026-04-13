@@ -5,6 +5,16 @@ baseurl: ""
 
 permalink: pretty
 
+# Buttondown newsletter integration
+buttondown:
+  username: "pantarhei"
+  form_action: "https://buttondown.com/api/emails/embed-subscribe/pantarhei"
+  default_tag: "research-notes"
+  heading: "Receive Research Notes"
+  body: "Get new Panta Rhei Research Notes by email. Notes are published irregularly and only when there is something substantial to say."
+  privacy_note: "Subscription is handled by Buttondown with confirmation by email (double opt-in). You can unsubscribe at any time."
+  button_label: "Subscribe"
+
 collections:
   framework:
     output: true

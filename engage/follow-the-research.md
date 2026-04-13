@@ -3,18 +3,18 @@ layout: program-doc
 title: "Follow the Research"
 lane: engage
 permalink: /engage/follow-the-research/
-summary_short: "Receive research updates and companion publication news as the program develops."
+summary_short: "Receive Research Notes and program updates by email as the research develops."
 summary_cards:
   - title: "What you'll receive"
-    body: "Research updates, new verification surfaces, companion paper releases, and seminar announcements. No marketing, no frequency pressure."
+    body: "Research Notes — substantial outward-facing writing published irregularly and only when there is something real to say."
   - title: "Privacy"
-    body: "Your email is used only for research program updates. No sharing, no tracking, no dark patterns. Unsubscribe anytime."
+    body: "Subscription handled by Buttondown with double opt-in. No sharing, no tracking, no dark patterns. Unsubscribe anytime."
 right_rail:
   related:
+    - title: "Research Notes"
+      url: /research-notes/
     - title: "Engage Overview"
       url: /engage/
-    - title: "Publications"
-      url: /publications/
     - title: "About the Research"
       url: /research-program/about/
   meta:
@@ -23,28 +23,27 @@ right_rail:
     updated: "April 2026"
 ---
 
-## Stay Connected to the Research
+## Receive Research Notes by Email
 
-The Panta Rhei Research Program publishes updates as new verification surfaces, companion papers, seminar materials, and research notes become available.
+The Panta Rhei Research Program publishes **Research Notes** — substantial responses to new scientific developments, framework-based reinterpretations of recent results, focused explanatory essays, and bridge texts that may later become white papers.
 
-Following the research means receiving these updates — nothing more. It does not imply endorsement of the framework. It means you value the attempt and want to stay informed.
+Notes are published irregularly and only when there is something substantial to say. No marketing, no frequency pressure, no newsletter-speak.
 
-## What to Expect
+<div class="content-card" style="margin: 24px 0;">
+{% include buttondown-subscribe.html tag="engage" %}
+</div>
 
-- **Research updates**: New verification surfaces, formalization milestones, registry expansions
-- **Publication news**: New companion papers, guided tours, white papers
-- **Seminar announcements**: When reading groups or guided sessions are offered
+## What to expect
+
+- **Research Notes**: Dated, article-like texts published when there is something worth saying
+- **Program updates**: New verification surfaces, formalization milestones, publication releases
 - **No marketing**: This is a research program, not a product. Updates are substantive, not promotional
-- **Low frequency**: Updates arrive when there is something worth reporting, not on a schedule
+- **Low frequency**: Notes arrive when there is something real to report, not on a schedule
 
-## How to Follow
-
-**Email**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — write "Follow" in the subject line to be added to the research update list.
+## Other ways to follow
 
 **GitHub**: Watch the [TauLib repository](https://github.com/Panta-Rhei-Framework/taulib) for formalization updates.
 
+**Research Notes**: Browse all published notes at [/research-notes/]({{ '/research-notes/' | relative_url }}).
+
 **Website**: Bookmark this Atlas — new content lanes and verification surfaces are added as they are ready.
-
----
-
-*Your email is used only for research program updates. No sharing, no tracking, no dark patterns.*
