@@ -201,6 +201,34 @@
   }
 }
 
+// Homepage sections
+.homepage-hero {
+  h1 { font-size: 1.6rem; }
+  .hero-subtitle {
+    font-family: $font-display;
+    font-size: 1.1rem;
+    color: $accent;
+    margin-bottom: 8px;
+  }
+}
+
+.homepage-section {
+  h2 {
+    font-family: $font-display;
+    font-size: 1.2rem;
+    margin-top: 0;
+    margin-bottom: 12px;
+  }
+
+  p, li {
+    font-size: 0.9rem;
+    line-height: 1.65;
+  }
+
+  .btn-group { margin-top: 16px; }
+  > .btn-secondary { margin-top: 16px; display: inline-flex; }
+}
+
 // TauLib doc-gen4 content
 .taulib-doc-content {
   .decl { margin-bottom: 16px; }
