@@ -213,14 +213,13 @@
 }
 
 .homepage-section {
+  position: relative;
+
   h2 {
     font-family: $font-display;
     font-size: 1.2rem;
     margin-top: 0;
     margin-bottom: 12px;
-    display: flex;
-    align-items: center;
-    gap: 10px;
   }
 
   p, li {
@@ -228,16 +227,51 @@
     line-height: 1.65;
   }
 
-  .btn-group { margin-top: 16px; }
-  > .btn-secondary { margin-top: 16px; display: inline-flex; }
+  ul {
+    padding-left: 20px;
+    margin: 10px 0;
+  }
+
+  .section-ctas {
+    margin-top: 18px;
+    padding-top: 14px;
+    border-top: 1px solid $divider;
+  }
 }
 
-.section-icon {
-  width: 22px;
-  height: 22px;
-  flex-shrink: 0;
+// Icon positioned at top-right corner of card
+.section-icon-corner {
+  position: absolute;
+  top: 20px;
+  right: 20px;
+  width: 28px;
+  height: 28px;
   color: $accent;
-  opacity: 0.6;
+  opacity: 0.25;
+  pointer-events: none;
+}
+
+// Ghost button — very subtle secondary CTA
+.btn-ghost {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  height: 36px;
+  padding: 0 14px;
+  font-family: $font-ui;
+  font-size: 0.82rem;
+  font-weight: 500;
+  color: $text-muted;
+  text-decoration: none;
+  border-radius: $radius-pill;
+  border: 1px solid transparent;
+  transition: all $transition;
+
+  &:hover {
+    color: $accent;
+    border-color: rgba($accent, 0.18);
+    background: rgba($accent, 0.04);
+  }
 }
 
 // TauLib doc-gen4 content
