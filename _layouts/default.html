@@ -21,6 +21,59 @@
 
   {% include footer.html %}
 
+  <!-- Search overlay -->
+  <div id="search-overlay" class="search-overlay" hidden>
+    <div class="search-overlay-backdrop" onclick="closeSearch()"></div>
+    <div class="search-overlay-panel glass">
+      <div class="search-overlay-header">
+        <span class="search-overlay-title">Search the Atlas</span>
+        <button class="search-overlay-close" onclick="closeSearch()" aria-label="Close search">&times;</button>
+      </div>
+      <div id="search-container"></div>
+    </div>
+  </div>
+
+  <script type="module">
+    // Pagefind search initialization
+    async function initSearch() {
+      try {
+        const pagefindPath = "{{ '/pagefind/pagefind-ui.js' | relative_url }}";
+        const { PagefindUI } = await import(pagefindPath);
+        new PagefindUI({
+          element: "#search-container",
+          showSubResults: true,
+          showImages: false,
+          resetStyles: false,
+        });
+      } catch (e) {
+        document.getElementById('search-container').innerHTML =
+          '<p style="padding:16px;color:#5b6772;font-size:0.88rem;">Search index not yet available. Run <code>npx pagefind --site _site</code> after building.</p>';
+      }
+    }
+    initSearch();
+
+    window.openSearch = function() {
+      document.getElementById('search-overlay').hidden = false;
+      document.body.style.overflow = 'hidden';
+      setTimeout(() => {
+        const input = document.querySelector('#search-container input');
+        if (input) input.focus();
+      }, 100);
+    };
+    window.closeSearch = function() {
+      document.getElementById('search-overlay').hidden = true;
+      document.body.style.overflow = '';
+    };
+
+    document.addEventListener('keydown', function(e) {
+      if (e.key === 'Escape') closeSearch();
+      if ((e.key === '/' || (e.key === 'k' && (e.metaKey || e.ctrlKey))) && !e.target.matches('input, textarea')) {
+        e.preventDefault();
+        openSearch();
+      }
+    });
+  </script>
+
   <script>
     document.addEventListener('DOMContentLoaded', function() {
       // Auto-generate TOC from H2 elements
