@@ -1,6 +1,7 @@
 ---
 layout: program-doc
 title: "Cite"
+lane: utility
 permalink: /cite/
 summary_short: "How to cite the Panta Rhei Research Program and the seven-book monograph series."
 summary_cards:

@@ -2,7 +2,7 @@
 title: "The Theory of Spinors"
 bib_key: "Cartan1966"
 entry_type: "book"
-authors: "\'Elie Cartan"
+authors: "Elie Cartan"
 year: "1966"
 journal_or_booktitle: ""
 publisher: "MIT Press"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "\'Elie Cartan. (1966). *The Theory of Spinors*. MIT Press."
+formatted_citation: "Elie Cartan. (1966). *The Theory of Spinors*. MIT Press."
 right_rail:
   toc: false
   related:

@@ -4,7 +4,7 @@ bib_key: "DeligneWeil"
 entry_type: "article"
 authors: "P. Deligne"
 year: "1974"
-journal_or_booktitle: "Publications Mathematiques de l'IH\'ES"
+journal_or_booktitle: "Publications Mathematiques de l'IHES"
 publisher: ""
 volume: "43"
 number: ""
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "P. Deligne. (1974). *La conjecture de Weil. I*. Publications Mathematiques de l'IH\'ES. **43**. pp. 273–307."
+formatted_citation: "P. Deligne. (1974). *La conjecture de Weil. I*. Publications Mathematiques de l'IHES. **43**. pp. 273–307."
 right_rail:
   toc: false
   related:

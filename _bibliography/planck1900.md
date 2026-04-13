@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber das Gesetz der Energieverteilung im Normalspectrum"
+title: "Uber das Gesetz der Energieverteilung im Normalspectrum"
 bib_key: "Planck1900"
 entry_type: "article"
 authors: "Max Planck"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Max Planck. (1901). *\\"Uber das Gesetz der Energieverteilung im Normalspectrum*. Annalen der Physik. **309**(3). pp. 553–563."
+formatted_citation: "Max Planck. (1901). *Uber das Gesetz der Energieverteilung im Normalspectrum*. Annalen der Physik. **309**(3). pp. 553–563."
 right_rail:
   toc: false
   related:

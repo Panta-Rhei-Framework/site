@@ -1,5 +1,5 @@
 ---
-title: "A PCAC puzzle: $\pi^0 \to \gamma\gamma$ in the $\sigma$-model"
+title: "A PCAC puzzle: $^0 $ in the $$-model"
 bib_key: "BellJackiw1969"
 entry_type: "article"
 authors: "John S. Bell and Roman Jackiw"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "John S. Bell and Roman Jackiw. (1969). *A PCAC puzzle: $\pi^0 \to \gamma\gamma$ in the $\sigma$-model*. Il Nuovo Cimento A. **60**. pp. 47–61."
+formatted_citation: "John S. Bell and Roman Jackiw. (1969). *A PCAC puzzle: $^0 $ in the $$-model*. Il Nuovo Cimento A. **60**. pp. 47–61."
 right_rail:
   toc: false
   related:

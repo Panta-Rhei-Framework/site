@@ -2,7 +2,7 @@
 title: "Thin Objects: An Abstractionist Account"
 bib_key: "Linnebo2018"
 entry_type: "book"
-authors: "\O ystein Linnebo"
+authors: "O ystein Linnebo"
 year: "2018"
 journal_or_booktitle: ""
 publisher: "Oxford University Press"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "\O ystein Linnebo. (2018). *Thin Objects: An Abstractionist Account*. Oxford University Press."
+formatted_citation: "O ystein Linnebo. (2018). *Thin Objects: An Abstractionist Account*. Oxford University Press."
 right_rail:
   toc: false
   related:

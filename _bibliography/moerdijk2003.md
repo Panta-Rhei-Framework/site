@@ -2,7 +2,7 @@
 title: "Introduction to Foliations and Lie Groupoids"
 bib_key: "Moerdijk2003"
 entry_type: "book"
-authors: "Ieke Moerdijk and Janez Mr\vcun"
+authors: "Ieke Moerdijk and Janez Mrcun"
 year: "2003"
 journal_or_booktitle: ""
 publisher: "Cambridge University Press"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Book"
-formatted_citation: "Ieke Moerdijk and Janez Mr\vcun. (2003). *Introduction to Foliations and Lie Groupoids*. Cambridge University Press."
+formatted_citation: "Ieke Moerdijk and Janez Mrcun. (2003). *Introduction to Foliations and Lie Groupoids*. Cambridge University Press."
 right_rail:
   toc: false
   related:

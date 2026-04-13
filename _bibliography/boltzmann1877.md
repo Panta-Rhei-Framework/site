@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Warmetheorie und der Wahrscheinlichkeitsrechnung respektive den Satzen uber das Warmegleichgewicht"
+title: "Uber die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Warmetheorie und der Wahrscheinlichkeitsrechnung respektive den Satzen uber das Warmegleichgewicht"
 bib_key: "Boltzmann1877"
 entry_type: "article"
 authors: "Ludwig Boltzmann"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Ludwig Boltzmann. (1877). *\\"Uber die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Warmetheorie und der Wahrscheinlichkeitsrechnung respektive den Satzen uber das Warmegleichgewicht*. Wiener Berichte. **76**. pp. 373–435."
+formatted_citation: "Ludwig Boltzmann. (1877). *Uber die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Warmetheorie und der Wahrscheinlichkeitsrechnung respektive den Satzen uber das Warmegleichgewicht*. Wiener Berichte. **76**. pp. 373–435."
 right_rail:
   toc: false
   related:

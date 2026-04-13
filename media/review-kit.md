@@ -2,7 +2,7 @@
 layout: program-doc
 title: "Review Kit"
 permalink: /media/review-kit/
-lane: engage
+lane: utility
 summary_short: "Structured entry paths for reviewers, domain experts, and institutional readers."
 summary_cards:
 - title: "For reviewers"

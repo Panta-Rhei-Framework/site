@@ -5,7 +5,7 @@ entry_type: "book"
 authors: "Francesco Catoni and Dino Boccaletti and Roberto Cannata and Vincenzo Catoni and Enrico Nichelatti and Paolo Zampetti"
 year: "2008"
 journal_or_booktitle: ""
-publisher: "Birkh\\"auser"
+publisher: "Birkh\\\"auser"
 volume: ""
 number: ""
 pages: ""
@@ -19,7 +19,7 @@ domain_group: "Topology and Geometry"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Book"
-formatted_citation: "Francesco Catoni and Dino Boccaletti and Roberto Cannata and Vincenzo Catoni and Enrico Nichelatti and Paolo Zampetti. (2008). *The Mathematics of Minkowski Space-Time: With an Introduction to Commutative Hypercomplex Numbers*. Birkh\\"auser."
+formatted_citation: "Francesco Catoni and Dino Boccaletti and Roberto Cannata and Vincenzo Catoni and Enrico Nichelatti and Paolo Zampetti. (2008). *The Mathematics of Minkowski Space-Time: With an Introduction to Commutative Hypercomplex Numbers*. Birkh\\\"auser."
 right_rail:
   toc: false
   related:

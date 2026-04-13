@@ -1,5 +1,5 @@
 ---
-title: "Creative Evolution (L'\'Evolution creatrice)"
+title: "Creative Evolution (L'Evolution creatrice)"
 bib_key: "bergson1907"
 entry_type: "book"
 authors: "Bergson, Henri"
@@ -19,7 +19,7 @@ domain_group: "Life and Biology"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Book"
-formatted_citation: "Bergson, Henri. (1911). *Creative Evolution (L'\'Evolution creatrice)*. Henry Holt and Company."
+formatted_citation: "Bergson, Henri. (1911). *Creative Evolution (L'Evolution creatrice)*. Henry Holt and Company."
 right_rail:
   toc: false
   related:

@@ -4,7 +4,7 @@ bib_key: "Einstein1915"
 entry_type: "article"
 authors: "Albert Einstein"
 year: "1915"
-journal_or_booktitle: "Sitzungsberichte der Koniglich Preu\ssischen Akademie der Wissenschaften"
+journal_or_booktitle: "Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften"
 publisher: ""
 volume: ""
 number: ""
@@ -19,7 +19,7 @@ domain_group: "Physics"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Albert Einstein. (1915). *Die Feldgleichungen der Gravitation*. Sitzungsberichte der Koniglich Preu\ssischen Akademie der Wissenschaften. pp. 844–847."
+formatted_citation: "Albert Einstein. (1915). *Die Feldgleichungen der Gravitation*. Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften. pp. 844–847."
 right_rail:
   toc: false
   related:

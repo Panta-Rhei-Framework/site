@@ -2,7 +2,7 @@
 title: "Proper holomorphic mappings between real-analytic pseudoconvex domains"
 bib_key: "DiederichFornæss1977"
 entry_type: "article"
-authors: "Diederich, Klaus and Forn\aess, John Erik"
+authors: "Diederich, Klaus and Fornaess, John Erik"
 year: "1977"
 journal_or_booktitle: ""
 publisher: ""
@@ -19,7 +19,7 @@ domain_group: "Number Theory and Analysis"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Diederich, Klaus and Forn\aess, John Erik. (1977). *Proper holomorphic mappings between real-analytic pseudoconvex domains*. **234**. pp. 1–10."
+formatted_citation: "Diederich, Klaus and Fornaess, John Erik. (1977). *Proper holomorphic mappings between real-analytic pseudoconvex domains*. **234**. pp. 1–10."
 right_rail:
   toc: false
   related:

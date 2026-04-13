@@ -2,7 +2,7 @@
 title: "Bornes pour la torsion des courbes elliptiques sur les corps de nombres"
 bib_key: "Merel1996"
 entry_type: "article"
-authors: "Lo\\"ic Merel"
+authors: "Loic Merel"
 year: "1996"
 journal_or_booktitle: "Inventiones Mathematicae"
 publisher: ""
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Lo\\"ic Merel. (1996). *Bornes pour la torsion des courbes elliptiques sur les corps de nombres*. Inventiones Mathematicae. **124**. pp. 437–449."
+formatted_citation: "Loic Merel. (1996). *Bornes pour la torsion des courbes elliptiques sur les corps de nombres*. Inventiones Mathematicae. **124**. pp. 437–449."
 right_rail:
   toc: false
   related:

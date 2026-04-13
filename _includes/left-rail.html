@@ -120,6 +120,17 @@
   <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
   {% endfor %}
 
+  {% elsif page.lane == "utility" %}
+  <!-- Utility / trust surface navigation -->
+  <div class="rail-title">Reference</div>
+  {% for item in site.data.nav.utility_nav %}
+  {% if item.external %}
+  <a href="{{ item.url }}" class="nav-link" target="_blank" rel="noopener">{{ item.title }}</a>
+  {% else %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endif %}
+  {% endfor %}
+
   {% else %}
   <!-- Research program lane navigation (default) -->
   <div class="rail-title">Research program</div>

@@ -2,7 +2,7 @@
 title: "Algebraic Set Theory"
 bib_key: "JoyalMoerdijk1995"
 entry_type: "book"
-authors: "Joyal, Andr\'e and Moerdijk, Ieke"
+authors: "Joyal, Andr\\'e and Moerdijk, Ieke"
 year: "1995"
 journal_or_booktitle: ""
 publisher: "Cambridge University Press"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "Joyal, Andr\'e and Moerdijk, Ieke. (1995). *Algebraic Set Theory*. **220**. Cambridge University Press."
+formatted_citation: "Joyal, Andr\\'e and Moerdijk, Ieke. (1995). *Algebraic Set Theory*. **220**. Cambridge University Press."
 right_rail:
   toc: false
   related:

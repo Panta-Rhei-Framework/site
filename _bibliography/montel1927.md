@@ -1,5 +1,5 @@
 ---
-title: "Le\c cons sur les familles normales de fonctions analytiques et leurs applications"
+title: "Le cons sur les familles normales de fonctions analytiques et leurs applications"
 bib_key: "Montel1927"
 entry_type: "book"
 authors: "Paul Montel"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "Paul Montel. (1927). *Le\c cons sur les familles normales de fonctions analytiques et leurs applications*. Gauthier-Villars."
+formatted_citation: "Paul Montel. (1927). *Le cons sur les familles normales de fonctions analytiques et leurs applications*. Gauthier-Villars."
 right_rail:
   toc: false
   related:

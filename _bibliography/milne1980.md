@@ -1,5 +1,5 @@
 ---
-title: "\'Etale cohomology"
+title: "Etale cohomology"
 bib_key: "Milne1980"
 entry_type: "book"
 authors: "Milne, James S."
@@ -19,7 +19,7 @@ domain_group: "Topology and Geometry"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Book"
-formatted_citation: "Milne, James S.. (1980). *\'Etale cohomology*. Princeton University Press."
+formatted_citation: "Milne, James S.. (1980). *Etale cohomology*. Princeton University Press."
 right_rail:
   toc: false
   related:

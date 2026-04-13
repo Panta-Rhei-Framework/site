@@ -14,6 +14,9 @@ header:
   - title: "Verify"
     url: "/verify/"
     match: "/verify/"
+  - title: "Impact"
+    url: "/impact/"
+    match: "/impact/"
   - title: "Engage"
     url: "/engage/"
     match: "/engage/"
@@ -160,6 +163,27 @@ verify_nav:
     url: "/verify/taulib/scope-labels/"
   - title: "Glossary"
     url: "/verify/taulib/glossary/"
+
+utility_nav:
+  - title: "Cite"
+    url: "/cite/"
+  - title: "Bibliography"
+    url: "/bibliography/"
+  - title: "Founders"
+    url: "/research-program/founders/"
+  - title: "Media Kit"
+    url: "/media/"
+  - title: "Review Kit"
+    url: "/media/review-kit/"
+  - title: "Repository"
+    url: "https://github.com/Panta-Rhei-Framework/taulib"
+    external: true
+  - title: "Contact"
+    url: "/engage/media-and-contact/"
+  - title: "Impressum"
+    url: "/impressum/"
+  - title: "Datenschutz"
+    url: "/datenschutz/"
 
 bibliography_nav:
   - title: "Overview"

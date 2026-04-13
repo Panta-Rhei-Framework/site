@@ -1,5 +1,5 @@
 ---
-title: "Random matrix theory and $\zeta(1/2+it)$"
+title: "Random matrix theory and $(1/2+it)$"
 bib_key: "KeatingSnaith2000"
 entry_type: "article"
 authors: "J. P. Keating and N. C. Snaith"
@@ -15,11 +15,11 @@ isbn: ""
 arxiv: ""
 series: ""
 edition: ""
-domain_group: "Number Theory and Analysis"
+domain_group: "Physics"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "J. P. Keating and N. C. Snaith. (2000). *Random matrix theory and $\zeta(1/2+it)$*. Communications in Mathematical Physics. **214**(1). pp. 57–89."
+formatted_citation: "J. P. Keating and N. C. Snaith. (2000). *Random matrix theory and $(1/2+it)$*. Communications in Mathematical Physics. **214**(1). pp. 57–89."
 right_rail:
   toc: false
   related:
@@ -33,9 +33,9 @@ right_rail:
   meta:
     type: "Article"
     year: "2000"
-    domain: "Number Theory and Analysis"
+    domain: "Physics"
     role: "Domain Context"
     updated: "April 2026"
 ---
 
-Included to provide standard reference context for Number Theory and Analysis.
+Included to provide standard reference context for Physics.

@@ -1,5 +1,5 @@
 ---
-title: "All $(\infty,1)$-Toposes Have Strict Univalent Universes"
+title: "All $(infty,1)$-Toposes Have Strict Univalent Universes"
 bib_key: "Shulman2019"
 entry_type: "article"
 authors: "Michael Shulman"
@@ -19,7 +19,7 @@ domain_group: "Category Theory"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Michael Shulman. (2019). *All $(\infty,1)$-Toposes Have Strict Univalent Universes*."
+formatted_citation: "Michael Shulman. (2019). *All $(infty,1)$-Toposes Have Strict Univalent Universes*."
 right_rail:
   toc: false
   related:

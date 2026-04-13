@@ -2,7 +2,7 @@
 title: "Theory of Bergman spaces"
 bib_key: "HedenmalmKorenblumZhu2000"
 entry_type: "book"
-authors: "Hedenmalm, H\aakan and Korenblum, Boris and Zhu, Kehe"
+authors: "Hedenmalm, Hkan and Korenblum, Boris and Zhu, Kehe"
 year: "2000"
 journal_or_booktitle: ""
 publisher: "Springer"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "Hedenmalm, H\aakan and Korenblum, Boris and Zhu, Kehe. (2000). *Theory of Bergman spaces*. Springer."
+formatted_citation: "Hedenmalm, Hkan and Korenblum, Boris and Zhu, Kehe. (2000). *Theory of Bergman spaces*. Springer."
 right_rail:
   toc: false
   related:

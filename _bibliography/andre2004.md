@@ -5,7 +5,7 @@ entry_type: "book"
 authors: "Yves Andre"
 year: "2004"
 journal_or_booktitle: ""
-publisher: "SMF/No\^us"
+publisher: "SMF/Nous"
 volume: ""
 number: ""
 pages: ""
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Book"
-formatted_citation: "Yves Andre. (2004). *Une introduction aux motifs (motifs purs, motifs mixtes, periodes)*. SMF/No\^us."
+formatted_citation: "Yves Andre. (2004). *Une introduction aux motifs (motifs purs, motifs mixtes, periodes)*. SMF/Nous."
 right_rail:
   toc: false
   related:

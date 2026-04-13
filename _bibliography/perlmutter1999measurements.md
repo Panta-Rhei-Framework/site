@@ -1,5 +1,5 @@
 ---
-title: "Measurements of $\Omega$ and $\Lambda$ from 42 High-Redshift Supernovae"
+title: "Measurements of $Omega$ and $Lambda$ from 42 High-Redshift Supernovae"
 bib_key: "perlmutter1999measurements"
 entry_type: "article"
 authors: "Perlmutter, Saul and others"
@@ -19,7 +19,7 @@ domain_group: "Physics"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Perlmutter, Saul and others. (1999). *Measurements of $\Omega$ and $\Lambda$ from 42 High-Redshift Supernovae*. Astrophysical Journal. **517**. pp. 565–586."
+formatted_citation: "Perlmutter, Saul and others. (1999). *Measurements of $Omega$ and $Lambda$ from 42 High-Redshift Supernovae*. Astrophysical Journal. **517**. pp. 565–586."
 right_rail:
   toc: false
   related:

@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber die Beziehungen der Eigenschaften zu den Atomgewichten der Elemente"
+title: "Uber die Beziehungen der Eigenschaften zu den Atomgewichten der Elemente"
 bib_key: "Mendeleev1869"
 entry_type: "article"
 authors: "Dmitri Mendeleev"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Dmitri Mendeleev. (1869). *\\"Uber die Beziehungen der Eigenschaften zu den Atomgewichten der Elemente*. Zeitschrift fur Chemie. **12**. pp. 405–406."
+formatted_citation: "Dmitri Mendeleev. (1869). *Uber die Beziehungen der Eigenschaften zu den Atomgewichten der Elemente*. Zeitschrift fur Chemie. **12**. pp. 405–406."
 right_rail:
   toc: false
   related:

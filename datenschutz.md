@@ -1,6 +1,7 @@
 ---
 layout: program-doc
 title: "Datenschutzerklärung"
+lane: utility
 permalink: /datenschutz/
 summary_short: "Datenschutzhinweise gemäß DSGVO für die Website des Panta Rhei Research Program."
 right_rail:

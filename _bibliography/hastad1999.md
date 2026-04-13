@@ -2,7 +2,7 @@
 title: "Some Optimal Inapproximability Results"
 bib_key: "Hastad1999"
 entry_type: "article"
-authors: "Johan H\\"astad"
+authors: "Johan H\\\"astad"
 year: "2001"
 journal_or_booktitle: "Journal of the ACM"
 publisher: ""
@@ -19,7 +19,7 @@ domain_group: "Life and Biology"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Johan H\\"astad. (2001). *Some Optimal Inapproximability Results*. Journal of the ACM. **48**. pp. 798–859."
+formatted_citation: "Johan H\\\"astad. (2001). *Some Optimal Inapproximability Results*. Journal of the ACM. **48**. pp. 798–859."
 right_rail:
   toc: false
   related:

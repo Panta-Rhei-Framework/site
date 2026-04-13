@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber verschiedene fur die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Warmetheorie"
+title: "Uber verschiedene fur die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Warmetheorie"
 bib_key: "Clausius1865"
 entry_type: "article"
 authors: "Rudolf Clausius"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Rudolf Clausius. (1865). *\\"Uber verschiedene fur die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Warmetheorie*. Annalen der Physik. **201**(7). pp. 353–400."
+formatted_citation: "Rudolf Clausius. (1865). *Uber verschiedene fur die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Warmetheorie*. Annalen der Physik. **201**(7). pp. 353–400."
 right_rail:
   toc: false
   related:

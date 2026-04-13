@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik"
+title: "Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik"
 bib_key: "Heisenberg1927"
 entry_type: "article"
 authors: "Werner Heisenberg"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Werner Heisenberg. (1927). *\\"Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik*. Zeitschrift fur Physik. **43**. pp. 172–198."
+formatted_citation: "Werner Heisenberg. (1927). *Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik*. Zeitschrift fur Physik. **43**. pp. 172–198."
 right_rail:
   toc: false
   related:

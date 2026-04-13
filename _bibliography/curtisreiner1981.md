@@ -1,5 +1,5 @@
 ---
-title: "Methods of representation theory, Vol.\ I"
+title: "Methods of representation theory, Vol.\\ I"
 bib_key: "CurtisReiner1981"
 entry_type: "book"
 authors: "Curtis, Charles W. and Reiner, Irving"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "Curtis, Charles W. and Reiner, Irving. (1981). *Methods of representation theory, Vol.\ I*. John Wiley & Sons."
+formatted_citation: "Curtis, Charles W. and Reiner, Irving. (1981). *Methods of representation theory, Vol.\\ I*. John Wiley & Sons."
 right_rail:
   toc: false
   related:

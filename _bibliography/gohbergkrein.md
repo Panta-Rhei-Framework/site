@@ -2,7 +2,7 @@
 title: "Introduction to the Theory of Linear Nonselfadjoint Operators"
 bib_key: "GohbergKrein"
 entry_type: "book"
-authors: "I. C. Gohberg and M. G. Kre\u\in"
+authors: "I. C. Gohberg and M. G. Kren"
 year: "1969"
 journal_or_booktitle: ""
 publisher: "American Mathematical Society"
@@ -19,7 +19,7 @@ domain_group: "Category Theory"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Book"
-formatted_citation: "I. C. Gohberg and M. G. Kre\u\in. (1969). *Introduction to the Theory of Linear Nonselfadjoint Operators*. American Mathematical Society."
+formatted_citation: "I. C. Gohberg and M. G. Kren. (1969). *Introduction to the Theory of Linear Nonselfadjoint Operators*. American Mathematical Society."
 right_rail:
   toc: false
   related:

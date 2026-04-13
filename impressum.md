@@ -1,6 +1,7 @@
 ---
 layout: program-doc
 title: "Impressum"
+lane: utility
 permalink: /impressum/
 summary_short: "Anbieterkennzeichnung gemäß § 5 TMG."
 right_rail:

@@ -1,5 +1,5 @@
 ---
-title: "$\mu \to e\gamma$ at a Rate of One Out of $10^9$ Muon Decays?"
+title: "$ e$ at a Rate of One Out of $10^9$ Muon Decays?"
 bib_key: "Minkowski1977"
 entry_type: "article"
 authors: "Peter Minkowski"
@@ -19,7 +19,7 @@ domain_group: "Physics"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Peter Minkowski. (1977). *$\mu \to e\gamma$ at a Rate of One Out of $10^9$ Muon Decays?*. Physics Letters B. **67**(4). pp. 421–428."
+formatted_citation: "Peter Minkowski. (1977). *$ e$ at a Rate of One Out of $10^9$ Muon Decays?*. Physics Letters B. **67**(4). pp. 421–428."
 right_rail:
   toc: false
   related:

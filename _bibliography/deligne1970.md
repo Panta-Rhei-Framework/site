@@ -1,5 +1,5 @@
 ---
-title: "Equations Differentielles \`a Points Singuliers Reguliers"
+title: "Equations Differentielles a Points Singuliers Reguliers"
 bib_key: "Deligne1970"
 entry_type: "book"
 authors: "Deligne, Pierre"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "Deligne, Pierre. (1970). *Equations Differentielles \`a Points Singuliers Reguliers*. **163**. Springer."
+formatted_citation: "Deligne, Pierre. (1970). *Equations Differentielles a Points Singuliers Reguliers*. **163**. Springer."
 right_rail:
   toc: false
   related:

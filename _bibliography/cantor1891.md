@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber eine elementare Frage der Mannigfaltigkeitslehre"
+title: "\\\"Uber eine elementare Frage der Mannigfaltigkeitslehre"
 bib_key: "Cantor1891"
 entry_type: "article"
 authors: "Cantor, Georg"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Cantor, Georg. (1891). *\\"Uber eine elementare Frage der Mannigfaltigkeitslehre*. **1**. pp. 75–78."
+formatted_citation: "Cantor, Georg. (1891). *\\\"Uber eine elementare Frage der Mannigfaltigkeitslehre*. **1**. pp. 75–78."
 right_rail:
   toc: false
   related:

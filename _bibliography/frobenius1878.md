@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber lineare Substitutionen und bilineare Formen"
+title: "\\\"Uber lineare Substitutionen und bilineare Formen"
 bib_key: "Frobenius1878"
 entry_type: "article"
 authors: "Frobenius, Ferdinand Georg"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Frobenius, Ferdinand Georg. (1878). *\\"Uber lineare Substitutionen und bilineare Formen*. **84**. pp. 1–63."
+formatted_citation: "Frobenius, Ferdinand Georg. (1878). *\\\"Uber lineare Substitutionen und bilineare Formen*. **84**. pp. 1–63."
 right_rail:
   toc: false
   related:

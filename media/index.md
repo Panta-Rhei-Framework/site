@@ -2,7 +2,7 @@
 layout: program-doc
 title: "Media Kit"
 permalink: /media/
-lane: engage
+lane: utility
 summary_short: "Press, podcast, and review resources for the Panta Rhei Research Program."
 summary_cards:
 - title: "What this is"

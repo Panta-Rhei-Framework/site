@@ -2,7 +2,7 @@
   {
     "key": "FuchsFuchs26_Primon",
     "slug": "fuchsfuchs26-primon",
-    "title": "Category $\\tau$ and the Conformal Primon Gas",
+    "title": "Category $$ and the Conformal Primon Gas",
     "authors": "Fuchs, Thorsten and Fuchs, Anna-Sophie",
     "year": "2026",
     "entry_type": "article",
@@ -131,7 +131,7 @@
     "key": "BocquetKaposiSattler2023",
     "slug": "bocquetkaposisattler2023",
     "title": "For the Metatheory of Type Theory, Internal Sconing Is Enough",
-    "authors": "Rafa\\\"el Bocquet and Ambrus Kaposi and Christian Sattler",
+    "authors": "Rafael Bocquet and Ambrus Kaposi and Christian Sattler",
     "year": "2023",
     "entry_type": "article",
     "type_display": "Article",
@@ -450,7 +450,7 @@
   {
     "key": "SuperKProton2020",
     "slug": "superkproton2020",
-    "title": "Search for proton decay via $p \\to e^+\\pi^0$ and $p \\to \\mu^+\\pi^0$ with an enlarged fiducial volume in Super-Kamiokande I-IV",
+    "title": "Search for proton decay via $p e^+^0$ and $p ^+^0$ with an enlarged fiducial volume in Super-Kamiokande I-IV",
     "authors": "Super-Kamiokande Collaboration",
     "year": "2020",
     "entry_type": "article",
@@ -546,7 +546,7 @@
   {
     "key": "Shulman2019",
     "slug": "shulman2019",
-    "title": "All $(\\infty,1)$-Toposes Have Strict Univalent Universes",
+    "title": "All $(infty,1)$-Toposes Have Strict Univalent Universes",
     "authors": "Michael Shulman",
     "year": "2019",
     "entry_type": "article",
@@ -608,6 +608,22 @@
     "url": "/bibliography/lairez2018/"
   },
   {
+    "key": "Linnebo2018",
+    "slug": "linnebo2018",
+    "title": "Thin Objects: An Abstractionist Account",
+    "authors": "O ystein Linnebo",
+    "year": "2018",
+    "entry_type": "book",
+    "type_display": "Book",
+    "domain_group": "Foundations and Logic",
+    "role_in_program": "formal-antecedent",
+    "role_display": "Formal Antecedent",
+    "journal_or_booktitle": "",
+    "publisher": "Oxford University Press",
+    "doi": "10.1093/oso/9780198828358.001.0001",
+    "url": "/bibliography/linnebo2018/"
+  },
+  {
     "key": "Parker2018",
     "slug": "parker2018",
     "title": "Measurement of the fine-structure constant as a test of the Standard Model",
@@ -622,22 +638,6 @@
     "publisher": "",
     "doi": "10.1126/science.aap7706",
     "url": "/bibliography/parker2018/"
-  },
-  {
-    "key": "Linnebo2018",
-    "slug": "linnebo2018",
-    "title": "Thin Objects: An Abstractionist Account",
-    "authors": "\\O ystein Linnebo",
-    "year": "2018",
-    "entry_type": "book",
-    "type_display": "Book",
-    "domain_group": "Foundations and Logic",
-    "role_in_program": "formal-antecedent",
-    "role_display": "Formal Antecedent",
-    "journal_or_booktitle": "",
-    "publisher": "Oxford University Press",
-    "doi": "10.1093/oso/9780198828358.001.0001",
-    "url": "/bibliography/linnebo2018/"
   },
   {
     "key": "abbott2017gw170817",
@@ -3963,7 +3963,7 @@
     "role_in_program": "domain-context",
     "role_display": "Domain Context",
     "journal_or_booktitle": "",
-    "publisher": "SMF/No\\^us",
+    "publisher": "SMF/Nous",
     "doi": "",
     "url": "/bibliography/andre2004/"
   },
@@ -4099,7 +4099,7 @@
     "key": "Moerdijk2003",
     "slug": "moerdijk2003",
     "title": "Introduction to Foliations and Lie Groupoids",
-    "authors": "Ieke Moerdijk and Janez Mr\\vcun",
+    "authors": "Ieke Moerdijk and Janez Mrcun",
     "year": "2003",
     "entry_type": "book",
     "type_display": "Book",
@@ -4482,7 +4482,7 @@
   {
     "key": "BCDT01",
     "slug": "bcdt01",
-    "title": "On the modularity of elliptic curves over $\\mathbbQ$: wild 3-adic exercises and other topics",
+    "title": "On the modularity of elliptic curves over $Q$: wild 3-adic exercises and other topics",
     "authors": "Christophe Breuil and Brian Conrad and Fred Diamond and Richard Taylor",
     "year": "2002",
     "entry_type": "article",
@@ -4802,7 +4802,7 @@
   {
     "key": "BCDT2001",
     "slug": "bcdt2001",
-    "title": "On the modularity of elliptic curves over $\\mathbbQ$",
+    "title": "On the modularity of elliptic curves over $Q$",
     "authors": "C. Breuil and B. Conrad and F. Diamond and R. Taylor",
     "year": "2001",
     "entry_type": "article",
@@ -4834,7 +4834,7 @@
   {
     "key": "BCDMT2001",
     "slug": "bcdmt2001",
-    "title": "On the modularity of elliptic curves over $\\mathbbQ$: wild 3-adic exercises",
+    "title": "On the modularity of elliptic curves over $Q$: wild 3-adic exercises",
     "authors": "Christophe Breuil and Brian Conrad and Fred Diamond and Richard Taylor",
     "year": "2001",
     "entry_type": "article",
@@ -5219,7 +5219,7 @@
     "key": "HedenmalmKorenblumZhu2000",
     "slug": "hedenmalmkorenblumzhu2000",
     "title": "Theory of Bergman spaces",
-    "authors": "Hedenmalm, H\\aakan and Korenblum, Boris and Zhu, Kehe",
+    "authors": "Hedenmalm, Hkan and Korenblum, Boris and Zhu, Kehe",
     "year": "2000",
     "entry_type": "book",
     "type_display": "Book",
@@ -5234,12 +5234,12 @@
   {
     "key": "KeatingSnaith2000",
     "slug": "keatingsnaith2000",
-    "title": "Random matrix theory and $\\zeta(1/2+it)$",
+    "title": "Random matrix theory and $(1/2+it)$",
     "authors": "J. P. Keating and N. C. Snaith",
     "year": "2000",
     "entry_type": "article",
     "type_display": "Article",
-    "domain_group": "Number Theory and Analysis",
+    "domain_group": "Physics",
     "role_in_program": "domain-context",
     "role_display": "Domain Context",
     "journal_or_booktitle": "Communications in Mathematical Physics",
@@ -5682,7 +5682,7 @@
   {
     "key": "perlmutter1999measurements",
     "slug": "perlmutter1999measurements",
-    "title": "Measurements of $\\Omega$ and $\\Lambda$ from 42 High-Redshift Supernovae",
+    "title": "Measurements of $Omega$ and $Lambda$ from 42 High-Redshift Supernovae",
     "authors": "Perlmutter, Saul and others",
     "year": "1999",
     "entry_type": "article",
@@ -6467,7 +6467,7 @@
     "key": "Merel1996",
     "slug": "merel1996",
     "title": "Bornes pour la torsion des courbes elliptiques sur les corps de nombres",
-    "authors": "Lo\\\"ic Merel",
+    "authors": "Loic Merel",
     "year": "1996",
     "entry_type": "article",
     "type_display": "Article",
@@ -7987,7 +7987,7 @@
     "key": "AdamekHerrlichStrecker1990",
     "slug": "adamekherrlichstrecker1990",
     "title": "Abstract and Concrete Categories: The Joy of Cats",
-    "authors": "Ad\\'amek, Ji\\vr\\'\\i and Herrlich, Horst and Strecker, George E.",
+    "authors": "Ad\\'amek, Jir\\'i and Herrlich, Horst and Strecker, George E.",
     "year": "1990",
     "entry_type": "book",
     "type_display": "Book",
@@ -9762,7 +9762,7 @@
   {
     "key": "UA1W1983",
     "slug": "ua1w1983",
-    "title": "Experimental Observation of Isolated Large Transverse Energy Electrons with Associated Missing Energy at $\\sqrts = 540$ GeV",
+    "title": "Experimental Observation of Isolated Large Transverse Energy Electrons with Associated Missing Energy at $s = 540$ GeV",
     "authors": "UA1 Collaboration and G. Arnison and others",
     "year": "1983",
     "entry_type": "article",
@@ -10226,7 +10226,7 @@
   {
     "key": "MilneEtale",
     "slug": "milneetale",
-    "title": "\\'Etale Cohomology",
+    "title": "Etale Cohomology",
     "authors": "J. S. Milne",
     "year": "1980",
     "entry_type": "book",
@@ -10322,7 +10322,7 @@
   {
     "key": "Milne1980",
     "slug": "milne1980",
-    "title": "\\'Etale cohomology",
+    "title": "Etale cohomology",
     "authors": "Milne, James S.",
     "year": "1980",
     "entry_type": "book",
@@ -10851,7 +10851,7 @@
     "key": "DiederichFornæss1977",
     "slug": "diederichforn-ss1977",
     "title": "Proper holomorphic mappings between real-analytic pseudoconvex domains",
-    "authors": "Diederich, Klaus and Forn\\aess, John Erik",
+    "authors": "Diederich, Klaus and Fornaess, John Erik",
     "year": "1977",
     "entry_type": "article",
     "type_display": "Article",
@@ -11010,7 +11010,7 @@
   {
     "key": "Minkowski1977",
     "slug": "minkowski1977",
-    "title": "$\\mu \\to e\\gamma$ at a Rate of One Out of $10^9$ Muon Decays?",
+    "title": "$ e$ at a Rate of One Out of $10^9$ Muon Decays?",
     "authors": "Peter Minkowski",
     "year": "1977",
     "entry_type": "article",
@@ -11154,7 +11154,7 @@
   {
     "key": "HejhalSelberg",
     "slug": "hejhalselberg",
-    "title": "The Selberg Trace Formula for PSL(2,\\mathbb R)",
+    "title": "The Selberg Trace Formula for PSL(2, R)",
     "authors": "Dennis A. Hejhal",
     "year": "1976",
     "entry_type": "book",
@@ -11562,7 +11562,7 @@
     "domain_group": "Foundations and Logic",
     "role_in_program": "formal-antecedent",
     "role_display": "Formal Antecedent",
-    "journal_or_booktitle": "Publications Mathematiques de l'IH\\'ES",
+    "journal_or_booktitle": "Publications Mathematiques de l'IHES",
     "publisher": "",
     "doi": "",
     "url": "/bibliography/deligneweil/"
@@ -12026,7 +12026,7 @@
     "domain_group": "Foundations and Logic",
     "role_in_program": "formal-antecedent",
     "role_display": "Formal Antecedent",
-    "journal_or_booktitle": "Publications Mathematiques de l'IH\\'ES",
+    "journal_or_booktitle": "Publications Mathematiques de l'IHES",
     "publisher": "",
     "doi": "",
     "url": "/bibliography/deligne1971/"
@@ -12178,7 +12178,7 @@
   {
     "key": "Deligne1970",
     "slug": "deligne1970",
-    "title": "Equations Differentielles \\`a Points Singuliers Reguliers",
+    "title": "Equations Differentielles a Points Singuliers Reguliers",
     "authors": "Deligne, Pierre",
     "year": "1970",
     "entry_type": "book",
@@ -12419,7 +12419,7 @@
     "key": "GohbergKrein",
     "slug": "gohbergkrein",
     "title": "Introduction to the Theory of Linear Nonselfadjoint Operators",
-    "authors": "I. C. Gohberg and M. G. Kre\\u\\in",
+    "authors": "I. C. Gohberg and M. G. Kren",
     "year": "1969",
     "entry_type": "book",
     "type_display": "Book",
@@ -12435,7 +12435,7 @@
     "key": "GohbergKrein1969",
     "slug": "gohbergkrein1969",
     "title": "Introduction to the Theory of Linear Nonselfadjoint Operators",
-    "authors": "Israel Gohberg and Mark G. Kre\\u\\in",
+    "authors": "Israel Gohberg and Mark G. Krein",
     "year": "1969",
     "entry_type": "book",
     "type_display": "Book",
@@ -12450,7 +12450,7 @@
   {
     "key": "BellJackiw1969",
     "slug": "belljackiw1969",
-    "title": "A PCAC puzzle: $\\pi^0 \\to \\gamma\\gamma$ in the $\\sigma$-model",
+    "title": "A PCAC puzzle: $^0 $ in the $$-model",
     "authors": "John S. Bell and Roman Jackiw",
     "year": "1969",
     "entry_type": "article",
@@ -13088,6 +13088,22 @@
     "url": "/bibliography/husemoller1966/"
   },
   {
+    "key": "Cartan1966",
+    "slug": "cartan1966",
+    "title": "The Theory of Spinors",
+    "authors": "Elie Cartan",
+    "year": "1966",
+    "entry_type": "book",
+    "type_display": "Book",
+    "domain_group": "Foundations and Logic",
+    "role_in_program": "formal-antecedent",
+    "role_display": "Formal Antecedent",
+    "journal_or_booktitle": "",
+    "publisher": "MIT Press",
+    "doi": "",
+    "url": "/bibliography/cartan1966/"
+  },
+  {
     "key": "Hartshorne1966",
     "slug": "hartshorne1966",
     "title": "Residues and duality",
@@ -13182,22 +13198,6 @@
     "publisher": "",
     "doi": "",
     "url": "/bibliography/cohen1966/"
-  },
-  {
-    "key": "Cartan1966",
-    "slug": "cartan1966",
-    "title": "The Theory of Spinors",
-    "authors": "\\'Elie Cartan",
-    "year": "1966",
-    "entry_type": "book",
-    "type_display": "Book",
-    "domain_group": "Foundations and Logic",
-    "role_in_program": "formal-antecedent",
-    "role_display": "Formal Antecedent",
-    "journal_or_booktitle": "",
-    "publisher": "MIT Press",
-    "doi": "",
-    "url": "/bibliography/cartan1966/"
   },
   {
     "key": "BSD1965",
@@ -13426,7 +13426,7 @@
   {
     "key": "Christenson1964",
     "slug": "christenson1964",
-    "title": "Evidence for the $2\\pi$ Decay of the $K_2^0$ Meson",
+    "title": "Evidence for the $2$ Decay of the $K_2^0$ Meson",
     "authors": "J. H. Christenson and J. W. Cronin and V. L. Fitch and R. Turlay",
     "year": "1964",
     "entry_type": "article",
@@ -15171,7 +15171,7 @@
     "key": "KreinRutman1948",
     "slug": "kreinrutman1948",
     "title": "Linear operators leaving invariant a cone in a Banach space",
-    "authors": "M. G. Kre\\'\\in and M. A. Rutman",
+    "authors": "M. G. Kre\\'in and M. A. Rutman",
     "year": "1948",
     "entry_type": "article",
     "type_display": "Article",
@@ -15522,7 +15522,7 @@
   {
     "key": "kapitza1938viscosity",
     "slug": "kapitza1938viscosity",
-    "title": "Viscosity of Liquid Helium Below the $\\lambda$-Point",
+    "title": "Viscosity of Liquid Helium Below the $lambda$-Point",
     "authors": "Kapitza, Pyotr L.",
     "year": "1938",
     "entry_type": "article",
@@ -15554,7 +15554,7 @@
   {
     "key": "Kapitsa1938",
     "slug": "kapitsa1938",
-    "title": "Viscosity of Liquid Helium below the $\\lambda$-Point",
+    "title": "Viscosity of Liquid Helium below the $lambda$-Point",
     "authors": "Pyotr Kapitsa",
     "year": "1938",
     "entry_type": "article",
@@ -15778,7 +15778,7 @@
   {
     "key": "Fueter1935",
     "slug": "fueter1935",
-    "title": "Die Funktionentheorie der Differentialgleichungen $\\Delta u = 0$ und $\\Delta\\Delta u = 0$",
+    "title": "Die Funktionentheorie der Differentialgleichungen $ u = 0$ und $ u = 0$",
     "authors": "Rudolf Fueter",
     "year": "1935",
     "entry_type": "article",
@@ -15810,7 +15810,7 @@
   {
     "key": "Fermi1934",
     "slug": "fermi1934",
-    "title": "Versuch einer Theorie der $\\beta$-Strahlen. I",
+    "title": "Versuch einer Theorie der $$-Strahlen. I",
     "authors": "Enrico Fermi",
     "year": "1934",
     "entry_type": "article",
@@ -15970,7 +15970,7 @@
   {
     "key": "Godel1931",
     "slug": "godel1931",
-    "title": "\\\"Uber formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme I",
+    "title": "Uber formal unentscheidbare Satze der Principia Mathematica und verwandter Systeme I",
     "authors": "Kurt Godel",
     "year": "1931",
     "entry_type": "article",
@@ -16178,7 +16178,7 @@
   {
     "key": "Montel1927",
     "slug": "montel1927",
-    "title": "Le\\c cons sur les familles normales de fonctions analytiques et leurs applications",
+    "title": "Le cons sur les familles normales de fonctions analytiques et leurs applications",
     "authors": "Paul Montel",
     "year": "1927",
     "entry_type": "book",
@@ -16210,7 +16210,7 @@
   {
     "key": "Heisenberg1927",
     "slug": "heisenberg1927",
-    "title": "\\\"Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik",
+    "title": "Uber den anschaulichen Inhalt der quantentheoretischen Kinematik und Mechanik",
     "authors": "Werner Heisenberg",
     "year": "1927",
     "entry_type": "article",
@@ -16274,7 +16274,7 @@
   {
     "key": "Born1926",
     "slug": "born1926",
-    "title": "Zur Quantenmechanik der Sto\\ssvorgange",
+    "title": "Zur Quantenmechanik der Stossvorgange",
     "authors": "Max Born",
     "year": "1926",
     "entry_type": "article",
@@ -16434,7 +16434,7 @@
   {
     "key": "Weyl1916",
     "slug": "weyl1916",
-    "title": "\\\"Uber die Gleichverteilung von Zahlen mod.\\ Eins",
+    "title": "Uber die Gleichverteilung von Zahlen mod.\\ Eins",
     "authors": "Hermann Weyl",
     "year": "1916",
     "entry_type": "article",
@@ -16450,7 +16450,7 @@
   {
     "key": "Schwarzschild1916",
     "slug": "schwarzschild1916",
-    "title": "\\\"Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie",
+    "title": "Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie",
     "authors": "Karl Schwarzschild",
     "year": "1916",
     "entry_type": "article",
@@ -16458,7 +16458,7 @@
     "domain_group": "Physics",
     "role_in_program": "domain-context",
     "role_display": "Domain Context",
-    "journal_or_booktitle": "Sitzungsberichte der Koniglich Preu\\ssischen Akademie der Wissenschaften",
+    "journal_or_booktitle": "Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften",
     "publisher": "",
     "doi": "",
     "url": "/bibliography/schwarzschild1916/"
@@ -16466,7 +16466,7 @@
   {
     "key": "schwarzschild1916gravitationsfeld",
     "slug": "schwarzschild1916gravitationsfeld",
-    "title": "\\\"Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie",
+    "title": "Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie",
     "authors": "Schwarzschild, Karl",
     "year": "1916",
     "entry_type": "article",
@@ -16490,7 +16490,7 @@
     "domain_group": "Physics",
     "role_in_program": "domain-context",
     "role_display": "Domain Context",
-    "journal_or_booktitle": "Sitzungsberichte der Koniglich Preu\\ssischen Akademie der Wissenschaften",
+    "journal_or_booktitle": "Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften",
     "publisher": "",
     "doi": "",
     "url": "/bibliography/einstein1915/"
@@ -16578,7 +16578,7 @@
   {
     "key": "bergson1907",
     "slug": "bergson1907",
-    "title": "Creative Evolution (L'\\'Evolution creatrice)",
+    "title": "Creative Evolution (L'Evolution creatrice)",
     "authors": "Bergson, Henri",
     "year": "1911",
     "entry_type": "book",
@@ -16594,7 +16594,7 @@
   {
     "key": "Rutherford1911",
     "slug": "rutherford1911",
-    "title": "The Scattering of $\\alpha$ and $\\beta$ Particles by Matter and the Structure of the Atom",
+    "title": "The Scattering of $$ and $$ Particles by Matter and the Structure of the Atom",
     "authors": "Ernest Rutherford",
     "year": "1911",
     "entry_type": "article",
@@ -16690,7 +16690,7 @@
   {
     "key": "Einstein1905Photon",
     "slug": "einstein1905photon",
-    "title": "\\\"Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
+    "title": "Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt",
     "authors": "Albert Einstein",
     "year": "1905",
     "entry_type": "article",
@@ -16738,7 +16738,7 @@
   {
     "key": "Planck1900",
     "slug": "planck1900",
-    "title": "\\\"Uber das Gesetz der Energieverteilung im Normalspectrum",
+    "title": "Uber das Gesetz der Energieverteilung im Normalspectrum",
     "authors": "Max Planck",
     "year": "1901",
     "entry_type": "article",
@@ -16962,7 +16962,7 @@
   {
     "key": "Arrhenius1889",
     "slug": "arrhenius1889",
-    "title": "\\\"Uber die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Sauren",
+    "title": "Uber die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Sauren",
     "authors": "Svante Arrhenius",
     "year": "1889",
     "entry_type": "article",
@@ -17034,7 +17034,7 @@
     "domain_group": "Foundations and Logic",
     "role_in_program": "formal-antecedent",
     "role_display": "Formal Antecedent",
-    "journal_or_booktitle": "Annales Scientifiques de l'\\'Ecole Normale Superieure",
+    "journal_or_booktitle": "Annales Scientifiques de l'Ecole Normale Superieure",
     "publisher": "",
     "doi": "",
     "url": "/bibliography/koenigs1884/"
@@ -17122,7 +17122,7 @@
   {
     "key": "Boltzmann1877",
     "slug": "boltzmann1877",
-    "title": "\\\"Uber die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Warmetheorie und der Wahrscheinlichkeitsrechnung respektive den Satzen uber das Warmegleichgewicht",
+    "title": "Uber die Beziehung zwischen dem zweiten Hauptsatze der mechanischen Warmetheorie und der Wahrscheinlichkeitsrechnung respektive den Satzen uber das Warmegleichgewicht",
     "authors": "Ludwig Boltzmann",
     "year": "1877",
     "entry_type": "article",
@@ -17186,7 +17186,7 @@
   {
     "key": "Mendeleev1869",
     "slug": "mendeleev1869",
-    "title": "\\\"Uber die Beziehungen der Eigenschaften zu den Atomgewichten der Elemente",
+    "title": "Uber die Beziehungen der Eigenschaften zu den Atomgewichten der Elemente",
     "authors": "Dmitri Mendeleev",
     "year": "1869",
     "entry_type": "article",
@@ -17250,7 +17250,7 @@
   {
     "key": "Clausius1865",
     "slug": "clausius1865",
-    "title": "\\\"Uber verschiedene fur die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Warmetheorie",
+    "title": "Uber verschiedene fur die Anwendung bequeme Formen der Hauptgleichungen der mechanischen Warmetheorie",
     "authors": "Rudolf Clausius",
     "year": "1865",
     "entry_type": "article",
@@ -17410,7 +17410,7 @@
   {
     "key": "wohler1828",
     "slug": "wohler1828",
-    "title": "\\\"Uber kunstliche Bildung des Harnstoffs",
+    "title": "Uber kunstliche Bildung des Harnstoffs",
     "authors": "Wohler, Friedrich",
     "year": "1828",
     "entry_type": "article",
@@ -17618,7 +17618,7 @@
   {
     "key": "Newton1687",
     "slug": "newton1687",
-    "title": "Philosophi\\ae Naturalis Principia Mathematica",
+    "title": "Philosophiae Naturalis Principia Mathematica",
     "authors": "Isaac Newton",
     "year": "1687",
     "entry_type": "book",
@@ -17682,7 +17682,7 @@
   {
     "key": "GrothendieckEGA",
     "slug": "grothendieckega",
-    "title": "\\'Elements de Geometrie Algebrique",
+    "title": "Elements de Geometrie Algebrique",
     "authors": "A. Grothendieck and J. Dieudonne",
     "year": "1960–1967",
     "entry_type": "incollection",
@@ -17690,7 +17690,7 @@
     "domain_group": "Topology and Geometry",
     "role_in_program": "domain-context",
     "role_display": "Domain Context",
-    "journal_or_booktitle": "Publ. Math. Inst. Hautes \\'Etudes Sci.",
+    "journal_or_booktitle": "Publ. Math. Inst. Hautes Etudes Sci.",
     "publisher": "",
     "doi": "",
     "url": "/bibliography/grothendieckega/"

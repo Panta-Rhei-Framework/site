@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen"
+title: "\\\"Uber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen"
 bib_key: "Cantor1874"
 entry_type: "article"
 authors: "Cantor, Georg"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Cantor, Georg. (1874). *\\"Uber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen*. **77**. pp. 258–262."
+formatted_citation: "Cantor, Georg. (1874). *\\\"Uber eine Eigenschaft des Inbegriffes aller reellen algebraischen Zahlen*. **77**. pp. 258–262."
 right_rail:
   toc: false
   related:

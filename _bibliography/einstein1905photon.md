@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt"
+title: "Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt"
 bib_key: "Einstein1905Photon"
 entry_type: "article"
 authors: "Albert Einstein"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Albert Einstein. (1905). *\\"Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt*. Annalen der Physik. **322**(6). pp. 132–148."
+formatted_citation: "Albert Einstein. (1905). *Uber einen die Erzeugung und Verwandlung des Lichtes betreffenden heuristischen Gesichtspunkt*. Annalen der Physik. **322**(6). pp. 132–148."
 right_rail:
   toc: false
   related:

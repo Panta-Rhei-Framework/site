@@ -2,7 +2,7 @@
 title: "The Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory"
 bib_key: "Godel1940"
 entry_type: "book"
-authors: "G\\"odel, Kurt"
+authors: "G\\\"odel, Kurt"
 year: "1940"
 journal_or_booktitle: ""
 publisher: "Princeton University Press"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "G\\"odel, Kurt. (1940). *The Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory*. **3**. Princeton University Press."
+formatted_citation: "G\\\"odel, Kurt. (1940). *The Consistency of the Axiom of Choice and of the Generalized Continuum-Hypothesis with the Axioms of Set Theory*. **3**. Princeton University Press."
 right_rail:
   toc: false
   related:

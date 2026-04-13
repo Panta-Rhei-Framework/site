@@ -1,5 +1,5 @@
 ---
-title: "The Selberg Trace Formula for PSL(2,\mathbb R)"
+title: "The Selberg Trace Formula for PSL(2, R)"
 bib_key: "HejhalSelberg"
 entry_type: "book"
 authors: "Dennis A. Hejhal"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "Dennis A. Hejhal. (1976). *The Selberg Trace Formula for PSL(2,\mathbb R)*. **548**. Springer."
+formatted_citation: "Dennis A. Hejhal. (1976). *The Selberg Trace Formula for PSL(2, R)*. **548**. Springer."
 right_rail:
   toc: false
   related:

@@ -1,5 +1,5 @@
 ---
-title: "Category $\tau$ and the Conformal Primon Gas"
+title: "Category $$ and the Conformal Primon Gas"
 bib_key: "FuchsFuchs26_Primon"
 entry_type: "article"
 authors: "Fuchs, Thorsten and Fuchs, Anna-Sophie"
@@ -19,7 +19,7 @@ domain_group: "Category Theory"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Fuchs, Thorsten and Fuchs, Anna-Sophie. (2026). *Category $\tau$ and the Conformal Primon Gas*. In preparation."
+formatted_citation: "Fuchs, Thorsten and Fuchs, Anna-Sophie. (2026). *Category $$ and the Conformal Primon Gas*. In preparation."
 right_rail:
   toc: false
   related:

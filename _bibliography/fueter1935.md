@@ -1,5 +1,5 @@
 ---
-title: "Die Funktionentheorie der Differentialgleichungen $\Delta u = 0$ und $\Delta\Delta u = 0$"
+title: "Die Funktionentheorie der Differentialgleichungen $ u = 0$ und $ u = 0$"
 bib_key: "Fueter1935"
 entry_type: "article"
 authors: "Rudolf Fueter"
@@ -19,7 +19,7 @@ domain_group: "Topology and Geometry"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Rudolf Fueter. (1935). *Die Funktionentheorie der Differentialgleichungen $\Delta u = 0$ und $\Delta\Delta u = 0$*. Commentarii Mathematici Helvetici. **7**. pp. 307–330."
+formatted_citation: "Rudolf Fueter. (1935). *Die Funktionentheorie der Differentialgleichungen $ u = 0$ und $ u = 0$*. Commentarii Mathematici Helvetici. **7**. pp. 307–330."
 right_rail:
   toc: false
   related:

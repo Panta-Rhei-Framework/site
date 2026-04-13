@@ -1,5 +1,5 @@
 ---
-title: "On the modularity of elliptic curves over $\mathbbQ$: wild 3-adic exercises"
+title: "On the modularity of elliptic curves over $Q$: wild 3-adic exercises"
 bib_key: "BCDMT2001"
 entry_type: "article"
 authors: "Christophe Breuil and Brian Conrad and Fred Diamond and Richard Taylor"
@@ -19,7 +19,7 @@ domain_group: "Number Theory and Analysis"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Christophe Breuil and Brian Conrad and Fred Diamond and Richard Taylor. (2001). *On the modularity of elliptic curves over $\mathbbQ$: wild 3-adic exercises*. Journal of the American Mathematical Society. **14**. pp. 843–939."
+formatted_citation: "Christophe Breuil and Brian Conrad and Fred Diamond and Richard Taylor. (2001). *On the modularity of elliptic curves over $Q$: wild 3-adic exercises*. Journal of the American Mathematical Society. **14**. pp. 843–939."
 right_rail:
   toc: false
   related:

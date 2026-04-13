@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Sauren"
+title: "Uber die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Sauren"
 bib_key: "Arrhenius1889"
 entry_type: "article"
 authors: "Svante Arrhenius"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Svante Arrhenius. (1889). *\\"Uber die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Sauren*. Zeitschrift fur Physikalische Chemie. **4**. pp. 226–248."
+formatted_citation: "Svante Arrhenius. (1889). *Uber die Reaktionsgeschwindigkeit bei der Inversion von Rohrzucker durch Sauren*. Zeitschrift fur Physikalische Chemie. **4**. pp. 226–248."
 right_rail:
   toc: false
   related:

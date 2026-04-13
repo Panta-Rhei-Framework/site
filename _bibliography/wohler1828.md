@@ -1,5 +1,5 @@
 ---
-title: "\\"Uber kunstliche Bildung des Harnstoffs"
+title: "Uber kunstliche Bildung des Harnstoffs"
 bib_key: "wohler1828"
 entry_type: "article"
 authors: "Wohler, Friedrich"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Wohler, Friedrich. (1828). *\\"Uber kunstliche Bildung des Harnstoffs*. Annalen der Physik und Chemie. **88**. pp. 253–256."
+formatted_citation: "Wohler, Friedrich. (1828). *Uber kunstliche Bildung des Harnstoffs*. Annalen der Physik und Chemie. **88**. pp. 253–256."
 right_rail:
   toc: false
   related:

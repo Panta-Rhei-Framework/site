@@ -1,10 +1,10 @@
 ---
-title: "\\"Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie"
+title: "Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie"
 bib_key: "Schwarzschild1916"
 entry_type: "article"
 authors: "Karl Schwarzschild"
 year: "1916"
-journal_or_booktitle: "Sitzungsberichte der Koniglich Preu\ssischen Akademie der Wissenschaften"
+journal_or_booktitle: "Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften"
 publisher: ""
 volume: ""
 number: ""
@@ -19,7 +19,7 @@ domain_group: "Physics"
 role_in_program: "domain-context"
 role_display: "Domain Context"
 type_display: "Article"
-formatted_citation: "Karl Schwarzschild. (1916). *\\"Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie*. Sitzungsberichte der Koniglich Preu\ssischen Akademie der Wissenschaften. pp. 189–196."
+formatted_citation: "Karl Schwarzschild. (1916). *Uber das Gravitationsfeld eines Massenpunktes nach der Einsteinschen Theorie*. Sitzungsberichte der Koniglich Preussischen Akademie der Wissenschaften. pp. 189–196."
 right_rail:
   toc: false
   related:

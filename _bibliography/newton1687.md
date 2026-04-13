@@ -1,5 +1,5 @@
 ---
-title: "Philosophi\ae Naturalis Principia Mathematica"
+title: "Philosophiae Naturalis Principia Mathematica"
 bib_key: "Newton1687"
 entry_type: "book"
 authors: "Isaac Newton"
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Book"
-formatted_citation: "Isaac Newton. (1687). *Philosophi\ae Naturalis Principia Mathematica*. Royal Society."
+formatted_citation: "Isaac Newton. (1687). *Philosophiae Naturalis Principia Mathematica*. Royal Society."
 right_rail:
   toc: false
   related:

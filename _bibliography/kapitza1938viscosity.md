@@ -1,5 +1,5 @@
 ---
-title: "Viscosity of Liquid Helium Below the $\lambda$-Point"
+title: "Viscosity of Liquid Helium Below the $lambda$-Point"
 bib_key: "kapitza1938viscosity"
 entry_type: "article"
 authors: "Kapitza, Pyotr L."
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Kapitza, Pyotr L.. (1938). *Viscosity of Liquid Helium Below the $\lambda$-Point*. Nature. **141**. pp. 74."
+formatted_citation: "Kapitza, Pyotr L.. (1938). *Viscosity of Liquid Helium Below the $lambda$-Point*. Nature. **141**. pp. 74."
 right_rail:
   toc: false
   related:

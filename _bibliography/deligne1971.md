@@ -4,7 +4,7 @@ bib_key: "Deligne1971"
 entry_type: "article"
 authors: "Deligne, Pierre"
 year: "1971"
-journal_or_booktitle: "Publications Mathematiques de l'IH\'ES"
+journal_or_booktitle: "Publications Mathematiques de l'IHES"
 publisher: ""
 volume: "40"
 number: ""
@@ -19,7 +19,7 @@ domain_group: "Foundations and Logic"
 role_in_program: "formal-antecedent"
 role_display: "Formal Antecedent"
 type_display: "Article"
-formatted_citation: "Deligne, Pierre. (1971). *Theorie de Hodge. II*. Publications Mathematiques de l'IH\'ES. **40**. pp. 5–57."
+formatted_citation: "Deligne, Pierre. (1971). *Theorie de Hodge. II*. Publications Mathematiques de l'IHES. **40**. pp. 5–57."
 right_rail:
   toc: false
   related:
