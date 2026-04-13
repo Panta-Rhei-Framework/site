@@ -14,9 +14,9 @@
     "availability_state": "amazon-only-archival",
     "amazon_url": null,
     "open_pdf_url": null,
-    "doi_url": null,
-    "zenodo_doi": null,
-    "zenodo_record_url": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.18088633",
+    "zenodo_doi": "10.5281/zenodo.18088633",
+    "zenodo_record_url": "https://zenodo.org/records/18088633",
     "archival_note": "This volume established Category τ from nine axioms and five generators, constructing internal arithmetic, geometry, and topos structure. The Second Edition substantially rewrites the foundation as a Coherence Kernel with seven axioms (K0–K6), five generators in strict total order, and one operator — a cleaner and more constrained formulation."
   },
   {
@@ -34,9 +34,9 @@
     "availability_state": "amazon-only-archival",
     "amazon_url": null,
     "open_pdf_url": null,
-    "doi_url": null,
-    "zenodo_doi": null,
-    "zenodo_record_url": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.18088678",
+    "zenodo_doi": "10.5281/zenodo.18088678",
+    "zenodo_record_url": "https://zenodo.org/records/18088678",
     "archival_note": "This volume developed the τ³ fibration and holomorphic analysis, culminating in the Central Theorem. The Second Edition refines the split-complex holomorphy framework, strengthens the mutual-determination results, and integrates the full Lean 4 formalization."
   },
   {
@@ -54,9 +54,9 @@
     "availability_state": "amazon-only-archival",
     "amazon_url": null,
     "open_pdf_url": null,
-    "doi_url": null,
-    "zenodo_doi": null,
-    "zenodo_record_url": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.18091256",
+    "zenodo_doi": "10.5281/zenodo.18091256",
+    "zenodo_record_url": "https://zenodo.org/records/18091256",
     "archival_note": "This volume addressed the seven Millennium Problems as spectral forces of a single framework. The Second Edition refines the scope labels (4-tier discipline), sharpens the Langlands bridge, and strengthens the spectral algebra treatment."
   },
   {
@@ -74,9 +74,9 @@
     "availability_state": "amazon-only-archival",
     "amazon_url": null,
     "open_pdf_url": null,
-    "doi_url": null,
-    "zenodo_doi": null,
-    "zenodo_record_url": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.18091302",
+    "zenodo_doi": "10.5281/zenodo.18091302",
+    "zenodo_record_url": "https://zenodo.org/records/18091302",
     "archival_note": "This volume derived quantum mechanics, particle physics, and chemistry from the τ-framework with zero free parameters. The Second Edition consolidates the force mapping (A=π=Weak, B=γ=EM, C=η=Strong, D=α=Gravity, ω=Higgs) and deepens the self-description mechanism."
   },
   {
@@ -94,9 +94,9 @@
     "availability_state": "amazon-only-archival",
     "amazon_url": null,
     "open_pdf_url": null,
-    "doi_url": null,
-    "zenodo_doi": null,
-    "zenodo_record_url": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.18091393",
+    "zenodo_doi": "10.5281/zenodo.18091393",
+    "zenodo_record_url": "https://zenodo.org/records/18091393",
     "archival_note": "This volume treated gravity, cosmology, and condensed matter from the categorical framework. The Second Edition sharpens the Hubble tension resolution, strengthens the dark sector closure, and restructures the cosmological pipeline around the corrected master constant."
   },
   {
@@ -114,9 +114,9 @@
     "availability_state": "amazon-only-archival",
     "amazon_url": null,
     "open_pdf_url": null,
-    "doi_url": null,
-    "zenodo_doi": null,
-    "zenodo_record_url": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.18088382",
+    "zenodo_doi": "10.5281/zenodo.18088382",
+    "zenodo_record_url": "https://zenodo.org/records/18088382",
     "archival_note": "This volume established life as categorical necessity — self-decoding distinctions emerging from the τ-framework. The Second Edition extends the genetic code derivation, strengthens the seven hallmarks, and deepens the BSD-motivic connection."
   },
   {
@@ -134,9 +134,9 @@
     "availability_state": "amazon-only-archival",
     "amazon_url": null,
     "open_pdf_url": null,
-    "doi_url": null,
-    "zenodo_doi": null,
-    "zenodo_record_url": null,
+    "doi_url": "https://doi.org/10.5281/zenodo.18088551",
+    "zenodo_doi": "10.5281/zenodo.18088551",
+    "zenodo_record_url": "https://zenodo.org/records/18088551",
     "archival_note": "This volume developed categorical metaphysics across ontology, aesthetics, language, ethics, and consciousness. The Second Edition substantially expands the treatment (from 92 to 128 chapters), adding the Logos sector, phenomenology, and the final self-enrichment argument."
   }
 ]
