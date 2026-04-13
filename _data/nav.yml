@@ -196,3 +196,5 @@ left_rail:
         url: "/research-program/about/historical-context/"
       - title: "Scope, Status & Scrutiny"
         url: "/research-program/about/scope-status-and-scrutiny/"
+      - title: "Founders"
+        url: "/research-program/founders/"
