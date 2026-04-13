@@ -46,6 +46,51 @@
   {% endif %}
   {% endfor %}
 
+  {% elsif page.lane == "results" %}
+  <!-- Results lane navigation -->
+  <div class="rail-title">Key Results</div>
+  {% for item in site.data.nav.results_nav %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endfor %}
+
+  {% elsif page.lane == "registry" %}
+  <!-- Registry lane navigation -->
+  <div class="rail-title">Registry</div>
+  {% for item in site.data.nav.registry_nav %}
+  {% if item.url %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endif %}
+  {% if item.children %}
+  <div class="nav-section-title">{{ item.title }}</div>
+  <div class="subnav">
+    {% for child in item.children %}
+    <a href="{{ child.url | relative_url }}" class="nav-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
+  {% endfor %}
+
+  {% elsif page.lane == "impact" %}
+  <!-- Impact lane navigation -->
+  <div class="rail-title">Potential Impact</div>
+  {% for item in site.data.nav.impact_nav %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endfor %}
+
+  {% elsif page.lane == "publications" %}
+  <!-- Publications lane navigation -->
+  <div class="rail-title">Publications</div>
+  {% for item in site.data.nav.publications_nav %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endfor %}
+
+  {% elsif page.lane == "verify" %}
+  <!-- Verify lane navigation -->
+  <div class="rail-title">Verify</div>
+  {% for item in site.data.nav.verify_nav %}
+  <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endfor %}
+
   {% else %}
   <!-- Research program lane navigation (default) -->
   <div class="rail-title">Research program</div>

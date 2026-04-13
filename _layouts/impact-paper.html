@@ -14,7 +14,7 @@ layout: default
   <div class="btn-group">
     {% if page.portfolio_id != "" %}
     {% assign pf_slug = page.portfolio_id | replace: "impact-", "" %}
-    <a href="/impact/portfolio/{{ pf_slug }}/" class="btn-secondary">Back to Portfolio</a>
+    <a href="{{ '/impact/portfolio/' | append: pf_slug | append: '/' | relative_url }}" class="btn-secondary">Back to Portfolio</a>
     {% endif %}
   </div>
 </div>

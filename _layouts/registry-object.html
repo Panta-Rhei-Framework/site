@@ -33,7 +33,7 @@ layout: default
   <h3>Depends on ({{ page.dep_count }})</h3>
   <div class="dep-list">
     {% for dep_id in page.depends_on %}
-    <a href="/registry/object/{{ dep_id }}/" class="dep-link">
+    <a href="{{ '/registry/object/' | append: dep_id | append: '/' | relative_url }}" class="dep-link">
       <span class="dep-id">{{ dep_id }}</span>
     </a>
     {% endfor %}
@@ -44,7 +44,7 @@ layout: default
   <h3>Depended on by ({{ page.rev_dep_count }})</h3>
   <div class="dep-list">
     {% for rev_id in page.depended_by %}
-    <a href="/registry/object/{{ rev_id }}/" class="dep-link">
+    <a href="{{ '/registry/object/' | append: rev_id | append: '/' | relative_url }}" class="dep-link">
       <span class="dep-id">{{ rev_id }}</span>
     </a>
     {% endfor %}

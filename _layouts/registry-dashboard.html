@@ -6,8 +6,8 @@ layout: default
   <span class="eyebrow">Registry · Dashboard</span>
   <h1>{{ page.title }}</h1>
   <div class="btn-group">
-    <a href="/registry/books/{{ page.book_slug }}/" class="btn-secondary">Browse Objects</a>
-    <a href="/registry/" class="btn-secondary">All Books</a>
+    <a href="{{ '/registry/books/' | append: page.book_slug | append: '/' | relative_url }}" class="btn-secondary">Browse Objects</a>
+    <a href="{{ '/registry/' | relative_url }}" class="btn-secondary">All Books</a>
   </div>
 </div>
 

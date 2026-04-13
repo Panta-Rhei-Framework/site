@@ -67,6 +67,70 @@ framework_nav:
     url: "/framework/metaphysics/"
     layer: E3
 
+results_nav:
+  - title: "Overview"
+    url: "/results/"
+  - title: "By Problem"
+    url: "/results/by-problem/"
+  - title: "By Domain"
+    url: "/results/by-domain/"
+  - title: "By Book"
+    url: "/results/by-book/"
+
+registry_nav:
+  - title: "Overview"
+    url: "/registry/"
+  - title: "Books"
+    children:
+      - title: "Book I"
+        url: "/registry/books/book-i/"
+      - title: "Book II"
+        url: "/registry/books/book-ii/"
+      - title: "Book III"
+        url: "/registry/books/book-iii/"
+      - title: "Book IV"
+        url: "/registry/books/book-iv/"
+      - title: "Book V"
+        url: "/registry/books/book-v/"
+      - title: "Book VI"
+        url: "/registry/books/book-vi/"
+      - title: "Book VII"
+        url: "/registry/books/book-vii/"
+  - title: "Dashboards"
+    children:
+      - title: "Book I"
+        url: "/registry/dashboards/book-i/"
+      - title: "Book II"
+        url: "/registry/dashboards/book-ii/"
+      - title: "Book III"
+        url: "/registry/dashboards/book-iii/"
+      - title: "Book IV"
+        url: "/registry/dashboards/book-iv/"
+      - title: "Book V"
+        url: "/registry/dashboards/book-v/"
+      - title: "Book VI"
+        url: "/registry/dashboards/book-vi/"
+      - title: "Book VII"
+        url: "/registry/dashboards/book-vii/"
+
+impact_nav:
+  - title: "Overview"
+    url: "/impact/"
+  - title: "By Portfolio"
+    url: "/impact/by-portfolio/"
+  - title: "By Domain"
+    url: "/impact/by-domain/"
+  - title: "By Horizon"
+    url: "/impact/by-horizon/"
+
+publications_nav:
+  - title: "Overview"
+    url: "/publications/"
+
+verify_nav:
+  - title: "Overview"
+    url: "/verify/"
+
 left_rail:
   - title: "About the Research"
     links:

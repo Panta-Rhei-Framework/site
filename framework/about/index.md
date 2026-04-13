@@ -84,6 +84,8 @@ The final self-enrichment: four registers (Empirical, Practical, Diagrammatic, C
 
 ## 60 Framework Modules
 
+*Module architecture: v1.0 (April 2026). The module map may be refined as the extraction and editorial process continues.*
+
 The framework is decomposed into **60 atomic pedagogical modules** organized by understanding-order. Each module is a self-contained unit that traces to specific chapters, registry objects, and results.
 
 {% for m in site.data.framework_modules %}{% if m.id == "E0-001" or m.id == "E1-001" or m.id == "E2-001" or m.id == "E3-001" %}

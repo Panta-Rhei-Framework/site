@@ -14,7 +14,7 @@ layout: default
     <span class="chip">{{ page.object_count }} objects</span>
   </div>
   <div class="btn-group">
-    <a href="/registry/dashboards/{{ page.book_slug }}/" class="btn-secondary">View Dashboard</a>
+    <a href="{{ '/registry/dashboards/' | append: page.book_slug | append: '/' | relative_url }}" class="btn-secondary">View Dashboard</a>
   </div>
 </div>
 
