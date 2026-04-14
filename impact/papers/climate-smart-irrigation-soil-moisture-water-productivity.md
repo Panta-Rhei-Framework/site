@@ -16,13 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Climate-Smart Irrigation, Soil Moisture, and Water Productivity
-
-**Companion Dossier — Panta Rhei Impact: Agriculture Portfolio**
-**Paper 2 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Agriculture is the dominant consumer of the world's freshwater. FAO's 2025 land-and-water assessment reports that agriculture accounted for **72% of total freshwater withdrawals in 2020**, yet produces only some of those withdrawals as durable food value.[^1] The inefficiency is not total — irrigated croplands cover only **22.5% of all cropland** but generate **48% of global crop value** — but water losses through over-application, misscheduling, runoff, evaporative waste, and progressive salinization represent a structural drag on agriculture's productive base.[^2] FAO estimates that soil salinization driven largely by irrigation mismanagement removes **up to 1.5 million hectares from production annually** at a global cost of approximately **USD 27.3 billion per year** in lost output.[^12]

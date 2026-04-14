@@ -18,12 +18,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade AMR, Wastewater, and Environmental Transmission Intelligence
-**Companion Dossier — Panta Rhei Impact: One Health Portfolio**
-**Paper 2 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Antimicrobial resistance (AMR) is one of the most consequential slow-onset public-health emergencies in recorded history. In 2019, 1.27 million deaths were directly attributable to bacterial AMR and 4.95 million deaths were associated with it — placing AMR mortality above HIV/AIDS or malaria for that year.[^1][^2] By 2021, WHO reported 1.14 million directly attributable deaths and 4.71 million associated deaths.[^3] Projections from the O'Neill Review suggest that without intervention, AMR could kill 10 million people per year by 2050 — a toll exceeding all current cancers combined — while imposing a cumulative global economic loss of USD 100 trillion.[^4] The World Bank estimates that an uncontrolled AMR trajectory would push 28 million people into extreme poverty annually by 2050.[^5]

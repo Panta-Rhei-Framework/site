@@ -15,12 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Oceans, Cryosphere, Tipping Elements, and Long-Range Resilience
-**Companion Dossier — Panta Rhei Impact: Climate Portfolio**
-**Paper 4 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 This paper moves the climate-cluster argument from regional adaptation intelligence into the domain of **deep Earth-system inertia, nonlinear risk, and long-horizon resilience**.

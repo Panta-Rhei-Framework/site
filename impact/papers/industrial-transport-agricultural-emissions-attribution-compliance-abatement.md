@@ -18,13 +18,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Industrial, Transport, and Agricultural Emissions Attribution, Compliance, and Abatement
-
-**Companion Dossier — Panta Rhei Impact: Pollution & Circularity Portfolio**
-**Paper 2 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 The global pollution control landscape has reached an inflection point. The easy, broad-stroke victories — sulfur scrubbers on power plants, catalytic converters on cars, bans on leaded gasoline — have largely been achieved in wealthy nations. What remains is harder: the stubborn sectoral hotspots where diffuse sources, cross-boundary transport, measurement gaps, and political economy converge to protect high-emission activities from meaningful accountability. These hotspots are now the primary barrier to the next large tranche of pollution reduction and its associated climate, health, and equity co-benefits.

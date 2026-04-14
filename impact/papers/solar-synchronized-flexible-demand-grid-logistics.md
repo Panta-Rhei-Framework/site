@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Solar-Synchronized Flexible Demand and Grid Logistics
-**Companion Dossier — Panta Rhei Impact: Solar Portfolio**
-**Paper 5 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 This dossier addresses a practical planning question under a deliberately strong but explicitly caveated assumption:

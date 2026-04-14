@@ -16,13 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Pest, Disease, and Livestock-Stress Early Warning
-
-**Companion Dossier — Panta Rhei Impact: Agriculture Portfolio**
-**Paper 3 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 This dossier examines what a physically faithful, law-grounded discrete twin of weather–pathogen–vector–host dynamics — built on the τ framework — could deliver for plant-pest and crop-disease early warning, transboundary animal-disease intelligence, livestock heat-stress management, and One Health biosecurity integration.

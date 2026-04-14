@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Climate Policy Optimization, Investment Prioritization, and International Coordination
-**Companion Dossier — Panta Rhei Impact: Climate Portfolio**
-**Paper 5 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 This paper closes the five-paper climate portfolio by moving from Earth-system intelligence into the domain of **decision architecture**. Papers 1–4 progressively built a case for τ as a bounded-error Earth-system twin covering causal driver trees, regional adaptation, ocean–cryosphere resilience, and tipping-element dynamics. Paper 5 asks the final governance question: if the world possessed more faithful, causally legible, bounded-error climate intelligence, how would that change the way governments, development banks, regulators, investors, and international institutions actually choose, sequence, fund, and coordinate climate action?

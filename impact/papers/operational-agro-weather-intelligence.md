@@ -15,12 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ-Grade Operational Agro-Weather Intelligence
-**Companion Dossier — Panta Rhei Impact: Agriculture Portfolio**
-**Paper 1 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Global agriculture bears one of the largest and most persistent weather-linked loss burdens of any economic sector. FAO's 2025 disaster assessment documents **USD 3.26 trillion in agricultural losses from 1991 to 2023**, averaging USD 99 billion per year — approximately 4% of global agricultural GDP.[^1] The great majority of these losses are driven by weather and climate hazards, and a meaningful share involve field-operation decisions where better short-range intelligence would have changed the outcome.

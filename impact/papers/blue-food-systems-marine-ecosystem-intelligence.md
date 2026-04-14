@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Blue Food Systems and Marine Ecosystem Intelligence
-**Companion Dossier — Panta Rhei Impact: Ocean Portfolio**
-**Paper 3 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Aquatic food systems are simultaneously among the most consequential and most climatically exposed sectors on Earth. FAO's 2024 *State of World Fisheries and Aquaculture* reports total global production of **223.2 million tonnes** in 2022, with aquaculture for the first time exceeding capture fisheries as the dominant source of aquatic animal output — reaching **94.4 million tonnes** at a declared farmgate value of **USD 313 billion** [1]. At least **3.2 billion people** draw more than 20 percent of their animal protein from aquatic foods [2], **62 million people** are employed in primary production, and **over 600 million** depend on the broader sector for part of their livelihoods [3]. The small-scale fisheries subsector alone — often invisible to large-scale analysis — supports roughly **500 million people**, contributes approximately **40 percent** of global capture catch, and accounts for an estimated **90 percent** of the capture-fisheries workforce [4].

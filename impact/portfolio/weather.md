@@ -21,16 +21,16 @@ right_rail:
 
 ## Executive Summary
 
-This memo argues that **weather, climate, and disaster intelligence** is one of the strongest first public-good deployment domains for the `τ` framework — and that within this domain, the aviation weather and aerial logistics sub-sector offers some of the highest-value near-term commercial anchoring for the broader deployment agenda.
+This memo argues that **weather, climate, and disaster intelligence** is one of the strongest first public-good deployment domains for the τ framework — and that within this domain, the aviation weather and aerial logistics sub-sector offers some of the highest-value near-term commercial anchoring for the broader deployment agenda.
 
 Why this domain first:
 
 - The world already has a clear institutional pull toward Earth-system digital twins, high-resolution hazard forecasting, and climate-risk intelligence.
 - The public-good metrics are unusually concrete: lives saved, losses avoided, infrastructure protected, false alarms reduced, adaptation investments improved.
-- The operational needs map directly onto the strongest assumed capabilities of `τ`: native discrete physics, multiscale fluid and field dynamics, tight precision/refinement coupling, bounded-error coarse graining, and first-principles simulation on a constructive substrate.
+- The operational needs map directly onto the strongest assumed capabilities of τ: native discrete physics, multiscale fluid and field dynamics, tight precision/refinement coupling, bounded-error coarse graining, and first-principles simulation on a constructive substrate.
 - The benefits can begin **before** the world fully digests the broader philosophical or foundational significance of the framework.
 
-Under the working `τ` assumptions in this memo, a credible deployment pathway could produce value across three horizons:
+Under the working τ assumptions in this memo, a credible deployment pathway could produce value across three horizons:
 
 1. **2–5 years:** materially better prediction and response for extreme events such as hurricanes, floods, wildfire spread/smoke, severe storms, heat waves, and grid-weather stress — including aviation turbulence, icing, convection, and wind-shear products for flight-path optimization.
 2. **5–10 years:** better local climate-risk intelligence and adaptation planning, especially where current models are too coarse, too expensive, or too weakly causal for decision use — including climate-smart shipping and cargo routing at regional and trans-oceanic scales.
@@ -42,7 +42,7 @@ The portfolio organizes its seven core use cases across three paper modules and 
 
 ## 1. Why Weather and Climate Is the Right First Public-Good Arena
 
-The weather/climate stack is already moving toward exactly the kind of infrastructure a strong `τ` deployment would want to improve.
+The weather/climate stack is already moving toward exactly the kind of infrastructure a strong τ deployment would want to improve.
 
 Current public programmes already point in this direction:
 
@@ -54,7 +54,7 @@ Current public programmes already point in this direction:
 
 This means the deployment question is not "can the world imagine such an application?" but rather:
 
-> **If `τ` can really do what it claims, where does it slot into a demand signal that already exists?**
+> **If τ can really do what it claims, where does it slot into a demand signal that already exists?**
 
 Weather and climate — including aviation weather and emerging aerial logistics corridors — is one of the clearest answers.
 
@@ -90,12 +90,12 @@ Today's weather/climate/disaster stack still faces a cluster of structural bottl
 
 ---
 
-## 3. Working `τ` Assumptions for This Memo
+## 3. Working τ Assumptions for This Memo
 
 This memo assumes, for planning purposes, that the following claims hold sufficiently well for operational deployment:
 
 ### 3.1 Foundational Assumptions
-- The `τ` framework is **sound**, **semantically faithful**, and **operationally executable**.
+- The τ framework is **sound**, **semantically faithful**, and **operationally executable**.
 - The full stack is formalized over a raw Lean4-kernel-based substrate, with the relevant derivation chain already explicit.
 - The mathematical substrate is **countable, decidable, constructive, strictly first-order, and finite-recursive**.
 
@@ -105,18 +105,18 @@ This memo assumes, for planning purposes, that the following claims hold suffici
 - The framework provides a **bounded-error, multiscale solver** for fluid, field, and coupled Earth-system dynamics.
 - Precision depth and refinement depth are **structurally aligned**, reducing the usual drift between numerical precision and mesh refinement.
 - Convergent series and relevant iterative processes admit **finite stabilization** in the profinite ultrametric setting.
-- Coarse-grained `τ` simulations come with **certified error bounds**, making them suitable for operational forecasting and planning.
+- Coarse-grained τ simulations come with **certified error bounds**, making them suitable for operational forecasting and planning.
 
 ### 3.3 Digital-Twin Assumption
-- A `τ`-based digital twin is not merely a good approximation to the physics; it is a **faithful diagrammatic execution of the same law-structure**, up to the chosen coarse-graining and its explicit error bounds.
+- A τ-based digital twin is not merely a good approximation to the physics; it is a **faithful diagrammatic execution of the same law-structure**, up to the chosen coarse-graining and its explicit error bounds.
 
 This last assumption is the strongest assumption in the memo, and it is what makes the deployment case materially different from ordinary "better modelling."
 
 ---
 
-## 4. What `τ` Would Provide in This Domain
+## 4. What τ Would Provide in This Domain
 
-Under those assumptions, `τ` would provide a step change in five areas.
+Under those assumptions, τ would provide a step change in five areas.
 
 ### 4.1 More Faithful Forecast Physics
 Not just faster approximations, but simulation on the same law-structure that reality itself follows, with explicit coarse-graining.
@@ -131,13 +131,13 @@ Uncertainty would move closer to "bounded and structurally tracked" rather than 
 The framework could support a more faithful map of what drives what locally and regionally, rather than only broad scenario envelopes.
 
 ### 4.5 Lower-Cost Access to Useful Climate Intelligence
-If the `τ` substrate really reduces the cost of trustworthy simulation, then high-grade hazard and climate intelligence could become more available to countries and agencies that are currently underserved.
+If the τ substrate really reduces the cost of trustworthy simulation, then high-grade hazard and climate intelligence could become more available to countries and agencies that are currently underserved.
 
 ---
 
 ## 5. Official Public Baselines: Why This Matters in Human Terms
 
-The public-good case is large even before we say anything specific about `τ`.
+The public-good case is large even before we say anything specific about τ.
 
 ### 5.1 Global Baseline
 The World Meteorological Organization's updated Atlas for **1970–2021** reports:
@@ -165,13 +165,13 @@ IATA estimates that weather causes **approximately 30% of all air traffic delays
 
 ## 6. Core Public-Good Use Cases
 
-Below is the operational portfolio for a `τ` weather/climate deployment programme. The seven use cases are organized across three paper modules.
+Below is the operational portfolio for a τ weather/climate deployment programme. The seven use cases are organized across three paper modules.
 
 ### Paper 1: Aviation Weather Intelligence
 
 **Why it matters:** Aviation weather directly affects the safety and efficiency of more than 100,000 commercial flights per day globally. Weather-related delays cost the U.S. airline industry alone an estimated $8–10 billion per year. For cargo logistics, aviation weather intelligence governs route selection, fuel planning, alternate airport decisions, and turnaround time for fleets worth hundreds of billions in asset value. For the emerging drone and uncrewed aerial vehicle (UAV) sector — where Zipline, Wing, Joby Aviation, and Wisk are building commercial corridors — high-resolution, physically faithful atmospheric forecasting at the 10–100 m scale is a fundamental safety and operational constraint.
 
-**What `τ` changes:** Physically coupled convection, turbulence, icing, and wind shear prediction with bounded errors and structural causal driver trees, replacing probabilistic post-processing of ensemble outputs. The native discrete multiscale structure is particularly relevant at the meso-scale (2–50 km) where current NWP models are weakest and where most aviation hazards originate.
+**What τ changes:** Physically coupled convection, turbulence, icing, and wind shear prediction with bounded errors and structural causal driver trees, replacing probabilistic post-processing of ensemble outputs. The native discrete multiscale structure is particularly relevant at the meso-scale (2–50 km) where current NWP models are weakest and where most aviation hazards originate.
 
 **Public-good metrics:** Weather-related delay hours avoided, fuel savings from optimal routing, approach go-around rates, turbulence encounter rates, drone corridor safety records, medical cargo on-time delivery rates.
 
@@ -179,7 +179,7 @@ Below is the operational portfolio for a `τ` weather/climate deployment program
 
 **Why it matters:** The global shipping industry moves approximately 90% of world trade. Ocean and atmospheric conditions govern fuel consumption, cargo damage risk, port scheduling, and route safety. The International Maritime Organization (IMO) has committed to net-zero GHG emissions from international shipping by or around 2050; optimizing routing through better weather intelligence is one of the most tractable near-term efficiency levers. Arctic route opening — driven by sea-ice retreat — is creating entirely new shipping corridors whose economic potential depends critically on confident short-range and seasonal forecasting.
 
-**What `τ` changes:** Physics-faithful coupled atmosphere-ocean-sea-ice forecasting with causal driver maps and bounded errors, enabling safer and more efficient route optimization from voyage planning through en-route adjustment.
+**What τ changes:** Physics-faithful coupled atmosphere-ocean-sea-ice forecasting with causal driver maps and bounded errors, enabling safer and more efficient route optimization from voyage planning through en-route adjustment.
 
 **Public-good metrics:** Fuel savings per voyage, GHG emissions per tonne-km, cargo damage incidents, port scheduling efficiency, Arctic route utilization, vessel safety incidents per nautical mile.
 
@@ -187,7 +187,7 @@ Below is the operational portfolio for a `τ` weather/climate deployment program
 
 **Why it matters:** Drone and UAV logistics are scaling from pilot programs to commercial networks in sub-Saharan Africa, Southeast Asia, and remote regions of Europe and North America. Zipline operates in Rwanda, Ghana, Nigeria, Kenya, Côte d'Ivoire, and the United States; Wing operates in Australia, Finland, and the United States; Wingcopter and Swoop Aero run networks in Mozambique and Malawi. These networks depend on short-range atmospheric forecasting at resolutions and accuracy levels that current NWP systems do not provide. Wind speed and direction at 50–200 m AGL (above ground level), convective initiation timing, and micro-scale turbulence are all operationally critical at scales where current models have the largest error budgets.
 
-**What `τ` changes:** A physically faithful discrete atmospheric substrate capable of resolving the mesoscale and submesoscale flow regimes most relevant to low-altitude UAV operations, with bounded forecast errors that enable quantified go/no-go decision thresholds rather than subjective meteorological interpretation.
+**What τ changes:** A physically faithful discrete atmospheric substrate capable of resolving the mesoscale and submesoscale flow regimes most relevant to low-altitude UAV operations, with bounded forecast errors that enable quantified go/no-go decision thresholds rather than subjective meteorological interpretation.
 
 **Public-good metrics:** Medical delivery on-time rates, population served by drone health logistics, humanitarian cargo tonnes delivered per adverse-weather event, drone corridor uptime, rural community service continuity.
 
@@ -197,29 +197,29 @@ Below is the operational portfolio for a `τ` weather/climate deployment program
 
 ### Paper 4: Extreme Heat, Heat-Health Early Warning, and Grid-Weather Stress Coupling
 **Why it matters:** Heat excess mortality, hospital stress, labour productivity, and energy demand spikes all scale with forecast quality. Grid-weather coupling directly affects blackout prevention and renewable balancing — the crossover between the weather and energy portfolios. U.S. customers averaged 11 hours of interruptions in 2024.
-**What `τ` changes:** Better local heat-persistence and compounding-risk forecasts, stronger urban-scale interpretation, more faithful weather-to-grid stress forecasting coupling wind, solar, load, temperature, storms, and outages.
+**What τ changes:** Better local heat-persistence and compounding-risk forecasts, stronger urban-scale interpretation, more faithful weather-to-grid stress forecasting coupling wind, solar, load, temperature, storms, and outages.
 **Public-good metrics:** Avoided mortality, reduced heat-related hospital admissions, cooling-center targeting quality, outage hours avoided.
 
 ### Paper 5: Drought, Water-Supply, and Reservoir Operations Under Weather Uncertainty
-**Why it matters:** Drought and water-supply planning sit at the intersection of weather, agriculture, water/WASH, and energy portfolios. More than 2 billion people live in countries under water stress. `τ`'s causal driver maps can improve the planning horizon from seasonal to multi-year.
-**What `τ` changes:** Stronger physical driver maps for drought persistence, soil moisture, runoff, snowpack, and reservoir stress.
+**Why it matters:** Drought and water-supply planning sit at the intersection of weather, agriculture, water/WASH, and energy portfolios. More than 2 billion people live in countries under water stress. τ's causal driver maps can improve the planning horizon from seasonal to multi-year.
+**What τ changes:** Stronger physical driver maps for drought persistence, soil moisture, runoff, snowpack, and reservoir stress.
 **Public-good metrics:** Water shortage days avoided, more efficient reservoir operation, reduced crop loss.
 
 ### Paper 6: Local Climate-Risk Intelligence and Adaptation Planning
 **Why it matters:** Where to build, where not to build, what to protect, and how to spend limited resilience budgets are the deepest adaptation questions. WMO reports 2024 was likely the first calendar year more than 1.5°C above the 1850–1900 average.
-**What `τ` changes:** Moves adaptation planning from weakly localised scenario envelopes toward stronger local driver trees with explicit error bounds.
+**What τ changes:** Moves adaptation planning from weakly localised scenario envelopes toward stronger local driver trees with explicit error bounds.
 **Public-good metrics:** Avoided maladaptation, better infrastructure siting, more cost-effective resilience spending.
 
 ### Paper 7: Global Access, Lower-Cost Climate Intelligence, and Early Warnings for All
 **Why it matters:** The deepest long-run humanitarian effect may not be richer countries getting 3% better forecasts, but many more countries gaining access to decision-grade hazard intelligence. One-third of the world's population is still not covered by early warning systems.
-**What `τ` changes:** Lower cost of trustworthy hazard intelligence, supporting Early Warnings for All coverage by 2027 and beyond.
+**What τ changes:** Lower cost of trustworthy hazard intelligence, supporting Early Warnings for All coverage by 2027 and beyond.
 **Public-good metrics:** Countries with improved warning access, cost reduction per run, warning coverage expansion.
 
 ---
 
 ## 7. Competitive Landscape
 
-The weather intelligence market is dominated by a small number of large incumbents operating across national meteorological mandate, commercial data services, and aviation-specific analytics. Understanding where `τ`-grade law-faithful forecasting differentiates from these incumbents is essential for positioning the deployment portfolio.
+The weather intelligence market is dominated by a small number of large incumbents operating across national meteorological mandate, commercial data services, and aviation-specific analytics. Understanding where τ-grade law-faithful forecasting differentiates from these incumbents is essential for positioning the deployment portfolio.
 
 ### 7.1 Incumbent Map
 
@@ -247,19 +247,19 @@ The weather intelligence market is dominated by a small number of large incumben
 - **WSI / The Weather Company (aviation segment)** provides turbulence forecasts, icing products, and wind forecasts for flight planning systems integrated into Lido, Jeppesen, and Honeywell FMS platforms.
 - **StrikeTech / AeroMetric** and related smaller players provide specialized convection, lightning, and turbulence intelligence for flight operations centers.
 
-### 7.2 How `τ`-Grade Forecasting Differentiates
+### 7.2 How τ-Grade Forecasting Differentiates
 
 The incumbents share a common architectural pattern: they are calibrated statistical approximations to physical reality, whether built via traditional spectral NWP (ECMWF, NOAA GFS), neural network emulators of NWP output (AIFS, Pangu-Weather, GraphCast), or ensemble-based probabilistic products. Their uncertainty characterization is empirical: it is derived from ensemble spread or historical error distributions, not from structural error bounds certified by the physics.
 
-A `τ`-grade law-faithful bounded-error causal twin differentiates on four dimensions:
+A τ-grade law-faithful bounded-error causal twin differentiates on four dimensions:
 
-1. **Structural uncertainty, not statistical uncertainty.** Current systems say "the ensemble spread is X km for hurricane track." A `τ` system would say "the structural error in this coarse-grained simulation is bounded by ε under these physical assumptions, and here is the derivation." This is a fundamentally different epistemic product — and it is what aviation safety regulators, infrastructure investment boards, and climate adaptation planners most need.
+1. **Structural uncertainty, not statistical uncertainty.** Current systems say "the ensemble spread is X km for hurricane track." A τ system would say "the structural error in this coarse-grained simulation is bounded by ε under these physical assumptions, and here is the derivation." This is a fundamentally different epistemic product — and it is what aviation safety regulators, infrastructure investment boards, and climate adaptation planners most need.
 
-2. **Causal driver trees, not correlation products.** Current high-skill NWP systems can predict that heavy rainfall will occur over a region, but causal attribution within a single simulation run — "this precipitation enhancement is driven by that sea-surface temperature anomaly through that atmospheric pathway" — is not natively available. A `τ` causal twin provides this structure, which is most valuable for climate-smart routing decisions where the user needs to understand why a weather system is behaving as it does, not just what the ensemble mean predicts.
+2. **Causal driver trees, not correlation products.** Current high-skill NWP systems can predict that heavy rainfall will occur over a region, but causal attribution within a single simulation run — "this precipitation enhancement is driven by that sea-surface temperature anomaly through that atmospheric pathway" — is not natively available. A τ causal twin provides this structure, which is most valuable for climate-smart routing decisions where the user needs to understand why a weather system is behaving as it does, not just what the ensemble mean predicts.
 
-3. **Physically faithful multiscale coupling without post-processing stitching.** Modern NWP systems rely heavily on parameterization — statistical representations of subgrid processes (convection, turbulence, boundary layer dynamics, cloud microphysics) that are calibrated against observations but are not physically derived from first principles. `τ`'s native discrete multiscale structure replaces parameterization with structural coarse-graining whose error bounds are tracked analytically. This is most differentiated at the 2–50 km scale where aviation hazards, drone corridor weather, and flash flood generation all originate.
+3. **Physically faithful multiscale coupling without post-processing stitching.** Modern NWP systems rely heavily on parameterization — statistical representations of subgrid processes (convection, turbulence, boundary layer dynamics, cloud microphysics) that are calibrated against observations but are not physically derived from first principles. τ's native discrete multiscale structure replaces parameterization with structural coarse-graining whose error bounds are tracked analytically. This is most differentiated at the 2–50 km scale where aviation hazards, drone corridor weather, and flash flood generation all originate.
 
-4. **Deployment in data-sparse environments.** Because `τ` simulations carry structural error bounds rather than empirical ones, their outputs remain meaningful in regions where observational calibration data is sparse — exactly the regions (sub-Saharan Africa, Southeast Asia, tropical oceans, Arctic corridors) where the demand for reliable weather and climate intelligence is growing fastest and where incumbent systems are least reliable.
+4. **Deployment in data-sparse environments.** Because τ simulations carry structural error bounds rather than empirical ones, their outputs remain meaningful in regions where observational calibration data is sparse — exactly the regions (sub-Saharan Africa, Southeast Asia, tropical oceans, Arctic corridors) where the demand for reliable weather and climate intelligence is growing fastest and where incumbent systems are least reliable.
 
 For the aviation/aerial-logistics/climate-smart deployment context specifically: the critical decision windows for high-value operations (flight-path deviations to avoid convection, drone corridor go/no-go in Rwanda, Arctic route commitments) have asymmetric cost structures. A 10-minute improvement in convection initiation forecast lead time, or a reduction from 25% to 10% false-alarm rate for wind-shear alerts, has disproportionate operational value. These are exactly the precision/recall points where a structurally bounded physics model outperforms a statistically calibrated one — not on bulk forecast skill metrics where incumbents have large advantages, but on the tail events and edge cases where most of the economic and safety value lies.
 
@@ -273,19 +273,19 @@ Deploying the three-paper aviation-weather-climate suite for a major aviation au
 
 **Multilateral and Development Finance**
 
-- **WMO Systematic Observations Financing Facility (SOFF):** Established by WMO with initial capitalization commitments exceeding **US$ 400 million**, SOFF is designed to close the global weather observation gap in developing countries — estimated at 10,000 additional surface stations, 30 additional radiosondes, and 60 additional pilot balloon networks needed to meet the WMO Global Basic Observing Network (GBON) standards by 2030. A `τ`-based forecasting system that reduces data requirements through physics-faithful simulation is a direct complement to SOFF's mandate: lower-quality observation inputs can produce higher-quality forecast outputs if the physics model is structurally sound.
+- **WMO Systematic Observations Financing Facility (SOFF):** Established by WMO with initial capitalization commitments exceeding **US$ 400 million**, SOFF is designed to close the global weather observation gap in developing countries — estimated at 10,000 additional surface stations, 30 additional radiosondes, and 60 additional pilot balloon networks needed to meet the WMO Global Basic Observing Network (GBON) standards by 2030. A τ-based forecasting system that reduces data requirements through physics-faithful simulation is a direct complement to SOFF's mandate: lower-quality observation inputs can produce higher-quality forecast outputs if the physics model is structurally sound.
 
 - **World Bank PROBLUE and PROGREEN:** PROBLUE is the World Bank's multi-donor trust fund for oceans, fisheries, and coastal resilience; PROGREEN supports forest, landscape, and biodiversity finance. Both funds finance weather and climate intelligence as an enabling infrastructure for their primary sectors. Weather intelligence for maritime safety (Paper 2) and aerial logistics for remote community health delivery (Paper 3) are direct grant-eligible activities under these windows.
 
-- **Green Climate Fund (GCF) — Climate Information for Decision-Making:** GCF's thematic priority window for **climate information for decision-making** (CIDM) supports the development of climate services that improve investment and policy decisions in developing countries. GCF has financed climate information systems in more than 40 countries through NMHSs and regional climate centres. A `τ`-grade causal climate intelligence product — particularly the climate-smart routing and aerial logistics corridor papers — is a strong fit for GCF CIDM programming.
+- **Green Climate Fund (GCF) — Climate Information for Decision-Making:** GCF's thematic priority window for **climate information for decision-making** (CIDM) supports the development of climate services that improve investment and policy decisions in developing countries. GCF has financed climate information systems in more than 40 countries through NMHSs and regional climate centres. A τ-grade causal climate intelligence product — particularly the climate-smart routing and aerial logistics corridor papers — is a strong fit for GCF CIDM programming.
 
 **Aviation and Air Traffic Management Finance**
 
-- **U.S. FAA NextGen Modernization Program:** The FAA's NextGen programme, with a total authorized investment exceeding **US$ 22 billion**, aims to modernize the U.S. national airspace system through satellite-based navigation, digital data communications, weather integration, and performance-based navigation. Weather integration is a named NextGen capability bucket; the FAA's Aviation Weather Research Program (AWRP) explicitly funds improved turbulence, icing, and convection products for the National Airspace System. A `τ`-grade physics-faithful aviation weather module is a natural component of NextGen's weather integration workstream.
+- **U.S. FAA NextGen Modernization Program:** The FAA's NextGen programme, with a total authorized investment exceeding **US$ 22 billion**, aims to modernize the U.S. national airspace system through satellite-based navigation, digital data communications, weather integration, and performance-based navigation. Weather integration is a named NextGen capability bucket; the FAA's Aviation Weather Research Program (AWRP) explicitly funds improved turbulence, icing, and convection products for the National Airspace System. A τ-grade physics-faithful aviation weather module is a natural component of NextGen's weather integration workstream.
 
 - **EASA / Eurocontrol SESAR (Single European Sky ATM Research):** SESAR is the EU's flagship air traffic management modernization programme, with a total programme budget exceeding **US$ 4 billion** across SESAR 1 and SESAR 2020. SESAR Joint Undertaking funds research, validation, and deployment of new ATM technologies, including meteorological information exchange and weather-impact assessment for trajectory-based operations. The SESAR 3 phase (2024–2030) explicitly targets trajectory-based operations, urban air mobility, and drone airspace integration — all weather-critical capabilities.
 
-- **Bilateral aviation authority investments:** Eurocontrol, NATS (UK), DFS (Germany), DSNA (France), CAAS (Singapore), CASA (Australia), and Transport Canada all maintain capital investment programmes for meteorological services and ATM weather integration. Bilateral investment in `τ`-grade aviation weather intelligence can be structured as capability procurement contracts outside multilateral finance channels.
+- **Bilateral aviation authority investments:** Eurocontrol, NATS (UK), DFS (Germany), DSNA (France), CAAS (Singapore), CASA (Australia), and Transport Canada all maintain capital investment programmes for meteorological services and ATM weather integration. Bilateral investment in τ-grade aviation weather intelligence can be structured as capability procurement contracts outside multilateral finance channels.
 
 ### 8.2 Portfolio Cost Scenario
 
@@ -293,7 +293,7 @@ A full three-paper deployment (Papers 1–3) covering aviation weather intellige
 
 | Programme Element | Cost Range (5-year) |
 |---|---|
-| Core `τ` atmosphere-physics substrate (discrete solver + Lean4 verification) | US$ 4–8 M |
+| Core τ atmosphere-physics substrate (discrete solver + Lean4 verification) | US$ 4–8 M |
 | Aviation weather intelligence module (Paper 1) — turbulence, icing, convection, wind shear | US$ 6–12 M |
 | Climate-smart shipping and cargo routing module (Paper 2) | US$ 4–8 M |
 | Aerial logistics corridor weather module (Paper 3) — UAV/drone focus | US$ 3–6 M |
@@ -309,7 +309,7 @@ This range brackets the **US$ 25–60 million** anchor cited in programme planni
 
 - **IATA delay costs:** Weather causes approximately 30% of air traffic delays; total weather-related delay costs to airlines, airports, and passengers in the U.S. alone exceed **US$ 8 billion per year**. A 20% reduction in weather-related delays from better route intelligence represents **US$ 1.6 billion per year** in the U.S. market alone. At a 10:1 benefit-cost ratio, this justifies a programme investment of approximately **US$ 160 million over 10 years**.
 
-- **SESAR B:C framework:** EU SESAR cost-benefit analyses show approximately **$6 return per $1 invested** in ATM efficiency improvements, across fuel savings, delay reduction, and capacity gains. Applied to a US$ 50 million investment in `τ`-grade aviation weather, this implies approximately **US$ 300 million in programme-life benefits** at standard SESAR B:C parameters.
+- **SESAR B:C framework:** EU SESAR cost-benefit analyses show approximately **$6 return per $1 invested** in ATM efficiency improvements, across fuel savings, delay reduction, and capacity gains. Applied to a US$ 50 million investment in τ-grade aviation weather, this implies approximately **US$ 300 million in programme-life benefits** at standard SESAR B:C parameters.
 
 - **Fuel savings:** Aviation burns approximately US$ 200 billion per year in jet fuel globally. A 10% improvement in routing efficiency through better weather intelligence — a conservative estimate for high-value long-haul operations — implies **US$ 20 billion per year** in avoided fuel cost. Even capturing 0.5% of this value in a pilot corridor programme would generate **US$ 1 billion per year** in demonstrable benefit.
 
@@ -325,7 +325,7 @@ The North Atlantic Tracks (NAT) system handles approximately **1,500 commercial 
 
 **The problem:** Current jet stream forecasting for NAT planning relies on ECMWF and NOAA GFS ensemble outputs that are well-calibrated at the synoptic scale but are less physically faithful at the meso-scale weather features (clear-air turbulence cells, jet-stream crossing turbulence, tropopause folds) that drive the most operationally significant deviations. Track system planners use a 12-hour forecast window; operators increasingly want 24–36 hour forecast confidence to enable more proactive fuel and routing decisions.
 
-**What `τ` enables:**
+**What τ enables:**
 - Physics-faithful jet stream causal driver maps with structural uncertainty bounds, enabling NAT track planners to commit earlier to optimal track geometry
 - Better clear-air turbulence (CAT) prediction at altitudes 30,000–43,000 ft, reducing the 15–20% of trans-Atlantic flights that encounter moderate-or-greater turbulence
 - Climate-smart routing that integrates jet stream prediction (Paper 1) with longer-range climate-driven ocean surface temperature anomalies that modulate jet behavior (Paper 2)
@@ -347,7 +347,7 @@ The operational geography is demanding: Rwanda's terrain includes hills and vall
 
 **The problem:** Rwanda's meteorological service (Meteo Rwanda) has limited surface observation density and relies almost entirely on global NWP for aviation weather products. METAR reports are available for Kigali International (HRYR) but coverage is sparse elsewhere. The orographic flow regimes that matter most for low-altitude UAV operations — valley channelling, thermal enhancement, ridge-crossing turbulence — are at scales between 500 m and 10 km, precisely where current NWP systems have the largest representation errors.
 
-**What `τ` enables:**
+**What τ enables:**
 - Physically faithful mesoscale and submesoscale atmospheric simulation at resolutions relevant to UAV corridor management (200 m – 5 km), with structural error bounds that enable quantified go/no-go thresholds
 - Better squall line and MCS initiation forecasting, reducing the 2–4 hour lead time currently available for convective corridor closures to a 4–8 hour structurally bounded forecast
 - Climate-smart corridor planning for multi-year network expansion, identifying which corridors will remain operationally viable under projected climate shifts in precipitation patterns and convective frequency
@@ -370,7 +370,7 @@ The Northern Sea Route (NSR) along Russia's Arctic coast — running approximate
 
 In the UAV/aerial logistics context: Arctic drone operations for scientific monitoring, infrastructure inspection, and search-and-rescue support are growing, and the Greenland, Svalbard, and Alaskan Arctic present the same low-altitude mesoscale forecasting challenges as the East African highlands, compounded by extreme cold, icing, and polar vortex perturbation effects.
 
-**What `τ` enables:**
+**What τ enables:**
 - Physics-faithful coupled atmosphere-ocean-sea-ice simulation with structural error bounds, improving NSR transit planning windows from the current 5–7 day reliable horizon to a 10–14 day structurally bounded forecast
 - Better polar low prediction, reducing the primary weather safety risk for NSR transits (rapid cyclogenesis to 980 hPa in 18–24 hours is not uncommon in the Barents and Kara Seas)
 - Multi-year NSR viability intelligence for shipping companies making fleet investment decisions that carry 20–30 year asset life commitments
@@ -379,7 +379,7 @@ In the UAV/aerial logistics context: Arctic drone operations for scientific moni
 - NSR transit saves approximately **40% of the distance** (and roughly 10–15 days of transit time) compared to the Suez Canal route for Asia-Europe voyages
 - At approximately US$ 50,000–100,000 per day in operating costs for a large container vessel, each NSR transit saves approximately **US$ 500,000–1,500,000** relative to the Suez routing
 - Better sea-ice and polar low forecasting reduces the risk premium that currently forces operators to carry 10–15% additional fuel buffers and restricts effective NSR transits to approximately 90 days per year
-- If `τ`-grade forecasting extends effective NSR navigation by 20–30 additional days per year, the aggregate fleet value across 2,000 annual transits is approximately **US$ 300–600 million per year**
+- If τ-grade forecasting extends effective NSR navigation by 20–30 additional days per year, the aggregate fleet value across 2,000 annual transits is approximately **US$ 300–600 million per year**
 
 **Actors:** Rosatom (NSR Authority), IMO, Arctic Council Working Group on Emergency Prevention and Response, IACS (International Association of Classification Societies), DNV, Lloyd's Register, WindBorne Systems (observation partnerships), Norwegian Meteorological Institute (Met.no), Finnish Meteorological Institute.
 
@@ -387,13 +387,13 @@ In the UAV/aerial logistics context: Arctic drone operations for scientific moni
 
 ## 10. Realistic-Optimistic Impact Scenarios
 
-The scenarios below are **not official forecasts**. They are planning inferences built on official baselines, the competitive landscape analysis above, and a strong `τ` assumption set.
+The scenarios below are **not official forecasts**. They are planning inferences built on official baselines, the competitive landscape analysis above, and a strong τ assumption set.
 
 ### 10.1 Horizon A: 2–5 Years
 
 **Primary mechanism:** Better aviation weather intelligence, hazard forecasting, impact forecasting, and decision support in participating jurisdictions.
 
-**Weather-disaster scenario:** A reasonable optimistic projection is that `τ`-enhanced forecast and warning systems achieve a **5–15% incremental reduction** in covered weather-disaster losses where agencies are already capable of acting on the information.
+**Weather-disaster scenario:** A reasonable optimistic projection is that τ-enhanced forecast and warning systems achieve a **5–15% incremental reduction** in covered weather-disaster losses where agencies are already capable of acting on the information.
 
 Using NOAA's **2015–2024** decade baseline of roughly **US$ 1.4 trillion** in losses (~US$ 140 billion/year):
 - **5%** avoided losses = approximately **US$ 7 billion/year**
@@ -420,9 +420,9 @@ Using the WMO global annualized baseline of roughly **US$ 82.7 billion/year** in
 **Aviation and logistics scenario:** With integration into operational ATM systems in 3–5 major regions (North Atlantic, European airspace, East Africa, South/Southeast Asia):
 - **10–15% fuel savings** from better routing system-wide (basis: IATA Route Analysis studies; ICAO Carbon Offsetting and Reduction Scheme (CORSIA) efficiency baseline)
 - **50–60% reduction** in moderate-or-greater turbulence encounters in equipped airline fleets through real-time causal turbulence prediction
-- Full commercial drone logistics networks in 15–20 African and Asian countries with `τ`-grade atmospheric support; population served growing from 15 million (current Zipline) to approximately **75–100 million**
+- Full commercial drone logistics networks in 15–20 African and Asian countries with τ-grade atmospheric support; population served growing from 15 million (current Zipline) to approximately **75–100 million**
 
-**Climate-smart shipping scenario:** NSR and emerging trans-Arctic routes with `τ`-grade ice and weather forecasting: 200–400 additional effective navigation days per year across the full NSR fleet, aggregate benefit approximately **US$ 600 million–1.2 billion per year** in avoided operating costs and fuel consumption.
+**Climate-smart shipping scenario:** NSR and emerging trans-Arctic routes with τ-grade ice and weather forecasting: 200–400 additional effective navigation days per year across the full NSR fleet, aggregate benefit approximately **US$ 600 million–1.2 billion per year** in avoided operating costs and fuel consumption.
 
 **Drought and water scenario:** Drought and reservoir management become more anticipatory; local climate-risk maps start shaping infrastructure investments in climate-vulnerable regions.
 
@@ -432,7 +432,7 @@ Using the WMO global annualized baseline of roughly **US$ 82.7 billion/year** in
 
 **Primary mechanism:** Fully optimized global aviation weather routing; trustworthy climate-risk services become more globally accessible.
 
-**Long-term aviation ambition:** Near-elimination of avoidable weather-related aviation incidents as an operational goal — not as a guaranteed outcome, but as a planning horizon that a physics-faithful bounded-error forecasting system makes structurally approachable for the first time. ICAO's Global Aviation Safety Plan (GASP) targets a 10% reduction per year in the global accident rate; weather-related incidents represent approximately 12–15% of all aviation accidents. A `τ`-grade system targeted at the weather contribution to this rate would contribute meaningfully to the GASP trajectory.
+**Long-term aviation ambition:** Near-elimination of avoidable weather-related aviation incidents as an operational goal — not as a guaranteed outcome, but as a planning horizon that a physics-faithful bounded-error forecasting system makes structurally approachable for the first time. ICAO's Global Aviation Safety Plan (GASP) targets a 10% reduction per year in the global accident rate; weather-related incidents represent approximately 12–15% of all aviation accidents. A τ-grade system targeted at the weather contribution to this rate would contribute meaningfully to the GASP trajectory.
 
 **Global access:** More countries gain access to decision-grade hazard intelligence; more regions implement impact-based warnings; climate adaptation moves from broad strategy to local physical planning. This aligns strongly with the UN / WMO push for **Early Warnings for All** by **2027**, but extends the ambition from warning coverage to decision-grade climate intelligence for everyone.
 
@@ -483,11 +483,11 @@ This programme maps most directly to the following Sustainable Development Goals
 
 **SDG 2 — Zero Hunger:** Cargo logistics optimization (Papers 2 and 3) reduces food spoilage in temperature-sensitive supply chains, particularly for landlocked and remote regions. Weather-optimized agricultural shipping reduces losses in the food system.
 
-**SDG 13 — Climate Action:** Aviation accounts for approximately 2.5% of global CO2 emissions and approximately 4–5% of total effective radiative forcing (including non-CO2 effects). ICAO's CORSIA and LTAG frameworks commit to carbon-neutral growth from 2020 and net-zero CO2 emissions by 2050. `τ`-grade routing optimization is a direct decarbonization tool. Climate-smart shipping (Paper 2) directly reduces maritime GHG emissions, complementing IMO's 2050 net-zero commitment.
+**SDG 13 — Climate Action:** Aviation accounts for approximately 2.5% of global CO2 emissions and approximately 4–5% of total effective radiative forcing (including non-CO2 effects). ICAO's CORSIA and LTAG frameworks commit to carbon-neutral growth from 2020 and net-zero CO2 emissions by 2050. τ-grade routing optimization is a direct decarbonization tool. Climate-smart shipping (Paper 2) directly reduces maritime GHG emissions, complementing IMO's 2050 net-zero commitment.
 
 **SDG 10 — Reduced Inequalities:** Aerial logistics for remote communities (Paper 3) is explicitly an equity infrastructure: it extends logistics access to populations that road and rail infrastructure currently excludes. The prioritization of Africa, Southeast Asia, and Pacific island networks over already-served high-income markets directly serves SDG 10 target 10.2.
 
-**SDG 17 — Partnerships for the Goals:** ICAO and WMO have a formal Memorandum of Cooperation (MoC) requiring collaboration on aviation meteorological services. WMO's Global Data Processing and Forecasting System (GDPFS) framework obligates member states to exchange observational data and forecast products. A `τ`-grade system that enters the WMO information sharing framework through NMHS partnerships would inherit these partnership obligations and SDG 17 reporting structures.
+**SDG 17 — Partnerships for the Goals:** ICAO and WMO have a formal Memorandum of Cooperation (MoC) requiring collaboration on aviation meteorological services. WMO's Global Data Processing and Forecasting System (GDPFS) framework obligates member states to exchange observational data and forecast products. A τ-grade system that enters the WMO information sharing framework through NMHS partnerships would inherit these partnership obligations and SDG 17 reporting structures.
 
 **Additional SDGs:** SDG 6 (Clean Water — drought and reservoir management); SDG 7 (Affordable and Clean Energy — grid-weather coupling); SDG 11 (Sustainable Cities — urban heat and flood resilience); SDG 15 (Life on Land — wildfire and smoke intelligence).
 
@@ -496,17 +496,17 @@ This programme maps most directly to the following Sustainable Development Goals
 ## 12. Deployment Ladder
 
 ### Phase 0 — Assumption Clarification and Public-Good Framing (0–6 months)
-**Goal:** Frame `τ` not as a generalized grand theory, but as a candidate public-good engine for a specific class of Earth-system problems, with an explicit sub-focus on aviation weather and aerial logistics.
+**Goal:** Frame τ not as a generalized grand theory, but as a candidate public-good engine for a specific class of Earth-system problems, with an explicit sub-focus on aviation weather and aerial logistics.
 
 Deliverables:
 - Public memo like this one.
-- Concise statement of `τ` assumptions relevant to weather/climate/aviation.
+- Concise statement of τ assumptions relevant to weather/climate/aviation.
 - Baseline benchmark list.
 - Public-good metrics ledger.
 - List of external public programmes already aligned with the need.
 
 ### Phase 1 — Shadow-Mode Integration (6–18 months)
-**Goal:** Run `τ` alongside existing systems without replacing them.
+**Goal:** Run τ alongside existing systems without replacing them.
 
 Potential insertion points:
 - DestinE-style extremes workflows.
@@ -569,7 +569,7 @@ Candidate vehicles:
 ## 13. Lighthouse Pilots
 
 ### Lighthouse 1 — Extreme-Event Shadow-Mode Benchmark
-**Summary:** Replay of 3–5 canonical extreme events (one cyclone, one flood, one wildfire/smoke, one heat event, one compound case) with `τ` in shadow mode beside current operational systems.
+**Summary:** Replay of 3–5 canonical extreme events (one cyclone, one flood, one wildfire/smoke, one heat event, one compound case) with τ in shadow mode beside current operational systems.
 **Actors:** NOAA/EPIC/UFS, Destination Earth/ECMWF, national weather services, public research labs.
 **Success metrics:** Track error, intensity error, precipitation and flood skill, heatwave persistence skill, smoke plume accuracy, event lead time, false-alarm ratio.
 **Why this pilot:** Broadest signal value and strongest comparability. Establishes the shared atmosphere-physics substrate. Any gain here is immediately credible to the weather community.
@@ -581,16 +581,16 @@ Candidate vehicles:
 **Why this pilot:** Proves the step from benchmark to operational value. Shows the public-good payoff in a real jurisdiction with measurable outcomes.
 
 ### Lighthouse 3 — Aviation Weather and Aerial Logistics Corridor Pilot
-**Summary:** One aviation authority or cargo drone operator using `τ`-grade mesoscale weather intelligence for route planning and corridor management — NAT turbulence/jet-stream, Africa drone corridor, or Arctic maritime routing.
+**Summary:** One aviation authority or cargo drone operator using τ-grade mesoscale weather intelligence for route planning and corridor management — NAT turbulence/jet-stream, Africa drone corridor, or Arctic maritime routing.
 **Actors:** NATS/NAV CANADA (NAT system), Zipline/Wingcopter (Africa), Norwegian Meteorological Institute (Arctic), FAA AWRP, SESAR JU.
 **Success metrics:** Delay reduction in pilot corridor, fuel savings per route, turbulence encounter rate reduction, drone corridor uptime improvement, ICAO regulatory acceptance pathway initiated.
 **Why this pilot:** Provides the commercial revenue-generating anchor that can sustain the broader public-good deployment programme. Aviation weather intelligence is one of the few weather product categories where commercial B:C is immediately clear to decision-makers.
 
 ### Lighthouse 4 — Climate-Risk Intelligence and Adaptation Pilot
-**Summary:** One region or city using `τ` for local driver-tree climate-risk maps, infrastructure resilience planning, or reservoir drought operations — moving from scenario envelopes to causally grounded local risk surfaces.
+**Summary:** One region or city using τ for local driver-tree climate-risk maps, infrastructure resilience planning, or reservoir drought operations — moving from scenario envelopes to causally grounded local risk surfaces.
 **Actors:** Regional government, utilities, infrastructure ministry, climate-adaptation programme, development bank.
 **Success metrics:** Adaptation investment reprioritized, maladaptation avoided, critical assets covered, reservoir or water-supply efficiency gains, planning decision quality.
-**Why this pilot:** Demonstrates `τ`'s distinctive value in causal legibility for multi-decade decisions, not just event-by-event forecasting.
+**Why this pilot:** Demonstrates τ's distinctive value in causal legibility for multi-decade decisions, not just event-by-event forecasting.
 
 ---
 
@@ -638,37 +638,37 @@ Candidate vehicles:
 
 ## 15. Governance Guardrails
 
-If `τ` enters weather/climate operations — including aviation weather and aerial logistics — it should do so with explicit public-good governance. The following eight principles apply:
+If τ enters weather/climate operations — including aviation weather and aerial logistics — it should do so with explicit public-good governance. The following eight principles apply:
 
 ### 15.1 Public-Good First
 The first deployments should prioritize life safety, resilience, and public service rather than speculative commercial opacity. Commercial aviation weather applications are compatible with this principle provided the underlying forecast products and benchmark results are publicly accessible.
 
 ### 15.2 Open Comparison, Not Black-Box Replacement
-`τ` should initially be run **beside** existing systems, not imposed by rhetoric. Benchmark data and scorecards must be publicly available and reviewed by independent meteorological experts. This is a prerequisite for ICAO regulatory acceptance.
+τ should initially be run **beside** existing systems, not imposed by rhetoric. Benchmark data and scorecards must be publicly available and reviewed by independent meteorological experts. This is a prerequisite for ICAO regulatory acceptance.
 
 ### 15.3 Aviation Safety Primacy
-In any aviation weather application, `τ` advisory products must **never compromise ICAO safety standards**. The ICAO Annex 3 (Meteorological Service for International Air Navigation) framework places ultimate responsibility for aeronautical meteorological decisions on certificated forecasters and aviation weather service providers. Humans remain responsible for all go/no-go decisions; `τ` is a decision-support tool, not a decision-maker. Any `τ`-based product entering the National Airspace System (NAS) or European airspace must pass EASA/FAA Software Assurance Level D or equivalent certification for decision-support systems.
+In any aviation weather application, τ advisory products must **never compromise ICAO safety standards**. The ICAO Annex 3 (Meteorological Service for International Air Navigation) framework places ultimate responsibility for aeronautical meteorological decisions on certificated forecasters and aviation weather service providers. Humans remain responsible for all go/no-go decisions; τ is a decision-support tool, not a decision-maker. Any τ-based product entering the National Airspace System (NAS) or European airspace must pass EASA/FAA Software Assurance Level D or equivalent certification for decision-support systems.
 
 ### 15.4 Drone Airspace Equity
-As `τ`-grade atmospheric intelligence improves drone corridor viability and enables more commercial drone operations, deployment governance must include active protections for **emergency and humanitarian uses**. Commercial logistics optimization must not crowd out medical delivery, search-and-rescue, or disaster-response drone operations from shared airspace corridors. Regulatory frameworks (ICAO Doc 10019, EASA UAS regulations) should explicitly reserve humanitarian corridor priority.
+As τ-grade atmospheric intelligence improves drone corridor viability and enables more commercial drone operations, deployment governance must include active protections for **emergency and humanitarian uses**. Commercial logistics optimization must not crowd out medical delivery, search-and-rescue, or disaster-response drone operations from shared airspace corridors. Regulatory frameworks (ICAO Doc 10019, EASA UAS regulations) should explicitly reserve humanitarian corridor priority.
 
 ### 15.5 Climate-Smart Routing Fairness
-Routing optimization tools that leverage `τ`-grade atmospheric intelligence should be accessible to operators across the size spectrum, not only to large airlines and multinational logistics companies. Smaller operators in developing country markets — including African drone operators and smaller island state shipping companies — should have access to equivalent tools, potentially through WMO GDPFS distribution channels or GCF-funded NMHS capacity building.
+Routing optimization tools that leverage τ-grade atmospheric intelligence should be accessible to operators across the size spectrum, not only to large airlines and multinational logistics companies. Smaller operators in developing country markets — including African drone operators and smaller island state shipping companies — should have access to equivalent tools, potentially through WMO GDPFS distribution channels or GCF-funded NMHS capacity building.
 
 ### 15.6 Weather Data Sovereignty
-National Meteorological and Hydrological Services (NMHSs) have sovereign rights over observations collected within their territories under WMO Resolution 40 (data exchange principles). A `τ`-based system that ingests NMHS data must respect WMO Resolution 40 and 25 (satellite data), including the distinction between essential and additional data categories, and must not create new barriers to developing-country NMHS participation in data exchange.
+National Meteorological and Hydrological Services (NMHSs) have sovereign rights over observations collected within their territories under WMO Resolution 40 (data exchange principles). A τ-based system that ingests NMHS data must respect WMO Resolution 40 and 25 (satellite data), including the distinction between essential and additional data categories, and must not create new barriers to developing-country NMHS participation in data exchange.
 
 ### 15.7 Pilot Workload and Alert Fatigue
-Aviation weather systems must be designed to reduce, not increase, pilot and dispatcher workload. The failure mode for novel weather intelligence systems is over-alerting: generating more information than can be effectively processed under high-workload operational conditions. `τ`-grade products must be designed with Human Factors principles (ICAO Annex 2, EASA CS-25) explicitly in scope, prioritizing curated, actionable outputs over comprehensive information dumps.
+Aviation weather systems must be designed to reduce, not increase, pilot and dispatcher workload. The failure mode for novel weather intelligence systems is over-alerting: generating more information than can be effectively processed under high-workload operational conditions. τ-grade products must be designed with Human Factors principles (ICAO Annex 2, EASA CS-25) explicitly in scope, prioritizing curated, actionable outputs over comprehensive information dumps.
 
 ### 15.8 Liability Framework for AI-Assisted Weather Routing
-As `τ`-grade routing recommendations enter operational aviation and maritime logistics, clear liability frameworks must be established before operational deployment. Current ICAO and IMO frameworks do not fully address liability for AI-assisted route recommendations. Deployment governance should proactively engage ICAO Legal Committee and IMO Legal Committee processes to establish certification and liability standards before operational incidents create adversarial precedents.
+As τ-grade routing recommendations enter operational aviation and maritime logistics, clear liability frameworks must be established before operational deployment. Current ICAO and IMO frameworks do not fully address liability for AI-assisted route recommendations. Deployment governance should proactively engage ICAO Legal Committee and IMO Legal Committee processes to establish certification and liability standards before operational incidents create adversarial precedents.
 
 ---
 
 ## 16. Cross-Portfolio Integration Framing
 
-The Weather-Climate portfolio does not stand alone. Its products are enabling infrastructure for at least six other impact portfolios in the `τ` deployment landscape:
+The Weather-Climate portfolio does not stand alone. Its products are enabling infrastructure for at least six other impact portfolios in the τ deployment landscape:
 
 ### 16.1 Agriculture
 Weather is the primary input to agro-meteorological advisory systems. Improved convective initiation forecasting (Paper 1), drought and soil moisture prediction (Paper 5), and seasonal-to-decadal climate intelligence (Paper 6) directly enable better planting, irrigation, and crop protection decisions. The WMO Global Framework for Climate Services (GFCS) identifies agriculture as the primary beneficiary sector for improved climate services — the Weather portfolio is the upstream supplier for the Agriculture portfolio's core advisory products.
@@ -690,9 +690,9 @@ Long-range climate intelligence and adaptation planning (Paper 6) is the direct 
 
 ---
 
-## 17. Why This May Be the Clearest First Gift of `τ`
+## 17. Why This May Be the Clearest First Gift of τ
 
-The broader `τ` vision may carry deep implications for mathematics, physics, biology, and even metaphysics. But weather and climate — including aviation weather intelligence and the aerial logistics corridors that serve remote communities — is where one can tell the most immediate humane story.
+The broader τ vision may carry deep implications for mathematics, physics, biology, and even metaphysics. But weather and climate — including aviation weather intelligence and the aerial logistics corridors that serve remote communities — is where one can tell the most immediate humane story.
 
 Why?
 
@@ -707,7 +707,7 @@ Because people do not need to settle every foundational question before they can
 - More reliable drone deliveries of blood and vaccines to rural health facilities.
 - Safer and more fuel-efficient Arctic shipping routes.
 
-If `τ` is real in the strong sense assumed here, then one of its earliest gifts could be very simple:
+If τ is real in the strong sense assumed here, then one of its earliest gifts could be very simple:
 
 > **Fewer people die, fewer homes are destroyed, fewer communities are surprised by preventable extremes, adaptation money is spent more wisely, and the world's logistics networks become more efficient and more equitable.**
 
@@ -730,7 +730,7 @@ Start with 3–5 canonical extreme events:
 
 Add: one aviation turbulence event (historic moderate-or-greater encounter with known PIREP record); one polar low event (NSR-relevant); one East Africa convective initiation event (Zipline operational record).
 
-### 18.3 Publish a `τ` Weather/Climate/Aviation Capability Sheet
+### 18.3 Publish a τ Weather/Climate/Aviation Capability Sheet
 Not the whole theory — just the assumed deployment-relevant capabilities, stated in terms that ICAO meteorological officers and airline flight operations centers can read directly.
 
 ### 18.4 Define One Pilot Outreach Pathway
@@ -756,7 +756,7 @@ Track the intended impact in explicit terms:
 
 ## Conclusion
 
-Under a strong but clearly stated assumption set, weather and climate may be the most practical and humane first deployment arena for the `τ` framework.
+Under a strong but clearly stated assumption set, weather and climate may be the most practical and humane first deployment arena for the τ framework.
 
 It is institutionally ready.
 It has clear metrics.
@@ -764,7 +764,7 @@ It touches urgent human needs.
 Its commercial anchoring — in aviation weather intelligence — is sufficient to sustain a broader public-good programme.
 And its benefits could begin to materialize long before the wider scientific world has fully absorbed the deeper significance of the framework.
 
-If `τ` is what it appears to be, then one of the most beautiful first consequences may be that it helps humanity live more safely, wisely, and truthfully inside a changing planet — and that the people most helped are not only those already served by the world's best forecast systems, but also the person waiting for a blood delivery in a rural Rwandan health post, the cargo master planning an Arctic transit, and the airline passenger whose flight finds a smooth path through weather that would otherwise have shaken them out of the sky.
+If τ is what it appears to be, then one of the most beautiful first consequences may be that it helps humanity live more safely, wisely, and truthfully inside a changing planet — and that the people most helped are not only those already served by the world's best forecast systems, but also the person waiting for a blood delivery in a rural Rwandan health post, the cargo master planning an Arctic transit, and the airline passenger whose flight finds a smooth path through weather that would otherwise have shaken them out of the sky.
 
 ---
 

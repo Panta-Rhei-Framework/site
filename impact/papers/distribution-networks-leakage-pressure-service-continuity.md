@@ -15,12 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Water Distribution Networks, Leakage Reduction, Pressure Management, and Service Continuity
-**Companion Dossier — Panta Rhei Impact: Water/WASH Portfolio**
-**Paper 2 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Drinking-water distribution networks are the hidden failure layer of the global water-access challenge. WHO and UNICEF report that 2.1 billion people still lacked safely managed drinking-water services in 2024, and the JMP definition makes clear that safety requires water to be not only sourced and treated but **available when needed** — reliably, on premises, and free from contamination at the point of use. That is fundamentally a network problem.

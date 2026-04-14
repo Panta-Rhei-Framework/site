@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Crop Biology, Breeding, Photosynthesis Engineering, and Targeted Gene Design
-**Companion Dossier — Panta Rhei Impact: Agriculture Portfolio**
-**Paper 5 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 The world entered 2025 with approximately **673 million people** still facing chronic hunger — even after a modest global improvement from 2023 — while climate change continues to compress the productive envelope available to smallholder farmers across the most food-insecure regions on earth. Existing breeding pipelines are long, expensive, and largely empirical: a typical stress-tolerance breeding cycle takes eight to twelve years, and even after investment at scale, many improved varieties fail to reach farmers or fail to perform reliably under real local weather regimes.

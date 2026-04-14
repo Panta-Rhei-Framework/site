@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Fusion Digital Twins, Plasma Control, Heat Exhaust, and ITER–DEMO–Commercialization
-**Companion Dossier — Panta Rhei Impact: Energy Portfolio**
-**Paper 3 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Nuclear fusion has been described, for decades, as the energy source that is always thirty years away. That characterization is now outdated. ITER — the €20 billion intergovernmental experiment designed to demonstrate a tenfold energy gain from plasma — is under construction in Saint-Paul-lès-Durance, France. EUROfusion's Divertor Tokamak Test facility (DTT) will begin plasma operations by the end of 2030. The European DEMO programme is actively designing a machine that will put 300–500 MW of fusion-derived net electricity onto the grid. Private investment in fusion has surpassed **USD 10 billion**, with more than 160 fusion facilities operational, under construction, or planned worldwide. The IAEA's 2025 fusion outlook places fusion as a potential contributor of **10–50% of global electricity by 2100** under various deployment scenarios.[^8]

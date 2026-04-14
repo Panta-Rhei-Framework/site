@@ -16,13 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Flood, Coastal Surge, and Landslide Resilience Intelligence
-
-**Companion Dossier — Panta Rhei Impact: Disaster Portfolio**
-**Paper 2 of 5 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 This dossier addresses one of the clearest and most immediate public-safety opportunities in the entire τ disaster portfolio: whether a physically faithful, bounded-error, coarse-grainable hydro-hazard twin can close the gap between atmospheric physics and street-level flood, surge, and landslide protection. Under the explicit τ assumption, the answer is affirmative — and the scale of avoidable harm at stake is among the largest in the whole portfolio.

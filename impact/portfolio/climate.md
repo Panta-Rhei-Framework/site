@@ -24,9 +24,9 @@ This memo synthesizes five climate yellow papers into one climate opportunity po
 
 The working question is straightforward:
 
-> **If the `τ` framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable Earth-system twin, where are the strongest first-wave climate deployments, and how should they be sequenced for public good?**
+> **If the τ framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable Earth-system twin, where are the strongest first-wave climate deployments, and how should they be sequenced for public good?**
 
-The answer is that the climate domain is one of the highest-leverage `τ` deployment fields — but in a very specific sense.
+The answer is that the climate domain is one of the highest-leverage τ deployment fields — but in a very specific sense.
 
 This portfolio is **not** centered on "getting one more fractional degree right."
 It is centered on a harder and more useful ambition:
@@ -70,7 +70,7 @@ The memo then proposes:
 
 The central recommendation is:
 
-> **Treat climate as one `τ` deployment portfolio with one shared Earth-system causal twin and five mission layers, rather than as five disconnected policy products.**
+> **Treat climate as one τ deployment portfolio with one shared Earth-system causal twin and five mission layers, rather than as five disconnected policy products.**
 
 That is the most efficient path to early proof, cross-domain reuse, and durable public good.
 
@@ -78,19 +78,19 @@ That is the most efficient path to early proof, cross-domain reuse, and durable 
 
 ## 1. Reader stance and caveat structure
 
-This memo adopts the same explicit stance as the other `τ` opportunity portfolios.
+This memo adopts the same explicit stance as the other τ opportunity portfolios.
 
-It does **not** claim that the world has already accepted the full `τ` framework.
+It does **not** claim that the world has already accepted the full τ framework.
 It does **not** attempt to prove the underlying physics here.
 It does **not** ask the reader to settle every deeper foundational implication before assessing deployment value.
 
 Instead, it asks a narrower and more operational question:
 
-> **If `τ` provides the climate-side capabilities claimed for it, how should those capabilities be translated into a coherent climate deployment program?**
+> **If τ provides the climate-side capabilities claimed for it, how should those capabilities be translated into a coherent climate deployment program?**
 
 The working assumptions are:
 
-- `τ` provides a **physically faithful discrete Earth-system twin**;
+- τ provides a **physically faithful discrete Earth-system twin**;
 - this twin is **constructive, bounded-error, and coarse-grainable** across relevant scales;
 - atmosphere, ocean, cryosphere, land, biosphere, and carbon-cycle couplings remain **structurally aligned** rather than being held together only by numerically fragile glue;
 - the twin makes **causal decomposition** materially better than current model stacks;
@@ -101,9 +101,9 @@ Everything that follows is conditional on that stance.
 
 ---
 
-## 2. Why climate is a first-rank `τ` deployment domain
+## 2. Why climate is a first-rank τ deployment domain
 
-Climate is a first-rank `τ` domain for five reasons.
+Climate is a first-rank τ domain for five reasons.
 
 ### 2.1 The stakes are already system-scale
 
@@ -133,7 +133,7 @@ The harder problem is often translating those into a clear **critical path**:
 - how grids, food systems, water systems, and coastal systems interact under one climate regime;
 - and which policy bundles are actually high-leverage rather than merely visible.
 
-This is exactly where a `τ` causal-chain twin would matter.
+This is exactly where a τ causal-chain twin would matter.
 
 ### 2.3 The institutional demand signal already exists
 
@@ -146,7 +146,7 @@ The outside world is already building toward this architecture.
 - **World Bank CCDRs** already try to connect climate physics to jobs, growth, and structural policy choices across **93 economies**.[^14]
 - **DITTO** and the cryosphere-decade architecture already reflect a shift toward long-range Earth-system digital twins and resilience planning.[^15][^16]
 
-This means `τ` would be entering an existing institutional appetite, not trying to invent one from scratch.
+This means τ would be entering an existing institutional appetite, not trying to invent one from scratch.
 
 ### 2.4 The public-good pathways are unusually concrete
 
@@ -183,7 +183,7 @@ It is what helps align them over **years and decades**.
 
 ### 3.2 One physical substrate, five mission layers
 
-The shared `τ` climate twin would support a common core:
+The shared τ climate twin would support a common core:
 
 - atmosphere,
 - oceans,
@@ -368,7 +368,7 @@ Paper 4 should still begin **early in strategic shadow mode**, especially for co
 
 Scores are on a 1–5 scale, where 5 is strongest.
 
-| Paper | Readiness | Public-good scale | `τ` fit | Measurability | Adoption friction | Overall priority |
+| Paper | Readiness | Public-good scale | τ fit | Measurability | Adoption friction | Overall priority |
 |---|---:|---:|---:|---:|---:|---|
 | **1. Earth-system causal twin** | 3 | 5 | 5 | 4 | 4 | **High / foundational** |
 | **2. Carbon / methane / sinks** | 5 | 5 | 5 | 5 | 3 | **Very high** |
@@ -390,21 +390,21 @@ Interpretation:
 
 ### Pilot A — Earth-system causal-chain shadow twin
 
-**Use case:** run `τ` in shadow mode beside a major climate-digital-twin or Earth-system-modeling stack for multi-year policy scenarios and causal-path analysis.
+**Use case:** run τ in shadow mode beside a major climate-digital-twin or Earth-system-modeling stack for multi-year policy scenarios and causal-path analysis.
 **Best counterpart institutions:** DestinE / ECMWF-type programs, NOAA/NESDIS digital-twin efforts, national climate centers, public-interest labs.
 **Primary success metrics:** hindcast skill, causal attribution stability, scenario explainability, update cadence, computational efficiency per resolution horizon.
 **Why first:** establishes the common scientific substrate.
 
 ### Pilot B — Methane and sink-intelligence pilot
 
-**Use case:** combine `τ` with atmospheric observation, inventory, and source/sink intelligence to improve methane response and carbon accounting in a specific national or sectoral setting.
+**Use case:** combine τ with atmospheric observation, inventory, and source/sink intelligence to improve methane response and carbon accounting in a specific national or sectoral setting.
 **Best counterpart institutions:** IMEO/MARS-style programs, WMO G3W / IG3IS actors, CAMS/Copernicus partners, regulators, national methane initiatives.
 **Primary success metrics:** source-attribution accuracy, methane-alert-to-action time, inventory reconciliation gap, sink anomaly lead time, verified emissions reductions or interventions triggered.
-**Why second:** best fit between `τ` climate capability and near-term action.
+**Why second:** best fit between τ climate capability and near-term action.
 
 ### Pilot C — Regional adaptation and sector-coupling pilot
 
-**Use case:** one region, basin, delta, or climate-exposed state using `τ` to jointly plan water, food, health, energy, and urban adaptation actions.
+**Use case:** one region, basin, delta, or climate-exposed state using τ to jointly plan water, food, health, energy, and urban adaptation actions.
 **Best counterpart institutions:** ministries, regional governments, MDB projects, WMO/FAO/WHO-style climate-service partners, cities, utilities.
 **Primary success metrics:** adaptation investment reprioritized, maladaptation avoided, critical assets covered, inter-sector conflicts reduced, climate-service uptake.
 **Why third:** strongest immediate public-good story.
@@ -418,7 +418,7 @@ Interpretation:
 
 ### Pilot E — Climate policy and finance sequencing pilot
 
-**Use case:** use `τ` to support one country, city-network, or MDB portfolio in aligning NDC, NAP, CCDR, grid, methane, resilience, and finance decisions around a common critical path.
+**Use case:** use τ to support one country, city-network, or MDB portfolio in aligning NDC, NAP, CCDR, grid, methane, resilience, and finance decisions around a common critical path.
 **Best counterpart institutions:** finance ministries, climate funds, World Bank / regional MDB teams, UNFCCC implementation support, development agencies.
 **Primary success metrics:** share of investment shifted to high-leverage categories, permitting/implementation bottlenecks surfaced, NDC–NAP–investment coherence, finance mobilized, time from scenario to investment decision.
 **Why fifth:** the most system-transformative governance use case once trust in the earlier layers exists.
@@ -431,7 +431,7 @@ Interpretation:
 
 Goals:
 
-- define the common `τ` Earth-system ontology and data interface;
+- define the common τ Earth-system ontology and data interface;
 - identify benchmark datasets and institutional partners;
 - stand up shadow-mode evaluation environments;
 - define common scorecards across all five papers;
@@ -454,7 +454,7 @@ Priority papers:
 
 Goals:
 
-- run `τ` beside current climate and GHG-monitoring systems;
+- run τ beside current climate and GHG-monitoring systems;
 - test driver attribution, scenario explainability, and source/sink intelligence;
 - build institutional trust through transparent benchmarking.
 
@@ -576,7 +576,7 @@ A common scorecard keeps the five papers comparable.
 
 ### 10.1 The incumbent infrastructure
 
-The global climate intelligence ecosystem is extensive, well-funded, and institutionally entrenched. Understanding where a `τ`-grade climate twin competes, complements, or supersedes existing systems is essential for credible positioning.
+The global climate intelligence ecosystem is extensive, well-funded, and institutionally entrenched. Understanding where a τ-grade climate twin competes, complements, or supersedes existing systems is essential for credible positioning.
 
 **IPCC AR6 Assessment Infrastructure.** The Intergovernmental Panel on Climate Change produces the authoritative synthesis of climate knowledge across Working Groups I (physical science), II (impacts and adaptation), and III (mitigation). AR6, completed 2021–2022, synthesized thousands of studies and is the primary reference for national climate policy and international negotiations. Its core limitation, however, is structural: it synthesizes the literature retrospectively, not prospectively. It produces consensus-weighted ranges rather than causal decompositions, and its seven-year production cycle cannot track the feedback regime of a rapidly accelerating climate system.
 
@@ -584,7 +584,7 @@ The global climate intelligence ecosystem is extensive, well-funded, and institu
 
 **Copernicus Climate Change Service (C3S).** Operated by ECMWF on behalf of the European Commission, C3S provides operational climate monitoring, seasonal forecasting, and reanalysis products including ERA5 and ERA5-Land. It serves thousands of users across energy, agriculture, insurance, and policy. C3S represents the current state of operational climate intelligence at continental to global scales. Its architecture, however, remains fundamentally statistical and reanalysis-based rather than causally structured.
 
-**NOAA / ESA / NASA Climate Monitoring Networks.** These agencies operate the observational backbone of climate monitoring — NOAA's global surface temperature and atmospheric GHG networks, ESA's Climate Change Initiative (CCI) providing Essential Climate Variables from satellite observations, NASA's GISS and AIRS systems. These networks are irreplaceable observational infrastructure and would be natural data partners for a `τ` deployment, not competitors to it.
+**NOAA / ESA / NASA Climate Monitoring Networks.** These agencies operate the observational backbone of climate monitoring — NOAA's global surface temperature and atmospheric GHG networks, ESA's Climate Change Initiative (CCI) providing Essential Climate Variables from satellite observations, NASA's GISS and AIRS systems. These networks are irreplaceable observational infrastructure and would be natural data partners for a τ deployment, not competitors to it.
 
 **World Bank Climate Change Knowledge Portal (CCKP).** The CCKP provides country-level climate projections, exposure and vulnerability indicators, and climate-development diagnostics for use in project design and country planning. It operationalizes CMIP outputs for development finance contexts, serving the World Bank's CCDR program across 93 economies. Its value is primarily in translation and accessibility, not in causal modeling.
 
@@ -592,17 +592,17 @@ The global climate intelligence ecosystem is extensive, well-funded, and institu
 
 **Carbon Cycle Monitoring Networks: ICOS and OCO-2.** The Integrated Carbon Observation System (ICOS) operates approximately 150 stations across Europe and the associated ocean and ecosystem networks. NASA's Orbiting Carbon Observatory-2 and its successor OCO-3 provide satellite-based column CO₂ measurements. Together with the WMO's Global Atmosphere Watch and UNEP's IMEO/MARS methane satellite network, these form the observational backbone for carbon cycle intelligence. The critical gap is not observation density per se but causal attribution: reconciling top-down atmospheric inversions with bottom-up inventory methods remains a major open problem, with disagreements in some regions exceeding 30% for methane and 20% for CO₂ land-sink estimates.
 
-### 10.2 The `τ` differentiator argument
+### 10.2 The τ differentiator argument
 
-A `τ`-grade, law-faithful, bounded-error, causal climate twin would differentiate from the incumbent infrastructure on three structural dimensions.
+A τ-grade, law-faithful, bounded-error, causal climate twin would differentiate from the incumbent infrastructure on three structural dimensions.
 
-**Causal attribution versus statistical pattern.** The incumbent ensemble architecture treats model spread as a proxy for uncertainty and relies on statistical emulators to translate model outputs into decision-relevant quantities. A `τ` climate twin would decompose the Earth-system evolution into a traceable causal chain — from radiative forcing to atmospheric circulation to regional impacts — making mechanism legibility a first-class output rather than an implicit side effect of ensemble averaging. This matters most when policy questions are inherently causal: does reducing methane in the next decade actually change the probability of a given tipping element activating, and by how much? Current model ensembles cannot answer this with structural confidence.
+**Causal attribution versus statistical pattern.** The incumbent ensemble architecture treats model spread as a proxy for uncertainty and relies on statistical emulators to translate model outputs into decision-relevant quantities. A τ climate twin would decompose the Earth-system evolution into a traceable causal chain — from radiative forcing to atmospheric circulation to regional impacts — making mechanism legibility a first-class output rather than an implicit side effect of ensemble averaging. This matters most when policy questions are inherently causal: does reducing methane in the next decade actually change the probability of a given tipping element activating, and by how much? Current model ensembles cannot answer this with structural confidence.
 
 **Bounded error versus ensemble spread.** The CMIP6 ensemble spreads represent model disagreement, not formally bounded computational error. A bounded-error constructive twin would provide a mathematically disciplined uncertainty envelope: the error is a function of resolution and scale, not of arbitrary model architecture differences. For financial risk assessment, regulatory risk disclosure, and investment planning, there is a categorical difference between "our ensemble disagrees by X" and "our computation is accurate within Y for questions at scale Z." The second statement is what institutions actually need to make binding commitments.
 
-**Multi-scale coarse-grainability versus fixed-resolution models.** CMIP6 models operate at fixed spatial resolutions, with downscaling applied as a separate post-processing step that introduces its own uncertainties. A coarse-grainable `τ` twin would preserve physical consistency across scales, allowing the same causal architecture to address global forcing questions, regional adaptation planning, and sector-scale impact assessment without inserting a statistical break at each scale transition. This is especially important for the adaptation use cases in Paper 3, where the gap between global projections and local planning decisions is currently bridged by statistical downscaling techniques of variable quality.
+**Multi-scale coarse-grainability versus fixed-resolution models.** CMIP6 models operate at fixed spatial resolutions, with downscaling applied as a separate post-processing step that introduces its own uncertainties. A coarse-grainable τ twin would preserve physical consistency across scales, allowing the same causal architecture to address global forcing questions, regional adaptation planning, and sector-scale impact assessment without inserting a statistical break at each scale transition. This is especially important for the adaptation use cases in Paper 3, where the gap between global projections and local planning decisions is currently bridged by statistical downscaling techniques of variable quality.
 
-The competitive strategy is therefore not displacement but **augmentation and upgrade**: `τ` runs beside CMIP6, ERA5, and NGFS, progressively replacing the statistical glue between scales and mechanisms with a causally traceable substrate. In the near term, the most defensible claim is not "replace CMIP6" but "provide the causal decomposition that CMIP6 cannot."
+The competitive strategy is therefore not displacement but **augmentation and upgrade**: τ runs beside CMIP6, ERA5, and NGFS, progressively replacing the statistical glue between scales and mechanisms with a causally traceable substrate. In the near term, the most defensible claim is not "replace CMIP6" but "provide the causal decomposition that CMIP6 cannot."
 
 ---
 
@@ -616,7 +616,7 @@ The global climate finance architecture has grown substantially and is now large
 
 **World Bank Climate Investment Funds (CIFs).** The Climate Investment Funds, with total pledges exceeding **US$8 billion**, operate through five targeted programs: the Clean Technology Fund, the Forest Investment Program, the Pilot Program for Climate Resilience, the Scaling Up Renewable Energy Program, and the recently added Nature, People and Climate program. The CIFs operate through MDB lending windows, multiplying concessional capital by approximately 5:1 against co-financing. Better causal intelligence on which interventions are physically high-leverage would directly improve CIF program design.
 
-**NDC Partnership Finance Windows.** The NDC Partnership coordinates technical and financial support for NDC implementation across more than 120 countries through a network of over 40 donor partners and 20 support agencies. Its finance facilitation work connects country NDC implementation needs to bilateral, multilateral, and private finance channels. A `τ` intelligence layer that maps country NDC commitments against causal climate pathways would strengthen the partnership's ability to match finance to genuinely high-leverage interventions.
+**NDC Partnership Finance Windows.** The NDC Partnership coordinates technical and financial support for NDC implementation across more than 120 countries through a network of over 40 donor partners and 20 support agencies. Its finance facilitation work connects country NDC implementation needs to bilateral, multilateral, and private finance channels. A τ intelligence layer that maps country NDC commitments against causal climate pathways would strengthen the partnership's ability to match finance to genuinely high-leverage interventions.
 
 **UNFCCC Adaptation Fund.** With cumulative approved financing of approximately US$900 million since 2010, the Adaptation Fund is the principal dedicated international adaptation finance channel for developing countries. It is notable for its direct access modality, which allows national implementing entities to receive funding without multilateral intermediaries. Better regional causal impact intelligence (Paper 3) would improve project design under the Adaptation Fund's community-based focus.
 
@@ -624,7 +624,7 @@ The global climate finance architecture has grown substantially and is now large
 
 ### 11.2 Portfolio cost scenario
 
-A full four-paper deployment of the `τ` climate intelligence infrastructure as a dedicated service layer for a major multilateral development bank — covering Papers 1 through 3 and Paper 5 in operational mode over a five-year program — would be estimated in the range of **US$40–100 million total** (Phase 0 through Phase 2, years 0–5). This estimate reflects:
+A full four-paper deployment of the τ climate intelligence infrastructure as a dedicated service layer for a major multilateral development bank — covering Papers 1 through 3 and Paper 5 in operational mode over a five-year program — would be estimated in the range of **US$40–100 million total** (Phase 0 through Phase 2, years 0–5). This estimate reflects:
 
 - a dedicated technical implementation team of 15–30 scientists and engineers;
 - high-performance computing infrastructure at the scale needed for multi-decadal Earth-system runs;
@@ -638,13 +638,13 @@ This is a significant but not exceptional investment by MDB standards. The World
 
 IPCC AR6 Working Group III estimates that climate adaptation needs globally will reach approximately **US$1.8 trillion per year by 2030** across all sectors and geographies. The current adaptation finance gap — the difference between what is flowing and what is needed — is approximately US$310–340 billion per year for developing countries alone.[^4] Even a modest improvement in the targeting quality of this flow has very large implied value.
 
-The benefit-cost anchor is straightforward: if a `τ` intelligence infrastructure investment of US$40–100 million over five years improves the allocation efficiency of adaptation finance flows by even **0.5%** against the developing-country adaptation finance gap of US$310 billion per year, the implied annual benefit exceeds the total five-year investment cost in the first year. The realism of this estimate depends on empirical deployment results, not on a priori claims. But the structural logic is sound: when the capital base is large and the allocation quality is low, intelligence improvements have very high marginal return.
+The benefit-cost anchor is straightforward: if a τ intelligence infrastructure investment of US$40–100 million over five years improves the allocation efficiency of adaptation finance flows by even **0.5%** against the developing-country adaptation finance gap of US$310 billion per year, the implied annual benefit exceeds the total five-year investment cost in the first year. The realism of this estimate depends on empirical deployment results, not on a priori claims. But the structural logic is sound: when the capital base is large and the allocation quality is low, intelligence improvements have very high marginal return.
 
 ---
 
 ## 12. Portfolio-level case studies
 
-Three case studies illustrate how the `τ` climate portfolio would function in practice across different geographies, institutional settings, and paper combinations.
+Three case studies illustrate how the τ climate portfolio would function in practice across different geographies, institutional settings, and paper combinations.
 
 ### Case Study 1 — Small Island Developing States: Papers 1 + 2 + 3 (Carbon cycle + Regional adaptation + Ocean-cryosphere tipping)
 
@@ -652,7 +652,7 @@ Three case studies illustrate how the `τ` climate portfolio would function in p
 
 **The current intelligence gap.** National adaptation plans for SIDS are typically built on global CMIP6 projections downscaled to regional resolution using statistical methods, with substantial uncertainty that does not degrade gracefully at island scale. The critical decisions — whether to invest in coastal protection or managed retreat, how to prioritize between freshwater infrastructure and coastal defense, when coral reef restoration remains viable versus when to plan for reef-loss adaptation — require causal resolution at scales below what ensemble models reliably provide.
 
-**The `τ` deployment chain.** Paper 1 provides the shared Earth-system causal substrate, enabling mechanistic tracing of how global forcing (radiative balance, AMOC state, ENSO regime) propagates to regional ocean-surface conditions. Paper 2 improves attribution of carbon cycle state, relevant for reef acidification projections and the timing of irreversible ecosystem transitions. Paper 3 translates the coupled physical-biological signals into regionally specific decision support: timing and scale of coastal protection investments, freshwater infrastructure priorities under a salinity-intrusion regime, and agricultural adaptation pathways for atoll island food systems.
+**The τ deployment chain.** Paper 1 provides the shared Earth-system causal substrate, enabling mechanistic tracing of how global forcing (radiative balance, AMOC state, ENSO regime) propagates to regional ocean-surface conditions. Paper 2 improves attribution of carbon cycle state, relevant for reef acidification projections and the timing of irreversible ecosystem transitions. Paper 3 translates the coupled physical-biological signals into regionally specific decision support: timing and scale of coastal protection investments, freshwater infrastructure priorities under a salinity-intrusion regime, and agricultural adaptation pathways for atoll island food systems.
 
 **Quantified stakes.** For a representative SIDS like the Maldives (population 520,000, GDP approximately US$6 billion), better causal resolution of sea-level rise and storm surge risk directly affects the sizing and timing of coastal protection investments already being designed at US$100–300 million scale. For the Pacific SIDS collectively, the World Bank estimates climate adaptation costs of approximately US$800 million per year by 2030. For the Caribbean, the Caribbean Catastrophe Risk Insurance Facility (CCRIF) already operationalizes parametric climate risk at national scale; better causal attribution of extreme event probabilities would improve the actuarial basis of the entire regional risk-pooling architecture.
 
@@ -662,7 +662,7 @@ Three case studies illustrate how the `τ` climate portfolio would function in p
 
 **The current intelligence gap.** Sahel rainfall projections from CMIP6 carry among the highest regional disagreement of any climate variable, reflecting deep model uncertainty about the West African monsoon response to greenhouse gas forcing. This uncertainty propagates directly into maladaptation risk: infrastructure and agricultural investments designed for a wetter Sahel may strand assets if the monsoon actually weakens under given forcing trajectories, and vice versa. Better causal decomposition of the monsoon response — separating greenhouse gas forcing, aerosol effects, land-surface feedbacks, and Atlantic sea-surface temperature influence — is one of the most consequential open questions in regional adaptation planning.
 
-**The `τ` deployment chain.** Paper 3 provides mechanistically grounded regional impact intelligence for Sahel water and agricultural systems, replacing purely statistical downscaling with a causally traceable pathway from global forcing to regional precipitation and soil moisture regimes. Paper 5 translates this into investment prioritization: sequencing Great Green Wall revegetation zones against a causal monsoon sensitivity map, prioritizing drought-resistant variety introduction where precipitation decline is structurally probable, and designing contingent finance triggers for food security intervention based on early-warning signals from the causal model.
+**The τ deployment chain.** Paper 3 provides mechanistically grounded regional impact intelligence for Sahel water and agricultural systems, replacing purely statistical downscaling with a causally traceable pathway from global forcing to regional precipitation and soil moisture regimes. Paper 5 translates this into investment prioritization: sequencing Great Green Wall revegetation zones against a causal monsoon sensitivity map, prioritizing drought-resistant variety introduction where precipitation decline is structurally probable, and designing contingent finance triggers for food security intervention based on early-warning signals from the causal model.
 
 **Quantified stakes.** The Great Green Wall initiative targets restoration of 100 million hectares of degraded land across the Sahel at an estimated investment of US$43 billion. Current sequencing of that investment is based primarily on ecological and logistical criteria, with climate trajectory uncertainty handled through scenario analysis rather than causal decomposition. A 10% improvement in the causal targeting of revegetation zones — by ensuring investment concentrates where precipitation regimes are most supportive under structural forcing — would imply approximately US$4 billion in better-allocated capital within the Great Green Wall program alone.
 
@@ -672,7 +672,7 @@ Three case studies illustrate how the `τ` climate portfolio would function in p
 
 **The current intelligence gap.** The dual role of Southeast Asian rice systems — as climate victims and methane sources — makes them a particularly important target for integrated causal intelligence. Current methane inventories for the region carry high uncertainty, partly because emissions are highly sensitive to water management practices, soil temperature, and organic matter content, all of which vary substantially across the region's microclimates. At the same time, heat and flood stress projections for Southeast Asian rice agriculture carry high model uncertainty, with CMIP6 models disagreeing significantly on the trajectory of the Southeast Asian monsoon and associated extreme event frequencies.
 
-**The `τ` deployment chain.** Paper 2 improves methane source attribution for Southeast Asian rice systems, providing better regional disaggregation of paddy emissions and a causal link between water management practices and atmospheric methane concentration — directly useful for ASEAN member states designing agricultural methane reduction as part of their NDC revisions. Paper 3 translates climate impact projections for rice yield, flood exposure, and heat stress into regionally specific adaptation planning intelligence, disaggregated to the basin and province level where agricultural investment decisions are actually made. Paper 5 then connects both streams into investment prioritization: which adaptation investments in irrigation, variety development, and early-warning systems are physically high-leverage given the causal trajectory of regional forcing, and how can they be sequenced within ASEAN member state NDC finance envelopes?
+**The τ deployment chain.** Paper 2 improves methane source attribution for Southeast Asian rice systems, providing better regional disaggregation of paddy emissions and a causal link between water management practices and atmospheric methane concentration — directly useful for ASEAN member states designing agricultural methane reduction as part of their NDC revisions. Paper 3 translates climate impact projections for rice yield, flood exposure, and heat stress into regionally specific adaptation planning intelligence, disaggregated to the basin and province level where agricultural investment decisions are actually made. Paper 5 then connects both streams into investment prioritization: which adaptation investments in irrigation, variety development, and early-warning systems are physically high-leverage given the causal trajectory of regional forcing, and how can they be sequenced within ASEAN member state NDC finance envelopes?
 
 **Quantified stakes.** Southeast Asian rice systems support the food security of approximately 600 million people and the livelihoods of approximately 100 million smallholder farm households. The economic exposure of the region to climate-driven rice yield decline is estimated by FAO at US$10–15 billion per year in foregone output by 2050 under a 2°C trajectory, rising significantly under higher warming. The agricultural methane abatement opportunity — primarily through alternate wetting and drying (AWD) water management — represents approximately 200 million tonnes of CO₂-equivalent per year across the region, valued at US$4–10 billion per year at emerging Article 6 carbon market prices. Better causal attribution of where AWD is feasible and effective, and better integration of AWD adoption into national adaptation and mitigation strategies, is a concrete near-term use case for Papers 2 and 3 in combination.
 
@@ -680,7 +680,7 @@ Three case studies illustrate how the `τ` climate portfolio would function in p
 
 ## 13. SDG mapping
 
-The `τ` climate portfolio maps directly to six Sustainable Development Goals, with SDG 13 as the central axis.
+The τ climate portfolio maps directly to six Sustainable Development Goals, with SDG 13 as the central axis.
 
 ### SDG 13 — Climate Action (Central)
 
@@ -688,9 +688,9 @@ SDG 13 is the primary SDG alignment for the entire portfolio. The three most rel
 
 **Target 13.1** — Strengthen resilience and adaptive capacity to climate-related hazards and natural disasters in all countries. Papers 3 and 4 directly serve this target: better regional impact intelligence (Paper 3) improves the evidence base for adaptive capacity investments, and better ocean/cryosphere resilience planning (Paper 4) extends the planning horizon for slow-onset hazards where current decision-support is weakest.
 
-**Target 13.2** — Integrate climate change measures into national policies, strategies, and planning. Paper 5 directly serves this target: a `τ`-supported climate policy optimization layer would help countries align NDCs, NAPs, sector strategies, and public investment programs around a common causal understanding of their climate risk trajectory, reducing the fragmentation between planning documents that currently undermines integrated action.
+**Target 13.2** — Integrate climate change measures into national policies, strategies, and planning. Paper 5 directly serves this target: a τ-supported climate policy optimization layer would help countries align NDCs, NAPs, sector strategies, and public investment programs around a common causal understanding of their climate risk trajectory, reducing the fragmentation between planning documents that currently undermines integrated action.
 
-**Target 13.3** — Improve education, awareness-raising, and human and institutional capacity on climate change mitigation, adaptation, impact reduction, and early warning. The transparent causal-chain architecture of `τ` — by making the mechanism tree more legible rather than hiding it inside an opaque ensemble — directly supports institutional capacity development. Paper 1's scenario engine, if designed with explainability as a first-class output, would produce a substantially stronger basis for climate literacy in planning agencies, finance ministries, and parliamentary oversight bodies.
+**Target 13.3** — Improve education, awareness-raising, and human and institutional capacity on climate change mitigation, adaptation, impact reduction, and early warning. The transparent causal-chain architecture of τ — by making the mechanism tree more legible rather than hiding it inside an opaque ensemble — directly supports institutional capacity development. Paper 1's scenario engine, if designed with explainability as a first-class output, would produce a substantially stronger basis for climate literacy in planning agencies, finance ministries, and parliamentary oversight bodies.
 
 ### SDG 7 — Affordable and Clean Energy
 
@@ -710,23 +710,23 @@ Paper 3's sectoral coupling layer, applied to urban climate risk, would provide 
 
 ### SDG 17 — Partnerships for the Goals
 
-The architecture of the `τ` climate portfolio is inherently partnership-structured: UNFCCC/IPCC partnerships for scenario validation, Article 6 cooperation for carbon market integrity, and the full MDB climate finance system for investment sequencing. Paper 5 in particular would create a shared causal substrate for the international coordination mechanisms that SDG 17 is designed to strengthen.
+The architecture of the τ climate portfolio is inherently partnership-structured: UNFCCC/IPCC partnerships for scenario validation, Article 6 cooperation for carbon market integrity, and the full MDB climate finance system for investment sequencing. Paper 5 in particular would create a shared causal substrate for the international coordination mechanisms that SDG 17 is designed to strengthen.
 
 ---
 
 ## 14. Quantified 5/10/20-year scenario bands
 
-The following scenario bands describe quantified public-good improvement pathways conditional on the `τ` climate portfolio's deployment assumptions. They are not forecasts; they are structured estimates grounded in current official baselines and plausible impact trajectories.
+The following scenario bands describe quantified public-good improvement pathways conditional on the τ climate portfolio's deployment assumptions. They are not forecasts; they are structured estimates grounded in current official baselines and plausible impact trajectories.
 
 ### 14.1 Five-year scenario (2026–2031): Driver intelligence and regional planning
 
-The most achievable five-year gains concentrate in the domains of Paper 2 (driver attribution) and Paper 3 (regional adaptation), where `τ` can plug into existing operational workflows.
+The most achievable five-year gains concentrate in the domains of Paper 2 (driver attribution) and Paper 3 (regional adaptation), where τ can plug into existing operational workflows.
 
-**Extreme event attribution accuracy.** Current probabilistic event attribution studies achieve roughly 60–75% causal confidence for major extreme events (heatwaves, extreme rainfall, droughts) in data-rich regions, dropping substantially in data-sparse regions. A `τ` causal climate twin operating in shadow mode beside ERA5 and CMIP6 would, on a realistic implementation trajectory, bring causal attribution confidence for major events in well-instrumented regions to 85–92% within five years, and extend attribution capability to data-sparse regions where current methods fail. The basis for this estimate is the structural improvement in causal decomposition that a bounded-error mechanistic twin provides over purely statistical attribution methods.
+**Extreme event attribution accuracy.** Current probabilistic event attribution studies achieve roughly 60–75% causal confidence for major extreme events (heatwaves, extreme rainfall, droughts) in data-rich regions, dropping substantially in data-sparse regions. A τ causal climate twin operating in shadow mode beside ERA5 and CMIP6 would, on a realistic implementation trajectory, bring causal attribution confidence for major events in well-instrumented regions to 85–92% within five years, and extend attribution capability to data-sparse regions where current methods fail. The basis for this estimate is the structural improvement in causal decomposition that a bounded-error mechanistic twin provides over purely statistical attribution methods.
 
-**Carbon and methane flux uncertainty bounds.** Current estimates of global land sink strength carry uncertainties of approximately ±1.5–2.0 GtC per year (roughly ±20% of the estimated mean), and key regional methane flux estimates carry even larger relative uncertainties. A `τ` framework that causally integrates atmospheric observation, land-surface dynamics, and carbon cycle physics would, on a realistic timeline, reduce terrestrial carbon flux uncertainty to ±0.8–1.2 GtC per year (roughly halving the current uncertainty range) and improve methane source attribution to sub-regional level, closing the gap between top-down atmospheric inversions and bottom-up inventory estimates to within 10–15% for major source categories. The basis is that bounded-error constructive integration of observational constraints outperforms statistical ensemble inversion when the causal model is correct.
+**Carbon and methane flux uncertainty bounds.** Current estimates of global land sink strength carry uncertainties of approximately ±1.5–2.0 GtC per year (roughly ±20% of the estimated mean), and key regional methane flux estimates carry even larger relative uncertainties. A τ framework that causally integrates atmospheric observation, land-surface dynamics, and carbon cycle physics would, on a realistic timeline, reduce terrestrial carbon flux uncertainty to ±0.8–1.2 GtC per year (roughly halving the current uncertainty range) and improve methane source attribution to sub-regional level, closing the gap between top-down atmospheric inversions and bottom-up inventory estimates to within 10–15% for major source categories. The basis is that bounded-error constructive integration of observational constraints outperforms statistical ensemble inversion when the causal model is correct.
 
-**Adaptation finance targeting improvement.** Current adaptation finance allocation is largely portfolio-discretionary, with limited causal connection between physical risk trajectories and investment choices. A three-country Paper 3 pilot by year five would provide the evidentiary basis to estimate reallocation effects. Based on World Bank CCDR experience and MDB portfolio design patterns, a realistic five-year estimate is that `τ`-supported regional climate intelligence would shift 3–8% of adaptation investment in pilot countries from lower- to higher-leverage interventions, implying US$0.5–2 billion in better-targeted capital per year in the pilot countries, and a significantly larger amount if the methodology is adopted at scale.
+**Adaptation finance targeting improvement.** Current adaptation finance allocation is largely portfolio-discretionary, with limited causal connection between physical risk trajectories and investment choices. A three-country Paper 3 pilot by year five would provide the evidentiary basis to estimate reallocation effects. Based on World Bank CCDR experience and MDB portfolio design patterns, a realistic five-year estimate is that τ-supported regional climate intelligence would shift 3–8% of adaptation investment in pilot countries from lower- to higher-leverage interventions, implying US$0.5–2 billion in better-targeted capital per year in the pilot countries, and a significantly larger amount if the methodology is adopted at scale.
 
 ### 14.2 Ten-year scenario (2031–2036): NDC cycle integration and climate finance alignment
 
@@ -734,21 +734,21 @@ The ten-year window corresponds to the 2030–2035 NDC revision cycle under the 
 
 **NDC planning integration.** A mature Paper 5 deployment by 2031–2033 would provide causal scenario intelligence to 15–25 major emitters and developing country coalitions in their NDC revision processes, improving the coherence between stated emissions targets, planned policy measures, and the causal physical understanding of what each measure actually delivers. The principal near-term metric would be a reduction in the gap between NDC conditional targets (requiring international support) and the causal evidence for their physical effectiveness — a gap that currently allows large-scale hedging in NDC design.
 
-**Climate finance misallocation reduction.** The COP29 climate finance goal of US$300 billion/year for developing countries by 2035 creates a benchmark against which better intelligence can be measured. If by 2031–2034 a `τ`-supported investment intelligence layer is operating within two to three major MDB programs, reducing misallocation by 5–10% against their climate portfolio, the implied improvement in climate finance effectiveness would be US$5–15 billion per year better-targeted capital. This is consistent with McKinsey estimates of the cost of misallocation in large public investment programs.
+**Climate finance misallocation reduction.** The COP29 climate finance goal of US$300 billion/year for developing countries by 2035 creates a benchmark against which better intelligence can be measured. If by 2031–2034 a τ-supported investment intelligence layer is operating within two to three major MDB programs, reducing misallocation by 5–10% against their climate portfolio, the implied improvement in climate finance effectiveness would be US$5–15 billion per year better-targeted capital. This is consistent with McKinsey estimates of the cost of misallocation in large public investment programs.
 
 ### 14.3 Twenty-year scenario (2036–2046): Systemic architecture improvement
 
-The twenty-year scenario is the most structural and the most uncertain. It hinges on whether the `τ` climate portfolio succeeds in becoming a shared causal substrate for climate governance rather than a specialized tool for specific pilot applications.
+The twenty-year scenario is the most structural and the most uncertain. It hinges on whether the τ climate portfolio succeeds in becoming a shared causal substrate for climate governance rather than a specialized tool for specific pilot applications.
 
 **Climate governance operating system upgrade.** The deepest twenty-year effect would be a change in the architecture of how climate governance functions: one shared causal substrate replacing the current patchwork of ensemble models, statistical downscaling, sectoral impact models, and integrated assessment models, each with its own uncertainty accounting and its own translation into policy terms. This is not a marginal improvement; it is a change in the quality of the collective evidence base for climate action at the scale of the entire Paris Agreement machinery.
 
-**Finance allocation efficiency improvement.** Over a twenty-year horizon, if the `τ` intelligence architecture is integrated into UNFCCC, MDB, and national planning systems at scale, the plausible range for systemic improvement in climate finance allocation efficiency is 10–20% of total flows — implying US$60–260 billion per year in better-targeted capital at the 2035 finance scale. The basis for this estimate is the scale of documented misallocation in current climate programs (World Bank independent evaluation, OECD climate finance tracking, and academic analysis of adaptation finance effectiveness).
+**Finance allocation efficiency improvement.** Over a twenty-year horizon, if the τ intelligence architecture is integrated into UNFCCC, MDB, and national planning systems at scale, the plausible range for systemic improvement in climate finance allocation efficiency is 10–20% of total flows — implying US$60–260 billion per year in better-targeted capital at the 2035 finance scale. The basis for this estimate is the scale of documented misallocation in current climate programs (World Bank independent evaluation, OECD climate finance tracking, and academic analysis of adaptation finance effectiveness).
 
 ---
 
 ## 15. Cross-portfolio integration framing
 
-The `τ` climate portfolio does not stand alone in the broader `τ` impact ecosystem. It is both an upstream supplier and a downstream consumer of intelligence from every other major portfolio domain.
+The τ climate portfolio does not stand alone in the broader τ impact ecosystem. It is both an upstream supplier and a downstream consumer of intelligence from every other major portfolio domain.
 
 ### 15.1 Climate and agriculture
 
@@ -760,7 +760,7 @@ Climate change is the slow-motion driver of almost every category of natural dis
 
 ### 15.3 Climate and oceans
 
-The climate and ocean portfolios share the deepest structural overlap. Ocean heat uptake is the dominant buffer of the climate system; ocean circulation is both a driver of regional climate variability and a potential tipping element. Paper 4's ocean component and the standalone ocean portfolio address complementary dimensions: the climate portfolio addresses the ocean as a component of the Earth-system causal chain (how ocean state evolution affects atmosphere, carbon cycle, and cryosphere), while the ocean portfolio addresses the ocean as a resource system (fisheries, marine ecosystems, shipping, deep-sea carbon sequestration). A shared `τ` Earth-system substrate would serve both.
+The climate and ocean portfolios share the deepest structural overlap. Ocean heat uptake is the dominant buffer of the climate system; ocean circulation is both a driver of regional climate variability and a potential tipping element. Paper 4's ocean component and the standalone ocean portfolio address complementary dimensions: the climate portfolio addresses the ocean as a component of the Earth-system causal chain (how ocean state evolution affects atmosphere, carbon cycle, and cryosphere), while the ocean portfolio addresses the ocean as a resource system (fisheries, marine ecosystems, shipping, deep-sea carbon sequestration). A shared τ Earth-system substrate would serve both.
 
 ### 15.4 Climate and water / WASH
 
@@ -776,7 +776,7 @@ The energy transition is the central mitigation track of climate policy, and ene
 
 ### 15.7 The integration architecture
 
-The strategic implication of this cross-portfolio integration is that the `τ` climate portfolio is not merely one of many parallel domain deployments. It is the **shared physical backbone** of the entire impact ecosystem: every adaptation, disaster, agriculture, ocean, water, biodiversity, and energy portfolio decision is made within a climate envelope, and better causal understanding of that envelope improves the quality of every downstream decision. This is why the climate portfolio carries a priority ranking and a resource justification that transcends any individual application domain.
+The strategic implication of this cross-portfolio integration is that the τ climate portfolio is not merely one of many parallel domain deployments. It is the **shared physical backbone** of the entire impact ecosystem: every adaptation, disaster, agriculture, ocean, water, biodiversity, and energy portfolio decision is made within a climate envelope, and better causal understanding of that envelope improves the quality of every downstream decision. This is why the climate portfolio carries a priority ranking and a resource justification that transcends any individual application domain.
 
 ---
 
@@ -786,11 +786,11 @@ The portfolio should be framed with clear and specific guardrails. These are not
 
 ### 16.1 Lead with shadow mode and open benchmarks
 
-Do not ask governments or institutions to trust `τ` as a decision authority on day one. Start with shadow-mode evaluation, transparent comparisons, and open scorecards. The threshold for moving from shadow mode to decision augmentation should be defined quantitatively in advance: a `τ` deployment should be cleared for operational use in a given decision context when it demonstrably outperforms the incumbent system on a pre-agreed benchmark set, not when it is merely claimed to be better.
+Do not ask governments or institutions to trust τ as a decision authority on day one. Start with shadow-mode evaluation, transparent comparisons, and open scorecards. The threshold for moving from shadow mode to decision augmentation should be defined quantitatively in advance: a τ deployment should be cleared for operational use in a given decision context when it demonstrably outperforms the incumbent system on a pre-agreed benchmark set, not when it is merely claimed to be better.
 
 ### 16.2 Scientific integrity of bounded-error claims
 
-The `τ` framework's bounded-error property is a core differentiator and a core responsibility. Bounded-error claims must be stated with rigorous specification of what is bounded, at what scale, under what resolution assumptions, and what remains outside the bounds. Overstating attribution confidence — claiming that a specific extreme event was caused by climate change with higher precision than the underlying physics warrants — would be scientifically harmful and would undermine institutional trust faster than any incumbent competition. The discipline of making bounded claims that are actually respected by the model is more valuable than broad claims that cannot be operationally sustained.
+The τ framework's bounded-error property is a core differentiator and a core responsibility. Bounded-error claims must be stated with rigorous specification of what is bounded, at what scale, under what resolution assumptions, and what remains outside the bounds. Overstating attribution confidence — claiming that a specific extreme event was caused by climate change with higher precision than the underlying physics warrants — would be scientifically harmful and would undermine institutional trust faster than any incumbent competition. The discipline of making bounded claims that are actually respected by the model is more valuable than broad claims that cannot be operationally sustained.
 
 ### 16.3 Tipping-point communication discipline
 
@@ -798,21 +798,21 @@ Climate tipping elements — AMOC slowdown, West Antarctic Ice Sheet destabiliza
 
 ### 16.4 Equity in climate intelligence access
 
-The adaptation gap — the difference between the roughly US$310 billion per year in adaptation needs and the US$26 billion actually flowing — is concentrated in the countries and communities with the least access to advanced climate intelligence. The `τ` climate portfolio must be designed from the outset with Global South accessibility as a first-order requirement, not an afterthought. This means: open data interfaces, not proprietary products; capacity-building partnerships with national meteorological and hydrological services in developing countries; licensing and access structures that do not create a two-tier climate intelligence system between OECD and non-OECD actors; and pilot programs that deliberately prioritize SIDS, least developed countries, and climate-vulnerable middle-income countries, not only the institutional partners most convenient for the technology provider.
+The adaptation gap — the difference between the roughly US$310 billion per year in adaptation needs and the US$26 billion actually flowing — is concentrated in the countries and communities with the least access to advanced climate intelligence. The τ climate portfolio must be designed from the outset with Global South accessibility as a first-order requirement, not an afterthought. This means: open data interfaces, not proprietary products; capacity-building partnerships with national meteorological and hydrological services in developing countries; licensing and access structures that do not create a two-tier climate intelligence system between OECD and non-OECD actors; and pilot programs that deliberately prioritize SIDS, least developed countries, and climate-vulnerable middle-income countries, not only the institutional partners most convenient for the technology provider.
 
 ### 16.5 Article 6 integrity
 
-The `τ` carbon cycle intelligence layer (Paper 2) would improve the measurement, reporting, and verification quality of greenhouse gas accounting that underpins Article 6 carbon market mechanisms. This creates both an opportunity and a responsibility. Improved MRV intelligence must not be used to enable double-counting, low-integrity credits, or misleading accounting that inflates the apparent climate benefit of market transactions. The deployment framework for Paper 2 should include explicit commitments to the corresponding adjustment accounting requirements of Article 6.2, to the independent oversight mechanisms of the Article 6.4 supervisory body, and to transparency with civil society actors monitoring market integrity.
+The τ carbon cycle intelligence layer (Paper 2) would improve the measurement, reporting, and verification quality of greenhouse gas accounting that underpins Article 6 carbon market mechanisms. This creates both an opportunity and a responsibility. Improved MRV intelligence must not be used to enable double-counting, low-integrity credits, or misleading accounting that inflates the apparent climate benefit of market transactions. The deployment framework for Paper 2 should include explicit commitments to the corresponding adjustment accounting requirements of Article 6.2, to the independent oversight mechanisms of the Article 6.4 supervisory body, and to transparency with civil society actors monitoring market integrity.
 
 ### 16.6 Public accountability for climate scenario use in finance
 
-As Paper 5 capabilities mature and `τ` scenario outputs begin influencing climate finance decisions at national and multilateral level, the accountability architecture for those decisions must be clearly specified. Who is responsible for a policy or investment decision made in reliance on a `τ` scenario? What disclosure obligations apply when a `τ` scenario is used in public bond prospectuses, development bank project appraisals, or NDC policy documentation? How are errors in the causal model identified, disclosed, and corrected? These questions should be addressed in the governance framework before deployment, not after the first consequential error occurs.
+As Paper 5 capabilities mature and τ scenario outputs begin influencing climate finance decisions at national and multilateral level, the accountability architecture for those decisions must be clearly specified. Who is responsible for a policy or investment decision made in reliance on a τ scenario? What disclosure obligations apply when a τ scenario is used in public bond prospectuses, development bank project appraisals, or NDC policy documentation? How are errors in the causal model identified, disclosed, and corrected? These questions should be addressed in the governance framework before deployment, not after the first consequential error occurs.
 
 ### 16.7 Human judgment in climate policy
 
-`τ` is a decision-support tool, not a policy-automation engine. Climate policy decisions involve value trade-offs — between present and future generations, between mitigation and adaptation, between different geographies and populations, between economic costs and physical risk levels — that cannot be resolved by a causal model, however accurate. The portfolio must be consistently framed as improving the evidence base for human and institutional decision-making, not as replacing it. In every deployment context, the human and institutional layer of judgment, accountability, and democratic legitimacy must remain clearly upstream of the `τ` intelligence layer, not downstream of it.
+τ is a decision-support tool, not a policy-automation engine. Climate policy decisions involve value trade-offs — between present and future generations, between mitigation and adaptation, between different geographies and populations, between economic costs and physical risk levels — that cannot be resolved by a causal model, however accurate. The portfolio must be consistently framed as improving the evidence base for human and institutional decision-making, not as replacing it. In every deployment context, the human and institutional layer of judgment, accountability, and democratic legitimacy must remain clearly upstream of the τ intelligence layer, not downstream of it.
 
-### 16.8 Design for interoperability with the rest of the `τ` portfolios
+### 16.8 Design for interoperability with the rest of the τ portfolios
 
 The climate portfolio should feed the other mission clusters:
 
@@ -836,8 +836,8 @@ By year five, the likeliest wins are:
 
 - methane and carbon-source intelligence improves targeting of rapid-response interventions;
 - sink weakening and carbon-balance anomalies are detected and explained more clearly;
-- selected regions use `τ`-supported adaptation and sector-coupling tools in water, food, health, and energy planning;
-- climate policy teams begin using `τ` in shadow mode for investment-sequencing questions.
+- selected regions use τ-supported adaptation and sector-coupling tools in water, food, health, and energy planning;
+- climate policy teams begin using τ in shadow mode for investment-sequencing questions.
 
 The public-good effect at this stage is less "the climate problem is solved" and more:
 
@@ -852,7 +852,7 @@ A simple planning inference shows why this matters: if even **1–3%** of the em
 
 By year ten, the likely gains are broader:
 
-- countries and MDBs use `τ`-style causal-chain intelligence to align NDCs, NAPs, infrastructure, methane action, adaptation, and finance;
+- countries and MDBs use τ-style causal-chain intelligence to align NDCs, NAPs, infrastructure, methane action, adaptation, and finance;
 - adaptation planning becomes more sector-coupled and less siloed;
 - coastal, cryosphere, and long-range resilience planning becomes more anticipatory;
 - climate-policy design becomes less reliant on headline targets alone and more attentive to enabling systems and causal bottlenecks.
@@ -887,8 +887,8 @@ It is a different **operating system for climate action**.
 3. **Build one benchmark index** for the five lighthouse pilots.
 4. **Prioritize outreach** in this order: Earth-system and GHG-monitoring institutions, adaptation-planning actors, policy/finance partners, then long-range ocean/cryosphere partners.
 5. **Create one public-good scorecard template** so all five papers can be compared on common terms.
-6. **Prepare one portfolio visualization** showing one shared `τ` Earth-system substrate feeding five mission layers.
-7. **Map the climate portfolio explicitly to the downstream `τ` clusters** already developed in disaster response, agriculture, solar, aviation, and oceans.
+6. **Prepare one portfolio visualization** showing one shared τ Earth-system substrate feeding five mission layers.
+7. **Map the climate portfolio explicitly to the downstream τ clusters** already developed in disaster response, agriculture, solar, aviation, and oceans.
 8. **Initiate a competitive landscape benchmarking process** against CMIP6, C3S, and NGFS scenarios to establish baseline comparison metrics before any operational pilot begins.
 9. **Engage GCF Readiness Programme and World Bank CIF program offices** as candidate finance vehicles for the Phase 1 pilot suite.
 10. **Commission a legal and governance scoping study** on Article 6 integrity requirements and public accountability frameworks for climate scenario use in finance, in advance of Paper 5 deployment discussions.
@@ -897,8 +897,8 @@ It is a different **operating system for climate action**.
 
 ## 19. Conclusion
 
-The climate domain is not only a strong `τ` application area.
-It is one of the clearest places to show what `τ` would mean for civilization-scale decision-making.
+The climate domain is not only a strong τ application area.
+It is one of the clearest places to show what τ would mean for civilization-scale decision-making.
 
 Why?
 
@@ -913,12 +913,12 @@ Because the line from better climate intelligence to public good is unusually di
 
 That is why this portfolio matters.
 
-It shows how `τ` could move from a foundational scientific claim to a practical public-decision instrument:
+It shows how τ could move from a foundational scientific claim to a practical public-decision instrument:
 
 - not only describing reality more faithfully,
 - but helping societies allocate care, capital, and coordination more wisely inside reality.
 
-The competitive landscape is large and institutionally entrenched, but it does not provide what `τ` would uniquely provide: a causally traceable, bounded-error, multi-scale coherent Earth-system substrate. The finance architecture is large enough that even modest improvements in intelligence quality have very large implied benefit. The SDG alignment is deep and multi-dimensional. The cross-portfolio integration means that investment in this portfolio pays dividends across the entire `τ` impact ecosystem.
+The competitive landscape is large and institutionally entrenched, but it does not provide what τ would uniquely provide: a causally traceable, bounded-error, multi-scale coherent Earth-system substrate. The finance architecture is large enough that even modest improvements in intelligence quality have very large implied benefit. The SDG alignment is deep and multi-dimensional. The cross-portfolio integration means that investment in this portfolio pays dividends across the entire τ impact ecosystem.
 
 The appropriate posture is one of disciplined ambition: beginning in shadow mode, building trust through open benchmarks, and expanding operational scope as empirical validation accumulates — while maintaining strict scientific integrity, equity of access, and human accountability as non-negotiable principles throughout.
 
@@ -928,11 +928,11 @@ The appropriate posture is one of disciplined ambition: beginning in shadow mode
 
 This portfolio memo synthesizes the following companion drafts:
 
-1. **`τ`-Grade Earth-System Causal-Chain Digital Twin & Policy Scenario Engine**
-2. **`τ` for Carbon-Cycle, Methane, Aerosol, and Sink Intelligence**
-3. **`τ` for Regional Adaptation Planning & Sectoral Impact Intelligence**
-4. **`τ` for Oceans, Cryosphere, Tipping Elements, and Long-Range Resilience**
-5. **`τ` for Climate Policy Optimization, Investment Prioritization, and International Coordination**
+1. **τ-Grade Earth-System Causal-Chain Digital Twin & Policy Scenario Engine**
+2. **τ for Carbon-Cycle, Methane, Aerosol, and Sink Intelligence**
+3. **τ for Regional Adaptation Planning & Sectoral Impact Intelligence**
+4. **τ for Oceans, Cryosphere, Tipping Elements, and Long-Range Resilience**
+5. **τ for Climate Policy Optimization, Investment Prioritization, and International Coordination**
 
 ---
 

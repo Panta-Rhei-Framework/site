@@ -18,12 +18,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Clean Air Digital Twins and Exposure Intelligence
-**Companion Dossier — Panta Rhei Impact: Pollution & Circularity Portfolio**
-**Paper 1 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Air pollution is the largest single environmental cause of premature death on Earth. WHO reports that **99% of the global population breathes air that exceeds WHO guideline limits**, and that combined ambient and household air pollution is associated with **7 million premature deaths annually**.[^1] UNEP frames the full pollution burden at approximately **9 million deaths per year**, of which air pollution accounts for nearly seven million.[^2] The economic toll is staggering: air pollution costs the global economy approximately **USD 8.1 trillion per year**, equivalent to **6.1% of global GDP**.[^3] Indoor air pollution from household solid fuels and biomass cooking alone accounts for an estimated **3.2 million deaths per year**, predominantly among women and children in low- and middle-income countries.[^1]

@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Bulk-Grid Solar Forecasting and Market Dispatch
-**Companion Dossier — Panta Rhei Impact: Solar Portfolio**
-**Paper 1 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Solar power is no longer a marginal resource. Global solar PV generation reached **2,000 TWh in 2024**, supplying **7% of world electricity**, and cumulative global PV capacity exceeded **2.2 TW** by year-end.[^1][^3] On this scale, forecasting quality is not a technical nicety — it directly determines reserve procurement levels, thermal unit commitment, curtailment volumes, battery dispatch value, and the reliability of high-solar grids under stress.

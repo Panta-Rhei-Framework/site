@@ -24,17 +24,17 @@ This memo synthesizes five yellow papers into one disaster opportunity portfolio
 
 The working question is straightforward:
 
-> **If the `τ` framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable discrete twin of weather–hazard–impact dynamics, where are the strongest first-wave disaster deployments, and how should they be sequenced for public good?**
+> **If the τ framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable discrete twin of weather–hazard–impact dynamics, where are the strongest first-wave disaster deployments, and how should they be sequenced for public good?**
 
-The answer is that disaster prediction, early warning, and resilience is one of the clearest and most humane first-wave deployment fields for `τ`.
+The answer is that disaster prediction, early warning, and resilience is one of the clearest and most humane first-wave deployment fields for τ.
 
 That is true for five reasons.
 
 First, the baseline burden is already immense. WMO reports that weather-, climate-, and water-related hazards caused nearly **12,000 disasters**, **US$4.3 trillion** in reported losses, and **2 million deaths** from **1970–2021**.[^1] The U.S. alone recorded **27** billion-dollar weather and climate disasters in **2024**, causing about **US$182.7 billion** in losses and **568** deaths.[^2] Flooding remains the most common and expensive natural disaster in the United States, with **more than US$8.8 billion** in U.S. flood damage in **2024** according to NFIP/FloodSmart.[^3] Wildfire, smoke, and heat burdens are also very large: NIFC reports **77,850 wildfires**, **5.13 million acres** burned, and **18,385 structures** destroyed in **2025**; WHO/Europe reported **more than 60,000 heat deaths in 2022** and **47,500 in 2023** across 35 countries.[^4][^5]
 
-Second, official institutions are already building the surrounding architecture into which a `τ` capability could plug. WMO and UNDRR report that **119 countries (60%)** now have multi-hazard early warning systems (MHEWS), and countries with more comprehensive systems experience **nearly six times lower** disaster mortality than those with more limited systems.[^6] The UN and WMO's **Early Warnings for All** initiative aims to protect everyone on Earth by **2027**.[^7] NOAA, ECMWF, and the EU are already moving toward higher-fidelity digital-twin and next-generation forecast stacks through NOAA's digital-twin studies, the UFS/EPIC ecosystem, ECMWF's operational AIFS, and Destination Earth's Weather-Induced Extremes Digital Twin.[^8][^9][^10][^11]
+Second, official institutions are already building the surrounding architecture into which a τ capability could plug. WMO and UNDRR report that **119 countries (60%)** now have multi-hazard early warning systems (MHEWS), and countries with more comprehensive systems experience **nearly six times lower** disaster mortality than those with more limited systems.[^6] The UN and WMO's **Early Warnings for All** initiative aims to protect everyone on Earth by **2027**.[^7] NOAA, ECMWF, and the EU are already moving toward higher-fidelity digital-twin and next-generation forecast stacks through NOAA's digital-twin studies, the UFS/EPIC ecosystem, ECMWF's operational AIFS, and Destination Earth's Weather-Induced Extremes Digital Twin.[^8][^9][^10][^11]
 
-Third, the public-good pathways are unusually concrete. Better `τ`-grade hazard intelligence can improve:
+Third, the public-good pathways are unusually concrete. Better τ-grade hazard intelligence can improve:
 
 - warning lead time,
 - local impact translation,
@@ -59,7 +59,7 @@ Fourth, the five opportunity areas are not separate stories held together by a l
 - infrastructure exposure,
 - and, in later layers, logistics and finance.
 
-So one strong `τ` hazard twin would not feed one use case only. It would feed a whole disaster portfolio.
+So one strong τ hazard twin would not feed one use case only. It would feed a whole disaster portfolio.
 
 Fifth, the outside world already knows what it wants here. The World Bank's long-standing hydromet investment case estimates annual benefits on the order of **US$13 billion** in reduced asset losses, **US$22 billion** in avoided well-being losses, and **US$30 billion** in productivity gains from stronger hydromet services.[^12] WFP's anticipatory-action platform already spans **44 countries**, protected **over 6 million people** in **2024**, and had **US$72.6 million** in pre-arranged financing available for activations.[^13] WFP's 2024 annual review also reports **456,583 metric tons** of cargo managed for humanitarian clients and governments, while UNHAS transported **over 355,000 passengers** and **4,925 metric tons** of light humanitarian cargo to **394 remote destinations**.[^14][^15]
 
@@ -81,7 +81,7 @@ The memo then proposes:
 
 The central recommendation is:
 
-> **Treat disaster resilience as a single `τ` deployment portfolio with one shared weather–hazard–impact twin and five mission layers, rather than as five isolated warning products.**
+> **Treat disaster resilience as a single τ deployment portfolio with one shared weather–hazard–impact twin and five mission layers, rather than as five isolated warning products.**
 
 That is the most efficient path to early proof, cross-domain reuse, and durable public good.
 
@@ -91,15 +91,15 @@ That is the most efficient path to early proof, cross-domain reuse, and durable 
 
 This memo adopts an explicit stance.
 
-It does **not** claim that the world has already accepted the full `τ` framework. It does **not** attempt to prove the underlying physics here. It does **not** ask the reader to settle every deeper foundational or metaphysical implication before assessing deployment value.
+It does **not** claim that the world has already accepted the full τ framework. It does **not** attempt to prove the underlying physics here. It does **not** ask the reader to settle every deeper foundational or metaphysical implication before assessing deployment value.
 
 Instead, it asks a narrower and more operational question:
 
-> If `τ` provides the disaster-side capabilities claimed for it, how should those capabilities be translated into a coherent disaster deployment program?
+> If τ provides the disaster-side capabilities claimed for it, how should those capabilities be translated into a coherent disaster deployment program?
 
 The working assumptions are the same as in the five companion papers:
 
-- `τ` provides a **physically faithful** discrete weather–hazard–impact twin;
+- τ provides a **physically faithful** discrete weather–hazard–impact twin;
 - this twin is **constructive, decidable, bounded-error, and coarse-grainable**;
 - precision and refinement remain **structurally aligned** rather than drifting apart as in many current discretization stacks;
 - relevant forecast horizons can be extended with **materially higher fidelity and more trustworthy local error bounds** than current practice;
@@ -109,7 +109,7 @@ Everything that follows is conditional on that stance.
 
 ---
 
-## 2. Why disaster resilience is a first-wave `τ` deployment domain
+## 2. Why disaster resilience is a first-wave τ deployment domain
 
 Disaster resilience is especially attractive because the line from better physical intelligence to public good is very short.
 
@@ -130,7 +130,7 @@ That means the deployment problem is unusually tractable:
 
 In short:
 
-> **The disaster domain does not need a speculative new market to make `τ` useful. It needs a better physical intelligence layer for missions that already exist.**
+> **The disaster domain does not need a speculative new market to make τ useful. It needs a better physical intelligence layer for missions that already exist.**
 
 ---
 
@@ -148,7 +148,7 @@ In short:
 
 ### 3.2 One physical substrate, five mission layers
 
-The shared `τ` hazard twin would support a common core:
+The shared τ hazard twin would support a common core:
 
 - weather and hydrometeorological fields,
 - hazard timing and intensity,
@@ -332,7 +332,7 @@ Paper 4 should still run in **parallel** where outage and continuity risks are a
 
 ### 6.1 The incumbent architecture
 
-The global disaster intelligence ecosystem is large, well-funded, and institutionally complex. Any credible `τ` deployment proposal must position itself precisely against what already exists.
+The global disaster intelligence ecosystem is large, well-funded, and institutionally complex. Any credible τ deployment proposal must position itself precisely against what already exists.
 
 The core incumbent stack spans several tiers.
 
@@ -356,9 +356,9 @@ Their structural limitations are less about atmospheric physics and more about t
 
 **Trigger design weakness for anticipatory action.** Forecast-based anticipatory action systems — WFP's FEWSNET triggers, CERF's anticipatory action protocols — are typically calibrated on historical reforecast data. When the underlying forecast model changes or compound event pathways outside the training distribution occur, trigger calibration may drift silently. There is no principled bounded-error guarantee that trigger behavior is stable across model updates.
 
-### 6.3 The `τ` differentiation argument
+### 6.3 The τ differentiation argument
 
-A `τ`-grade multi-hazard digital twin would differentiate along a single structural axis:
+A τ-grade multi-hazard digital twin would differentiate along a single structural axis:
 
 > **Unified causal chain with bounded error propagation from atmospheric physics through terrain response through infrastructure vulnerability to population exposure — computable at every scale.**
 
@@ -366,7 +366,7 @@ This is not incremental improvement on any single piece of the incumbent stack. 
 
 In practical terms, this means:
 
-- Compound events are handled natively because the causal chain is continuous. A `τ` twin does not need a separate protocol to "combine" flood and landslide alerts because they emerge from the same physical model.
+- Compound events are handled natively because the causal chain is continuous. A τ twin does not need a separate protocol to "combine" flood and landslide alerts because they emerge from the same physical model.
 - Error bounds are propagated through every layer. A decision-maker receives not just a forecast but a physically grounded confidence surface.
 - Trigger calibration for anticipatory action is grounded in structural physics rather than pure statistical reforecast. When conditions fall outside historical analogs, the model's error structure is still interpretable.
 - Multi-hazard impact translation is first-class, not a downstream add-on. Infrastructure, lifelines, and population exposure are part of the twin from the beginning.
@@ -379,19 +379,19 @@ The key competitive argument is therefore not "better weather forecasting" — E
 
 ### 7.1 Named financing windows
 
-The disaster resilience financing landscape is substantial. Understanding the named funding windows is essential for positioning `τ` deployment as a credible investment case.
+The disaster resilience financing landscape is substantial. Understanding the named funding windows is essential for positioning τ deployment as a credible investment case.
 
 **OCHA Central Emergency Response Fund (CERF).** CERF disbursed approximately **US$600 million per year** in recent years, split between rapid-response grants and underfunded emergency grants. CERF launched a formal anticipatory action portfolio in 2019, with allocations that have scaled since. Improved trigger quality directly improves CERF allocation efficiency — fewer false activations reduce wasted pre-positioning costs while fewer missed activations improve humanitarian outcomes.[^17]
 
 **WFP Anticipatory Action.** WFP had **US$72.6 million** in pre-arranged financing available for anticipatory-action activations in 2024, covering 44 countries and protecting over 6 million people. WFP's published target is to scale anticipatory action to **US$200 million+ per year** in committed capacity, with the long-term goal of making forecast-based protection the norm rather than the exception across its operational footprint.[^13] Trigger design quality is directly monetizable here: every percentage-point reduction in false-activation rate preserves pre-positioned resources for genuine need; every reduction in missed activations translates to additional protected households.
 
-**World Bank Disaster Risk Finance and Insurance (DRFI).** The World Bank's DRFI program manages an active portfolio exceeding **US$1 billion** in disaster risk finance instruments, including catastrophe bonds, contingency credit lines, sovereign parametric insurance, and regional risk pools. The Caribbean Catastrophe Risk Insurance Facility (CCRIF), Pacific Catastrophe Risk Insurance Company (PCRIC), and Africa Risk Capacity (ARC) all operate under or alongside DRFI. A `τ`-grade risk surface would improve the physical basis of parametric triggers, potentially reducing basis risk — the mismatch between parametric triggers and actual losses that remains the primary structural limitation of parametric insurance.[^18]
+**World Bank Disaster Risk Finance and Insurance (DRFI).** The World Bank's DRFI program manages an active portfolio exceeding **US$1 billion** in disaster risk finance instruments, including catastrophe bonds, contingency credit lines, sovereign parametric insurance, and regional risk pools. The Caribbean Catastrophe Risk Insurance Facility (CCRIF), Pacific Catastrophe Risk Insurance Company (PCRIC), and Africa Risk Capacity (ARC) all operate under or alongside DRFI. A τ-grade risk surface would improve the physical basis of parametric triggers, potentially reducing basis risk — the mismatch between parametric triggers and actual losses that remains the primary structural limitation of parametric insurance.[^18]
 
-**GCF Climate Resilience Grants.** The Green Climate Fund's adaptation and resilience window has allocated billions to climate resilience infrastructure in developing countries, including early warning systems, hydromet modernization, coastal protection, and climate-smart agriculture. GCF's Enhanced Readiness programme supports developing country institutions in accessing GCF funding. A `τ` deployment package positioned as climate resilience infrastructure would be eligible under GCF readiness and project cycles.
+**GCF Climate Resilience Grants.** The Green Climate Fund's adaptation and resilience window has allocated billions to climate resilience infrastructure in developing countries, including early warning systems, hydromet modernization, coastal protection, and climate-smart agriculture. GCF's Enhanced Readiness programme supports developing country institutions in accessing GCF funding. A τ deployment package positioned as climate resilience infrastructure would be eligible under GCF readiness and project cycles.
 
 **InsuResilience Global Partnership.** The InsuResilience Global Partnership, launched at the 2017 G20 under German presidency, committed to provide **500 million people** in vulnerable developing countries with access to direct or indirect climate risk insurance by 2030. Total insured populations were approximately 160–200 million as of 2024. Better physical risk modeling directly improves insurance product design, premium calibration, and trigger accuracy across this entire portfolio.
 
-**Sendai Framework Financing Target.** The Sendai Framework for Disaster Risk Reduction 2015–2030 includes a target that countries should substantially increase international cooperation to developing countries through adequate and sustainable support to complement their national actions. UNDRR guidance suggests that countries should invest approximately **1.5% of GDP** in disaster risk reduction. For a country like Bangladesh (GDP ~US$450 billion), that implies roughly **US$6.75 billion per year** in DRR investment capacity. For Indonesia (GDP ~US$1.3 trillion), roughly **US$20 billion per year**. The mismatch between current investment levels and Sendai targets represents a financing gap into which better `τ`-grade risk intelligence could unlock investment.
+**Sendai Framework Financing Target.** The Sendai Framework for Disaster Risk Reduction 2015–2030 includes a target that countries should substantially increase international cooperation to developing countries through adequate and sustainable support to complement their national actions. UNDRR guidance suggests that countries should invest approximately **1.5% of GDP** in disaster risk reduction. For a country like Bangladesh (GDP ~US$450 billion), that implies roughly **US$6.75 billion per year** in DRR investment capacity. For Indonesia (GDP ~US$1.3 trillion), roughly **US$20 billion per year**. The mismatch between current investment levels and Sendai targets represents a financing gap into which better τ-grade risk intelligence could unlock investment.
 
 ### 7.2 Portfolio cost scenario
 
@@ -399,7 +399,7 @@ A realistic cost scenario for full 4-paper deployment (Papers 1–4, with Paper 
 
 | Component | Estimated cost range (5-year) |
 |---|---|
-| `τ` weather–hazard–impact twin: core development and validation | US$8–20M |
+| τ weather–hazard–impact twin: core development and validation | US$8–20M |
 | Data integration and benchmark infrastructure | US$3–8M |
 | Hydromet agency integration and shadow-mode operations (Paper 1) | US$5–12M |
 | Flood and coastal twin deployment, basin pilots (Paper 2) | US$8–18M |
@@ -415,7 +415,7 @@ This places the full 5-year portfolio in a **US$40–100M** range — comparable
 
 UNDRR's foundational DRR investment case estimates that **US$1 invested in disaster risk reduction saves approximately US$15 in disaster losses** — a 15:1 benefit-to-cost ratio.[^33] This figure is conservative relative to some sectoral analyses; the World Bank hydromet investment brief estimates annual benefits of US$65 billion (combining asset loss reduction, well-being, and productivity) against much smaller investment levels.[^12]
 
-For the `τ` portfolio, the benefit-to-cost anchor is not primarily the direct cost of the system but the improvement in trigger quality, warning lead time, and compound-event detection:
+For the τ portfolio, the benefit-to-cost anchor is not primarily the direct cost of the system but the improvement in trigger quality, warning lead time, and compound-event detection:
 
 - A **10% improvement in anticipatory action trigger precision** across WFP's US$200M/year commitment preserves approximately **US$20M/year** in activation capacity for genuine need versus false activation.
 - A **20% improvement in lead time** for flood evacuations in a high-risk country like Bangladesh (population 170 million, annual flood losses averaging US$2–3 billion) could conservatively prevent tens of thousands of preventable deaths and billions in losses over a decade.
@@ -433,9 +433,9 @@ For the `τ` portfolio, the benefit-to-cost anchor is not primarily the direct c
 
 **Papers engaged.** Papers 1, 3, and 4.
 
-- **Paper 1** (multi-hazard early warning): `τ` forecast of cyclone track, intensity, and surge timing, with uncertainty bounds on surge extent by district. FFWC currently receives NWP guidance from ECMWF and GFS but lacks a tightly coupled rainfall–runoff–surge–backwater model. A `τ` twin would provide end-to-end physical continuity from atmospheric forcing through river routing through coastal surge inundation, with bounded error propagation at each stage.
+- **Paper 1** (multi-hazard early warning): τ forecast of cyclone track, intensity, and surge timing, with uncertainty bounds on surge extent by district. FFWC currently receives NWP guidance from ECMWF and GFS but lacks a tightly coupled rainfall–runoff–surge–backwater model. A τ twin would provide end-to-end physical continuity from atmospheric forcing through river routing through coastal surge inundation, with bounded error propagation at each stage.
 - **Paper 2** (flood/coastal resilience): Neighborhood-scale inundation maps updated every 6 hours, informing embankment pre-positioning decisions and evacuation zone activation. Currently, Bangladesh's Cyclone Preparedness Programme (CPP) activates 80,000+ volunteers based on district-level warnings; sub-district granularity would change which embankments to prioritize and which evacuation routes to activate.
-- **Paper 5** (anticipatory action): WFP Bangladesh ARC triggers are calibrated to FFWC return-period thresholds. A `τ`-grade trigger calibrated on bounded-error compound-event risk rather than single-hazard thresholds would reduce basis risk and improve the probability that cash transfers reach households before the flood peak rather than after. Lead-time improvement from 3 days to 5+ days for trigger-quality forecasts would enable WFP to pre-position 1–2 additional supply chain cycles before impact.
+- **Paper 5** (anticipatory action): WFP Bangladesh ARC triggers are calibrated to FFWC return-period thresholds. A τ-grade trigger calibrated on bounded-error compound-event risk rather than single-hazard thresholds would reduce basis risk and improve the probability that cash transfers reach households before the flood peak rather than after. Lead-time improvement from 3 days to 5+ days for trigger-quality forecasts would enable WFP to pre-position 1–2 additional supply chain cycles before impact.
 
 **Institutions.** FFWC, Bangladesh Meteorological Department, WFP Bangladesh, CERF, SPARRSO, Cyclone Preparedness Programme, Pacific Disaster Center (regional partner), USAID OFDA South Asia.
 
@@ -451,8 +451,8 @@ For the `τ` portfolio, the benefit-to-cost anchor is not primarily the direct c
 
 **Papers engaged.** Papers 2 and 3.
 
-- **Paper 3** (wildfire/smoke/heat): `τ`-grade fire-weather forecast coupled to smoke transport and heat-health. Rather than three separate models, a single bounded-error twin tracks the physical chain from soil moisture drought through fuel drying through fire ignition probability through smoke injection and transport through population smoke exposure. Heat-health risk is derived from the same physical substrate. Protective actions — AQI-triggered shelter-in-place, worker heat-protection closures, school dismissal — are triggered from a single coherent risk surface rather than three separate product streams.
-- **Paper 4** (critical infrastructure continuity): Grid, hospital, and care-home continuity intelligence. When a `τ` twin identifies a 5–7 day window of high fire-grid-heat stress, utilities can pre-position restoration crews, hospitals can activate backup power protocols, and county OES can pre-stage shelter capacity. Currently, these decisions are made by different agencies on different product timescales.
+- **Paper 3** (wildfire/smoke/heat): τ-grade fire-weather forecast coupled to smoke transport and heat-health. Rather than three separate models, a single bounded-error twin tracks the physical chain from soil moisture drought through fuel drying through fire ignition probability through smoke injection and transport through population smoke exposure. Heat-health risk is derived from the same physical substrate. Protective actions — AQI-triggered shelter-in-place, worker heat-protection closures, school dismissal — are triggered from a single coherent risk surface rather than three separate product streams.
+- **Paper 4** (critical infrastructure continuity): Grid, hospital, and care-home continuity intelligence. When a τ twin identifies a 5–7 day window of high fire-grid-heat stress, utilities can pre-position restoration crews, hospitals can activate backup power protocols, and county OES can pre-stage shelter capacity. Currently, these decisions are made by different agencies on different product timescales.
 
 **Institutions.** CAL FIRE, USFS Fire and Aviation Management, National Interagency Fire Center (NIFC), NWS Western Region, CAISO (California Independent System Operator), California OES, Oregon and Washington Emergency Management Divisions, USACE, EPA Region 9/10.
 
@@ -468,8 +468,8 @@ For the `τ` portfolio, the benefit-to-cost anchor is not primarily the direct c
 
 **Papers engaged.** Papers 1 and 5.
 
-- **Paper 1** (multi-hazard early warning): `τ`-grade cyclone track, intensity, and rapid-intensification forecasting for the South Pacific basin. The critical improvement is not only point forecast accuracy but **rapid-intensification warning** — the capacity to give credible bounded-error warning of intensity jumps 48–72 hours out, rather than conservative watch/warning language that routinely underestimates peak intensity. The Pacific Meteorological Council's verification data shows systematic intensity underestimation for Pacific Category 4–5 storms.
-- **Paper 5** (anticipatory action and humanitarian logistics): WFP ARC Pacific's trigger calibration is based on historical cyclone intensity-track combinations and GDACS alert scores. A `τ`-grade risk surface with explicit error bounds and physically grounded rapid-intensification probability would enable triggers with longer effective lead times — potentially shifting activation from T-minus-48 hours to T-minus-96 hours for inter-island logistics. UNHAS operates helicopter and fixed-wing services to Pacific destinations; 48 additional hours of pre-activation lead time translates to 2–4 additional UNHAS cargo sorties per event.
+- **Paper 1** (multi-hazard early warning): τ-grade cyclone track, intensity, and rapid-intensification forecasting for the South Pacific basin. The critical improvement is not only point forecast accuracy but **rapid-intensification warning** — the capacity to give credible bounded-error warning of intensity jumps 48–72 hours out, rather than conservative watch/warning language that routinely underestimates peak intensity. The Pacific Meteorological Council's verification data shows systematic intensity underestimation for Pacific Category 4–5 storms.
+- **Paper 5** (anticipatory action and humanitarian logistics): WFP ARC Pacific's trigger calibration is based on historical cyclone intensity-track combinations and GDACS alert scores. A τ-grade risk surface with explicit error bounds and physically grounded rapid-intensification probability would enable triggers with longer effective lead times — potentially shifting activation from T-minus-48 hours to T-minus-96 hours for inter-island logistics. UNHAS operates helicopter and fixed-wing services to Pacific destinations; 48 additional hours of pre-activation lead time translates to 2–4 additional UNHAS cargo sorties per event.
 
 **Institutions.** Pacific Meteorological Council, Vanuatu Meteorology and Geo-Hazards Department (VMGD), Fiji Meteorological Service, Pacific HYCOS, Pacific Disaster Center (PDC), WFP ARC Pacific, UNHAS Pacific, OCHA Pacific, ADB Pacific Department, IFRC Pacific Country Cluster.
 
@@ -483,7 +483,7 @@ The disaster portfolio maps cleanly to five of the UN Sustainable Development Go
 
 ### SDG 11 — Sustainable Cities and Communities
 
-**Target 11.5** calls for significantly reducing the number of deaths, the number of people affected, and the direct economic losses caused by disasters by 2030, with a focus on protecting the poor and people in vulnerable situations. **Target 11.b** calls for substantially increasing the number of cities and human settlements adopting integrated policies for inclusion, resource efficiency, mitigation, and adaptation to climate change, and resilience to disasters. A `τ`-grade multi-hazard twin directly addresses 11.5 through better warning lead time and 11.b through better urban lifelines continuity planning. The MHEWS penetration gap — 40% of countries still lack comprehensive systems[^6] — is precisely the gap this portfolio addresses.
+**Target 11.5** calls for significantly reducing the number of deaths, the number of people affected, and the direct economic losses caused by disasters by 2030, with a focus on protecting the poor and people in vulnerable situations. **Target 11.b** calls for substantially increasing the number of cities and human settlements adopting integrated policies for inclusion, resource efficiency, mitigation, and adaptation to climate change, and resilience to disasters. A τ-grade multi-hazard twin directly addresses 11.5 through better warning lead time and 11.b through better urban lifelines continuity planning. The MHEWS penetration gap — 40% of countries still lack comprehensive systems[^6] — is precisely the gap this portfolio addresses.
 
 ### SDG 13 — Climate Action
 
@@ -499,7 +499,7 @@ The disaster portfolio maps cleanly to five of the UN Sustainable Development Go
 
 ### SDG 17 — Partnerships for the Goals
 
-The disaster portfolio engages the full architecture of the Sendai Framework for Disaster Risk Reduction 2015–2030, the Paris Agreement's loss-and-damage mechanism, and UNFCCC adaptation finance. **Sendai Target E** calls for substantially increasing the number of countries with national and local disaster risk reduction strategies by 2020 (achieved) and substantially reducing disaster economic losses in relation to GDP by 2030 — a quantitative target to which `τ`-grade DRM intelligence can make a direct measurable contribution. The portfolio's deployment model — shadow-mode benchmarking alongside official systems, transparent public scorecards, open institutional partnerships — is inherently an SDG 17 implementation architecture.
+The disaster portfolio engages the full architecture of the Sendai Framework for Disaster Risk Reduction 2015–2030, the Paris Agreement's loss-and-damage mechanism, and UNFCCC adaptation finance. **Sendai Target E** calls for substantially increasing the number of countries with national and local disaster risk reduction strategies by 2020 (achieved) and substantially reducing disaster economic losses in relation to GDP by 2030 — a quantitative target to which τ-grade DRM intelligence can make a direct measurable contribution. The portfolio's deployment model — shadow-mode benchmarking alongside official systems, transparent public scorecards, open institutional partnerships — is inherently an SDG 17 implementation architecture.
 
 ---
 
@@ -507,7 +507,7 @@ The disaster portfolio engages the full architecture of the Sendai Framework for
 
 Scores are on a 1–5 scale, where 5 is strongest.
 
-| Paper | Readiness | Public-good scale | `τ` fit | Measurability | Adoption friction | Overall priority |
+| Paper | Readiness | Public-good scale | τ fit | Measurability | Adoption friction | Overall priority |
 |---|---:|---:|---:|---:|---:|---|
 | **1. Multi-hazard early warning** | 5 | 5 | 5 | 5 | 2 | **Very high** |
 | **2. Flood / coastal / landslide** | 5 | 5 | 5 | 5 | 2 | **Very high** |
@@ -527,9 +527,9 @@ Interpretation:
 
 ## 11. Lighthouse pilots
 
-### Pilot A — National or regional `τ` MHEWS benchmark
+### Pilot A — National or regional τ MHEWS benchmark
 
-**Use case:** side-by-side comparison of `τ` and incumbent hazard forecasts for warning lead time, localization, false alarms, and impact-based products.
+**Use case:** side-by-side comparison of τ and incumbent hazard forecasts for warning lead time, localization, false alarms, and impact-based products.
 **Best counterpart institutions:** hydromet agencies, WMO-member services, national emergency-management agencies.
 **Primary success metrics:** lead-time change, false-alarm ratio, missed-event rate, warning reach, user trust, impact-product accuracy.
 **Why first:** broadest signal value and strongest comparability across countries and hazard classes.
@@ -550,14 +550,14 @@ Interpretation:
 
 ### Pilot D — Community lifelines continuity twin pilot
 
-**Use case:** `τ`-assisted continuity planning and restoration for power, water, telecom, hospital, and transport systems in one metro or regional corridor.
+**Use case:** τ-assisted continuity planning and restoration for power, water, telecom, hospital, and transport systems in one metro or regional corridor.
 **Best counterpart institutions:** utilities, hospitals, telecom operators, municipalities, EOCs, ports, airports.
 **Primary success metrics:** outage duration, critical-load continuity, water-service continuity, telecom uptime, restoration prioritization quality, emergency-operations timing.
 **Why fourth:** converts better hazard prediction into functioning communities.
 
 ### Pilot E — Forecast-linked anticipatory action and risk-finance pilot
 
-**Use case:** trigger-linked cash, in-kind action, pre-positioning, and/or sovereign payout pilot under a shared `τ` risk surface.
+**Use case:** trigger-linked cash, in-kind action, pre-positioning, and/or sovereign payout pilot under a shared τ risk surface.
 **Best counterpart institutions:** WFP/IFRC-style actors, finance ministries, development banks, insurers, social-protection systems.
 **Primary success metrics:** trigger quality, time-to-disbursement, inventory pre-positioning success, households reached before impact, avoided distress coping, payout timeliness.
 **Why fifth:** potentially transformative, but best launched after stronger hazard and continuity evidence is already trusted.
@@ -570,7 +570,7 @@ Interpretation:
 
 Goals:
 
-- define the common `τ` weather–hazard–impact substrate;
+- define the common τ weather–hazard–impact substrate;
 - identify benchmark datasets and partner institutions;
 - stand up shadow-mode evaluation environments;
 - define common scorecards across the five papers.
@@ -592,7 +592,7 @@ Priority papers:
 
 Goals:
 
-- run `τ` forecasts and impact products in parallel with existing workflows;
+- run τ forecasts and impact products in parallel with existing workflows;
 - prove value without displacing current operations;
 - build institutional trust with transparent metrics.
 
@@ -614,7 +614,7 @@ Priority papers:
 Goals:
 
 - move from shadow mode to operator-facing recommendations;
-- begin using `τ` outputs in constrained warning and staging decisions;
+- begin using τ outputs in constrained warning and staging decisions;
 - demonstrate concrete life-safety, continuity, and loss-reduction gains.
 
 Outputs:
@@ -635,7 +635,7 @@ Priority papers:
 Goals:
 
 - connect warning, continuity, and action into one operational stack;
-- integrate humanitarian, utility, and public-service playbooks with `τ` outputs;
+- integrate humanitarian, utility, and public-service playbooks with τ outputs;
 - expand trigger-linked anticipatory action and finance.
 
 Outputs:
@@ -721,9 +721,9 @@ The scenario estimates below use UNDRR's 15:1 DRR benefit-to-cost ratio as a flo
 
 By year five, the most achievable quantified gains in pilot countries are:
 
-- **20–40% improvement in compound-event early warning lead time** in 3–5 pilot countries where a `τ` multi-hazard twin is deployed in assisted-operations mode. The basis: current best-practice MHEWS provides 72-hour cyclone lead time and 3–5 day river flood lead time. A coherent end-to-end compound-event model with error propagation can improve actionable lead time by removing the handoff lag between atmospheric model output and local impact model update, which typically costs 12–36 hours. For the Bangladesh case, 72-hour to 96–120 hour actionable compound-event warning would represent a 33–66% improvement.
-- **10–20% reduction in anticipatory action trigger errors** (combined false-positive and false-negative activation rate). The basis: WFP's own assessments of trigger calibration quality in FFWC-linked programs show that trigger designs calibrated on single-hazard NWP reforecasts miss compound events at rates of 15–30%. A `τ`-grade compound-event risk surface would structurally reduce this error class.
-- **Initial operational integration** in at least 2 lighthouse pilot countries, with public benchmark data comparing `τ` and incumbent forecast products for 1–2 complete hazard seasons.
+- **20–40% improvement in compound-event early warning lead time** in 3–5 pilot countries where a τ multi-hazard twin is deployed in assisted-operations mode. The basis: current best-practice MHEWS provides 72-hour cyclone lead time and 3–5 day river flood lead time. A coherent end-to-end compound-event model with error propagation can improve actionable lead time by removing the handoff lag between atmospheric model output and local impact model update, which typically costs 12–36 hours. For the Bangladesh case, 72-hour to 96–120 hour actionable compound-event warning would represent a 33–66% improvement.
+- **10–20% reduction in anticipatory action trigger errors** (combined false-positive and false-negative activation rate). The basis: WFP's own assessments of trigger calibration quality in FFWC-linked programs show that trigger designs calibrated on single-hazard NWP reforecasts miss compound events at rates of 15–30%. A τ-grade compound-event risk surface would structurally reduce this error class.
+- **Initial operational integration** in at least 2 lighthouse pilot countries, with public benchmark data comparing τ and incumbent forecast products for 1–2 complete hazard seasons.
 
 The public-good effect at this stage is more actionable warnings, fewer avoidable false alarms, better emergency staging, more critical services kept functioning, and more households reached with action before impact. Quantitative mortality and loss reduction at global scale is not the 5-year story; validated pilot performance and institutional adoption are.
 
@@ -732,19 +732,19 @@ The public-good effect at this stage is more actionable warnings, fewer avoidabl
 By year ten, the likely gains across a 20+ country multi-hazard DRM intelligence layer include:
 
 - **Multi-hazard national DRM twins operational in 20+ countries**, covering an estimated 2–4 billion people in high-risk exposure zones, particularly in South Asia, Southeast Asia, Sub-Saharan Africa, and the Pacific. Basis: ECMWF achieved global operational NWP coverage in roughly this timeframe after its 1975 founding; digital-twin programs at global scale can now move faster due to cloud infrastructure.
-- **15–25% reduction in disaster economic losses** in countries with `τ`-grade DRM twins, relative to a counterfactual trajectory. Basis: UNDRR's 15:1 B:C ratio applied to a US$40–100M 5-year investment per country implies US$600M–US$1.5B in averted losses per country over the period; this is consistent with World Bank hydromet benefit estimates.[^12]
-- **Forecast-linked anticipatory action mainstream** in a further 30–50 countries, with WFP, CERF, and World Bank DRFI instruments calibrated to `τ`-grade risk surfaces. This would expand the household pre-protection reach from WFP's current 6 million per year toward 50+ million per year.
+- **15–25% reduction in disaster economic losses** in countries with τ-grade DRM twins, relative to a counterfactual trajectory. Basis: UNDRR's 15:1 B:C ratio applied to a US$40–100M 5-year investment per country implies US$600M–US$1.5B in averted losses per country over the period; this is consistent with World Bank hydromet benefit estimates.[^12]
+- **Forecast-linked anticipatory action mainstream** in a further 30–50 countries, with WFP, CERF, and World Bank DRFI instruments calibrated to τ-grade risk surfaces. This would expand the household pre-protection reach from WFP's current 6 million per year toward 50+ million per year.
 - **Sendai Target E measurable progress** in pilot countries, with documented reduction in disaster economic losses relative to GDP in countries with full portfolio deployment.
 
 ### 14.3 Twenty-year scenario
 
 By year twenty, if portfolio maturity is achieved across a significant portion of high-risk countries:
 
-- **Sendai-aligned 50% reduction in disaster mortality** in countries with `τ`-grade DRM twins, relative to the trend-line at deployment. Basis: WMO documents that countries with comprehensive MHEWS already experience 6x lower mortality than countries without. Moving from current-generation MHEWS to `τ`-grade compound-event intelligence is a comparable-magnitude improvement in the physical intelligence layer, applied to countries where the mortality gap is currently largest.
+- **Sendai-aligned 50% reduction in disaster mortality** in countries with τ-grade DRM twins, relative to the trend-line at deployment. Basis: WMO documents that countries with comprehensive MHEWS already experience 6x lower mortality than countries without. Moving from current-generation MHEWS to τ-grade compound-event intelligence is a comparable-magnitude improvement in the physical intelligence layer, applied to countries where the mortality gap is currently largest.
 - **Disaster governance operating model transformation**: from reactive crisis response to predictive, action-linked, prevention-oriented public service. The mechanism is not merely better forecasting but the structural integration of warning, continuity planning, anticipatory logistics, and pre-arranged finance into a single coherent intelligence layer — so that public institutions respond before crises rather than after them.
 - **Insurance penetration improvement in SIDS and LDCs**: better physical risk models reduce basis risk in parametric insurance, expanding InsuResilience coverage toward its 500 million target with products that actually pay when losses occur.
 
-The twenty-year scenario is explicitly aspirational. It assumes sustained institutional investment, the validation of `τ`-grade performance in shadow-mode and assisted-operations phases, and the replication of successful pilot models across a large and diverse country set. None of these are guaranteed. But the direction is clear: the disaster domain, more than almost any other domain, converts better physical intelligence directly into saved lives.
+The twenty-year scenario is explicitly aspirational. It assumes sustained institutional investment, the validation of τ-grade performance in shadow-mode and assisted-operations phases, and the replication of successful pilot models across a large and diverse country set. None of these are guaranteed. But the direction is clear: the disaster domain, more than almost any other domain, converts better physical intelligence directly into saved lives.
 
 ---
 
@@ -754,35 +754,35 @@ The portfolio should be framed and operated under clear governance guardrails. T
 
 ### 15.1 Lead with shadow mode
 
-Do not ask official services to bet public safety on `τ` immediately. Start with side-by-side benchmarks and transparent scorecards. Every lighthouse pilot should operate in shadow or assisted mode for at least one full seasonal cycle before any outputs influence official warning products. The benchmark data from shadow mode is itself a public good — it creates the evidence base for adoption decisions.
+Do not ask official services to bet public safety on τ immediately. Start with side-by-side benchmarks and transparent scorecards. Every lighthouse pilot should operate in shadow or assisted mode for at least one full seasonal cycle before any outputs influence official warning products. The benchmark data from shadow mode is itself a public good — it creates the evidence base for adoption decisions.
 
 ### 15.2 Keep the warning chain human-centered
 
-Better physics does not remove the need for local emergency knowledge, accessible communication, and trusted last-mile delivery. `τ`-grade forecast output is useless if it does not reach the village disaster coordinator, the school principal, or the coastal fishing community in a form they can act on. Human decision-making authority in the warning chain must be preserved at every stage. `τ` is a decision support layer, not a decision-automation layer.
+Better physics does not remove the need for local emergency knowledge, accessible communication, and trusted last-mile delivery. τ-grade forecast output is useless if it does not reach the village disaster coordinator, the school principal, or the coastal fishing community in a form they can act on. Human decision-making authority in the warning chain must be preserved at every stage. τ is a decision support layer, not a decision-automation layer.
 
 ### 15.3 False-alarm governance: the cost of unnecessary evacuations
 
-False alarms are not free. An unnecessary coastal evacuation in a developing country displaces tens of thousands of people, destroys perishable food stocks, interrupts medical care, and — critically — erodes trust in future warnings, leading to non-compliance when a real event occurs. The false-alarm cost structure must be made explicit in every pilot scorecard. `τ` deployment should be benchmarked not only on missed-event rates but on false-alarm rates, and governance frameworks must specify acceptable thresholds before operational integration.
+False alarms are not free. An unnecessary coastal evacuation in a developing country displaces tens of thousands of people, destroys perishable food stocks, interrupts medical care, and — critically — erodes trust in future warnings, leading to non-compliance when a real event occurs. The false-alarm cost structure must be made explicit in every pilot scorecard. τ deployment should be benchmarked not only on missed-event rates but on false-alarm rates, and governance frameworks must specify acceptable thresholds before operational integration.
 
 ### 15.4 Anticipatory action conditionality: trigger transparency and accountability
 
-Forecast-based anticipatory action moves money before a disaster occurs. This creates accountability obligations that do not exist in reactive humanitarian response. Who decides whether the trigger was met? On what data? With what revision rights? `τ`-linked triggers must be accompanied by fully transparent trigger protocols — published threshold formulas, publicly accessible trigger data, post-event trigger reviews, and community accountability mechanisms that allow affected populations to understand why or why not they received support.
+Forecast-based anticipatory action moves money before a disaster occurs. This creates accountability obligations that do not exist in reactive humanitarian response. Who decides whether the trigger was met? On what data? With what revision rights? τ-linked triggers must be accompanied by fully transparent trigger protocols — published threshold formulas, publicly accessible trigger data, post-event trigger reviews, and community accountability mechanisms that allow affected populations to understand why or why not they received support.
 
 ### 15.5 Equity in disaster protection: who gets warnings first
 
-Warning systems are not equity-neutral. The populations most exposed to hazard risk — coastal fishing communities, low-income urban settlements in flood plains, agricultural workers during heat waves — are often the same populations with the least access to warning dissemination channels. `τ` deployment should prioritize last-mile warning dissemination to vulnerable populations. Portfolio investment in warning quality without investment in warning reach and accessibility reproduces existing inequality in disaster protection.
+Warning systems are not equity-neutral. The populations most exposed to hazard risk — coastal fishing communities, low-income urban settlements in flood plains, agricultural workers during heat waves — are often the same populations with the least access to warning dissemination channels. τ deployment should prioritize last-mile warning dissemination to vulnerable populations. Portfolio investment in warning quality without investment in warning reach and accessibility reproduces existing inequality in disaster protection.
 
 ### 15.6 Data dignity in displacement and crisis
 
-Disaster response generates large quantities of data about affected populations — location, displacement status, vulnerability, health conditions, financial need. This data is operationally necessary for effective anticipatory action and recovery. It is also inherently sensitive, particularly for displaced persons, IDPs, and refugees. `τ` deployment in humanitarian contexts must incorporate privacy-by-design principles, data minimization, and community consent frameworks consistent with OCHA's Centre for Humanitarian Data standards and IFRC's data protection protocols.
+Disaster response generates large quantities of data about affected populations — location, displacement status, vulnerability, health conditions, financial need. This data is operationally necessary for effective anticipatory action and recovery. It is also inherently sensitive, particularly for displaced persons, IDPs, and refugees. τ deployment in humanitarian contexts must incorporate privacy-by-design principles, data minimization, and community consent frameworks consistent with OCHA's Centre for Humanitarian Data standards and IFRC's data protection protocols.
 
 ### 15.7 Human authority in emergency declarations
 
-`τ` as a decision support system should never substitute for human authority in formal emergency declarations, mandatory evacuation orders, or anticipatory action activations. Emergency declarations carry legal force, trigger resource allocations, and impose obligations on both governments and populations. A `τ` output that recommends declaration must be reviewed by a human authority with legal standing and accountability before formal action is taken. The system architecture must make this review step structurally mandatory, not merely advisory.
+τ as a decision support system should never substitute for human authority in formal emergency declarations, mandatory evacuation orders, or anticipatory action activations. Emergency declarations carry legal force, trigger resource allocations, and impose obligations on both governments and populations. A τ output that recommends declaration must be reviewed by a human authority with legal standing and accountability before formal action is taken. The system architecture must make this review step structurally mandatory, not merely advisory.
 
 ### 15.8 Avoiding compound-risk denial: governance of slow-onset versus sudden-onset
 
-Current disaster governance frameworks are structurally better at responding to sudden-onset events (cyclones, earthquakes, flash floods) than at governing slow-onset risks (drought, heat, sea-level rise). `τ`-grade compound-event intelligence will increasingly surface slow-onset risks in operationally actionable form. This creates a governance challenge: when does a slow-onset risk become an emergency declaration trigger? The portfolio must actively support the development of governance frameworks for slow-onset compound events rather than defaulting to existing sudden-onset trigger logics. Avoiding compound-risk denial means being willing to act on probabilistic slow-onset signals even when no single threshold has been crossed.
+Current disaster governance frameworks are structurally better at responding to sudden-onset events (cyclones, earthquakes, flash floods) than at governing slow-onset risks (drought, heat, sea-level rise). τ-grade compound-event intelligence will increasingly surface slow-onset risks in operationally actionable form. This creates a governance challenge: when does a slow-onset risk become an emergency declaration trigger? The portfolio must actively support the development of governance frameworks for slow-onset compound events rather than defaulting to existing sudden-onset trigger logics. Avoiding compound-risk denial means being willing to act on probabilistic slow-onset signals even when no single threshold has been crossed.
 
 ---
 
@@ -794,11 +794,11 @@ This section does not offer one grand forecast. Instead, it sketches realistic-o
 
 By year five, the most likely wins are:
 
-- selected hydromet agencies run `τ` in shadow or assisted mode for multi-hazard warning;
+- selected hydromet agencies run τ in shadow or assisted mode for multi-hazard warning;
 - flood, surge, and landslide pilots improve local evacuation, road closure, and utility protection decisions;
-- selected fire-prone regions use `τ`-grade smoke and heat-risk products for public-health and worker protection;
+- selected fire-prone regions use τ-grade smoke and heat-risk products for public-health and worker protection;
 - continuity pilots protect hospitals, water sites, telecom nodes, and shelters more intelligently;
-- a small number of anticipatory-action programs begin using `τ`-linked triggers in parallel with current systems.
+- a small number of anticipatory-action programs begin using τ-linked triggers in parallel with current systems.
 
 The public-good effect at this stage is less "global disaster losses transformed" and more:
 
@@ -842,21 +842,21 @@ That is not merely "better forecasting." It is a different operating model for p
 
 ## 17. Cross-portfolio integration
 
-The disaster portfolio does not stand alone. Its physical and institutional substrate connects to six other `τ` deployment domains in ways that multiply value on both sides.
+The disaster portfolio does not stand alone. Its physical and institutional substrate connects to six other τ deployment domains in ways that multiply value on both sides.
 
-**Agriculture and food security.** Anticipatory action for disaster is the same institutional mechanism as anticipatory action for food security. The WFP programs that pre-position food ahead of cyclone impact are the same programs that manage food-insecurity response in drought-affected regions. A `τ` twin that provides better compound-event early warning also provides better agricultural drought and flood forecasting for food-security trigger design. The FEWS NET system, which spans disaster and food-security monitoring, is a natural integration point.
+**Agriculture and food security.** Anticipatory action for disaster is the same institutional mechanism as anticipatory action for food security. The WFP programs that pre-position food ahead of cyclone impact are the same programs that manage food-insecurity response in drought-affected regions. A τ twin that provides better compound-event early warning also provides better agricultural drought and flood forecasting for food-security trigger design. The FEWS NET system, which spans disaster and food-security monitoring, is a natural integration point.
 
-**One Health and health systems.** Disasters are health events. The mortality from cyclone-driven flooding is largely from drowning and waterborne disease; from wildfire smoke, from cardiopulmonary disease; from heat waves, from cardiovascular and kidney failure. A `τ` hazard twin that improves disaster warning also provides the physical forcing data for One Health risk modeling — disease vector behavior under temperature and humidity change, waterborne pathogen risk from floodwaters, air quality and respiratory health during fire seasons. The institutional overlap between disaster management agencies and health ministries in heat and smoke governance is already substantial.
+**One Health and health systems.** Disasters are health events. The mortality from cyclone-driven flooding is largely from drowning and waterborne disease; from wildfire smoke, from cardiopulmonary disease; from heat waves, from cardiovascular and kidney failure. A τ hazard twin that improves disaster warning also provides the physical forcing data for One Health risk modeling — disease vector behavior under temperature and humidity change, waterborne pathogen risk from floodwaters, air quality and respiratory health during fire seasons. The institutional overlap between disaster management agencies and health ministries in heat and smoke governance is already substantial.
 
-**Water and WASH.** Flood events are the primary driver of drinking water contamination in the developing world. Storm surges salinize coastal groundwater and disrupt sewerage systems. Drought compresses surface water availability and drives water quality degradation. A `τ` flood and coastal twin feeds directly into WASH infrastructure resilience planning — which pumping stations, treatment works, and distribution systems are at risk, and on what timeline.
+**Water and WASH.** Flood events are the primary driver of drinking water contamination in the developing world. Storm surges salinize coastal groundwater and disrupt sewerage systems. Drought compresses surface water availability and drives water quality degradation. A τ flood and coastal twin feeds directly into WASH infrastructure resilience planning — which pumping stations, treatment works, and distribution systems are at risk, and on what timeline.
 
 **Climate.** The disaster portfolio's compound-extreme mission is inseparable from the trajectory of climate change. Compound events — the simultaneous co-occurrence of extremes that exceed any individual threshold — are increasing in frequency and severity under climate change. The physical intelligence layer that makes the disaster portfolio useful also provides the foundation for climate impact attribution, climate risk screening for infrastructure investment, and long-horizon climate resilience planning.
 
-**Energy.** Grid resilience under extreme events is a direct intersection of the disaster portfolio (Paper 4, continuity) and the energy portfolio. A `τ` twin that forecasts substation flooding and transmission line wind loading ahead of a major event is providing grid resilience intelligence. The same forecast that triggers hospital continuity protocols also informs WECC load-balancing decisions and utility pre-positioning of repair crews.
+**Energy.** Grid resilience under extreme events is a direct intersection of the disaster portfolio (Paper 4, continuity) and the energy portfolio. A τ twin that forecasts substation flooding and transmission line wind loading ahead of a major event is providing grid resilience intelligence. The same forecast that triggers hospital continuity protocols also informs WECC load-balancing decisions and utility pre-positioning of repair crews.
 
 **Ocean.** Storm surge is an ocean-atmosphere interaction. Tsunami early warning depends on ocean floor monitoring and wave propagation modeling. Coral reef degradation under compound heat stress affects coastal protection from surge and wave action. The disaster portfolio's coastal mission layer connects to ocean monitoring, marine meteorology, and the broader ocean physical intelligence stack.
 
-These six integration connections are not abstract. They mean that a `τ` disaster twin deployed for one institution creates physical intelligence infrastructure that is immediately useful to partners in agriculture, health, WASH, climate, energy, and ocean programs. Each additional integration reduces the marginal cost of the next deployment and increases the combined public-good value of the portfolio.
+These six integration connections are not abstract. They mean that a τ disaster twin deployed for one institution creates physical intelligence infrastructure that is immediately useful to partners in agriculture, health, WASH, climate, energy, and ocean programs. Each additional integration reduces the marginal cost of the next deployment and increases the combined public-good value of the portfolio.
 
 ---
 
@@ -867,15 +867,15 @@ These six integration connections are not abstract. They mean that a `τ` disast
 3. **Build a shared benchmark index** for the five lighthouse pilots.
 4. **Prioritize partner outreach** in this order: hydromet/civil protection, flood/coastal authorities, fire/health agencies, infrastructure operators, then anticipatory-action and risk-finance actors.
 5. **Create a single public-good scorecard template** so all five papers can be compared on common terms.
-6. **Prepare one portfolio visualization** showing one shared `τ` weather–hazard–impact substrate feeding five mission layers.
+6. **Prepare one portfolio visualization** showing one shared τ weather–hazard–impact substrate feeding five mission layers.
 7. **Initiate dialogue with OCHA/CERF, WFP, and World Bank DRFI** on trigger calibration research partnerships, beginning with Paper 5 shadow-mode integration.
-8. **Map `τ` deployment cost scenarios to GCF, World Bank, and InsuResilience financing windows** to prepare a bankable investment brief for the 3–7 year deployment horizon.
+8. **Map τ deployment cost scenarios to GCF, World Bank, and InsuResilience financing windows** to prepare a bankable investment brief for the 3–7 year deployment horizon.
 
 ---
 
 ## 19. Conclusion
 
-The disaster domain is not only a strong `τ` application area. It is one of the cleanest places to show what `τ` would mean in practice.
+The disaster domain is not only a strong τ application area. It is one of the cleanest places to show what τ would mean in practice.
 
 Why?
 
@@ -889,7 +889,7 @@ Because the line from better physical intelligence to public good is very short:
 - better logistics,
 - and better finance.
 
-The incumbent forecasting architecture is strong on atmospheric physics and weak on the downstream chain — compound-event handling, error propagation through impact models, and trigger calibration for anticipatory action. These are precisely the layers where a `τ`-grade bounded-error multi-hazard twin would differentiate.
+The incumbent forecasting architecture is strong on atmospheric physics and weak on the downstream chain — compound-event handling, error propagation through impact models, and trigger calibration for anticipatory action. These are precisely the layers where a τ-grade bounded-error multi-hazard twin would differentiate.
 
 The financing architecture for this work already exists: OCHA CERF, WFP anticipatory action, World Bank DRFI, GCF adaptation grants, and InsuResilience together represent billions in annual deployment-ready capital. A US$40–100M portfolio investment over five years is modest relative to both the available financing and the risk exposure it addresses.
 
@@ -897,7 +897,7 @@ The governance challenge is real — false-alarm costs, trigger accountability, 
 
 That is why the disaster portfolio matters.
 
-It shows how `τ` could move from a foundational claim to a public-protection architecture:
+It shows how τ could move from a foundational claim to a public-protection architecture:
 
 - not only explaining reality better,
 - but helping societies protect people earlier, more fairly, and more intelligently.
@@ -908,11 +908,11 @@ It shows how `τ` could move from a foundational claim to a public-protection ar
 
 This portfolio memo synthesizes the following companion drafts:
 
-1. **`τ`-Grade Multi-Hazard Early Warning and Operational Hazard Intelligence**
-2. **`τ` for Flood, Coastal Surge, Flash Flood, and Landslide Resilience**
-3. **`τ` for Wildfire, Smoke, Heat, and Compound-Extreme Health Protection**
-4. **`τ` for Critical Infrastructure, Emergency Operations, and Public-Service Continuity**
-5. **`τ` for Anticipatory Action, Humanitarian Logistics, and Climate-Risk Finance**
+1. **τ-Grade Multi-Hazard Early Warning and Operational Hazard Intelligence**
+2. **τ for Flood, Coastal Surge, Flash Flood, and Landslide Resilience**
+3. **τ for Wildfire, Smoke, Heat, and Compound-Extreme Health Protection**
+4. **τ for Critical Infrastructure, Emergency Operations, and Public-Service Continuity**
+5. **τ for Anticipatory Action, Humanitarian Logistics, and Climate-Risk Finance**
 
 ---
 

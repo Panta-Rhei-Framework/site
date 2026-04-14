@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade One Health: Vector-Borne, Zoonotic Spillover, and Climate-Sensitive Outbreak Intelligence
-**Companion Dossier — Panta Rhei Impact: One Health Portfolio**
-**Paper 1 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 The world is not losing the war against infectious disease because it lacks data. It is losing because the data streams — meteorological, ecological, veterinary, entomological, clinical, and behavioral — sit in separate institutional pipelines with no common causal engine linking them in time to act.

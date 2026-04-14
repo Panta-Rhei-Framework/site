@@ -16,13 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for River-Basin, Groundwater, Drought–Flood Allocation, and Water Productivity
-
-**Companion Dossier — Panta Rhei Impact: Water/WASH Portfolio**
-**Paper 4 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 The world's freshwater systems are entering a structural governance crisis. UN-Water's 2025 water facts report that **more than 2 billion people** live in countries experiencing water stress and **3.6 billion** face inadequate water access for at least one month every year.[^1] Agriculture still accounts for **72% of global freshwater withdrawals** while covering only 22.5% of cropland as irrigated area — yet that irrigated land generates **48% of global crop value**.[^2][^3] FAO projects that global freshwater demand will exceed supply by **40% by 2030** under business-as-usual trajectories.[^14] The World Bank estimates that water scarcity could reduce GDP by **up to 6%** in the most exposed regions by 2050, with effects cascading across food, energy, manufacturing, and export sectors.[^7] Meanwhile, WMO's **State of Global Water Resources 2024** shows that only **one third of river basins** experienced normal conditions in 2024 — the sixth consecutive year of global hydrological imbalance.[^6]

@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Distributed PV Visibility and Distribution-Grid Orchestration
-**Companion Dossier — Panta Rhei Impact: Solar Portfolio**
-**Paper 2 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Distributed solar is no longer peripheral to grid operations. The U.S. now hosts 4.7 million residential PV systems; nearly 800,000 were added in 2023 alone.[^1] Germany has 2.5 million rooftop installations across 57 GW of capacity.[^14] Hawaii operates distribution circuits where solar export exceeds local hosting capacity on sunny days.[^15] The world has crossed a threshold where millions of small, partly invisible, inverter-based resources materially shape the daily behavior of the local grid — voltage profiles, protection coordination, reverse power flow, transformer loading, and interconnection queues.

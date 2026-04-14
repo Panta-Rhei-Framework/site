@@ -15,12 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Carbon-Cycle, Methane, Aerosol, and Sink Intelligence
-**Companion Dossier — Panta Rhei Impact: Climate Portfolio**
-**Paper 2 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 The world's greenhouse-gas measurement and attribution ecosystem has grown enormously in the past decade. Satellite constellations detect individual methane super-emitters from orbit. Atmospheric inversion systems run operationally at continental scale. Annual carbon budgets are published with global coordination. Aerosol and non-CO2 short-lived climate forcers now receive dedicated policy attention. And the institutional architecture — WMO G3W, UNEP MARS, CAMS, NASA OCO-3, NOAA GGGRN — is mature enough that governments and regulators treat it as legitimate decision support.

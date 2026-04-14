@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Drinking-Water Source, Treatment, and Quality Early Warning
-**Companion Dossier — Panta Rhei Impact: Water/WASH Portfolio**
-**Paper 1 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Safe drinking water is one of the most fundamental public goods. Yet the latest WHO/UNICEF Joint Monitoring Programme (JMP) data confirm that **2.2 billion people still lack safely managed drinking-water services**, and roughly **703 million people lack even basic water service**.[^1][^2] Contaminated water kills approximately **1.2 million people per year from diarrheal disease alone**, and cholera, typhoid, arsenic, and fluoride poisoning compound the toll across dozens of countries.[^3] The UNESCO World Water Development Report 2024 states plainly that **none of the SDG 6 targets are on track**.[^4]

@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Anticipatory Action, Humanitarian Logistics, and Climate Risk Finance
-**Companion Dossier — Panta Rhei Impact: Disaster Portfolio**
-**Paper 5 of 5 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 This dossier addresses a focused but operationally concrete question under an explicitly caveated working assumption:

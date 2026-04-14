@@ -15,13 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Wildfire, Smoke, Heat, and Compound Extreme Health Protection
-
-**Companion Dossier — Panta Rhei Impact: Disaster Portfolio**
-**Paper 3 of 5 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 This dossier examines one of the most directly human-facing applications in the entire Panta Rhei disaster portfolio: whether a physically faithful, bounded-error, coarse-grainable τ hazard twin can close the gap between fire-weather prediction, smoke-transport forecasting, heat-health warning, and the compound-extreme protection that current fragmented systems cannot reliably deliver. Under the explicit τ assumption, the answer is affirmative — and the public-good scale is substantial enough to make this a first-tier deployment priority.

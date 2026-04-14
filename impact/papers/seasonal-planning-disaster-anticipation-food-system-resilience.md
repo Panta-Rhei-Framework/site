@@ -16,13 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Seasonal Planning, Disaster Anticipation, and Food-System Resilience
-
-**Companion Dossier — Panta Rhei Impact: Agriculture Portfolio**
-**Paper 4 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 This dossier examines one of the highest-stakes applications in the entire τ agriculture portfolio: whether a physically faithful, bounded-error, coarse-grainable seasonal planning twin can close the gap between climate science and food-system protection at scale. The answer, under the explicit τ assumption, is affirmative — and the public-good scale is substantial.

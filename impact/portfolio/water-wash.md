@@ -25,9 +25,9 @@ This memo synthesizes five yellow papers into one water/WASH opportunity portfol
 
 The working question is simple:
 
-> **If the `τ` framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable discrete twin of water movement, water quality, treatment, distribution, wastewater, sanitation, basin hydrology, and essential-service continuity, where are the strongest first-wave water and WASH deployments, and how should they be sequenced for public good?**
+> **If the τ framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable discrete twin of water movement, water quality, treatment, distribution, wastewater, sanitation, basin hydrology, and essential-service continuity, where are the strongest first-wave water and WASH deployments, and how should they be sequenced for public good?**
 
-The answer is that **water and WASH is one of the strongest remaining clusters to add to the `τ` meta-portfolio.**
+The answer is that **water and WASH is one of the strongest remaining clusters to add to the τ meta-portfolio.**
 
 That is true for six reasons.
 
@@ -50,7 +50,7 @@ Sixth, the five opportunity areas are not isolated markets. They share one physi
 - basin and groundwater behavior,
 - and continuity of water, sanitation, and hygiene in the places where human vulnerability is highest.
 
-So one strong `τ` water twin would not feed one use-case only. It would feed a whole water/WASH portfolio.
+So one strong τ water twin would not feed one use-case only. It would feed a whole water/WASH portfolio.
 
 This memo therefore organizes the water/WASH domain into five linked papers:
 
@@ -76,7 +76,7 @@ The memo then proposes:
 
 The central recommendation is:
 
-> **Treat water/WASH as a single `τ` deployment portfolio with one shared water twin and five mission layers, rather than as five isolated service products.**
+> **Treat water/WASH as a single τ deployment portfolio with one shared water twin and five mission layers, rather than as five isolated service products.**
 
 That is the most efficient path to early proof, cross-domain reuse, and durable public good.
 
@@ -86,15 +86,15 @@ That is the most efficient path to early proof, cross-domain reuse, and durable 
 
 This memo adopts an explicit stance.
 
-It does **not** claim that the world has already accepted the full `τ` framework. It does **not** attempt to prove the underlying physics, chemistry, or biology here. It does **not** ask the reader to settle every deeper foundational implication before assessing deployment value.
+It does **not** claim that the world has already accepted the full τ framework. It does **not** attempt to prove the underlying physics, chemistry, or biology here. It does **not** ask the reader to settle every deeper foundational implication before assessing deployment value.
 
 Instead, it asks a narrower and more operational question:
 
-> If `τ` provides the water-side capabilities claimed for it, how should those capabilities be translated into a coherent water/WASH deployment program?
+> If τ provides the water-side capabilities claimed for it, how should those capabilities be translated into a coherent water/WASH deployment program?
 
 The working assumptions are the same as in the five companion papers:
 
-- `τ` provides a **physically faithful** discrete water twin;
+- τ provides a **physically faithful** discrete water twin;
 - this twin is **constructive, decidable, bounded-error, and coarse-grainable**;
 - precision and refinement remain **structurally aligned** rather than drifting apart as in many current discretization stacks;
 - relevant water, quality, and continuity predictions can be made with **materially higher fidelity and more trustworthy local error bounds** than current practice;
@@ -104,7 +104,7 @@ Everything that follows is conditional on that stance.
 
 ---
 
-## 2. Why water/WASH is a first-wave `τ` deployment domain
+## 2. Why water/WASH is a first-wave τ deployment domain
 
 Water and WASH is especially attractive because the line from better physical intelligence to public good is extremely short.
 
@@ -125,7 +125,7 @@ That means the deployment problem is unusually tractable:
 
 In short:
 
-> **The water/WASH domain does not need a speculative new market to make `τ` useful. It needs a better physical-intelligence layer for missions that already exist.**
+> **The water/WASH domain does not need a speculative new market to make τ useful. It needs a better physical-intelligence layer for missions that already exist.**
 
 Water/WASH is also distinct from the other portfolios already built. Agriculture touches irrigation and water productivity; disaster covers floods and drought warning; climate covers Earth-system dynamics; energy covers cooling water, hydropower, and grid resilience. But water/WASH remains its own mission field because the regulated service units, risk standards, and public-good obligations are different:
 
@@ -136,7 +136,7 @@ Water/WASH is also distinct from the other portfolios already built. Agriculture
 - camp and settlement operators,
 - and the human-rights frame around water, sanitation, and hygiene.
 
-This portfolio is therefore the **missing water spine** in the wider `τ` public-good architecture.
+This portfolio is therefore the **missing water spine** in the wider τ public-good architecture.
 
 ---
 
@@ -154,7 +154,7 @@ This portfolio is therefore the **missing water spine** in the wider `τ` public
 
 ### 3.2 One physical substrate, five mission layers
 
-All five papers rely on the same `τ` water substrate:
+All five papers rely on the same τ water substrate:
 
 - source-water hydrology and quality,
 - treatment behavior,
@@ -340,7 +340,7 @@ Paper 4 should still begin in **shadow mode** early in highly stressed basins, e
 
 Scores are on a 1–5 scale, where 5 is strongest.
 
-| Paper | Readiness | Public-good scale | `τ` fit | Measurability | Adoption friction | Overall priority |
+| Paper | Readiness | Public-good scale | τ fit | Measurability | Adoption friction | Overall priority |
 |---|---:|---:|---:|---:|---:|---|
 | **1. Drinking-water source and treatment** | 5 | 5 | 5 | 4 | 2 | **Very high** |
 | **2. Distribution continuity and leakage** | 5 | 5 | 5 | 5 | 2 | **Very high** |
@@ -362,7 +362,7 @@ Interpretation:
 
 ### Pilot A — Source-to-works water safety early-warning pilot
 
-**Use case:** side-by-side comparison of `τ` source-water risk and treatment-train early warning against current source-quality monitoring and operational triggers in one urban or regional utility.
+**Use case:** side-by-side comparison of τ source-water risk and treatment-train early warning against current source-quality monitoring and operational triggers in one urban or regional utility.
 
 **Best counterpart institutions:** utilities, public-health laboratories, basin agencies, regulators.
 
@@ -370,7 +370,7 @@ Interpretation:
 
 ### Pilot B — District-metered-area leakage, pressure, and continuity pilot
 
-**Use case:** `τ`-assisted leak detection, pressure management, and continuity control across one city district or cluster of DMAs.
+**Use case:** τ-assisted leak detection, pressure management, and continuity control across one city district or cluster of DMAs.
 
 **Best counterpart institutions:** utilities, municipal operators, regulators.
 
@@ -378,7 +378,7 @@ Interpretation:
 
 ### Pilot C — Citywide sanitation, stormwater, and reuse pilot
 
-**Use case:** integrated `τ` twin for wastewater, stormwater overflow risk, sanitation-chain safety, and reuse opportunities in one city or industrial corridor.
+**Use case:** integrated τ twin for wastewater, stormwater overflow risk, sanitation-chain safety, and reuse opportunities in one city or industrial corridor.
 
 **Best counterpart institutions:** sanitation authorities, wastewater utilities, environmental regulators, industrial parks.
 
@@ -386,7 +386,7 @@ Interpretation:
 
 ### Pilot D — Basin and groundwater conjunctive-use pilot
 
-**Use case:** `τ`-assisted reservoir, groundwater, and irrigation allocation pilot for one stressed basin, including drought–flood mode switching.
+**Use case:** τ-assisted reservoir, groundwater, and irrigation allocation pilot for one stressed basin, including drought–flood mode switching.
 
 **Best counterpart institutions:** basin organizations, water/agriculture ministries, hydropower and irrigation operators.
 
@@ -394,7 +394,7 @@ Interpretation:
 
 ### Pilot E — WASH continuity pilot for critical and vulnerable settings
 
-**Use case:** `τ`-assisted continuity and contamination-warning pilot for a network of health facilities, schools, camps, or informal-settlement service nodes.
+**Use case:** τ-assisted continuity and contamination-warning pilot for a network of health facilities, schools, camps, or informal-settlement service nodes.
 
 **Best counterpart institutions:** health and education ministries, local governments, NGOs, camp authorities, humanitarian actors.
 
@@ -408,7 +408,7 @@ Interpretation:
 
 Goals:
 
-- define the common `τ` water twin architecture;
+- define the common τ water twin architecture;
 - identify benchmark utilities, basins, and facility settings;
 - stand up shadow-mode evaluation environments;
 - define shared public-good scorecards across the five papers.
@@ -430,7 +430,7 @@ Priority papers:
 
 Goals:
 
-- run `τ` source, network, and facility continuity outputs in parallel with existing workflows;
+- run τ source, network, and facility continuity outputs in parallel with existing workflows;
 - prove value without displacing current operations;
 - build institutional trust with transparent metrics.
 
@@ -452,7 +452,7 @@ Priority papers:
 Goals:
 
 - move from shadow mode to operator-facing recommendations;
-- begin using `τ` outputs in constrained drinking-water, continuity, and facility decisions;
+- begin using τ outputs in constrained drinking-water, continuity, and facility decisions;
 - prove tangible public-health and service-reliability gains.
 
 Outputs:
@@ -547,7 +547,7 @@ Outputs:
 
 ### 9.6 Portfolio-level metrics
 
-- population newly protected by `τ`-augmented water intelligence,
+- population newly protected by τ-augmented water intelligence,
 - avoided service interruptions,
 - avoided water loss,
 - improved water-quality compliance,
@@ -560,7 +560,7 @@ Outputs:
 
 ### 10.1 The incumbent technology stack
 
-The water sector is served by a fragmented array of incumbent systems, each addressing a distinct layer of the water management challenge. Understanding this landscape is essential to positioning `τ` accurately: not as a vendor competing within one of these silos, but as an integrating causal layer that none of them currently provides.
+The water sector is served by a fragmented array of incumbent systems, each addressing a distinct layer of the water management challenge. Understanding this landscape is essential to positioning τ accurately: not as a vendor competing within one of these silos, but as an integrating causal layer that none of them currently provides.
 
 **Hydrological and basin modeling**
 
@@ -576,27 +576,27 @@ The WHO/UNICEF Joint Monitoring Programme (JMP) defines the global standard for 
 
 ### 10.2 The differentiation argument
 
-The `τ` water twin's differentiating claim is not that it replicates any one of these systems more accurately. It is that it provides, for the first time, a **unified causal chain** from precipitation physics through soil infiltration and aquifer recharge, through source reservoir, through treatment, through distribution network, through tap, through wastewater conveyance, and through ambient waterbody — with structurally consistent error bounds at every transition.
+The τ water twin's differentiating claim is not that it replicates any one of these systems more accurately. It is that it provides, for the first time, a **unified causal chain** from precipitation physics through soil infiltration and aquifer recharge, through source reservoir, through treatment, through distribution network, through tap, through wastewater conveyance, and through ambient waterbody — with structurally consistent error bounds at every transition.
 
 The critical contrast is:
 
-| Dimension | Incumbent stack | `τ` water twin |
+| Dimension | Incumbent stack | τ water twin |
 |---|---|---|
 | **Coverage** | Siloed: hydrology OR network OR SCADA OR WASH monitoring | Unified: full source-to-tap-to-drain causal chain |
 | **Error propagation** | Each layer has its own calibration regime; cross-layer errors compound without formal accounting | Bounded-error, coarse-grainable discretization: errors remain structurally traceable |
 | **Causal epidemiology** | Water quality is typically tracked at network nodes, not linked causally to health outcomes | Contaminant transport, treatment dynamics, and health-outcome exposure can be modeled in one causal chain |
 | **Basin-utility integration** | Basin models and utility network models are typically operated by different institutions with different update cycles | Single twin coordinates basin inputs, treatment operations, and distribution outcomes |
-| **Predictive mode** | Most platforms are reactive or calibrated-historical | `τ` twin is architecturally predictive, not just retrospective |
+| **Predictive mode** | Most platforms are reactive or calibrated-historical | τ twin is architecturally predictive, not just retrospective |
 
 The strategic argument to a ministry of water, a development bank, or a WHO/UNICEF program partner is therefore not "better hydrology" or "better leak detection" in isolation. It is:
 
 > For the first time, a single operational intelligence layer can tell you how today's upstream rainfall event will affect source-water quality at the intake tomorrow, how that will stress the treatment train, how the resulting pressure dynamics in the distribution network will affect contamination intrusion risk, and how that risk translates into expected exposure at vulnerable service nodes — all in one traceable, bounded, co-auditable system.
 
-That is a proposition that no incumbent offers, because the incumbents are structurally organized around functional silos that mirror the institutional fragmentation of the water sector itself. The `τ` water twin does not replicate the silo architecture. It replaces it with a unified physics.
+That is a proposition that no incumbent offers, because the incumbents are structurally organized around functional silos that mirror the institutional fragmentation of the water sector itself. The τ water twin does not replicate the silo architecture. It replaces it with a unified physics.
 
 ### 10.3 Where incumbents remain strong
 
-Incumbents retain clear advantages in the near term: deep calibration libraries for specific basin and network contexts, strong regulatory acceptance, existing data integration pathways, and large installed bases with trained operator communities. Any `τ` deployment strategy must acknowledge these advantages and propose shadow-mode co-operation rather than displacement. The competitive claim is long-run: as `τ` accumulates benchmark evidence across contexts, the unified causal argument becomes increasingly legible to institutional purchasers.
+Incumbents retain clear advantages in the near term: deep calibration libraries for specific basin and network contexts, strong regulatory acceptance, existing data integration pathways, and large installed bases with trained operator communities. Any τ deployment strategy must acknowledge these advantages and propose shadow-mode co-operation rather than displacement. The competitive claim is long-run: as τ accumulates benchmark evidence across contexts, the unified causal argument becomes increasingly legible to institutional purchasers.
 
 ---
 
@@ -604,7 +604,7 @@ Incumbents retain clear advantages in the near term: deep calibration libraries 
 
 ### 11.1 Named funding windows
 
-The water sector is served by well-documented multilateral and bilateral funding streams that provide a clear financing map for `τ` deployment at scale.
+The water sector is served by well-documented multilateral and bilateral funding streams that provide a clear financing map for τ deployment at scale.
 
 **World Bank Water for Food program** ($4.5B+ active portfolio): World Bank lending for irrigation, agricultural water management, and water productivity in food-producing regions. This window is the primary entry point for Paper 4 deployments in South and Southeast Asia, Sub-Saharan Africa, and Latin America, where conjunctive-use intelligence and water productivity gains are direct Bank objectives.
 
@@ -622,13 +622,13 @@ The water sector is served by well-documented multilateral and bilateral funding
 
 ### 11.2 Portfolio cost scenario
 
-A full five-paper `τ` water twin deployment for a national water utility serving 5–10 million people, paired with a regional basin authority, over a five-year initial cycle represents the reference cost scenario.
+A full five-paper τ water twin deployment for a national water utility serving 5–10 million people, paired with a regional basin authority, over a five-year initial cycle represents the reference cost scenario.
 
 **Indicative cost structure (5 years, national utility + basin authority, 5–10M population):**
 
 | Component | Low estimate | High estimate |
 |---|---:|---:|
-| Core `τ` water twin infrastructure (computational, data, calibration) | $4M | $8M |
+| Core τ water twin infrastructure (computational, data, calibration) | $4M | $8M |
 | Paper 1 — Source-to-works safety deployment | $4M | $8M |
 | Paper 2 — Network continuity deployment | $5M | $10M |
 | Paper 3 — Sanitation and stormwater twin | $5M | $12M |
@@ -639,7 +639,7 @@ A full five-paper `τ` water twin deployment for a national water utility servin
 
 This $30–70M range is the reference portfolio cost. It is meaningful in context:
 
-- The World Bank's average urban water project in a lower-middle-income country runs $50–200M. A `τ` intelligence layer at $30–70M represents 15–35% of project cost with the potential to materially improve the return on the entire capital investment.
+- The World Bank's average urban water project in a lower-middle-income country runs $50–200M. A τ intelligence layer at $30–70M represents 15–35% of project cost with the potential to materially improve the return on the entire capital investment.
 - USAID's total Water for the World spending is ~$850M/year across all programs; a $30–70M national-scale deployment represents approximately 4–8% of annual bilateral spend.
 - The global NRW loss of $39B/year means that a single major national utility achieving even a 20% NRW reduction could generate annual savings of $50–200M — a return on the intelligence investment in under one year of operation.
 
@@ -647,7 +647,7 @@ This $30–70M range is the reference portfolio cost. It is meaningful in contex
 
 The benefit-cost case for WASH investment is among the best-documented in international development finance:
 
-**WHO economic return on WASH investment**: WHO estimates that every $1 invested in WASH yields $4.3 to $5.5 in economic returns, based on avoided health costs, productivity gains, and reduced caregiving burden. The `τ` portfolio strengthens this return by compressing the time between investment and outcome (earlier warning = faster response = lower disease burden) and by targeting the highest-burden service nodes first.
+**WHO economic return on WASH investment**: WHO estimates that every $1 invested in WASH yields $4.3 to $5.5 in economic returns, based on avoided health costs, productivity gains, and reduced caregiving burden. The τ portfolio strengthens this return by compressing the time between investment and outcome (earlier warning = faster response = lower disease burden) and by targeting the highest-burden service nodes first.
 
 **Non-revenue water reduction**: NRW rates in developing-country utilities commonly run 30–60% of total water produced. Industry evidence consistently shows that intelligent pressure management and leak detection can reduce NRW by 15–30% without significant capital expenditure on pipe replacement. At a utility producing 200 million liters per day at a cost of $0.50 per cubic meter, a 20% NRW reduction saves approximately $7.3M per year. At $0.80/m³, the saving exceeds $11M/year. These returns accumulate continuously and grow with system scale.
 
@@ -659,7 +659,7 @@ The benefit-cost case for WASH investment is among the best-documented in intern
 
 The finance architecture argument for development bank and government counterparts is straightforward:
 
-> A `τ` water intelligence layer, deployed at $30–70M for a national utility and basin authority serving 5–10 million people, generates: (a) NRW savings that can pay back capital within 1–5 years; (b) WHO-documented WASH return multipliers of $4.3–5.5 per dollar invested; (c) avoided outbreak and contamination event costs that are difficult to predict but consistently large; (d) climate resilience multipliers of $6–14 per dollar at the basin scale; and (e) accelerated progress toward SDG 6 milestones that multilateral donors are already committed to funding.
+> A τ water intelligence layer, deployed at $30–70M for a national utility and basin authority serving 5–10 million people, generates: (a) NRW savings that can pay back capital within 1–5 years; (b) WHO-documented WASH return multipliers of $4.3–5.5 per dollar invested; (c) avoided outbreak and contamination event costs that are difficult to predict but consistently large; (d) climate resilience multipliers of $6–14 per dollar at the basin scale; and (e) accelerated progress toward SDG 6 milestones that multilateral donors are already committed to funding.
 
 This is not a speculative technology pitch. It is a public-finance argument with documented precedents at each step.
 
@@ -677,17 +677,17 @@ Water stress indices in the basin range from moderate in Nepal's mid-hills to ex
 
 **Relevant institutions**: Bangladesh Water Development Board (BWDB), Brahmaputra Board (BWB), India's Central Water Commission (CWC), and the Ganges Water Treaty framework.
 
-**`τ` deployment logic: Papers 4 + 1 + 3**
+**τ deployment logic: Papers 4 + 1 + 3**
 
 The lead paper for this context is **Paper 4** (basin and groundwater intelligence), coordinating conjunctive-use decisions across surface water, groundwater, and monsoon storage reservoirs. The twin needs to model the monsoon-to-dry-season switching dynamic, track groundwater depletion under irrigation abstraction, and provide allocation guidance for transboundary flow obligations.
 
-**Paper 1** (source and treatment quality) is the second layer, because arsenic contamination and microbial risk in Bangladesh and eastern India are not separate from basin hydrology — they are functions of groundwater depth, redox chemistry, and seasonal surface-groundwater exchange dynamics that a unified `τ` twin can model causally. Current arsenic monitoring is point-sample based; a basin-hydrological causal twin can predict high-risk zones under changing groundwater levels.
+**Paper 1** (source and treatment quality) is the second layer, because arsenic contamination and microbial risk in Bangladesh and eastern India are not separate from basin hydrology — they are functions of groundwater depth, redox chemistry, and seasonal surface-groundwater exchange dynamics that a unified τ twin can model causally. Current arsenic monitoring is point-sample based; a basin-hydrological causal twin can predict high-risk zones under changing groundwater levels.
 
 **Paper 3** (wastewater and sanitation) is the third layer, relevant to the densely urbanized Ganges corridor from Varanasi to Kolkata, where sewage and industrial discharge enter the river system at rates that overwhelm current treatment capacity. The GBM system illustrates why treating sanitation, basin hydrology, and drinking-water quality as separate problems consistently fails: upstream discharge becomes downstream intake.
 
 **Expected quantified value**
 
-A basin-scale `τ` deployment in the GBM system would target: 10–15% improvement in irrigation water productivity (reducing groundwater abstraction by an equivalent fraction); earlier arsenic-risk alert for 5–10 million high-risk users; and overflow and discharge event reduction for cities along the Ganges corridor serving 80+ million urban residents. These represent some of the largest water-security gains available anywhere in the world.
+A basin-scale τ deployment in the GBM system would target: 10–15% improvement in irrigation water productivity (reducing groundwater abstraction by an equivalent fraction); earlier arsenic-risk alert for 5–10 million high-risk users; and overflow and discharge event reduction for cities along the Ganges corridor serving 80+ million urban residents. These represent some of the largest water-security gains available anywhere in the world.
 
 ---
 
@@ -701,7 +701,7 @@ NRW rates in Sub-Saharan African utilities are among the highest in the world. I
 
 WASH in schools and health facilities is particularly acute in this region. JMP data shows that in Sub-Saharan Africa, approximately 40% of health facilities lack basic water services on-premises, and over 50% of schools lack basic drinking water. This is not a peripheral concern: health facility WASH directly determines maternal and neonatal mortality and healthcare-associated infection rates in the highest-burden disease contexts in the world.
 
-**`τ` deployment logic: Papers 5 + 1 + 2**
+**τ deployment logic: Papers 5 + 1 + 2**
 
 The lead paper for this context is **Paper 5** (WASH in institutions and vulnerable settings), because the most urgent and tractable first-wave intervention is building service continuity intelligence for health facility and school networks in secondary cities where supply interruptions are frequent and outbreak risk is directly correlated with service gaps.
 
@@ -723,15 +723,15 @@ The Middle East and North Africa (MENA) region is the most water-scarce region i
 
 NRW in MENA utilities shows a wide range: Jordan's National Water Carrier has achieved NRW reduction to approximately 35–40% through significant investment, while many smaller Egyptian and Moroccan utilities still operate at 40–60% NRW. Groundwater depletion is extreme in all three countries — the non-renewable Nubian Sandstone Aquifer System in Egypt and Libya, the highland aquifers in Morocco's Atlas region, and the fossil aquifer systems of Jordan's eastern desert are all being extracted at rates that cannot be sustained beyond the 2040–2060 horizon under current trajectories.
 
-**`τ` deployment logic: Papers 2 + 4**
+**τ deployment logic: Papers 2 + 4**
 
 The lead paper for the MENA corridor is **Paper 2** (network continuity and NRW reduction), because in extreme water scarcity contexts, every percentage point of NRW reduction represents genuine water security gain. At Jordan's current NRW of ~35% and production of approximately 150 million m³/year, a 10% NRW reduction frees 15 million m³/year — enough for domestic supply to approximately 150,000 people without any new source development.
 
-**Paper 4** (basin and groundwater) is the second paper, critical for the MENA context because the fundamental long-run challenge is groundwater depletion management. A `τ` twin that can track abstraction dynamics, model aquifer response under different recharge and extraction scenarios, and provide conjunctive-use decision support for surface-groundwater switching is directly relevant to national water security planning in all three countries.
+**Paper 4** (basin and groundwater) is the second paper, critical for the MENA context because the fundamental long-run challenge is groundwater depletion management. A τ twin that can track abstraction dynamics, model aquifer response under different recharge and extraction scenarios, and provide conjunctive-use decision support for surface-groundwater switching is directly relevant to national water security planning in all three countries.
 
 **Expected quantified value**
 
-A `τ` deployment targeting Jordan's distribution system and the Zarqa and Yarmouk basin systems would target: NRW reduction from ~38% to ~25–28% (representing 15–20 million m³/year additional supply within the existing production system); and groundwater depletion rate reduction through conjunctive-use intelligence, extending aquifer productive life by an estimated 5–15 years under optimized management. In the MENA context, these gains are geopolitically significant, not merely technical.
+A τ deployment targeting Jordan's distribution system and the Zarqa and Yarmouk basin systems would target: NRW reduction from ~38% to ~25–28% (representing 15–20 million m³/year additional supply within the existing production system); and groundwater depletion rate reduction through conjunctive-use intelligence, extending aquifer productive life by an estimated 5–15 years under optimized management. In the MENA context, these gains are geopolitically significant, not merely technical.
 
 ---
 
@@ -739,17 +739,17 @@ A `τ` deployment targeting Jordan's distribution system and the Zarqa and Yarmo
 
 ### 13.1 SDG 6 — Clean Water and Sanitation: the central alignment
 
-SDG 6 is the organizing framework for the entire water/WASH portfolio. The five `τ` papers map directly to SDG 6's six principal targets:
+SDG 6 is the organizing framework for the entire water/WASH portfolio. The five τ papers map directly to SDG 6's six principal targets:
 
 **Target 6.1** — By 2030, achieve universal and equitable access to safe and affordable drinking water for all. WHO/UNICEF JMP baseline (2022): 73% of the global population has access to safely managed drinking water services; 26% (approximately 2.1 billion people) do not. Papers 1 and 5 directly address this target: source-to-works safety (Paper 1) and continuity in health facilities and schools (Paper 5) are the two most tractable near-term levers for reducing the unsafe-water burden among the most vulnerable populations.
 
-**Target 6.2** — By 2030, achieve access to adequate and equitable sanitation and hygiene for all. JMP baseline (2022): 57% have safely managed sanitation; 43% (approximately 3.4 billion people) do not. Paper 3 (sanitation chain and reuse) and Paper 5 (WASH in institutions) directly address this target. WHO's sanitation safety planning framework already provides the institutional architecture; `τ` provides the physical-intelligence layer.
+**Target 6.2** — By 2030, achieve access to adequate and equitable sanitation and hygiene for all. JMP baseline (2022): 57% have safely managed sanitation; 43% (approximately 3.4 billion people) do not. Paper 3 (sanitation chain and reuse) and Paper 5 (WASH in institutions) directly address this target. WHO's sanitation safety planning framework already provides the institutional architecture; τ provides the physical-intelligence layer.
 
 **Target 6.3** — By 2030, improve water quality by reducing pollution, eliminating dumping, and minimizing release of hazardous chemicals. UN-Water baseline (2022): 42% of household wastewater is not safely treated. Papers 1 and 3 directly address this target through source-quality early warning and wastewater treatment chain intelligence.
 
 **Target 6.4** — By 2030, substantially increase water-use efficiency across all sectors. FAO baseline: irrigated agriculture accounts for ~72% of global freshwater withdrawals; water productivity in many developing-country irrigation systems remains well below technically achievable levels. Paper 4's basin and groundwater intelligence layer is the primary vehicle for Target 6.4 progress, particularly for conjunctive-use optimization that improves both water productivity and groundwater stewardship.
 
-**Target 6.5** — By 2030, implement integrated water resources management (IWRM) at all levels. UN-Water baseline: 107 countries have IWRM at medium-high levels of implementation; most developing countries remain at medium or below. Paper 4 is the direct instrument for Target 6.5. A `τ` basin and groundwater twin provides exactly the operational intelligence layer that IWRM frameworks call for but rarely receive in practice.
+**Target 6.5** — By 2030, implement integrated water resources management (IWRM) at all levels. UN-Water baseline: 107 countries have IWRM at medium-high levels of implementation; most developing countries remain at medium or below. Paper 4 is the direct instrument for Target 6.5. A τ basin and groundwater twin provides exactly the operational intelligence layer that IWRM frameworks call for but rarely receive in practice.
 
 **Target 6.6** — By 2020, protect and restore water-related ecosystems. WMO and UN-Water track freshwater ecosystem health as an indicator for this target; most systems show ongoing degradation. Paper 4's ecological-flow compliance intelligence directly supports this target.
 
@@ -759,7 +759,7 @@ SDG 6 is the organizing framework for the entire water/WASH portfolio. The five 
 
 **SDG 2 — Zero Hunger**: The agriculture-water nexus connects Paper 4 (basin and groundwater productivity) to food security. FAO data shows that irrigated agriculture produces approximately 40% of global food calories from approximately 20% of cultivated land. Water productivity gains under Paper 4's conjunctive-use intelligence directly translate into food production security, particularly in water-stressed agricultural regions.
 
-**SDG 11 — Sustainable Cities and Communities**: Urban water resilience, stormwater management, and sanitation continuity under Papers 2, 3, and 5 are central to urban sustainability planning. Rapidly growing cities in South Asia, Sub-Saharan Africa, and MENA face water system stress as the primary infrastructure risk. The `τ` portfolio provides the decision support layer for resilient urban water planning.
+**SDG 11 — Sustainable Cities and Communities**: Urban water resilience, stormwater management, and sanitation continuity under Papers 2, 3, and 5 are central to urban sustainability planning. Rapidly growing cities in South Asia, Sub-Saharan Africa, and MENA face water system stress as the primary infrastructure risk. The τ portfolio provides the decision support layer for resilient urban water planning.
 
 **SDG 13 — Climate Action**: Water systems are the primary channel through which climate change affects human welfare. Precipitation regime shifts affect source-water quantity and quality; extreme events stress both urban drainage and rural basins; warming drives increased evaporative demand and groundwater pressure. All five papers provide climate-adaptive intelligence at their respective system levels, with Paper 4 providing the longest-run climate-resilience contribution.
 
@@ -769,35 +769,35 @@ SDG 6 is the organizing framework for the entire water/WASH portfolio. The five 
 
 ### 14.1 Lead with shadow mode and independent validation
 
-Do not replace current regulatory or public-health safeguards at the outset. Benchmark `τ` in parallel and publish scorecards. This is the precondition for institutional trust in any regulated water environment: operational intelligence must be demonstrably additive to existing safety frameworks, not a substitute for them.
+Do not replace current regulatory or public-health safeguards at the outset. Benchmark τ in parallel and publish scorecards. This is the precondition for institutional trust in any regulated water environment: operational intelligence must be demonstrably additive to existing safety frameworks, not a substitute for them.
 
 ### 14.2 Treat safe water and sanitation as rights, not just optimization targets
 
-Safe water and sanitation are recognized human rights under international law. Article 24 of the Convention on the Rights of the Child (CRC) obliges states to provide clean drinking water for all children. General Comment 15 of the UN Committee on Economic, Social and Cultural Rights (CESCR) establishes the right to water as a human right derived from the International Covenant on Economic, Social and Cultural Rights. The `τ` water twin must be designed so that its optimization logic cannot create differential access: intelligence that improves service for high-paying or high-capacity customers at the cost of service degradation for low-income users violates the rights framework and would undermine the entire public-good case.
+Safe water and sanitation are recognized human rights under international law. Article 24 of the Convention on the Rights of the Child (CRC) obliges states to provide clean drinking water for all children. General Comment 15 of the UN Committee on Economic, Social and Cultural Rights (CESCR) establishes the right to water as a human right derived from the International Covenant on Economic, Social and Cultural Rights. The τ water twin must be designed so that its optimization logic cannot create differential access: intelligence that improves service for high-paying or high-capacity customers at the cost of service degradation for low-income users violates the rights framework and would undermine the entire public-good case.
 
 ### 14.3 Respect transboundary water sovereignty
 
-Water allocation across international boundaries is governed by the Helsinki Rules (1966) and the UN Watercourses Convention (1997), which establish principles of equitable and reasonable utilization, no significant harm, and prior notification of planned measures. Any `τ` deployment in transboundary basin contexts (Paper 4) must be structured to support, not circumvent, these frameworks. Basin intelligence that one riparian uses to capture upstream advantage over downstream riparians would be politically and legally untenable and would damage the broader `τ` public-good case.
+Water allocation across international boundaries is governed by the Helsinki Rules (1966) and the UN Watercourses Convention (1997), which establish principles of equitable and reasonable utilization, no significant harm, and prior notification of planned measures. Any τ deployment in transboundary basin contexts (Paper 4) must be structured to support, not circumvent, these frameworks. Basin intelligence that one riparian uses to capture upstream advantage over downstream riparians would be politically and legally untenable and would damage the broader τ public-good case.
 
 ### 14.4 Data dignity in WASH monitoring
 
-Community-level WASH surveillance and household survey data raise data sovereignty and consent questions, particularly in low-income and refugee settings. The `τ` WASH monitoring layer (Paper 5) must incorporate community consent frameworks for household-level data collection and use, consistent with GDPR principles and the humanitarian data protection standards of the ICRC and UN agencies operating in humanitarian settings. Data collected for service improvement must not be repurposed for punitive or exclusionary applications.
+Community-level WASH surveillance and household survey data raise data sovereignty and consent questions, particularly in low-income and refugee settings. The τ WASH monitoring layer (Paper 5) must incorporate community consent frameworks for household-level data collection and use, consistent with GDPR principles and the humanitarian data protection standards of the ICRC and UN agencies operating in humanitarian settings. Data collected for service improvement must not be repurposed for punitive or exclusionary applications.
 
 ### 14.5 Non-metered access equity
 
-Smart water systems, including IoT sensors, smart meters, and AI-optimized pricing, can inadvertently harm the poorest water users if intelligence-driven efficiency mechanisms increase the price or reduce the supply available to non-metered or low-consumption households. `τ`-assisted network optimization must include explicit equity constraints: service continuity and affordability for the bottom quintile of consumers cannot be treated as a secondary objective to be traded against system efficiency.
+Smart water systems, including IoT sensors, smart meters, and AI-optimized pricing, can inadvertently harm the poorest water users if intelligence-driven efficiency mechanisms increase the price or reduce the supply available to non-metered or low-consumption households. τ-assisted network optimization must include explicit equity constraints: service continuity and affordability for the bottom quintile of consumers cannot be treated as a secondary objective to be traded against system efficiency.
 
 ### 14.6 Groundwater commons governance
 
-Groundwater is a common-pool resource. Efficiency intelligence — tools that allow individual irrigators or utilities to abstract groundwater more effectively — can accelerate collective depletion if not governed within a commons framework. `τ`'s basin and groundwater intelligence (Paper 4) must be deployed within a governance structure that treats aquifer systems as shared resources with defined sustainable yield limits, not as private inputs to be optimized unilaterally. This means integration with national groundwater regulatory frameworks and, where relevant, community-based aquifer governance bodies.
+Groundwater is a common-pool resource. Efficiency intelligence — tools that allow individual irrigators or utilities to abstract groundwater more effectively — can accelerate collective depletion if not governed within a commons framework. τ's basin and groundwater intelligence (Paper 4) must be deployed within a governance structure that treats aquifer systems as shared resources with defined sustainable yield limits, not as private inputs to be optimized unilaterally. This means integration with national groundwater regulatory frameworks and, where relevant, community-based aquifer governance bodies.
 
 ### 14.7 Sanitation equity for informal settlements
 
-Wastewater and stormwater system intelligence (Paper 3) must not perpetuate the pattern — common in large cities across South Asia, Sub-Saharan Africa, and MENA — of directing infrastructure intelligence toward formal, sewered districts while informal settlements remain outside the operational network. Any `τ` sanitation twin deployment must include non-networked settlement service points (pit latrines, shared toilet blocks, faecal sludge collection) within its monitoring and decision-support scope, consistent with WHO's citywide inclusive sanitation framework.
+Wastewater and stormwater system intelligence (Paper 3) must not perpetuate the pattern — common in large cities across South Asia, Sub-Saharan Africa, and MENA — of directing infrastructure intelligence toward formal, sewered districts while informal settlements remain outside the operational network. Any τ sanitation twin deployment must include non-networked settlement service points (pit latrines, shared toilet blocks, faecal sludge collection) within its monitoring and decision-support scope, consistent with WHO's citywide inclusive sanitation framework.
 
 ### 14.8 Keep operations and philosophy separate
 
-The water/WASH public-good case should stand on operational evidence first. Deeper metaphysical or foundational interpretations of the `τ` framework should not be required for adoption. Operators, regulators, and development finance partners need operational evidence of improved outcomes; the broader theoretical architecture is relevant context but not a prerequisite for deployment.
+The water/WASH public-good case should stand on operational evidence first. Deeper metaphysical or foundational interpretations of the τ framework should not be required for adoption. Operators, regulators, and development finance partners need operational evidence of improved outcomes; the broader theoretical architecture is relevant context but not a prerequisite for deployment.
 
 ---
 
@@ -819,9 +819,9 @@ The five-year scenario is anchored in Papers 1, 2, and 5, running from shadow-mo
 
 The ten-year horizon is where Papers 3 and 4 begin to deliver measurable system-level transformation, and where the portfolio transitions from proof-of-concept pilots to operational infrastructure:
 
-**Basin-scale water resource management**: Reduction in agricultural water loss of 10–20% in pilot basin contexts through conjunctive-use optimization (Paper 4). FAO data shows that irrigation efficiency in South Asia and Sub-Saharan Africa averages 40–60% at field level; system-level losses (conveyance, distribution, application) can add another 20–30%. A `τ` basin twin targeting the largest system-level losses can reduce total abstraction per unit crop output by 10–20%, easing groundwater pressure in over-extracted aquifer systems. This target is consistent with World Bank water productivity improvement evidence in comparable irrigation system contexts.
+**Basin-scale water resource management**: Reduction in agricultural water loss of 10–20% in pilot basin contexts through conjunctive-use optimization (Paper 4). FAO data shows that irrigation efficiency in South Asia and Sub-Saharan Africa averages 40–60% at field level; system-level losses (conveyance, distribution, application) can add another 20–30%. A τ basin twin targeting the largest system-level losses can reduce total abstraction per unit crop output by 10–20%, easing groundwater pressure in over-extracted aquifer systems. This target is consistent with World Bank water productivity improvement evidence in comparable irrigation system contexts.
 
-**Urban circular water**: City-scale reuse operations in 5–10 water-stressed cities (Paper 3), contributing 5–15% of municipal water supply from treated wastewater reuse. World Bank data shows that major water-stressed cities in Israel, Singapore, and Namibia already achieve 15–30% supply from reuse. A `τ` sanitation and reuse twin provides the operational intelligence to manage water quality risks in reuse systems with sufficient confidence for regulatory acceptance in contexts currently below this threshold.
+**Urban circular water**: City-scale reuse operations in 5–10 water-stressed cities (Paper 3), contributing 5–15% of municipal water supply from treated wastewater reuse. World Bank data shows that major water-stressed cities in Israel, Singapore, and Namibia already achieve 15–30% supply from reuse. A τ sanitation and reuse twin provides the operational intelligence to manage water quality risks in reuse systems with sufficient confidence for regulatory acceptance in contexts currently below this threshold.
 
 **Groundwater depletion**: Stabilization or reduction of groundwater depletion rates in one or two pilot aquifer systems through conjunctive-use intelligence (Paper 4). GRACE satellite data shows depletion rates of 1–3 cm/year in many over-extracted South Asian and MENA aquifers. Even partial deceleration — a 20–30% reduction in net extraction — extends aquifer productive life by decades. This is among the highest-value medium-term outcomes available through water intelligence.
 
@@ -831,11 +831,11 @@ The ten-year horizon is where Papers 3 and 4 begin to deliver measurable system-
 
 The twenty-year horizon is transformational: SDG 6 universal access supported by a persistent water intelligence layer. By 2046, if the portfolio achieves its potential across deployment contexts:
 
-**SDG 6 contribution**: WHO/UNICEF JMP projects that achieving SDG 6.1 (universal safely managed drinking water) and 6.2 (universal safely managed sanitation) by 2030 would require tripling current rates of progress. The 2030 deadline will almost certainly be missed at current rates; a realistic revised target of 90%+ safely managed access by 2040–2046 is achievable with sufficient investment and operational intelligence. The `τ` portfolio's primary contribution is not infrastructure investment itself but the intelligence layer that makes existing and new infrastructure perform at significantly higher levels of safety, continuity, and efficiency.
+**SDG 6 contribution**: WHO/UNICEF JMP projects that achieving SDG 6.1 (universal safely managed drinking water) and 6.2 (universal safely managed sanitation) by 2030 would require tripling current rates of progress. The 2030 deadline will almost certainly be missed at current rates; a realistic revised target of 90%+ safely managed access by 2040–2046 is achievable with sufficient investment and operational intelligence. The τ portfolio's primary contribution is not infrastructure investment itself but the intelligence layer that makes existing and new infrastructure perform at significantly higher levels of safety, continuity, and efficiency.
 
-**Population impact**: At full deployment scale, a mature `τ` water/WASH intelligence layer — operating across multiple national utilities, basin organizations, and institutional WASH programs — could provide improved water safety or service continuity to 500 million to 1 billion people in developing countries. This estimate is grounded in the geographic coverage of the World Bank's active water portfolio, USAID Water for the World programming, and UNICEF WASH emergency and development programs.
+**Population impact**: At full deployment scale, a mature τ water/WASH intelligence layer — operating across multiple national utilities, basin organizations, and institutional WASH programs — could provide improved water safety or service continuity to 500 million to 1 billion people in developing countries. This estimate is grounded in the geographic coverage of the World Bank's active water portfolio, USAID Water for the World programming, and UNICEF WASH emergency and development programs.
 
-**SDG 6 milestone accelerator**: UN-Water estimates that achieving full SDG 6 would require approximately $114B per year in incremental investment through 2030 (UN-Water, 2018). The `τ` portfolio's value is not replacing that investment but increasing its return: if intelligence allows existing and planned water infrastructure to perform 20–30% better on key service metrics, the effective investment-per-person-protected falls significantly, making universal access more financially achievable.
+**SDG 6 milestone accelerator**: UN-Water estimates that achieving full SDG 6 would require approximately $114B per year in incremental investment through 2030 (UN-Water, 2018). The τ portfolio's value is not replacing that investment but increasing its return: if intelligence allows existing and planned water infrastructure to perform 20–30% better on key service metrics, the effective investment-per-person-protected falls significantly, making universal access more financially achievable.
 
 **Basis**: WHO/UNICEF JMP projections; UN-Water SDG 6 financing analysis; World Bank water sector investment data; IWA global water intelligence reports.
 
@@ -845,11 +845,11 @@ The twenty-year horizon is transformational: SDG 6 universal access supported by
 
 ### 16.1 Water as a systems nexus
 
-Water is not sectorally isolated. It is the connective tissue of the physical environment: it flows through agriculture, public health, pollution management, disaster risk, climate, and biodiversity. The `τ` water/WASH portfolio therefore has more cross-domain integration potential than almost any other portfolio in the wider `τ` meta-architecture.
+Water is not sectorally isolated. It is the connective tissue of the physical environment: it flows through agriculture, public health, pollution management, disaster risk, climate, and biodiversity. The τ water/WASH portfolio therefore has more cross-domain integration potential than almost any other portfolio in the wider τ meta-architecture.
 
 ### 16.2 Agriculture
 
-The agriculture-water nexus is the most immediate and quantitatively important cross-portfolio connection. Irrigated agriculture is the world's largest freshwater user, accounting for approximately 72% of global withdrawals (FAO, 2025). Paper 4's basin and groundwater intelligence is simultaneously a water resource management tool and an agricultural production optimization tool. A `τ` agricultural portfolio (irrigation, soil moisture, water productivity) would share the basin-hydrology layer of the water/WASH portfolio as its operational foundation. This is not duplication; it is shared infrastructure. The water twin built for Paper 4 is the same twin that a `τ` agricultural deployment would need for irrigation demand modeling and groundwater recharge tracking.
+The agriculture-water nexus is the most immediate and quantitatively important cross-portfolio connection. Irrigated agriculture is the world's largest freshwater user, accounting for approximately 72% of global withdrawals (FAO, 2025). Paper 4's basin and groundwater intelligence is simultaneously a water resource management tool and an agricultural production optimization tool. A τ agricultural portfolio (irrigation, soil moisture, water productivity) would share the basin-hydrology layer of the water/WASH portfolio as its operational foundation. This is not duplication; it is shared infrastructure. The water twin built for Paper 4 is the same twin that a τ agricultural deployment would need for irrigation demand modeling and groundwater recharge tracking.
 
 ### 16.3 One Health
 
@@ -857,19 +857,19 @@ Waterborne disease is one of the primary channels through which environmental wa
 
 ### 16.4 Pollution and Circularity
 
-Water systems are the primary transport medium for pollution — industrial chemicals, agricultural runoff, pharmaceutical residuals, heavy metals, and microplastics all enter human exposure pathways primarily through water. A `τ` pollution-circularity portfolio would share the contaminant transport modeling layer with Papers 1, 3, and 4 of the water/WASH portfolio. The causal chain from industrial discharge point through aquifer or riverine transport to downstream human exposure is identical whether the framing is WASH (drinking-water risk) or pollution (chemical burden modeling). This cross-domain reuse reduces the incremental cost of pollution monitoring significantly.
+Water systems are the primary transport medium for pollution — industrial chemicals, agricultural runoff, pharmaceutical residuals, heavy metals, and microplastics all enter human exposure pathways primarily through water. A τ pollution-circularity portfolio would share the contaminant transport modeling layer with Papers 1, 3, and 4 of the water/WASH portfolio. The causal chain from industrial discharge point through aquifer or riverine transport to downstream human exposure is identical whether the framing is WASH (drinking-water risk) or pollution (chemical burden modeling). This cross-domain reuse reduces the incremental cost of pollution monitoring significantly.
 
 ### 16.5 Disaster Risk
 
-Floods and droughts are the two most economically damaging natural disasters globally (WMO, 2024), and both are fundamentally water system events. The `τ` disaster portfolio and the water/WASH portfolio share the basin-scale hydrology layer (Paper 4) and the urban drainage layer (Paper 3). A flood event modeled in the disaster portfolio is simultaneously a water system disruption in the WASH portfolio: floodwaters contaminate water sources, overwhelm treatment capacity, breach sewage systems, and create exactly the conditions for waterborne disease outbreaks that Paper 1 and Paper 5 are designed to detect and manage. Disaster and water/WASH deployments should share infrastructure, data, and operational models wherever possible.
+Floods and droughts are the two most economically damaging natural disasters globally (WMO, 2024), and both are fundamentally water system events. The τ disaster portfolio and the water/WASH portfolio share the basin-scale hydrology layer (Paper 4) and the urban drainage layer (Paper 3). A flood event modeled in the disaster portfolio is simultaneously a water system disruption in the WASH portfolio: floodwaters contaminate water sources, overwhelm treatment capacity, breach sewage systems, and create exactly the conditions for waterborne disease outbreaks that Paper 1 and Paper 5 are designed to detect and manage. Disaster and water/WASH deployments should share infrastructure, data, and operational models wherever possible.
 
 ### 16.6 Climate
 
-Precipitation regime shifts are the primary channel through which climate change alters water system performance. Changes in monsoon timing, intensity, and geographic distribution directly affect source-water availability (Paper 4), source-water quality dynamics (Paper 1), stormwater and sanitation overflow risk (Paper 3), and infrastructure stress (Paper 2). The `τ` climate portfolio and the water/WASH portfolio share the boundary condition: climate scenarios set the precipitation and temperature inputs to the water twin. Coordinated deployment would allow the climate portfolio's Earth-system layer to feed directly into the water/WASH portfolio's basin and utility layers, creating an end-to-end causal chain from global climate forcing to tap-water safety.
+Precipitation regime shifts are the primary channel through which climate change alters water system performance. Changes in monsoon timing, intensity, and geographic distribution directly affect source-water availability (Paper 4), source-water quality dynamics (Paper 1), stormwater and sanitation overflow risk (Paper 3), and infrastructure stress (Paper 2). The τ climate portfolio and the water/WASH portfolio share the boundary condition: climate scenarios set the precipitation and temperature inputs to the water twin. Coordinated deployment would allow the climate portfolio's Earth-system layer to feed directly into the water/WASH portfolio's basin and utility layers, creating an end-to-end causal chain from global climate forcing to tap-water safety.
 
 ### 16.7 Biodiversity
 
-Freshwater ecosystems are among the world's most biodiversity-rich and most threatened habitats. WWF Living Planet Index data show that freshwater species populations have declined by approximately 83% since 1970 — a faster rate of loss than any other ecosystem type. Paper 4's ecological-flow compliance intelligence directly protects freshwater biodiversity by maintaining minimum flow requirements in regulated river systems. A `τ` biodiversity portfolio would share the basin-hydrology and aquifer-dynamics layer with Paper 4, since freshwater ecosystem health is inseparable from hydrological regime.
+Freshwater ecosystems are among the world's most biodiversity-rich and most threatened habitats. WWF Living Planet Index data show that freshwater species populations have declined by approximately 83% since 1970 — a faster rate of loss than any other ecosystem type. Paper 4's ecological-flow compliance intelligence directly protects freshwater biodiversity by maintaining minimum flow requirements in regulated river systems. A τ biodiversity portfolio would share the basin-hydrology and aquifer-dynamics layer with Paper 4, since freshwater ecosystem health is inseparable from hydrological regime.
 
 ---
 
@@ -894,7 +894,7 @@ Water/WASH is not a side domain.
 
 It is one of the clearest places where better physical intelligence could be converted into immediate and durable public good: fewer illnesses, safer water, stronger sanitation, more reliable service, better drought and flood management, and more dignified conditions for people in the places where vulnerability is highest.
 
-That is why this cluster belongs near the front of the wider `τ` meta-portfolio.
+That is why this cluster belongs near the front of the wider τ meta-portfolio.
 
 The portfolio logic is simple:
 
@@ -904,23 +904,23 @@ The portfolio logic is simple:
 - close the sanitation and reuse loop,
 - then scale to basin and groundwater intelligence.
 
-That sequence gives the water/WASH domain what the wider `τ` portfolio needs from it:
+That sequence gives the water/WASH domain what the wider τ portfolio needs from it:
 
 > **a human-rights and public-health spine that translates stronger physical causality into cleaner, safer, more reliable, and more equitable water systems.**
 
 The competitive landscape is clear: incumbent platforms are siloed and cannot provide a unified causal chain from precipitation through aquifer through network through tap through health outcome. The finance architecture is documented: $30–70M full deployments generate returns well in excess of WHO's $4.3–5.5 per dollar WASH investment return. The case studies are concrete: the Ganges-Brahmaputra, Sub-Saharan African secondary cities, and the MENA corridor each present tractable, high-impact first deployments. The SDG alignment is complete: all six SDG 6 targets have direct paper-level mappings. And the governance framework is explicit: water as human right, transboundary sovereignty, data dignity, non-metered equity, groundwater commons, sanitation equity for informal settlements.
 
-The `τ` water/WASH portfolio is not waiting for a market to emerge. The market, the institutions, the finance, and the need already exist. What is required is the intelligence layer.
+The τ water/WASH portfolio is not waiting for a market to emerge. The market, the institutions, the finance, and the need already exist. What is required is the intelligence layer.
 
 ---
 
 ## 19. Companion documents
 
-- **Paper 1:** `τ`-Grade Drinking-Water Source, Treatment, and Quality Early Warning
-- **Paper 2:** `τ` for Distribution Networks, Leakage, Pressure, and Service Continuity
-- **Paper 3:** `τ` for Wastewater, Stormwater, Sanitation, and Circular Water Reuse
-- **Paper 4:** `τ` for River-Basin, Groundwater, Drought–Flood Allocation, and Water Productivity
-- **Paper 5:** `τ` for WASH in Health Facilities, Schools, Camps, and Climate-Vulnerable Settlements
+- **Paper 1:** τ-Grade Drinking-Water Source, Treatment, and Quality Early Warning
+- **Paper 2:** τ for Distribution Networks, Leakage, Pressure, and Service Continuity
+- **Paper 3:** τ for Wastewater, Stormwater, Sanitation, and Circular Water Reuse
+- **Paper 4:** τ for River-Basin, Groundwater, Drought–Flood Allocation, and Water Productivity
+- **Paper 5:** τ for WASH in Health Facilities, Schools, Camps, and Climate-Vulnerable Settlements
 
 ---
 

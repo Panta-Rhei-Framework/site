@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Solar-Plus-Storage, Microgrids, and Critical-Infrastructure Resilience
-**Companion Dossier — Panta Rhei Impact: Solar Portfolio**
-**Paper 3 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 The United States experienced an average of **11 hours of electricity interruptions per customer in 2024** — nearly twice the annual average of the previous decade — driven by **27 billion-dollar weather disasters** and major hurricanes that alone accounted for 80% of outage hours.[^3][^4] More than **3 million Medicare beneficiaries** depend on electricity for life-sustaining home medical equipment, meaning prolonged outages are not merely inconveniences but medical emergencies.[^5][^6] Battery storage is now crossing the threshold of operational relevance: cumulative U.S. utility-scale capacity exceeded **26 GW** in 2024, with another **24 GW** planned for 2026.[^7][^8]

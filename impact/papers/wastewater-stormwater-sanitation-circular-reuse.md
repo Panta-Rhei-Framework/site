@@ -15,12 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Wastewater, Stormwater, Sanitation, and Circular Water Reuse
-**Companion Dossier — Panta Rhei Impact: Water/WASH Portfolio**
-**Paper 3 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Sanitation and wastewater management represent one of the most consequential unresolved infrastructure deficits in the world. UN-Water's 2024 wastewater update reports that **42% of household wastewater** — approximately **113 billion m³ per year** — was discharged without safe treatment in 2022.[^4][^5] In low-income countries, the untreated fraction approaches 95%.[^4] WHO and UNICEF's Joint Monitoring Programme reports that **3.6 billion people** still lack safely managed sanitation services, including 354 million still practising open defecation.[^1][^2] WWAP data indicates that wastewater treatment accounts for 1–3% of national electricity consumption in developed nations — a figure set to rise as systems scale up without energy-efficiency tools. Meanwhile, climate change is intensifying combined sewer overflows and urban flooding, overwhelming wastewater systems in cities that already operate at the edge of their design capacity. The circular water reuse market is projected to exceed **USD 25 billion by 2030**, yet most systems cannot yet safely and reliably predict the quality windows and treatment performance needed to unlock that value at scale.[^10]

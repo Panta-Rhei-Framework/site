@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Aviation Weather Intelligence
-**Companion Dossier — Panta Rhei Impact: Weather Portfolio**
-**Paper 1 of 3 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Aviation is one of the world's most tightly coupled engineered systems. More than 100,000 flights move through global airspace every day, carrying passengers, cargo, and humanitarian payloads across a network whose performance depends, above all else, on one factor it cannot control: the atmosphere. Weather is not a marginal inconvenience in aviation. It is the dominant operational variable — the leading cause of delays in the United States National Airspace System (NAS), the primary driver behind 41% worse ATFM delay in European airspace in summer 2024 compared to 2023, and a fundamental constraint on the trajectory, timing, and safety of virtually every commercial flight on Earth.

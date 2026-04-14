@@ -18,12 +18,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Chemicals, Toxic Releases, Lead, PFAS, Heavy Metals, and Plume Remediation Intelligence
-**Companion Dossier — Panta Rhei Impact: Pollution & Circularity Portfolio**
-**Paper 3 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Toxic chemical contamination is one of the largest, most persistent, and most inequitable public-health crises on Earth — and it is substantially invisible to the systems nominally responsible for managing it. WHO attributes more than 1.5 million deaths annually to lead exposure alone [1]. One in every three children globally carries blood lead levels high enough to cause clinically meaningful concern [2]. EPA's 2024 PFAS drinking-water rule was framed explicitly as a protection measure for approximately 100 million Americans [3]. UNEP characterizes pollution as the largest environmental cause of disease and premature death worldwide, responsible for roughly nine million deaths each year [4]. Mercury is among WHO's top chemicals of major public-health concern, with specific developmental risks beginning in utero [5].

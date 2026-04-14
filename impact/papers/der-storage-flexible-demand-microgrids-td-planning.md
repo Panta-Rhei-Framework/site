@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for DER Orchestration, Storage, Flexible Demand, Microgrids, and T&D Planning
-**Companion Dossier — Panta Rhei Impact: Energy Portfolio**
-**Paper 2 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 The electricity system is undergoing the deepest structural transformation in its history. Distributed energy resources — rooftop and community solar, behind-the-meter and utility-scale batteries, EV chargers, smart buildings, virtual power plants, and microgrids — are no longer edge cases. They are becoming the dominant growth story of the modern grid. And the coordination problem they pose is now the central operational and planning challenge facing utilities, balancing authorities, and regulators worldwide.

@@ -15,12 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for WASH in Health Facilities, Schools, Camps, and Climate-Vulnerable Settlements
-**Companion Dossier — Panta Rhei Impact: Water/WASH Portfolio**
-**Paper 5 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 This dossier evaluates the public-good opportunity of deploying the τ categorical framework as a physics-faithful operational twin for water, sanitation, and hygiene (WASH) in four of the world's most failure-prone service environments: health care facilities, schools, camps and displacement settings, and climate-vulnerable informal settlements.

@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Food Safety, Livestock-Wildlife Interface, and Community Exposure Intelligence
-**Companion Dossier — Panta Rhei Impact: One Health Portfolio**
-**Paper 3 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Unsafe food causes 600 million illnesses and 420,000 deaths every year. One hundred and twenty-five thousand of those deaths occur among children under five. Low- and middle-income countries lose approximately USD 110 billion annually in productivity and medical costs from foodborne disease alone. These are not projections or worst-case estimates — they are the current WHO baseline, acknowledged by every major food-safety authority on the planet [1][2][3].

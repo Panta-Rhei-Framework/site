@@ -25,9 +25,9 @@ This memo synthesizes five yellow papers into one agriculture opportunity portfo
 
 The working question is simple:
 
-> **If the `τ` framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable discrete twin of weather, water, crop, pest, livestock, and planning dynamics, where are the strongest first-wave agriculture deployments, and how should they be sequenced for public good?**
+> **If the τ framework is sound, and if it provides a physically faithful, bounded-error, coarse-grainable discrete twin of weather, water, crop, pest, livestock, and planning dynamics, where are the strongest first-wave agriculture deployments, and how should they be sequenced for public good?**
 
-The answer is that agriculture is one of the clearest and most humane first-wave deployment fields for `τ`.
+The answer is that agriculture is one of the clearest and most humane first-wave deployment fields for τ.
 
 That is true for five reasons.
 
@@ -35,7 +35,7 @@ First, the baseline burden is already enormous. FAO's 2025 disaster assessment p
 
 Second, the human reach is vast. FAO reports that small family farmers produce about **a third of the world's food**.[^3] FAO and WMO's 2025 extreme-heat assessment says about **1.23 billion** people working in agrifood systems are exposed to severe heat risk.[^4] The **Global Report on Food Crises 2025** says that **more than 295 million people** across **53 countries and territories** faced acute hunger in 2024.[^5]
 
-Third, official institutions are already building the surrounding infrastructure into which a `τ` capability could plug. WMO and FAO already frame agrometeorological services as practical tools for sowing, harvesting, fertilizer and water management, and pest and disease control.[^6][^7] FAO already operates WaPOR, d-iap, Desert Locust systems, FAMEWS, and digital advisory channels.[^8][^9][^10] WFP already runs anticipatory-action and climate-services programs across dozens of countries.[^11][^12] CGIAR, USDA, and RIPE already sit on the crop-biology and breeding frontier.[^13][^14][^15]
+Third, official institutions are already building the surrounding infrastructure into which a τ capability could plug. WMO and FAO already frame agrometeorological services as practical tools for sowing, harvesting, fertilizer and water management, and pest and disease control.[^6][^7] FAO already operates WaPOR, d-iap, Desert Locust systems, FAMEWS, and digital advisory channels.[^8][^9][^10] WFP already runs anticipatory-action and climate-services programs across dozens of countries.[^11][^12] CGIAR, USDA, and RIPE already sit on the crop-biology and breeding frontier.[^13][^14][^15]
 
 Fourth, the five agriculture opportunity areas are not separate markets glued together by a loose story. They share the same substrate:
 
@@ -47,9 +47,9 @@ Fourth, the five agriculture opportunity areas are not separate markets glued to
 - seasonal and disaster planning,
 - and, in later layers, breeding and photosynthesis engineering.
 
-So one strong `τ` agriculture twin would not feed one use-case only. It would feed a whole agrifood portfolio.
+So one strong τ agriculture twin would not feed one use-case only. It would feed a whole agrifood portfolio.
 
-Fifth, the public-good pathways are unusually concrete. Better `τ`-grade agro intelligence can lower avoidable crop loss, improve water productivity, reduce input waste, extend lead time for outbreaks and heat stress, improve anticipatory action, protect food-system infrastructure, and accelerate the design and delivery of climate-resilient crops.
+Fifth, the public-good pathways are unusually concrete. Better τ-grade agro intelligence can lower avoidable crop loss, improve water productivity, reduce input waste, extend lead time for outbreaks and heat stress, improve anticipatory action, protect food-system infrastructure, and accelerate the design and delivery of climate-resilient crops.
 
 This memo organizes the agriculture domain into five linked papers:
 
@@ -75,7 +75,7 @@ The memo proposes:
 
 The central recommendation is:
 
-> **Treat agriculture as a single `τ` deployment portfolio with one shared agro–climate–water–biology twin and multiple mission layers, rather than as five isolated products.**
+> **Treat agriculture as a single τ deployment portfolio with one shared agro–climate–water–biology twin and multiple mission layers, rather than as five isolated products.**
 
 That is the most efficient path to early proof, cross-domain reuse, and durable public good.
 
@@ -85,15 +85,15 @@ That is the most efficient path to early proof, cross-domain reuse, and durable 
 
 This memo adopts an explicit stance.
 
-It does **not** claim that the world has already accepted the full `τ` framework. It does **not** attempt to prove the underlying physics or biology here. It does **not** ask the reader to settle every deeper foundational implication before assessing deployment value.
+It does **not** claim that the world has already accepted the full τ framework. It does **not** attempt to prove the underlying physics or biology here. It does **not** ask the reader to settle every deeper foundational implication before assessing deployment value.
 
 Instead, it asks a narrower and more operational question:
 
-> If `τ` provides the agriculture-side capabilities claimed for it, how should those capabilities be translated into a coherent agriculture deployment program?
+> If τ provides the agriculture-side capabilities claimed for it, how should those capabilities be translated into a coherent agriculture deployment program?
 
 The working assumptions are the same as in the five companion papers:
 
-- `τ` provides a **physically faithful** discrete agro–climate–water–biology twin;
+- τ provides a **physically faithful** discrete agro–climate–water–biology twin;
 - this twin is **constructive, decidable, bounded-error, and coarse-grainable**;
 - precision and refinement remain **structurally aligned** rather than drifting apart as in many current discretization stacks;
 - relevant forecasts and simulations can be made with **materially higher fidelity, longer useful horizons, and better-calibrated uncertainty** than current practice;
@@ -103,7 +103,7 @@ Everything that follows is conditional on that stance.
 
 ---
 
-## 2. Why agriculture is a first-wave `τ` deployment domain
+## 2. Why agriculture is a first-wave τ deployment domain
 
 Agriculture is especially attractive because the chain from better physics and biology to better public outcomes is unusually short.
 
@@ -124,7 +124,7 @@ That means the deployment problem is unusually tractable:
 
 In short:
 
-> **Agriculture does not need a speculative new market to make `τ` useful. It needs a stronger physical-and-biological intelligence layer for missions that already exist.**
+> **Agriculture does not need a speculative new market to make τ useful. It needs a stronger physical-and-biological intelligence layer for missions that already exist.**
 
 ---
 
@@ -142,7 +142,7 @@ In short:
 
 ### 3.2 One physical-biological substrate, five mission layers
 
-The shared `τ` agriculture twin would support a common core:
+The shared τ agriculture twin would support a common core:
 
 - atmosphere and local weather,
 - soil moisture, evapotranspiration, and hydrology,
@@ -176,7 +176,7 @@ A cross-cutting delivery layer should run through all five papers:
 
 ### 4.1 The incumbent landscape
 
-The international agro-intelligence ecosystem is not empty. A `τ` agriculture portfolio enters a space with several well-established incumbent systems. Understanding these systems — and the specific gaps they leave — is essential for designing a credible deployment strategy.
+The international agro-intelligence ecosystem is not empty. A τ agriculture portfolio enters a space with several well-established incumbent systems. Understanding these systems — and the specific gaps they leave — is essential for designing a credible deployment strategy.
 
 **CGIAR CCAFS advisory and climate-services networks.** The CGIAR Research Program on Climate Change, Agriculture and Food Security (CCAFS) has built an extensive global network for climate-smart agriculture advisory services, seasonal forecasting, and farmer-facing climate information. CCAFS works through national meteorological services and extension systems across sub-Saharan Africa, South Asia, and Latin America. Its strengths are institutional reach, co-design with national partners, and strong community-level trust. Its structural limitation is that it depends on the underlying quality of national and global weather models — it extends and communicates forecast products, but does not generate fundamentally better physics.
 
@@ -190,17 +190,17 @@ The international agro-intelligence ecosystem is not empty. A `τ` agriculture p
 
 ### 4.2 The structural differentiation gap
 
-Against this landscape, a `τ`-grade agro-climate-water-biology twin offers a structurally different capability in three dimensions.
+Against this landscape, a τ-grade agro-climate-water-biology twin offers a structurally different capability in three dimensions.
 
-**Coherence across the chain.** Current systems compose their intelligence from components that were built independently: NWP outputs feed crop models that were calibrated separately from pest models that in turn inform early-warning systems calibrated against their own historical baselines. Each interface introduces compositional error. A `τ` twin whose substrate covers atmosphere, hydrology, crop, pest, and livestock dynamics as one coherent discrete structure eliminates this compositional gap by construction. The uncertainty at each layer is not independent noise stacked on noise; it is a bounded propagation within one framework.
+**Coherence across the chain.** Current systems compose their intelligence from components that were built independently: NWP outputs feed crop models that were calibrated separately from pest models that in turn inform early-warning systems calibrated against their own historical baselines. Each interface introduces compositional error. A τ twin whose substrate covers atmosphere, hydrology, crop, pest, and livestock dynamics as one coherent discrete structure eliminates this compositional gap by construction. The uncertainty at each layer is not independent noise stacked on noise; it is a bounded propagation within one framework.
 
 **Constructive physical grounding for pest and disease.** FAMEWS, DLIS, and similar systems depend on empirical correlations between environmental variables and outbreak dynamics. These correlations erode when environmental conditions shift into new regimes, as climate change progressively does. A twin that derives pest and disease dynamics from a biophysically grounded ecological substrate does not require recalibration when the climate envelope shifts — the dynamics follow from the physics.
 
-**Coarse-grainability and local resolution.** A structurally consistent discrete twin that remains aligned as it is refined from district scale to field scale is qualitatively different from interpolating a coarse global model downward. Many current systems suffer from resolution inconsistency — the district-scale advisory is not structurally coherent with the field-scale recommendation. A `τ` twin designed around coarse-grainability preserves internal consistency across scales, which is critical for both water management at the basin-to-field interface and for pest early warning at the landscape-to-farm scale.
+**Coarse-grainability and local resolution.** A structurally consistent discrete twin that remains aligned as it is refined from district scale to field scale is qualitatively different from interpolating a coarse global model downward. Many current systems suffer from resolution inconsistency — the district-scale advisory is not structurally coherent with the field-scale recommendation. A τ twin designed around coarse-grainability preserves internal consistency across scales, which is critical for both water management at the basin-to-field interface and for pest early warning at the landscape-to-farm scale.
 
 **The portfolio differentiation in one sentence:**
 
-> Current systems extend, communicate, and curate global NWP and observation products; a `τ` portfolio offers a coherent, physically grounded, coarse-grainable discrete twin of the full agro-climate-water-biology stack — differentiating not at the advisory-format level but at the substrate level.
+> Current systems extend, communicate, and curate global NWP and observation products; a τ portfolio offers a coherent, physically grounded, coarse-grainable discrete twin of the full agro-climate-water-biology stack — differentiating not at the advisory-format level but at the substrate level.
 
 This differentiation is most valuable precisely where current systems underperform most: sub-seasonal to seasonal skill, cross-layer coherence, and low-data-density environments in the global south where national services are weakest.
 
@@ -220,7 +220,7 @@ The agriculture portfolio has unusually strong alignment with active multilatera
 
 **CGIAR Trust Fund — ~USD 900M/yr.** The CGIAR Trust Fund finances the full CGIAR system's research and development activities, including the Breeding for Tomorrow initiative, CCAFS, the Excellence in Breeding Platform, and precision-breeding programs. Paper 5 has direct alignment with multiple CGIAR flagship programs. Papers 1 and 3 connect to CGIAR's climate-advisory and early-warning work. The CGIAR Trust Fund operates through Window 1 (pooled), Window 2 (restricted-use pooled), and Window 3 (bilateral/earmarked) instruments.
 
-**FAO / WFP / OCHA Anticipatory Action Frameworks.** The UN anticipatory action system — coordinated through WFP, FAO, OCHA, and the Start Fund — now mobilizes pre-agreed finance triggered by forecast thresholds. WFP's anticipatory action programs alone protected over 6 million people in 2024 and operate in 44 countries. Paper 4 of the portfolio maps directly onto this mechanism: a `τ`-grade seasonal planning and shock-anticipation layer would strengthen the forecast-trigger component of anticipatory action finance across the entire UN system.
+**FAO / WFP / OCHA Anticipatory Action Frameworks.** The UN anticipatory action system — coordinated through WFP, FAO, OCHA, and the Start Fund — now mobilizes pre-agreed finance triggered by forecast thresholds. WFP's anticipatory action programs alone protected over 6 million people in 2024 and operate in 44 countries. Paper 4 of the portfolio maps directly onto this mechanism: a τ-grade seasonal planning and shock-anticipation layer would strengthen the forecast-trigger component of anticipatory action finance across the entire UN system.
 
 **Additional bilateral windows.** USAID Feed the Future, UKAID FCDO-funded food security programs, GIZ German development cooperation, and Japan JICA agriculture programs collectively add USD 2–4B/yr in agriculture bilateral ODA that is explicitly technology-open and results-oriented.
 
@@ -230,14 +230,14 @@ A full five-paper deployment across three pilot countries over a five-year initi
 
 | Component | Estimated cost range | Notes |
 |---|---|---|
-| Core `τ` agro-climate-water-biology twin (Papers 1–4) | USD 15–30M | Software development, validation, integration with national data systems |
+| Core τ agro-climate-water-biology twin (Papers 1–4) | USD 15–30M | Software development, validation, integration with national data systems |
 | Paper 1 deployment (3 pilot districts, 2 countries) | USD 5–10M | Advisory channel integration, farmer-facing design, extension training |
 | Paper 2 deployment (2 pilot basins) | USD 8–15M | Irrigation authority integration, sensor and monitoring stack |
 | Paper 3 deployment (2 pilot countries, DLIS/FAMEWS integration) | USD 5–10M | Early-warning network integration, surveillance data feeds |
 | Paper 4 deployment (WFP/ministry anticipatory action chain, 2 countries) | USD 5–10M | Planning workflow integration, trigger framework design |
 | Paper 5 initial phase (retrospective breeding studies, 2 CGIAR partnerships) | USD 10–20M | Data infrastructure, CGIAR center collaboration |
 | Governance, equity design, and public scorecard | USD 2–5M | Guardrail implementation, equity audits, public reporting |
-| **Total portfolio estimate (5-year, 3 pilot countries)** | **USD 50–100M** | Conditional on `τ` infrastructure maturity |
+| **Total portfolio estimate (5-year, 3 pilot countries)** | **USD 50–100M** | Conditional on τ infrastructure maturity |
 
 At the higher ambition of 5–8 pilot countries and full five-paper deployment, the range extends to USD 80–120M over five years.
 
@@ -387,11 +387,11 @@ The following case studies show how multiple papers in the agriculture portfolio
 
 **The multi-paper chain.** In the Sahel, the three papers function as an integrated early-warning and response stack.
 
-Paper 1 provides the field-level operational layer: high-resolution agro-weather advisories for sowing window and rainfall onset forecasting. Getting sowing timing right in the Sahel is among the highest-value interventions available to smallholders — a single missed sowing window can mean total crop failure. A `τ`-grade agro-weather advisory, operating at district scale and updated daily, directly addresses a gap that current national meteorological services and global NWP products cannot reliably fill at sub-district resolution.
+Paper 1 provides the field-level operational layer: high-resolution agro-weather advisories for sowing window and rainfall onset forecasting. Getting sowing timing right in the Sahel is among the highest-value interventions available to smallholders — a single missed sowing window can mean total crop failure. A τ-grade agro-weather advisory, operating at district scale and updated daily, directly addresses a gap that current national meteorological services and global NWP products cannot reliably fill at sub-district resolution.
 
-Paper 3 extends the protection layer upward. Desert locust outbreak risk in the Sahel is strongly conditioned on antecedent rainfall in breeding zones in the Horn of Africa, Arabian Peninsula, and Sahel itself. A `τ` twin that models atmospheric-soil-vegetation dynamics coherently can provide longer-lead locust suitability forecasts than current DLIS satellite-plus-expert models, and can integrate fall armyworm atmospheric transport dynamics that are strongly affected by the West African Monsoon onset — itself an area of sub-seasonal forecast challenge. The key advance is not replacing DLIS but extending its lead time from 2–4 weeks to 6–10 weeks for high-confidence outbreak windows.
+Paper 3 extends the protection layer upward. Desert locust outbreak risk in the Sahel is strongly conditioned on antecedent rainfall in breeding zones in the Horn of Africa, Arabian Peninsula, and Sahel itself. A τ twin that models atmospheric-soil-vegetation dynamics coherently can provide longer-lead locust suitability forecasts than current DLIS satellite-plus-expert models, and can integrate fall armyworm atmospheric transport dynamics that are strongly affected by the West African Monsoon onset — itself an area of sub-seasonal forecast challenge. The key advance is not replacing DLIS but extending its lead time from 2–4 weeks to 6–10 weeks for high-confidence outbreak windows.
 
-Paper 4 closes the humanitarian governance loop. WFP's anticipatory action programs in the Sahel (under the Alliance for a Green Revolution in Africa and WFP's regional Early Warning System) already use forecast thresholds to trigger pre-positioning of food stocks, cash disbursements, and livestock support. A stronger forecast signal from `τ` (Papers 1 and 3) feeding into the anticipatory action trigger logic (Paper 4) creates a coherent three-layer stack: operational advisory → outbreak protection → anticipatory governance response.
+Paper 4 closes the humanitarian governance loop. WFP's anticipatory action programs in the Sahel (under the Alliance for a Green Revolution in Africa and WFP's regional Early Warning System) already use forecast thresholds to trigger pre-positioning of food stocks, cash disbursements, and livestock support. A stronger forecast signal from τ (Papers 1 and 3) feeding into the anticipatory action trigger logic (Paper 4) creates a coherent three-layer stack: operational advisory → outbreak protection → anticipatory governance response.
 
 **Quantitative scale.** At 135 million people, even a 3% reduction in avoidable weather-linked crop loss — within the lower bound of achievable gains from improved advisory services in the literature — translates to approximately **USD 400–600M/yr in avoided agricultural losses** across the region, based on a conservative per-capita agricultural output baseline of USD 100/yr. The locust protection alone, using a 10% improvement in outbreak-control efficiency against the 2020–2021 baseline loss, implies **USD 850M in avoided damage** over a comparable shock cycle.
 
@@ -401,11 +401,11 @@ Paper 4 closes the humanitarian governance loop. WFP's anticipatory action progr
 
 **The multi-paper chain.** In this geography, the three papers function as an integrated water-biology-governance stack.
 
-Paper 2 addresses the most urgent near-term challenge: irrigation efficiency in the Indo-Gangetic Plain and the Mekong Delta. Both systems show significant over-irrigation: studies of Punjab irrigation districts document that 25–40% of applied water exceeds crop demand. A `τ` soil-moisture and evapotranspiration twin, operating in real time at field and district scale, provides the basis for precision deficit irrigation scheduling that reduces groundwater extraction while maintaining yield — addressing both the aquifer depletion crisis and the energy cost of pumping (estimated at 30% of Punjab's electricity consumption).
+Paper 2 addresses the most urgent near-term challenge: irrigation efficiency in the Indo-Gangetic Plain and the Mekong Delta. Both systems show significant over-irrigation: studies of Punjab irrigation districts document that 25–40% of applied water exceeds crop demand. A τ soil-moisture and evapotranspiration twin, operating in real time at field and district scale, provides the basis for precision deficit irrigation scheduling that reduces groundwater extraction while maintaining yield — addressing both the aquifer depletion crisis and the energy cost of pumping (estimated at 30% of Punjab's electricity consumption).
 
-Paper 4 addresses the governance layer. The Indo-Gangetic Plain is governed by a patchwork of national, state, and district irrigation authorities with poor seasonal coordination. A `τ` seasonal planning layer that combines monsoon-onset forecasting, crop-water demand projections, and aquifer-recharge dynamics can provide basin-level water allocation recommendations across state boundaries — enabling a governance upgrade from reactive to anticipatory water sharing. In Bangladesh, this connects directly to WFP and government anticipatory action for flood-year rice crop failures.
+Paper 4 addresses the governance layer. The Indo-Gangetic Plain is governed by a patchwork of national, state, and district irrigation authorities with poor seasonal coordination. A τ seasonal planning layer that combines monsoon-onset forecasting, crop-water demand projections, and aquifer-recharge dynamics can provide basin-level water allocation recommendations across state boundaries — enabling a governance upgrade from reactive to anticipatory water sharing. In Bangladesh, this connects directly to WFP and government anticipatory action for flood-year rice crop failures.
 
-Paper 5 addresses the 10–20-year structural challenge. The leading rice and wheat varieties cultivated across the Indo-Gangetic Plain were bred for the climate envelope of the 1960s–1990s. Heat tolerance at anthesis (the critical reproductive phase) is a known weak point: yield losses of 10–15% per degree Celsius above 35°C have been documented for rice and wheat. A `τ` genotype × environment × management twin provides CGIAR's rice and wheat programs (IRRI, CIMMYT) with a climate-coherent simulation substrate for candidate screening and stress-targeted trait design, compressing the 12–15-year conventional breeding cycle.
+Paper 5 addresses the 10–20-year structural challenge. The leading rice and wheat varieties cultivated across the Indo-Gangetic Plain were bred for the climate envelope of the 1960s–1990s. Heat tolerance at anthesis (the critical reproductive phase) is a known weak point: yield losses of 10–15% per degree Celsius above 35°C have been documented for rice and wheat. A τ genotype × environment × management twin provides CGIAR's rice and wheat programs (IRRI, CIMMYT) with a climate-coherent simulation substrate for candidate screening and stress-targeted trait design, compressing the 12–15-year conventional breeding cycle.
 
 **Quantitative scale.** At 95 million hectares of irrigated cropland in the Indo-Gangetic Plain, a 10% water productivity improvement corresponds to approximately **8.5 billion cubic meters of water saved per year** — meaningful against groundwater depletion rates. A 5% yield stabilization gain under Paper 2 protocols corresponds to roughly **USD 4–6B/yr in preserved production value** for the two subregions combined. Paper 5's breeding cycle compression, if it delivers one full cycle faster across CGIAR's rice and wheat programs, could accelerate heat-tolerant variety availability by **3–5 years**, affecting an estimated 200 million smallholder households by the 2035–2040 climate-stress window.
 
@@ -415,11 +415,11 @@ Paper 5 addresses the 10–20-year structural challenge. The leading rice and wh
 
 **The multi-paper chain.** In this geography, the three papers function as an integrated advisory-protection-breeding stack.
 
-Paper 1 addresses the single largest gap: smallholder access to useful agrometeorological advisories at field scale. In most of sub-Saharan Africa, the effective advisory infrastructure is either absent or limited to seasonal summaries issued at provincial or national scale — far too coarse for the sowing, spraying, and harvest-timing decisions that drive yield outcomes. Ethiopia, Kenya, Ghana, Malawi, Zambia, and Zimbabwe all have national meteorological services with agrometeorological mandates but limited downscaling capacity. A `τ` advisory layer operating via mobile-first advisory channels (SMS, USSD, IVR) would plug directly into the digital agriculture advisory infrastructure already built by GSMA's AgriTech program, FAO's e-agriculture, and national programs like Ethiopia's AMISConnects.
+Paper 1 addresses the single largest gap: smallholder access to useful agrometeorological advisories at field scale. In most of sub-Saharan Africa, the effective advisory infrastructure is either absent or limited to seasonal summaries issued at provincial or national scale — far too coarse for the sowing, spraying, and harvest-timing decisions that drive yield outcomes. Ethiopia, Kenya, Ghana, Malawi, Zambia, and Zimbabwe all have national meteorological services with agrometeorological mandates but limited downscaling capacity. A τ advisory layer operating via mobile-first advisory channels (SMS, USSD, IVR) would plug directly into the digital agriculture advisory infrastructure already built by GSMA's AgriTech program, FAO's e-agriculture, and national programs like Ethiopia's AMISConnects.
 
-Paper 3 provides the pest-specific protection layer. Fall armyworm has spread across all of sub-Saharan Africa since its 2016 introduction, now affecting all 54 African Union member states. Current armyworm monitoring via FAMEWS relies on pheromone trap networks and farmer reports — a reactive monitoring system with limited predictive horizon. A `τ` armyworm dispersal and infestation model, grounded in atmospheric transport dynamics and host-plant phenology, can extend effective warning lead times from the current 1–2-week report horizon to 3–6-week predictive windows, enabling targeted aerial or field-level intervention before economic thresholds are crossed.
+Paper 3 provides the pest-specific protection layer. Fall armyworm has spread across all of sub-Saharan Africa since its 2016 introduction, now affecting all 54 African Union member states. Current armyworm monitoring via FAMEWS relies on pheromone trap networks and farmer reports — a reactive monitoring system with limited predictive horizon. A τ armyworm dispersal and infestation model, grounded in atmospheric transport dynamics and host-plant phenology, can extend effective warning lead times from the current 1–2-week report horizon to 3–6-week predictive windows, enabling targeted aerial or field-level intervention before economic thresholds are crossed.
 
-Paper 5 closes the cycle through CGIAR's drought maize programs. DTMA and WEMA have released more than 300 drought-tolerant and stress-resilient maize varieties since 2007, with adoption estimated at over 5 million hectares across Eastern and Southern Africa. The key constraint on the next generation of varieties is the accuracy of genotype × environment prediction under shifting climate envelopes — the same problem addressed by Paper 5. A `τ` crop biology twin that integrates photosynthesis dynamics, soil water, and heat stress at field scale gives CIMMYT and national breeding programs a higher-fidelity screening substrate, compressing the candidate evaluation phase and increasing the probability that released varieties perform well across the diverse agro-ecological zones of sub-Saharan Africa.
+Paper 5 closes the cycle through CGIAR's drought maize programs. DTMA and WEMA have released more than 300 drought-tolerant and stress-resilient maize varieties since 2007, with adoption estimated at over 5 million hectares across Eastern and Southern Africa. The key constraint on the next generation of varieties is the accuracy of genotype × environment prediction under shifting climate envelopes — the same problem addressed by Paper 5. A τ crop biology twin that integrates photosynthesis dynamics, soil water, and heat stress at field scale gives CIMMYT and national breeding programs a higher-fidelity screening substrate, compressing the candidate evaluation phase and increasing the probability that released varieties perform well across the diverse agro-ecological zones of sub-Saharan Africa.
 
 **Quantitative scale.** FAO estimates fall armyworm losses at USD 9.4 billion annually across Africa. A 10% reduction in armyworm losses from improved early warning translates to **USD 940M/yr in avoided crop damage**. For drought maize, even a 5-year acceleration of next-generation variety release into a system affecting 5 million+ hectares — against documented yield advantages of 20–30% under drought stress — implies **USD 1–2B/yr in value eventually available to smallholder farmers**. The advisory layer of Paper 1 compresses the full stack: earlier and more reliable sowing windows have been shown in RCT evidence from East Africa to yield 8–15% higher farm revenues for smallholders who receive actionable advisory support.
 
@@ -503,7 +503,7 @@ Paper 5 should still begin in **parallel** through retrospective and shadow-mode
 
 Scores are on a 1–5 scale, where 5 is strongest.
 
-| Paper | Readiness | Public-good scale | `τ` fit | Measurability | Adoption friction | Overall priority |
+| Paper | Readiness | Public-good scale | τ fit | Measurability | Adoption friction | Overall priority |
 |---|---:|---:|---:|---:|---:|---|
 | **1. Operational agro-weather** | 5 | 5 | 5 | 5 | 2 | **Very high** |
 | **2. Water productivity & irrigation** | 4 | 5 | 5 | 4 | 3 | **Very high** |
@@ -523,35 +523,35 @@ Interpretation:
 
 ## 11. Lighthouse pilots
 
-### Pilot A — District-scale `τ` agro-weather advisory pilot
+### Pilot A — District-scale τ agro-weather advisory pilot
 
 **Use case:** sowing, spray/no-spray, harvest-window, field-access, and frost/heat warnings for a mixed-farming district.
 **Best counterpart institutions:** national agrometeorological service, extension network, cooperative, or digital advisory provider.
 **Primary success metrics:** action accuracy, avoided failed operations, input savings, yield protection, farmer adoption, advisory reach.
 **Why first:** strongest immediate operational value and easiest farmer-facing narrative.
 
-### Pilot B — `τ` irrigation and water-productivity basin pilot
+### Pilot B — τ irrigation and water-productivity basin pilot
 
 **Use case:** field and district scheduling, deficit irrigation, water allocation, crop-water productivity, and drought triage.
 **Best counterpart institutions:** irrigation authority, basin agency, water-user association, development-bank-backed irrigation program.
 **Primary success metrics:** water saved, crop per drop, yield maintained, energy use reduced, conflict events reduced, drought losses avoided.
 **Why second:** water is one of the largest direct public-good levers in the whole portfolio.
 
-### Pilot C — `τ` pest, disease, and livestock-stress warning pilot
+### Pilot C — τ pest, disease, and livestock-stress warning pilot
 
 **Use case:** locust/armyworm hotspot prediction, disease-window risk, livestock heat alerts, and intervention prioritization.
 **Best counterpart institutions:** plant-health service, veterinary service, FAO/WOAH-linked network, regional surveillance hub.
 **Primary success metrics:** lead time, false alarms, avoided loss, interventions targeted, treatment waste reduced, response speed.
 **Why third:** strongest protection story and highly legible to ministries.
 
-### Pilot D — `τ` seasonal planning and anticipatory-action pilot
+### Pilot D — τ seasonal planning and anticipatory-action pilot
 
 **Use case:** seasonal planting advisories, procurement triggers, anticipatory cash or reserve releases, and climate-risk scenario planning.
 **Best counterpart institutions:** WFP, agriculture ministry, food-security taskforce, reserve authority, development bank.
 **Primary success metrics:** anticipatory actions triggered, people protected, days of warning gained, reserve use efficiency, avoided crisis escalation.
 **Why fourth:** strongest bridge from weather intelligence to food-system protection.
 
-### Pilot E — `τ` crop-biology and breeding design pilot
+### Pilot E — τ crop-biology and breeding design pilot
 
 **Use case:** retrospective candidate ranking, stress-targeted trait design, photosynthesis engineering target selection, and field-trial narrowing.
 **Best counterpart institutions:** CGIAR center, USDA or national breeding program, RIPE-like physiology lab, public seed system.
@@ -566,7 +566,7 @@ Interpretation:
 
 Core tasks:
 
-- define a shared `τ` agriculture data model across weather, soil water, crops, pests, livestock, and planning;
+- define a shared τ agriculture data model across weather, soil water, crops, pests, livestock, and planning;
 - choose benchmark crops, regions, and delivery channels;
 - set up common public-good metrics;
 - map which existing services will act as shadow-mode comparators;
@@ -584,10 +584,10 @@ Outputs:
 
 Core tasks:
 
-- run `τ` advisories in shadow mode against existing agromet services;
+- run τ advisories in shadow mode against existing agromet services;
 - run irrigation recommendations against actual operator decisions and outcomes;
 - compare outbreak and livestock-stress predictions against current warning systems;
-- compare `τ` seasonal planning outputs against standard climate-service workflows;
+- compare τ seasonal planning outputs against standard climate-service workflows;
 - and run retrospective breeding candidate ranking studies.
 
 Outputs:
@@ -617,7 +617,7 @@ Outputs:
 
 Core tasks:
 
-- integrate `τ` into national advisory stacks and irrigation districts;
+- integrate τ into national advisory stacks and irrigation districts;
 - connect Papers 1–4 into one shared agrifood resilience layer;
 - and expand breeding and seed-delivery pathways based on climate-specific evidence.
 
@@ -691,7 +691,7 @@ Outputs:
 
 ## 14. Quantified scenario bands
 
-The following scenarios replace qualitative planning narratives with quantitative estimates. Each estimate is grounded in published baselines; ranges reflect uncertainty in `τ` deployment scale, adoption rates, and geography. Estimates are explicitly conditional on the portfolio working and being adopted.
+The following scenarios replace qualitative planning narratives with quantitative estimates. Each estimate is grounded in published baselines; ranges reflect uncertainty in τ deployment scale, adoption rates, and geography. Estimates are explicitly conditional on the portfolio working and being adopted.
 
 ### 14.1 Five-year scenario (Phase 2, pilot countries)
 
@@ -705,7 +705,7 @@ The following scenarios replace qualitative planning narratives with quantitativ
 
 > **Water productivity gain: 500–1,000 million cubic meters/yr saved; yield value preserved USD 50–100M/yr.**
 
-**Anticipatory action (Paper 4):** WFP's own evaluations document a 3:1 to 7:1 B:C ratio for anticipatory vs. post-disaster response. At USD 20M of `τ`-improved trigger precision applied to 500,000 additional beneficiaries/yr:
+**Anticipatory action (Paper 4):** WFP's own evaluations document a 3:1 to 7:1 B:C ratio for anticipatory vs. post-disaster response. At USD 20M of τ-improved trigger precision applied to 500,000 additional beneficiaries/yr:
 
 > **Avoided humanitarian costs: USD 60–140M/yr from improved trigger accuracy.**
 
@@ -721,11 +721,11 @@ The following scenarios replace qualitative planning narratives with quantitativ
 
 > **Avoided agricultural losses: USD 1–3B/yr across integrated countries.**
 
-**Breeding cycle reduction (Paper 5):** First climate-specific variety releases from `τ`-assisted breeding programs. Documented breeding-cycle compression of 20–30% (3–4 years per cycle) in genomic selection programs suggests:
+**Breeding cycle reduction (Paper 5):** First climate-specific variety releases from τ-assisted breeding programs. Documented breeding-cycle compression of 20–30% (3–4 years per cycle) in genomic selection programs suggests:
 
 > **Effective acceleration: 3–5 years earlier for one full cycle of drought/heat-tolerant varieties** for leading staple crops in target geographies; adoption value at scale USD 500M–2B/yr as varieties reach farmers.
 
-**Anticipatory action (Paper 4):** System integration across 15–20 WFP country programs with `τ` seasonal forecasting. At improved B:C ratio of 5:1 vs. 3:1 baseline for USD 100M/yr in anticipatory finance:
+**Anticipatory action (Paper 4):** System integration across 15–20 WFP country programs with τ seasonal forecasting. At improved B:C ratio of 5:1 vs. 3:1 baseline for USD 100M/yr in anticipatory finance:
 
 > **Additional avoided crisis costs from better triggers: USD 200M/yr.**
 
@@ -733,9 +733,9 @@ The following scenarios replace qualitative planning narratives with quantitativ
 
 ### 14.3 Twenty-year scenario (Portfolio maturity, systemic food-system resilience)
 
-**Basis:** Full five-paper portfolio operational across 30–50 countries, national advisory stacks standardized on `τ` substrate, breeding pipelines routinely using genotype × environment twin, anticipatory action fully integrated.
+**Basis:** Full five-paper portfolio operational across 30–50 countries, national advisory stacks standardized on τ substrate, breeding pipelines routinely using genotype × environment twin, anticipatory action fully integrated.
 
-**Systemic food-system resilience.** The FAO USD 99B/yr agricultural disaster loss baseline reflects a world with current advisory, water-management, and early-warning systems. A mature `τ` agriculture intelligence layer that covers weather, water, pest, planning, and breeding coherently across major food-producing regions could plausibly reduce climate-linked agricultural losses by:
+**Systemic food-system resilience.** The FAO USD 99B/yr agricultural disaster loss baseline reflects a world with current advisory, water-management, and early-warning systems. A mature τ agriculture intelligence layer that covers weather, water, pest, planning, and breeding coherently across major food-producing regions could plausibly reduce climate-linked agricultural losses by:
 
 > **10–20% of the global FAO baseline = USD 10–20B/yr in avoided agricultural losses globally.**
 
@@ -745,7 +745,7 @@ This range is consistent with established estimates for the returns to full-syst
 
 > **400 cubic km/yr of water saved globally** — meaningful at the scale of current groundwater depletion crises in South Asia and North Africa.
 
-**Breeding and biodiversity.** A `τ` crop-biology twin fully integrated into CGIAR and national breeding programs, over 20 years:
+**Breeding and biodiversity.** A τ crop-biology twin fully integrated into CGIAR and national breeding programs, over 20 years:
 
 > **Reduces the effective breeding cycle by 5–8 years for major staple crops; enables 2–3 additional generations of climate-specific adaptation** for the 2040–2060 warming envelope already locked in by current emissions trajectories.
 
@@ -783,15 +783,15 @@ Agriculture is not one homogeneous user base. Smallholders, women farmers, pasto
 
 ### 15.4 Separate operational deployment from deeper philosophy
 
-The public value of better irrigation or pest warning does not require prior agreement on the full philosophical meaning of `τ`. Keep the deployment case operationally legible.
+The public value of better irrigation or pest warning does not require prior agreement on the full philosophical meaning of τ. Keep the deployment case operationally legible.
 
-**Risk framing:** conflating the foundational claims of `τ` with the pragmatic deployment value of a better advisory or early-warning system risks both undermining the public-good case and inviting unhelpful skepticism at the institutional level. The two conversations should be maintained separately.
+**Risk framing:** conflating the foundational claims of τ with the pragmatic deployment value of a better advisory or early-warning system risks both undermining the public-good case and inviting unhelpful skepticism at the institutional level. The two conversations should be maintained separately.
 
 ### 15.5 Treat crop-biology deployment as a biosafety and governance domain
 
 Paper 5 requires extra care. Candidate ranking and design support are one thing; field release, genetic engineering, and seed-system deployment are another. Public-interest governance, local adaptation, and biosafety must remain explicit.
 
-**Risk framing:** computational crop design tools that accelerate candidate identification can inadvertently narrow genetic diversity if not paired with explicit diversity-preservation mandates. A `τ` breeding twin that systematically selects for one performance envelope without maintaining genetic breadth could reduce the resilience of seed systems over time.
+**Risk framing:** computational crop design tools that accelerate candidate identification can inadvertently narrow genetic diversity if not paired with explicit diversity-preservation mandates. A τ breeding twin that systematically selects for one performance envelope without maintaining genetic breadth could reduce the resilience of seed systems over time.
 
 ### 15.6 Chemical stewardship — preventing pesticide overuse from false alerts
 
@@ -803,11 +803,11 @@ An early-warning system that generates false-positive pest alerts can cause more
 
 Improved irrigation efficiency does not automatically reduce groundwater depletion. The Jevons paradox is well-documented in irrigated agriculture: efficiency gains are often offset by area expansion or more intensive cropping, leaving aquifer depletion unchanged or worsening it.
 
-**Risk framing:** Paper 2 deployments should include explicit groundwater governance protocols in partnership with basin authorities. Efficiency gains should be tracked against aquifer-level monitoring data, not just field-level water-applied metrics. IDA-financed irrigation programs routinely include groundwater governance components — `τ` deployment should align with these frameworks from the outset.
+**Risk framing:** Paper 2 deployments should include explicit groundwater governance protocols in partnership with basin authorities. Efficiency gains should be tracked against aquifer-level monitoring data, not just field-level water-applied metrics. IDA-financed irrigation programs routinely include groundwater governance components — τ deployment should align with these frameworks from the outset.
 
 ### 15.8 Data sovereignty — who owns farmer and national agricultural data
 
-A high-resolution `τ` agro-climate-water-biology twin necessarily ingests and generates sensitive data: individual farm-level soil moisture and yield data, national pest-surveillance intelligence, government grain-reserve levels, and anticipatory-action trigger thresholds.
+A high-resolution τ agro-climate-water-biology twin necessarily ingests and generates sensitive data: individual farm-level soil moisture and yield data, national pest-surveillance intelligence, government grain-reserve levels, and anticipatory-action trigger thresholds.
 
 **Risk framing:** deployment agreements must specify data ownership, access rights, and data-sharing protocols at the level of the individual farmer, the national government, and the implementing institution. Proprietary capture of national agricultural intelligence by non-state actors would be a governance failure with lasting political consequences. All deployment contracts should include explicit data sovereignty provisions, consistent with the CGIAR Open Access and Data Management Policy and FAO's data governance principles.
 
@@ -815,15 +815,15 @@ A high-resolution `τ` agro-climate-water-biology twin necessarily ingests and g
 
 ## 16. Cross-portfolio integration framing
 
-The Agriculture portfolio does not operate in isolation within the broader `τ` impact framework. Four cross-portfolio connections are structurally important and should be designed into the governance and institutional architecture from the outset.
+The Agriculture portfolio does not operate in isolation within the broader τ impact framework. Four cross-portfolio connections are structurally important and should be designed into the governance and institutional architecture from the outset.
 
-**Agriculture and Water-WASH.** The connection between the Agriculture portfolio (Papers 2 and 4) and a `τ` Water-WASH portfolio is foundational. Basin-level water management is shared infrastructure: the same soil moisture, evapotranspiration, and groundwater dynamics that drive irrigation scheduling in Paper 2 also drive domestic water availability, WASH access, and basin conflict. A coherent `τ` twin that serves both portfolios from one substrate avoids the fragmentation problem that currently separates irrigation departments from water utilities and WASH programs within the same country. The cross-portfolio design implication is that basin-level partnerships should be structured to serve agriculture, water security, and WASH governance simultaneously.
+**Agriculture and Water-WASH.** The connection between the Agriculture portfolio (Papers 2 and 4) and a τ Water-WASH portfolio is foundational. Basin-level water management is shared infrastructure: the same soil moisture, evapotranspiration, and groundwater dynamics that drive irrigation scheduling in Paper 2 also drive domestic water availability, WASH access, and basin conflict. A coherent τ twin that serves both portfolios from one substrate avoids the fragmentation problem that currently separates irrigation departments from water utilities and WASH programs within the same country. The cross-portfolio design implication is that basin-level partnerships should be structured to serve agriculture, water security, and WASH governance simultaneously.
 
-**Agriculture and One Health.** The connection between the Agriculture portfolio (Paper 3) and a `τ` One Health portfolio is epidemiologically direct. Zoonotic spillover — the emergence of new pathogens at the human-animal-agriculture interface — is shaped by the same dynamics that Paper 3 monitors for agricultural biosecurity: livestock stress, wildlife-domestic-animal interface density, land-use change, and weather-driven habitat shifts. A `τ` pest, disease, and livestock-stress early warning system that shares its biological substrate with a One Health early-warning architecture avoids duplicated data collection and enables cross-domain alert integration (e.g., avian influenza alerts that jointly serve poultry producers, veterinary services, and public health authorities). The policy implication is that Paper 3's FAO EMPRES-i+ integration should be designed from the outset to be compatible with WHO and WOAH's joint Early Warning and Response systems.
+**Agriculture and One Health.** The connection between the Agriculture portfolio (Paper 3) and a τ One Health portfolio is epidemiologically direct. Zoonotic spillover — the emergence of new pathogens at the human-animal-agriculture interface — is shaped by the same dynamics that Paper 3 monitors for agricultural biosecurity: livestock stress, wildlife-domestic-animal interface density, land-use change, and weather-driven habitat shifts. A τ pest, disease, and livestock-stress early warning system that shares its biological substrate with a One Health early-warning architecture avoids duplicated data collection and enables cross-domain alert integration (e.g., avian influenza alerts that jointly serve poultry producers, veterinary services, and public health authorities). The policy implication is that Paper 3's FAO EMPRES-i+ integration should be designed from the outset to be compatible with WHO and WOAH's joint Early Warning and Response systems.
 
-**Agriculture and Disaster Risk.** The connection between the Agriculture portfolio (Paper 4) and a `τ` Disaster Risk portfolio is operational. WFP's anticipatory action system, FAO's early warning systems, OCHA's response planning, and World Bank DRF (Disaster Risk Finance) instruments all operate on the same anticipatory logic: better forecasts → better-calibrated triggers → more efficient pre-positioning of resources. A `τ` seasonal planning and food-system resilience layer (Paper 4) that generates coherent, bounded forecast products for food-system shocks strengthens the forecast input to every anticipatory action trigger in the disaster-risk domain. Conversely, disaster-risk governance frameworks (multi-country disaster risk pools, IDA Crisis Response Windows, OCHA CERF) provide the institutional architecture into which Paper 4's outputs can flow. The cross-portfolio design implication is that Paper 4 should be embedded within, not parallel to, existing disaster-risk governance frameworks.
+**Agriculture and Disaster Risk.** The connection between the Agriculture portfolio (Paper 4) and a τ Disaster Risk portfolio is operational. WFP's anticipatory action system, FAO's early warning systems, OCHA's response planning, and World Bank DRF (Disaster Risk Finance) instruments all operate on the same anticipatory logic: better forecasts → better-calibrated triggers → more efficient pre-positioning of resources. A τ seasonal planning and food-system resilience layer (Paper 4) that generates coherent, bounded forecast products for food-system shocks strengthens the forecast input to every anticipatory action trigger in the disaster-risk domain. Conversely, disaster-risk governance frameworks (multi-country disaster risk pools, IDA Crisis Response Windows, OCHA CERF) provide the institutional architecture into which Paper 4's outputs can flow. The cross-portfolio design implication is that Paper 4 should be embedded within, not parallel to, existing disaster-risk governance frameworks.
 
-**Agriculture and Climate.** The connection between the Agriculture portfolio and a `τ` Climate portfolio is structural. Long-range agricultural adaptation — particularly the 10–20-year breeding and seed-system work of Paper 5 — depends on accurate characterization of the future climate envelope for specific agro-ecological zones. A `τ` climate twin that provides coherent, bounded projections of temperature, precipitation, and extreme-event distributions at regional scale is a direct input to the Paper 5 genotype × environment × management design problem. Conversely, the land-use and crop-physiology data generated by an operational agriculture portfolio enriches the terrestrial-carbon and land-surface components of any climate twin. The cross-portfolio design implication is that Paper 5's breeding-target design should be coordinated with climate projection work, and that land-use emissions from agricultural systems — a major focus of climate mitigation policy — should be explicitly tracked within the agriculture portfolio's sustainability reporting.
+**Agriculture and Climate.** The connection between the Agriculture portfolio and a τ Climate portfolio is structural. Long-range agricultural adaptation — particularly the 10–20-year breeding and seed-system work of Paper 5 — depends on accurate characterization of the future climate envelope for specific agro-ecological zones. A τ climate twin that provides coherent, bounded projections of temperature, precipitation, and extreme-event distributions at regional scale is a direct input to the Paper 5 genotype × environment × management design problem. Conversely, the land-use and crop-physiology data generated by an operational agriculture portfolio enriches the terrestrial-carbon and land-surface components of any climate twin. The cross-portfolio design implication is that Paper 5's breeding-target design should be coordinated with climate projection work, and that land-use emissions from agricultural systems — a major focus of climate mitigation policy — should be explicitly tracked within the agriculture portfolio's sustainability reporting.
 
 ---
 
@@ -853,7 +853,7 @@ Quantified outcomes:
 
 - **8–12% average crop-loss reduction** across 8–12 integrated countries, against proportional shares of the FAO USD 99B global baseline, yielding **USD 1–3B/yr in avoided agricultural losses**.
 - **15% average water productivity improvement** in irrigated systems across integrated countries, with **400–800 million cubic meters/yr of water saved** across 500,000–1M ha of irrigated cropland.
-- **First climate-specific variety releases** from `τ`-assisted breeding programs (CGIAR rice, wheat, and maize), with adoption beginning at 1–3 million hectares by Year 10 and delivering documented yield-stability gains of **15–25% under drought and heat stress** relative to predecessor varieties.
+- **First climate-specific variety releases** from τ-assisted breeding programs (CGIAR rice, wheat, and maize), with adoption beginning at 1–3 million hectares by Year 10 and delivering documented yield-stability gains of **15–25% under drought and heat stress** relative to predecessor varieties.
 - **Anticipatory action trigger precision improved** across 15–20 WFP country programs, contributing an estimated **USD 200M/yr in additional avoided humanitarian costs** above the current WFP anticipatory action B:C baseline.
 
 **10-year cumulative portfolio impact: USD 5–15B in avoided losses and productivity gains across integrated portfolio countries.**
@@ -864,7 +864,7 @@ At the 20-year horizon, the full agriculture portfolio behaves as a shared publi
 
 Quantified outcomes:
 
-- **USD 10–20B/yr in avoided agricultural losses globally** if the `τ` agriculture twin reaches full deployment across major food-producing regions, corresponding to 10–20% of the FAO USD 99B disaster-loss baseline.
+- **USD 10–20B/yr in avoided agricultural losses globally** if the τ agriculture twin reaches full deployment across major food-producing regions, corresponding to 10–20% of the FAO USD 99B disaster-loss baseline.
 - **400 cubic km/yr of water saved globally** from agricultural water productivity improvements, meaningful at the scale of documented aquifer depletion in South Asia and North Africa.
 - **2–3 additional adaptation cycles** for major staple crops (rice, maize, wheat, sorghum) before the 2040–2060 warming window, enabled by breeding cycle compression of 30–40% relative to conventional programs.
 - **Structural reduction in agrifood system vulnerability** across 50+ countries, including significant widening of access to high-quality agriculture intelligence for populations currently underserved by national advisory services.
@@ -890,7 +890,7 @@ The 20-year public-good pattern is not merely efficiency. It is a more resilient
 
 ## 19. Conclusion
 
-The agriculture domain is one of the strongest places where `τ` could become publicly useful early.
+The agriculture domain is one of the strongest places where τ could become publicly useful early.
 
 That is true because the official world is already asking for exactly these capabilities:
 
@@ -900,13 +900,13 @@ That is true because the official world is already asking for exactly these capa
 - stronger anticipatory action and resilience planning,[^11][^12][^25][^26]
 - and stronger climate-resilient breeding and crop design.[^13][^14][^15]
 
-The incumbent landscape — CGIAR CCAFS, FAO FAMEWS/GIEWS/DLIS, WFP VAM, national agromet services, and process-based crop models — provides strong institutional reach and well-tested delivery channels but operates from a compositional intelligence stack that lacks coherence across the weather-to-crop chain. A `τ` twin differentiates at the substrate level, not at the advisory-format level.
+The incumbent landscape — CGIAR CCAFS, FAO FAMEWS/GIEWS/DLIS, WFP VAM, national agromet services, and process-based crop models — provides strong institutional reach and well-tested delivery channels but operates from a compositional intelligence stack that lacks coherence across the weather-to-crop chain. A τ twin differentiates at the substrate level, not at the advisory-format level.
 
 The finance architecture is deep and named: GCF adaptation windows, World Bank IDA agriculture lending at USD 12B/yr, IFAD rural investment at USD 4B/yr, CGIAR Trust Fund at USD 900M/yr, and the UN anticipatory action system, provide multiple entry points for a USD 50–100M five-year portfolio program with an estimated B:C of 4:1 to 8:1.
 
 The three case studies — Sahel (Papers 1+3+4), South/Southeast Asia (Papers 2+4+5), Sub-Saharan Africa (Papers 1+3+5) — show how the portfolio creates compounding value through multi-paper integration in specific geographies, with quantified avoided-loss estimates ranging from USD 200M/yr at pilot scale to USD 10–20B/yr at full global deployment.
 
-Under the strongest `τ` assumption, the opportunity is not merely "better forecasts for farmers." It is the possibility of a **full-stack agrifood intelligence architecture** whose layers reinforce one another:
+Under the strongest τ assumption, the opportunity is not merely "better forecasts for farmers." It is the possibility of a **full-stack agrifood intelligence architecture** whose layers reinforce one another:
 
 - operations,
 - water,
@@ -916,17 +916,17 @@ Under the strongest `τ` assumption, the opportunity is not merely "better forec
 
 That is why agriculture should be treated as a full deployment portfolio rather than as a single application.
 
-If `τ` can make agricultural decisions materially more trustworthy, local, bounded, and biologically informed, then this portfolio could deliver some of the most humane public-good gains in the whole framework.
+If τ can make agricultural decisions materially more trustworthy, local, bounded, and biologically informed, then this portfolio could deliver some of the most humane public-good gains in the whole framework.
 
 ---
 
 ## 20. Companion documents
 
-- `τ`-grade operational agro-weather intelligence
-- `τ` for climate-smart irrigation, soil moisture, and water productivity
-- `τ` for pest, disease, and livestock-stress early warning
-- `τ` for seasonal planning, disaster anticipation, and food-system resilience
-- `τ` for crop biology, breeding, photosynthesis engineering, and targeted gene design
+- τ-grade operational agro-weather intelligence
+- τ for climate-smart irrigation, soil moisture, and water productivity
+- τ for pest, disease, and livestock-stress early warning
+- τ for seasonal planning, disaster anticipation, and food-system resilience
+- τ for crop biology, breeding, photosynthesis engineering, and targeted gene design
 
 ---
 

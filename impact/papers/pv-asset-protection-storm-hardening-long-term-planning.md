@@ -15,12 +15,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for PV Asset Protection, Storm-Hardening, and Long-Term System Planning
-**Companion Dossier — Panta Rhei Impact: Solar Portfolio**
-**Paper 4 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Solar photovoltaic deployment has crossed a threshold at which weather resilience is no longer an owner-side engineering detail — it is a structural determinant of whether the energy transition succeeds. The U.S. Department of Energy projects solar at **40% of national electricity by 2035** and **45% by 2050**, implying roughly 1,600 GW_AC of installed capacity in the core decarbonization pathway.[^3] At that scale, every avoidable storm failure, every hidden hail scar, every mis-sited array in a flood plain or fire corridor represents not only private economic loss but systemic grid-reliability risk.

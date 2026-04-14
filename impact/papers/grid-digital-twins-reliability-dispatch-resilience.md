@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Grid Digital Twins, Reliability, Dispatch, and Resilience
-**Companion Dossier — Panta Rhei Impact: Energy Portfolio**
-**Paper 1 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 Electricity systems worldwide are simultaneously facing accelerating demand growth, mounting weather-driven stress, constrained supply chains, and rising public dependence on uninterrupted power. The International Energy Agency reports that global electricity demand rose 4.3% in 2024 and is forecast to continue growing near 4% annually through 2027, while annual global investment in grids — approximately USD 400 billion — remains only about one-third of what is being invested in generation assets.[^1][^2] Meanwhile, Oak Ridge National Laboratory's March 2026 analysis reports that U.S. customers bore more than USD 121 billion in outage costs in 2024 alone, up from a USD 67 billion annual average over 2018–2024, with the number of major outages rising 29% over that same period.[^7]

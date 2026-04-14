@@ -16,13 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# τ for Advanced Fission Safety, Operations, Licensing, and Fleet Modernization
-
-**Companion Dossier — Panta Rhei Impact: Energy Portfolio**
-**Paper 4 of 5 · Status: Yellow Paper · March 2026**
-
----
-
 ## Executive Summary
 
 This dossier examines one of the most structurally ready applications in the entire τ energy portfolio: whether a physically faithful, bounded-error, coarse-grainable reactor twin can close the gap between what the nuclear sector already knows it needs and what its current simulation, digital, and licensing infrastructure can provide. The answer, under the explicit τ assumption, is affirmative — and the public-good scale is substantial.

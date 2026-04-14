@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Precision Public Health, Physiology, Prevention, and Response Optimization
-**Companion Dossier — Panta Rhei Impact: One Health Portfolio**
-**Paper 4 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Preventable harm at population scale remains one of the most tractable remaining frontiers in global health. WHO data confirm that **noncommunicable diseases killed at least 43 million people in 2021**, including **18 million premature deaths before age 70**, with 82% of those premature deaths occurring in low- and middle-income countries.[^1] Medication-related harm, which accounts for **nearly half of all preventable harm in medical care**, costs the global health system an estimated **US$42 billion per year** in avoidable adverse drug events, with the toll falling disproportionately on older adults, polypharmacy patients, and populations with inadequate monitoring infrastructure.[^2][^3][^4] Climate-sensitive health emergencies — extreme heat, air pollution episodes, vector-borne disease surges, and infectious outbreaks — kill hundreds of thousands of additional people each year under predictive conditions that current surveillance systems cannot adequately anticipate.[^5][^6]

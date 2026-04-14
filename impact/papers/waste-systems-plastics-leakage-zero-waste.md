@@ -17,12 +17,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Waste Systems, Plastics Leakage, and Zero-Waste Intelligence
-**Companion Dossier — Panta Rhei Impact: Pollution & Circularity Portfolio**
-**Paper 4 of 4 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Waste is the most visible face of broken material systems. People can see litter in storm drains, plastic washed onto beaches, open fires burning at the edge of informal settlements, and rivers running brown after floods. What they cannot see — and what conventional waste management systems still largely fail to map — is the full causal chain from generation to leakage to environmental harm. That invisibility is precisely where a law-faithful physical twin built on the τ framework could deliver its most immediate and durable public good.

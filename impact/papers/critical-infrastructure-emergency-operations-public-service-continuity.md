@@ -16,12 +16,6 @@ right_rail:
     updated: April 2026
 ---
 
-# Tau-Grade Critical Infrastructure Protection, Emergency Operations, and Public Service Continuity
-**Companion Dossier — Panta Rhei Impact: Disaster Portfolio**
-**Paper 4 of 5 · Status: Yellow Paper · 2026-03-16**
-
----
-
 ## Executive Summary
 
 Every major disaster is ultimately experienced as a service continuity failure. People do not mainly experience hurricanes, winter storms, or heat waves as weather abstractions. They experience them as the moment the lights stop working, the water no longer runs, the phone fails to connect to 911, the dialysis machine goes silent, or the road to the hospital closes. The central proposition of this paper is that a physics-faithful, bounded-error τ operations twin organized around cross-lifeline service continuity could provide a transformative improvement in how societies prepare for, manage, and recover from these events.
