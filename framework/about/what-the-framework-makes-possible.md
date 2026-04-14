@@ -34,6 +34,8 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 15 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [What the Framework Does Not Assume]({{ '/framework/about/what-the-framework-does-not-assume/' | relative_url }}).*
+
 If the Tau framework is even partially what the Panta Rhei Research Program claims it to be, then it makes several unusual things possible at once.
 
 It makes possible a mathematical foundation that does not begin by assuming the very higher structures it later relies on.
@@ -51,9 +53,9 @@ It makes possible a new relation between science and the humanities—not by col
 It makes possible public inspection at multiple levels:
 - monograph
 - guided tour
-- registry
-- formalization
-- verification path
+- [registry]({{ '/registry/' | relative_url }})
+- [formalization]({{ '/verify/taulib/' | relative_url }})
+- [verification]({{ '/verify/' | relative_url }}) path
 - first-pass assessment protocol
 
 And it makes possible a very unusual research posture: one in which the framework is not simply offered as a model to admire or reject, but as a public candidate structure that can be read, tested, challenged, and possibly extended.
@@ -61,3 +63,5 @@ And it makes possible a very unusual research posture: one in which the framewor
 None of these possibilities are the same as social settlement. The framework may still fail in whole or in part. Its bridges may prove weaker than it claims. Some of its strongest results may survive while others break. But even that possibility only becomes meaningful because the framework makes a real and structured wager.
 
 That is why this page belongs at the end of the explanatory staircase. By this point, the reader should understand not only what the framework is and how it works, but why the research program thinks the effort is worth making at all.
+
+*The next step, [How to Inspect the Framework]({{ '/framework/about/how-to-inspect-the-framework/' | relative_url }}), explores the public surfaces through which the framework can be read, tested, and challenged.*

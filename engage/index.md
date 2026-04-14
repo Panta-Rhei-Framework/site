@@ -28,7 +28,7 @@ right_rail:
 
 ## Participation and Continuity
 
-The Engage lane is not a sales funnel. It is the research program's calm participation layer — enabling readers to follow the work, support its continuation, and route inquiries to the right place.
+The Engage lane is not a sales funnel. It is the research program's calm participation layer — enabling readers to follow the work, support its continuation, and route inquiries to the right place. For deeper context on the program's claims and methods, see the [Research Notes]({{ '/research-notes/' | relative_url }}).
 
 Supporting the research does not mean endorsing the framework. It means valuing the attempt and wanting it to continue under public scrutiny.
 
@@ -36,11 +36,11 @@ Supporting the research does not mean endorsing the framework. It means valuing 
 
 ### [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }})
 
-Receive research updates, companion publication news, and notices about new verification surfaces as the program develops.
+Receive research updates, companion publication news, and notices about new [verification surfaces]({{ '/verify/' | relative_url }}) as the program develops.
 
 ### [Support the Research]({{ '/engage/support-the-research/' | relative_url }})
 
-The most direct way to support the research is to **read the books**. Beyond that: follow the program, share it with domain experts, or contribute to the continuation of the work.
+The most direct way to support the research is to **read the [books]({{ '/publications/' | relative_url }})**. Beyond that: follow the program, share it with domain experts, or contribute to the continuation of the work.
 
 ### [Seminars & Guided Sessions]({{ '/engage/seminars-and-guided-sessions/' | relative_url }})
 

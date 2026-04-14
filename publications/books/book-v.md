@@ -51,7 +51,7 @@ Book V is part of the **Physics (Macrocosm)** layer (E₁) of the Panta Rhei fra
 
 ## About This Volume
 
-> *”The way up and the way down are one and the same.”*
+> *"The way up and the way down are one and the same."*
 > — Heraclitus, Fragment 60
 
 Book IV completed the fiber.

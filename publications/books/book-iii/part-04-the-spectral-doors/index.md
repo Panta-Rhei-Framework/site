@@ -45,7 +45,7 @@ as the terminal object among closed simply connected 3-manifolds.
 
 The **Master Schema** unifies these two problems as instances of Mutual Determination at $E_0$.
 P versus NP, which requires enrichment level $E_2$ (the computation layer), is deferred to Part IX:
-“Where Life Lives.”
+"Where Life Lives."
 
 ## Chapters
 

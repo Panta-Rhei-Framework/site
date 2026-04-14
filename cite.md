@@ -27,7 +27,7 @@ right_rail:
 
 ## How to Cite
 
-Each book in the Panta Rhei series has a **Zenodo DOI** that identifies the canonical manuscript record for the current 2nd Edition. Retail formats (Kindle, hardcover, paperback) share the same manuscript content — the DOI is the stable scholarly identifier.
+Each [book]({{ '/publications/books/' | relative_url }}) in the Panta Rhei series has a **Zenodo DOI** that identifies the canonical manuscript record for the current 2nd Edition. Retail formats (Kindle, hardcover, paperback) share the same manuscript content — the DOI is the stable scholarly identifier.
 
 When citing, please reference the **specific edition consulted** and use the version DOI.
 
@@ -56,8 +56,10 @@ To cite the research program as a whole rather than an individual book:
 
 > Fuchs, T. & Fuchs, A.-S. (2026). *TauLib: Lean 4 Formalization Library for Category τ*. [https://github.com/Panta-Rhei-Framework/taulib](https://github.com/Panta-Rhei-Framework/taulib)
 
+For more on TauLib and what the [formalization]({{ '/verify/taulib/' | relative_url }}) covers, see the Verify lane.
+
 ## Notes
 
 - **Edition discipline**: If a future edition changes the manuscript materially, a new Zenodo version will be minted with a new DOI. Always cite the version you consulted.
 - **Retail identifiers**: ASINs and ISBNs identify retail formats, not manuscript versions. For academic citation, use the Zenodo DOI.
-- **BibTeX**: Machine-readable citation exports are planned for a future release.
+- **BibTeX**: Machine-readable citation exports are planned for a future release. In the meantime, see the [bibliography]({{ '/bibliography/' | relative_url }}) for the program's reference list.

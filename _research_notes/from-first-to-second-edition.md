@@ -28,7 +28,7 @@ right_rail:
 
 ## Two editions, one program
 
-The Panta Rhei Research Program has published two editions of its seven-book series. The First Edition appeared in December 2025. The Second Edition followed in March 2026. Both are publicly available &mdash; the First Edition as an archived release, the Second Edition as the current canonical version.
+The Panta Rhei Research Program has published two editions of its seven-book series. The [First Edition]({{ '/publications/archived/first-edition/' | relative_url }}) appeared in December 2025. The [Second Edition]({{ '/publications/books/' | relative_url }}) followed in March 2026. Both are publicly available &mdash; the First Edition as an archived release, the Second Edition as the current canonical version.
 
 This note explains what changed between them and why.
 
@@ -40,7 +40,7 @@ Specifically: several of the nine axioms could be derived from a smaller set. Th
 
 ## The Coherence Kernel
 
-The Second Edition consolidates the foundation into what we call the *Coherence Kernel*: seven axioms (K0&ndash;K6), five generators in strict total order (&alpha;, &pi;, &gamma;, &eta;, &omega;), and one operator (&rho;). This is fewer axioms, fewer operators, and a stricter generator ordering.
+The Second Edition consolidates the foundation into what we call the [*Coherence Kernel*]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }}): seven axioms (K0&ndash;K6), five generators in strict total order (&alpha;, &pi;, &gamma;, &eta;, &omega;), and one operator (&rho;). This is fewer axioms, fewer operators, and a stricter generator ordering.
 
 The consolidation was not arbitrary. It followed from a systematic audit: which axioms are truly independent? Which operators are primitive? What is the minimal structure from which the entire seven-book derivation chain can be recovered?
 

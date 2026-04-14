@@ -34,6 +34,8 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 1 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It opens the sequence.*
+
 The **Tau framework** is the technical core of the Panta Rhei Research Program.
 
 It is not introduced as just another mathematical formalism among many, nor as a decorative notation placed on top of familiar objects. It is presented as a candidate **foundational substrate**: a constructively disciplined, typed, finitistically constrained formal structure from which higher mathematical, physical, biological, and metaphysical organization is then progressively earned.
@@ -42,7 +44,7 @@ The first important thing to understand is that the framework does **not** begin
 
 That is why the framework often feels unusual when first encountered. Its ambitions are large, but its starting point is deliberately austere.
 
-The second important thing to understand is that the framework is not only intended to be expressive. It is intended to be **inspectable**. The books, the formal registry, the guided tours, and the public Lean formalization all exist because the program is trying to avoid a familiar failure mode of foundational speculation: grandeur without public checkability. The Tau framework is therefore presented simultaneously as:
+The second important thing to understand is that the framework is not only intended to be expressive. It is intended to be **inspectable**. [The books]({{ '/publications/books/' | relative_url }}), the formal [registry]({{ '/registry/' | relative_url }}), the guided tours, and the public [Lean formalization]({{ '/verify/taulib/' | relative_url }}) all exist because the program is trying to avoid a familiar failure mode of foundational speculation: grandeur without public checkability. The Tau framework is therefore presented simultaneously as:
 - a formal object under construction,
 - a conceptual architecture,
 - and a public target for scrutiny.
@@ -54,3 +56,5 @@ So the right first description of the Tau framework is:
 > a radically constrained, coherence-first formal substrate that seeks to earn rather than assume the higher structures usually used to model reality.
 
 Everything that follows in this lane explains how such a claim could even begin to make sense.
+
+*The next step, [Why the Framework Begins So Low]({{ '/framework/about/why-the-framework-begins-so-low/' | relative_url }}), explores why such a large explanatory ambition demands such a strict starting point.*

@@ -82,7 +82,7 @@ maps the eleven-Part roadmap and the inverted dependency chain:
 *holomorphy ⇒ continuity ⇒ topology ⇒ geometry ⇒ transcendentals ⇒ holomorphic interior* — exact inversion of orthodox order.
 
 A note on terminology: throughout this book,
-$τ^3$ means “$τ$ viewed through its geometric coordinate chart.”
+$τ^3$ means "$τ$ viewed through its geometric coordinate chart."
 The superscript $3$ is a structural index naming the three-factor
 fibered product $τ^1 ×_f T^2$.
 It is not a dimension count (the interior is four-dimensional),

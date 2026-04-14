@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: high-impact-frontier-problem
 status_code: R
 domain_group: "Ontology"
-summary_short: "Strong public-facing ontology page and deeply aligned with the program’s relational stance."
+summary_short: "Strong public-facing ontology page and deeply aligned with the program's relational stance."
 canonical_books: ["VII"]
 right_rail:
   meta:

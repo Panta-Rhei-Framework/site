@@ -62,7 +62,7 @@ with a canonical NF address.
 The $p$-adic valuation $v_p$
 is the D-coordinate restricted
 to the $p$-primary component of the primorial tower.
-We prove that $ℤ_p^τ$ is “complete”
+We prove that $ℤ_p^τ$ is "complete"
 in the $τ$-sense:
 every tower-coherent sequence has a unique limit.
 This is not metric completeness

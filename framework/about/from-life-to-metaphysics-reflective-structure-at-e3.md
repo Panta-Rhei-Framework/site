@@ -32,6 +32,8 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 12 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [From Physics to Life: Structural Classes at E2]({{ '/framework/about/from-physics-to-life-structural-classes-at-e2/' | relative_url }}).*
+
 If \(E_2\) is the layer at which life becomes semantically legible as a structured class of organization, then \(E_3\) is the layer at which **reflective life** becomes semantically legible.
 
 Again, the granularity changes.
@@ -47,11 +49,11 @@ This is why the metaphysical layer is organized around:
 
 These are not treated as accidental cultural categories imported from outside. They are proposed as the reflective and normative field in which enriched life comes to organize meaning, judgment, reasoning, and stance.
 
-The same rule applies here as before. The program is not moving from one world to another. It is not discarding the previous layers. The metaphysical layer is realized through the living layer, which is realized through the physical layer, which is built on the mathematical one. What changes is not the substrate, but the order at which the framework becomes semantically readable.
+The same rule applies here as before. The program is not moving from one world to another. It is not discarding the previous layers. The metaphysical layer is realized through the living layer, which is realized through the physical layer, which is built on the mathematical one. What changes is not the substrate, but the order at which the framework becomes semantically readable. The [four layers]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}) remain nested, not stacked.
 
 At this point, it becomes essential to avoid a common misunderstanding. The program is not saying that metaphysics is a free-floating realm detached from reality. Nor is it saying that all reflective systems are equally arbitrary. It is saying that once reflection becomes possible, its architecture is not shapeless. It tends to organize itself through recurrent registers and their relations.
 
-This is why Book VII can then ask about:
+This is why [Book VII]({{ '/publications/books/book-vii/' | relative_url }}) can then ask about:
 - ontology,
 - phenomenology,
 - language,
@@ -62,3 +64,5 @@ This is why Book VII can then ask about:
 - and the boundary where proof gives way to commitment.
 
 Those are not random appendices to the framework. They are the semantic field appropriate to the final enrichment layer.
+
+*The next step, [How the Four Layers Determine Reality Differently]({{ '/framework/about/how-the-four-layers-determine-reality-differently/' | relative_url }}), explores why each layer makes a different kind of claim about reality.*

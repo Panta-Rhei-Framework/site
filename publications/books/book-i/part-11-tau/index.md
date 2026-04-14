@@ -53,7 +53,7 @@ is *earned* from the bipolar structure,
 not axiomatized.
 It has a built-in explosion barrier:
 the overdetermined value $B$
-(“true and false simultaneously”)
+("true and false simultaneously")
 does not collapse to triviality,
 because the B-sector witnesses and C-sector witnesses
 live in orthogonal spectral components.

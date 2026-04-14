@@ -35,7 +35,7 @@ The Panta Rhei Research Program is governed by a demanding question:
 
 **What kind of framework would be required if one wanted, not merely to model fragments of reality successfully, but to describe reality in a way capable of answering why it has the form it has?**
 
-That question determines the program’s aim and its desiderata.
+That question determines the program's aim and its desiderata.
 
 ## The primary aim
 
@@ -61,7 +61,7 @@ If the deepest questions are:
 
 then the structure of the answer must already be visible in the structure of the framework. A framework that begins by surrendering those questions structurally cannot plausibly recover them later by rhetorical force.
 
-That is why the desiderata are not optional ideals. They are part of the program’s internal logic.
+That is why the desiderata are not optional ideals. They are part of the program's internal logic.
 
 ## Desideratum 1 — Ontic seriousness
 
@@ -72,9 +72,9 @@ the refusal to be content with a merely convenient language if the question bein
 
 ## Desideratum 2 — Categoricity pressure
 
-If one wants to ask “why this world?” then a foundational framework that gives up uniqueness or canonicality too early will struggle to answer that question later.
+If one wants to ask "why this world?" then a foundational framework that gives up uniqueness or canonicality too early will struggle to answer that question later.
 
-This is one of the deepest motivations behind the program’s foundational strictness. If the base formal universe already tolerates multiple incomparable realizations without a principled way to close them, then stronger downstream claims about why this structure, why this constant, or why this law remain structurally weak.
+This is one of the deepest motivations behind the program's foundational strictness. If the base formal universe already tolerates multiple incomparable realizations without a principled way to close them, then stronger downstream claims about why this structure, why this constant, or why this law remain structurally weak.
 
 The program does not claim to have solved this question simply by stating it. It claims that any framework worthy of the question must at least face it explicitly.
 
@@ -82,11 +82,11 @@ The program does not claim to have solved this question simply by stating it. It
 
 The framework should be explicit, recursive enough to be inspectable, and in principle formalizable. It should not rely on inaccessible primitives that cannot be rendered into a concrete formal substrate.
 
-This is why the program places so much emphasis on TauLib, verification companions, and public inspection routes. A reality-model that cannot be entered in a disciplined way cannot fairly demand deep trust.
+This is why the program places so much emphasis on [TauLib]({{ '/verify/taulib/' | relative_url }}), verification companions, and public inspection routes. A reality-model that cannot be entered in a disciplined way cannot fairly demand deep trust.
 
 ## Desideratum 4 — Parameter discipline
 
-A framework that aspires to foundational answerability should not leave decisive explanatory burden to unconstrained free parameters if it can avoid doing so. Otherwise, the strongest “why this?” questions simply reappear in displaced form.
+A framework that aspires to foundational answerability should not leave decisive explanatory burden to unconstrained free parameters if it can avoid doing so. Otherwise, the strongest "why this?" questions simply reappear in displaced form.
 
 This does not mean that every empirical quantity is already settled. It means that parameter freedom itself is treated as a burden to be minimized, not as a harmless convenience.
 
@@ -98,7 +98,7 @@ This is one reason the program values internality, structural recursion, and eve
 
 ## Desideratum 6 — Cross-domain coherence
 
-Where mathematics, physics, life, mind, ethics, and metaphysics genuinely overlap, the framework should seek coherence rather than compartmentalized truce.
+Where mathematics, physics, life, mind, ethics, and metaphysics genuinely overlap, the framework should seek coherence rather than [compartmentalized truce]({{ '/research-program/about/science-humanities-and-coherence/' | relative_url }}).
 
 This does not mean reducing one domain to another. It means refusing to accept unresolved contradiction as the final form of their relation unless reality itself leaves no deeper alternative.
 
@@ -112,4 +112,4 @@ Taken together, these desiderata define the kind of framework the program is wil
 
 but structurally fit for the burden of the questions it asks.
 
-That is the standard by which the program should be judged.
+That is the standard by which the program should be judged — and the [key results]({{ '/results/' | relative_url }}) page shows where it currently stands.

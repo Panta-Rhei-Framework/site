@@ -37,7 +37,7 @@ problems solved; fairness protocols derived; moral ambiguity is monodromy. Four 
 emerge. Virtue ethics complements deontology: character as fixed point, flourishing as global
 section. Applied ethics brings principles to bioethics, environment, and AI.
 The 2nd Edition adds the **CI as $j$-closed fixed point** (three-stage proof programme
-K/S/CI), the **Kant-$τ$ Correspondence** ($τ$ fills Kant's “unspoken socket”—the
+K/S/CI), the **Kant-$τ$ Correspondence** ($τ$ fills Kant's "unspoken socket"—the
 diagrammatic bridge he left empty), the **commitment register** as fourth mode of reason,
 and the **earned vs. unearned ethics** framework.
 Part VII undergoes the deepest transformation among the retained Parts: from a survey of

@@ -44,6 +44,6 @@ prospective dignity, and admissible policies must account for them.
 Intergenerational justice arises as a coherence constraint on temporal
 loops, not as a preference or discount-rate choice. The chapter argues
 that temporal discounting of dignity is structurally inadmissible: the
-label “future” is contingent, and label-independence forbids basing
+label "future" is contingent, and label-independence forbids basing
 ethical weight on it. The result is a structural account of
 sustainability as gluing across time.

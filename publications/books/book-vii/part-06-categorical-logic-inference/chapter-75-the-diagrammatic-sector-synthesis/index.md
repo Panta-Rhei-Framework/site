@@ -45,5 +45,5 @@ recognition through symbolic representation to formal proof. This
 chapter synthesizes the deliverables of the sector, identifies the
 internal architecture that unifies them, and marks the boundary where
 the diagrammatic register must yield to the practical register. The
-question “What can I prove?” has been answered; Part VII opens with
-the question “What ought I to do?”
+question "What can I prove?" has been answered; Part VII opens with
+the question "What ought I to do?"

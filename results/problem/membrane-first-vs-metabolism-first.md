@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: domain-level-open-problem
 status_code: R
 domain_group: "Origin of Life"
-summary_short: "Clear origin-of-life debate and a good test of the program’s explanatory power."
+summary_short: "Clear origin-of-life debate and a good test of the program's explanatory power."
 canonical_books: ["VI"]
 right_rail:
   meta:

@@ -32,7 +32,9 @@ right_rail:
     updated: April 2026
 ---
 
-Once the framework reaches the enrichment ladder and its saturation at \(E_3\), the program claims that a new kind of closure becomes available.
+*This is step 7 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [Self-Enrichment and the Four Layers]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}).*
+
+Once the framework reaches the [enrichment ladder]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}) and its saturation at \(E_3\), the program claims that a new kind of closure becomes available.
 
 At the earlier levels, the framework already earns significant internal resources:
 - object structure,
@@ -43,7 +45,7 @@ At the earlier levels, the framework already earns significant internal resource
 
 But the point of the later enrichment layers is not simply to add more content. It is to change what kind of thing the framework can host **from within**.
 
-The claim here is that by the time the framework reaches its terminal enrichment, it is no longer only capable of generating objects and relations. It becomes capable, in the program’s own terms, of carrying a much stronger degree of **internal semantic closure**:
+The claim here is that by the time the framework reaches its terminal enrichment, it is no longer only capable of generating objects and relations. It becomes capable, in the program's own terms, of carrying a much stronger degree of **internal semantic closure**:
 - truth-bearing structure,
 - proof-bearing structure,
 - and a form of self-hosting in which the framework can organize not only its own content, but the machinery by which its content is judged, related, and articulated.
@@ -52,6 +54,8 @@ This does not mean that all possible meta-language disappears or that the framew
 
 This matters because many systems are formally interesting but ontologically weak. They can describe. They can encode. They can model. But they cannot convincingly bear the weight of their own semantics from within. The Tau framework is presented as unusual precisely because it aims to push further: not only toward formal richness, but toward internal semantic self-sufficiency.
 
-The books argue this at length and under strong constraint. The site cannot reproduce that proof path in short form. But it can make clear why this move matters so much. If the framework truly reaches this degree of self-hosting, then it is no longer just a helpful instrument. It becomes a serious candidate for a formally self-standing structure.
+[The books]({{ '/publications/books/' | relative_url }}) argue this at length and under strong constraint. The site cannot reproduce that proof path in short form. But it can make clear why this move matters so much. If the framework truly reaches this degree of self-hosting, then it is no longer just a helpful instrument. It becomes a serious candidate for a formally self-standing structure.
 
-That claim is one of the central reasons the program later takes such a strong ontic stance toward the framework itself.
+That claim is one of the central reasons the program later takes such a strong [ontic stance]({{ '/framework/about/ontic-seriousness-and-the-question-of-existence/' | relative_url }}) toward the framework itself.
+
+*The next step, [Ontic Seriousness and the Question of Existence]({{ '/framework/about/ontic-seriousness-and-the-question-of-existence/' | relative_url }}), explores why the program treats the framework as more than a convenient formalism.*

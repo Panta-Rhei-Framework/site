@@ -32,6 +32,8 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 11 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [Structural Isomorphism and Calibrated Readout]({{ '/framework/about/structural-isomorphism-and-calibrated-readout/' | relative_url }}).*
+
 The transition from \(E_1\) to \(E_2\) is surprising in a different way from the earlier transition into physics.
 
 At \(E_1\), the framework is claimed to become physically legible through invariant structure and calibrated readout. At \(E_2\), the semantic move changes level. The framework is no longer being read at the level of physical invariants alone. It is being read at the level of **living organization**.
@@ -42,15 +44,17 @@ What \(E_2\) adds is a higher-order structural organization.
 
 The claim is not that the framework identifies particular organisms as tokens: not this rabbit, that dolphin, or this exact tree. That would be the wrong granularity. Instead, the program claims that once the enrichment survives into \(E_2\), the persistent sector structure becomes semantically legible at the level of **life-structuring classes** and **developmental trajectories**.
 
-This is why Book VI speaks in terms such as:
+This is why [Book VI]({{ '/publications/books/book-vi/' | relative_url }}) speaks in terms such as:
 - persistence,
 - agency,
 - source,
 - closure,
 - and the mixed consumer sector.
 
-The proposal is that life is not a brute accident imposed on an otherwise indifferent physical substrate. Rather, life becomes a structurally favored mode of organization once the framework is viewed at the next enrichment level. The life layer therefore does not identify individual biological tokens. It identifies the recurrent roles and forms around which living systems organize themselves.
+The proposal is that life is not a brute accident imposed on an otherwise indifferent physical substrate. Rather, life becomes a structurally favored mode of organization once the framework is viewed at the next [enrichment level]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}). The life layer therefore does not identify individual biological tokens. It identifies the recurrent roles and forms around which living systems organize themselves.
 
-This is also why the framework can speak of the “shape of life” without claiming that every contingent biological detail is fixed in advance. The point is not that every species or organism is uniquely predetermined. The point is that if life emerges, it is not shapeless. It tends toward stable roles, structural classes, and recurrent organizational distinctions.
+This is also why the framework can speak of the "shape of life" without claiming that every contingent biological detail is fixed in advance. The point is not that every species or organism is uniquely predetermined. The point is that if life emerges, it is not shapeless. It tends toward stable roles, structural classes, and recurrent organizational distinctions.
 
 That is the \(E_2\) claim. It is a claim about the architecture of life, not about specimen-level token fixation.
+
+*The next step, [From Life to Metaphysics: Reflective Structure at E3]({{ '/framework/about/from-life-to-metaphysics-reflective-structure-at-e3/' | relative_url }}), explores how the semantic target rises once more to reflective and normative architecture.*

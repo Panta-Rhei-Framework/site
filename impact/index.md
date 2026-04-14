@@ -28,7 +28,11 @@ right_rail:
 
 ## Public-Good Deployment Portfolios
 
-The Impact lane translates framework claims into conditional consequence portfolios. Each portfolio asks: **if the framework holds, what could change in this domain?**
+The Impact lane translates [framework claims]({{ '/framework/about/' | relative_url }}) into conditional consequence portfolios. Each portfolio asks: **if the framework holds, what could change in this domain?**
+
+The word *if* is load-bearing. The framework's [key results]({{ '/results/' | relative_url }}) carry explicit epistemic status labels — resolved, partial, qualitative, or contradicted — and only results that survive the [verification surfaces]({{ '/verify/' | relative_url }}) earn the right to generate downstream consequences. A conditional portfolio does not promise that a consequence will materialize. It maps what *would* follow if the underlying framework claims hold, so that domain experts can evaluate the conditional chain independently.
+
+This is the structure of honest public-good reasoning from an independent research program: trace the chain from [kernel]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }}) to consequence, type the assumptions at every step, and let the evidence decide.
 
 Every portfolio is:
 - **Assumption-led** — states what must hold before consequences follow

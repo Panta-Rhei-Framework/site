@@ -4,7 +4,7 @@ title: Scope, Status, and Scrutiny
 nav_order: 10
 lane: research-program
 section: about-the-research
-summary_short: A precise statement of the program’s current epistemic status, public
+summary_short: A precise statement of the program's current epistemic status, public
   release condition, and invitation to scrutiny.
 summary_cards:
 - title: Large scope
@@ -44,7 +44,7 @@ This page exists to hold those two truths together.
 
 ## Scope
 
-The program’s scope is large because its object is large. The central wager is not that one can solve one local puzzle, but that one coherent framework might support a full-stack model of reality.
+The program's scope is large because its object is large. The central wager is not that one can solve one local puzzle, but that one coherent framework might support a full-stack model of reality.
 
 That means the public release necessarily touches many domains and many questions. This should not be hidden.
 
@@ -83,12 +83,12 @@ The aim is to state the scope truthfully and the status carefully.
 
 A serious outsider is already able to inspect the program through multiple public surfaces:
 
-- the seven-book canonical release
-- the Atlas framework and results lanes
-- guided tours
+- the [seven-book canonical release]({{ '/publications/books/' | relative_url }})
+- the Atlas framework and [results]({{ '/results/' | relative_url }}) lanes
+- [guided tours]({{ '/publications/guided-tours/' | relative_url }})
 - public verification companions
-- TauLib
-- the registry and dashboard surfaces
+- [TauLib]({{ '/verify/taulib/' | relative_url }})
+- the [registry]({{ '/registry/' | relative_url }}) and dashboard surfaces
 - public assessment protocols
 
 This means the work is not waiting in total opacity for later institutional validation. It is already visible and answerable in public.
@@ -109,11 +109,11 @@ These are not embarrassments. They are part of the status of a living research p
 
 The right first question for an outsider is not:
 
-**“Should I already agree with this?”**
+**"Should I already agree with this?"**
 
 It is:
 
-**“Is this a serious research program that has earned structured engagement?”**
+**"Is this a serious research program that has earned structured engagement?"**
 
 That is a much better question.
 
@@ -147,7 +147,7 @@ The invitation of the program is simple:
 - verify
 - challenge
 - compare
-- and engage where your own expertise or judgment is strongest
+- and [engage]({{ '/engage/' | relative_url }}) where your own expertise or judgment is strongest
 
 That is what the public release is for.
 

@@ -42,7 +42,7 @@ the relevant chapter established that randomness in
 $τ$ arises from internal structural complexity. This chapter draws
 the complementary conclusion: there is no genuinely external source of
 randomness. The kernel is terminal; every admissible construction
-factors through it; there is no “outside” from which random input
+factors through it; there is no "outside" from which random input
 could be injected. What appears to be external randomness is always
 internal complexity that the observer cannot resolve. The classical
 debate between determinism and indeterminism is thereby dissolved: the

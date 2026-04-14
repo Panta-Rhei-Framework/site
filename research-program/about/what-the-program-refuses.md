@@ -63,9 +63,9 @@ But the program distinguishes sharply between:
 - approximation as tool
 - and approximation as final explanation
 
-If the question is “why this structure?” then a merely effective approximation cannot, by itself, count as an answer. At best it may be a partial route.
+If the question is "why this structure?" then a merely effective approximation cannot, by itself, count as an answer. At best it may be a partial route.
 
-This refusal is one of the reasons the program seeks a stronger foundational architecture rather than only a better fitted model.
+This refusal is one of the reasons the program seeks a stronger [foundational architecture]({{ '/framework/about/' | relative_url }}) rather than only a better fitted model.
 
 ## It refuses a permanent science–humanities ceasefire
 
@@ -73,7 +73,7 @@ The program does not accept that scientific reason, metaphysical reflection, eth
 
 This does not mean they collapse into one register. It means contradiction and non-communication are not treated as final virtues.
 
-Where overlap is real, coherence should be sought.
+Where overlap is real, coherence should be sought. The essay on [science, humanities, and coherence]({{ '/research-program/about/science-humanities-and-coherence/' | relative_url }}) develops this refusal at length.
 
 This refusal is one of the deepest motivations of the program.
 
@@ -96,4 +96,4 @@ They make the road to a viable framework much steeper.
 
 But they also explain why the program takes the shape it does.
 
-Without these refusals, there would be no real need for the architecture that follows.
+Without these refusals, there would be no real need for the [architecture that follows]({{ '/research-program/about/why-the-tau-framework/' | relative_url }}).

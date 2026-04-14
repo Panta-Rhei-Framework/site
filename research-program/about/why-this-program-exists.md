@@ -85,16 +85,16 @@ One must then ask:
 
 That is the beginning of the program.
 
-The answer cannot simply be “a bigger theory” in the ordinary sense. It must be a framework whose foundations are themselves disciplined enough to make global answerability at least possible in principle.
+The answer cannot simply be "a bigger theory" in the ordinary sense. It must be a framework whose foundations are themselves disciplined enough to make global answerability at least possible in principle.
 
-That is why the program turns so much attention to its kernel, its methods, and its refusal of certain familiar shortcuts.
+That is why the program turns so much attention to its kernel, its methods, and its [refusal of certain familiar shortcuts]({{ '/research-program/about/what-the-program-refuses/' | relative_url }}).
 
 ## A research program, not a protest
 
 The program is therefore not best understood as a rejection of modern science. It is better understood as an attempt to push some of its deepest questions further than the usual compartmentalized settlement allows.
 
 It asks whether reality may require:
-- stronger foundational discipline
+- stronger [foundational discipline]({{ '/research-program/about/foundational-discipline/' | relative_url }})
 - more internal coherence
 - more explicit constraint
 - and less tolerance for unresolved fragmentation
@@ -107,7 +107,7 @@ That is not anti-scientific. It is a wager on a stronger form of intelligibility
 
 The positive wager of the program is simple to state:
 
-**that there may exist a model of reality in which mathematics, physics, life, and metaphysics do not stand as permanently disconnected provinces, but as layers of one coherent structure.**
+**that there may exist a model of reality in which mathematics, physics, life, and metaphysics do not stand as permanently disconnected provinces, but as layers of one coherent structure.** The [Tau framework]({{ '/framework/about/' | relative_url }}) is the current attempt to realize that wager.
 
 That wager may fail. The world will decide that in time.
 

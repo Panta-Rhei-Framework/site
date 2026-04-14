@@ -35,7 +35,7 @@ This is not because the program wanted a framework with a distinctive name. It i
 
 ## A candidate kernel, not a decorative layer
 
-Tau is not presented as “one more formal language” among many. It is the current candidate foundation through which the program tests whether its strongest desiderata can be realized at all.
+Tau is not presented as "one more formal language" among many. It is the current candidate foundation through which the program tests whether its strongest [desiderata]({{ '/research-program/about/research-aim-and-desiderata/' | relative_url }}) can be realized at all.
 
 The key question is:
 
@@ -55,7 +55,7 @@ If, for example, a foundation gives up too early on:
 
 then later downstream claims about why this world or why these constants become harder to sustain.
 
-The Tau framework is the program’s attempt to begin from a stronger and more answerable place.
+The Tau framework is the program's attempt to begin from a stronger and more answerable place.
 
 ## What Tau is meant to satisfy
 
@@ -77,10 +77,10 @@ Tau is not publicly available only as abstract formalism.
 
 Its current public surfaces are:
 
-- the **books**, which provide the canonical narrative and argumentative release
-- **TauLib**, which exposes the formal layer in Lean 4
+- the [**books**]({{ '/publications/books/' | relative_url }}), which provide the canonical narrative and argumentative release
+- [**TauLib**]({{ '/verify/taulib/' | relative_url }}), which exposes the formal layer in Lean 4
 - the **Atlas**, which provides navigable and inspectable access to the architecture
-- guided tours and verification companions, which lower the threshold for entry into the structure
+- [guided tours]({{ '/publications/guided-tours/' | relative_url }}) and verification companions, which lower the threshold for entry into the structure
 
 Together, these allow the framework to be approached from multiple directions without changing what it is.
 
@@ -91,4 +91,4 @@ This page exists to make one thing clear:
 The Tau framework is not arbitrary. It is the current technical expression of the deepest methodological wager of the research program.
 
 If the program had weaker goals, Tau would not be necessary.  
-If the program’s goals remain serious, then something like Tau — or something better than Tau — is the kind of kernel the program must attempt.
+If the program's goals remain serious, then something like Tau — or something better than Tau — is the kind of kernel the program must attempt.

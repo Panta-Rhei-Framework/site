@@ -54,8 +54,8 @@ $Set \colon \Obj(τ) → P(\Obj(τ))$
 that assigns to every $τ$-element
 a structurally determined set.
 The resulting correspondence is injective,
-partitions $τ$ into “opaque” (self-containing)
-and “transparent” (organizing) elements,
+partitions $τ$ into "opaque" (self-containing)
+and "transparent" (organizing) elements,
 and reveals that the boundary between finite
 and infinite sets coincides exactly
 with the radial-solenoidal divide.

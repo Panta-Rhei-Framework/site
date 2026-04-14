@@ -28,7 +28,7 @@ right_rail:
 
 ## The question
 
-Why should a single number govern all of physics? This is not a rhetorical question. It is the structural claim at the heart of the Panta Rhei framework, and it requires justification.
+Why should a single number govern all of physics? This is not a rhetorical question. It is the structural claim at the heart of the Panta Rhei [framework]({{ '/framework/about/' | relative_url }}), and it requires justification.
 
 The master constant of Category &tau; is &iota;<sub>&tau;</sub> = 2/(&pi; + e) = 0.341304238875. From this single value, the framework derives coupling constants, mass ratios, cosmological parameters, and the genetic code optimality bound. No free parameters are introduced at any stage.
 
@@ -42,10 +42,10 @@ The key insight is that the master constant is not a *choice*. It is the unique 
 
 If &iota;<sub>&tau;</sub> governs all quantitative predictions, then any single prediction that deviates from observation by more than the framework's stated precision tolerance falsifies the entire chain. This is not a weakness. It is the strongest possible falsifiability posture: one constant, one chance to be wrong.
 
-The decisive near-term test is the CMB-S4 measurement of the tensor-to-scalar ratio *r*. The framework predicts *r* from &iota;<sub>&tau;</sub><sup>4</sup>. If CMB-S4 reports a value inconsistent with this prediction, the cosmological sector of the framework fails.
+The decisive near-term test is the CMB-S4 measurement of the [tensor-to-scalar ratio]({{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}) *r*. The framework predicts *r* from &iota;<sub>&tau;</sub><sup>4</sup>. If CMB-S4 reports a value inconsistent with this prediction, the cosmological sector of the framework fails.
 
 ## The philosophical consequence
 
 A framework with zero free parameters cannot be tuned. It cannot retreat to "well, if we adjust this parameter..." It either holds or it does not. This is what the program means by *earned* physics: every prediction is a structural consequence of the kernel, not an accommodation of data.
 
-This is also why the scope labels matter. Not every claim is at the same epistemic level. Some are *tau-effective* (derived from the framework with explicit precision bounds). Some are *conjectural* (structurally motivated but not yet fully derived). The program's discipline is to type these claims honestly and let the evidence decide.
+This is also why the [scope labels]({{ '/results/status-and-claim-typing/' | relative_url }}) matter. Not every claim is at the same epistemic level. Some are *tau-effective* (derived from the framework with explicit precision bounds). Some are *conjectural* (structurally motivated but not yet fully derived). The program's discipline is to type these claims honestly and let the evidence decide.

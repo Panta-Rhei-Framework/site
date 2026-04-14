@@ -47,7 +47,7 @@ two invisible ingredients:
 dark matter and dark energy.
 
 The arc of Part V is a scaling ladder.
-**Chapter 34** dissolves the “classical illusion”:
+**Chapter 34** dissolves the "classical illusion":
 the impression that Newtonian mechanics
 is a fundamental large-scale law
 rather than a coarse-grained readout

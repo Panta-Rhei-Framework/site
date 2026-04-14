@@ -10,7 +10,7 @@ part_number: 0
 part_display: "Prologue"
 part_slug: "part-00-the-hermetic-principle"
 chapter_count: 1
-summary_short: “Book IV completed the fiber. The torus T², spanned by the generators γ, η, and ω, now holds everything microscopic. Book V earns the base.”
+summary_short: "Book IV completed the fiber. The torus T², spanned by the generators γ, η, and ω, now holds everything microscopic. Book V earns the base."
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-> *”The way up and the way down are one and the same.”*
+> *"The way up and the way down are one and the same."*
 > — Heraclitus, Fragment 60
 
 Book IV completed the fiber.

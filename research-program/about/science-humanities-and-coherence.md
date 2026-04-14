@@ -62,7 +62,7 @@ This is why the program reaches beyond physics. It is not because it wishes to i
 
 ## Not against science, not against the humanities
 
-This page does not set “science” and “the humanities” in opposition. Nor does it claim that one must dominate the other.
+This page does not set "science" and "the humanities" in opposition. Nor does it claim that one must dominate the other.
 
 Instead, it asks whether modern culture has too quickly accepted a divided-house settlement in which:
 - science owns explanation,
@@ -75,7 +75,7 @@ Panta Rhei tests whether that settlement is final.
 
 This is one reason the site itself has to be structured as a research-program site rather than only a scientific book catalogue.
 
-The program’s public surfaces must make room for:
+The program's public surfaces must make room for:
 - technical inspection
 - scientific challenge
 - philosophical articulation
@@ -83,7 +83,7 @@ The program’s public surfaces must make room for:
 
 without collapsing them into one undifferentiated page.
 
-That is why the later framework lanes matter so much. The site must be able to show not only scientific content, but how the architecture attempts to carry coherence across different levels of reality and thought.
+That is why the later [framework lanes]({{ '/framework/about/' | relative_url }}) matter so much. The site must be able to show not only scientific content, but how the architecture attempts to carry coherence across different levels of reality and thought.
 
 ## The wager
 
@@ -91,6 +91,6 @@ The wager is simple to state and difficult to realize:
 
 **that one can seek a world-picture in which scientific intelligibility and existential inhabitation are not permanently at war.**
 
-Whether Panta Rhei succeeds in that remains open to scrutiny.
+Whether Panta Rhei succeeds in that remains [open to scrutiny]({{ '/research-program/about/scope-status-and-scrutiny/' | relative_url }}).
 
-But the refusal to accept fragmentation as a final virtue is one of the deepest reasons the program exists.
+But the refusal to accept fragmentation as a final virtue is one of the deepest reasons [the program exists]({{ '/research-program/about/why-this-program-exists/' | relative_url }}).

@@ -49,7 +49,7 @@ with composition defined by concatenation and normalization.
 Composition associativity is a *theorem*, not an axiom —
 proved via the NF-Confluence Lemma.
 Three levels of sameness (ontic identity, address equivalence,
-shadow equality) replace the single primitive “$=$”
+shadow equality) replace the single primitive "$=$"
 with a principled hierarchy.
 The denotational order extends $K1$ to all of $\Obj(τ)$,
 completing the well-ordered structure.

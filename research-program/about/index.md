@@ -54,7 +54,7 @@ These are not separate projects. They are different public surfaces of the same 
 
 ## What the program is
 
-Panta Rhei should not be understood primarily as “seven books” or “a framework” in isolation. The seven books are the current **canonical monograph release** of the program. TauLib is the current **formal verification substrate** of the program. The Atlas is the current **public navigation and inspection surface** of the program.
+Panta Rhei should not be understood primarily as "seven books" or "a framework" in isolation. The seven books are the current **canonical monograph release** of the program. TauLib is the current **formal verification substrate** of the program. The Atlas is the current **public navigation and inspection surface** of the program.
 
 The research program itself is the larger object. It is the continuing attempt to develop, articulate, formalize, test, and expose a coherence-first model of reality to public scrutiny.
 
@@ -91,11 +91,11 @@ The program does not ask for instant agreement. It asks for the right kind of en
 
 The first serious question is not:
 
-**“Should I already believe this?”**
+**"Should I already believe this?"**
 
 The first serious question is:
 
-**“Is this a serious research program that has earned structured engagement?”**
+**"Is this a serious research program that has earned structured engagement?"**
 
 That engagement may take many forms:
 
@@ -104,7 +104,7 @@ That engagement may take many forms:
 - inspecting the formalization
 - attacking the strongest hinges
 - checking the bridge claims
-- comparing its claims against frontier work in one’s own field
+- comparing its claims against frontier work in one's own field
 - helping clarify, correct, or refute parts of the program
 
 All of these are legitimate forms of entry.
