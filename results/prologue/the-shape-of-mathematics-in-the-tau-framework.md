@@ -35,7 +35,7 @@ The Panta Rhei program's answer is strong and unusual. Tau is not presented as a
 
 The first thing to make explicit is that Tau does not differ from familiar foundations merely by choosing some unusual statements as axioms. The divergence begins earlier, at the level of what counts as an admissible move.
 
-The framework refuses unrestricted diagonal reuse. It binds itself to a constructive, finitistic, and [resource-sensitive discipline]({{ '/framework/mathematics-linear-logic/' | relative_url }}). In this sense, the shift is already deeper than the ordinary contrast between two axiom systems inside a shared background logic. It reaches into the admissible calculus itself.
+The framework refuses unrestricted diagonal reuse. It binds itself to a constructive, finite-recursive, and [resource-sensitive discipline]({{ '/framework/mathematics-linear-logic/' | relative_url }}). In this sense, the shift is already deeper than the ordinary contrast between two axiom systems inside a shared background logic. It reaches into the admissible calculus itself.
 
 That is why the resulting world may at first look "mostly familiar" from a distance and yet differ more radically than many readers expect. It is not just "classical mathematics plus a few corrections." It is a world built under a different regime of admissibility.
 
