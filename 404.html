@@ -1,0 +1,35 @@
+---
+layout: default
+title: "Page Not Found"
+permalink: /404.html
+right_rail:
+  toc: false
+  related:
+    - title: "Homepage"
+      url: /
+    - title: "Framework"
+      url: /framework/about/
+    - title: "Key Results"
+      url: /results/
+    - title: "Publications"
+      url: /publications/
+  meta:
+    type: "Error"
+    status: "404"
+---
+
+<div class="content-card">
+  <h2>Page not found</h2>
+  <p>The page you requested does not exist at this address. It may have moved, or the URL may contain a typo.</p>
+
+  <h3>Where to go from here</h3>
+  <ul>
+    <li><a href="{{ '/' | relative_url }}"><strong>Homepage</strong></a> — start from the beginning</li>
+    <li><a href="{{ '/framework/about/' | relative_url }}"><strong>Framework</strong></a> — explore the Tau framework</li>
+    <li><a href="{{ '/results/' | relative_url }}"><strong>Key Results</strong></a> — browse the program's claims</li>
+    <li><a href="{{ '/publications/' | relative_url }}"><strong>Publications</strong></a> — find the canonical books</li>
+    <li><a href="{{ '/engage/media-and-contact/' | relative_url }}"><strong>Contact</strong></a> — report a broken link</li>
+  </ul>
+
+  <p>You can also use the <strong>search</strong> (press <kbd>/</kbd> or <kbd>Ctrl+K</kbd>) to find what you are looking for.</p>
+</div>

@@ -1,9 +1,9 @@
-<aside class="right-rail">
+<aside class="right-rail" aria-label="Page navigation">
   {% if page.right_rail.toc != false %}
   {% assign toc_parts = content | split: '<h2' %}
   {% if toc_parts.size > 1 %}
   <div class="toc-title">On this page</div>
-  <nav class="toc" id="toc">
+  <nav class="toc" id="toc" aria-label="On this page">
     {% for part in toc_parts offset:1 %}
     {% assign heading_raw = part | split: '</h2>' | first %}
     {% assign heading_text = heading_raw | split: '>' | last | strip_html | strip %}

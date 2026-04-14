@@ -48,6 +48,7 @@ $transition:    140ms ease;
 
 // Z-index layers
 $z-drawer:        50;
+$z-header:        $z-drawer + 5;
 
 // Breakpoints
 $bp-narrow-rails: 1240px;

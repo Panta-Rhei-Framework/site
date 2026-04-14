@@ -3,6 +3,15 @@ description: "Public research observatory for the Panta Rhei framework — mathe
 url: "https://panta-rhei.site"
 baseurl: ""
 
+# Social / SEO metadata
+image: /assets/og-image.png
+author:
+  name: "Thorsten Fuchs & Anna-Sophie Fuchs"
+social:
+  name: "Panta Rhei Research Program"
+  links:
+    - "https://github.com/Panta-Rhei-Framework/taulib"
+
 permalink: pretty
 
 # Buttondown newsletter integration
@@ -41,6 +50,7 @@ sass:
 
 plugins:
   - jekyll-seo-tag
+  - jekyll-sitemap
 
 exclude:
   - Gemfile
