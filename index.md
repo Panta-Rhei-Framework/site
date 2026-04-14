@@ -22,10 +22,10 @@ right_rail:
       url: /media/
   artifacts:
     - title: "TauLib"
-      url: "https://github.com/Panta-Rhei-Framework/taulib"
+      url: "https://github.com/Panta-Rhei-Research/taulib"
       external: true
     - title: "Frozen Verification"
-      url: "https://github.com/Panta-Rhei-Framework/formalization"
+      url: "https://github.com/Panta-Rhei-Research/formalization"
       external: true
   meta:
     type: "Landing"

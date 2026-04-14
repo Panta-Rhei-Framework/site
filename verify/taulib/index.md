@@ -21,10 +21,10 @@ right_rail:
     url: /verify/taulib/status/
   artifacts:
   - title: TauLib (contributor)
-    url: https://github.com/Panta-Rhei-Framework/taulib
+    url: https://github.com/Panta-Rhei-Research/taulib
     external: true
   - title: Formalization (frozen)
-    url: https://github.com/Panta-Rhei-Framework/formalization
+    url: https://github.com/Panta-Rhei-Research/formalization
     external: true
   meta:
     type: "Documentation Root"
@@ -38,7 +38,7 @@ TauLib is the **Lean 4 formalization library** for the Panta Rhei Research Progr
 
 **Clone and build:**
 ```bash
-git clone https://github.com/Panta-Rhei-Framework/taulib
+git clone https://github.com/Panta-Rhei-Research/taulib
 cd taulib && lake build
 ```
 
@@ -77,11 +77,11 @@ Each TauLib module corresponds to a specific chapter or section in the monograph
 - [Glossary]({{ '/verify/taulib/glossary/' | relative_url }}) — Technical terms and conventions
 
 ### Interactive Tours
-- [VerifyItYourself](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean) — 5 claims, verified live
-- [Foundations](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Foundations.lean) — Axioms and rigidity
-- [CentralTheorem](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/CentralTheorem.lean) — O(τ³) ≅ A_spec(L)
-- [Physics](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Physics.lean) — 9 electroweak predictions
+- [VerifyItYourself](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean) — 5 claims, verified live
+- [Foundations](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Foundations.lean) — Axioms and rigidity
+- [CentralTheorem](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/CentralTheorem.lean) — O(τ³) ≅ A_spec(L)
+- [Physics](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Physics.lean) — 9 electroweak predictions
 
 ### Repositories
-- [TauLib (contributor)](https://github.com/Panta-Rhei-Framework/taulib) — Active development
-- [Formalization (frozen)](https://github.com/Panta-Rhei-Framework/formalization) — Frozen verification snapshot
+- [TauLib (contributor)](https://github.com/Panta-Rhei-Research/taulib) — Active development
+- [Formalization (frozen)](https://github.com/Panta-Rhei-Research/formalization) — Frozen verification snapshot

@@ -54,7 +54,7 @@ To cite the research program as a whole rather than an individual book:
 
 ## Citing the Formalization
 
-> Fuchs, T. & Fuchs, A.-S. (2026). *TauLib: Lean 4 Formalization Library for Category τ*. [https://github.com/Panta-Rhei-Framework/taulib](https://github.com/Panta-Rhei-Framework/taulib)
+> Fuchs, T. & Fuchs, A.-S. (2026). *TauLib: Lean 4 Formalization Library for Category τ*. [https://github.com/Panta-Rhei-Research/taulib](https://github.com/Panta-Rhei-Research/taulib)
 
 For more on TauLib and what the [formalization]({{ '/verify/taulib/' | relative_url }}) covers, see the Verify lane.
 

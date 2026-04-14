@@ -21,7 +21,7 @@ right_rail:
     url: /verify/taulib/status/
   artifacts:
   - title: TauLib Repository
-    url: https://github.com/Panta-Rhei-Framework/taulib
+    url: https://github.com/Panta-Rhei-Research/taulib
     external: true
   meta:
     type: "API Index"
