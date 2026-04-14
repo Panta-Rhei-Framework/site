@@ -21,10 +21,10 @@ right_rail:
     url: /research-program/about/
   artifacts:
   - title: TauLib (contributor)
-    url: https://github.com/Panta-Rhei-Framework/taulib
+    url: https://github.com/Panta-Rhei-Research/taulib
     external: true
   - title: Formalization (frozen)
-    url: https://github.com/Panta-Rhei-Framework/formalization
+    url: https://github.com/Panta-Rhei-Research/formalization
     external: true
   meta:
     type: "Review Kit"
@@ -51,14 +51,14 @@ The [books]({{ '/publications/books/' | relative_url }}) are the canonical monog
 2. [Book II: Categorical Holomorphy]({{ '/publications/books/book-ii/' | relative_url }})
 {% assign math_results = site.data.results.results | where: "topic", "mathematics" %}3. [Results by Domain: Mathematics]({{ '/results/topic/mathematics/' | relative_url }}) ({{ math_results | size }} results)
 4. [Registry — Book I]({{ '/registry/books/book-i/' | relative_url }})
-5. [Guided Tours — Foundations](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Foundations.lean)
+5. [Guided Tours — Foundations](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Foundations.lean)
 
 ### Physics-first path
 1. [Book III: Categorical Spectrum]({{ '/publications/books/book-iii/' | relative_url }}) (the hinge)
 2. [Book IV: Categorical Microcosm]({{ '/publications/books/book-iv/' | relative_url }})
 3. [Book V: Categorical Macrocosm]({{ '/publications/books/book-v/' | relative_url }})
 {% assign phys_results = site.data.results.results | where: "topic", "physics" %}4. [Results by Domain: Physics]({{ '/results/topic/physics/' | relative_url }}) ({{ phys_results | size }} results)
-5. [Guided Tours — Physics](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/Physics.lean)
+5. [Guided Tours — Physics](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Physics.lean)
 
 ### Life and metaphysics path
 1. [Book VI: Categorical Life]({{ '/publications/books/book-vi/' | relative_url }})
@@ -68,8 +68,8 @@ The [books]({{ '/publications/books/' | relative_url }}) are the canonical monog
 
 ### Formal verification path
 1. [Verify]({{ '/verify/' | relative_url }})
-2. [TauLib repository](https://github.com/Panta-Rhei-Framework/taulib) — clone and run `lake build`
-3. [Guided Tours — VerifyItYourself](https://github.com/Panta-Rhei-Framework/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean)
+2. [TauLib repository](https://github.com/Panta-Rhei-Research/taulib) — clone and run `lake build`
+3. [Guided Tours — VerifyItYourself](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/VerifyItYourself.lean)
 {% assign reg_count = site.data.registry.objects | size %}4. [Registry]({{ '/registry/' | relative_url }}) — {{ reg_count }} objects with dependency graphs
 
 ## Suggested Starter Packet

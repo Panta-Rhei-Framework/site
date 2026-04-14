@@ -42,7 +42,7 @@ Notes are published irregularly and only when there is something substantial to 
 
 ## Other ways to follow
 
-**GitHub**: Watch the [TauLib repository](https://github.com/Panta-Rhei-Framework/taulib) for formalization updates.
+**GitHub**: Watch the [TauLib repository](https://github.com/Panta-Rhei-Research/taulib) for formalization updates.
 
 **Research Notes**: Browse all published notes at [/research-notes/]({{ '/research-notes/' | relative_url }}).
 

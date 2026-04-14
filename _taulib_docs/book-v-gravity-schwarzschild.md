@@ -14,7 +14,7 @@ right_rail:
     url: /verify/taulib/architecture/
   artifacts:
   - title: Source on GitHub
-    url: https://github.com/Panta-Rhei-Framework/taulib
+    url: https://github.com/Panta-Rhei-Research/taulib
     external: true
   meta:
     type: "API Documentation"

@@ -21,10 +21,10 @@ right_rail:
       url: /registry/
   artifacts:
     - title: "TauLib (active)"
-      url: "https://github.com/Panta-Rhei-Framework/taulib"
+      url: "https://github.com/Panta-Rhei-Research/taulib"
       external: true
     - title: "TauLib (frozen)"
-      url: "https://github.com/Panta-Rhei-Framework/formalization"
+      url: "https://github.com/Panta-Rhei-Research/formalization"
       external: true
   meta:
     type: "Lane Root"
@@ -54,7 +54,7 @@ The Panta Rhei Research Program distinguishes sharply between what can be formal
 
 | Route | What it checks | Where |
 |-------|---------------|-------|
-| **TauLib build** | All 4,332 theorems compile | [github.com/Panta-Rhei-Framework/taulib](https://github.com/Panta-Rhei-Framework/taulib) |
+| **TauLib build** | All 4,332 theorems compile | [github.com/Panta-Rhei-Research/taulib](https://github.com/Panta-Rhei-Research/taulib) |
 | **Guided tours** | 8 interactive walkthroughs | `Tour/*.lean` in TauLib |
 | **Hinge companions** | 49 structural hinges mapped to Lean | `Tour/GuidedTour/Book*.lean` in TauLib |
 | **Falsification pack** | 220+ quantitative predictions | Book V, Chapter 56 |

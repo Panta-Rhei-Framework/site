@@ -43,7 +43,7 @@ Available as hardcover, paperback, and Kindle on Amazon KDP.
 
 Stay connected to the program's development:
 - [Follow the Research]({{ '/engage/follow-the-research/' | relative_url }}) for email updates
-- Watch the [TauLib repository](https://github.com/Panta-Rhei-Framework/taulib) on GitHub
+- Watch the [TauLib repository](https://github.com/Panta-Rhei-Research/taulib) on GitHub
 - Bookmark this Atlas for new content
 
 ## 3. Share with Domain Experts

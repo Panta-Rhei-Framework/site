@@ -176,7 +176,7 @@ utility_nav:
   - title: "Review Kit"
     url: "/media/review-kit/"
   - title: "Repository"
-    url: "https://github.com/Panta-Rhei-Framework/taulib"
+    url: "https://github.com/Panta-Rhei-Research/taulib"
     external: true
   - title: "Contact"
     url: "/engage/media-and-contact/"

@@ -33,7 +33,7 @@ right_rail:
   - title: Registry Dashboard
     url: /registry/dashboards/book-v/
   - title: TauLib (frozen)
-    url: https://github.com/Panta-Rhei-Framework/formalization
+    url: https://github.com/Panta-Rhei-Research/formalization
     external: true
   meta:
     type: Canonical Book
@@ -109,4 +109,4 @@ that connects them.
 
 - **Registry**: [58 chapters mapped to registry objects]({{ '/registry/books/book-v/' | relative_url }})
 - **Dashboard**: [Formalization status and dependency graph]({{ '/registry/dashboards/book-v/' | relative_url }})
-- **Formalization**: [TauLib BookV](https://github.com/Panta-Rhei-Framework/formalization) — Lean 4 verification
+- **Formalization**: [TauLib BookV](https://github.com/Panta-Rhei-Research/formalization) — Lean 4 verification
