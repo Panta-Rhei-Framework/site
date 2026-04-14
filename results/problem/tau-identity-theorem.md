@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-I.T21 (Tau-Identity Theorem) proves that if two τ-holomorphic functions f and g agree on any single depth stratum of τ³, they agree on all of τ³. This is the τ-analogue of the classical identity theorem for holomorphic functions (agreement on an open set implies agreement everywhere). The result is foundational for proving uniqueness statements throughout the series.
+I.T21 (Tau-Identity Theorem) proves that if two [τ-holomorphic functions]({{ '/framework/mathematics-split-complex-holomorphy/' | relative_url }}) f and g agree on any single depth stratum of τ³, they agree on all of τ³. This is the τ-analogue of the classical identity theorem for holomorphic functions (agreement on an open set implies agreement everywhere). The result is foundational for proving uniqueness statements throughout the series.
 
 ## Detail
 

@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-V.P136 derives r = ι_τ⁴ = 0.0136 as the tensor-to-scalar ratio for primordial gravitational waves in the τ-cosmological model. This follows from the inflationary No-Go theorem (no sixth sector, no inflaton field) combined with boundary holonomy structure. The prediction is ~14σ above the current observational upper bound r < 0.036 (BK18), making it a decisive falsifiable test for CMB-S4.
+V.P136 derives r = ι_τ⁴ = 0.0136 as the tensor-to-scalar ratio for primordial gravitational waves in the τ-cosmological model. This follows from the inflationary No-Go theorem (no sixth sector, no inflaton field) combined with boundary holonomy structure. The prediction is ~14σ above the current observational upper bound r < 0.036 (BK18), making it a decisive [falsifiable test]({{ '/framework/physics-falsification-predictions/' | relative_url }}) for CMB-S4.
 
 ## Detail
 

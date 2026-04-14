@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-VII.T06 (Saturation Theorem) proves that Enrich(E₃) = E₃ — the E₃ enrichment level is saturated, meaning no further enrichment is possible. Three independent structural blockages prevent E₄: (1) No-New-Lobe: five generators produce exactly four ρ-orbits, all occupied; (2) No-New-Crossing-Mediator: S_L is the unique mixed sector; (3) Carrier Closure: SelfDesc³ = SelfDesc². The Canonical Ladder E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is therefore the complete enrichment sequence.
+VII.T06 (Saturation Theorem) proves that Enrich(E₃) = E₃ — the E₃ enrichment level is saturated, meaning no further enrichment is possible. Three independent structural blockages prevent E₄: (1) No-New-Lobe: five generators produce exactly four ρ-orbits, all occupied; (2) No-New-Crossing-Mediator: S_L is the unique mixed sector; (3) Carrier Closure: SelfDesc³ = SelfDesc². The [Canonical Ladder]({{ '/framework/mathematics-canonical-ladder/' | relative_url }}) E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is therefore the complete enrichment sequence.
 
 ## Detail
 

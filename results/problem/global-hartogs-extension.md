@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-I.T31 (Global Hartogs Extension Theorem) proves that any τ-holomorphic function defined on the lemniscate boundary L = S¹ ∨ S¹ extends uniquely to a τ-holomorphic function on all of τ³. This is the climax of Book I: the foundational result that shows the boundary encodes the interior, preparing for the Central Theorem (II.T40) in Book II.
+I.T31 (Global Hartogs Extension Theorem) proves that any τ-holomorphic function defined on the lemniscate boundary L = S¹ ∨ S¹ extends uniquely to a τ-holomorphic function on all of τ³. This is the climax of [Book I]({{ '/publications/books/book-i/' | relative_url }}): the foundational result that shows the boundary encodes the interior, preparing for the [Central Theorem]({{ '/results/problem/central-theorem/' | relative_url }}) (II.T40) in Book II.
 
 ## Detail
 

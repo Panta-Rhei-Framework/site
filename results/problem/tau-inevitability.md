@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-VII.T14 proves that six ontic requirements OR1–OR6 jointly force K0–K6 and the five generators. Each requirement is independently necessary (six counterexamples prove independence): OR1 (unity), OR2 (distinctness), OR3 (relation), OR4 (change), OR5 (limit), OR6 (self-reference). No proper subset of OR1–OR6 forces the complete kernel — each requirement removes exactly one axiom if omitted. The τ-kernel is not chosen but forced.
+VII.T14 proves that six ontic requirements OR1–OR6 jointly force [K0–K6 and the five generators]({{ '/framework/mathematics-coherence-kernel/' | relative_url }}). Each requirement is independently necessary (six counterexamples prove independence): OR1 (unity), OR2 (distinctness), OR3 (relation), OR4 (change), OR5 (limit), OR6 (self-reference). No proper subset of OR1–OR6 forces the complete kernel — each requirement removes exactly one axiom if omitted. The τ-kernel is not chosen but forced.
 
 ## Detail
 

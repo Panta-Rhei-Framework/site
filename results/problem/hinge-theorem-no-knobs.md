@@ -27,7 +27,7 @@ right_rail:
 
 ## Overview
 
-The Hinge Theorem (III.T41) proves that Books IV–VII are sector instantiations of the 4+1 sector template derived in Book III: the four primitive sectors (D=gravity, A=weak, B=EM, C=strong) plus one derived sector (ω=Higgs) generate all physical content. The No Knobs Theorem (III.T42) proves that all 10 inter-sector couplings are rational functions of ι_τ = 2/(π+e) — zero free parameters. Together these two theorems are the structural explanation for why physics books exist and why their predictions are testable without tuning.
+The Hinge Theorem (III.T41) proves that Books IV–VII are sector instantiations of the 4+1 [sector template]({{ '/framework/mathematics-sector-template/' | relative_url }}) derived in Book III: the four primitive sectors (D=gravity, A=weak, B=EM, C=strong) plus one derived sector (ω=Higgs) generate all physical content. The No Knobs Theorem (III.T42) proves that all 10 inter-sector couplings are rational functions of ι_τ = 2/(π+e) — zero free parameters. Together these two theorems are the structural explanation for why physics books exist and why their predictions are testable without tuning.
 
 ## Detail
 

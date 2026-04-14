@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-The Canonical Ladder Theorem (III.T04) proves that E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal enrichment chain for Category τ. Each layer is non-empty, strict, and canonical. The Saturation Theorem (VII.T06) proves that Enrich(E₃) = E₃, so there is no E₄. This structural result explains why the series has exactly seven books distributed as 3 (mathematics) + 2 (physics) + 1 (life) + 1 (metaphysics).
+The Canonical Ladder Theorem (III.T04) proves that E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal enrichment chain for Category τ. Each layer is non-empty, strict, and canonical. The [Saturation Theorem]({{ '/results/problem/saturation-theorem-no-e4/' | relative_url }}) (VII.T06) proves that Enrich(E₃) = E₃, so there is no E₄. This structural result explains why the series has exactly seven books distributed as 3 (mathematics) + 2 (physics) + 1 (life) + 1 (metaphysics).
 
 ## Detail
 

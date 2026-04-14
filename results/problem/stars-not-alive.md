@@ -26,7 +26,7 @@ right_rail:
 
 ## Overview
 
-VI.T34 places stars in the 2×2 Distinction/SelfDesc classification matrix at Quadrant III: Distinction yes, SelfDesc no. Stars satisfy D1–D5 (they have boundary, energy gradient, coupling, history, multiplicity) but fail S1–S3 (no internal model of self, no self-repair, no replication). Stars are not alive. This is a sharp categorical prediction that distinguishes the framework from any complexity-based or energy-flow-based definition of life.
+VI.T34 places stars in the 2×2 [Distinction/SelfDesc]({{ '/framework/life-life-defined/' | relative_url }}) classification matrix at Quadrant III: Distinction yes, SelfDesc no. Stars satisfy D1–D5 (they have boundary, energy gradient, coupling, history, multiplicity) but fail S1–S3 (no internal model of self, no self-repair, no replication). Stars are not alive. This is a sharp categorical prediction that distinguishes the framework from any complexity-based or energy-flow-based definition of life.
 
 ## Detail
 
