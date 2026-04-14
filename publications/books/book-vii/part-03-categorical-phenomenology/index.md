@@ -39,7 +39,7 @@ The epistemology/ontology distinction dissolves: knowing and being are the same 
 structure viewed from different angles. Husserl and Merleau-Ponty meet category theory.
 Together with Part II, the empirical sector $S_E$ covers what classical philosophy calls
 ontology and epistemology—the two domains governed by the register question
-“what do I observe?”
+"what do I observe?"
 
 ## Chapters
 

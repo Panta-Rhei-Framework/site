@@ -32,21 +32,25 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 5 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [From Mathematical Structure to Category and Logic]({{ '/framework/about/from-mathematical-structure-to-category-and-logic/' | relative_url }}).*
+
 One of the most distinctive moves in the framework is that it does not begin from a primitive continuum and then ask how structure lives inside it. It proceeds in the opposite direction. It seeks to earn continuity, interiority, and geometrical readout from prior structural resources.
 
 This is why the boundary matters so much.
 
-In ordinary intuition, boundary and interior are often treated as if the interior is primary and the boundary is derivative. But the Tau framework proposes a different order of dependence. The program claims that certain boundary structures carry the decisive information by which interiority becomes readable and stable. That is one reason the language of omega, the lemniscate, and boundary algebra matters so much in the books.
+In ordinary intuition, boundary and interior are often treated as if the interior is primary and the boundary is derivative. But the Tau framework proposes a different order of dependence. The program claims that certain boundary structures carry the decisive information by which interiority becomes readable and stable. That is one reason the language of omega, the lemniscate, and boundary algebra matters so much in [the books]({{ '/publications/books/' | relative_url }}).
 
 The point is not simply that a nice geometric picture appears. The point is that the framework now becomes capable of an earned distinction between:
 - boundary and interior,
 - finite and infinite readout,
 - symbolic discipline and geometrical expression.
 
-This is also the stage at which the program claims that objects such as constructive reals, complex structure, and related higher mathematical resources can be treated as outcomes of the framework’s build-up rather than as primitive givens. That does not mean these objects are trivial to derive. It means the framework does not want to pay for them twice: once at the foundation, and then again in the explanation.
+This is also the stage at which the program claims that objects such as constructive reals, complex structure, and related higher mathematical resources can be treated as outcomes of the framework's build-up rather than as primitive givens. That does not mean these objects are trivial to derive. It means the framework does not want to pay for them twice: once at the foundation, and then again in the explanation.
 
 The importance of this stage for later physics cannot be overstated. If the program began from an already assumed continuum, many of its strongest later claims would lose much of their force. The whole point is that the framework becomes capable of continuity-like, geometrical, and interior readouts **without** beginning there.
 
-That is why “readout” is such an important word. The framework is not merely inventing a geometry. It is claiming that a richer mathematical world can be read out from a prior and more constrained structural base.
+That is why "readout" is such an important word. The framework is not merely inventing a geometry. It is claiming that a richer mathematical world can be read out from a prior and more constrained structural base.
 
-This closes the first great mathematical arc of the program. The framework is now no longer only a symbolic and categorical construction. It is a boundary-bearing, interior-bearing, geometrically expressive structure. It is therefore ready for the next decisive question: how does such a framework enrich over itself, and why does that enrichment stabilize after exactly four layers?
+This closes the first great mathematical arc of the program. The framework is now no longer only a symbolic and categorical construction. It is a boundary-bearing, interior-bearing, geometrically expressive structure. It is therefore ready for the next decisive question: how does such a framework enrich over itself, and why does that [enrichment]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}) stabilize after exactly four layers?
+
+*The next step, [Self-Enrichment and the Four Layers]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}), explores how the framework enriches over itself and generates the four-layer architecture.*

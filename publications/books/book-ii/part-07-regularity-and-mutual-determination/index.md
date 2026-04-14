@@ -52,7 +52,7 @@ the relevant chapter shifts from negative regularity
 (absence of singularity) to positive regularity
 (existence of stabilized $ω$-germ).
 A map is regular if and only if it has a canonical extension to the interior.
-No “removable singularity” pathology: either regular or genuinely singular.
+No "removable singularity" pathology: either regular or genuinely singular.
 
 the relevant chapter shows the embedding $Hol_τ \hookrightarrow d(τ^3)$:
 holomorphic functions are both transformers *and* germs.

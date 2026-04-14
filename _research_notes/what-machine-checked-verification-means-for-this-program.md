@@ -28,7 +28,7 @@ right_rail:
 
 ## The formalization
 
-TauLib is the Lean 4 formalization library for Category &tau;. It currently comprises 450 modules, 125,771 lines of code, and 4,332 machine-checked theorems across six of the seven books (Books I through VI have 0 sorry; Book VII retains 3 intentional methodological sorry).
+[TauLib]({{ '/verify/taulib/' | relative_url }}) is the Lean 4 formalization library for Category &tau;. It currently comprises 450 modules, 125,771 lines of code, and 4,332 machine-checked theorems across six of the seven books ([Books I through VI]({{ '/publications/books/' | relative_url }}) have 0 sorry; [Book VII]({{ '/publications/books/book-vii/' | relative_url }}) retains 3 intentional methodological sorry).
 
 This is not a decorative badge. It is a structural commitment.
 
@@ -51,7 +51,7 @@ This is an important distinction. The framework could be internally consistent a
 
 A common misreading of formal verification is that it proves the theory is "correct." It does not. It proves that the theory is *coherent* &mdash; that its internal logic does not contradict itself. Whether the axioms capture reality is a separate question, answered by observation and experiment.
 
-The program maintains this distinction explicitly. TauLib is the verification surface for logical structure. The falsification pack (220+ predictions with explicit precision bounds) is the verification surface for empirical adequacy. Both are public. Both are inspectable. Neither substitutes for the other.
+The program maintains this distinction explicitly. TauLib is the verification surface for logical structure. The [falsification pack]({{ '/publications/white-papers/' | relative_url }}) (220+ predictions with explicit precision bounds) is the verification surface for empirical adequacy. Both are public. Both are inspectable. Neither substitutes for the other.
 
 ## The 0-sorry discipline
 

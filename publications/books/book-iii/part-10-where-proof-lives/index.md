@@ -40,7 +40,7 @@ Two sub-arcs unfold.
 **The Orthodox Bridge** (Chapters 64–69) constructs a principled
 interface between Category $\T$ and ZFC. ZFC is reconceived as an
 $E_2$ virtual machine: a finite axiom set plus inference rules
-running on a substrate-neutral tape. Five “forbidden moves” delimit
+running on a substrate-neutral tape. Five "forbidden moves" delimit
 what cannot cross the bridge. G\"odel's incompleteness is diagnosed as
 a *VM boundary*—a theorem about the virtual machine, not about
 mathematics. The Bridge Axiom, the Bridge Ledger, and the Honest Claim
@@ -53,7 +53,7 @@ Category $\T$. Four classical paradoxes (Cantor, Russell, G\"odel, Turing)
 are diagnosed as boundary crossings between enrichment levels.
 Applied Saturation ($E_4 = E_3$) proves that $E_3$ is terminal:
 self-modelling is the final level of reflexive structure.
-The closing chapter, “The Architecture of Reality,” synthesises the
+The closing chapter, "The Architecture of Reality," synthesises the
 entire seven-book trajectory.
 
 Scope: **mixed**. Chapters 64–69: $τ$-effective and conjectural

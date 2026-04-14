@@ -34,13 +34,15 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 10 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [From Self-Enrichment to Physical Legibility]({{ '/framework/about/from-self-enrichment-to-physical-legibility/' | relative_url }}).*
+
 The physical claim of the Panta Rhei Research Program is stronger than the claim that the framework can be used as a mathematical model of physical phenomena.
 
 What is being proposed is a full **physical reading** of the \(E_1\) layer.
 
 This claim has several parts.
 
-First, the program defines internal invariants and semantic candidates within \(E_1\). These are not yet simply imported as orthodox “time,” “energy,” or “mass.” They are first defined internally as \(τ\)-time, \(τ\)-energy, \(τ\)-mass, and related structural quantities. In other words, the semantic field is first earned inside the framework itself.
+First, the program defines internal invariants and semantic candidates within \(E_1\). These are not yet simply imported as orthodox "time," "energy," or "mass." They are first defined internally as \(τ\)-time, \(τ\)-energy, \(τ\)-mass, and related structural quantities. In other words, the semantic field is first earned inside the framework itself.
 
 Second, the program proves theorems about those internal structures as theorems of the framework, not as empirical laws imported from outside.
 
@@ -50,6 +52,8 @@ Fourth, the program claims that with a single calibration bridge into SI units, 
 
 Together, these two moves — structural isomorphism and calibrated numerical readout — are what allow the program to argue that \(E_1\) is not merely useful for modeling physical reality but can be treated as a candidate ontic physical reading of reality.
 
-The importance of the “whole layer” claim should also be stressed. The program is not saying that one can select a favored corner of a large possibility space and interpret that selected region as physics. It is saying that the semantic designation applies to the structured \(E_1\) layer as such. That is why the later survival of the same structure into \(E_2\) and \(E_3\) matters so much: it would be much less plausible that the physical interpretation were a coherent structural reading if it had to be abandoned as soon as the framework enriched further.
+The importance of the "whole layer" claim should also be stressed. The program is not saying that one can select a favored corner of a large possibility space and interpret that selected region as physics. It is saying that the semantic designation applies to the structured \(E_1\) layer as such. That is why the later survival of the same structure into \(E_2\) and \(E_3\) matters so much: it would be much less plausible that the physical interpretation were a coherent structural reading if it had to be abandoned as soon as the framework enriched further.
 
-This is one of the most difficult and least routine claims in the whole project. The books carry that burden in detail. The site can only make the shape of the bridge visible. But that visibility matters, because without it, the reader would not be able to distinguish the program from more ordinary attempts to map mathematics onto physics by selective interpretation and local fitting.
+This is one of the most difficult and least routine claims in the whole project. [The books]({{ '/publications/books/' | relative_url }}) carry that burden in detail, and the key physical [results]({{ '/results/' | relative_url }}) are summarized on the site. The site can only make the shape of the bridge visible. But that visibility matters, because without it, the reader would not be able to distinguish the program from more ordinary attempts to map mathematics onto physics by selective interpretation and local fitting.
+
+*The next step, [From Physics to Life: Structural Classes at E2]({{ '/framework/about/from-physics-to-life-structural-classes-at-e2/' | relative_url }}), explores how the semantic target rises from physical invariants to living organization.*

@@ -41,7 +41,7 @@ dissolves the skin-and-skull boundary.
 Book VI defined consciousness structurally at $E_2$ (SelfDesc-of-SelfDesc).
 Part IX receives this and develops the full $E_3$ treatment: qualia, phenomenology,
 self-model, metacognition. The commitment sector $S_C$ is where the question
-“what am I willing to live as true?” acquires its full structural meaning—a mind
+"what am I willing to live as true?" acquires its full structural meaning—a mind
 that can model its own observation process must eventually confront the boundary
 between what it can prove and what it chooses to inhabit.
 

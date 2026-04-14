@@ -45,8 +45,8 @@ the CRT decomposition ,
 Hensel lifting ,
 and the adelic embedding .
 At every stage,
-an informal vocabulary intruded—“$B$-lobe
-dominant,” “$C$-lobe dominant,” “mixed”—to
+an informal vocabulary intruded—"$B$-lobe
+dominant," "$C$-lobe dominant," "mixed"—to
 describe the bipolar character
 of individual primes.
 Informal vocabulary is debt.

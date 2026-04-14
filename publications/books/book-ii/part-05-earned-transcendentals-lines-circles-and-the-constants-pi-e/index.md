@@ -36,7 +36,7 @@ Six chapters bridge from ABCD refinement rays to the classical constants
 and the Archimedean-Non-Archimedean duality.
 
 the relevant chapter defines the $α$-ray as the canonical
-“real line” $ℓ_α = \{α_n : n ≥ 1\} ∪ \{ω\}$
+"real line" $ℓ_α = \{α_n : n ≥ 1\} ∪ \{ω\}$
 and shows that $ℝ$ appears as the inverse limit of ultrametric
 radial sequences—not as an uncountable continuum (consistent with Book I's
 Cantor refutation, I.T35).

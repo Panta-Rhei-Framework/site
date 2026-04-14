@@ -36,7 +36,7 @@ right_rail:
 
 The Panta Rhei Research Program is an **independent open research program** — not a journal submission, not a textbook, not a software project. It is a seven-book monograph series accompanied by a Lean 4 formalization library, a public research website, and structured verification surfaces.
 
-The books are the canonical monograph release. The site provides navigable access in understanding-order. TauLib provides machine-checked verification. The guided tours and companion papers lower the threshold for structured engagement.
+The [books]({{ '/publications/books/' | relative_url }}) are the canonical monograph release. The site provides navigable access in understanding-order. [TauLib]({{ '/verify/taulib/' | relative_url }}) provides machine-checked verification. The guided tours and companion papers lower the threshold for structured engagement.
 
 ## Recommended Review Paths
 
@@ -88,7 +88,7 @@ For a reviewer who wants to form a first impression in 30-60 minutes:
 - This is **not a substitute for expert review**. The program invites scrutiny; it does not pre-empt it.
 - **Lean compilation verifies internal consistency**, not physical truth. Empirical claims require empirical testing.
 - **No expectation** that one reader resolves the whole program in one sitting. The review paths are starting points.
-- The program is **independent research** — not yet peer-reviewed in traditional journals. All claims carry explicit scope labels.
+- The program is **independent research** — not yet peer-reviewed in traditional journals. All claims carry explicit [scope labels]({{ '/results/status-and-claim-typing/' | relative_url }}).
 
 ## Contact
 

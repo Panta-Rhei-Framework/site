@@ -28,14 +28,14 @@ right_rail:
 
 ## The Results Lane
 
-The Results lane is the public relevance bridge of the Panta Rhei Research Program. It connects the program's internal structural claims to **recognized problems** in mathematics, physics, biology, and philosophy.
+The Results lane is the public relevance bridge of the Panta Rhei Research Program. It connects the [framework's]({{ '/framework/about/' | relative_url }}) internal structural claims to **recognized problems** in mathematics, physics, biology, and philosophy.
 
 Every result distinguishes:
 - The **mainstream problem statement**
 - The **Panta Rhei claim**
 - The **epistemic status** — resolved, partial, qualitative, or contradicted
-- The **canonical grounding** — where in books, framework, registry
-- The **verification route** — how to inspect further
+- The **canonical grounding** — where in books, framework, [registry]({{ '/registry/' | relative_url }})
+- The **[verification]({{ '/verify/' | relative_url }}) route** — how to inspect further
 
 ## Featured Results
 

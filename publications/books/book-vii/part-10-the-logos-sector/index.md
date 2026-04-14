@@ -38,7 +38,7 @@ property, in the same way that a categorical limit is named by its universal pro
 the name describes the structure, nothing more.
 We state this with care: the Logos sector is *explicitly not a theological claim*.
 It is a structural fact about where two registers of reason become inseparable.
-That this structural location resonates with traditions that have used the word “Logos”
+That this structural location resonates with traditions that have used the word "Logos"
 for millennia is noted as a synchronicity—a shared kernel invariant—and left for the
 reader to evaluate in their own commitment register.
 The Part develops the formal definition of the $D → C$ bridge, the boundary collapse

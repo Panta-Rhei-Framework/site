@@ -79,7 +79,7 @@ No mode counting, no cutoff, no catastrophe.
 
 **Chapter 26** (*Dark Energy as Readout Artifact*)
 shows that cosmic acceleration requires no cosmological constant $Λ$.
-“Dark energy” is diagnosed as a category error:
+"Dark energy" is diagnosed as a category error:
 a base-progression phenomenon
 misread through the orthodox readout functor.
 

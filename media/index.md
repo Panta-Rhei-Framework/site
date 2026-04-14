@@ -43,7 +43,7 @@ The program's canonical release (April 2026) includes:
 - **Books**: {{ book_count }} volumes, {{ chapter_count }} chapters, {{ part_count }} parts
 - **Results**: {{ result_count }} key results across 4 domains
 - **Formalization**: 125,771 lines of Lean 4 code, 4,332 theorems, 3,721 evals
-- **Registry**: {{ registry_count }} mathematical objects with dependency graphs
+- **[Registry]({{ '/registry/' | relative_url }})**: {{ registry_count }} mathematical objects with dependency graphs
 - **Falsification**: 220+ quantitative predictions with precision claims
 - **Status**: Independent research — not yet peer-reviewed in traditional journals
 
@@ -67,7 +67,7 @@ The program's canonical release (April 2026) includes:
 ## Downloadable Descriptions
 
 ### Short description (1 paragraph)
-{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}The Panta Rhei Research Program develops Category τ, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {{ result_count }} key results with typed epistemic status, and a public research website with {{ registry_count }} registry objects. All claims carry explicit scope labels and verification routes.
+{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}The Panta Rhei Research Program develops Category τ, a categorical framework that derives results across mathematics, physics, biology, and philosophy from five generators, seven axioms, and one operator. The program's seven-book monograph series (2nd Edition, April 2026) is accompanied by a Lean 4 formalization library, {{ result_count }} key results with typed epistemic status, and a public research website with {{ registry_count }} registry objects. All claims carry explicit [scope labels]({{ '/results/status-and-claim-typing/' | relative_url }}) and verification routes.
 
 ### Author bios
 

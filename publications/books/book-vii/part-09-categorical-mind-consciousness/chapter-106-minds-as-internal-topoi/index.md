@@ -46,7 +46,7 @@ internal truth values governed by a subobject classifier. The
 Mind-Topos Structure Theorem (VII.T39) shows that any system whose
 carrier supports stable representation, flexible counterfactual
 reasoning, and self-modelling instantiates an internal topos. The
-mind–body relation is thereby reframed: “body” and “mind” are two
+mind–body relation is thereby reframed: "body" and "mind" are two
 descriptions of one organized process — external dynamics in $τ^3$
 and internal logic on the carrier's domain. The account supports
 graded mindedness for animals  and

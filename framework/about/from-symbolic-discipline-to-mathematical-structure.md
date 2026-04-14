@@ -34,6 +34,8 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 3 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [Why the Framework Begins So Low]({{ '/framework/about/why-the-framework-begins-so-low/' | relative_url }}).*
+
 The first ascent of the Tau framework is easy to underestimate because later pages in the site necessarily speak in much richer language. But the point of departure is much stricter.
 
 At the beginning, the framework is not yet a world of ready-made mathematical objects. It is a disciplined symbolic environment with generators, progression, and strong restrictions on what counts as lawful formation. In that sense, the earliest stage is closer to a carefully typed symbolic machine than to an already articulated mathematical universe.
@@ -52,12 +54,14 @@ without first postulating the richer ontology that later mathematics usually ass
 
 This move matters for two reasons.
 
-First, it makes the framework’s later claims more intelligible. If a reader does not see how early structure is earned, then the later emergence of category-theoretic, logical, and geometric language will feel like an arbitrary jump. The framework wants to avoid that jump.
+First, it makes the framework's later claims more intelligible. If a reader does not see how early structure is earned, then the later emergence of category-theoretic, logical, and geometric language will feel like an arbitrary jump. The framework wants to avoid that jump.
 
-Second, it gives the program its foundational seriousness. The point is not simply that arithmetic or ordering appear somehow. The point is that they appear **as consequences of the kernel’s discipline**, rather than as imported background furniture.
+Second, it gives the program its foundational seriousness. The point is not simply that arithmetic or ordering appear somehow. The point is that they appear **as consequences of the [kernel's]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }}) discipline**, rather than as imported background furniture.
 
-This is also where the framework’s distinctive attitude toward “objects” begins to appear. Objects are not simply there from the start as primitive units waiting to be indexed. They become stabilized through lawful construction and addressability. That is already a sign of the program’s larger orientation: reality is not assumed as a stock of disconnected givens, but as a structure whose intelligibility must be made explicit.
+This is also where the framework's distinctive attitude toward "objects" begins to appear. Objects are not simply there from the start as primitive units waiting to be indexed. They become stabilized through lawful construction and addressability. That is already a sign of the program's larger orientation: reality is not assumed as a stock of disconnected givens, but as a structure whose intelligibility must be made explicit. The formal details of this construction are carried in [Book I]({{ '/publications/books/book-i/' | relative_url }}) and tracked in the [registry]({{ '/registry/' | relative_url }}).
 
 By the end of this stage, the reader should feel that the framework has crossed an important threshold. It is still not yet in the full world of category theory, topology, or geometry. But it has become more than a symbolic game. It now carries enough internal structure that one can reasonably ask how much further it can be pushed.
 
 The next question is therefore natural: once symbolic discipline has become stable mathematical structure, how does it become category, logic, and higher organization?
+
+*The next step, [From Mathematical Structure to Category and Logic]({{ '/framework/about/from-mathematical-structure-to-category-and-logic/' | relative_url }}), explores how arrows, composition, and internal logic are earned from the structure already built.*

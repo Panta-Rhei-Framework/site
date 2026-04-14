@@ -28,7 +28,7 @@ right_rail:
 
 ## Publication Ontology
 
-The Panta Rhei Research Program publishes through complementary surfaces. Each serves a different purpose in the program's commitment to public inspectability. Publications are not marketing — they are the canonical articulation of the research.
+The Panta Rhei Research Program publishes through complementary surfaces rather than a single monolithic release. This is deliberate: a research program that claims to bridge mathematics, physics, biology, and metaphysics needs multiple entry points — the canonical proof-order argument (the books), the structured falsification surface (the white papers), the machine-checked [verification layer]({{ '/verify/' | relative_url }}), and the domain-specific guided tours that lower the threshold for expert engagement. Each surface serves a different kind of reader and a different depth of scrutiny. Publications are not marketing — they are the canonical articulation of the research, designed so that the [framework's claims]({{ '/framework/about/' | relative_url }}) can be inspected from any angle.
 
 ## Publication Families
 
@@ -62,6 +62,6 @@ The First Edition (December 2025) is preserved as an archived historical release
 
 ## How Publications Relate to the Site
 
-The books carry the canonical argument in proof-order. The Atlas (this site) provides navigable access in understanding-order. TauLib provides machine-checked verification. The guided tours and companion papers lower the threshold for structured engagement.
+The books carry the canonical argument in proof-order — each chapter depends on what came before, and the seven volumes form a single derivation chain from [kernel]({{ '/framework/about/what-the-tau-framework-is/' | relative_url }}) to [metaphysics]({{ '/publications/books/book-vii/' | relative_url }}). The Atlas (this site) provides navigable access in understanding-order — readers can enter through any lane and follow the path that matches their questions. [TauLib]({{ '/verify/taulib/' | relative_url }}) provides machine-checked verification. The guided tours and companion papers lower the threshold for structured engagement.
 
-These are not separate projects. They are different public surfaces of the same research program.
+These are not separate projects. They are different public surfaces of the same research program. The [Results lane]({{ '/results/' | relative_url }}) provides the claims; the books provide the proofs; the [bibliography]({{ '/bibliography/' | relative_url }}) provides the scholarly context; and the [verification surfaces]({{ '/verify/' | relative_url }}) provide the routes for inspection.

@@ -57,7 +57,7 @@ Each failure is sharp and structural:
 (1) the diagonal digit-extraction requires
 a uniform oracle that constructive reals do not provide;
 (2) the comprehension step that forms
-“the real not in the list” has no analogue
+"the real not in the list" has no analogue
 in $τ$'s bounded powerset;
 (3) the self-pairing map $n ↦ (n,n)$
 violates the diagonal discipline.

@@ -42,7 +42,7 @@ The 2nd Edition adds the **inevitability argument** (six ontic requirements that
 converge uniquely to $τ$), the **metaphysical problem map** ($\sim$17 classical
 problems classified as resolved, reframed, or open), a **three-layer resolution of
 solipsism**, **non-dualistic Platonism** (single ontology with epistemic stratification),
-and **$ω$-uniqueness** (“there can be only one”).
+and **$ω$-uniqueness** ("there can be only one").
 This is the deepest rewrite among the retained Parts: every chapter is updated for the
 $τ$-kernel vocabulary earned in the 2nd Edition.
 

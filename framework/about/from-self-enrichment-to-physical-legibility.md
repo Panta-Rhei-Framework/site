@@ -32,6 +32,8 @@ right_rail:
     updated: April 2026
 ---
 
+*This is step 9 of 16 in the [conceptual staircase]({{ '/framework/about/' | relative_url }}). It builds on [Ontic Seriousness and the Question of Existence]({{ '/framework/about/ontic-seriousness-and-the-question-of-existence/' | relative_url }}).*
+
 The transition from the mathematical arc of the framework to the physical arc is one of the most non-trivial moves in the whole program.
 
 Ordinary physical theorizing often proceeds by taking an already available mathematical model, assigning physical meanings to parts of it, deriving equations or predictions, and then comparing those with experiment and observation. The program does not deny that this is a valid and powerful scientific method.
@@ -40,9 +42,9 @@ But what it claims here is stronger and stranger.
 
 The argument is not merely that the framework contains a mathematical model which can be used to imitate some physical behavior. The argument is that once the enriched layer \(E_1\) has been fully constructed, it becomes possible to define internal invariants and sector structures whose theorem-shape and calibrated readouts are proposed to be structurally isomorphic to physical law and observation.
 
-This is why Book III is the hinge. It is the book in which the framework first becomes physically legible.
+This is why [Book III]({{ '/publications/books/book-iii/' | relative_url }}) is the hinge. It is the book in which the framework first becomes physically legible.
 
-What matters here is not only that \(E_1\) exists. What matters is that it exists as a fully specified internal layer. The claim is not that “somewhere in a large possibility field, physics may be hidden.” The claim is that the whole \(E_1\) layer, as structured, admits a physical reading.
+What matters here is not only that \(E_1\) exists. What matters is that it exists as a fully specified internal layer. The claim is not that "somewhere in a large possibility field, physics may be hidden." The claim is that the whole \(E_1\) layer, as structured, admits a physical reading.
 
 That is a much stronger burden.
 
@@ -56,4 +58,6 @@ The site cannot reproduce the thousands of pages by which this burden is carried
 
 That is not a rhetorical flourish. It is the spine of the physical wager.
 
-The question is therefore not “does the framework look a little like physics?” The real question is whether this route from internal enrichment to physical legibility exists, is walkable, and remains coherent under the later development of the same framework. That is exactly what the physics books are designed to test.
+The question is therefore not "does the framework look a little like physics?" The real question is whether this route from internal [enrichment]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}) to physical legibility exists, is walkable, and remains coherent under the later development of the same framework. That is exactly what the physics books are designed to test.
+
+*The next step, [Structural Isomorphism and Calibrated Readout]({{ '/framework/about/structural-isomorphism-and-calibrated-readout/' | relative_url }}), explores the two bridges by which internal structure becomes numerically readable as physical law.*

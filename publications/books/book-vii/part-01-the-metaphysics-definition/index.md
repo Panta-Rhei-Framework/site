@@ -32,9 +32,9 @@ right_rail:
 
 Part I builds the formal apparatus that governs all subsequent Parts.
 The **four-register model** decomposes metaphysical reasoning into four
-independent modes: empirical ($E$: “what do I observe?”), practical ($P$: “what should
-I do?”), diagrammatic ($D$: “what can I prove?”), and commitment ($C$: “what am I
-willing to live as true?”).
+independent modes: empirical ($E$: "what do I observe?"), practical ($P$: "what should
+I do?"), diagrammatic ($D$: "what can I prove?"), and commitment ($C$: "what am I
+willing to live as true?").
 The **4+1 sector template** instantiates these registers at $E_3$: the empirical
 sector $S_E$ (Parts II–III), the diagrammatic sector $S_D$ (Parts IV–VI), the practical
 sector $S_P$ (Parts VII–VIII), the commitment sector $S_C$ (Part IX), and the mixed

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-k
 prev_chapter_title: "Chapter 76: Dignity as Meta-Ethical Foundation"
 next_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-78-the-no-conflict-theorem/"
 next_chapter_title: "Chapter 78: The No-Conflict Theorem"
-summary_short: "Kant's categorical imperative is extracted as a naturality constraint on the presheaf of admissible enactments. Universalizability — “act only on that maxim…"
+summary_short: "Kant's categorical imperative is extracted as a naturality constraint on the presheaf of admissible enactments. Universalizability — "act only on that maxim…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
@@ -39,8 +39,8 @@ right_rail:
 
 
 Kant's categorical imperative is extracted as a naturality constraint
-on the presheaf of admissible enactments. Universalizability — “act
-only on that maxim which you can will as universal law” — becomes
+on the presheaf of admissible enactments. Universalizability — "act
+only on that maxim which you can will as universal law" — becomes
 the requirement that local enactments glue into a global section over
 the site of all rational perspectives. The CI as Naturality Constraint
 (VII.D66) formalizes the imperative as a natural transformation, and

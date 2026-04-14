@@ -48,6 +48,6 @@ internal divisibility
 The definition $A ∈_τ B \iff A \mid B$
 is simple, but its consequences are far-reaching:
 membership becomes decidable,
-the “elements of $B$” are exactly the divisors of $B$,
+the "elements of $B$" are exactly the divisors of $B$,
 and every set-theoretic question reduces
 to an arithmetic computation on $τ$-Idx.

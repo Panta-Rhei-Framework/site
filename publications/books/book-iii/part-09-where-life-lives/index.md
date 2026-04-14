@@ -34,7 +34,7 @@ The world exists ($E_1$). Can it be *modelled*?
 
 P versus NP has been conspicuously absent from the preceding Parts.
 The reason is not strategic but *ontological*: P vs NP is
-**native to $E_2$**. The question “Can search be efficient?”
+**native to $E_2$**. The question "Can search be efficient?"
 presupposes a self-referential agent performing the search —
 an object that does not exist at $E_0$ (pure structure, no processes)
 or $E_1$ (physics, dynamics but no codes).

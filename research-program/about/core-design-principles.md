@@ -93,11 +93,11 @@ This principle is one reason why internal semantics, self-enrichment, and eventu
 The fifth principle is **formal inspectability**.
 
 The program should be built in a way that allows public structured inspection:
-- through books
-- through guided tours
-- through the registry
+- through [books]({{ '/publications/books/' | relative_url }})
+- through [guided tours]({{ '/publications/guided-tours/' | relative_url }})
+- through the [registry]({{ '/registry/' | relative_url }})
 - through dashboards
-- through TauLib
+- through [TauLib]({{ '/verify/taulib/' | relative_url }})
 - through verification companions
 - through public assessment protocols
 
@@ -119,7 +119,7 @@ The program therefore distinguishes between:
 - interpretive readings
 - and commitment-level consequences
 
-This principle is essential to the integrity of the whole project. Without it, the program would collapse into either inflation or defensiveness.
+This principle is essential to the integrity of the whole project. Without it, the program would collapse into either inflation or defensiveness. The [scope, status, and scrutiny]({{ '/research-program/about/scope-status-and-scrutiny/' | relative_url }}) page articulates how these distinctions are maintained in practice.
 
 ## Why these principles matter
 

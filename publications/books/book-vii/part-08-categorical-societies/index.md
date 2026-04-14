@@ -40,7 +40,7 @@ Religion shapes spheres through the sacred-profane distinction; rituals glue ind
 communities.
 Together with Part VII, the practical sector $S_P$ covers what classical philosophy calls
 ethics and political philosophy—the two domains governed by the register question
-“what should I do?”
+"what should I do?"
 
 ## Chapters
 

@@ -47,5 +47,5 @@ deliverables of the sector, identifies the register question that
 $S_C$ has answered, examines the $D$–$C$ interface where
 proof-validity meets stance-stability, and marks the boundary where
 the commitment sector yields to the Logos sector. The question
-“What am I willing to live as true?” has been answered; Part X
-opens with the question “Where do proof and commitment coincide?”
+"What am I willing to live as true?" has been answered; Part X
+opens with the question "Where do proof and commitment coincide?"

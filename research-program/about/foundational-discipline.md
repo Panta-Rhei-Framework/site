@@ -51,7 +51,7 @@ then the kernel itself cannot be neutral.
 
 A framework that begins by tolerating too much arbitrariness, too much uncontrolled expressivity, or too much hidden externality may still produce interesting mathematics. But it will struggle to support the strongest forms of answerability.
 
-That is the driving thought behind the program’s foundational discipline.
+That is the driving thought behind the program's foundational discipline.
 
 ## The constructive demand
 
@@ -59,7 +59,7 @@ The framework should be explicit enough to be built and checked. That is why con
 
 A constructive orientation does not guarantee truth. But it does force the framework to present its objects and operations in a way that can be inspected, built up, and followed. It resists the temptation to hide decisive burdens inside inaccessible existence claims or downstream reinterpretations.
 
-This is one reason the program treats formalizability and public verification routes as part of the research object itself rather than as auxiliary packaging.
+This is one reason the program treats formalizability and [public verification routes]({{ '/verify/' | relative_url }}) as part of the research object itself rather than as auxiliary packaging.
 
 ## The finitistic demand
 
@@ -78,11 +78,11 @@ The program is deeply suspicious of frameworks in which unrestricted contraction
 
 This does not mean that all forms of reuse are impossible. It means that reuse itself must be disciplined and justified. The framework should not be able to conjure massive expressive strength from invisible resource assumptions while later claiming that its outputs are deeply inevitable.
 
-This is one of the reasons the program’s foundational temperament is closer to a resource-sensitive discipline than to a permissive background of freely reusable abstract tokens.
+This is one of the reasons the program's foundational temperament is closer to a resource-sensitive discipline than to a permissive background of freely reusable abstract tokens. The [Tau framework]({{ '/framework/about/' | relative_url }}) is built to embody this resource-sensitive posture from the ground up.
 
 ## The typed demand
 
-The framework should be strictly typed. That is not a software affectation. It is part of the program’s deeper anti-arbitrariness stance.
+The framework should be strictly typed. That is not a software affectation. It is part of the program's deeper anti-arbitrariness stance.
 
 Types matter because they make explicit:
 - what kind of object something is
@@ -110,6 +110,6 @@ They narrow the kinds of moves the framework is allowed to make.
 
 But that is exactly the point.
 
-If the program later claims to have earned something large, that claim means more if it was earned under real foundational restraint.
+If the program later claims to have earned something large, that claim means more if it was earned under real foundational restraint. The [core design principles]({{ '/research-program/about/core-design-principles/' | relative_url }}) show how this discipline shapes the program's method at every level.
 
 That is why the foundational discipline is not a decorative prelude. It is one of the deepest conditions of the entire research program.
