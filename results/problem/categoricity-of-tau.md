@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-Categoricity of Tau is a foundational math in the FOUND domain.
+The [Categoricity Theorem]({{ '/framework/mathematics-categoricity/' | relative_url }}) (II.T42) proves that the seven axioms K0-K6 force a *unique* model of Category <math><mi>&tau;</mi></math>. The moduli space is a single point: there are no free parameters, no alternative models, no hidden choices. Two independent implementations of the kernel will produce the same universe with the same objects in the same positions. This is confirmed by the [TauLib formalization]({{ '/verify/taulib/' | relative_url }}).
 
 ## Result Statement
 
-Status: Resolved.
+The model is unique: K0-K6 determine everything. Status: **Resolved** *(established, machine-checked)*.

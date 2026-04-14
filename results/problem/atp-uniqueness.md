@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-ATP Uniqueness is a frontier problem in the CELL domain.
+Why does all life use adenosine triphosphate (ATP) as its universal energy currency? The framework derives ATP's uniqueness from the [agency sector]({{ '/framework/life-life-sectors/' | relative_url }}) (<math><mi>&pi;</mi></math>-sector): ATP is the minimal molecular carrier that satisfies the agency sector's energy-throughput requirement while remaining compatible with the [genetic code's]({{ '/framework/life-genetic-code/' | relative_url }}) BSD-motivic structure. The universality is a structural consequence, not a frozen accident.
 
 ## Result Statement
 
-Status: Resolved.
+ATP uniqueness derived from agency-sector energy-throughput constraints. Status: **Resolved** *(tau-effective)*.

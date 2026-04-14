@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-Abiogenesis Timescale is a frontier problem in the ORIG domain.
+When did life first arise? The framework derives a timescale bound for abiogenesis from the [persistence sector]({{ '/framework/life-life-sectors/' | relative_url }}): the first [Distinction]({{ '/framework/life-life-defined/' | relative_url }}) event is a thermodynamically necessary transition from non-persistent chemistry to self-maintaining structure. The [thermodynamic inversion]({{ '/framework/physics-thermodynamic-inversion/' | relative_url }}) (defect entropy decreasing along proto-time) provides the driving force. See also the [detailed timescale bound derivation]({{ '/results/problem/abiogenesis-timescale-bound/' | relative_url }}).
 
 ## Result Statement
 
-Status: Resolved.
+Abiogenesis timescale derived from persistence-sector thermodynamics. Status: **Resolved** *(tau-effective)*.
