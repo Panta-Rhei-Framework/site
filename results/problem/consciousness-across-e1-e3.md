@@ -24,8 +24,12 @@ right_rail:
 
 ## Overview
 
-Consciousness spans multiple enrichment layers: E₁ (neural correlates), E₂ (biological self-model), E₃ (phenomenal experience). The τ-framework provides a multi-layer account but the full integration is incomplete.
+Consciousness is not a single-layer phenomenon. It spans three enrichment layers in the framework: <math><msub><mi>E</mi><mn>1</mn></msub></math> (physical neural correlates in the [microcosm]({{ '/framework/physics-self-description/' | relative_url }})), <math><msub><mi>E</mi><mn>2</mn></msub></math> (biological self-model in the [consumer sector]({{ '/framework/life-neural-architecture/' | relative_url }})), and <math><msub><mi>E</mi><mn>3</mn></msub></math> (phenomenal experience and the [global section]({{ '/framework/metaphysics-mind-consciousness/' | relative_url }}) account). Each layer's account is individually developed, but the full cross-layer integration -- how physical neural activity (<math><msub><mi>E</mi><mn>1</mn></msub></math>) gives rise to biological self-modeling (<math><msub><mi>E</mi><mn>2</mn></msub></math>) which in turn produces phenomenal experience (<math><msub><mi>E</mi><mn>3</mn></msub></math>) -- is not yet complete.
+
+## Detail
+
+At <math><msub><mi>E</mi><mn>1</mn></msub></math>: neurons are <math><msup><mi>T</mi><mn>2</mn></msup></math> mode processors (Book IV). At <math><msub><mi>E</mi><mn>2</mn></msub></math>: consciousness is recursive SelfDesc -- the self-model models itself (Book VI). At <math><msub><mi>E</mi><mn>3</mn></msub></math>: consciousness is a global section (VII.T41), free will is genuine branching (VII.T42-T43), and the [Hard Problem]({{ '/results/problem/hard-problem-of-consciousness/' | relative_url }}) is addressed structurally. The gap is in the *transitions*: how does the enrichment functor map neural <math><msub><mi>E</mi><mn>1</mn></msub></math> structure to biological <math><msub><mi>E</mi><mn>2</mn></msub></math> self-modeling, and how does <math><msub><mi>E</mi><mn>2</mn></msub></math> self-modeling produce <math><msub><mi>E</mi><mn>3</mn></msub></math> phenomenality? The [No Forced Stance]({{ '/framework/metaphysics-no-forced-stance/' | relative_url }}) theorem (VII.T47) suggests the final transition may be principally non-derivable.
 
 ## Result Statement
 
-Consciousness across E₁-E₃: structural account at each layer exists but full cross-layer integration is incomplete. Status: Partial.
+Each layer's account is developed; cross-layer transition mechanisms are incomplete. Status: **Partial** *(tau-effective at each layer; conjectural for the transitions)*.

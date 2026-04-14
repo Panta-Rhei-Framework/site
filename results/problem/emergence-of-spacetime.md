@@ -24,8 +24,12 @@ right_rail:
 
 ## Overview
 
-Does spacetime emerge from a more fundamental structure? The τ-framework says yes: spacetime geometry is earned from the metric structure of τ³, not postulated. But the full emergence narrative is incomplete.
+Does spacetime emerge from a more fundamental structure? The <math><mi>&tau;</mi></math>-framework answers yes: spacetime geometry is [earned]({{ '/framework/about/why-the-framework-begins-so-low/' | relative_url }}) from the metric structure of <math><msup><mi>&tau;</mi><mn>3</mn></msup></math>, not postulated as a background. The [Hermetic Principle]({{ '/framework/physics-hermetic-principle/' | relative_url }}) declares: the fibered product <math><mrow><msup><mi>&tau;</mi><mn>3</mn></msup><mo>=</mo><msup><mi>&tau;</mi><mn>1</mn></msup><msub><mo>&times;</mo><mi>f</mi></msub><msup><mi>T</mi><mn>2</mn></msup></mrow></math> exhausts all physics.
+
+## Detail
+
+Lorentz covariance is derived as a theorem about readouts (Book V, Chapter 12), not assumed as an axiom about spacetime. The [<math><mi>&tau;</mi></math>-Einstein equation]({{ '/framework/physics-gravity-earned/' | relative_url }}) is an algebraic identity in the boundary holonomy algebra; Einstein's field equations are its "chart shadow" when projected onto coordinates. The 3+1 signature emerges from the fiber-base decomposition: the base <math><msup><mi>&tau;</mi><mn>1</mn></msup></math> provides the temporal dimension, the fiber <math><msup><mi>T</mi><mn>2</mn></msup></math> provides three spatial dimensions (the [ABCD chart]({{ '/framework/mathematics-abcd-chart/' | relative_url }}) forces dim=4). The full emergence narrative -- showing how the profinite discrete structure of <math><msup><mi>&tau;</mi><mn>3</mn></msup></math> gives rise to the smooth manifold of general relativity in the large-scale limit -- is structurally outlined but not yet complete in all details.
 
 ## Result Statement
 
-Spacetime emerges from τ³ metric structure. Geometry earned, not postulated. Full emergence narrative incomplete. Status: Partial.
+Spacetime geometry is earned from <math><msup><mi>&tau;</mi><mn>3</mn></msup></math>; Lorentz covariance derived; 3+1 signature from fiber-base. Full smooth-limit emergence narrative incomplete. Status: **Partial** *(tau-effective for structural framework; conjectural for smooth-limit completeness)*.
