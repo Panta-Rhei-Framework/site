@@ -30,7 +30,7 @@ right_rail:
 The Panta Rhei Research Program is an independent open research program developing **Category τ** — a categorical framework built from five generators, seven axioms, and one operator that derives results across mathematics, physics, biology, and philosophy from a single coherence kernel.
 
 The program's canonical release (April 2026) includes:
-{% assign book_count = site.data.publications.books | size %}{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign part_count = site.data.publications.parts | size %}{% assign chapter_count = site.data.publications.chapters | size %}- A **{{ book_count }}-book monograph series** (~3,430 pages, available on Amazon KDP)
+{% assign book_count = site.data.publications.books | size %}{% assign result_count = site.data.results.results | size %}{% assign registry_count = site.data.registry.objects | size %}{% assign chapter_count = site.data.publications.chapters | size %}{% assign part_count = 0 %}{% for b in site.data.publications.books %}{% assign part_count = part_count | plus: b.parts %}{% endfor %}- A **{{ book_count }}-book monograph series** (~3,430 pages, available on Amazon KDP)
 - A **Lean 4 formalization library** (TauLib, 450 modules, 0 sorry in Books I-VI)
 - This **research website** ({{ result_count }} key results, {{ registry_count }} registry objects)
 - **Guided tours** and **structural falsification whitepapers**
