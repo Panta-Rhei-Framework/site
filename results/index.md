@@ -39,6 +39,15 @@ Every result distinguishes:
 
 **Overall status:** 197 Resolved, 20 Partial, 2 Qualitative, 6 Contradicted, 9 Not Addressed. Every result carries an explicit [scope label]({{ '/results/status-and-claim-typing/' | relative_url }}). For guidance on reading result pages, see [How to Read a Result Page]({{ '/results/how-to-read-a-result-page/' | relative_url }}).
 
+## Results Prologue
+
+Before browsing individual results, readers may want to understand what counts as a result in this program and what kind of mathematics the framework describes. The [Results Prologue]({{ '/results/prologue/' | relative_url }}) is a four-page epistemic ladder:
+
+- [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) — the first admissible layer of resulthood
+- [The Shape of Mathematics in the Tau Framework]({{ '/results/prologue/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) — the distinct mathematical world Tau describes
+- [What This Mathematics Makes True]({{ '/results/prologue/what-this-mathematics-makes-true/' | relative_url }}) — Millennium problems, Riemann, Langlands in Tau formulation
+- [Self-Enrichment, Self-Containment, and Internal Logic]({{ '/results/prologue/self-enrichment-self-containment-and-internal-logic/' | relative_url }}) — why self-enrichment changes the epistemic shape of the framework
+
 ## Featured Results
 
 - [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior f

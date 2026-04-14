@@ -73,6 +73,17 @@ framework_nav:
 results_nav:
   - title: "Overview"
     url: "/results/"
+  - title: "Prologue"
+    url: "/results/prologue/"
+    children:
+      - title: "How the Framework First Exists"
+        url: "/results/prologue/how-the-framework-first-exists/"
+      - title: "The Shape of Mathematics"
+        url: "/results/prologue/the-shape-of-mathematics-in-the-tau-framework/"
+      - title: "What This Mathematics Makes True"
+        url: "/results/prologue/what-this-mathematics-makes-true/"
+      - title: "Self-Enrichment & Internal Logic"
+        url: "/results/prologue/self-enrichment-self-containment-and-internal-logic/"
   - title: "By Problem"
     url: "/results/by-problem/"
   - title: "By Domain"
