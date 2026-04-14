@@ -26,6 +26,14 @@ layout: default
       {% if page.subtitle %}
       <p class="hero-subtitle">{{ page.subtitle }}</p>
       {% endif %}
+      {% if amazon %}
+      <div class="btn-group" style="margin-top: 14px;">
+        <a href="#available-formats" class="btn-ghost">Available on Amazon</a>
+        {% if doi_entry %}
+        <a href="#{{ 'citation-doi' | slugify }}" class="btn-ghost">Cite / DOI</a>
+        {% endif %}
+      </div>
+      {% endif %}
     </div>
     <div class="book-hero-cover">
       <img
@@ -74,7 +82,7 @@ layout: default
 
 {% if amazon %}
 <div class="content-card">
-  <h2 class="format-section-title">Available Formats</h2>
+  <h2 class="format-section-title" id="available-formats">Available Formats</h2>
   <div class="format-cards">
 
     <div class="format-card">
