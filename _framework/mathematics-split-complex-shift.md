@@ -5,6 +5,12 @@ layer: E0
 strand: interior
 summary_short: j² = +1 replaces i² = -1, enabling wave-type holomorphy and avoiding
   Liouville.
+diagrams:
+- src: /assets/diagrams/framework/book-ii/mathematics-split-complex-shift-hol-cont.svg
+  caption: "Containment hierarchy of function classes on τ³. Analyticity (τ-holomorphy) implies split-complex holomorphicity, which implies continuity (II.T06), which implies measurability. Each inclusion is strict."
+  alt: "Containment hierarchy of function classes on τ³. Analyticity (τ-holomorphy) implies split-complex holomorphicity, which implies continuity (II.T06), which…"
+  source: "Book II, Chapter 11"
+  label: "fig:bookII-ch09-hol-cont"
 thesis: The split-complex unit is structurally forced by prime polarity; it gives
   hyperbolic PDEs, non-constant bounded functions, and the bipolar idempotent decomposition.
 canonical_books:

@@ -5,6 +5,17 @@ layer: E0
 strand: interior
 summary_short: Finite residue towers read out infinity — the mechanism behind 'Finite
   Readouts of Infinity.'
+diagrams:
+- src: /assets/diagrams/framework/book-ii/mathematics-omega-germ-construction-fiber-degen.svg
+  caption: "Fiber degeneration of τ³ at the beacon ω. The generic torus fiber T² collapses to the lemniscate ℒ = S¹ ∨ S¹ as the base coordinate approaches ω."
+  alt: "Fiber degeneration of τ³ at the beacon ω. The generic torus fiber T² collapses to the lemniscate ℒ = S¹ ∨ S¹ as the base coordinate approaches ω."
+  source: "Book II, Chapter 5"
+  label: "fig:bookII-ch05-fiber-degen"
+- src: /assets/diagrams/framework/book-ii/mathematics-omega-germ-construction-tau3-fibration.svg
+  caption: "The fibered product τ³ = τ¹ ×_f T². The projection pr forgets the fiber coordinates (B,C) and retains only the multiplicative skeleton (D,A)."
+  alt: "The fibered product τ³ = τ¹ ×_f T². The projection pr forgets the fiber coordinates (B,C) and retains only the multiplicative skeleton (D,A)."
+  source: "Book II, Chapter 6"
+  label: "fig:bookII-ch06-tau3-fibration"
 thesis: Omega-germs provide stagewise-coherent representations of holomorphic structure
   across all scales simultaneously.
 canonical_books:

@@ -4,6 +4,12 @@ module_id: E0-015
 layer: E0
 strand: interior
 summary_short: O(τ³) ≅ A_spec(L) — the structural heart of the series.
+diagrams:
+- src: /assets/diagrams/framework/book-ii/mathematics-central-theorem-central-theorem.svg
+  caption: "The Central Theorem isomorphism O(τ³) ≅ A_spec(ℒ) commutes with the bipolar decomposition. The top isomorphism is the Central Theorem II.T40."
+  alt: "The Central Theorem isomorphism O(τ³) ≅ A_spec(ℒ) commutes with the bipolar decomposition. The top isomorphism is the Central Theorem II.T40."
+  source: "Book II, Chapter 51"
+  label: "fig:bookII-ch51-central-theorem"
 thesis: The ring of holomorphic functions on τ³ is canonically isomorphic to the spectral
   algebra of the lemniscate boundary.
 canonical_books:

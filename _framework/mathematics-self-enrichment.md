@@ -5,6 +5,12 @@ layer: E0
 strand: interior
 summary_short: τ enriches over itself — the gateway from mathematics to the enrichment
   ladder.
+diagrams:
+- src: /assets/diagrams/framework/book-ii/mathematics-self-enrichment-yoneda-triad.svg
+  caption: "The Yoneda triad: three equivalent perspectives on representable functors within Category τ. The natural isomorphism Nat(h_A, F) ≅ F(A) is the Yoneda lemma earned from the kernel axioms."
+  alt: "The Yoneda triad: three equivalent perspectives on representable functors within Category τ. The natural isomorphism Nat(h_A, F) ≅ F(A) is the Yoneda lemma…"
+  source: "Book II, Chapter 43"
+  label: "fig:bookII-ch43-yoneda-triad"
 thesis: Hom objects are τ-objects with tower-coherent staging; the Yoneda embedding
   is fully faithful and bipolar-preserving.
 canonical_books:
