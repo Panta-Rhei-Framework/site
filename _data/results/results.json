@@ -15,7 +15,10 @@
     "result_kind": "foundational-math",
     "importance_class": "core-foundational-problem",
     "status_code": "R",
-    "domain_group": "Foundations"
+    "domain_group": "Foundations",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-002",
@@ -33,7 +36,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-003",
@@ -51,7 +57,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-004",
@@ -69,7 +78,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-005",
@@ -87,7 +99,10 @@
     "result_kind": "foundational-math",
     "importance_class": "core-foundational-problem",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-006",
@@ -105,7 +120,10 @@
     "result_kind": "foundational-math",
     "importance_class": "core-foundational-problem",
     "status_code": "R",
-    "domain_group": "Enriched Category Theory"
+    "domain_group": "Enriched Category Theory",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-007",
@@ -123,7 +141,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-008",
@@ -141,7 +162,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-009",
@@ -159,7 +183,11 @@
     "result_kind": "frontier-problem",
     "importance_class": "high-impact-frontier-problem",
     "status_code": "R",
-    "domain_group": "Particle Physics"
+    "domain_group": "Particle Physics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Generation_(particle_physics)"
   },
   {
     "id": "result-010",
@@ -177,7 +205,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-011",
@@ -195,7 +226,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Electroweak"
+    "domain_group": "Electroweak",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-012",
@@ -213,7 +247,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-013",
@@ -231,7 +268,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-014",
@@ -249,7 +289,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-015",
@@ -267,7 +310,11 @@
     "result_kind": "frontier-problem",
     "importance_class": "core-foundational-problem",
     "status_code": "R",
-    "domain_group": "Cosmology"
+    "domain_group": "Cosmology",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dark_matter"
   },
   {
     "id": "result-016",
@@ -285,7 +332,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-017",
@@ -303,7 +353,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-018",
@@ -321,7 +374,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-019",
@@ -339,7 +395,13 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abiogenesis"
   },
   {
     "id": "result-020",
@@ -357,7 +419,12 @@
     "result_kind": "consequence",
     "importance_class": "consequence-reframing",
     "status_code": "R",
-    "domain_group": "Life Definition"
+    "domain_group": "Life Definition",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-021",
@@ -375,7 +442,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-022",
@@ -393,7 +465,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-023",
@@ -411,7 +488,13 @@
     "result_kind": "frontier-problem",
     "importance_class": "core-foundational-problem",
     "status_code": "R",
-    "domain_group": "Ethics"
+    "domain_group": "Ethics",
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Categorical_imperative"
   },
   {
     "id": "result-024",
@@ -429,7 +512,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-025",
@@ -447,7 +533,13 @@
     "result_kind": "frontier-problem",
     "importance_class": "core-foundational-problem",
     "status_code": "P",
-    "domain_group": "Mind"
+    "domain_group": "Mind",
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness"
   },
   {
     "id": "result-026",
@@ -465,7 +557,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-027",
@@ -484,7 +579,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-028",
@@ -502,7 +600,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-029",
@@ -520,7 +621,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-030",
@@ -538,7 +642,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-031",
@@ -556,7 +663,10 @@
     "result_kind": "consequence",
     "importance_class": "consequence-reframing",
     "status_code": "C",
-    "domain_group": "Black Holes"
+    "domain_group": "Black Holes",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-032",
@@ -574,7 +684,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-033",
@@ -592,7 +705,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-034",
@@ -610,7 +726,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-035",
@@ -628,7 +747,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-036",
@@ -647,7 +769,11 @@
     "result_kind": "frontier-problem",
     "importance_class": "core-foundational-problem",
     "status_code": "P",
-    "domain_group": "Millennium Problems"
+    "domain_group": "Millennium Problems",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Yang%E2%80%93Mills_existence_and_mass_gap"
   },
   {
     "id": "result-037",
@@ -665,7 +791,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-038",
@@ -683,7 +812,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-039",
@@ -701,7 +833,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-040",
@@ -719,7 +854,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-041",
@@ -737,7 +877,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-042",
@@ -755,7 +900,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-043",
@@ -773,7 +923,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-044",
@@ -791,7 +944,11 @@
     "result_kind": "consequence",
     "importance_class": "high-impact-frontier-problem",
     "status_code": "R",
-    "domain_group": "Logic / Inference"
+    "domain_group": "Logic / Inference",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/G%C3%B6del%27s_incompleteness_theorems"
   },
   {
     "id": "result-045",
@@ -809,7 +966,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-046",
@@ -828,7 +988,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-047",
@@ -846,7 +1009,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Philosophy"
+    "domain_group": "Philosophy",
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-048",
@@ -864,7 +1032,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-049",
@@ -883,7 +1054,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-050",
@@ -901,7 +1075,11 @@
     "result_kind": "frontier-problem",
     "importance_class": "core-foundational-problem",
     "status_code": "Q",
-    "domain_group": "Millennium Problems"
+    "domain_group": "Millennium Problems",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem"
   },
   {
     "id": "result-051",
@@ -919,7 +1097,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-052",
@@ -937,7 +1118,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-053",
@@ -955,7 +1139,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-054",
@@ -973,7 +1160,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-055",
@@ -991,7 +1181,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "high-impact-frontier-problem",
     "status_code": "P",
-    "domain_group": "Cosmology"
+    "domain_group": "Cosmology",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-056",
@@ -1009,7 +1202,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-057",
@@ -1027,7 +1223,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-058",
@@ -1045,7 +1244,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-059",
@@ -1063,7 +1265,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Particle Physics"
+    "domain_group": "Particle Physics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-060",
@@ -1081,7 +1286,11 @@
     "result_kind": "frontier-problem",
     "importance_class": "high-impact-frontier-problem",
     "status_code": "R",
-    "domain_group": "Cosmology"
+    "domain_group": "Cosmology",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_tension"
   },
   {
     "id": "result-061",
@@ -1099,7 +1308,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-062",
@@ -1117,7 +1329,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Nuclear Physics"
+    "domain_group": "Nuclear Physics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-063",
@@ -1135,7 +1350,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-064",
@@ -1153,7 +1371,10 @@
     "result_kind": "foundational-math",
     "importance_class": "structural-support-result",
     "status_code": "R",
-    "domain_group": "Mathematics"
+    "domain_group": "Mathematics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-065",
@@ -1171,7 +1392,11 @@
     "result_kind": "frontier-problem",
     "importance_class": "high-impact-frontier-problem",
     "status_code": "R",
-    "domain_group": "Particle Physics"
+    "domain_group": "Particle Physics",
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neutrino"
   },
   {
     "id": "result-066",
@@ -1189,7 +1414,13 @@
     "result_kind": "frontier-problem",
     "importance_class": "high-impact-frontier-problem",
     "status_code": "R",
-    "domain_group": "Origin of Life"
+    "domain_group": "Origin of Life",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Homochirality"
   },
   {
     "id": "result-067",
@@ -1207,7 +1438,10 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Physics"
+    "domain_group": "Physics",
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-068",
@@ -1225,7 +1459,13 @@
     "result_kind": "frontier-problem",
     "importance_class": "high-impact-frontier-problem",
     "status_code": "R",
-    "domain_group": "Origin of Life"
+    "domain_group": "Origin of Life",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abiogenesis"
   },
   {
     "id": "result-069",
@@ -1243,7 +1483,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-070",
@@ -1261,7 +1506,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Cellular Biology"
+    "domain_group": "Cellular Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-071",
@@ -1279,7 +1529,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-072",
@@ -1297,7 +1552,12 @@
     "result_kind": "frontier-problem",
     "importance_class": "domain-level-open-problem",
     "status_code": "R",
-    "domain_group": "Biology"
+    "domain_group": "Biology",
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-073",
@@ -1315,7 +1575,11 @@
     "url": "/results/problem/riemann-hypothesis-spectral-approach/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Riemann_hypothesis"
   },
   {
     "id": "result-074",
@@ -1333,7 +1597,13 @@
     "url": "/results/problem/what-is-life/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Life"
   },
   {
     "id": "result-075",
@@ -1351,7 +1621,12 @@
     "url": "/results/problem/membrane-first-vs-metabolism-first/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-076",
@@ -1369,7 +1644,12 @@
     "url": "/results/problem/cell-as-tau-object/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-077",
@@ -1388,7 +1668,12 @@
     "canonical_books": [
       "VI",
       "VII"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "contradicts-dominant-hypothesis"
   },
   {
     "id": "result-078",
@@ -1406,7 +1691,13 @@
     "url": "/results/problem/problem-of-universals/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Problem_of_universals"
   },
   {
     "id": "result-079",
@@ -1424,7 +1715,13 @@
     "url": "/results/problem/substance-vs-process-ontology/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Process_philosophy"
   },
   {
     "id": "result-080",
@@ -1442,7 +1739,13 @@
     "url": "/results/problem/gettier-problem/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Gettier_problem"
   },
   {
     "id": "result-081",
@@ -1460,7 +1763,12 @@
     "url": "/results/problem/no-forced-stance/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-082",
@@ -1478,7 +1786,13 @@
     "url": "/results/problem/machine-consciousness/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "partial-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Artificial_consciousness"
   },
   {
     "id": "result-083",
@@ -1497,7 +1811,10 @@
     "canonical_books": [
       "III",
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-084",
@@ -1516,7 +1833,12 @@
     "canonical_books": [
       "III",
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "tau-internal-only"
   },
   {
     "id": "result-085",
@@ -1534,7 +1856,12 @@
     "url": "/results/problem/the-four-layer-architecture-of-reality/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-086",
@@ -1552,7 +1879,11 @@
     "url": "/results/problem/hyperfactorization/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Fundamental_theorem_of_arithmetic"
   },
   {
     "id": "result-087",
@@ -1570,7 +1901,11 @@
     "url": "/results/problem/prime-polarity/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Prime_number"
   },
   {
     "id": "result-088",
@@ -1588,7 +1923,10 @@
     "url": "/results/problem/categoricity-of-tau/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-089",
@@ -1606,7 +1944,10 @@
     "url": "/results/problem/enrichment-ladder/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-090",
@@ -1624,7 +1965,10 @@
     "url": "/results/problem/identity-theorem/",
     "canonical_books": [
       "II"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-091",
@@ -1642,7 +1986,11 @@
     "url": "/results/problem/riemann-hypothesis/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Riemann_hypothesis"
   },
   {
     "id": "result-092",
@@ -1660,7 +2008,11 @@
     "url": "/results/problem/p-vs-np/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/P_versus_NP_problem"
   },
   {
     "id": "result-093",
@@ -1678,7 +2030,10 @@
     "url": "/results/problem/goldbach-conjecture/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-094",
@@ -1696,7 +2051,10 @@
     "url": "/results/problem/twin-primes/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-095",
@@ -1714,7 +2072,11 @@
     "url": "/results/problem/abc-conjecture/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Abc_conjecture"
   },
   {
     "id": "result-096",
@@ -1733,7 +2095,10 @@
     "canonical_books": [
       "I",
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-097",
@@ -1752,7 +2117,10 @@
     "canonical_books": [
       "I",
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "contradicts-dominant-hypothesis"
   },
   {
     "id": "result-098",
@@ -1770,7 +2138,11 @@
     "url": "/results/problem/why-three-generations/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Generation_(particle_physics)"
   },
   {
     "id": "result-099",
@@ -1788,7 +2160,11 @@
     "url": "/results/problem/theta-qcd-0-strong-cp-problem/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Strong_CP_problem"
   },
   {
     "id": "result-100",
@@ -1806,7 +2182,11 @@
     "url": "/results/problem/w-mass-puzzle/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/W_and_Z_bosons"
   },
   {
     "id": "result-101",
@@ -1824,7 +2204,10 @@
     "url": "/results/problem/electron-mass-precision/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-102",
@@ -1843,7 +2226,11 @@
     "canonical_books": [
       "IV",
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Dark_matter"
   },
   {
     "id": "result-103",
@@ -1861,7 +2248,11 @@
     "url": "/results/problem/muon-g-2-anomaly/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Anomalous_magnetic_dipole_moment"
   },
   {
     "id": "result-104",
@@ -1879,7 +2270,11 @@
     "url": "/results/problem/higgs-self-coupling/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Higgs_boson"
   },
   {
     "id": "result-105",
@@ -1897,7 +2292,11 @@
     "url": "/results/problem/neutrino-mass-ordering/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Neutrino"
   },
   {
     "id": "result-106",
@@ -1915,7 +2314,10 @@
     "url": "/results/problem/individual-quark-masses/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-107",
@@ -1933,7 +2335,11 @@
     "url": "/results/problem/0-majorana-neutrinos/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Majorana_fermion"
   },
   {
     "id": "result-108",
@@ -1951,7 +2357,11 @@
     "url": "/results/problem/hubble-tension/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_tension"
   },
   {
     "id": "result-109",
@@ -1969,7 +2379,11 @@
     "url": "/results/problem/s8-tension/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hubble_tension"
   },
   {
     "id": "result-110",
@@ -1987,7 +2401,11 @@
     "url": "/results/problem/desi-bao/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baryon_acoustic_oscillations"
   },
   {
     "id": "result-111",
@@ -2005,7 +2423,11 @@
     "url": "/results/problem/inflation-mechanism/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Inflation_(cosmology)"
   },
   {
     "id": "result-112",
@@ -2024,7 +2446,11 @@
     "canonical_books": [
       "IV",
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Baryon_asymmetry"
   },
   {
     "id": "result-113",
@@ -2042,7 +2468,11 @@
     "url": "/results/problem/galaxy-rotation-curves-without-dark-matter/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Galaxy_rotation_curve"
   },
   {
     "id": "result-114",
@@ -2060,7 +2490,10 @@
     "url": "/results/problem/no-hawking-radiation/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "contradicts-dominant-hypothesis"
   },
   {
     "id": "result-115",
@@ -2078,7 +2511,10 @@
     "url": "/results/problem/no-axion-needed/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "contradicts-dominant-hypothesis"
   },
   {
     "id": "result-116",
@@ -2096,7 +2532,10 @@
     "url": "/results/problem/not-mond/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "contradicts-dominant-hypothesis"
   },
   {
     "id": "result-117",
@@ -2114,7 +2553,10 @@
     "url": "/results/problem/high-tc-superconductivity/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-118",
@@ -2132,7 +2574,10 @@
     "url": "/results/problem/proton-spin-puzzle/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-119",
@@ -2150,7 +2595,10 @@
     "url": "/results/problem/quantum-computing/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-120",
@@ -2168,7 +2616,11 @@
     "url": "/results/problem/navier-stokes-regularity/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "internal-structural-result",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Navier%E2%80%93Stokes_existence_and_smoothness"
   },
   {
     "id": "result-121",
@@ -2186,7 +2638,12 @@
     "url": "/results/problem/necessary-vs-sufficient-conditions-for-life/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-122",
@@ -2204,7 +2661,12 @@
     "url": "/results/problem/non-reductive-emergence/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-123",
@@ -2222,7 +2684,12 @@
     "url": "/results/problem/substrate-independence-multiple-realizability/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-124",
@@ -2240,7 +2707,12 @@
     "url": "/results/problem/mathematical-biology-categorical-methods/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-125",
@@ -2258,7 +2730,12 @@
     "url": "/results/problem/homochirality-origin/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-126",
@@ -2276,7 +2753,12 @@
     "url": "/results/problem/abiogenesis-timescale/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-127",
@@ -2294,7 +2776,12 @@
     "url": "/results/problem/minimal-cell-synthetic-life-criteria/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-128",
@@ -2312,7 +2799,12 @@
     "url": "/results/problem/genetic-code-optimality/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-129",
@@ -2330,7 +2822,12 @@
     "url": "/results/problem/epigenetics/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-130",
@@ -2348,7 +2845,12 @@
     "url": "/results/problem/cell-membrane-origins/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-131",
@@ -2366,7 +2868,12 @@
     "url": "/results/problem/atp-uniqueness/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-132",
@@ -2384,7 +2891,12 @@
     "url": "/results/problem/neurodegeneration/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-133",
@@ -2403,7 +2915,12 @@
     "canonical_books": [
       "VI",
       "VII"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-134",
@@ -2421,7 +2938,12 @@
     "url": "/results/problem/bh-as-alive/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-135",
@@ -2439,7 +2961,12 @@
     "url": "/results/problem/protein-folding/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-136",
@@ -2455,7 +2982,12 @@
     "domain_group": "NEUR/ECOL",
     "summary_short": "",
     "url": "/results/problem/immune-specificity/",
-    "canonical_books": []
+    "canonical_books": [],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-137",
@@ -2473,7 +3005,12 @@
     "url": "/results/problem/aging-mechanism/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "internal-structural-result"
   },
   {
     "id": "result-138",
@@ -2491,7 +3028,12 @@
     "url": "/results/problem/identity-of-indiscernibles/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-139",
@@ -2509,7 +3051,12 @@
     "url": "/results/problem/structural-realism/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-140",
@@ -2527,7 +3074,13 @@
     "url": "/results/problem/hard-problem-of-consciousness/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "partial-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Hard_problem_of_consciousness"
   },
   {
     "id": "result-141",
@@ -2545,7 +3098,12 @@
     "url": "/results/problem/temporal-experience/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-142",
@@ -2563,7 +3121,12 @@
     "url": "/results/problem/definition-of-beauty/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-143",
@@ -2581,7 +3144,12 @@
     "url": "/results/problem/beauty-and-truth/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-144",
@@ -2599,7 +3167,12 @@
     "url": "/results/problem/reference-problem/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-145",
@@ -2617,7 +3190,12 @@
     "url": "/results/problem/private-language-argument/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-146",
@@ -2635,7 +3213,12 @@
     "url": "/results/problem/g-del-avoidance/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-147",
@@ -2653,7 +3236,12 @@
     "url": "/results/problem/paraconsistent-logic/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-148",
@@ -2671,7 +3259,13 @@
     "url": "/results/problem/categorical-imperative-derivation/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Categorical_imperative"
   },
   {
     "id": "result-149",
@@ -2689,7 +3283,12 @@
     "url": "/results/problem/ci-uniqueness/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-150",
@@ -2707,7 +3306,12 @@
     "url": "/results/problem/free-will-and-moral-responsibility/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-151",
@@ -2725,7 +3329,12 @@
     "url": "/results/problem/political-legitimacy/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-152",
@@ -2743,7 +3352,12 @@
     "url": "/results/problem/machine-consciousness-e3/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-153",
@@ -2761,7 +3375,12 @@
     "url": "/results/problem/faith-reason-bridge/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-154",
@@ -2780,7 +3399,10 @@
     "canonical_books": [
       "III",
       "VII"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-155",
@@ -2799,7 +3421,10 @@
     "canonical_books": [
       "III",
       "VII"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-156",
@@ -2818,7 +3443,10 @@
     "canonical_books": [
       "III",
       "VII"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-157",
@@ -2837,7 +3465,10 @@
     "canonical_books": [
       "III",
       "VII"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-158",
@@ -2856,7 +3487,10 @@
     "canonical_books": [
       "III",
       "VII"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-159",
@@ -2875,7 +3509,10 @@
     "canonical_books": [
       "III",
       "VII"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-160",
@@ -2893,7 +3530,10 @@
     "url": "/results/problem/weinberg-angle-sin-w-precision/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-161",
@@ -2911,7 +3551,10 @@
     "url": "/results/problem/strong-coupling-s-at-the-z-pole/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-162",
@@ -2929,7 +3572,10 @@
     "url": "/results/problem/neutron-lifetime-puzzle/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-163",
@@ -2947,7 +3593,10 @@
     "url": "/results/problem/periodic-table-structure/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-164",
@@ -2965,7 +3614,10 @@
     "url": "/results/problem/hierarchy-problem/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-165",
@@ -2983,7 +3635,10 @@
     "url": "/results/problem/vacuum-catastrophe-resolution/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-166",
@@ -3002,7 +3657,10 @@
     "canonical_books": [
       "III",
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-167",
@@ -3020,7 +3678,10 @@
     "url": "/results/problem/qcd-confinement/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-168",
@@ -3038,7 +3699,10 @@
     "url": "/results/problem/chandrasekhar-mass-limit/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-169",
@@ -3056,7 +3720,10 @@
     "url": "/results/problem/deuterium-abundance/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-170",
@@ -3074,7 +3741,10 @@
     "url": "/results/problem/measurement-problem/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-171",
@@ -3092,7 +3762,10 @@
     "url": "/results/problem/bh-information-paradox/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-172",
@@ -3110,7 +3783,10 @@
     "url": "/results/problem/equivalence-principle-from/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-173",
@@ -3128,7 +3804,10 @@
     "url": "/results/problem/tully-fisher-relation/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-174",
@@ -3146,7 +3825,10 @@
     "url": "/results/problem/bh-quasi-normal-modes/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-175",
@@ -3164,7 +3846,10 @@
     "url": "/results/problem/ckm-unitarity-and-cabibbo-anomaly/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-176",
@@ -3182,7 +3867,10 @@
     "url": "/results/problem/neutron-edm/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-177",
@@ -3200,7 +3888,10 @@
     "url": "/results/problem/emergence-of-spacetime/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-178",
@@ -3218,7 +3909,10 @@
     "url": "/results/problem/dark-energy-equation-of-state/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-179",
@@ -3236,7 +3930,10 @@
     "url": "/results/problem/primordial-gravitational-waves/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-180",
@@ -3254,7 +3951,10 @@
     "url": "/results/problem/silk-damping-scale/",
     "canonical_books": [
       "V"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-181",
@@ -3272,7 +3972,10 @@
     "url": "/results/problem/proton-g-factor/",
     "canonical_books": [
       "IV"
-    ]
+    ],
+    "primary_domain": "physics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-182",
@@ -3290,7 +3993,12 @@
     "url": "/results/problem/vitalism-vs-mechanism-dissolved/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-183",
@@ -3308,7 +4016,12 @@
     "url": "/results/problem/computability-of-biological-processes/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-184",
@@ -3326,7 +4039,12 @@
     "url": "/results/problem/self-reference-in-living-systems/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-185",
@@ -3344,7 +4062,12 @@
     "url": "/results/problem/circadian-clock-mechanisms/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-186",
@@ -3362,7 +4085,12 @@
     "url": "/results/problem/morphogen-gradient-interpretation/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-187",
@@ -3380,7 +4108,12 @@
     "url": "/results/problem/cellular-senescence/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-188",
@@ -3398,7 +4131,12 @@
     "url": "/results/problem/organelle-evolution-via-endosymbiosis/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-189",
@@ -3416,7 +4154,12 @@
     "url": "/results/problem/metabolic-network-topology/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-190",
@@ -3434,7 +4177,12 @@
     "url": "/results/problem/central-dogma-and-its-exceptions/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-191",
@@ -3452,7 +4200,12 @@
     "url": "/results/problem/sexual-reproduction-cost-and-benefit/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-192",
@@ -3470,7 +4223,12 @@
     "url": "/results/problem/convergent-evolution/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-193",
@@ -3488,7 +4246,12 @@
     "url": "/results/problem/fitness-landscape-theory/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-194",
@@ -3506,7 +4269,12 @@
     "url": "/results/problem/red-queen-hypothesis/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-195",
@@ -3524,7 +4292,12 @@
     "url": "/results/problem/trophic-cascade-dynamics/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-196",
@@ -3542,7 +4315,12 @@
     "url": "/results/problem/mycorrhizal-networks/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-197",
@@ -3560,7 +4338,12 @@
     "url": "/results/problem/sleep-function/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-198",
@@ -3578,7 +4361,12 @@
     "url": "/results/problem/consciousness-neural-correlates/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-199",
@@ -3596,7 +4384,12 @@
     "url": "/results/problem/far-future-cosmology-and-universal-bh/",
     "canonical_books": [
       "VI"
-    ]
+    ],
+    "primary_domain": "biology",
+    "secondary_domains": [
+      "life"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-200",
@@ -3614,7 +4407,12 @@
     "url": "/results/problem/persistence-through-change/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-201",
@@ -3632,7 +4430,12 @@
     "url": "/results/problem/mereological-composition/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-202",
@@ -3650,7 +4453,12 @@
     "url": "/results/problem/ontological-dependence/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-203",
@@ -3668,7 +4476,12 @@
     "url": "/results/problem/intentionality/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-204",
@@ -3686,7 +4499,12 @@
     "url": "/results/problem/embodied-cognition/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-205",
@@ -3704,7 +4522,12 @@
     "url": "/results/problem/intersubjectivity/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-206",
@@ -3722,7 +4545,12 @@
     "url": "/results/problem/the-sublime/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-207",
@@ -3740,7 +4568,12 @@
     "url": "/results/problem/musical-universals/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-208",
@@ -3758,7 +4591,12 @@
     "url": "/results/problem/gavagai-and-indeterminacy-of-translation/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-209",
@@ -3776,7 +4614,12 @@
     "url": "/results/problem/syntax-semantics-dissolution/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-210",
@@ -3794,7 +4637,12 @@
     "url": "/results/problem/ai-language-understanding/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-211",
@@ -3812,7 +4660,12 @@
     "url": "/results/problem/trolley-problem-resolution/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-212",
@@ -3830,7 +4683,12 @@
     "url": "/results/problem/moral-realism-derived/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-213",
@@ -3848,7 +4706,12 @@
     "url": "/results/problem/animal-rights-and-dignity/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-214",
@@ -3866,7 +4729,12 @@
     "url": "/results/problem/is-ought-gap-bridged/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-215",
@@ -3884,7 +4752,12 @@
     "url": "/results/problem/emotions-as-register-transitions/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-216",
@@ -3902,7 +4775,12 @@
     "url": "/results/problem/binding-problem-dissolved/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-217",
@@ -3920,7 +4798,12 @@
     "url": "/results/problem/extended-mind/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-218",
@@ -3938,7 +4821,12 @@
     "url": "/results/problem/narrative-identity/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-219",
@@ -3956,7 +4844,12 @@
     "url": "/results/problem/why-something-rather-than-nothing/",
     "canonical_books": [
       "VII"
-    ]
+    ],
+    "primary_domain": "philosophy",
+    "secondary_domains": [
+      "metaphysics"
+    ],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-220",
@@ -3974,7 +4867,10 @@
     "url": "/results/problem/fundamental-theorem-of-arithmetic/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-221",
@@ -3992,7 +4888,10 @@
     "url": "/results/problem/cantor-diagonal-inapplicability/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-222",
@@ -4010,7 +4909,10 @@
     "url": "/results/problem/unique-infinity/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-223",
@@ -4028,7 +4930,10 @@
     "url": "/results/problem/stone-duality/",
     "canonical_books": [
       "II"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-224",
@@ -4046,7 +4951,10 @@
     "url": "/results/problem/fibration-structure-f-t/",
     "canonical_books": [
       "II"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-225",
@@ -4064,7 +4972,10 @@
     "url": "/results/problem/tarski-axioms-for-geometry/",
     "canonical_books": [
       "II"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-226",
@@ -4083,7 +4994,10 @@
     "canonical_books": [
       "I",
       "II"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-227",
@@ -4101,7 +5015,10 @@
     "url": "/results/problem/earned-topos/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-228",
@@ -4119,7 +5036,10 @@
     "url": "/results/problem/poincar-conjecture-reinterpretation/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-229",
@@ -4137,7 +5057,10 @@
     "url": "/results/problem/hodge-conjecture-approach/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-230",
@@ -4155,7 +5078,11 @@
     "url": "/results/problem/bsd-conjecture-approach/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution",
+    "wikipedia_url": "https://en.wikipedia.org/wiki/Birch_and_Swinnerton-Dyer_conjecture"
   },
   {
     "id": "result-231",
@@ -4173,7 +5100,10 @@
     "url": "/results/problem/langlands-program-approach/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-232",
@@ -4191,7 +5121,10 @@
     "url": "/results/problem/grand-grh-approach/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "partial-solution"
   },
   {
     "id": "result-233",
@@ -4209,7 +5142,10 @@
     "url": "/results/problem/tower-machine-architecture/",
     "canonical_books": [
       "III"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   },
   {
     "id": "result-234",
@@ -4227,6 +5163,9 @@
     "url": "/results/problem/number-tower-n-z-q-r-c/",
     "canonical_books": [
       "I"
-    ]
+    ],
+    "primary_domain": "mathematics",
+    "secondary_domains": [],
+    "stance_type": "full-solution"
   }
 ]

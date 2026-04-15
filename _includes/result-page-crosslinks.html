@@ -1,0 +1,39 @@
+{%- comment -%}
+  result-page-crosslinks.html
+  Look up the current result's enriched data in site.data.results.results
+  (matched by slug derived from permalink), then render:
+    - External context (Wikipedia link) — if present
+    - Canonical grounding (books + registry chips) — if frontmatter has it
+  Used from _layouts/result-page.html.
+{%- endcomment -%}
+
+{%- assign slug_match = page.permalink | remove: "/results/problem/" | remove: "/" -%}
+{%- assign entry = nil -%}
+{%- for r in site.data.results.results -%}
+  {%- if r.slug == slug_match -%}
+    {%- assign entry = r -%}
+    {%- break -%}
+  {%- endif -%}
+{%- endfor -%}
+
+{%- if entry.wikipedia_url or page.wikipedia_url -%}
+  {%- assign wiki_url = page.wikipedia_url | default: entry.wikipedia_url -%}
+<aside class="result-external-context">
+  <h2>Orthodox context</h2>
+  <p>Background on this problem in the broader literature:</p>
+  <ul>
+    <li><a href="{{ wiki_url }}" rel="noopener nofollow" target="_blank">Wikipedia: {{ page.title | split: ":" | first | split: " Is " | first }}</a></li>
+  </ul>
+</aside>
+{%- endif -%}
+
+{%- if page.key_registry.size > 0 -%}
+<aside class="result-registry-anchors">
+  <h2>Registry anchors</h2>
+  <div class="registry-list">
+    {%- for reg_id in page.key_registry -%}
+    <a href="{{ '/registry/object/' | append: reg_id | append: '/' | relative_url }}" class="chip">{{ reg_id }}</a>
+    {%- endfor -%}
+  </div>
+</aside>
+{%- endif -%}
