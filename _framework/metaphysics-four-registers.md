@@ -5,6 +5,17 @@ layer: E3
 strand: foundations
 summary_short: Empirical, Practical, Diagrammatic, Commitment — four orthogonal modes
   of engagement.
+diagrams:
+- src: /assets/diagrams/framework/book-vii/metaphysics-four-registers-sector-e3.svg
+  caption: "The 4+1 sector template at enrichment level E₃: four registers (ontology/phenomenology, pattern/language/proof, dignity/ethics/society, mind/consciousness/Logos) plus the mixed Logos sector."
+  alt: "The 4+1 sector template at enrichment level E₃: four registers (ontology/phenomenology, pattern/language/proof, dignity/ethics/society,…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch05-sector-e3"
+- src: /assets/diagrams/framework/book-vii/metaphysics-four-registers-enrichment-tower.svg
+  caption: "The enrichment tower culminating at E₃: mathematical kernel (E₀), physics (E₁), and life (E₂) provide the substrate for the metaphysical enrichment layer (E₃)."
+  alt: "The enrichment tower culminating at E₃: mathematical kernel (E₀), physics (E₁), and life (E₂) provide the substrate for the metaphysical enrichment layer (E₃)."
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch04-enrichment-tower"
 thesis: At E₃, reality decomposes into four independent registers; the Saturation
   Theorem proves no E₄ exists.
 canonical_books:

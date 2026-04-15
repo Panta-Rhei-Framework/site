@@ -5,6 +5,17 @@ layer: E3
 strand: commitment
 summary_short: Mind as internal topos; consciousness as global section; free will
   as branching; identity as address persistence.
+diagrams:
+- src: /assets/diagrams/framework/book-vii/metaphysics-mind-consciousness-minds-topoi.svg
+  caption: "Minds as internal topoi: the mind is modeled as an internal topos of τ³, whose external aspect is objective physical structure and whose internal aspect is subjective conscious experience. The two are categorically dual."
+  alt: "Minds as internal topoi: the mind is modeled as an internal topos of τ³, whose external aspect is objective physical structure and whose internal aspect is…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch106-minds-topoi"
+- src: /assets/diagrams/framework/book-vii/metaphysics-mind-consciousness-free-will.svg
+  caption: "Free will as branching in the action category: from a decision point, multiple action morphisms are possible, but only one is actualized. Non-actualized morphisms remain as genuine possibilities in the categorical structure."
+  alt: "Free will as branching in the action category: from a decision point, multiple action morphisms are possible, but only one is actualized. Non-actualized…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch112-free-will"
 thesis: Consciousness is the sheaf-theoretic gluing of local representations; free
   will is genuine branching in the action category; compatibilism is dissolved as
   a category error.

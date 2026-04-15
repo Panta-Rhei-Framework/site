@@ -5,6 +5,17 @@ layer: E3
 strand: practical
 summary_short: The Categorical Imperative as the unique minimal j-closed fixed point
   — ethics derived, not postulated.
+diagrams:
+- src: /assets/diagrams/framework/book-vii/metaphysics-categorical-ethics-ci-sheaf.svg
+  caption: "The Categorical Imperative as a sheaf condition: local moral obligations at the level of individual acts, communities, and institutions are compatible on overlaps and assemble into a unique global moral law. Kant's universalizability is the sheaf gluing axiom."
+  alt: "The Categorical Imperative as a sheaf condition: local moral obligations at the level of individual acts, communities, and institutions are compatible on…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch77-ci-sheaf"
+- src: /assets/diagrams/framework/book-vii/metaphysics-categorical-ethics-ci-failures.svg
+  caption: "CI failure modes: the Categorical Imperative can fail by producing a non-universalizable maxim (global section does not exist) or by self-defeating performative contradiction. Both are sheaf-theoretic obstructions."
+  alt: "CI failure modes: the Categorical Imperative can fail by producing a non-universalizable maxim (global section does not exist) or by self-defeating…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch77-ci-failures"
 thesis: Kant's CI is the minimal fixed point of the dignity modality in the presheaf
   topos; dignity is label-independence; no-conflict theorem proves CI-derived duties
   cannot conflict.

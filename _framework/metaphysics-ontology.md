@@ -4,6 +4,12 @@ module_id: E3-002
 layer: E3
 strand: empirical
 summary_short: Relations precede relata — what exists is structural, not substantial.
+diagrams:
+- src: /assets/diagrams/framework/book-vii/metaphysics-ontology-generators-lemniscate.svg
+  caption: "The five generators of Category τ on the lemniscate ℒ = S¹ ∨ S¹: α (complementarity) and π (projection) govern the left lobe; η and ω govern the right lobe; γ (crossing) is localized at the shared wedge point."
+  alt: "The five generators of Category τ on the lemniscate ℒ = S¹ ∨ S¹: α (complementarity) and π (projection) govern the left lobe; η and ω govern the right lobe; γ…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch17-generators-lemniscate"
 thesis: The τ-kernel provides the ontological foundation; relational primacy, non-dualistic
   Platonism, and identity as address persistence.
 canonical_books:

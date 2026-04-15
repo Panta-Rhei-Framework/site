@@ -4,6 +4,12 @@ module_id: E3-010
 layer: E3
 strand: logos
 summary_short: Where proof-validity and stance-stability coincide — the crown of E₃.
+diagrams:
+- src: /assets/diagrams/framework/book-vii/metaphysics-logos-sector-logos-sector.svg
+  caption: "The Logos sector S_L as the unifying principle: S_L = S_D ∩ S_C is the unique mixed sector intersecting all four domain sectors, providing the principle that binds them into a unified framework."
+  alt: "The Logos sector S_L as the unifying principle: S_L = S_D ∩ S_C is the unique mixed sector intersecting all four domain sectors, providing the principle that…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch119-logos-sector"
 thesis: The Logos sector S_L = S_D ∩ S_C is the unique mixed sector where proof meets
   commitment; four-register convergence.
 canonical_books:

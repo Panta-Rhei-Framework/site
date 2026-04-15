@@ -4,6 +4,12 @@ module_id: E3-003
 layer: E3
 strand: empirical
 summary_short: Knowledge as sections; perception as constraint-filtered readout.
+diagrams:
+- src: /assets/diagrams/framework/book-vii/metaphysics-phenomenology-knowledge-sections.svg
+  caption: "Knowledge as sections of a sheaf: local knowledge claims over domains U₁, U₂, U₃ are compatible on overlaps and glue to a unique global section. Epistemological coherence is the sheaf condition."
+  alt: "Knowledge as sections of a sheaf: local knowledge claims over domains U₁, U₂, U₃ are compatible on overlaps and glue to a unique global section.…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch33-knowledge-sections"
 thesis: Perception is section-filtering; time experience is temporalization; intersubjectivity
   is constraint-shared sections.
 canonical_books:

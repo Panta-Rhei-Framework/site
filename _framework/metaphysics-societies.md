@@ -5,6 +5,12 @@ layer: E3
 strand: practical
 summary_short: Social ontology as sheaf theory; power as morphism; legitimacy as recognition
   coherence.
+diagrams:
+- src: /assets/diagrams/framework/book-vii/metaphysics-societies-social-ontology.svg
+  caption: "Social ontology as recognition-topology: a social group is constituted by a network of mutual recognition relations among agents. The category-theoretic structure is a directed graph whose cycles encode collective identity."
+  alt: "Social ontology as recognition-topology: a social group is constituted by a network of mutual recognition relations among agents. The category-theoretic…"
+  source: "Book VII, Chapter 0"
+  label: "fig:bookVII-ch94-social-ontology"
 thesis: Societies organize via recognition topology; dignity-bearing agents form the
   base space; spheres, Dunbar limits, and sovereignty as categorical structures.
 canonical_books:
