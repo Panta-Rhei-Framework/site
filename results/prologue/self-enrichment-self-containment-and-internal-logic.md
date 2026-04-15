@@ -6,6 +6,14 @@ lane: results
 section: "Results · Prologue"
 nav_order: 5
 summary_short: "Why Tau can enrich over itself, host internal logic, and remain ontically closed — and why this changes the epistemic shape of the framework."
+key_registry:
+  - I.T01
+  - I.T24
+  - I.P26
+  - I.P28
+  - I.D80
+  - VII.T07
+  - VII.D15
 right_rail:
   related:
   - title: Results Prologue
@@ -37,13 +45,13 @@ In many familiar higher-categorical or topos-theoretic settings, enrichment come
 
 Tau claims something much stranger.
 
-It claims that [self-enrichment]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}) does **not** require ontic inflation. The base world remains closed. No new ontic substrate is added. What increases is not the amount of underlying "stuff," but the structural articulation of what is already there.
+It claims that [self-enrichment]({{ '/framework/about/self-enrichment-and-the-four-layers/' | relative_url }}) does **not** require ontic inflation ([I.P28]({{ '/registry/object/I.P28/' | relative_url }}), Self-Enrichment). The base world remains closed. No new ontic substrate is added. What increases is not the amount of underlying "stuff," but the structural articulation of what is already there.
 
 That is the first central point of this page.
 
 ## No new ontic substrate
 
-The program's ontic closure claim is strong. The base level gives the generators, axioms, and operator from which the world is built. Once that closure is granted, enrichment is not understood as importing new base furniture. It is understood as allowing the same closure to organize itself at higher structural orders.
+The program's ontic closure claim ([I.T01]({{ '/registry/object/I.T01/' | relative_url }}), Ontic Closure) is strong. The base level gives the generators, axioms, and operator from which the world is built. Once that closure is granted, enrichment is not understood as importing new base furniture. It is understood as allowing the same closure to organize itself at higher structural orders.
 
 This distinction is decisive:
 
@@ -58,7 +66,7 @@ This is also where internal logic enters the picture.
 
 Tau is not only claimed to generate objects and relations. It is claimed to become capable of hosting increasingly rich internal semantic and proof-bearing structure. In the language of the site, that is part of what makes the framework [self-containing]({{ '/framework/about/self-hosting-and-internal-semantic-closure/' | relative_url }}) rather than externally scaffolded.
 
-The emergence of topos-like and self-hosting structure therefore matters for more than technical elegance. It changes the epistemic posture of the whole system.
+The emergence of topos-like ([I.T24]({{ '/registry/object/I.T24/' | relative_url }}), Grothendieck Topos) and self-hosting structure ([I.D80]({{ '/registry/object/I.D80/' | relative_url }}), Self-Hosting Degree) therefore matters for more than technical elegance. It changes the epistemic posture of the whole system.
 
 A system that can host:
 - its own object-level structures,
@@ -73,7 +81,7 @@ One of the most striking parts of the program's claim is that this enrichment do
 
 The framework remains, on its own reading:
 - constructive,
-- countable,
+- countable ([I.P26]({{ '/registry/object/I.P26/' | relative_url }}), Countable Topos),
 - and ontically closed,
 
 even as it becomes increasingly rich.
@@ -126,7 +134,7 @@ This also gives the right place to speak carefully about Godel and completeness.
 
 The program does **not** need to say that Godel was simply "wrong." That would be careless. Godel's theorems apply to certain kinds of formal systems under particular assumptions.
 
-What the program claims instead is more precise: Tau is a differently shaped foundational world. Within that world, the relation between proof, truth, and decidability is different from the one familiar from the dominant set-theoretic and externalist picture.
+What the program claims instead is more precise: Tau is a differently shaped foundational world. Within that world, the relation between proof, truth, and decidability is different from the one familiar from the dominant set-theoretic and externalist picture — a point formalized as the Godel Avoidance Theorem ([VII.T07]({{ '/registry/object/VII.T07/' | relative_url }})) and grounded in the Bounded Witness Form ([VII.D15]({{ '/registry/object/VII.D15/' | relative_url }})).
 
 This is why the program describes Tau as, on its own terms, a Godel-complete world: proof, admissible truth, and decidability are held to coincide within the admissible mathematical universe of the framework. That is not a universal slogan about all formal systems whatsoever. It is a claim about the differently shaped host world Tau takes itself to be.
 
@@ -139,6 +147,16 @@ If self-enrichment required ontic inflation, then the move from mathematics to [
 That is one of the deepest reasons this page belongs at the center of the mathematics readout cluster.
 
 Tau is not only a different mathematics. It is a different kind of mathematical world: one that claims to remain one while becoming capable of describing more and more of itself.
+
+## Canonical References
+
+- [I.T01]({{ '/registry/object/I.T01/' | relative_url }}) — Ontic Closure
+- [I.T24]({{ '/registry/object/I.T24/' | relative_url }}) — Grothendieck Topos
+- [I.P26]({{ '/registry/object/I.P26/' | relative_url }}) — Countable Topos
+- [I.P28]({{ '/registry/object/I.P28/' | relative_url }}) — Self-Enrichment
+- [I.D80]({{ '/registry/object/I.D80/' | relative_url }}) — Self-Hosting Degree Classification
+- [VII.T07]({{ '/registry/object/VII.T07/' | relative_url }}) — Godel Avoidance Theorem
+- [VII.D15]({{ '/registry/object/VII.D15/' | relative_url }}) — Bounded Witness Form
 
 ---
 

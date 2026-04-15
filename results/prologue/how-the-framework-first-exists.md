@@ -6,6 +6,16 @@ lane: results
 section: "Results · Prologue"
 nav_order: 2
 summary_short: "The first epistemic stance of the program: TauLib as materialized formal system and the first admissible layer of resulthood."
+key_registry:
+  - I.D01
+  - I.D02
+  - I.K0
+  - I.K1
+  - I.K2
+  - I.K3
+  - I.K4
+  - I.K5
+  - I.K6
 right_rail:
   related:
   - title: Results Prologue
@@ -93,8 +103,8 @@ The importance of this ladder is that it prevents all claims from collapsing int
 One of the central achievements of the program is that it does not merely *intend* a constrained kernel. It realizes one.
 
 It realizes:
-- a finite signature,
-- a disciplined operator structure,
+- a finite signature ([I.D01]({{ '/registry/object/I.D01/' | relative_url }}), Five Generators),
+- a disciplined operator structure ([I.D02]({{ '/registry/object/I.D02/' | relative_url }}), Progression Operator),
 - theorem-bearing constructions,
 - a [registry]({{ '/registry/' | relative_url }}) of definitions and dependencies,
 - and a proof-bearing formal surface through [TauLib]({{ '/verify/' | relative_url }}).
@@ -117,6 +127,18 @@ It does not yet claim that:
 Those stronger questions come later.
 
 What this page claims is something more fundamental: the framework first exists as a materialized formal system, and that existence is already the first layer of resulthood on which everything else depends.
+
+## Canonical References
+
+- [I.D01]({{ '/registry/object/I.D01/' | relative_url }}) — Five Generators
+- [I.D02]({{ '/registry/object/I.D02/' | relative_url }}) — Progression Operator
+- [I.K0]({{ '/registry/object/I.K0/' | relative_url }}) — Universe Postulate
+- [I.K1]({{ '/registry/object/I.K1/' | relative_url }}) — Strict Order
+- [I.K2]({{ '/registry/object/I.K2/' | relative_url }}) — Omega Fixed Point
+- [I.K3]({{ '/registry/object/I.K3/' | relative_url }}) — Orbit-Seeded Generation
+- [I.K4]({{ '/registry/object/I.K4/' | relative_url }}) — No-Jump / Cover
+- [I.K5]({{ '/registry/object/I.K5/' | relative_url }}) — Beacon Non-Successor
+- [I.K6]({{ '/registry/object/I.K6/' | relative_url }}) — Object Closure
 
 ---
 

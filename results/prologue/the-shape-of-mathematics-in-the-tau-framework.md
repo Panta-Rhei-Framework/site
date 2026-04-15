@@ -6,6 +6,15 @@ lane: results
 section: "Results · Prologue"
 nav_order: 3
 summary_short: "What kind of mathematical universe Tau describes once it is read on its own terms — its logic, ontology of infinity, geometry, and proof-theoretic shape."
+key_registry:
+  - I.T01
+  - I.T37
+  - I.P04
+  - I.P12
+  - I.K2
+  - I.X02
+  - II.P16
+  - II.T52
 right_rail:
   related:
   - title: Results Prologue
@@ -35,7 +44,7 @@ The Panta Rhei program's answer is strong and unusual. Tau is not presented as a
 
 The first thing to make explicit is that Tau does not differ from familiar foundations merely by choosing some unusual statements as axioms. The divergence begins earlier, at the level of what counts as an admissible move.
 
-The framework refuses unrestricted diagonal reuse. It binds itself to a constructive, finite-recursive, and [resource-sensitive discipline]({{ '/framework/mathematics-linear-logic/' | relative_url }}). In this sense, the shift is already deeper than the ordinary contrast between two axiom systems inside a shared background logic. It reaches into the admissible calculus itself.
+The framework refuses unrestricted diagonal reuse ([I.T37]({{ '/registry/object/I.T37/' | relative_url }}), Diagonal-Linear Correspondence). It binds itself to a constructive, finite-recursive, and [resource-sensitive discipline]({{ '/framework/mathematics-linear-logic/' | relative_url }}). In this sense, the shift is already deeper than the ordinary contrast between two axiom systems inside a shared background logic. It reaches into the admissible calculus itself.
 
 That is why the resulting world may at first look "mostly familiar" from a distance and yet differ more radically than many readers expect. It is not just "classical mathematics plus a few corrections." It is a world built under a different regime of admissibility.
 
@@ -43,7 +52,7 @@ That is why the resulting world may at first look "mostly familiar" from a dista
 
 One of the clearest readouts of this different world is its treatment of size and infinity.
 
-On the program's reading, the ontic universe of Tau is countable. There is no proliferation of independent cardinal hierarchies as ontically basic furniture of the world. Instead, there is exactly one globally distinguished infinity, omega, and that infinity is not introduced as an unbounded external hierarchy but as a uniquely determined structural feature of the framework itself.
+On the program's reading, the ontic universe of Tau is countable ([I.T01]({{ '/registry/object/I.T01/' | relative_url }}), Ontic Closure; [I.P04]({{ '/registry/object/I.P04/' | relative_url }}), Orbit Countability; [I.P12]({{ '/registry/object/I.P12/' | relative_url }}), Countability of Set(tau)). There is no proliferation of independent cardinal hierarchies as ontically basic furniture of the world. Instead, there is exactly one globally distinguished infinity, omega ([I.K2]({{ '/registry/object/I.K2/' | relative_url }}), Omega Fixed Point), and that infinity is not introduced as an unbounded external hierarchy but as a uniquely determined structural feature of the framework itself.
 
 This is already a profound shift.
 
@@ -55,7 +64,7 @@ The shape of mathematics in Tau is also geometric in a way that is not merely de
 
 On the program's reading, the global ambient structure is [hyperbolic]({{ '/framework/mathematics-hyperbolic-geometry/' | relative_url }}) rather than elliptic. At the same time, the system claims to recover a full Tarski-Euclidean geometry, including the parallel axiom as theorem rather than arbitrary stipulation. The result is not a trivial rejection of classical geometry, but a re-grounding of it.
 
-Holonomy, too, is not a later technical accessory. It is structurally fundamental. Geometry is not merely laid on top of an inert set-theoretic background; it is woven into the way the world of Tau coheres.
+Holonomy, too, is not a later technical accessory. It is structurally fundamental ([II.P16]({{ '/registry/object/II.P16/' | relative_url }}), Holonomy Triviality; [II.T52]({{ '/registry/object/II.T52/' | relative_url }}), Lemniscate Holonomy). Geometry is not merely laid on top of an inert set-theoretic background; it is woven into the way the world of Tau coheres.
 
 That matters because it shows that Tau is not only a different arithmetic or logical universe. It is a world whose ambient geometry already differs in kind from what many readers tacitly import when they imagine "ordinary mathematics."
 
@@ -81,7 +90,7 @@ This is one of the most far-reaching claims of the mathematical universe Tau des
 
 Another defining feature of this mathematical world is the absence of ontological leftovers.
 
-Tau does not present itself as a partially described world with an unbounded outside forever waiting to be imported back in. Its ambition is closure: not closure by truncation, but closure by earned internal articulation. What exists is meant to be generated, related, enriched, and described from within the same world.
+Tau does not present itself as a partially described world with an unbounded outside forever waiting to be imported back in. Its ambition is closure ([I.X02]({{ '/registry/object/I.X02/' | relative_url }}), Earned Category): not closure by truncation, but closure by earned internal articulation. What exists is meant to be generated, related, enriched, and described from within the same world.
 
 This is one of the reasons the program repeatedly speaks of [self-containment]({{ '/results/prologue/self-enrichment-self-containment-and-internal-logic/' | relative_url }}) and the rejection of externalities. It is not only a methodological preference. It is part of the mathematical shape of the world itself.
 
@@ -97,6 +106,17 @@ It becomes less surprising that:
 This page therefore does more than describe mathematics. It describes the first full readout of the world-picture. It tells the reader what sort of universe they are standing inside before they move on to ask what major truths this mathematics yields.
 
 That is the [next question]({{ '/results/prologue/what-this-mathematics-makes-true/' | relative_url }}).
+
+## Canonical References
+
+- [I.T01]({{ '/registry/object/I.T01/' | relative_url }}) — Ontic Closure
+- [I.T37]({{ '/registry/object/I.T37/' | relative_url }}) — Diagonal-Linear Correspondence
+- [I.P04]({{ '/registry/object/I.P04/' | relative_url }}) — Orbit Countability
+- [I.P12]({{ '/registry/object/I.P12/' | relative_url }}) — Countability of Set(tau)
+- [I.K2]({{ '/registry/object/I.K2/' | relative_url }}) — Omega Fixed Point
+- [I.X02]({{ '/registry/object/I.X02/' | relative_url }}) — Earned Category and Topos
+- [II.P16]({{ '/registry/object/II.P16/' | relative_url }}) — Holonomy Triviality
+- [II.T52]({{ '/registry/object/II.T52/' | relative_url }}) — Lemniscate Holonomy
 
 ---
 
