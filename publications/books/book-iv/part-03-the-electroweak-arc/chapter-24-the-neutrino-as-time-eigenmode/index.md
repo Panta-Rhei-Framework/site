@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 23: Weak Holonomy and the W/Z Bosons"
 next_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-25-electroweak-mixing/"
 next_chapter_title: "Chapter 25: Electroweak Mixing"
-summary_short: "The neutrino is the ghost particle—almost massless, weakly interacting, mysterious. In Category $τ$ the mystery dissolves: the neutrino is the $τ^1$ **time…"
+summary_short: "The neutrino is the ghost particle—almost massless, weakly interacting, mysterious. In Category τ the mystery dissolves: the neutrino is the τ¹ **time…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-03-the-electroweak-arc/"
@@ -39,10 +39,10 @@ right_rail:
 
 
 The neutrino is the ghost particle—almost massless, weakly
-interacting, mysterious. In Category $τ$ the mystery dissolves:
-the neutrino is the $τ^1$ **time eigenmode** that emerges
-in $β^-$ decay. It is literally a "ray of time" made manifest
+interacting, mysterious. In Category τ the mystery dissolves:
+the neutrino is the τ¹ **time eigenmode** that emerges
+in β^- decay. It is literally a "ray of time" made manifest
 as a particle. Its near-masslessness, its weak-only interaction,
 and its definite helicity all follow from a single geometric fact:
-the neutrino lives primarily on the base $τ^1$, with minimal
-$τ^2$ footprint.
+the neutrino lives primarily on the base τ¹, with minimal
+τ² footprint.

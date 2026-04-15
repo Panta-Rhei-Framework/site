@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-addr
 prev_chapter_title: "Chapter 17: The Address-Obstruction Theorem"
 next_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-19-energy-entropy-and-the-arrow/"
 next_chapter_title: "Chapter 19: Energy, Entropy, and the Arrow"
-summary_short: "Two pillars of quantum mechanics—measurement and time evolution—are here derived from $τ^3$ geometry. Measurement is character mode selection: projecting a…"
+summary_short: "Two pillars of quantum mechanics—measurement and time evolution—are here derived from τ³ geometry. Measurement is character mode selection: projecting a…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 Two pillars of quantum mechanics—measurement and time evolution—are
-here derived from $τ^3$ geometry. Measurement is character mode
+here derived from τ³ geometry. Measurement is character mode
 selection: projecting a superposition onto the CR-admissible basis.
 The Born rule follows from the Pythagorean theorem in Hilbert space.
 The Schrödinger equation emerges as the infinitesimal generator of
-holomorphic time evolution along $τ^1$. Neither is postulated;
+holomorphic time evolution along τ¹. Neither is postulated;
 both are geometric consequences of the CR-structure.

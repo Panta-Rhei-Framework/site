@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 29: ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-31-the-bndlift/"
 next_chapter_title: "Chapter 31: The BndLift"
-summary_short: "Parts I–V built the infrastructure of Book II without making the split-complex codomain $H_τ$ load-bearing. The bipolar scalars (I.D20, Book I) were present…"
+summary_short: "Parts I–V built the infrastructure of Book II without making the split-complex codomain H_τ load-bearing. The bipolar scalars (I.D20, Book I) were present…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
@@ -40,33 +40,33 @@ right_rail:
 
 Parts I–V built the infrastructure of Book II
 without making the split-complex codomain
-$H_τ$ load-bearing.
+H_τ load-bearing.
 The bipolar scalars (I.D20, Book I)
 were present from the prologue,
 but they carried no numerical content:
-$e_± = (1 ± \jj)/2$ were algebraic idempotents
+e_± = (1 ± j)/2 were algebraic idempotents
 without concrete geometric meaning.
 Part V changed this.
-$π$ calibrates angular periods
+π calibrates angular periods
 (II.T22, the relevant chapter),
-$e$ calibrates radial growth
+e calibrates radial growth
 (II.T23, the relevant chapter),
-$\jj$ replaces $i$ as the bipolar unit
+j replaces i as the bipolar unit
 (II.T24, the relevant chapter),
-and $ι_τ = 2/(π + e)$
+and ι_τ = 2/(π + e)
 couples the two measurement systems
 (II.T25, the relevant chapter).
 This chapter restates the split-complex codomain
 with these four constants installed.
-The result is $H_τ^{cal}$:
+The result is H_τ^cal:
 the **calibrated** split-complex codomain.
-The idempotents $e_±$ acquire geometric meaning
+The idempotents e_± acquire geometric meaning
 as projections onto angular–growth sectors,
-and the $ω$-germ transformers
+and the ω-germ transformers
 become valued in a codomain
 that carries numerical content.
 Part VI builds on this calibrated codomain;
 every subsequent construction
 in Chapters –
-uses the constants $π$, $e$, $\jj$, $ι_τ$
-through the lens of $H_τ^{cal}$.
+uses the constants π, e, j, ι_τ
+through the lens of H_τ^cal.

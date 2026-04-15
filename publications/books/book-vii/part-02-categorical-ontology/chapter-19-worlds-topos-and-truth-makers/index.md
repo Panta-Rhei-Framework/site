@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/cha
 prev_chapter_title: "Chapter 18: Internal Sets and Boundedness"
 next_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-20-geometry-from-generators/"
 next_chapter_title: "Chapter 20: Geometry from Generators"
-summary_short: "The topos structure internal to $τ$ provides a natural setting for truth, possibility, and truth-making. The subobject classifier $Ω$ furnishes a richer space…"
+summary_short: "The topos structure internal to τ provides a natural setting for truth, possibility, and truth-making. The subobject classifier Ω furnishes a richer space…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-02-categorical-ontology/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-The topos structure internal to $τ$ provides a natural setting for
+The topos structure internal to τ provides a natural setting for
 truth, possibility, and truth-making. The subobject classifier
-$Ω$ furnishes a richer space of truth values than the classical
-two-element set $\{0, 1\}$. Possible worlds are reconstructed as
+Ω furnishes a richer space of truth values than the classical
+two-element set {0, 1}. Possible worlds are reconstructed as
 internal domains—objects of the presheaf topos with accessibility
 morphisms between them—without invoking Lewisian realism about
 concrete possible worlds. Truth-makers are classified into four

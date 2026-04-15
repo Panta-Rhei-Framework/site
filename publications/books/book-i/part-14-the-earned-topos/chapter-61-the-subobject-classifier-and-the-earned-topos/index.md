@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-6
 prev_chapter_title: "Chapter 60: Limits, Sites, and the Presheaf Topos"
 next_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-62-cartesian-product-as-earned-bi-functor/"
 next_chapter_title: "Chapter 62: Cartesian Product as Earned Bi-Functor"
-summary_short: "the relevant chapter (Part XI) defined $Ω_τ = Truth4$ as the subobject classifier (the relevant definition, I.D41) — but that was a *preview*. With…"
+summary_short: "the relevant chapter (Part XI) defined Ω_τ = Truth4 as the subobject classifier (the relevant definition, I.D41) — but that was a *preview*. With…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-14-the-earned-topos/"
@@ -39,32 +39,32 @@ right_rail:
 
 
 the relevant chapter (Part XI) defined
-$Ω_τ = Truth4$
+Ω_τ = Truth4
 as the subobject classifier
 (the relevant definition, I.D41) —
 but that was a *preview*.
-With the presheaf topos $PSh(Cat_τ)$
+With the presheaf topos PSh(Cat_τ)
 (the relevant definition, I.D57)
 and its Grothendieck topos structure
 (the relevant theorem, I.T24)
 now in hand, the preview becomes a theorem.
-The **$Ω_τ$ Subobject Classifier Theorem**
+The **Ω_τ Subobject Classifier Theorem**
 (the relevant theorem, I.T25)
-proves that $Ω_τ = \{T, F, B, N\}$
-is the subobject classifier of $PSh(Cat_τ)$.
+proves that Ω_τ = {T, F, B, N}
+is the subobject classifier of PSh(Cat_τ).
 We construct the **characteristic morphism**
-$χ_S : X → Ω_τ$
+χ_S : X → Ω_τ
 (the relevant definition, I.D58),
-define the **earned topos** $E_τ$
+define the **earned topos** E_τ
 (the relevant definition, I.D59),
 and prove it is **paraconsistent**
 (Proposition [prop:non-boolean], I.P27):
-$Ω_τ$ is a Boolean algebra,
+Ω_τ is a Boolean algebra,
 yet material implication does not satisfy explosion —
 a structural consequence of the explosion barrier
 (the relevant theorem, I.T13).
 The four truth values of Part XI
 are now *forced* by the topos structure.
-$E_τ$ provides the foundation
+E_τ provides the foundation
 for Part XIV 
 and the Global Hartogs Theorem (Part XV).

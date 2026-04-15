@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 22: The Weak Force and Chirality"
 next_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-24-the-neutrino-as-time-eigenmode/"
 next_chapter_title: "Chapter 24: The Neutrino as Time Eigenmode"
-summary_short: "The W and Z bosons mediate the weak interaction. In standard physics they are massive gauge bosons whose mass comes from the Higgs mechanism. In Category $τ$…"
+summary_short: "The W and Z bosons mediate the weak interaction. In standard physics they are massive gauge bosons whose mass comes from the Higgs mechanism. In Category τ…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-03-the-electroweak-arc/"
@@ -40,9 +40,9 @@ right_rail:
 
 The W and Z bosons mediate the weak interaction. In standard physics
 they are massive gauge bosons whose mass comes from the Higgs
-mechanism. In Category $τ$ they have a cleaner identity:
+mechanism. In Category τ they have a cleaner identity:
 the W boson is the **junction intertwiner**—the mode that
 carries quantum numbers across the lemniscate junction during a
 weak transition. The Z boson is the **junction oscillator**—a
 mode that probes the junction without crossing. This chapter develops
-both from holonomy on $τ^2$ through the $ω$-crossing.
+both from holonomy on τ² through the ω-crossing.

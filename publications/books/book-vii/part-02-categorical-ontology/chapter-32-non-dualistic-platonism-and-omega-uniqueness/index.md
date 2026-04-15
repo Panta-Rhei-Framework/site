@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/cha
 prev_chapter_title: "Chapter 31: Solipsism Resolved: Three Layers"
 next_chapter_url: "/publications/books/book-vii/part-03-categorical-phenomenology/chapter-33-knowledge-as-sections-over-experience/"
 next_chapter_title: "Chapter 33: Knowledge as Sections over Experience"
-summary_short: "The capstone chapter of Part II resolves the Platonism-nominalism debate by showing that it presupposes substance ontology. In $τ$, there is a single ontology…"
+summary_short: "The capstone chapter of Part II resolves the Platonism-nominalism debate by showing that it presupposes substance ontology. In τ, there is a single ontology…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-02-categorical-ontology/"
@@ -39,12 +39,12 @@ right_rail:
 
 
 The capstone chapter of Part II resolves the Platonism-nominalism debate
-by showing that it presupposes substance ontology. In $τ$, there is
+by showing that it presupposes substance ontology. In τ, there is
 a single ontology with epistemic stratification—not two worlds
 (physical and mathematical) but one relational structure accessed through
 different readout functors. Platonic forms become normal-form addresses:
 each ontic form has a unique NF position in the kernel, and what looks
-like a "realm of forms" is the address space of $τ$ itself. The
-chapter closes with the $ω$-uniqueness principle and theorem:
+like a "realm of forms" is the address space of τ itself. The
+chapter closes with the ω-uniqueness principle and theorem:
 there can be only one terminal coherence point, and local infinities
 cannot compete with it.

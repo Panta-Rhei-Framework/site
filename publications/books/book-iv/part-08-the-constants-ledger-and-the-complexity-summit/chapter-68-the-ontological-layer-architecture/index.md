@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-
 prev_chapter_title: "Chapter 67: The Complete Coupling Ledger"
 next_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-69-running-vs-readout/"
 next_chapter_title: "Chapter 69: Running vs.\ Readout"
-summary_short: "Every object in the $τ^3$ physics stack lives at exactly one of three ontological layers: L0 (the math kernel), L1 (internal physics), and L2 (the SI bridge).…"
+summary_short: "Every object in the τ³ physics stack lives at exactly one of three ontological layers: L0 (the math kernel), L1 (internal physics), and L2 (the SI bridge).…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-Every object in the $τ^3$ physics stack lives at exactly one of
+Every object in the τ³ physics stack lives at exactly one of
 three ontological layers: L0 (the math kernel), L1 (internal physics),
 and L2 (the SI bridge). This chapter defines the layers, classifies
 every key equation to its layer, introduces the readout functor
-$R_μ$ that maps internal identities to measurement procedures,
+R_μ that maps internal identities to measurement procedures,
 and establishes that the entire derivation chain requires only one
 empirical input—the neutron mass—plus four exact SI constants.

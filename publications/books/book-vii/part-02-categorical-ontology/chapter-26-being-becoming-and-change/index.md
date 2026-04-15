@@ -49,5 +49,5 @@ real (morphisms are genuine transitions) *and* invariants persist
 (fixed points of the morphism web remain stable). The series title
 *Panta Rhei*—"everything flows"—encodes precisely this
 resolution: flow *with* invariants. The Ship of Theseus receives
-a precise $τ$-address analysis. Personal identity is previewed as
+a precise τ-address analysis. Personal identity is previewed as
 a topic developed in Part IX.

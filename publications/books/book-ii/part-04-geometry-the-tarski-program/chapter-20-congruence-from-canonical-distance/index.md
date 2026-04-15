@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-progr
 prev_chapter_title: "Chapter 19: Betweenness from Ultrametric"
 next_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-21-pasch-and-the-parallel-postulate/"
 next_chapter_title: "Chapter 21: Pasch and the Parallel Postulate"
-summary_short: "the relevant chapter earned betweenness as a theorem from the ultrametric structure of $τ^3$, verifying Tarski axioms T1–T3. This chapter earns…"
+summary_short: "the relevant chapter earned betweenness as a theorem from the ultrametric structure of τ³, verifying Tarski axioms T1–T3. This chapter earns…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/"
@@ -39,11 +39,11 @@ right_rail:
 
 
 the relevant chapter earned betweenness
-as a theorem from the ultrametric structure of $τ^3$,
+as a theorem from the ultrametric structure of τ³,
 verifying Tarski axioms T1–T3.
 This chapter earns **congruence**
 from the *same* canonical distance
-$d(x,y) = 2^{-δ(x,y)}$
+d(x,y) = 2^{-δ(x,y)}
 (II.D13, the relevant chapter).
 Two segments are congruent when their endpoints
 have equal ultrametric distance.

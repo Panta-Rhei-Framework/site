@@ -46,7 +46,7 @@ presheaves, natural transformations, functors.
 This chapter closes the loop:
 the **Presheaf Characterization Theorem**
 (the relevant theorem, I.T40)
-proves that $τ$-holomorphic functions are
+proves that τ-holomorphic functions are
 *precisely* the natural transformations
 from the primorial presheaf to its split-complex extension
 that respect the sector decomposition.

@@ -43,7 +43,7 @@ metaphysical register. Relations and transformations constitute the
 basic vocabulary of reality; "objects" are stabilized patterns within
 a relational web. The Yoneda Lemma becomes an ontological principle:
 what an entity *is* reduces to how it relates to everything else.
-Category $τ$ is not a mathematical convenience but the ontic
+Category τ is not a mathematical convenience but the ontic
 substrate—the single structure from which all ontological content is
 derived. Historical precursors from Aristotle through Leibniz to
 Whitehead are acknowledged, and the decisive categorical sharpening is

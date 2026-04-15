@@ -42,7 +42,7 @@ This is the final chapter of Book III and the capstone of the mathematical
 core. Section 1 recapitulates the journey from five generators to the
 terminal enrichment level: every step earned, every concept constructed.
 Section 2 displays the eight Millennium Problems as eight readings of one
-tension—the $(×, ∧)$-bifurcation on the boundary ring—at four
+tension—the (×, ∧)-bifurcation on the boundary ring—at four
 enrichment levels. Section 3 locates Book III as the structural hinge of
 the seven-book series. Section 4 presents the complete series architecture
 as a single commutative diagram and states the Architecture of Reality

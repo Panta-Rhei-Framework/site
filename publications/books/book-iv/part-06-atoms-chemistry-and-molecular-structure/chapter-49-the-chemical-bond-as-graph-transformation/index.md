@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 48: Multi-Electron Atoms and Shell Structure"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-50-molecular-orbitals-and-hybridization/"
 next_chapter_title: "Chapter 50: Molecular Orbitals and Hybridization"
-summary_short: "Stable atoms combine because sharing $T^2$ co-rotor modes lowers the total energy below the sum of isolated atomic energies. A chemical bond is, in the…"
+summary_short: "Stable atoms combine because sharing T² co-rotor modes lowers the total energy below the sum of isolated atomic energies. A chemical bond is, in the…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -38,13 +38,13 @@ right_rail:
 ---
 
 
-Stable atoms combine because sharing $T^2$ co-rotor modes lowers the
+Stable atoms combine because sharing T² co-rotor modes lowers the
 total energy below the sum of isolated atomic energies. A chemical
-bond is, in the language of Category $τ$, a merged co-rotor
+bond is, in the language of Category τ, a merged co-rotor
 configuration: two (or more) atomic mode maps fuse into a single
-molecular mode map on $τ^3$. This chapter develops the energetic
+molecular mode map on τ³. This chapter develops the energetic
 logic of bond formation, classifies the principal bond types—covalent,
 ionic, metallic, hydrogen, van der Waals—and analyses the hydrogen
-molecule $\textH_2$ as the paradigmatic example. Electronegativity
+molecule H₂ as the paradigmatic example. Electronegativity
 differences determine bond character, and the entire picture is
-recast as a graph transformation in the $τ^3$ fibration.
+recast as a graph transformation in the τ³ fibration.

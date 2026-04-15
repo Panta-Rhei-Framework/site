@@ -44,13 +44,13 @@ advancing from the five exports of Book I
 (coherence kernel, lemniscate boundary, split-complex scalars,
 holomorphic transformers, Global Hartogs Extension)
 to the Central Theorem
-$O(τ^3) ≅ A_{spec}(𝕃)$.
+O(τ³) ≅ A_spec(𝕃).
 The organizing structural insight is the
 **inverted dependency chain**:
 holomorphy is the starting point,
 not the endpoint.
 Continuity, topology, geometry, and the transcendental
-constants $π$, $e$, $j$, $ι_τ$ are all
+constants π, e, j, ι_τ are all
 *consequences* of holomorphic structure—the
 exact inversion of the orthodox order.
 We present the eleven-Part roadmap,

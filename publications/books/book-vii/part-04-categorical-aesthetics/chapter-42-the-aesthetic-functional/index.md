@@ -42,11 +42,11 @@ Pre-symbolic resonance  established that
 aesthetic response precedes symbolic representation: a motif resonates
 when it transports under admissible transformations without
 re-interpretation. This chapter makes the notion precise by introducing
-the *aesthetic functional* $A$, a defect measure on the
-space of motifs that assigns to each motif $m$ a non-negative real
-number quantifying how far $m$ deviates from perfect invariance.
+the *aesthetic functional* A, a defect measure on the
+space of motifs that assigns to each motif m a non-negative real
+number quantifying how far m deviates from perfect invariance.
 The central result is the Beauty-as-Invariance Theorem: a motif is
-beautiful if and only if $A(m) = 0$, i.e., if and only if it
+beautiful if and only if A(m) = 0, i.e., if and only if it
 is invariant under all admissible transformations. The theorem does not
 legislate taste; it identifies the structural content of the word
 "beautiful" within the categorical framework. The subjective-versus-objective

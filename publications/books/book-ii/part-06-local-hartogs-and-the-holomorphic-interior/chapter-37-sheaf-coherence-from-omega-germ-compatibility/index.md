@@ -49,15 +49,15 @@ that vanishes locally vanishes globally (the locality axiom).
 Classical complex analysis proves the sheaf property
 for holomorphic functions
 via analytic continuation and the identity theorem.
-In Category $τ$, the presheaf of holomorphic functions
-on $τ^3$ is defined
+In Category τ, the presheaf of holomorphic functions
+on τ³ is defined
 using cylinder domains (II.D10)
 as the "open sets,"
 and the sheaf axioms are verified
-from $ω$-germ stagewise compatibility
+from ω-germ stagewise compatibility
 and the ultrametric topology.
 **the relevant theorem (II.T32):
-the presheaf $O_τ$
+the presheaf O_τ
 satisfies both sheaf axioms,
 with locality following from ultrametric separation
 and gluing from tower coherence.

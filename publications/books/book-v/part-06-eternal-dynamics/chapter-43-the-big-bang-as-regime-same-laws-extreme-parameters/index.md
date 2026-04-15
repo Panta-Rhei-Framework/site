@@ -51,24 +51,24 @@ But a singularity is not a physical state.
 It is a signal that the theory has broken down.
 General relativity predicts its own failure.
 
-In Category $τ$,
+In Category τ,
 the Big Bang is not a singularity
 and not a creation event.
 It is a **regime** —
-the pre-hadronic regime of the same $τ$-Einstein equation
+the pre-hadronic regime of the same τ-Einstein equation
 that governs the present epoch.
-The equation $R^H = κ_τ · T$ does not change.
+The equation R^H = κ_τ · T does not change.
 The boundary characters that enter it
 take extreme values at early refinement depths,
 but the equation itself is regime-invariant.
 
 The absence of a singularity
-follows from the profinite structure of $τ^1$.
+follows from the profinite structure of τ¹.
 The base circle has a well-defined first element
-$α_a = α_1$:
-the beginning of the $α$-orbit
+α_a = α₁:
+the beginning of the α-orbit
 is a legitimate structural point,
 not a limit or a blow-up.
 The "Planck epoch" is not an era of unknown physics
-but the first few $α$-ticks,
+but the first few α-ticks,
 where the boundary characters are close to their maximal values.

@@ -34,7 +34,7 @@ The complexity ladder ascends.
 Nuclei (Part V) combine with electrons to form atoms.
 Atoms bond to form molecules.
 Molecular structure, organic chemistry, biochemistry—all
-emerge from $T^2$ quantisation on the $τ^3$ fibration.
+emerge from T² quantisation on the τ³ fibration.
 
 In eleven chapters, we ascend from the hydrogen atom
 through the Bohr radius and Rydberg constant,
@@ -42,7 +42,7 @@ through shell structure and bonding,
 through molecular geometry and organic chemistry,
 to the biochemistry that bridges to Book VI.
 Chemistry is not a separate science:
-it is $τ^2$ mode physics at molecular scale.
+it is τ² mode physics at molecular scale.
 
 ## Chapters
 

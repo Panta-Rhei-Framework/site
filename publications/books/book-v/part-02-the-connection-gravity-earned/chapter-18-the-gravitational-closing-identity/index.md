@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-02-the-connection-gravity-ear
 prev_chapter_title: "Chapter 17: The Calibration Triangle: Neutron →"
 next_chapter_url: "/publications/books/book-v/part-03-what-propagates-thermodynamic-inversion/chapter-19-the-180-thermodynamic-inversion/"
 next_chapter_title: "Chapter 19: The 180^ Thermodynamic Inversion"
-summary_short: "Two independent routes lead from the axioms $K0$–$K6$ to the gravitational constant. Route 1 passes through the torus vacuum geometry: $G = (c^3/ℏ) ι_τ^2$.…"
+summary_short: "Two independent routes lead from the axioms K0–K6 to the gravitational constant. Route 1 passes through the torus vacuum geometry: G = (c³/ℏ) ι_τ².…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/"
@@ -39,37 +39,37 @@ right_rail:
 
 
 Two independent routes lead from
-the axioms $K0$–$K6$
+the axioms K0–K6
 to the gravitational constant.
 Route 1 passes through
 the torus vacuum geometry:
-$G = (c^3/ℏ) ι_τ^2$.
+G = (c³/ℏ) ι_τ².
 Route 2 passes through
 the neutronic mass hierarchy:
-$α_G = G m_n^2/(ℏ c)$,
-which connects $G$ to the fine-structure constant $α$
+α_G = G m_n²/(ℏ c),
+which connects G to the fine-structure constant α
 through the mass-ratio formula
-$R = m_n / m_e$.
+R = m_n / m_e.
 For the framework to be consistent,
 these two routes must agree.
 The **gravitational closing identity**
 equation*
  α_G
  = 
- α^{18} · \sqrt3
- · 1 - \tfrac3π α
+ α^{18} · √3
+ · 1 - 3π α
 equation*
 is the statement that they do.
 This chapter derives the identity,
 presents the geometric origin
 of every factor,
-proves that $G$ is predicted
-to $3$ ppm of the CODATA value,
+proves that G is predicted
+to 3 ppm of the CODATA value,
 demonstrates that the mass-ratio formula
-$R = ι_τ^{-7} - (\sqrt3 + π^3α^2) ι_τ^{-2}$
+R = ι_τ⁻⁷ - (√3 + π³α²) ι_τ⁻²
 is independent of the closing identity,
 and recapitulates the complete 10-link chain
-from axioms to $m_e = 0.510 998 937$ MeV.
+from axioms to m_e = 0.510 998 937 MeV.
 The closing identity is the capstone
 of Part II:
 it closes the circle

@@ -45,21 +45,21 @@ and the **meta-language**
 (what we use to talk about the system).
 Set theory is formalized in first-order logic,
 but first-order logic is not a set-theoretic object.
-Category theory enriches over $Set$,
-but $Set$ itself is not constructed
+Category theory enriches over Set,
+but Set itself is not constructed
 from categorical primitives.
 The meta-level floats free of the object level.
 
-Category $\T$ breaks this pattern.
+Category T breaks this pattern.
 The self-enrichment established in
 the relevant chapter
 (II.D53, II.D54)
 and the Yoneda embedding proved in
 the relevant chapter (II.T36)
 combine to yield a structural fact:
-**$\T$ describes its own morphisms
+**T describes its own morphisms
 using its own language.**
-The Hom objects $[\mkern1mu A,B\mkern1mu]$ live inside $\T$,
+The Hom objects [A,B] live inside T,
 not in some external universe.
 Self-enrichment *is* self-description.
 
@@ -68,8 +68,8 @@ for a foundational system,
 why it is well-founded rather than circular,
 and what it does and does not provide.
 We formalize the transition
-from $E₀⁽0⁾$ (Book I plus Book II Parts I–VII)
-to $E₀⁽1⁾$ (Part VIII):
+from E₀⁽0⁾ (Book I plus Book II Parts I–VII)
+to E₀⁽1⁾ (Part VIII):
 the first rung of the enrichment ladder (I.D82).
 The chapter is deliberately reflective,
 honest about the power of self-description

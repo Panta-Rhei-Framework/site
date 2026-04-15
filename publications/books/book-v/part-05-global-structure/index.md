@@ -10,7 +10,7 @@ part_number: 5
 part_display: "Part V"
 part_slug: "part-05-global-structure"
 chapter_count: 12
-summary_short: "Part V turns Category $τ$ toward the sky. The previous four Parts earned the temporal substrate (Part I), the gravitational connection (Part II), the…"
+summary_short: "Part V turns Category τ toward the sky. The previous four Parts earned the temporal substrate (Part I), the gravitational connection (Part II), the…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-Part V turns Category $τ$ toward the sky.
+Part V turns Category τ toward the sky.
 
 The previous four Parts earned the temporal substrate
 (Part I), the gravitational connection
@@ -51,16 +51,16 @@ The arc of Part V is a scaling ladder.
 the impression that Newtonian mechanics
 is a fundamental large-scale law
 rather than a coarse-grained readout
-of the $τ$-Einstein equation.
+of the τ-Einstein equation.
 **Chapter 35** derives Kepler's laws
 as theorems of the rotational flux constraint
 and uses the solar system
 as a precision calibration laboratory.
 **Chapter 36** redefines the galaxy
-as a relational object in $τ^3$,
+as a relational object in τ³,
 and **Chapter 37** explains
 the flat rotation curves of spiral galaxies
-through the $D$-sector capacity gradient—without
+through the D-sector capacity gradient—without
 dark matter halos.
 **Chapter 38** ascends the compact-object ladder
 (white dwarfs, neutron stars, black holes),
@@ -82,9 +82,9 @@ and the Hubble tension.
 The central structural claim is simple:
 every astrophysical structure—star,
 galaxy, cluster, void—is
-a readout of $H_∂[ω]$,
+a readout of H_∂[ω],
 not an independent entity.
-The five sectors of Category $τ$
+The five sectors of Category τ
 exhaust the coupling budget.
 There is no sixth sector,
 no dark sector,

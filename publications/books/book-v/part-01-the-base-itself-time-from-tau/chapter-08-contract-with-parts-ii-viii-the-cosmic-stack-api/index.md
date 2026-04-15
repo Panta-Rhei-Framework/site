@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-
 prev_chapter_title: "Chapter 7: Boundary Data: CMB and Cν"
 next_chapter_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-09-the-frame-holonomy-sector-gravity-as-canonical-gap/"
 next_chapter_title: "Chapter 9: The Frame Holonomy Sector: Gravity as Canonical Gap"
-summary_short: "Part I is now complete. Seven chapters have earned the base vocabulary of Book V: time as arc length on $τ^1$, three temporal epochs, initial conditions, the…"
+summary_short: "Part I is now complete. Seven chapters have earned the base vocabulary of Book V: time as arc length on τ¹, three temporal epochs, initial conditions, the…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/"
@@ -41,19 +41,19 @@ right_rail:
 Part I is now complete.
 Seven chapters have earned
 the base vocabulary of Book V:
-time as arc length on $τ^1$,
+time as arc length on τ¹,
 three temporal epochs,
 initial conditions,
 the photon ontology,
 operational distance,
 redshift as refinement drift,
 the distance ladder as readout calibration,
-and the CMB and C$ν$B as constraint surfaces.
+and the CMB and CνB as constraint surfaces.
 No gravity has been invoked.
 No thermodynamics has been assumed.
 No cosmological model has been fitted.
 Everything earned so far
-follows from the base circle $τ^1$
+follows from the base circle τ¹
 and the sector couplings inherited from Book IV.
 
 The stack construction that follows pastes sector-wise data into a globally
@@ -63,16 +63,16 @@ This pasting is licensed by Global Cartesian Gluing
 into a consistent whole.
 
 This chapter records what has been earned
-(\S),
+(§),
 what remains to be earned
-(\S),
+(§),
 and assembles both
 into a compact interface specification—the
 *Cosmic Stack API*—that
 governs the contract
 between Part I and the rest of the book
-(\S).
+(§).
 The chapter closes with a summary table
 of all definitions and theorems
 earned in Part I
-(\S).
+(§).

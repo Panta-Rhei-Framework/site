@@ -47,35 +47,35 @@ are all turbulent.
 The orthodox Kolmogorov–Obukhov theory
 (1941)
 describes turbulence statistically,
-predicting the $k^{-5/3}$ energy spectrum
+predicting the k^{-5/3} energy spectrum
 from dimensional analysis and the assumption
 of a self-similar inertial range.
 The theory is spectacularly successful—and
 entirely phenomenological.
 It does not explain *why*
 the cascade is self-similar,
-*why* the exponent is $-5/3$,
+*why* the exponent is -5/3,
 or *what* turbulence is
 at a structural level.
 
 This chapter reinterprets turbulence
-within the $τ$-framework.
+within the τ-framework.
 The Kolmogorov energy cascade
 becomes a *typed budget redistribution*:
-the mobility component $μ$
+the mobility component μ
 of the defect tuple
 transfers budget from large to small primorial scales.
 The enstrophy cascade
 is the vorticity dual:
-the component $ν$
+the component ν
 transfers budget from small to large scales.
 The self-similarity of the inertial range
 follows from the self-similarity
 of the primorial tower.
-The exponent $-5/3$ is recovered
+The exponent -5/3 is recovered
 as a consequence of the 4-component budget geometry.
 
-Scope: $τ$-effective
+Scope: τ-effective
 (structural reinterpretation, cascade mechanism);
 conjectural
 (quantitative exponents, intermittency corrections).

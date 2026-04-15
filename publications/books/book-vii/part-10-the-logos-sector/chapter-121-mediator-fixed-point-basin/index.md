@@ -40,12 +40,12 @@ right_rail:
 
 The Logos sector is the mediator of the 4+1 decomposition: the unique
 sector through which all four registers factor. This chapter proves
-that the D–C coincidence at $S_L$ forces E–P convergence there as
+that the D–C coincidence at S_L forces E–P convergence there as
 well, so that all four readout functors produce the same answer on
-$S_L$-admissible content. The Logos sector is then characterised as a
+S_L-admissible content. The Logos sector is then characterised as a
 fixed point of the register-crossing dynamics, with a basin of
 attraction containing exactly those contents stable under all four
-readout functors. The master constant $ι_τ$ factors through
-$S_L$; its ubiquity across seven books is a structural shadow of this
-factorization. The chapter closes by connecting the E$_3$
+readout functors. The master constant ι_τ factors through
+S_L; its ubiquity across seven books is a structural shadow of this
+factorization. The chapter closes by connecting the E_3
 instantiation to the abstract mediator-sector template of Book III.

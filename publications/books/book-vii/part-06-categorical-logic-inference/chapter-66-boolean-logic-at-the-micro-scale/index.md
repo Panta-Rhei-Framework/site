@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-05-categorical-language-mea
 prev_chapter_title: "Chapter 65: Prayer as Logos-Dialogue"
 next_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-inference/chapter-67-bayesian-inference-at-meso-macro-scale/"
 next_chapter_title: "Chapter 67: Bayesian Inference at Meso/Macro Scale"
-summary_short: "Logic in $τ$ is scale-dependent. At the micro scale—the level of individual NF addresses, single morphisms, and atomic admissibility checks—logic is classical…"
+summary_short: "Logic in τ is scale-dependent. At the micro scale—the level of individual NF addresses, single morphisms, and atomic admissibility checks—logic is classical…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
@@ -38,12 +38,12 @@ right_rail:
 ---
 
 
-Logic in $τ$ is scale-dependent. At the micro scale—the level of
+Logic in τ is scale-dependent. At the micro scale—the level of
 individual NF addresses, single morphisms, and atomic admissibility
 checks—logic is classical Boolean: bivalent, decidable, and governed
 by the excluded middle. This chapter opens the final sub-Part of the
-diagrammatic sector $S_D$ by establishing the micro-scale foundation
-of $τ$-logic and previewing how logic changes as the scale
+diagrammatic sector S_D by establishing the micro-scale foundation
+of τ-logic and previewing how logic changes as the scale
 increases. The Boolean micro-logic is not axiomatized but
 *earned*: it is recovered from the four-valued Truth4 logic of
 Book I (Definition I.D21) via the Boolean recovery theorem

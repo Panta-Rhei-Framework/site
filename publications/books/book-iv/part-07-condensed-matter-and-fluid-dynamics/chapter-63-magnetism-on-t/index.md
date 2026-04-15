@@ -43,15 +43,15 @@ yet its fundamental origin is quantum mechanical:
 unpaired electron spins generate magnetic moments,
 and the collective alignment or misalignment of these moments
 produces the rich variety of magnetic orders observed in nature.
-In $τ^3$, magnetism acquires a topological character.
-The Euler characteristic $χ(T^2) = 0$ forbids
+In τ³, magnetism acquires a topological character.
+The Euler characteristic χ(T²) = 0 forbids
 magnetic monopoles—a result that in orthodox physics
 requires Dirac's quantization argument or grand unification.
-The Ising model on $T^2$ yields ferromagnetic order
+The Ising model on T² yields ferromagnetic order
 as global phase alignment of defect-bundle spins.
 Domain walls become topological seams,
 and the Curie transition is a second-order phase transition
 in the defect-tuple framework.
 This chapter fills the gap between the electromagnetic sector
 (Part III) and the collective-matter framework (this Part):
-*how does the fiber $T^2$ produce magnetism?*
+*how does the fiber T² produce magnetism?*

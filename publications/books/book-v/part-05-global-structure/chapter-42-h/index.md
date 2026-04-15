@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-4
 prev_chapter_title: "Chapter 41: The Sector Exhaustion Theorem: Dark Matter Cannot Exist"
 next_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-43-the-big-bang-as-regime-same-laws-extreme-parameters/"
 next_chapter_title: "Chapter 43: The Big Bang as Regime: Same Laws, Extreme Parameters"
-summary_short: "The Hubble constant $H_0$ measures the current expansion rate of the universe. For over a decade, two classes of measurement have yielded discrepant values:…"
+summary_short: "The Hubble constant H₀ measures the current expansion rate of the universe. For over a decade, two classes of measurement have yielded discrepant values:…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-05-global-structure/"
@@ -38,52 +38,52 @@ right_rail:
 ---
 
 
-The Hubble constant $H_0$
+The Hubble constant H₀
 measures the current expansion rate of the universe.
 For over a decade,
 two classes of measurement
 have yielded discrepant values:
 "early-universe" methods (CMB analysis via Planck planck2020cosmological,
 BAO calibration)
-give $H_0 ≈ 67.4 ± 0.5$ km/s/Mpc,
+give H₀ ≈ 67.4 ± 0.5 km/s/Mpc,
 while "late-universe" methods
 (Cepheid-calibrated Type Ia supernovae riess1998observational
 via SH0ES and related programmes)
-give $H_0 ≈ 73.0 ± 1.0$ km/s/Mpc.
-The discrepancy exceeds $5σ$
+give H₀ ≈ 73.0 ± 1.0 km/s/Mpc.
+The discrepancy exceeds 5σ
 and has resisted resolution
-within the $Λ$CDM framework
+within the ΛCDM framework
 for nearly a decade.
 
-This chapter presents the $τ$-resolution.
-In Category $τ$,
+This chapter presents the τ-resolution.
+In Category τ,
 the Hubble parameter is not a single number.
 It is an **orbit-depth-dependent readout**
 :
-the progression rate on the base $τ^1$
-varies with the depth $n$
+the progression rate on the base τ¹
+varies with the depth n
 of the refinement tower,
 and "early" and "late" measurements
 probe *different depths*.
 The early-universe measurement
 reads the progression rate
-at large depth (high redshift, $z \sim 1100$),
+at large depth (high redshift, z ∼ 1100),
 while the late-universe measurement
-reads it at shallow depth (low redshift, $z \lesssim 0.1$).
+reads it at shallow depth (low redshift, z ≲ 0.1).
 There is no tension:
 both measurements are correct.
 They measure different things.
 
 The second half of the chapter
-re-reads $Λ$CDM as a whole.
+re-reads ΛCDM as a whole.
 The model has correct *parameters*
-($Ω_m$, $Ω_Λ$, $H_0$, $n_s$, $σ_8$)
+(Ω_m, Ω_Λ, H₀, n_s, σ₈)
 but wrong *ontology*
 (dark matter as particle,
 dark energy as field,
 spacetime as manifold).
 The parameters are readout projections
-of the $τ$-structure.
+of the τ-structure.
 The chapter closes with the final word
 on the dark sector:
 after the relevant chapter

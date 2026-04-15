@@ -47,5 +47,5 @@ the site of all rational perspectives. The CI as Naturality Constraint
 the CI-Sheaf Equivalence (VII.T31) proves that a maxim is
 universalizable if and only if it satisfies the sheaf condition on
 the dignity-filtered site. Failure modes are classified: dignity
-breaks, \vCech obstructions (contradiction in conception), and
+breaks, Čech obstructions (contradiction in conception), and
 tension obstructions (contradiction in will).

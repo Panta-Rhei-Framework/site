@@ -47,5 +47,5 @@ creation as iterative defect minimization, formalizes the claim as
 Proposition VII.P12, and examines the phenomenology of the creative
 process: why revision converges, what "inspiration" means
 structurally, why creative impasses occur, and what the elegance of
-the $τ$-kernel itself reveals about the relationship between
+the τ-kernel itself reveals about the relationship between
 structure and creation.

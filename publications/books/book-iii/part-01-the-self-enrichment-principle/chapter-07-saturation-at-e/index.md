@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-prin
 prev_chapter_title: "Chapter 6: Non-Emptiness and Strictness"
 next_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-08-the-canonical-ladder-theorem/"
 next_chapter_title: "Chapter 8: The Canonical Ladder Theorem"
-summary_short: "The enrichment ladder $E_0 → E_1 → E_2 → E_3$ was introduced in Part I's opening chapters as the organisational spine of the entire series. Chapters 4–6 proved…"
+summary_short: "The enrichment ladder E₀ → E₁ → E₂ → E₃ was introduced in Part I's opening chapters as the organisational spine of the entire series. Chapters 4–6 proved…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/"
@@ -39,15 +39,15 @@ right_rail:
 
 
 The enrichment ladder
-$E_0 → E_1 → E_2 → E_3$
+E₀ → E₁ → E₂ → E₃
 was introduced in Part I's opening chapters
 as the organisational spine of the entire series.
 Chapters 4–6 proved that the four layers
 are non-empty and strictly nested:
-each $E_k$ contains genuinely new structure
-that $E_{k-1}$ does not.
+each E_k contains genuinely new structure
+that E_k-1 does not.
 This chapter proves the other direction:
-a hypothetical layer $E_4$ collapses back into $E_3$.
+a hypothetical layer E₄ collapses back into E₃.
 The enrichment ladder is *complete*
 at exactly four levels.
 This is the deepest structural claim in the series.

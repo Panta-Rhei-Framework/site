@@ -44,11 +44,11 @@ proposition and fact) and coherence theory (truth as consistency within
 a system of beliefs). This chapter reformulates the question in
 categorical terms. Truth-bearers are sections of presheaves; a
 proposition is true when a section representing it exists.
-Truth-makers are the structures in $τ$ that ground this existence.
+Truth-makers are the structures in τ that ground this existence.
 The Alethic Unification Theorem (VII.T27) shows that correspondence and
 coherence are not rival theories but two aspects of the sheaf
 condition: correspondence is section-existence, coherence is the gluing
 constraint. Alethic pluralism follows as a structural proposition:
-different registers of $τ$ (diagrammatic, empirical, practical,
+different registers of τ (diagrammatic, empirical, practical,
 aesthetic) may realize truth-making through different mechanisms, all
 unified by the same categorical architecture.

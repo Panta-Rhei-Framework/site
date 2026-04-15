@@ -10,7 +10,7 @@ part_number: 3
 part_display: "Part III"
 part_slug: "part-03-topology-and-global-shape"
 chapter_count: 6
-summary_short: "Part III establishes the global topological shape of $τ$. Six chapters prove that $τ$ is a Stone space, derive topology as an invariant of canonical…"
+summary_short: "Part III establishes the global topological shape of τ. Six chapters prove that τ is a Stone space, derive topology as an invariant of canonical…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -30,43 +30,43 @@ right_rail:
 ---
 
 
-Part III establishes the global topological shape of $τ$.
-Six chapters prove that $τ$ is a Stone space, derive topology as
+Part III establishes the global topological shape of τ.
+Six chapters prove that τ is a Stone space, derive topology as
 an invariant of canonical denotation, earn the geometric lemniscate
 from torus degeneration, and resolve the apparent paradox between
 total disconnectedness and Euclidean geometry.
 
 the relevant chapter proves three compactness theorems:
 **Theorems II.T07–II.T09**.
-$τ$ is compact (from inverse-limit construction, constructively),
+τ is compact (from inverse-limit construction, constructively),
 Hausdorff (from ultrametric separation), and totally disconnected
 (from clopen basis).
-Together, $τ$ is a Stone space—a profinite space.
+Together, τ is a Stone space—a profinite space.
 
 the relevant chapter establishes that topology is NOT chosen
 but earned: it is the unique topology making NF recursion continuous.
 Greedy extraction = winding number; ABCD coordinates determine
 the topology uniquely.
-There are no arbitrary topological choices in $τ$.
+There are no arbitrary topological choices in τ.
 
-the relevant chapter defines $τ$-dimension as the minimal number
+the relevant chapter defines τ-dimension as the minimal number
 of independent refinement rays and proves
-**Theorem II.T11**: $\dim_τ = 4$ with a forced $1+3$ split
+**Theorem II.T11**: dim_τ = 4 with a forced 1+3 split
 (D radial, ABC solenoidal).
 
 the relevant chapter extends the Boundary Minimality Theorem
 (I.T05 from Book I) to the interior context and shows that the boundary
-lemniscate $𝕃 = S^1 ∨ S^1$ has two lobes corresponding to
+lemniscate 𝕃 = S¹ ∨ S¹ has two lobes corresponding to
 the bipolar channels (B and C).
 Idempotent lobes are topologically visible as complementary clopen subsets.
 
 the relevant chapter earns the geometric realisation of the
-lemniscate: the $T^2$ fiber degenerates to $𝕃 = S^1 ∨ S^1$
+lemniscate: the T² fiber degenerates to 𝕃 = S¹ ∨ S¹
 at the boundary via the canonical pinch map.
 Book I's algebraic lemniscate (I.D18) now receives its geometric body.
-The fundamental group changes from $ℤ^2$ to $F_2$
-(abelian to free non-abelian), yet both gauge factors $U(1)_γ$
-and $U(1)_η$ survive as lobe rotations on $𝕃$.
+The fundamental group changes from ℤ^2 to F₂
+(abelian to free non-abelian), yet both gauge factors U(1)_γ
+and U(1)_η survive as lobe rotations on 𝕃.
 **Theorem II.T13** proves that the pinch map is the unique
 degeneration satisfying the five canonical constraints.
 
@@ -77,7 +77,7 @@ topology (fine-grain) and geometry (coarse-grain) are parallel readouts
 of the coherence kernel, not layered constructions.
 Address-space connectivity via spine decomposition replaces
 classical path-connectedness,
-and refinement rays provide the canonical paths in $τ$.
+and refinement rays provide the canonical paths in τ.
 
 These six chapters complete the topological programme and prepare for
 the geometric theorems of Part IV.

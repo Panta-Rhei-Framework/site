@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/cha
 prev_chapter_title: "Chapter 16: Relational Primacy: Relations Precede Relata"
 next_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-18-internal-sets-and-boundedness/"
 next_chapter_title: "Chapter 18: Internal Sets and Boundedness"
-summary_short: "The kernel of Category $τ$ is presented for philosophical readers. Five generators—$α$, $π$, $γ$, $η$, $ω$—govern complementarity, projection, crossing,…"
+summary_short: "The kernel of Category τ is presented for philosophical readers. Five generators—α, π, γ, η, ω—govern complementarity, projection, crossing,…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-02-categorical-ontology/"
@@ -38,13 +38,13 @@ right_rail:
 ---
 
 
-The kernel of Category $τ$ is presented for philosophical readers.
-Five generators—$α$, $π$, $γ$, $η$, $ω$—govern
+The kernel of Category τ is presented for philosophical readers.
+Five generators—α, π, γ, η, ω—govern
 complementarity, projection, crossing, mediating recurrence, and
 terminal coherence respectively. Seven axioms K0–K6 constrain how
 these generators compose. The resulting structure is rigid:
-$Aut(τ) = \{id\}$, meaning there is exactly one
-$τ$, not a family of $τ$-like structures from which one must be
+Aut(τ) = {id}, meaning there is exactly one
+τ, not a family of τ-like structures from which one must be
 selected. This chapter is not a technical recapitulation of Book I
 but a philosophical reading: what each generator *means* for
 ontology, what each axiom *excludes*, and why rigidity transforms

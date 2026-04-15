@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 13: The No Knobs Principle"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-15-the-crt-decomposition-theorem/"
 next_chapter_title: "Chapter 15: The CRT Decomposition Theorem"
-summary_short: "Part II closed with the No Knobs Principle , asserting that every sector coupling is a rational function of $ι_τ$ evaluated at…"
+summary_short: "Part II closed with the No Knobs Principle , asserting that every sector coupling is a rational function of ι_τ evaluated at…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -41,12 +41,12 @@ right_rail:
 Part II closed with the No Knobs Principle
 ,
 asserting that every sector coupling
-is a rational function of $ι_τ$
+is a rational function of ι_τ
 evaluated at a specific primorial depth.
 The word *primorial* appeared throughout Parts I and II
 as a background assumption:
 the stages of the tower,
-the levels at which $τ$-effective statements are verified,
+the levels at which τ-effective statements are verified,
 the index set of the primorial presheaf (I.D83).
 This chapter elevates the primorial tower
 from background infrastructure
@@ -59,5 +59,5 @@ is sufficient—and
 introduce the **primorial filter**,
 the mechanism by which infinity is tamed.
 The chapter closes with an export table:
-every millennium problem's $τ$-effective statement
+every millennium problem's τ-effective statement
 reduces to verification at primorial levels.

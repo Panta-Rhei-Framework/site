@@ -41,14 +41,14 @@ right_rail:
 The ABCD chart assigns four coordinates to every object.
 Are these coordinates *independent*?
 Could the universe be described by fewer?
-This chapter proves that $\dim_τ = 4$:
+This chapter proves that dim_τ = 4:
 the four ABCD coordinates form four pairwise independent
 refinement rays, and no three coordinates suffice
 to address all objects.
 We then preview the fibration structure:
-the $1+3$ split corresponds to
-base $τ^1$ (coordinates $D, A$)
-and fiber $T^2$ (coordinates $B, C$),
+the 1+3 split corresponds to
+base τ¹ (coordinates D, A)
+and fiber T² (coordinates B, C),
 foreshadowing the central geometric object
-$τ^3 = τ^1 ×_f T^2$
+τ³ = τ¹ ×_f T²
 that will dominate the rest of the Panta Rhei series.

@@ -41,9 +41,9 @@ right_rail:
 the relevant chapter defined cylinders
 as clopen sets determined by ABCD prefix constraints
 and proved that they form a basis
-for the canonical topology on $τ^3$.
+for the canonical topology on τ³.
 This chapter metrizes that combinatorial structure.
-We define a distance function on $τ^3$
+We define a distance function on τ³
 by measuring the **first disagreement depth**
 between CRT reductions,
 then show that this distance satisfies the

@@ -47,12 +47,12 @@ This rigidity —
 the determination of a global function
 by local data —
 is the hallmark of holomorphy.
-Does $τ$-holomorphy enjoy a similar rigidity?
+Does τ-holomorphy enjoy a similar rigidity?
 This chapter proves that it does,
 and in a stronger form.
-The **$τ$-Identity Theorem**
+The **τ-Identity Theorem**
 (the relevant theorem, I.T21)
-shows that agreement at a single primorial depth $d_0$
+shows that agreement at a single primorial depth d₀
 forces global equality on all omega-tails.
 The proof uses tower coherence
 (the relevant definition, I.D46)
@@ -62,15 +62,15 @@ rather than Taylor series or analytic continuation.
 The key intermediate result is
 **Tail Agreement Propagation**
 (Lemma [lem:tail-agreement-propagation], I.L07):
-agreement at depth $d_0$ propagates *upward*
+agreement at depth d₀ propagates *upward*
 through the primorial tower to all depths.
 This is the opposite direction from classical analysis,
 where agreement propagates via analytic continuation.
-In $τ$, the Chinese Remainder Theorem
+In τ, the Chinese Remainder Theorem
 forces upward propagation.
-We also define the space $Hol(𝕃)$
+We also define the space Hol(𝕃)
 (the relevant definition, I.D49)
-of $τ$-holomorphic functions
+of τ-holomorphic functions
 on the algebraic lemniscate,
 whose elements are uniquely determined
 by finite-depth data —

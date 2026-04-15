@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-addr
 prev_chapter_title: "Chapter 16: Holomorphic Quantization"
 next_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-18-measurement-and-the-schr-odinger-equation/"
 next_chapter_title: "Chapter 18: Measurement and the Schrödinger Equation"
-summary_short: "The uncertainty principle is not mysterious—it follows from the CR-structure of $τ^3$. Here we derive the Heisenberg relation as an **address obstruction**:…"
+summary_short: "The uncertainty principle is not mysterious—it follows from the CR-structure of τ³. Here we derive the Heisenberg relation as an **address obstruction**:…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
@@ -39,8 +39,8 @@ right_rail:
 
 
 The uncertainty principle is not mysterious—it follows from the
-CR-structure of $τ^3$. Here we derive the Heisenberg relation as an
-**address obstruction**: any CR-address on $T^2$ is simultaneously
+CR-structure of τ³. Here we derive the Heisenberg relation as an
+**address obstruction**: any CR-address on T² is simultaneously
 an address in two conjugate bases (position-like and momentum-like),
 and these bases cannot be simultaneously sharpened. Uncertainty is
 geometry, not ignorance.

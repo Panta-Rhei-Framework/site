@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-45-bh
 prev_chapter_title: "Chapter 45: BH as ω-Representatives and the Lift"
 next_chapter_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-47-galaxies-as-life-basins-the-smbh-anchor/"
 next_chapter_title: "Chapter 47: Galaxies as Life Basins: The SMBH Anchor"
-summary_short: "All seven hallmarks of life are verified for the macro-torus carrier $T(H_{BH})$: organization from the event horizon's intrinsic partition, metabolism from…"
+summary_short: "All seven hallmarks of life are verified for the macro-torus carrier T(H_BH): organization from the event horizon's intrinsic partition, metabolism from…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-07-cosmic-life/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-All seven hallmarks of life are verified for the macro-torus carrier $T(H_{BH})$: organization from the event horizon's intrinsic partition, metabolism from the accretion–radiation cycle, homeostasis from the No-Shrink Theorem (Book V), growth from mass increase via accretion, reproduction from blueprint fusion at merger, response from quasi-normal mode ringdown, and evolution from merger-net convergence toward $ι_τ$. The BH Seven Hallmarks Theorem (VI.T32) and the concluding remark (VI.R21) establish that BH-as-alive is a theorem of the framework—not a metaphor, not an analogy, but a structural consequence of the same definitions that certify a cell.
+All seven hallmarks of life are verified for the macro-torus carrier T(H_BH): organization from the event horizon's intrinsic partition, metabolism from the accretion–radiation cycle, homeostasis from the No-Shrink Theorem (Book V), growth from mass increase via accretion, reproduction from blueprint fusion at merger, response from quasi-normal mode ringdown, and evolution from merger-net convergence toward ι_τ. The BH Seven Hallmarks Theorem (VI.T32) and the concluding remark (VI.R21) establish that BH-as-alive is a theorem of the framework—not a metaphor, not an analogy, but a structural consequence of the same definitions that certify a cell.

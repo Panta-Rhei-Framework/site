@@ -10,7 +10,7 @@ part_number: 2
 part_display: "Part II"
 part_slug: "part-02-quantum-mechanics-as-address-obstruction"
 chapter_count: 8
-summary_short: "Quantum mechanics is not postulated—it is *derived* from the $τ^3$ geometry. The CR-structure on the fibered product $τ^3 = τ^1 ×_f T^2$ couples the torus…"
+summary_short: "Quantum mechanics is not postulated—it is *derived* from the τ³ geometry. The CR-structure on the fibered product τ³ = τ¹ ×_f T² couples the torus…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 right_rail:
@@ -31,11 +31,11 @@ right_rail:
 
 
 Quantum mechanics is not postulated—it is *derived* from the
-$τ^3$ geometry. The CR-structure on the fibered product
-$τ^3 = τ^1 ×_f T^2$ couples the torus fiber to the worldline
+τ³ geometry. The CR-structure on the fibered product
+τ³ = τ¹ ×_f T² couples the torus fiber to the worldline
 base in a way that forces discrete spectra, non-commuting observables,
 and the full Hilbert-space formalism. Uncertainty is not epistemological
-but geometric: a CR-address on $T^2$ cannot simultaneously resolve
+but geometric: a CR-address on T² cannot simultaneously resolve
 conjugate coordinate systems—the *address obstruction* that gives
 this Part its name.
 
@@ -45,10 +45,10 @@ space, quantization, the address-obstruction theorem (Heisenberg),
 measurement, the Schrödinger equation, and energy/entropy, culminating
 in the first quantitative prediction of the framework: the
 neutron-to-electron mass ratio
-$R_0 = ι_τ^{-7} - \sqrt3 ι_τ^{-2} ≈ 1838.7$,
+R₀ = ι_τ⁻⁷ - √3 ι_τ⁻² ≈ 1838.7,
 derived from the breathing mode spectrum, the Epstein zeta function, the
-lemniscate capacity, and the holonomy correction $π^3α^2$—at
-${\sim} 0.001%$ (8 ppm) agreement with the CODATA value, with no free parameters.
+lemniscate capacity, and the holonomy correction π³α²—at
+{∼} 0.001% (8 ppm) agreement with the CODATA value, with no free parameters.
 
 ## Chapters
 

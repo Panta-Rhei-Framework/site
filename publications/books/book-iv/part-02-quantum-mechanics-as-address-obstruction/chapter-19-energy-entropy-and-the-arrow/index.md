@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-addr
 prev_chapter_title: "Chapter 18: Measurement and the Schrödinger Equation"
 next_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-20-the-electron-mass-prediction/"
 next_chapter_title: "Chapter 20: The Electron Mass Prediction"
-summary_short: "Energy and entropy exist at the substrate level—before any particle appears. In $τ^3$, energy is **holomorphic tension**: the coherence budget required to…"
+summary_short: "Energy and entropy exist at the substrate level—before any particle appears. In τ³, energy is **holomorphic tension**: the coherence budget required to…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 Energy and entropy exist at the substrate level—before any particle
-appears. In $τ^3$, energy is **holomorphic tension**: the
+appears. In τ³, energy is **holomorphic tension**: the
 coherence budget required to maintain CR-compatibility. Entropy
 measures **holomorphic branching**—how many distinct
 CR-compatible paths exist from one configuration to another. Together,
-they determine the arrow of time: entropy increases along the $α$-orbit
+they determine the arrow of time: entropy increases along the α-orbit
 because proto-time is structurally asymmetric.

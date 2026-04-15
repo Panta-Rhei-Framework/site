@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-t
 prev_chapter_title: "Chapter 5: The Omega Readout and the Lemniscate"
 next_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-07-bipolar-decomposition-of-interior-points/"
 next_chapter_title: "Chapter 7: Bipolar Decomposition of Interior Points"
-summary_short: "The previous chapter established the ABCD peel-order asymmetry: the four coordinate rays of the ABCD chart split into two outer rays $(D, A)$ and two inner…"
+summary_short: "The previous chapter established the ABCD peel-order asymmetry: the four coordinate rays of the ABCD chart split into two outer rays (D, A) and two inner…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/"
@@ -40,21 +40,21 @@ right_rail:
 
 The previous chapter established the ABCD peel-order
 asymmetry: the four coordinate rays of the ABCD chart
-split into two outer rays $(D, A)$ and two inner rays $(B, C)$,
+split into two outer rays (D, A) and two inner rays (B, C),
 and the coupling between them prevents a Cartesian factorization.
 This chapter assembles the fibration.
-The outer pair $(D, A)$ forms the **base** $τ^1$,
+The outer pair (D, A) forms the **base** τ¹,
 a two-dimensional number-theoretic space
 capturing radial depth and prime direction.
-The inner pair $(B, C)$ forms the **fiber** $T^2$,
+The inner pair (B, C) forms the **fiber** T²,
 a two-dimensional parameter space
 capturing exponent structure and tetration height.
 The full interior is the **fibered product**
-$τ^3 = τ^1 ×_f T^2$—not
+τ³ = τ¹ ×_f T²—not
 a Cartesian product, because the constraint
-"prime factors of $D$ are bounded by $A$"
+"prime factors of D are bounded by A"
 couples the base coordinates,
 which in turn couples the base to the fiber.
 The chapter closes with an ontological reframe:
-$τ^3$ is $τ$ viewed through its coordinate chart,
-and neither $τ^1$ nor $T^2$ exists as an independent category.
+τ³ is τ viewed through its coordinate chart,
+and neither τ¹ nor T² exists as an independent category.

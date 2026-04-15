@@ -58,16 +58,16 @@ and boundary unification.
 This chapter does four things.
 First, it assembles the eleven structural results
 of Part VI into a single inventory
-(\S).
+(§).
 Second, it states honestly what remains open
-(\S).
+(§).
 Third, it summarizes the export contracts
 to Books VI and VII
-(\S).
+(§).
 Fourth, it builds the bridge to Part VII:
 the systematic comparison
 with orthodox physics
-(\S).
+(§).
 
 When this chapter is complete,
 the physics of the universe —

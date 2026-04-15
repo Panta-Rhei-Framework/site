@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 45: The Hydrogen Atom: Bohr Radius and Rydberg Constant"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-47-hyperfine-structure-and-the-role-of-iota-tau/"
 next_chapter_title: "Chapter 47: Hyperfine Structure and the Role of ι_τ"
-summary_short: "The hydrogen atom emits and absorbs light at discrete wavelengths, not a continuum. In Category $τ$, these spectral lines are the direct fingerprint of…"
+summary_short: "The hydrogen atom emits and absorbs light at discrete wavelengths, not a continuum. In Category τ, these spectral lines are the direct fingerprint of…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -39,11 +39,11 @@ right_rail:
 
 
 The hydrogen atom emits and absorbs light at discrete wavelengths,
-not a continuum. In Category $τ$, these spectral lines are the
-direct fingerprint of quantised co-rotor modes on $T^2$: only
+not a continuum. In Category τ, these spectral lines are the
+direct fingerprint of quantised co-rotor modes on T²: only
 integer winding numbers are permitted, so only discrete energy
 differences can be radiated. This chapter derives the energy-level
 formula, the Rydberg spectral formula, the named series (Lyman,
 Balmer, Paschen), and the fine structure and Lamb shift corrections.
-Every spectral line is a transition between $U(1)$ holonomy modes
-on $τ^2$.
+Every spectral line is a transition between U(1) holonomy modes
+on τ².

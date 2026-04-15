@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/c
 prev_chapter_title: "Chapter 46: D-Holomorphy and the Cauchy–Riemann Analog"
 next_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/chapter-48-the-diagonal-free-protection-theorem/"
 next_chapter_title: "Chapter 48: The Diagonal-Free Protection Theorem"
-summary_short: "Parts VIII–XI built the finite-stage data of $τ$: modular arithmetic on $ℤ/M_kℤ$, the split-complex scalar ring $\\hatℤ_τ[j]$ (the relevant definition,…"
+summary_short: "Parts VIII–XI built the finite-stage data of τ: modular arithmetic on ℤ/M_kℤ, the split-complex scalar ring ℤ_τ[j] (the relevant definition,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-12-holomorphic-transformers/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-Parts VIII–XI built the finite-stage data of $τ$:
-modular arithmetic on $ℤ/M_kℤ$,
+Parts VIII–XI built the finite-stage data of τ:
+modular arithmetic on ℤ/M_kℤ,
 the split-complex scalar ring
-$\hatℤ_τ[j]$
+ℤ_τ[j]
 (the relevant definition, I.D20),
-the fundamental characters $χ_+$ and $χ_-$
+the fundamental characters χ_+ and χ_-
 (the relevant definition, I.D37),
-and the four-valued logic $Ω_τ$.
+and the four-valued logic Ω_τ.
 the relevant chapter showed that D-holomorphy
 — the Cauchy–Riemann analogue for split-complex scalars —
 gives sector independence
@@ -53,9 +53,9 @@ but too much flexibility:
 any pair of independent sector functions qualifies.
 This chapter adds the crucial constraint:
 **tower coherence**.
-A $τ$-holomorphic function must be compatible
+A τ-holomorphic function must be compatible
 with the primorial ladder at *every* stage.
-We define **$ω$-germ transformers**
+We define **ω-germ transformers**
 (the relevant definition, I.D45):
 functions from omega-tails to split-complex values.
 **Tower coherence**
@@ -64,14 +64,14 @@ requires that reducing the output first,
 or reducing the input first and then applying the transformer,
 gives the same result —
 a naturality condition on the primorial category.
-A **$τ$-holomorphic function** (HolFun)
+A **τ-holomorphic function** (HolFun)
 (the relevant definition, I.D47)
-is an $ω$-germ transformer that is
+is an ω-germ transformer that is
 *both* D-holomorphic in sector coordinates
 *and* tower-coherent.
 The **CRT coherence constraint**
 (the relevant theorem, I.T18)
 shows that tower coherence reduces the infinite-dimensional
 problem to a prime-by-prime determination:
-a $τ$-holomorphic function is determined
-by its action on each CRT factor $ℤ/p_iℤ$.
+a τ-holomorphic function is determined
+by its action on each CRT factor ℤ/p_iℤ.

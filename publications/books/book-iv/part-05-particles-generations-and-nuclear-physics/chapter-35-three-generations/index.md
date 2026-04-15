@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-con
 prev_chapter_title: "Chapter 34: The Sector Atlas"
 next_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-36-the-koide-relation-and-mass-hierarchies/"
 next_chapter_title: "Chapter 36: The Koide Relation and Mass Hierarchies"
-summary_short: "The Standard Model contains three generations of fermions—$(e, ν_e, u, d)$, $(μ, ν_μ, c, s)$, $(τ, ν_τ, t, b)$—but offers no explanation for why exactly three…"
+summary_short: "The Standard Model contains three generations of fermions—(e, ν_e, u, d), (μ, ν_μ, c, s), (τ, ν_τ, t, b)—but offers no explanation for why exactly three…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/"
@@ -38,12 +38,12 @@ right_rail:
 ---
 
 
-The Standard Model contains three generations of fermions—$(e,
-ν_e, u, d)$, $(μ, ν_μ, c, s)$, $(τ, ν_τ, t, b)$—but
-offers no explanation for why exactly three exist. In Category $τ$,
+The Standard Model contains three generations of fermions—(e,
+ν_e, u, d), (μ, ν_μ, c, s), (τ, ν_τ, t, b)—but
+offers no explanation for why exactly three exist. In Category τ,
 three is a topological necessity: the fibration
-$τ^3 = τ^1 ×_f T^2$ supports exactly three stable winding
-classes in $π_1(τ^3)$. This chapter derives the generation
+τ³ = τ¹ ×_f T² supports exactly three stable winding
+classes in π₁(τ³). This chapter derives the generation
 number, the mass hierarchy across generations, and the mixing matrices
 (CKM for quarks, PMNS for leptons) from the lemniscate structure
-$𝕃 = S^1 ∨ S^1$.
+𝕃 = S¹ ∨ S¹.

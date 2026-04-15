@@ -44,6 +44,6 @@ pragmatics as an update calculus: each utterance is an endofunctor on
 the category of discourse states, transforming the shared context of
 speaker and hearer. Austin's performatives, Searle's taxonomy, and
 Grice's conversational maxims are reinterpreted within this framework.
-The commitment register $ℝeg_C$ enters the linguistic domain through
+The commitment register ℝeg_C enters the linguistic domain through
 performative speech acts—utterances that constitute the acts they
 describe.

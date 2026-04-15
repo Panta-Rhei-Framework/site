@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-04-source-plants-and-the-pro
 prev_chapter_title: "Chapter 27: The Genetic Code: BSD Structure and Replication"
 next_chapter_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-29-fungi-the-recycling-networks/"
 next_chapter_title: "Chapter 29: Fungi: The Recycling Networks"
-summary_short: "The closure (recycler) sector is formally defined as the $η$-fiber restricted to $E_2$ carriers, with structure recycling as the defining predicate. A carrier…"
+summary_short: "The closure (recycler) sector is formally defined as the η-fiber restricted to E₂ carriers, with structure recycling as the defining predicate. A carrier…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The closure (recycler) sector is formally defined as the $η$-fiber restricted to $E_2$ carriers, with structure recycling as the defining predicate. A carrier satisfies structure recycling when its $Loop_L$ factors through $Loop_{rec}$ on the $η$ channel, returning existing structure to available form. The central theorem identifies the closure sector as the unique sector on the $η$-fiber that returns structural complexity to simpler components, with fungi as the biological archetype.
+The closure (recycler) sector is formally defined as the η-fiber restricted to E₂ carriers, with structure recycling as the defining predicate. A carrier satisfies structure recycling when its Loop_L factors through Loop_rec on the η channel, returning existing structure to available form. The central theorem identifies the closure sector as the unique sector on the η-fiber that returns structural complexity to simpler components, with fungi as the biological archetype.

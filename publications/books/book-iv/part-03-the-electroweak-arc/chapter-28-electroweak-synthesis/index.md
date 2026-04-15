@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 27: The Weinberg Angle and CF Encodings"
 next_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-29-the-strong-vacuum-and-color-holonomy/"
 next_chapter_title: "Chapter 29: The Strong Vacuum and Color Holonomy"
-summary_short: "This chapter assembles the complete electroweak picture from the preceding chapters and extracts its ontological consequences. The A-sector (weak, $π$) and…"
+summary_short: "This chapter assembles the complete electroweak picture from the preceding chapters and extracts its ontological consequences. The A-sector (weak, π) and…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-03-the-electroweak-arc/"
@@ -40,11 +40,11 @@ right_rail:
 
 This chapter assembles the complete electroweak picture from the
 preceding chapters and extracts its ontological consequences. The
-A-sector (weak, $π$) and B-sector (EM, $γ$) cooperate through
-the $ω$-crossing. All coupling constants—$α$,
-$\sin^2θ_W$, $G_F$—are derived from $τ^3$ geometry with
+A-sector (weak, π) and B-sector (EM, γ) cooperate through
+the ω-crossing. All coupling constants—α,
+sin²θ_W, G_F—are derived from τ³ geometry with
 zero free parameters. Electroweak "unification" is reconceived as
-a coupling cascade: topology $→$ geometry $→$ numbers. The
+a coupling cascade: topology → geometry → numbers. The
 chapter then draws the deeper lesson: particles are not fundamental
 entities but **modes of the boundary algebra**, and forces are
 holonomies—both aspects of the same geometric structure.

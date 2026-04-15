@@ -40,10 +40,10 @@ right_rail:
 
 Language projects archetypes from the internal presheaf topos to
 communicable form. Different languages and cultures provide different
-readout functors—the underlying $j$-closed invariant is shared.
+readout functors—the underlying j-closed invariant is shared.
 Cross-cultural recurrence of archetypal motifs is explained: shared
 kernel + different readouts = convergent motifs. The Readout Functor
 Faithfulness Theorem proves that a readout functor is faithful if and
-only if it preserves the $j$-closure structure. This is the capstone
+only if it preserves the j-closure structure. This is the capstone
 chapter of Part I, synthesizing registers, sectors, archetypes, and
 language into a unified apparatus.

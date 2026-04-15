@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-
 prev_chapter_title: "Chapter 38: Speciation, Adaptation, and Convergence"
 next_chapter_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-40-sensation-perception-and-neural-systems/"
 next_chapter_title: "Chapter 40: Sensation, Perception, and Neural Systems"
-summary_short: "The immune system is the body's instantiation of the $τ$-Distinction predicate at the cellular level: every nucleated cell displays self-markers (MHC I) that…"
+summary_short: "The immune system is the body's instantiation of the τ-Distinction predicate at the cellular level: every nucleated cell displays self-markers (MHC I) that…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The immune system is the body's instantiation of the $τ$-Distinction predicate at the cellular level: every nucleated cell displays self-markers (MHC I) that the immune system reads, and antigen-presenting cells display captured fragments on MHC II for helper T cell inspection. Innate immunity provides fast, non-specific pattern recognition through Toll-like receptors, complement, and phagocytes. Adaptive immunity (T cells, B cells, antibodies) achieves highly specific distinction via V(D)J somatic recombination, generating ${\sim}10^{11}$ unique receptor variants from ${\sim}400$ gene segments. Autoimmunity—lupus, type 1 diabetes, multiple sclerosis, rheumatoid arthritis—is recast as formal distinction failure: the predicate $D\colon X → 2_τ$ misclassifies self as non-self.
+The immune system is the body's instantiation of the τ-Distinction predicate at the cellular level: every nucleated cell displays self-markers (MHC I) that the immune system reads, and antigen-presenting cells display captured fragments on MHC II for helper T cell inspection. Innate immunity provides fast, non-specific pattern recognition through Toll-like receptors, complement, and phagocytes. Adaptive immunity (T cells, B cells, antibodies) achieves highly specific distinction via V(D)J somatic recombination, generating {∼}10¹¹ unique receptor variants from {∼}400 gene segments. Autoimmunity—lupus, type 1 diabetes, multiple sclerosis, rheumatoid arthritis—is recast as formal distinction failure: the predicate D: X → 2_τ misclassifies self as non-self.

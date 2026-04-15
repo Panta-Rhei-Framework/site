@@ -42,14 +42,14 @@ The Navier–Stokes regularity problem—one of the seven
 Clay Millennium Prize Problems—asks whether smooth
 initial data always yield smooth solutions for all time.
 In three-dimensional Euclidean space, this remains open.
-On the compact fiber $T^2$ of $τ^3$,
-the $τ$-framework provides a structural resolution
+On the compact fiber T² of τ³,
+the τ-framework provides a structural resolution
 through the Positive Regularity Theorem (III.T25).
 Rather than relying on classical PDE estimates,
 the proof instantiates three categorical conditions—clopen
-locality, $ω$-germ determinacy, and defect
+locality, ω-germ determinacy, and defect
 contractivity—for the fiber-level Navier–Stokes system.
 This chapter carries out that instantiation,
-building on the inviscid framework of ch58 ($τ$-Euler),
-the viscous dissipation of ch59 ($τ$-NS),
+building on the inviscid framework of ch58 (τ-Euler),
+the viscous dissipation of ch59 (τ-NS),
 and the defect functional of ch56.

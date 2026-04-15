@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 8: The Proton and the Electron: -Decay Products"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-10-the-fine-structure-constant/"
 next_chapter_title: "Chapter 10: The Fine-Structure Constant"
-summary_short: "$β$-decay displayed all five sectors in a single process . This chapter systematises the observation. Each sector contributes a…"
+summary_short: "β-decay displayed all five sectors in a single process . This chapter systematises the observation. Each sector contributes a…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -38,11 +38,11 @@ right_rail:
 ---
 
 
-$β$-decay displayed all five sectors in a single process
+β-decay displayed all five sectors in a single process
 . This chapter systematises the
 observation. Each sector contributes a specific structural role, and
 all sector couplings are rational functions of a single constant:
-$ι_τ = 2/(π + e) ≈ 0.341304$.
+ι_τ = 2/(π + e) ≈ 0.341304.
 The sectors are not independent forces bolted together—they are
-**aspects** of the single $E_1$ spectral template established
+**aspects** of the single E₁ spectral template established
 in Book III.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 10: The 4+"
 next_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-12-the-parity-bridge-theorem/"
 next_chapter_title: "Chapter 12: The Parity Bridge Theorem"
-summary_short: "The preceding two chapters built the boundary-to-interior functor $Φ$  and derived from it the $4+1$ sector decomposition…"
+summary_short: "The preceding two chapters built the boundary-to-interior functor Φ  and derived from it the 4+1 sector decomposition…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -38,20 +38,20 @@ right_rail:
 ---
 
 
-The preceding two chapters built the boundary-to-interior functor $Φ$
+The preceding two chapters built the boundary-to-interior functor Φ
 
-and derived from it the $4+1$ sector decomposition
+and derived from it the 4+1 sector decomposition
 .
-Both results live at the $E_0$ level.
+Both results live at the E₀ level.
 This chapter lifts the perspective by one enrichment step.
-We show that the passage $E_0 → E_1$
-mediated by the self-enrichment functor $F_E$
+We show that the passage E₀ → E₁
+mediated by the self-enrichment functor F_E
 is *itself* a Langlands-type correspondence—the
-**Langlands$_1$ reflection bridge**.
+**Langlands_1 reflection bridge**.
 We prove that the four-component layer template
 is invariant under this reflection,
 preview the enriched bi-square
 that will serve as Book III's crown jewel in Part VI,
-and introduce the universal operator $H_∞$
-on $L^2(Char(\Lemniscate))$
-whose spectral determinants unify all $L$-functions.
+and introduce the universal operator H_∞
+on L²(Char(𝕃))
+whose spectral determinants unify all L-functions.

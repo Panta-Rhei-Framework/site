@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-12-the-final-boundary-from-
 prev_chapter_title: "Chapter 126: No Forced Stance By Theorem"
 next_chapter_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-128-the-series-closing-line/"
 next_chapter_title: "Chapter 128: The Series Closing Line"
-summary_short: "Three registers tell; one demands doing. The epistemic registers— $ℝeg_E$ (empirical), $ℝeg_P$ (practical), $ℝeg_D$ (diagrammatic)—deliver propositional…"
+summary_short: "Three registers tell; one demands doing. The epistemic registers— ℝeg_E (empirical), ℝeg_P (practical), ℝeg_D (diagrammatic)—deliver propositional…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
@@ -39,15 +39,15 @@ right_rail:
 
 
 Three registers tell; one demands doing. The epistemic registers—
-$ℝeg_E$ (empirical), $ℝeg_P$ (practical), $ℝeg_D$
+ℝeg_E (empirical), ℝeg_P (practical), ℝeg_D
 (diagrammatic)—deliver propositional content: statements that can be
 shared, verified, debated, and transferred between agents. The
-commitment register $ℝeg_C$ demands something structurally different:
+commitment register ℝeg_C demands something structurally different:
 the person. Its content is constituted by the act of commitment, not
 by any proposition about commitment. This chapter analyses the
-epistemic$→$performative distinction as the most important structural
-boundary of the series, shows why the bridge from $ℝeg_D$ to $ℝeg_C$
+epistemic→performative distinction as the most important structural
+boundary of the series, shows why the bridge from ℝeg_D to ℝeg_C
 delivers content to the threshold but cannot cross it, and traces the
-master constant $ι_τ$ from its mathematical origin in Book I to
-its final appearance at the boundary of $ω$. The step from
+master constant ι_τ from its mathematical origin in Book I to
+its final appearance at the boundary of ω. The step from
 pointing to inhabiting is the reader's own.

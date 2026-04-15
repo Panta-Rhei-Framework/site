@@ -42,10 +42,10 @@ the relevant chapter introduced the boundary local ring
 on omega-tails with stagewise addition and multiplication.
 This chapter extends that local structure
 to the *full profinite ring*
-$\hatℤ_τ$,
-the inverse limit of all finite quotient rings $ℤ/M_k$
-(where $M_k$ is the $k$th primorial).
+ℤ_τ,
+the inverse limit of all finite quotient rings ℤ/M_k
+(where M_k is the kth primorial).
 The resulting ring is compact, totally disconnected,
-and isomorphic to the product of all $p$-adic integer rings.
+and isomorphic to the product of all p-adic integer rings.
 It encodes all the boundary data
-that omega-germs carry about the approach to $ω$.
+that omega-germs carry about the approach to ω.

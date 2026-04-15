@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-
 prev_chapter_title: "Chapter 4: High Energy and High Entropy at the Beginning"
 next_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-06-the-distance-ladder-re-read/"
 next_chapter_title: "Chapter 6: The Distance Ladder Re-Read"
-summary_short: "The preceding chapters derived time, causality, and the initial conditions of the universe from the base circle $τ^1$. But macroscopic physics is not only…"
+summary_short: "The preceding chapters derived time, causality, and the initial conditions of the universe from the base circle τ¹. But macroscopic physics is not only…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/"
@@ -40,7 +40,7 @@ right_rail:
 
 The preceding chapters derived time, causality,
 and the initial conditions of the universe
-from the base circle $τ^1$.
+from the base circle τ¹.
 But macroscopic physics is not only about time —
 it is about *space and distance*.
 How far away is a galaxy?
@@ -50,7 +50,7 @@ What is the cosmological redshift?
 What does "expansion of the universe" mean?
 
 This chapter addresses all four questions
-from the $τ$-framework.
+from the τ-framework.
 The answers follow a single principle:
 **distance is not a primitive**
 but a *readout* of the boundary holonomy algebra.
@@ -74,6 +74,6 @@ interprets cosmological redshift as refinement drift
 and reinterprets "expansion of the universe"
 as a readout of base progression
 (the relevant definition, V.D27).
-The Hubble parameter $H_0$ acquires a precise meaning
+The Hubble parameter H₀ acquires a precise meaning
 as the current rate of orbit-depth progression
 (the relevant definition, V.D28).

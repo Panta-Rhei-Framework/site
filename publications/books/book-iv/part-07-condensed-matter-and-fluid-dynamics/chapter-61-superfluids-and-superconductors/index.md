@@ -43,14 +43,14 @@ something extraordinary occurs:
 viscosity vanishes, resistance drops to zero,
 and the macroscopic quantum state
 forces vorticity into quantized filaments.
-In $τ^3$, superfluidity and superconductivity
+In τ³, superfluidity and superconductivity
 are not exotic phenomena requiring new physics.
-They are natural consequences of vorticity quantization on $T^2$:
+They are natural consequences of vorticity quantization on T²:
 the transition from continuous to discrete circulation
-that occurs when the boundary character on $𝕃$
+that occurs when the boundary character on 𝕃
 locks into a single-valued state.
-This chapter develops the $τ$-superfluid
-and $τ$-superconductor frameworks,
+This chapter develops the τ-superfluid
+and τ-superconductor frameworks,
 connects them to the Bose condensation of Part VI,
 and derives quantized vortices and the Meissner effect
-from the topology of $T^2$.
+from the topology of T².

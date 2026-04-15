@@ -36,55 +36,55 @@ Eight chapters build the Local Hartogs extension theory, prove the central
 holomorphic functions, and establish the canonical function representation.
 
 the relevant chapter restates the split-complex codomain
-$H_τ = A_τ^{(B)} × A_τ^{(C)}$ (I.D20) with concrete numerical
-calibration from Part V: $π$, $e$, $j$, $ι_τ$ are now known.
-Bipolar idempotents $e_±$ have geometric meaning.
+H_τ = A_τ^(B) × A_τ^(C) (I.D20) with concrete numerical
+calibration from Part V: π, e, j, ι_τ are now known.
+Bipolar idempotents e_± have geometric meaning.
 
-the relevant chapter defines the $BndLift_n$ operator:
-boundary datum at stage $n$ $→$ interior datum at stage $n+1$.
+the relevant chapter defines the BndLift_n operator:
+boundary datum at stage n → interior datum at stage n+1.
 The Chinese Remainder Theorem (I.T18) on primorial completions enables
-the lift; bipolar idempotents $e_±$ split into two independent channels.
-$ι_τ$ governs coupling strength.
+the lift; bipolar idempotents e_± split into two independent channels.
+ι_τ governs coupling strength.
 
 the relevant chapter proves
 **Theorem II.T27**: the *Mutual Determination Theorem*
 (the five-way equivalence).
-Refinement tail $=$ Spectral tail $=$ $ω$-germ $=$ Boundary character $=$ Hartogs continuation.
+Refinement tail = Spectral tail = ω-germ = Boundary character = Hartogs continuation.
 All five descriptions are unified by split-complex polarity;
 each determines all others uniquely.
 This is the central unification theorem of Book II.
 
 the relevant chapter defines the evolution operator via
-$ω$-germ transport and shows that B/C asymmetry provides a causal arrow
-(which elliptic $ℂ$ lacks).
+ω-germ transport and shows that B/C asymmetry provides a causal arrow
+(which elliptic ℂ lacks).
 Forward propagation follows characteristic curves of the wave equation.
 
 the relevant chapter establishes the category structure:
-composition = stagewise composition of $ω$-germs;
+composition = stagewise composition of ω-germs;
 identity = constant family;
 **Theorem II.T29** proves associativity from the program monoid (I.P02).
-The category $HolEnd_τ$ is formed.
+The category HolEnd_τ is formed.
 
 the relevant chapter develops Laurent series with bipolar spectral
 decomposition.
-Residues emerge via $e_±$-sectors (not classical circular contours).
+Residues emerge via e_±-sectors (not classical circular contours).
 The residue theorem is verified in split-complex setting.
 
 the relevant chapter constructs the canonical holomorphic
-basis $B_τ$: classical monomials $\{z^n\}$ are replaced by
-cylinder generators $E_{n,v}^{(B/C)}$, each indexed by a (stage, peel token,
+basis B_τ: classical monomials {z^n} are replaced by
+cylinder generators E_n,v^(B/C), each indexed by a (stage, peel token,
 channel) triple.
-Every $τ$-holomorphic function has finite spectral support
+Every τ-holomorphic function has finite spectral support
 (**Theorem II.T31**), and the DFT projection formula
 reduces holomorphic computations to finite linear algebra at each stage.
 
-the relevant chapter establishes sheaf axioms from $ω$-germ
+the relevant chapter establishes sheaf axioms from ω-germ
 stagewise compatibility.
 Gluing lemmas extend local holomorphic data to global sections.
 
 Part VI closes with split-complex structure proven load-bearing.
 Interior points, continuous maps, holomorphic functions, and the sheaf
-structure all rest on the $e_±$ decomposition.
+structure all rest on the e_± decomposition.
 
 ## Chapters
 

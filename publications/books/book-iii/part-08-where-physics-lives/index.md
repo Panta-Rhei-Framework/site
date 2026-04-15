@@ -46,22 +46,22 @@ Spatial, Harmonic, Regular, Discrete, Legible, Codable, Coherent, Predictive.
 
 **Chapter 75** ("The Global Cartesian Gluing") proves the main result:
 local bulk projections glue, the decompactification limit
-$τ^3_R → ℝ^3$ recovers Euclidean space at human scales,
-and the Minkowski extension from the base $τ^1$ provides $3+1$-dimensional
+τ³_R → ℝ^3 recovers Euclidean space at human scales,
+and the Minkowski extension from the base τ¹ provides 3+1-dimensional
 spacetime with the correct signature.
 
-**Chapter 76** ("$E_1$ Complete") synthesises:
-$E_1$ is not a model of physics—it *is* the structural layer
+**Chapter 76** ("E₁ Complete") synthesises:
+E₁ is not a model of physics—it *is* the structural layer
 where physics becomes definable. Export contracts to Books IV–V
-are formalised, and the transition to $E_2$ is previewed.
+are formalised, and the transition to E₂ is previewed.
 
 **Chapter 77** ("The Temporal-Spatial Decomposition") unpacks
-the base $τ^1$ direction as the temporal axis
-and the fiber $T^2$ directions as spatial,
-completing the $3+1$ signature derivation.
+the base τ¹ direction as the temporal axis
+and the fiber T² directions as spatial,
+completing the 3+1 signature derivation.
 
-Scope throughout: **$τ$-effective** (Chapters 74–75, 77);
-**$τ$-effective $+$ metaphorical** (Chapter 76, closing reflection).
+Scope throughout: **τ-effective** (Chapters 74–75, 77);
+**τ-effective + metaphorical** (Chapter 76, closing reflection).
 
 ## Chapters
 

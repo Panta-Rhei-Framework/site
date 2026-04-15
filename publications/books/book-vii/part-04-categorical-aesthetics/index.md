@@ -10,7 +10,7 @@ part_number: 4
 part_display: "Part IV"
 part_slug: "part-04-categorical-aesthetics"
 chapter_count: 13
-summary_short: "**Sector $S_D$ (Diagrammatic), Part 1 of 3.** What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary, not derivative. Beauty is…"
+summary_short: "**Sector S_D (Diagrammatic), Part 1 of 3.** What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary, not derivative. Beauty is…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-**Sector $S_D$ (Diagrammatic), Part 1 of 3.**
+**Sector S_D (Diagrammatic), Part 1 of 3.**
 What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary,
 not derivative. Beauty is invariance under transformation; elegance is minimal constraint
 tension. The golden ratio, fractals, musical harmony, visual composition, and architectural

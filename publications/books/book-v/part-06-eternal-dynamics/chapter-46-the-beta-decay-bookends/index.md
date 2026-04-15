@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-4
 prev_chapter_title: "Chapter 45: The Threshold Ladder: From Baryogenesis to Recombination"
 next_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-47-black-hole-birth-as-global-topological-event/"
 next_chapter_title: "Chapter 47: Black Hole Birth as Global Topological Event"
-summary_short: "The temporal phase of the universe — the entire epoch in which measurable clocks exist, particles interact, and structure forms — is framed by two $β$-decay…"
+summary_short: "The temporal phase of the universe — the entire epoch in which measurable clocks exist, particles interact, and structure forms — is framed by two β-decay…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-06-eternal-dynamics/"
@@ -43,14 +43,14 @@ The temporal phase of the universe
 measurable clocks exist,
 particles interact,
 and structure forms —
-is framed by two $β$-decay processes.
-It opens with primordial $β^-$ decay
-($n → p + e^- + \barν_e$):
+is framed by two β-decay processes.
+It opens with primordial β^- decay
+(n → p + e^- + ν_e):
 the first physical process,
 whose products form the H/He gas
 that *is* space.
 It closes with neutronization
-($p + e^- → n + ν_e$)
+(p + e^- → n + ν_e)
 in stellar collapse:
 the reverse reaction,
 which opens the topological channel
@@ -66,11 +66,11 @@ produces compact remnants,
 and ultimately yields
 the BH-dominated late epoch.
 Every stage is a regime
-of the same $τ$-Einstein equation
+of the same τ-Einstein equation
 at a different refinement depth.
 
 The neutrinos produced at both bookends
-— and at every $β$-decay event in between —
+— and at every β-decay event in between —
 form a cosmic thread:
 the neutrino background
 is the fossil record of the temporal phase.

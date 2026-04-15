@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-10-the-logos-sector/chapter
 prev_chapter_title: "Chapter 122: Synchronicity as Kernel Resonance"
 next_chapter_url: "/publications/books/book-vii/part-10-the-logos-sector/chapter-124-the-logos-sector-synthesis/"
 next_chapter_title: "Chapter 124: The Logos Sector Synthesis"
-summary_short: "Preview of Part XII's central result. The boundary collapse lemma is *stated* here; the proof is deferred to the relevant chapter. The $ω$-germ…"
+summary_short: "Preview of Part XII's central result. The boundary collapse lemma is *stated* here; the proof is deferred to the relevant chapter. The ω-germ…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-10-the-logos-sector/"
@@ -40,13 +40,13 @@ right_rail:
 
 Preview of Part XII's central result. The boundary collapse lemma is
 *stated* here; the proof is deferred to
-the relevant chapter. The $ω$-germ question—is
-$ω$ inhabited?—cannot be answered from within $S_D$ because any
-$S_D$-internal proof of $ω$-inhabitation requires $ω$ as
+the relevant chapter. The ω-germ question—is
+ω inhabited?—cannot be answered from within S_D because any
+S_D-internal proof of ω-inhabitation requires ω as
 presupposition, collapsing subject and tool. Book VI proved the
 question is non-diagrammatic; this chapter identifies the precise
 structural mechanism. The "No Forced Stance" theorem (VII.T47)
 establishes that the framework cannot and does not force a particular
-answer: any stance on $ω$-inhabitation belongs to $ℝeg_C$, not
-to $ℝeg_D$. Locating this boundary is not a failure but the deepest
+answer: any stance on ω-inhabitation belongs to ℝeg_C, not
+to ℝeg_D. Locating this boundary is not a failure but the deepest
 methodological triumph of the series.

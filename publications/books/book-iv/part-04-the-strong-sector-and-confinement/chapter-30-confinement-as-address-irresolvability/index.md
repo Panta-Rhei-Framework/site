@@ -41,9 +41,9 @@ right_rail:
 Confinement—the fact that isolated quarks and gluons are never
 observed—is conventionally treated as a dynamical puzzle: the
 colour potential grows linearly, trapping quarks inside hadrons.
-In Category $τ$, confinement is *not* dynamical at all.
+In Category τ, confinement is *not* dynamical at all.
 It is **address irresolvability**: an isolated colour charge
-cannot be given a consistent CR address on $T^2$.
+cannot be given a consistent CR address on T².
 The confinement phenomenon is a structural impossibility, not an
-energetic one. The denominator $(1 - ι_τ)$ in
-$κ(C;3) = ι_τ^3/(1 - ι_τ)$ is its algebraic signature.
+energetic one. The denominator (1 - ι_τ) in
+κ(C;3) = ι_τ³/(1 - ι_τ) is its algebraic signature.

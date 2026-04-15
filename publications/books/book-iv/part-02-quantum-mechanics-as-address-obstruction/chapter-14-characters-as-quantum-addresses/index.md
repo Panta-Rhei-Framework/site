@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-addr
 prev_chapter_title: "Chapter 13: The CR Address Space"
 next_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-15-the-holomorphic-state-space/"
 next_chapter_title: "Chapter 15: The Holomorphic State Space"
-summary_short: "The lemniscate $𝕃$ is where quantum numbers live. Characters—homomorphisms from fundamental groups to $U(1)$—enumerate the possible quantum states. This is…"
+summary_short: "The lemniscate 𝕃 is where quantum numbers live. Characters—homomorphisms from fundamental groups to U(1)—enumerate the possible quantum states. This is…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-The lemniscate $𝕃$ is where quantum numbers live.
-Characters—homomorphisms from fundamental groups to $U(1)$—enumerate
+The lemniscate 𝕃 is where quantum numbers live.
+Characters—homomorphisms from fundamental groups to U(1)—enumerate
 the possible quantum states. This is representation theory meeting
-topology. The $ℤ × ℤ$ character structure on
+topology. The ℤ × ℤ character structure on
 the torus is already quantization—no additional postulates required.
 Each character is a *quantum address*: a discrete label that
 specifies where a state lives in the CR-admissible mode space.

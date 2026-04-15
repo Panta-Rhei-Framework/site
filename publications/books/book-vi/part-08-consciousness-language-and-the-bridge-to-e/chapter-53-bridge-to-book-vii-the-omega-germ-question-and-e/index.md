@@ -14,7 +14,7 @@ chapter_slug: "chapter-53-bridge-to-book-vii-the-omega-germ-question-and-e"
 page_in_book: 321
 prev_chapter_url: "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-52-communication-and-language-the-extended-lemniscate/"
 prev_chapter_title: "Chapter 52: Communication and Language: The Extended Lemniscate"
-summary_short: "At the Life boundary, the $ω$-germ code raises a question that cannot be resolved diagrammatically—this is the principled science-faith boundary. Six export…"
+summary_short: "At the Life boundary, the ω-germ code raises a question that cannot be resolved diagrammatically—this is the principled science-faith boundary. Six export…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/"
@@ -36,4 +36,4 @@ right_rail:
 ---
 
 
-At the Life boundary, the $ω$-germ code raises a question that cannot be resolved diagrammatically—this is the principled science-faith boundary. Six export contracts are delivered to Book VII: the Life predicate (Distinction + SelfDesc), the $4+1$ Life sectors, genotype/phenotype as $τ$-predicates, the $ω$-germ question, Life basins, and substrate-agnosticism. The $τ$-framework identifies exactly where science ends and philosophical reasoning begins—not a gap but a structural limit. Book VI closes where $E_2$'s self-modeling capacity demands treatment at $E_3$; Book VII opens at consciousness.
+At the Life boundary, the ω-germ code raises a question that cannot be resolved diagrammatically—this is the principled science-faith boundary. Six export contracts are delivered to Book VII: the Life predicate (Distinction + SelfDesc), the 4+1 Life sectors, genotype/phenotype as τ-predicates, the ω-germ question, Life basins, and substrate-agnosticism. The τ-framework identifies exactly where science ends and philosophical reasoning begins—not a gap but a structural limit. Book VI closes where E₂'s self-modeling capacity demands treatment at E₃; Book VII opens at consciousness.

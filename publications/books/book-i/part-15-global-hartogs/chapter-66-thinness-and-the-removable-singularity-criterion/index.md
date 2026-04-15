@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-15-global-hartogs/chapter-65-
 prev_chapter_title: "Chapter 65: Spectral Coefficients and the Restriction Map"
 next_chapter_url: "/publications/books/book-i/part-15-global-hartogs/chapter-67-the-global-hartogs-extension-theorem/"
 next_chapter_title: "Chapter 67: The Global Hartogs Extension Theorem"
-summary_short: "In classical complex analysis, Hartogs' extension theorem applies to compact sets of *codimension $≥ 2$*: a holomorphic function defined outside such a set…"
+summary_short: "In classical complex analysis, Hartogs' extension theorem applies to compact sets of *codimension ≥ 2*: a holomorphic function defined outside such a set…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-15-global-hartogs/"
@@ -40,23 +40,23 @@ right_rail:
 
 In classical complex analysis,
 Hartogs' extension theorem applies
-to compact sets of *codimension $≥ 2$*:
+to compact sets of *codimension ≥ 2*:
 a holomorphic function defined
 outside such a set extends across it.
-This chapter develops the $τ$-analog —
+This chapter develops the τ-analog —
 **primorial thinness**
 (the relevant definition, I.D67):
-$K ⊆ 𝕃$ is thin if,
+K ⊆ 𝕃 is thin if,
 at each primorial stage,
-it misses $≥ 2$ independent CRT directions.
+it misses ≥ 2 independent CRT directions.
 The **CRT Extension Lemma**
 (Lemma [lem:crt-extension], I.L08)
 reconstructs function values locally
 along the missing directions.
 The **Removable Singularity Theorem**
 (the relevant theorem, I.T30)
-shows that a bounded HolFun on $𝕃 \setminus K$
-with $K$ thin extends uniquely to $𝕃$.
+shows that a bounded HolFun on 𝕃 ∖ K
+with K thin extends uniquely to 𝕃.
 This is the *local* Hartogs extension —
 the global theorem follows in
 the relevant chapter.

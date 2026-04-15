@@ -10,7 +10,7 @@ part_number: 2
 part_display: "Part II"
 part_slug: "part-02-orbit-generation-and-ontic-closure"
 chapter_count: 3
-summary_short: "The static kernel $τ_0$ is a specification — precise, categorical, and inert. Part I assembled the blueprint: five generators, one operator $ρ$, and six axioms…"
+summary_short: "The static kernel τ₀ is a specification — precise, categorical, and inert. Part I assembled the blueprint: five generators, one operator ρ, and six axioms…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -30,27 +30,27 @@ right_rail:
 ---
 
 
-The static kernel $τ_0$ is a specification — precise, categorical, and inert.
+The static kernel τ₀ is a specification — precise, categorical, and inert.
 Part I assembled the blueprint:
-five generators, one operator $ρ$, and six axioms $K1$–$K6$.
-Now $ρ$ operates.
+five generators, one operator ρ, and six axioms K1–K6.
+Now ρ operates.
 
-In a single generative act, the operator $ρ$ unfolds four infinite orbit rays
-from the four non-$ω$ generators:
-$O_α$, $O_π$, $O_γ$, $O_η$.
-Together with the beacon singleton $\{ω\}$,
+In a single generative act, the operator ρ unfolds four infinite orbit rays
+from the four non-ω generators:
+O_α, O_π, O_γ, O_η.
+Together with the beacon singleton {ω},
 these five sets exhaust the universe —
-pairwise disjoint, individually countable, collectively $\aleph_0$.
+pairwise disjoint, individually countable, collectively ℵ_0.
 The Ontic Closure Theorem makes this precise:
-$\Obj(τ)$ is ontically sealed, and no further objects can be created.
+Obj(τ) is ontically sealed, and no further objects can be created.
 
 The iterator-of-iterator ladder climbs through four levels
 — raw iteration, multiplication, exponentiation, tetration —
 and saturates: pentation loses canonical injectivity
 because no fifth orbit channel exists.
 
-Finally, rigidity ($\Aut(τ) = \{\id\}$) and categoricity
-establish that $τ$ is not merely *a* model of $τ_0$
+Finally, rigidity (Aut(τ) = {id}) and categoricity
+establish that τ is not merely *a* model of τ₀
 but *the unique* model.
 Every label, every element, every structural feature
 is determined by the specification alone.

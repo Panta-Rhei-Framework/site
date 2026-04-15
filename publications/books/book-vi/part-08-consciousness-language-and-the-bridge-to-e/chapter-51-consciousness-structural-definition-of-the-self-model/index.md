@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-50-th
 prev_chapter_title: "Chapter 50: The Self-Enrichment Ladder: E₀–E₃ Complete"
 next_chapter_url: "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-52-communication-and-language-the-extended-lemniscate/"
 next_chapter_title: "Chapter 52: Communication and Language: The Extended Lemniscate"
-summary_short: "Consciousness is defined structurally at $E_2$ as the consumer sector's SelfDesc applied to itself: the system models its own modeling process. A *structural…"
+summary_short: "Consciousness is defined structurally at E₂ as the consumer sector's SelfDesc applied to itself: the system models its own modeling process. A *structural…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Consciousness is defined structurally at $E_2$ as the consumer sector's SelfDesc applied to itself: the system models its own modeling process. A *structural self-model* is an internal representation that reconstructs the carrier's own evaluator, not merely its distinction. The minimal conscious agent is characterized as the simplest system satisfying this self-modeling criterion: a consumer-sector carrier with a neural architecture supporting $Eval^{(2)}$. Only the mixed sector generates consciousness, because the consumer sector's coupling of source and closure on $(γ, η)$ creates the reflective loop required for self-modeling—this is proved from the bridge-head lemma (VI.L07). The phenomenological content of consciousness—qualia and subjective experience—is deferred to Book VII ($E_3$); the present chapter provides only the structural definition.
+Consciousness is defined structurally at E₂ as the consumer sector's SelfDesc applied to itself: the system models its own modeling process. A *structural self-model* is an internal representation that reconstructs the carrier's own evaluator, not merely its distinction. The minimal conscious agent is characterized as the simplest system satisfying this self-modeling criterion: a consumer-sector carrier with a neural architecture supporting Eval^(2). Only the mixed sector generates consciousness, because the consumer sector's coupling of source and closure on (γ, η) creates the reflective loop required for self-modeling—this is proved from the bridge-head lemma (VI.L07). The phenomenological content of consciousness—qualia and subjective experience—is deferred to Book VII (E₃); the present chapter provides only the structural definition.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/
 prev_chapter_title: "Chapter 17: Tower Atoms and the Greedy Peel"
 next_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-19-the-abcd-coordinate-chart/"
 next_chapter_title: "Chapter 19: The ABCD Coordinate Chart"
-summary_short: "the relevant chapter defined tower atoms and the greedy peel-off algorithm. The peel produces a single tuple $(\A, \B, \C,…"
+summary_short: "the relevant chapter defined tower atoms and the greedy peel-off algorithm. The peel produces a single tuple (A, B, C,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/"
@@ -41,15 +41,15 @@ right_rail:
 the relevant chapter defined tower atoms
 and the greedy peel-off algorithm.
 The peel produces a single tuple
-$(A, B, C, D)$
-from any $X ≥ 2$.
-But the remainder $D$ is itself an element
-of $τ$-Idx — it may be non-trivial and admit further
+(A, B, C, D)
+from any X ≥ 2.
+But the remainder D is itself an element
+of τ-Idx — it may be non-trivial and admit further
 structure.
 This chapter defines the *normal-form address encoding*:
 the result of applying the greedy peel once,
 recording the extracted tower atom and the remainder.
-The NF address is the canonical description of $X$
+The NF address is the canonical description of X
 in terms of the arithmetic hierarchy.
 Existence of the NF is established here;
 *uniqueness* is the subject of Part V.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 12: Hydrogen: The First Atom"
 next_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-14-characters-as-quantum-addresses/"
 next_chapter_title: "Chapter 14: Characters as Quantum Addresses"
-summary_short: "The substrate $τ^3$ is not merely a topological space—it carries a Cauchy–Riemann structure that makes holomorphic analysis possible. This CR-structure is…"
+summary_short: "The substrate τ³ is not merely a topological space—it carries a Cauchy–Riemann structure that makes holomorphic analysis possible. This CR-structure is…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-The substrate $τ^3$ is not merely a topological space—it carries a
+The substrate τ³ is not merely a topological space—it carries a
 Cauchy–Riemann structure that makes holomorphic analysis possible.
 This CR-structure is where quantum mechanics originates. The constraints
 it imposes are not abstract mathematics—they are physics itself.
 Every physical configuration must possess a CR-compatible *address*
-on the fiber $T^2$; configurations without such an address simply
+on the fiber T²; configurations without such an address simply
 do not exist.

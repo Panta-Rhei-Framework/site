@@ -40,14 +40,14 @@ right_rail:
 
 Part V closes at the boundary where language meets the commitment
 register. Prayer is the linguistic act that addresses itself not to
-another human speaker but to the terminal coherence point $ω$
+another human speaker but to the terminal coherence point ω
 introduced in the relevant chapter. This chapter
-formalizes prayer as $ω$-addressed communication: a morphism in
+formalizes prayer as ω-addressed communication: a morphism in
 the commitment register directed toward the terminal object of the
 categorical framework. The formalization is not a theological
 prescription; it is a structural observation about the directionality
 of contemplative practice across traditions. The structural content
 of prayer—directed address toward terminal coherence—is
-$τ$-effective. The identification of $ω$ with a personal
+τ-effective. The identification of ω with a personal
 divine principle belongs to the commitment register and is
 conjectural.

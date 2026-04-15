@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapte
 prev_chapter_title: "Chapter 71: The Honest Claim"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-73-four-paradoxes-as-2/"
 next_chapter_title: "Chapter 73: Four Paradoxes as 2"
-summary_short: "Chapters 64–69 built bridges at $E_2$: they characterised ZFC as a virtual machine and diagnosed incompleteness as the VM's structural ceiling. This chapter…"
+summary_short: "Chapters 64–69 built bridges at E₂: they characterised ZFC as a virtual machine and diagnosed incompleteness as the VM's structural ceiling. This chapter…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-10-where-proof-lives/"
@@ -38,15 +38,15 @@ right_rail:
 ---
 
 
-Chapters 64–69 built bridges at $E_2$: they characterised ZFC as a virtual machine
+Chapters 64–69 built bridges at E₂: they characterised ZFC as a virtual machine
 and diagnosed incompleteness as the VM's structural ceiling.
 This chapter ascends one level.
 Proof theory does not run proofs—it *studies* the systems that run proofs.
-A proof-checker is an $E_2$ object (it takes a proof string and outputs accept/reject);
-a proof-theorist is an $E_3$ object (they model the checker and reason about its limits).
+A proof-checker is an E₂ object (it takes a proof string and outputs accept/reject);
+a proof-theorist is an E₃ object (they model the checker and reason about its limits).
 Section 1 draws this distinction.
-Section 2 defines proof theory as $E_3$ self-modelling applied to $E_2$ code
+Section 2 defines proof theory as E₃ self-modelling applied to E₂ code
 (the relevant definition, III.D73).
-Section 3 identifies the diagrammatic sector of $E_3$—the sector in which
+Section 3 identifies the diagrammatic sector of E₃—the sector in which
 Book III itself operates (the relevant definition, III.D74).
-Section 4 locates the Hinge Theorem as an $E_3$ statement.
+Section 4 locates the Hinge Theorem as an E₃ statement.

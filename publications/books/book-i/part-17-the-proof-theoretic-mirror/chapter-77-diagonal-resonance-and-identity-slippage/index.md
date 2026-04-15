@@ -52,7 +52,7 @@ the star-autonomous barrier was located
 and the enrichment frontier was mapped
 .
 Throughout, the discussion remained structural:
-contraction was absent on the $τ$ side,
+contraction was absent on the τ side,
 present on the CIC side,
 and the gap between them was declared.
 

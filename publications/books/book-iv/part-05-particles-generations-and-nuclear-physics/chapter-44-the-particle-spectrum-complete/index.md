@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and
 prev_chapter_title: "Chapter 43: The Periodic Table"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-45-the-hydrogen-atom-bohr-radius-and-rydberg-constant/"
 next_chapter_title: "Chapter 45: The Hydrogen Atom: Bohr Radius and Rydberg Constant"
-summary_short: "Every Standard Model particle has been located in the $τ^3$ fibration: quarks and leptons as character modes on $T^2$, gauge bosons as holonomies, the Higgs as…"
+summary_short: "Every Standard Model particle has been located in the τ³ fibration: quarks and leptons as character modes on T², gauge bosons as holonomies, the Higgs as…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/"
@@ -38,11 +38,11 @@ right_rail:
 ---
 
 
-Every Standard Model particle has been located in the $τ^3$
-fibration: quarks and leptons as character modes on $T^2$, gauge
-bosons as holonomies, the Higgs as the $ω$-crossing mass
+Every Standard Model particle has been located in the τ³
+fibration: quarks and leptons as character modes on T², gauge
+bosons as holonomies, the Higgs as the ω-crossing mass
 mechanism. This closing chapter assembles the complete inventory,
 records the improvements from 1st to 2nd Edition, states the
 remaining open problems, and writes the export contracts to
-Book V—the clean handoff from the fiber $T^2$ (microcosm)
-to the base $τ^1$ (macrocosm).
+Book V—the clean handoff from the fiber T² (microcosm)
+to the base τ¹ (macrocosm).

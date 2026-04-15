@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 10: The Fine-Structure Constant"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-12-hydrogen-the-first-atom/"
 next_chapter_title: "Chapter 12: Hydrogen: The First Atom"
-summary_short: "The neutron is not merely the first particle—it is the **calibration anchor**. Its mass $m_n$ is the *one measurement* from which all other quantities in…"
+summary_short: "The neutron is not merely the first particle—it is the **calibration anchor**. Its mass m_n is the *one measurement* from which all other quantities in…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 The neutron is not merely the first particle—it is the
-**calibration anchor**. Its mass $m_n$ is the *one measurement*
-from which all other quantities in Category $τ$ follow.
-This chapter establishes the $τ$-natural unit system:
-$M = m_n$, $L = ℏ/(m_n c)$, $T = L/c$, and remarkably
-$ℏ_τ = 1/4$. No SI conversion is performed here—that
-belongs to Book V. Everything is $τ$-internal.
+**calibration anchor**. Its mass m_n is the *one measurement*
+from which all other quantities in Category τ follow.
+This chapter establishes the τ-natural unit system:
+M = m_n, L = ℏ/(m_n c), T = L/c, and remarkably
+ℏ_τ = 1/4. No SI conversion is performed here—that
+belongs to Book V. Everything is τ-internal.

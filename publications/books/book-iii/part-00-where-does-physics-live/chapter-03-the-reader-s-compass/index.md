@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-00-where-does-physics-live/
 prev_chapter_title: "Chapter 2: The Eight Guarantees"
 next_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-04-the-self-enrichment-functor/"
 next_chapter_title: "Chapter 4: The Self-Enrichment Functor"
-summary_short: "Book III is the longest and most technically demanding volume in the series. It earns the self-enrichment layer $E_1$, proves structural analogues of seven…"
+summary_short: "Book III is the longest and most technically demanding volume in the series. It earns the self-enrichment layer E₁, proves structural analogues of seven…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-00-where-does-physics-live/"
@@ -40,7 +40,7 @@ right_rail:
 
 Book III is the longest and most technically demanding
 volume in the series.
-It earns the self-enrichment layer $E_1$,
+It earns the self-enrichment layer E₁,
 proves structural analogues of seven Millennium Problems,
 and assembles the enriched bi-square that captures
 the Langlands programme in a single pasted diagram.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-s
 prev_chapter_title: "Chapter 22: The Three Domains: Sector Taxonomy of Life"
 next_chapter_url: "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-24-photosynthesis-quantum-coherence-and-carbon-fixation/"
 next_chapter_title: "Chapter 24: Photosynthesis: Quantum Coherence and Carbon Fixation"
-summary_short: "The source (producer) sector is formally defined as the $γ$-fiber restricted to $E_2$ carriers, with structure generation as the defining predicate. A carrier…"
+summary_short: "The source (producer) sector is formally defined as the γ-fiber restricted to E₂ carriers, with structure generation as the defining predicate. A carrier…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The source (producer) sector is formally defined as the $γ$-fiber restricted to $E_2$ carriers, with structure generation as the defining predicate. A carrier satisfies structure generation when its $Loop_L$ factors through $Loop_{src}$ on the $γ$ channel, producing new material from inorganic precursors. The central theorem identifies the source sector as the unique sector on the $γ$-fiber that produces structural complexity from simpler inputs, with plants as the biological archetype.
+The source (producer) sector is formally defined as the γ-fiber restricted to E₂ carriers, with structure generation as the defining predicate. A carrier satisfies structure generation when its Loop_L factors through Loop_src on the γ channel, producing new material from inorganic precursors. The central theorem identifies the source sector as the unique sector on the γ-fiber that produces structural complexity from simpler inputs, with plants as the biological archetype.

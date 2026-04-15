@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-
 prev_chapter_title: "Chapter 39: Immune Systems: Self/Non-Self Recognition"
 next_chapter_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-41-learning-sleep-and-the-brain/"
 next_chapter_title: "Chapter 41: Learning, Sleep, and the Brain"
-summary_short: "The nervous system is a computational architecture on $τ^3$, with neurons as typed nodes in a directed graph and synapses as weighted edges. Each sensory…"
+summary_short: "The nervous system is a computational architecture on τ³, with neurons as typed nodes in a directed graph and synapses as weighted edges. Each sensory…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The nervous system is a computational architecture on $τ^3$, with neurons as typed nodes in a directed graph and synapses as weighted edges. Each sensory modality—vision, audition, olfaction, gustation, somatosensation—serves as an input channel to this neural $τ^3$ computer. Perception integrates these raw signals into interpreted representations through feature extraction and pattern recognition, realized across diverse neural architectures from invertebrate ganglia to the vertebrate central nervous system.
+The nervous system is a computational architecture on τ³, with neurons as typed nodes in a directed graph and synapses as weighted edges. Each sensory modality—vision, audition, olfaction, gustation, somatosensation—serves as an input channel to this neural τ³ computer. Perception integrates these raw signals into interpreted representations through feature extraction and pattern recognition, realized across diverse neural architectures from invertebrate ganglia to the vertebrate central nervous system.

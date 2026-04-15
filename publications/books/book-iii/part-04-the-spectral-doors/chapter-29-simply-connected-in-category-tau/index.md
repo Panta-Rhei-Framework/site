@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapt
 prev_chapter_title: "Chapter 28: Poincar\'e's Conjecture"
 next_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapter-30-the-master-schema/"
 next_chapter_title: "Chapter 30: The Master Schema"
-summary_short: "Book II earned topology from holomorphy; the fundamental group $π_1$ is thereby an earned invariant. We reinterpret the Poincaré Conjecture categorically:…"
+summary_short: "Book II earned topology from holomorphy; the fundamental group π₁ is thereby an earned invariant. We reinterpret the Poincaré Conjecture categorically:…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Book II earned topology from holomorphy; the fundamental group $π_1$ is thereby an earned invariant. We reinterpret the Poincaré Conjecture categorically: simple connectivity becomes a property of the enrichment functor, and $S^3$ emerges as the terminal object among closed simply connected 3-manifolds. This chapter establishes the categorical framework for Poincaré; Chapter 31 supplied the coherence proof.
+Book II earned topology from holomorphy; the fundamental group π₁ is thereby an earned invariant. We reinterpret the Poincaré Conjecture categorically: simple connectivity becomes a property of the enrichment functor, and S³ emerges as the terminal object among closed simply connected 3-manifolds. This chapter establishes the categorical framework for Poincaré; Chapter 31 supplied the coherence proof.

@@ -46,7 +46,7 @@ of Categorical Holomorphy.
 Second, it identifies the open questions
 that Book III inherits —
 the Millennium Problems in the split-complex regime,
-the $E_1 → E_2$ enrichment transition,
+the E₁ → E₂ enrichment transition,
 and the differential-geometric programme
 previewed in the relevant chapter.
 The inventory is organized by type and grouped by Part

@@ -45,22 +45,22 @@ at the center of the galaxy Messier 87.
 The image showed a bright ring of emission
 surrounding a dark central region—the
 shadow—with
-a diameter of $\sim 42 μ$as,
+a diameter of ∼ 42 μas,
 consistent with the Schwarzschild prediction
-for a $6.5 × 10^9 M_\odot$ black hole
+for a 6.5 × 10^9 M_☉ black hole
 at a distance of 16.8 Mpc.
 In 2022, the EHT released EHTSgrA2022
 a second shadow image:
-Sgr A*, the $4.3 × 10^6 M_\odot$
+Sgr A*, the 4.3 × 10^6 M_☉
 object at the center of the Milky Way.
 
 Both images were interpreted
 within the framework of general relativity,
 where the shadow is cast
-by a spherical ($S^2$) event horizon.
-In Category $τ$,
+by a spherical (S²) event horizon.
+In Category τ,
 the interpretation is fundamentally different.
-**The shadow is a toroidal ($T^2$) readout.**
+**The shadow is a toroidal (T²) readout.**
 The bright ring is not the photon sphere
 of a Schwarzschild metric;
 it is the equatorial emission
@@ -72,7 +72,7 @@ not the sphere.
 This chapter develops the **Shadow Shape Theorem**
 ,
 which predicts specific differences
-between $T^2$ and $S^2$ shadows:
+between T² and S² shadows:
 inner-shadow ellipticity,
 photon subring spacing,
 and polarization winding patterns.

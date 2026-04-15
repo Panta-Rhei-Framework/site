@@ -10,7 +10,7 @@ part_number: 7
 part_display: "Part VII"
 part_slug: "part-07-condensed-matter-and-fluid-dynamics"
 chapter_count: 11
-summary_short: "Parts II through VI studied the fiber $T^2$ one particle at a time: individual defect bundles, their quantum addresses, their interactions, their chemical…"
+summary_short: "Parts II through VI studied the fiber T² one particle at a time: individual defect bundles, their quantum addresses, their interactions, their chemical…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 right_rail:
@@ -30,23 +30,23 @@ right_rail:
 ---
 
 
-Parts II through VI studied the fiber $T^2$ one particle at a time:
+Parts II through VI studied the fiber T² one particle at a time:
 individual defect bundles, their quantum addresses, their interactions,
 their chemical combinations.
 Part VII zooms out.
 
 A macroscopic sample of matter is not a single defect bundle.
-It is a *statistical ensemble*—$10^{23}$ localized deviations
+It is a *statistical ensemble*—10²³ localized deviations
 from the vacuum torus, collectively forming what we observe as a
 phase of matter. The defect tuple
-$\mathbfd = (d_1, d_2, d_3, d_4)$
+d = (d₁, d₂, d₃, d₄)
 that classified electrons and protons in Part II now classifies
 crystals and superfluids, Euler flows and plasmas.
 
 The eleven chapters of Part VII develop this programme in full.
 the relevant chapter introduces the defect functional
 as a universal regime classifier and identifies the eight canonical
-fluid regimes on $T^2$.
+fluid regimes on T².
 the relevant chapter systematizes the defect
 tuple as the master phase-space coordinate.
 Chapters  through 
@@ -54,20 +54,20 @@ derive the Euler, Navier–Stokes, and MHD equations
 from defect budget conservation.
 the relevant chapter treats superfluids and superconductors
 as quantized defect regimes, deriving Cooper pairing from
-electroweak-mixed normalization on $T^2$.
+electroweak-mixed normalization on T².
 the relevant chapter covers crystals, glass, and phase transitions,
 including decidable classification algorithms for crystalline
 and glassy states.
-the relevant chapter develops magnetism entirely from $T^2$ topology:
-the Euler characteristic $χ(T^2)=0$ forbids magnetic monopoles,
-the Ising model on $T^2$ explains ferromagnetic ordering,
+the relevant chapter develops magnetism entirely from T² topology:
+the Euler characteristic χ(T²)=0 forbids magnetic monopoles,
+the Ising model on T² explains ferromagnetic ordering,
 and the Curie transition is a second-order phase transition
 in the defect-tuple framework.
 the relevant chapter proves the NFL-boundary theorem—the
 algebraic engine distinguishing non-dissipative from dissipative regimes—and
 establishes decidable phase classification for all regimes.
 the relevant chapter confronts the Navier–Stokes
-Millennium Problem through the $τ$-gap meta-theorem.
+Millennium Problem through the τ-gap meta-theorem.
 the relevant chapter closes the Part
 with the unified regime table that summarizes all ten regimes
 in a single defect-space diagram.

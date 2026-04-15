@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapte
 prev_chapter_title: "Chapter 66: ZFC as 2"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-68-g-odel-and-the-vm-boundary/"
 next_chapter_title: "Chapter 68: G\"odel and the VM Boundary"
-summary_short: "Chapter 64 diagnosed ZFC as an $E_2$ virtual machine . This chapter identifies five operations that ZFC allows but Category $\\T$…"
+summary_short: "Chapter 64 diagnosed ZFC as an E₂ virtual machine . This chapter identifies five operations that ZFC allows but Category T…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-10-where-proof-lives/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-Chapter 64 diagnosed ZFC as an $E_2$ virtual machine
+Chapter 64 diagnosed ZFC as an E₂ virtual machine
 .
 This chapter identifies five operations that ZFC allows but
-Category $\T$ forbids, each traced to a specific axiom pair.
+Category T forbids, each traced to a specific axiom pair.
 Section 1 lists the five forbidden moves
 (the relevant definition, III.D69).
 Section 2 diagnoses each move in detail.

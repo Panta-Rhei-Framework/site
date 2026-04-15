@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-addr
 prev_chapter_title: "Chapter 14: Characters as Quantum Addresses"
 next_chapter_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-16-holomorphic-quantization/"
 next_chapter_title: "Chapter 16: Holomorphic Quantization"
-summary_short: "Quantum mechanics lives in Hilbert space. But where does Hilbert space come from? In $τ^3$, it emerges naturally: the space of CR-functions satisfying…"
+summary_short: "Quantum mechanics lives in Hilbert space. But where does Hilbert space come from? In τ³, it emerges naturally: the space of CR-functions satisfying…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 Quantum mechanics lives in Hilbert space. But where does Hilbert space
-come from? In $τ^3$, it emerges naturally: the space of CR-functions
+come from? In τ³, it emerges naturally: the space of CR-functions
 satisfying appropriate growth conditions forms a Hilbert space with a
 canonical inner product. We do not postulate Hilbert space—we
 derive it from the address structure established in the preceding

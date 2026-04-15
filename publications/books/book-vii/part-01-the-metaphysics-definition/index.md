@@ -32,24 +32,24 @@ right_rail:
 
 Part I builds the formal apparatus that governs all subsequent Parts.
 The **four-register model** decomposes metaphysical reasoning into four
-independent modes: empirical ($E$: "what do I observe?"), practical ($P$: "what should
-I do?"), diagrammatic ($D$: "what can I prove?"), and commitment ($C$: "what am I
+independent modes: empirical (E: "what do I observe?"), practical (P: "what should
+I do?"), diagrammatic (D: "what can I prove?"), and commitment (C: "what am I
 willing to live as true?").
-The **4+1 sector template** instantiates these registers at $E_3$: the empirical
-sector $S_E$ (Parts II–III), the diagrammatic sector $S_D$ (Parts IV–VI), the practical
-sector $S_P$ (Parts VII–VIII), the commitment sector $S_C$ (Part IX), and the mixed
-Logos sector $S_L$ (Part X) where proof-validity equals stance-stability.
-The **Saturation Theorem** closes the enrichment ladder: $Enrich^4 = Enrich^3$,
+The **4+1 sector template** instantiates these registers at E₃: the empirical
+sector S_E (Parts II–III), the diagrammatic sector S_D (Parts IV–VI), the practical
+sector S_P (Parts VII–VIII), the commitment sector S_C (Part IX), and the mixed
+Logos sector S_L (Part X) where proof-validity equals stance-stability.
+The **Saturation Theorem** closes the enrichment ladder: Enrich⁴ = Enrich³,
 proved via the no-new-lobe lemma, the no-new-crossing-mediator lemma, and carrier
 closure under self-reference.
 The **Canonical Ladder Theorem** establishes non-emptiness, strictness, and saturation
-of the four-layer tower $E_0 → E_1 → E_2 → E_3$.
-Archetypes are formalized as minimal $j$-closed fixed points in the presheaf topos:
+of the four-layer tower E₀ → E₁ → E₂ → E₃.
+Archetypes are formalized as minimal j-closed fixed points in the presheaf topos:
 three candidates—the boundary archetype (lemniscate), the mitigation archetype (garment),
 and the meta-framing archetype (serpent/trickster).
 Synchronicity is earned structurally as non-causal correlation via shared kernel invariants
 across typed registers.
-G\"odel and halting avoidance are treated: $τ$'s self-referential capacity is
+G\"odel and halting avoidance are treated: τ's self-referential capacity is
 bounded but sufficient.
 
 ## Chapters

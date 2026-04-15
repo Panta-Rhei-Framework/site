@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic
 prev_chapter_title: "Chapter 9: Rigidity — (τ) = {τ}
 next_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/chapter-11-the-swap-operator-sigma-and-the-first-arithmetic/"
 next_chapter_title: "Chapter 11: The Swap Operator σ and the First Arithmetic"
-summary_short: "The passage from generation to denotation begins with a single observation: the alpha-orbit $O_α = \\{α, ρ(α), ρ^2(α), …\\}$ *is* the natural numbers. Not by…"
+summary_short: "The passage from generation to denotation begins with a single observation: the alpha-orbit O_α = \{α, ρ(α), ρ²(α), …\} *is* the natural numbers. Not by…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-03-the-denotational-bridge/"
@@ -40,17 +40,17 @@ right_rail:
 
 The passage from generation to denotation begins with a
 single observation:
-the alpha-orbit $O_α = \{α, ρ(α), ρ^2(α), …\}$
+the alpha-orbit O_α = {α, ρ(α), ρ²(α), …}
 *is* the natural numbers.
 Not by analogy, not by embedding, not by importation —
 but as an identity.
 The alpha-orbit, earned from the kernel axioms
 and populated by the generative act,
-carries the exact structure of $(ℕ, 0, S)$:
-a distinguished first element ($α$),
-a successor function ($ρ$),
+carries the exact structure of (ℕ, 0, S):
+a distinguished first element (α),
+a successor function (ρ),
 and the properties of injectivity, non-circularity,
 and induction.
-We name this identification $τ$-Idx
+We name this identification τ-Idx
 and construct the three rank transfer maps
 that link the counting scaffold to the solenoidal orbits.

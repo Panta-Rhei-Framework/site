@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definiti
 prev_chapter_title: "Chapter 7: The Canonical Ladder Theorem"
 next_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-09-g-odel-and-halting-avoidance/"
 next_chapter_title: "Chapter 9: G\"odel and Halting Avoidance"
-summary_short: "The terminal result of the enrichment programme is proved: there is no $E_4$. Applying the enrichment functor to $E_3$ produces $E_3$ again. The proof proceeds…"
+summary_short: "The terminal result of the enrichment programme is proved: there is no E₄. Applying the enrichment functor to E₃ produces E₃ again. The proof proceeds…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/"
@@ -39,13 +39,13 @@ right_rail:
 
 
 The terminal result of the enrichment programme is proved: there is
-no $E_4$. Applying the enrichment functor to $E_3$ produces $E_3$
+no E₄. Applying the enrichment functor to E₃ produces E₃
 again. The proof proceeds through three lemmas: the No-New-Lobe
 Lemma (the five generators are exhaustive), the
 No-New-Crossing-Mediator Lemma (the Logos sector already combines all
 four registers), and the Carrier Closure Lemma (self-modelling of
 self-modelling collapses to self-modelling). The Four-Orbit Implies
 Four-Layer proposition links the algebraic closure of the
-$ρ$-action on the lemniscate to the enrichment saturation.
+ρ-action on the lemniscate to the enrichment saturation.
 The series is structurally complete: seven books, four layers, one
 full stop.

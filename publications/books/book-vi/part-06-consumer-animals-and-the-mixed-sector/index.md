@@ -10,7 +10,7 @@ part_number: 6
 part_display: "Part VI"
 part_slug: "part-06-consumer-animals-and-the-mixed-sector"
 chapter_count: 10
-summary_short: "The $(γ, η)$ mixed sector: **acquires structure and energy from other Life forms**. Animals—the biological archetype of the consumer sector—couple source and…"
+summary_short: "The (γ, η) mixed sector: **acquires structure and energy from other Life forms**. Animals—the biological archetype of the consumer sector—couple source and…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:
@@ -30,12 +30,12 @@ right_rail:
 ---
 
 
-The $(γ, η)$ mixed sector: **acquires structure and energy from other Life forms**.
+The (γ, η) mixed sector: **acquires structure and energy from other Life forms**.
 Animals—the biological archetype of the consumer sector—couple source and closure channels via
 signature rigidity. This is the most complex sector by construction: ten chapters reflect genuine
 biological complexity asymmetry. Eukarya is recast as fiber-enabled carrier technology, not a sector
 identity. The consumer sector's self-modeling capacity—immune recognition, neural computation,
-learning, identity through transformation—opens the bridge-head to $E_3$.
+learning, identity through transformation—opens the bridge-head to E₃.
 
 ## Chapters
 

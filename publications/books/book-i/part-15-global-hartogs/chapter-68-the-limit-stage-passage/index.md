@@ -44,13 +44,13 @@ has been proved.
 This chapter draws the consequences.
 We define **earned stage-determined points**
 (the relevant definition, I.D68) —
-points of $τ^3$ whose finite-stage data
-is uniquely determined by omega-tail data on $𝕃$ —
-and prove that *every* point of $τ^3$
+points of τ³ whose finite-stage data
+is uniquely determined by omega-tail data on 𝕃 —
+and prove that *every* point of τ³
 is earned in this sense
 (**Stages from Limit**,
 Corollary [cor:interior-from-boundary], I.C02).
-The algebraic lemniscate $𝕃$,
+The algebraic lemniscate 𝕃,
 through its omega-tail structure,
 determines the fibered product completely.
 Finally, **Passage to Book II**

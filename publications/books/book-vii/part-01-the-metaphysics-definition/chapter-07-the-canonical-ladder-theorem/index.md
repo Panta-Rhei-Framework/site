@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definiti
 prev_chapter_title: "Chapter 6: Sector Witness Bundles, Vacua, and Normalizers"
 next_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-08-the-saturation-theorem-enrich/"
 next_chapter_title: "Chapter 8: The Saturation Theorem: Enrich"
-summary_short: "The enrichment series $E_0 → E_1 → E_2 → E_3$ is proved to be a *canonical ladder*: non-empty at every layer, strictly increasing, and structurally determined…"
+summary_short: "The enrichment series E₀ → E₁ → E₂ → E₃ is proved to be a *canonical ladder*: non-empty at every layer, strictly increasing, and structurally determined…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The enrichment series $E_0 → E_1 → E_2 → E_3$ is proved to be
+The enrichment series E₀ → E₁ → E₂ → E₃ is proved to be
 a *canonical ladder*: non-empty at every layer, strictly increasing,
 and structurally determined by the kernel. The Non-Emptiness Lemma
 exhibits a constructive carrier at each level. The Strictness Lemma

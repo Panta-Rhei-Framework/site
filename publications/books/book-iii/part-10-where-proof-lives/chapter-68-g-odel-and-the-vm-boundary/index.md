@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapte
 prev_chapter_title: "Chapter 67: The Five Forbidden Moves"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-69-the-bridge-axiom/"
 next_chapter_title: "Chapter 69: The Bridge Axiom"
-summary_short: "The preceding chapters recast ZFC as an $E_2$ virtual machine and classified the moves that orthodox mathematics permits inside that VM. This chapter turns the…"
+summary_short: "The preceding chapters recast ZFC as an E₂ virtual machine and classified the moves that orthodox mathematics permits inside that VM. This chapter turns the…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-10-where-proof-lives/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The preceding chapters recast ZFC as an $E_2$ virtual machine
+The preceding chapters recast ZFC as an E₂ virtual machine
 and classified the moves that orthodox mathematics permits
 inside that VM.
 This chapter turns the lens on the VM's *ceiling*.
@@ -46,7 +46,7 @@ G\"odel's First and Second Incompleteness Theorems
 and Turing's Halting Problem
 are diagnosed as manifestations
 of a single structural phenomenon:
-the $E_2$–$E_3$ boundary.
+the E₂–E₃ boundary.
 In each case, a self-referential code
 attempts to describe a property
 that belongs to the *host* —
@@ -55,5 +55,5 @@ and fails because host-level properties
 are not representable within the VM's derivation system.
 The incompleteness phenomena are not bugs in logic.
 They are boundary markers,
-showing exactly where $E_2$ ends
-and $E_3$ begins.
+showing exactly where E₂ ends
+and E₃ begins.

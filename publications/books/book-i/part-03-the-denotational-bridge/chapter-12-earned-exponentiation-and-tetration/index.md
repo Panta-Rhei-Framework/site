@@ -45,8 +45,8 @@ Each operation is earned by structural recursion
 from the previous level.
 The first critical result is the
 *tetration injectivity* proposition:
-for fixed base $a ≥ 2$,
-the tetration map $c ↦ {}^{c}a$
+for fixed base a ≥ 2,
+the tetration map c ↦ {}^{c}a
 is injective.
 This injectivity is essential for Part V (Hyperfactorization),
 where tetration provides the outermost coordinate
@@ -55,9 +55,9 @@ With tetration in place, all four levels of the iterator ladder
 have concrete arithmetic realizations.
 The second critical result is the
 *Minimal Alphabet Theorem*:
-the number $|Gen| = 5$ is the unique cardinality
+the number |Gen| = 5 is the unique cardinality
 that simultaneously achieves
 ladder completeness, rigidity, and saturation.
-Counter-models at $4$ and $6$ generators
+Counter-models at 4 and 6 generators
 show that this sweet spot cannot be shifted
 in either direction.

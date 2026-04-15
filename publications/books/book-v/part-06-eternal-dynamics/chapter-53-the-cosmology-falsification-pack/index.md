@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-5
 prev_chapter_title: "Chapter 52: The Cosmological Endstate: Eternal Circulation"
 next_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-54-the-boundary-unification-program/"
 next_chapter_title: "Chapter 54: The Boundary Unification Program"
-summary_short: "A theory that cannot be falsified is not a physical theory. Category $τ$ claims to derive cosmology from seven axioms on five generators. This chapter puts…"
+summary_short: "A theory that cannot be falsified is not a physical theory. Category τ claims to derive cosmology from seven axioms on five generators. This chapter puts…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-06-eternal-dynamics/"
@@ -40,7 +40,7 @@ right_rail:
 
 A theory that cannot be falsified
 is not a physical theory.
-Category $τ$ claims to derive cosmology
+Category τ claims to derive cosmology
 from seven axioms on five generators.
 This chapter puts that claim on the line.
 We assemble a **falsification pack**:
@@ -52,15 +52,15 @@ and a clear statement of what observational result
 would constitute a falsification.
 
 Seven domains are covered:
-the CMB power spectrum (\S),
+the CMB power spectrum (§),
 baryon acoustic oscillations
-and Type Ia supernovae (\S),
+and Type Ia supernovae (§),
 growth of structure
-and weak lensing (\S),
-Big Bang nucleosynthesis (\S),
-gravitational wave standard sirens (\S),
-galaxy rotation curves (\S),
-and the falsification standard itself (\S).
+and weak lensing (§),
+Big Bang nucleosynthesis (§),
+gravitational wave standard sirens (§),
+galaxy rotation curves (§),
+and the falsification standard itself (§).
 This chapter is deliberately conservative:
 where a prediction is quantitatively uncertain,
 it says so;

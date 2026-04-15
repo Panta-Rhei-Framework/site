@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-det
 prev_chapter_title: "Chapter 41: Pre-Yoneda Embedding"
 next_chapter_url: "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/chapter-43-tau-enriches-over-itself/"
 next_chapter_title: "Chapter 43: τ Enriches Over Itself"
-summary_short: "A holomorphic function on $τ^3$ is determined by its boundary behavior—this is the lesson of the Mutual Determination Theorem (II.T27) and the Global Hartogs…"
+summary_short: "A holomorphic function on τ³ is determined by its boundary behavior—this is the lesson of the Mutual Determination Theorem (II.T27) and the Global Hartogs…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/"
@@ -38,16 +38,16 @@ right_rail:
 ---
 
 
-A holomorphic function on $τ^3$
+A holomorphic function on τ³
 is determined by its boundary behavior—this
 is the lesson of the Mutual Determination Theorem (II.T27)
 and the Global Hartogs Theorem (I.T31, Book I).
 But *how* is the boundary data organized?
 This chapter answers: as a **bipolar boundary coefficient stream**,
-decomposed by the idempotent pair $e_+, e_-$
+decomposed by the idempotent pair e_+, e_-
 into two independent channels.
 A **code** (II.D51)
-is such a stream—a pair $(c^+, c^-)$
+is such a stream—a pair (c^+, c^-)
 of spectral coefficient sequences,
 one per channel,
 satisfying tower coherence.
@@ -64,14 +64,14 @@ This is the *Holomorphic Content Theorem*.
 The chapter closes with the most delicate conceptual point
 of Part VII:
 **why does split-complex algebra not collapse?**
-The codomain $H_τ$ has zero divisors
-($e_+ · e_- = 0$),
+The codomain H_τ has zero divisors
+(e_+ · e_- = 0),
 so arbitrary projections onto the zero-divisor ideals
 could destroy information.
 The answer is the **diagonal discipline** (I.X05, Book I):
-K5 forbids the diagonal map $δ : x ↦ (x, x)$
+K5 forbids the diagonal map δ : x ↦ (x, x)
 in the solenoidal generators,
-which means that $e_+$ and $e_-$ are the *only*
+which means that e_+ and e_- are the *only*
 available projections.
 The B-channel and C-channel carry independent information
 precisely because no diagonal conflates them.

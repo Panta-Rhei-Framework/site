@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-11-tau/chapter-43-four-truth-
 prev_chapter_title: "Chapter 43: Four Truth Values from Polarity Stabilization"
 next_chapter_url: "/publications/books/book-i/part-11-tau/chapter-45-boolean-recovery-and-the-subobject-classifier-preview/"
 next_chapter_title: "Chapter 45: Boolean Recovery and the Subobject Classifier Preview"
-summary_short: "In classical logic, a single contradiction destroys everything: from $P \\land \\lnot P$ one can derive any proposition $Q$ whatsoever. This is the principle of…"
+summary_short: "In classical logic, a single contradiction destroys everything: from P ∧ ¬ P one can derive any proposition Q whatsoever. This is the principle of…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-11-tau/"
@@ -39,31 +39,31 @@ right_rail:
 
 
 In classical logic, a single contradiction destroys everything:
-from $P \land \lnot P$ one can derive any proposition $Q$ whatsoever.
+from P ∧ ¬ P one can derive any proposition Q whatsoever.
 This is the principle of *ex falso quodlibet*
 — from falsehood, anything follows.
 Classical logic has no structural defense against inconsistency.
 the relevant chapter
 introduced the four truth values
-$T$, $F$, $B$, $N$
+T, F, B, N
 (the relevant definition, I.D21),
-where $B$ represents the
+where B represents the
 overdetermined state "both true and false."
 The critical question is:
-does $B$ trigger explosion?
+does B trigger explosion?
 This chapter proves that it does not.
 The **explosion barrier**
 (the relevant theorem, I.T13)
-states that from $val(P) = B$,
-one *cannot* derive $val(Q) = T$
-for arbitrary $Q$.
+states that from val(P) = B,
+one *cannot* derive val(Q) = T
+for arbitrary Q.
 The structural reason is algebraic:
-$B$-witnesses and $\lnotB$-witnesses
+B-witnesses and ¬B-witnesses
 live in orthogonal idempotent sectors
-($e_+ · e_- = 0$),
+(e_+ · e_- = 0),
 so contradictions cannot propagate
 across the spectral decomposition.
 The explosion barrier is a *theorem*,
 not an axiom choice —
 it is earned from the spectral structure
-of the algebraic lemniscate $𝕃$.
+of the algebraic lemniscate 𝕃.

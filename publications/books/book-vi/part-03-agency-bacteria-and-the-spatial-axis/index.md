@@ -10,7 +10,7 @@ part_number: 3
 part_display: "Part III"
 part_slug: "part-03-agency-bacteria-and-the-spatial-axis"
 chapter_count: 6
-summary_short: "The $π$-sector: **spatial motility and environmental interaction**. The agency sector is anchored on the spatial axis of the $τ^1$ base. Bacteria—the most…"
+summary_short: "The π-sector: **spatial motility and environmental interaction**. The agency sector is anchored on the spatial axis of the τ¹ base. Bacteria—the most…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:
@@ -30,8 +30,8 @@ right_rail:
 ---
 
 
-The $π$-sector: **spatial motility and environmental interaction**. The agency sector is
-anchored on the spatial axis of the $τ^1$ base. Bacteria—the most abundant organisms on
+The π-sector: **spatial motility and environmental interaction**. The agency sector is
+anchored on the spatial axis of the τ¹ base. Bacteria—the most abundant organisms on
 Earth, colonizing every environment via flagellar motility, chemotaxis, and horizontal gene
 transfer—are the biological archetype. Metabolism drives agency as Poincar\'e circulation at
 every scale; ATP provides the universal energy currency. Membranes create the first physical

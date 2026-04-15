@@ -42,8 +42,8 @@ The practical sector's first Part closes. This chapter synthesises the
 deliverables of Part VII—dignity as meta-ethical foundation, the
 categorical imperative as sheaf condition, the four ethical tests, moral
 monodromy, virtue as fixed point, the CI proof programme, the commitment
-register, the Kant-$τ$ correspondence, and the earned/unearned
-distinction—into a unified arc. The dignity–CI–$j$-closure arc
+register, the Kant-τ correspondence, and the earned/unearned
+distinction—into a unified arc. The dignity–CI–j-closure arc
 parallels the pattern–symbol–proof arc of the diagrammatic sector
 . A formal correspondence
 between the four registers and the four enrichment layers reveals the

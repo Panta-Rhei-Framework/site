@@ -42,14 +42,14 @@ In classical category theory,
 the Yoneda lemma holds for *any* locally small category —
 it is purely formal, requiring nothing about
 the objects or morphisms beyond their existence.
-In Category $τ$, the Yoneda embedding
-$y \colon τ \hookrightarrow [τ^{\op}, τ]$
+In Category τ, the Yoneda embedding
+y : τ ↪ [τ^op, τ]
 is a **theorem** (II.T36),
 not an abstract generality.
-Three features distinguish the $τ$-Yoneda
+Three features distinguish the τ-Yoneda
 from its classical cousin:
-(i) the target category $[τ^{\op}, τ]$
-lives inside $τ$ itself (self-enrichment, II.D53),
+(i) the target category [τ^op, τ]
+lives inside τ itself (self-enrichment, II.D53),
 not in an external universe of sets;
 (ii) the embedding preserves the bipolar structure
 (II.P11);
@@ -64,4 +64,4 @@ is *exactly* the Yoneda condition
 Holomorphy, probe naturality, and Yoneda representability
 are three names for the same structural phenomenon.
 This is the deep reason that holomorphy
-is primitive in Category $τ$.
+is primitive in Category τ.

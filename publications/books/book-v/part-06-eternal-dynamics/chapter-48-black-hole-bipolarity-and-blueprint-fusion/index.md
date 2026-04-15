@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-4
 prev_chapter_title: "Chapter 47: Black Hole Birth as Global Topological Event"
 next_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-49-the-no-shrink-theorem-mature-black-holes-cannot-shrink/"
 next_chapter_title: "Chapter 49: The No-Shrink Theorem: Mature Black Holes Cannot Shrink"
-summary_short: "Every black hole in Category $τ$ is bipolar. This is not a contingent feature of rotating or charged black holes; it is a structural necessity following from…"
+summary_short: "Every black hole in Category τ is bipolar. This is not a contingent feature of rotating or charged black holes; it is a structural necessity following from…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-06-eternal-dynamics/"
@@ -38,28 +38,28 @@ right_rail:
 ---
 
 
-Every black hole in Category $τ$ is bipolar.
+Every black hole in Category τ is bipolar.
 This is not a contingent feature
 of rotating or charged black holes;
 it is a structural necessity
 following from the lemniscate boundary
-$\Lemniscate = S^1 ∨ S^1$.
-The two lobes of $\Lemniscate$
-carry opposite polarities $χ_+$ and $χ_-$,
+𝕃 = S¹ ∨ S¹.
+The two lobes of 𝕃
+carry opposite polarities χ_+ and χ_-,
 and every non-trivial linking class
-on the fiber $T^2$
+on the fiber T²
 inherits this bipolar structure.
 A black hole without bipolarity
 would require a linking class
 that interacts with only one lobe —
 but the two lobes share
-a single crossing point $ω$,
+a single crossing point ω,
 and any non-trivial cycle
 must pass through both.
 
 This chapter proves the Necessary Bipolarity Theorem,
 defines the blueprint fusion algebra
-$Fuse_ω$
+Fuse_ω
 as the componentwise lobe product,
 and establishes the blueprint monoid structure.
 The blueprint monoid is the algebraic structure

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-05-hyperfactorization/chapter
 prev_chapter_title: "Chapter 21: The Uniqueness Question"
 next_chapter_url: "/publications/books/book-i/part-05-hyperfactorization/chapter-23-strict-remainder-descent/"
 next_chapter_title: "Chapter 23: Strict Remainder Descent"
-summary_short: "The greedy peel extracts the largest prime $\A$ dividing $X$, then finds the maximal tetration height $\C$ such that $\A ↑↑…"
+summary_short: "The greedy peel extracts the largest prime A dividing X, then finds the maximal tetration height C such that A ↑↑…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-05-hyperfactorization/"
@@ -38,19 +38,19 @@ right_rail:
 ---
 
 
-The greedy peel extracts the largest prime $A$
-dividing $X$, then finds the maximal tetration height
-$C$ such that
-$A ↑↑ C \mid X$.
+The greedy peel extracts the largest prime A
+dividing X, then finds the maximal tetration height
+C such that
+A ↑↑ C ∣ X.
 Could two different tetration heights
-$c_1 ≠ c_2$
+c₁ ≠ c₂
 compete for the maximum?
 This chapter proves the **No-Tie Lemma**:
 tetration heights cannot "tie".
-If $A ↑↑ c_1 \mid X$
-and $A ↑↑ c_2 \mid X$
-with $c_1 < c_2$,
+If A ↑↑ c₁ ∣ X
+and A ↑↑ c₂ ∣ X
+with c₁ < c₂,
 then the greedy peel deterministically selects
-$c_2$.
+c₂.
 The proof exploits the strict monotonicity
 and injectivity of tetration.

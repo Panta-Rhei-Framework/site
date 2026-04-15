@@ -56,33 +56,33 @@ and the mass thresholds
 that separate stable configurations
 from gravitational collapse.
 
-This chapter derives the $τ$-native analogue.
+This chapter derives the τ-native analogue.
 Instead of an ODE on a manifold,
 the star builder is a **witness construction**
 in the boundary holonomy algebra:
-given a particle count $n$
-and a sector index $k$,
+given a particle count n
+and a sector index k,
 the canonical star builder
-$Star_n(k)$
+Star_n(k)
 constructs the unique equilibrium configuration
 as a boundary character
-(\S).
+(§).
 The construction begins
 with the spherical carrier predicate
-(\S),
+(§),
 which specifies what
 "spherically symmetric" means
-in the $τ$-framework;
+in the τ-framework;
 introduces the GR tension functional
-(\S),
+(§),
 which measures the departure
 from flat-torus equilibrium;
 derives neutron star structure
 from the neutron node predicate
-(\S);
+(§);
 proves the stability
 of the neutron node under EW perturbations
-(\S);
+(§);
 and derives the Chandrasekhar limit
 as a relational threshold
-(\S).
+(§).

@@ -42,7 +42,7 @@ Language is not an external tool applied to a pre-existing cognitive
 system. It is the *self-enrichment* of the subsymbolic layer:
 the system's own patterns, when they become rich enough, generate the
 capacity to name and transport themselves. This chapter identifies
-language with the $E_2$ enrichment of subsymbolic communication,
-proves that the enrichment satisfies the $E_2$ conditions (structural
+language with the E₂ enrichment of subsymbolic communication,
+proves that the enrichment satisfies the E₂ conditions (structural
 self-encoding and cross-context transport), and traces the
 consequences for naming, transport, and the enrichment hierarchy.

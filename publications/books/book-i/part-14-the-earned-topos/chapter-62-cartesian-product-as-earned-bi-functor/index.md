@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-6
 prev_chapter_title: "Chapter 61: The Subobject Classifier and the Earned Topos"
 next_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-63-wedge-product-and-the-co-cartesian-structure/"
 next_chapter_title: "Chapter 63: Wedge Product and the Co-Cartesian Structure"
-summary_short: "the relevant chapter earned the topos $E_τ = PSh(Cat_τ)$ (the relevant definition, I.D59), and the relevant chapter constructed finite limits…"
+summary_short: "the relevant chapter earned the topos E_τ = PSh(Cat_τ) (the relevant definition, I.D59), and the relevant chapter constructed finite limits…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-14-the-earned-topos/"
@@ -39,33 +39,33 @@ right_rail:
 
 
 the relevant chapter earned the topos
-$E_τ = PSh(Cat_τ)$
+E_τ = PSh(Cat_τ)
 (the relevant definition, I.D59),
 and the relevant chapter constructed
-finite limits in $Cat_τ$
+finite limits in Cat_τ
 (the relevant definition, I.D55),
 where binary products are multiplication
-$X ×_τ Y := X · Y$
+X ×_τ Y := X · Y
 with projections via the NF address encoding
 (the relevant definition, I.D16).
 This chapter lifts products to the presheaf topos.
 The **categorical product**
 (the relevant definition, I.D60)
-of presheaves $P$ and $Q$
+of presheaves P and Q
 is pointwise:
-$(P × Q)(X) = P(X) × Q(X)$,
+(P × Q)(X) = P(X) × Q(X),
 with pairing realized by
 the constructive encoding of Part V
 (Definition [cor:constructive-encoding], I.C01).
 The **product universal property**
 (the relevant theorem, I.T26)
-gives a unique $⟨ f, g ⟩ : R → P × Q$
-for any morphisms $f : R → P$, $g : R → Q$.
+gives a unique ⟨ f, g ⟩ : R → P × Q
+for any morphisms f : R → P, g : R → Q.
 The **cartesian monoidal structure**
 (the relevant definition, I.D61)
-makes $(E_τ, ×, \mathbf1)$
+makes (E_τ, ×, 1)
 a symmetric monoidal category,
 with every ingredient earned from the seven axioms.
-The wedge product $∧$
+The wedge product ∧
 
 will supply the second monoidal structure.

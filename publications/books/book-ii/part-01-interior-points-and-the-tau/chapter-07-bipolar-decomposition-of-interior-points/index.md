@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-t
 prev_chapter_title: "Chapter 6: The τ³ Fibration Emerges"
 next_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-08-abcd-structure-replaces-quaternions/"
 next_chapter_title: "Chapter 8: ABCD Structure Replaces Quaternions"
-summary_short: "Book I earned the bipolar idempotents $e_± = (1 ± j)/2$ as boundary structure: the algebraic lemniscate $𝕃$ decomposes into two sectors via the split-complex…"
+summary_short: "Book I earned the bipolar idempotents e_± = (1 ± j)/2 as boundary structure: the algebraic lemniscate 𝕃 decomposes into two sectors via the split-complex…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/"
@@ -39,23 +39,23 @@ right_rail:
 
 
 Book I earned the bipolar idempotents
-$e_± = (1 ± j)/2$ as boundary structure:
-the algebraic lemniscate $𝕃$
+e_± = (1 ± j)/2 as boundary structure:
+the algebraic lemniscate 𝕃
 decomposes into two sectors
-via the split-complex algebra $H_τ$.
+via the split-complex algebra H_τ.
 This chapter extends the bipolar decomposition
 from the boundary to the interior.
-Each $τ$-admissible point $(A, B, C, D)$
+Each τ-admissible point (A, B, C, D)
 inherits a canonical sector assignment
-from its fiber coordinates $(B, C)$:
-the $γ/η$ dominance determines
+from its fiber coordinates (B, C):
+the γ/η dominance determines
 which sector the point belongs to.
 Every interior point thus carries
 two independent information channels—a
-B-channel governed by $e_+$
-and a C-channel governed by $e_-$.
-At the $ω$-limit,
+B-channel governed by e_+
+and a C-channel governed by e_-.
+At the ω-limit,
 the sector assignment degenerates
-to the two lobes of $𝕃$,
-and the crossing point where $B ≈ C$
+to the two lobes of 𝕃,
+and the crossing point where B ≈ C
 maps to the node.

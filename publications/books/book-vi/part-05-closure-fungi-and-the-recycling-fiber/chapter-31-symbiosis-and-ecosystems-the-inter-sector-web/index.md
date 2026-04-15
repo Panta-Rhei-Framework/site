@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-rec
 prev_chapter_title: "Chapter 30: Death, Decomposition, and Aging"
 next_chapter_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/chapter-32-healing-regeneration-and-the-repair-budget/"
 next_chapter_title: "Chapter 32: Healing, Regeneration, and the Repair Budget"
-summary_short: "Ecosystems are inter-sector webs coupling all five Life sectors, with energy and material flowing through Producer $→$ Consumer $→$ Decomposer (Source $→$…"
+summary_short: "Ecosystems are inter-sector webs coupling all five Life sectors, with energy and material flowing through Producer → Consumer → Decomposer (Source →…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Ecosystems are inter-sector webs coupling all five Life sectors, with energy and material flowing through Producer $→$ Consumer $→$ Decomposer (Source $→$ Consumer $→$ Closure). Nutrient cycles are reinterpreted as multi-scale Poincar\'e circulations, symbiosis as coupled self-relations between distinct carriers, and ecological communities as game-theoretic Nash equilibria governing predator–prey dynamics, competitive exclusion, and niche partitioning.
+Ecosystems are inter-sector webs coupling all five Life sectors, with energy and material flowing through Producer → Consumer → Decomposer (Source → Consumer → Closure). Nutrient cycles are reinterpreted as multi-scale Poincar\'e circulations, symbiosis as coupled self-relations between distinct carriers, and ecological communities as game-theoretic Nash equilibria governing predator–prey dynamics, competitive exclusion, and niche partitioning.

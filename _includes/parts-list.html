@@ -1,0 +1,34 @@
+{%- comment -%}
+  parts-list.html — Glassmorphic grid of parts for a book page.
+
+  Loops over site.data.publications.parts filtered by page.book_slug,
+  sorted by part_number. Each part renders as a glass-subtle card
+  with display name, title, chapter count, and a short summary.
+
+  Only activates on publication-book layouts where page.book_slug is set.
+{%- endcomment -%}
+
+{%- if page.book_slug -%}
+{%- assign book_parts = site.data.publications.parts | where: "book_slug", page.book_slug | sort: "part_number" -%}
+{%- if book_parts.size > 0 -%}
+
+<section class="content-card" aria-labelledby="parts-heading">
+  <h2 id="parts-heading" class="format-section-title">Parts</h2>
+  <div class="parts-grid lane-grid">
+    {%- for part in book_parts -%}
+    <a href="{{ part.url | relative_url }}" class="part-card lane-card">
+      <span class="eyebrow">{{ part.display_name }}</span>
+      <h3>{{ part.title }}</h3>
+      {%- if part.summary_short and part.summary_short != '' -%}
+      <p>{{ part.summary_short | strip_html | replace: '$', '' | truncate: 180 }}</p>
+      {%- endif -%}
+      <div class="chip-row">
+        <span class="chip">{{ part.chapter_count }} chapter{% if part.chapter_count != 1 %}s{% endif %}</span>
+      </div>
+    </a>
+    {%- endfor -%}
+  </div>
+</section>
+
+{%- endif -%}
+{%- endif -%}

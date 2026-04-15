@@ -10,7 +10,7 @@ part_number: 9
 part_display: "Part IX"
 part_slug: "part-09-where-life-lives"
 chapter_count: 9
-summary_short: "The world exists ($E_1$). Can it be *modelled*? P versus NP has been conspicuously absent from the preceding Parts. The reason is not strategic but…"
+summary_short: "The world exists (E₁). Can it be *modelled*? P versus NP has been conspicuously absent from the preceding Parts. The reason is not strategic but…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 right_rail:
@@ -30,31 +30,31 @@ right_rail:
 ---
 
 
-The world exists ($E_1$). Can it be *modelled*?
+The world exists (E₁). Can it be *modelled*?
 
 P versus NP has been conspicuously absent from the preceding Parts.
 The reason is not strategic but *ontological*: P vs NP is
-**native to $E_2$**. The question "Can search be efficient?"
+**native to E₂**. The question "Can search be efficient?"
 presupposes a self-referential agent performing the search —
-an object that does not exist at $E_0$ (pure structure, no processes)
-or $E_1$ (physics, dynamics but no codes).
+an object that does not exist at E₀ (pure structure, no processes)
+or E₁ (physics, dynamics but no codes).
 The question is not merely hard to answer at lower levels;
 it is *meaningless* there.
-$E_2$ is the computation layer, where objects are
+E₂ is the computation layer, where objects are
 self-referential codes that contain their own decoders.
 
-The BSD conjecture (Part VI) built the $E_1 → E_2$ bridge: rational points
+The BSD conjecture (Part VI) built the E₁ → E₂ bridge: rational points
 on elliptic curves are proto-codes, discrete carriers with operational structure.
 With the bridge in place, this Part constructs the native computation model —
-the $τ$-Tower Machine (TTM) — and proves that within its self-referential
+the τ-Tower Machine (TTM) — and proves that within its self-referential
 address space, **search equals construction**. The mechanism is the
-**Product-Meet Collapse**: $α_p ∧ α_q = α_{p × q}$.
+**Product-Meet Collapse**: α_p ∧ α_q = α_{p × q}.
 This yields the **fourth and final bi-square** — the computational
 bi-square — completing the scaling chain begun in Book I.
 
 The force earned here is the **Predictive Force**: life can model
 and predict its physical environment because witness search is tractable.
-$E_2$ is where computation lives, and life is computation
+E₂ is where computation lives, and life is computation
 physically instantiated.
 
 ## Chapters

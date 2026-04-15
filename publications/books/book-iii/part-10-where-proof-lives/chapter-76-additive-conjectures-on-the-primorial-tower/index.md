@@ -42,7 +42,7 @@ and the ABC conjecture. the relevant chapter built
 the spectral toolkit; Chapters –
 established the bridge discipline. This chapter deploys both to push
 computational verification, prove structural theorems at primorial levels,
-and—most importantly—precisely characterize *what the $τ$ framework
+and—most importantly—precisely characterize *what the τ framework
 can and cannot say* about each conjecture.
 
 The result is a three-gap taxonomy:

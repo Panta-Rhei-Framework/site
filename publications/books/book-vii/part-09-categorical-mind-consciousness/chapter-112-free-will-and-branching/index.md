@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-09-categorical-mind-conscio
 prev_chapter_title: "Chapter 111: The Self-Recognition Loop"
 next_chapter_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/chapter-113-personal-identity-over-time/"
 next_chapter_title: "Chapter 113: Personal Identity Over Time"
-summary_short: "Free will is neither illusion nor uncaused cause; it is branching in the category of feasible actions. The action category $Act_C$ attaches to each decision…"
+summary_short: "Free will is neither illusion nor uncaused cause; it is branching in the category of feasible actions. The action category Act_C attaches to each decision…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/"
@@ -40,7 +40,7 @@ right_rail:
 
 Free will is neither illusion nor uncaused cause; it is branching in
 the category of feasible actions. The action category
-$Act_C$ attaches to each decision context a structured space
+Act_C attaches to each decision context a structured space
 of alternatives, and the mind topos selects among them through its
 evaluative and self-modelling apparatus. Compatibilism is not a
 compromise but a structural consequence: determination by the agent's

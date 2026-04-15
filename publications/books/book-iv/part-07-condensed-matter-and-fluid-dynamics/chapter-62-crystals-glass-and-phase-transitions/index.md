@@ -42,12 +42,12 @@ The frozen regimes—crystal and glass—are
 the two faces of immobility.
 In a crystal, immobility coexists with maximal topological order:
 atoms lock into a periodic lattice,
-and the defect component $\bard_4 \gg 0$.
+and the defect component d₄ ≫ 0.
 In a glass, immobility coexists with topological disorder:
 atoms freeze without long-range order,
-and $\bard_4 ≈ 0$.
+and d₄ ≈ 0.
 This chapter develops both regimes from the defect tuple,
-connects crystal periodicity to $T^2$ mode structure,
+connects crystal periodicity to T² mode structure,
 derives band theory as extended molecular orbital theory,
 and classifies phase transitions by their behavior
-in the defect phase space $D$.
+in the defect phase space D.

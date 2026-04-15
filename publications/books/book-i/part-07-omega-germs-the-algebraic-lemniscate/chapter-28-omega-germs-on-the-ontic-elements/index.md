@@ -46,10 +46,10 @@ This chapter passes from the finite regime
 to the infinite limit.
 We construct **omega-germs**:
 compatible towers on the primorial ladder
-that serve as the $τ$-native analogue
+that serve as the τ-native analogue
 of Cauchy sequences.
 Omega-germs live on the bare-metal ontic elements
-of $τ$-Idx.
+of τ-Idx.
 They require no coordinates, no interior points,
 no imported topology.
 They are the pre-topological boundary data

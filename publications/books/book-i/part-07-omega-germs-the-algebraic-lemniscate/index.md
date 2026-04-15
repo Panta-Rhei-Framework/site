@@ -40,36 +40,36 @@ each prime's polarity is decidable in finite time.
 This Part passes from the finite regime to the infinite limit.
 The central concept is the **omega-germ**:
 a compatible tower on the primorial ladder,
-the $τ$-native analogue of a Cauchy sequence.
+the τ-native analogue of a Cauchy sequence.
 Omega-germs live on the bare-metal ontic elements
-of $τ$-Idx — they require no coordinates,
+of τ-Idx — they require no coordinates,
 no interior points, no imported topology.
 They are pre-topological boundary data.
 
 The bipolar partition of the primes induces
 a partition of the omega-germs
 into **polarized** families:
-B-polarized germs (where the $η$-channel freezes)
-and C-polarized germs (where the $γ$-channel freezes).
+B-polarized germs (where the η-channel freezes)
+and C-polarized germs (where the γ-channel freezes).
 The question then becomes: what is the natural
 scalar algebra for functions on this boundary?
 
 The answer is the **bipolar spectral algebra**
-$H_τ = A_τ^{(B)} × A_τ^{(C)}$:
-a split-complex scalar ring with $j^2 = +1$
-and canonical idempotents $e_± = (1 ± j)/2$.
+H_τ = A_τ^(B) × A_τ^(C):
+a split-complex scalar ring with j² = +1
+and canonical idempotents e_± = (1 ± j)/2.
 The bipolar prime partition *forces*
 split-complex over elliptic scalars —
 the algebra carries the B/C partition as an intrinsic feature.
 From this algebra,
-the **algebraic lemniscate** $𝕃$
+the **algebraic lemniscate** 𝕃
 *emerges as a theorem*:
-two idempotent sectors $e_+ H_τ$ and $e_- H_τ$
+two idempotent sectors e_+ H_τ and e_- H_τ
 form two algebraic "lobes,"
 meeting at the crossing-point germ.
 The lemniscate is not postulated but earned —
 it is the algebraic readout of the polarized boundary data.
-The geometric form $S^1 ∨ S^1$ emerges in Book II
+The geometric form S¹ ∨ S¹ emerges in Book II
 when topology is earned.
 
 The chapter sequence:

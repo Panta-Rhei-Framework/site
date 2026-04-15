@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-04-collective-dynamics/chapte
 prev_chapter_title: "Chapter 26: Charge as Boundary Obstruction: No Isolated τ"
 next_chapter_url: "/publications/books/book-v/part-04-collective-dynamics/chapter-28-tau/"
 next_chapter_title: "Chapter 28: τ"
-summary_short: "A plasma is a state of matter in which charge carriers—ions and electrons—are free to move independently. In Category $τ$, plasma is a *boundary-obstruction…"
+summary_short: "A plasma is a state of matter in which charge carriers—ions and electrons—are free to move independently. In Category τ, plasma is a *boundary-obstruction…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-04-collective-dynamics/"
@@ -41,20 +41,20 @@ right_rail:
 A plasma is a state of matter
 in which charge carriers—ions and electrons—are
 free to move independently.
-In Category $τ$,
+In Category τ,
 plasma is a *boundary-obstruction flow*:
 the charged defects
-(topological obstructions in the $\SectorB$-sector holonomy,
+(topological obstructions in the Sector B-sector holonomy,
 the relevant chapter)
 propagate as a collective
 through the macro defect-transport equation.
 
 This chapter derives the fundamental plasma phenomena
-from the $τ$-framework:
+from the τ-framework:
 forced quasi-neutrality
 (from the No-Isolated-Charges Theorem),
 plasma oscillations
-(from the $\SectorB$-sector restoring force),
+(from the Sector B-sector restoring force),
 and Debye shielding
 (from the boundary-character exponential decay).
 The second half applies these tools
@@ -67,4 +67,4 @@ is prerequisite for MHD
 and Alfv\'en modes
 .
 
-Scope: $τ$-effective throughout.
+Scope: τ-effective throughout.

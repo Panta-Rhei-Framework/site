@@ -42,15 +42,15 @@ Chapter 17 constructed the TOV star builder:
 a family of equilibrium configurations
 parameterized by central density,
 each a self-consistent solution
-of the $τ$-Einstein equation
+of the τ-Einstein equation
 within a ball topology.
 But every ball-topology solution
 has a finite domain of validity.
 As mass accumulates—through
 accretion or core collapse—the
-gravitational character $G_ω(x)$
+gravitational character G_ω(x)
 grows without bound
-while the matter character $T^{mat}_ω(x)$
+while the matter character T^mat_ω(x)
 saturates.
 The mismatch produces a GR tension
 that the ball topology cannot absorb.
@@ -65,6 +65,6 @@ the phase boundary between neutron star
 and black hole is not a dynamical process
 happening *in* time,
 but a structural property
-of the $τ^3$ fibration—a
+of the τ³ fibration—a
 boundary in the space of admissible configurations
 that no refinement-coherent trajectory can avoid.

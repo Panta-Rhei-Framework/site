@@ -48,10 +48,10 @@ This chapter asks the final question of Books I–II:
 The answer depends on purpose.
 For pure mathematics as currently practiced,
 orthodox foundations are expressively richer:
-uncountable sets, $ε$-$δ$ analysis,
+uncountable sets, ε-δ analysis,
 smooth structures, conformal geometry.
 For the purpose of describing physical reality,
-$τ$ foundations are structurally superior:
+τ foundations are structurally superior:
 narrower but uniquely determined,
 with no free parameters
 and no room for ambiguity.

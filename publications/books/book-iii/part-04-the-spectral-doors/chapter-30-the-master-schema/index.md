@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapt
 prev_chapter_title: "Chapter 29: Simply Connected in Category τ"
 next_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapter-31-tau/"
 next_chapter_title: "Chapter 31: τ"
-summary_short: "Part IV has addressed two Millennium Problems at enrichment level $E_0$: the Riemann Hypothesis (spectral purity) and the Poincaré Conjecture (topological…"
+summary_short: "Part IV has addressed two Millennium Problems at enrichment level E₀: the Riemann Hypothesis (spectral purity) and the Poincaré Conjecture (topological…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Part IV has addressed two Millennium Problems at enrichment level $E_0$: the Riemann Hypothesis (spectral purity) and the Poincar\'e Conjecture (topological gluing). We now unify them under a single framework, the *Master Schema*, which reveals that both are instances of Mutual Determination. The spectral algebra of Part III provides the common language; the primorial ladder provides the common tower; the Chinese Remainder Theorem provides the common local-global bridge. This chapter establishes export contracts to Parts V, VI, and IX, where the remaining problems await—including P vs NP, which requires enrichment level $E_2$ and is deferred to Part IX ("Where Life Lives").
+Part IV has addressed two Millennium Problems at enrichment level E₀: the Riemann Hypothesis (spectral purity) and the Poincar\'e Conjecture (topological gluing). We now unify them under a single framework, the *Master Schema*, which reveals that both are instances of Mutual Determination. The spectral algebra of Part III provides the common language; the primorial ladder provides the common tower; the Chinese Remainder Theorem provides the common local-global bridge. This chapter establishes export contracts to Parts V, VI, and IX, where the remaining problems await—including P vs NP, which requires enrichment level E₂ and is deferred to Part IX ("Where Life Lives").

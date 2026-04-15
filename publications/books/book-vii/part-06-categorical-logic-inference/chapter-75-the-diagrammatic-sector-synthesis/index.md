@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-infere
 prev_chapter_title: "Chapter 74: Paraconsistent Logic at Boundaries"
 next_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-76-dignity-as-meta-ethical-foundation/"
 next_chapter_title: "Chapter 76: Dignity as Meta-Ethical Foundation"
-summary_short: "The diagrammatic sector $S_D$ closes. Across three sub-registers — aesthetic (Part IV), linguistic (Part V), and logical (Part VI) — $S_D$ has developed the…"
+summary_short: "The diagrammatic sector S_D closes. Across three sub-registers — aesthetic (Part IV), linguistic (Part V), and logical (Part VI) — S_D has developed the…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
@@ -38,9 +38,9 @@ right_rail:
 ---
 
 
-The diagrammatic sector $S_D$ closes. Across three sub-registers
+The diagrammatic sector S_D closes. Across three sub-registers
 — aesthetic (Part IV), linguistic (Part V), and logical
-(Part VI) — $S_D$ has developed the arc from pre-symbolic pattern
+(Part VI) — S_D has developed the arc from pre-symbolic pattern
 recognition through symbolic representation to formal proof. This
 chapter synthesizes the deliverables of the sector, identifies the
 internal architecture that unifies them, and marks the boundary where

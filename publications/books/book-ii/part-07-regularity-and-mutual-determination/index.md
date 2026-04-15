@@ -10,7 +10,7 @@ part_number: 7
 part_display: "Part VII"
 part_slug: "part-07-regularity-and-mutual-determination"
 chapter_count: 5
-summary_short: "Part VII executes the *regularity program*, proving that **holomorphic $=$ idempotent-supported**. Five chapters build a three-lemma chain…"
+summary_short: "Part VII executes the *regularity program*, proving that **holomorphic = idempotent-supported**. Five chapters build a three-lemma chain…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -31,43 +31,43 @@ right_rail:
 
 
 Part VII executes the *regularity program*, proving that
-**holomorphic $=$ idempotent-supported**.
+**holomorphic = idempotent-supported**.
 Five chapters build a three-lemma chain leading to this equivalence.
 
 the relevant chapter establishes the
 **Idempotent Decomposition Lemma (II.L07)**: the key structural result.
-Every holomorphic map decomposes: $f = e_+ · f_+ + e_- · f_-$.
+Every holomorphic map decomposes: f = e_+ · f_+ + e_- · f_-.
 Decomposition is canonical, functorial, and complete.
 
 the relevant chapter strings three lemmas:
-(II.L08) *Branch Factorization*: $ω$-germs factor through
+(II.L08) *Branch Factorization*: ω-germs factor through
 bipolar idempotents;
 (II.L09) *Prime-Split Support*: Factorization supported on B/C
 prime partition;
-(II.L10) *Polarity Symmetry*: Sectors interchanged by $j$-involution.
-Together: **Theorem II.T29**: Holomorphic $⇔$
+(II.L10) *Polarity Symmetry*: Sectors interchanged by j-involution.
+Together: **Theorem II.T29**: Holomorphic ⇔
 idempotent-supported.
 
 the relevant chapter shifts from negative regularity
 (absence of singularity) to positive regularity
-(existence of stabilized $ω$-germ).
+(existence of stabilized ω-germ).
 A map is regular if and only if it has a canonical extension to the interior.
 No "removable singularity" pathology: either regular or genuinely singular.
 
-the relevant chapter shows the embedding $Hol_τ \hookrightarrow d(τ^3)$:
+the relevant chapter shows the embedding Hol_τ ↪ d(τ³):
 holomorphic functions are both transformers *and* germs.
 Self-referential structure.
 This is a preview of Part VIII's full Yoneda theorem.
 
 the relevant chapter constructs the bijection: boundary streams
-(codes) $↔$ interior extensions (decodes).
+(codes) ↔ interior extensions (decodes).
 The diagonal-free discipline (I.X05) blocks zero-divisor pathology;
-$e_±$ exist and decompose, but arbitrary projections are not earned.
+e_± exist and decompose, but arbitrary projections are not earned.
 This is why split-complex algebra doesn't collapse.
 
 Part VII closes with the regularity theory established.
 Holomorphic functions are rigorously characterized as
-idempotent-supported $ω$-germ transformers.
+idempotent-supported ω-germ transformers.
 
 ## Chapters
 

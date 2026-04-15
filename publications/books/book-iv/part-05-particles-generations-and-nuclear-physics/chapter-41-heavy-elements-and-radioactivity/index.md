@@ -41,8 +41,8 @@ right_rail:
 Beyond iron, fusion stops giving energy. Heavy elements form by
 neutron capture—slow (s-process) in AGB stars, rapid (r-process) in
 supernovae and neutron star mergers. Unstable nuclei then transform
-via three decay channels—$α$, $β$, $γ$—each
-restoring $T^2$ saturation balance. This chapter traces the formation
+via three decay channels—α, β, γ—each
+restoring T² saturation balance. This chapter traces the formation
 of gold, lead, and uranium, classifies radioactive decay from the
-$τ^3$ perspective, and shows how abundance peaks at magic neutron
-numbers provide direct evidence for $T^2$ shell structure.
+τ³ perspective, and shows how abundance peaks at magic neutron
+numbers provide direct evidence for T² shell structure.

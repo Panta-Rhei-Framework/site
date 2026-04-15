@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 16: Hensel Lifting and Local Fields"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-18-the-internal-bipolar-classifier/"
 next_chapter_title: "Chapter 18: The Internal Bipolar Classifier"
-summary_short: "The CRT Decomposition Theorem  splits the primorial residue ring $ℤ / Prim(k) ℤ$ into a product of prime-power rings,…"
+summary_short: "The CRT Decomposition Theorem  splits the primorial residue ring ℤ / Prim(k) ℤ into a product of prime-power rings,…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -41,26 +41,26 @@ right_rail:
 The CRT Decomposition Theorem
 
 splits the primorial residue ring
-$ℤ / Prim(k) ℤ$
+ℤ / Prim(k) ℤ
 into a product of prime-power rings,
 and Hensel lifting
 
 extends these finite pieces
-to the $τ$-native local fields $ℤ_p^τ$.
+to the τ-native local fields ℤ_p^τ.
 A single structural question remains:
 *how do the local fields reassemble
 into a global object?*
-The answer is the **$τ$-adele ring** $\mathbbA_τ$,
-the restricted product of the $ℤ_p^τ$
+The answer is the **τ-adele ring** A_τ,
+the restricted product of the ℤ_p^τ
 with respect to their unit groups.
-This chapter constructs $\mathbbA_τ$
-within the $τ$ framework—no
+This chapter constructs A_τ
+within the τ framework—no
 algebraic number theory is imported—and
 proves the **Adelic Embedding Theorem**:
-the canonical map $τ → \mathbbA_τ$
+the canonical map τ → A_τ
 is injective with dense image.
-We then show that $τ$-holomorphic functions
-on $\mathbbA_τ$ decompose into local Euler factors,
+We then show that τ-holomorphic functions
+on A_τ decompose into local Euler factors,
 and we give the bi-square (I.T41)
 its adelic reading:
 tower coherence becomes restricted-product coherence,

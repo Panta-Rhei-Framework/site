@@ -46,4 +46,4 @@ a representation to its intentional object, anchored to the external
 world by a structure-preserving translation. The framework separates
 content from reference, clarifies misrepresentation and fictional
 discourse, and reconnects Brentano's classical thesis to the
-categorical architecture of $τ$.
+categorical architecture of τ.

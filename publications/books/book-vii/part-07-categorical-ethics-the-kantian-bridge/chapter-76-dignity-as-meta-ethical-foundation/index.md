@@ -45,10 +45,10 @@ commute with address permutations, so that its validity depends only
 on identity-invariants — rational agency, autonomous will, reflexive
 self-awareness — and never on contingent labels such as names, wealth,
 or social status. The Dignity Functor extracts these invariants; the
-admissible subworld $A_{dig}$ is a reflective subcategory of
+admissible subworld A_dig is a reflective subcategory of
 the full category of agent-diagrams, and the reflection
-$L_{dig}$ is a Lawvere–Tierney modal operator. The Dignity
+L_dig is a Lawvere–Tierney modal operator. The Dignity
 Universality Theorem (VII.T30) shows that every address-bearing entity
-— every carrier with a well-defined NF address in $τ$ — has
+— every carrier with a well-defined NF address in τ — has
 intrinsic dignity: the label-independence requirement is not optional
 but structurally forced.

@@ -10,7 +10,7 @@ part_number: 10
 part_display: "Part X"
 part_slug: "part-10-closure-synthesis-and-bridge-to-book-iii"
 chapter_count: 7
-summary_short: "Part X is the closure: synthesis and the bridge to Book III. Seven chapters audit the complete dependency chain, earn $τ$-manifold structure from the…"
+summary_short: "Part X is the closure: synthesis and the bridge to Book III. Seven chapters audit the complete dependency chain, earn τ-manifold structure from the…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -31,7 +31,7 @@ right_rail:
 
 
 Part X is the closure: synthesis and the bridge to Book III.
-Seven chapters audit the complete dependency chain, earn $τ$-manifold
+Seven chapters audit the complete dependency chain, earn τ-manifold
 structure from the holomorphic atlas, preview BSD, lay out the
 differential-geometric agenda, launch the enrichment frontier,
 and crystallize the entire book into a single diagram.
@@ -39,48 +39,48 @@ and crystallize the entire book into a single diagram.
 the relevant chapter traces the full dependency chain
 through the split-complex lens:
 Prime Polarity (I.T05)
-$→$ bipolar idempotents (I.D21)
-$→$ split-complex $H_τ$ (I.D20)
-$→$ $ω$-germ transformers (I.D47–I.D49)
-$→$ Global Hartogs (I.T31)
-$→$ interior points
-$→$ continuity
-$→$ topology
-$→$ geometry
-$→$ transcendentals ($π, e, j, ι_τ$)
-$→$ Local Hartogs + Mutual Determination
-$→$ Idempotent Decomposition
-$→$ Yoneda
-$→$ Central Theorem.
+→ bipolar idempotents (I.D21)
+→ split-complex H_τ (I.D20)
+→ ω-germ transformers (I.D47–I.D49)
+→ Global Hartogs (I.T31)
+→ interior points
+→ continuity
+→ topology
+→ geometry
+→ transcendentals (π, e, j, ι_τ)
+→ Local Hartogs + Mutual Determination
+→ Idempotent Decomposition
+→ Yoneda
+→ Central Theorem.
 Every step is earned; no external imports.
 
 the relevant chapter introduces proto-rationality in the split-complex regime.
 Classical BSD is deferred to Book VI.
-This chapter bridges: $τ$ begins to engage transcendental number
+This chapter bridges: τ begins to engage transcendental number
 theory via *L*-functions and modular forms,
-but the full BSD proof requires the enrichment ladder $E_2$.
+but the full BSD proof requires the enrichment ladder E₂.
 
 the relevant chapter previews Book III's mission.
-The eight spectral forces will operate in $H_τ$ (not $ℂ$).
-$ι_τ$ calibration carries to all forces.
+The eight spectral forces will operate in H_τ (not ℂ).
+ι_τ calibration carries to all forces.
 Riemann Hypothesis, Navier-Stokes, Yang-Mills: all in split-complex regime.
-The enrichment ladder $E_0 → E_1 → E_2 → E_3$ is explicit.
-Book III tackles the Millennium Problems in layer $E_1 → E_2$.
+The enrichment ladder E₀ → E₁ → E₂ → E₃ is explicit.
+Book III tackles the Millennium Problems in layer E₁ → E₂.
 
-the relevant chapter defines the $τ$-manifold: a smooth manifold
-$(M, A_τ)$ whose transition functions are $τ$-analytic.
-The model spaces $τ^1$ (base), $T^2$ (fiber), and
-$τ^3 = τ^1 ×_f T^2$ (total) are earned from the holomorphic atlas
+the relevant chapter defines the τ-manifold: a smooth manifold
+(M, A_τ) whose transition functions are τ-analytic.
+The model spaces τ¹ (base), T² (fiber), and
+τ³ = τ¹ ×_f T² (total) are earned from the holomorphic atlas
 of Parts I–IX.
-The $τ$-exterior derivative $d_τ \colon Ω^k_τ → Ω^{k+1}_τ$
-is nilpotent ($d_τ^2 = 0$), completing the smooth layer.
+The τ-exterior derivative d_τ : Ω^k_τ → Ω^{k+1}_τ
+is nilpotent (d_τ² = 0), completing the smooth layer.
 
 the relevant chapter previews the differential-geometric programme
-for Book III: $τ$-connections, $τ$-sheaf cohomology, $τ$-Riemannian
-metrics, and $τ$-Hodge decomposition.
-The enrichment ladder $E_0 → E_1 → E_2 → E_3$ is made explicit:
-Book I lives at $E_0$, Book II at $E_1$;
-Books III–V earn $E_2$ (physics), and Book VI earns $E_3$ (life).
+for Book III: τ-connections, τ-sheaf cohomology, τ-Riemannian
+metrics, and τ-Hodge decomposition.
+The enrichment ladder E₀ → E₁ → E₂ → E₃ is made explicit:
+Book I lives at E₀, Book II at E₁;
+Books III–V earn E₂ (physics), and Book VI earns E₃ (life).
 
 the relevant chapter provides a complete inventory:
 all theorems (II.T01–II.T38),
@@ -88,8 +88,8 @@ all definitions (II.D01–II.D61),
 all lemmas, propositions, corollaries, remarks.
 It lists open questions for Book III:
 full BSD proof, Millennium Problems in split-complex regime,
-$E_1 → E_2$ physics enrichment, Navier-Stokes regularity as positive structure.
-All Lean modules verified with zero {\tt sorry}.
+E₁ → E₂ physics enrichment, Navier-Stokes regularity as positive structure.
+All Lean modules verified with zero { sorry}.
 
 the relevant chapter constructs the
 **geometric bi-square**:

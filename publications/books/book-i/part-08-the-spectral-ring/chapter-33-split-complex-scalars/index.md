@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-
 prev_chapter_title: "Chapter 32: The Profinite Boundary Ring Z"
 next_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/"
 next_chapter_title: "Chapter 34: The Master Constant ι_τ = 2/(π + e)"
-summary_short: "the relevant chapter proved that bipolar polarization forces $j^2 = +1$ (the relevant theorem, I.T10). This chapter formalizes the…"
+summary_short: "the relevant chapter proved that bipolar polarization forces j² = +1 (the relevant theorem, I.T10). This chapter formalizes the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-08-the-spectral-ring/"
@@ -39,20 +39,20 @@ right_rail:
 
 
 the relevant chapter proved
-that bipolar polarization forces $j^2 = +1$
+that bipolar polarization forces j² = +1
 (the relevant theorem, I.T10).
 This chapter formalizes the extension
-$\hatℤ_τ[j]$,
+ℤ_τ[j],
 the *split-complex scalar ring*,
-where every element has the form $a + bj$
-with $a, b ∈ \hatℤ_τ$.
-The fundamental idempotents $e_+ = (1+j)/2$
-and $e_- = (1-j)/2$
+where every element has the form a + bj
+with a, b ∈ ℤ_τ.
+The fundamental idempotents e_+ = (1+j)/2
+and e_- = (1-j)/2
 split the ring into two sectors,
-corresponding to the $B$ and $C$ components
+corresponding to the B and C components
 of the lemniscate boundary.
-This ring has zero divisors ($e_+ · e_- = 0$),
+This ring has zero divisors (e_+ · e_- = 0),
 but the diagonal-free discipline ensures
 that zero divisors do not cause collapse.
-$\hatℤ_τ[j]$ is the natural scalar ring
-for all subsequent analysis on $τ$.
+ℤ_τ[j] is the natural scalar ring
+for all subsequent analysis on τ.

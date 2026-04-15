@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-49-th
 prev_chapter_title: "Chapter 49: The Crossing-Limit Theorem and the Omega Point"
 next_chapter_url: "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/chapter-51-consciousness-structural-definition-of-the-self-model/"
 next_chapter_title: "Chapter 51: Consciousness: Structural Definition of the Self-Model"
-summary_short: "The complete self-enrichment ladder is presented: $E_0$ (mathematics: objects + laws), $E_1$ (physics: sectors + couplings), $E_2$ (life: codes + organisms),…"
+summary_short: "The complete self-enrichment ladder is presented: E₀ (mathematics: objects + laws), E₁ (physics: sectors + couplings), E₂ (life: codes + organisms),…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-07-cosmic-life/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The complete self-enrichment ladder is presented: $E_0$ (mathematics: objects + laws), $E_1$ (physics: sectors + couplings), $E_2$ (life: codes + organisms), $E_3$ (metaphysics: observers + meaning). Three identity regimes—phenotype-mortal/genotype-stable (biology), phenotype-stable/genotype-stable (BH-life), and phenotype-mortal/genotype-mortal (non-Life)—classify all carriers exhaustively. The Enrichment Saturation Theorem establishes that $E_4$ collapses to $E_3$: the reflection automorphism $ρ$ generates exactly four orbits, and no genuinely new ontic structure arises beyond the third self-enrichment (full proof: VII.T06). Finally, $τ$ is positioned as a third option between vitalism and pure emergence: Life is the categorical structure recognizing itself at $E_2$.
+The complete self-enrichment ladder is presented: E₀ (mathematics: objects + laws), E₁ (physics: sectors + couplings), E₂ (life: codes + organisms), E₃ (metaphysics: observers + meaning). Three identity regimes—phenotype-mortal/genotype-stable (biology), phenotype-stable/genotype-stable (BH-life), and phenotype-mortal/genotype-mortal (non-Life)—classify all carriers exhaustively. The Enrichment Saturation Theorem establishes that E₄ collapses to E₃: the reflection automorphism ρ generates exactly four orbits, and no genuinely new ontic structure arises beyond the third self-enrichment (full proof: VII.T06). Finally, τ is positioned as a third option between vitalism and pure emergence: Life is the categorical structure recognizing itself at E₂.

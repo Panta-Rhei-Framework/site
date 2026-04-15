@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/c
 prev_chapter_title: "Chapter 45: Style, Motif, and Genre"
 next_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/chapter-47-fractal-aesthetics/"
 next_chapter_title: "Chapter 47: Fractal Aesthetics"
-summary_short: "The golden ratio $φ = (1 + \\sqrt5)/2$ is one of the most persistent structural constants in mathematics, biology, and architecture. This chapter examines its…"
+summary_short: "The golden ratio φ = (1 + √5)/2 is one of the most persistent structural constants in mathematics, biology, and architecture. This chapter examines its…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-04-categorical-aesthetics/"
@@ -38,16 +38,16 @@ right_rail:
 ---
 
 
-The golden ratio $φ = (1 + \sqrt5)/2$ is one of the most
+The golden ratio φ = (1 + √5)/2 is one of the most
 persistent structural constants in mathematics, biology, and
 architecture. This chapter examines its status within categorical
-aesthetics: $φ$ is not mystical but structural—it
+aesthetics: φ is not mystical but structural—it
 appears wherever optimal packing, self-similar growth, or maximal
 irrationality selects for a single proportion. As a kernel shadow,
-$φ$ occupies a precise niche: it is the unique positive
-fixed point of the recursion $x ↦ 1 + 1/x$, and its
-continued-fraction expansion $[1; 1, 1, 1, …]$ makes it the
+φ occupies a precise niche: it is the unique positive
+fixed point of the recursion x ↦ 1 + 1/x, and its
+continued-fraction expansion [1; 1, 1, 1, …] makes it the
 "most irrational" real number. The master constant
-$ι_τ ≈ 0.3413$ plays an analogous role within
-Category $τ$: it is $τ$'s own aesthetic ratio, selected not
+ι_τ ≈ 0.3413 plays an analogous role within
+Category τ: it is τ's own aesthetic ratio, selected not
 by taste but by the axioms.

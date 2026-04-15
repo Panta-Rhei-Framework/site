@@ -47,9 +47,9 @@ union is *least common multiple*,
 intersection is *greatest common divisor*,
 and difference is *exponent-wise subtraction*
 in prime factorizations.
-These operations endow $τ$-Idx with the structure
+These operations endow τ-Idx with the structure
 of a distributive lattice,
-with $1$ as the bottom element
+with 1 as the bottom element
 and no finite top.
 Every set-theoretic computation reduces
 to an arithmetic operation on prime factorizations.

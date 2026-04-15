@@ -10,7 +10,7 @@ part_number: 5
 part_display: "Part V"
 part_slug: "part-05-closure-fungi-and-the-recycling-fiber"
 chapter_count: 5
-summary_short: "The $η$-sector: **structure recycling, decomposition, nutrient cycling**. The closure/recycler sector operates on the recycling channel of the metabolic fiber…"
+summary_short: "The η-sector: **structure recycling, decomposition, nutrient cycling**. The closure/recycler sector operates on the recycling channel of the metabolic fiber…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:
@@ -30,8 +30,8 @@ right_rail:
 ---
 
 
-The $η$-sector: **structure recycling, decomposition, nutrient cycling**. The
-closure/recycler sector operates on the recycling channel of the metabolic fiber $T^2$. Fungi—mycelial
+The η-sector: **structure recycling, decomposition, nutrient cycling**. The
+closure/recycler sector operates on the recycling channel of the metabolic fiber T². Fungi—mycelial
 networks that decompose organic matter and return nutrients to the biosphere—are the biological
 archetype. Death and aging complete the closure loop; ecosystems weave all sectors into inter-sector
 webs via symbiosis and Nash equilibria; healing and regeneration reverse entropy locally within the

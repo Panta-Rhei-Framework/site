@@ -43,27 +43,27 @@ restated the boundary ring characters
 as idempotent-supported objects
 (the relevant definition, II.D59):
 every character decomposes canonically as
-$χ = e_+ · χ_+ + e_- · χ_-$
+χ = e_+ · χ_+ + e_- · χ_-
 (Proposition [prop:character-decomposition], II.P13).
 This chapter proves
 that each idempotent-supported character
 **extends uniquely**
-to the interior of $τ^3$,
+to the interior of τ³,
 and that the extension lives
-in the split-complex codomain $H_τ$
-(not classical $ℂ$).
+in the split-complex codomain H_τ
+(not classical ℂ).
 The construction has two stages:
 first, the **Extension Lemma**
 (Lemma [lem:extension-h-tau], II.L12)
 builds the extension channel-by-channel
-using the $BndLift$ operator
+using the BndLift operator
 (the relevant definition, II.D36)
 from Part VI;
 second, the **Hartogs Extension Uniqueness Theorem**
 (the relevant theorem, II.T37)
 proves that the extension is the *only one* —
-any $τ$-holomorphic function on $τ^3$
-whose boundary restriction is $χ$
+any τ-holomorphic function on τ³
+whose boundary restriction is χ
 must coincide with the constructed extension.
 Uniqueness follows from two independent arguments:
 the Code/Decode bijection
@@ -78,10 +78,10 @@ are each determined independently
 by their respective boundary data,
 and there is no room for an alternative.
 This chapter establishes the
-*boundary $→$ interior* direction
+*boundary → interior* direction
 of the Central Theorem.
 The reverse direction
-(interior $→$ boundary)
+(interior → boundary)
 and the full isomorphism
-$O(τ^3) ≅ A_{spec}(𝕃)$
+O(τ³) ≅ A_spec(𝕃)
 are assembled in the relevant chapter.

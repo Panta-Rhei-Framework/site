@@ -42,8 +42,8 @@ Beyond having experiences, minds can represent themselves as having
 them. This chapter models self-awareness as a reflexive loop within the
 mind topos: the system forms a representation of itself and identifies
 that representation as its own. The loop is formalised as a
-SelfDesc-of-SelfDesc operator at the $E_3$ level of Book VI's
+SelfDesc-of-SelfDesc operator at the E₃ level of Book VI's
 complexity hierarchy. Metacognition — thinking about thinking —
-emerges as the $E_3$ capacity par excellence: the internal topos
+emerges as the E₃ capacity par excellence: the internal topos
 operating on its own morphisms. Mirror self-recognition experiments
 are reinterpreted as empirical probes of the identification step.

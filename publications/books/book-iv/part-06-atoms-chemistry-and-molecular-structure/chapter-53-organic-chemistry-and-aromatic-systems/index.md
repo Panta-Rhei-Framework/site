@@ -46,7 +46,7 @@ known compounds. This chapter surveys the major classes of organic
 molecules (hydrocarbons, functional groups, isomers), develops the
 concept of chirality and its biological significance, and then turns to
 aromaticity: the remarkable stability of benzene and related cyclic
-systems, governed by H\"uckel's $4n+2$ rule. Throughout, organic
-structure is interpreted in Category $τ$ as $τ^2$ mode decoration
-on molecular graphs, with aromaticity as optimal $τ^2$ delocalisation
+systems, governed by H\"uckel's 4n+2 rule. Throughout, organic
+structure is interpreted in Category τ as τ² mode decoration
+on molecular graphs, with aromaticity as optimal τ² delocalisation
 in cyclic topologies.

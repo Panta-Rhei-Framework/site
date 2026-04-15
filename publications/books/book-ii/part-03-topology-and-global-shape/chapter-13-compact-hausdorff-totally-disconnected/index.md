@@ -50,23 +50,23 @@ and first disagreement depth.
 Part III now promotes this combinatorial
 infrastructure to a full topological theory.
 This opening chapter proves the three fundamental
-topological properties of $τ^3$:
+topological properties of τ³:
 **compactness** (every open cover has a finite subcover),
 the **Hausdorff** property
 (distinct points have disjoint neighbourhoods),
 and **total disconnectedness**
 (the only connected subsets are singletons).
-Together, these three properties make $τ^3$
+Together, these three properties make τ³
 a **Stone space**—the Boolean dual
 of the algebra of cylinder predicates.
 The compactness is *inherent*:
 it follows from the profinite inverse-limit structure
 and does not require a compactification.
-The fixed-point generator $ω$,
-already present in Category $τ$ from axiom K2,
+The fixed-point generator ω,
+already present in Category τ from axiom K2,
 is responsible.
 The underlying algebraic structure is hyperbolic
-($\jj^2 = +1$), not elliptic ($i^2 = -1$),
+(j² = +1), not elliptic (i² = -1),
 and this is precisely what makes
 the inherent compactness compatible
 with Euclidean geometry.

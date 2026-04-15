@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-48-th
 prev_chapter_title: "Chapter 48: The Cosmic Life Spectrum: From Molecules to Galaxies"
 next_chapter_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-50-the-self-enrichment-ladder-e-e-complete/"
 next_chapter_title: "Chapter 50: The Self-Enrichment Ladder: E₀–E₃ Complete"
-summary_short: "The Crossing-Limit Theorem establishes that the merger-directed net of BH $ω$-codes converges to $ι_τ$: as black holes merge across cosmic time, their…"
+summary_short: "The Crossing-Limit Theorem establishes that the merger-directed net of BH ω-codes converges to ι_τ: as black holes merge across cosmic time, their…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-07-cosmic-life/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The Crossing-Limit Theorem establishes that the merger-directed net of BH $ω$-codes converges to $ι_τ$: as black holes merge across cosmic time, their blueprint codes approach the master constant. The cosmological limit of all mergers is a universal BH whose $ω$-germ code *is* $ι_τ$—the fully alive state. The Omega Point is neither Teilhard's mysticism nor heat death, but convergence to maximal aliveness via eternal circulation on the lemniscate. The chapter closes with the generative-to-refinement transition: the cosmological arrow from structure-building to Life-optimizing, viewed from $E_2$.
+The Crossing-Limit Theorem establishes that the merger-directed net of BH ω-codes converges to ι_τ: as black holes merge across cosmic time, their blueprint codes approach the master constant. The cosmological limit of all mergers is a universal BH whose ω-germ code *is* ι_τ—the fully alive state. The Omega Point is neither Teilhard's mysticism nor heat death, but convergence to maximal aliveness via eternal circulation on the lemniscate. The chapter closes with the generative-to-refinement transition: the cosmological arrow from structure-building to Life-optimizing, viewed from E₂.

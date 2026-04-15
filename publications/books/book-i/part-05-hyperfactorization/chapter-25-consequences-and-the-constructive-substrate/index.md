@@ -49,9 +49,9 @@ We also expose G\"odel numbering as a special case
 of the ABCD encoding,
 revealing that G\"odel's technique implicitly
 imports the diagonal structure
-that $τ$ earns explicitly.
+that τ earns explicitly.
 The chapter closes by confirming the earned dimension
-$\dim_τ = 4$ from a new angle:
+dim_τ = 4 from a new angle:
 the Hyperfactorization Theorem guarantees
 that the four coordinates are not merely
 independent but *complete*.

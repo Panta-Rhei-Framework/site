@@ -10,7 +10,7 @@ part_number: 8
 part_display: "Part VIII"
 part_slug: "part-08-categorical-societies"
 chapter_count: 12
-summary_short: "**Sector $S_P$ (Practical), Part 2 of 2.** How do societies organize? **Sloterdijk's spheres** meet categorical structure—bubbles, globes, and foams. Dunbar…"
+summary_short: "**Sector S_P (Practical), Part 2 of 2.** How do societies organize? **Sloterdijk's spheres** meet categorical structure—bubbles, globes, and foams. Dunbar…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-**Sector $S_P$ (Practical), Part 2 of 2.**
+**Sector S_P (Practical), Part 2 of 2.**
 How do societies organize? **Sloterdijk's spheres** meet categorical structure—bubbles,
 globes, and foams. Dunbar limits rural worlds; cities regulate connection. Architecture mirrors
 culture; generations drift through lineages. Capital networks create world-interior. Information
@@ -38,7 +38,7 @@ overload fragments into schizophrenia. Nine global spheres emerge from collectiv
 Power is morphism structure; sovereignty is boundary control; legitimacy is recognition coherence.
 Religion shapes spheres through the sacred-profane distinction; rituals glue individuals into
 communities.
-Together with Part VII, the practical sector $S_P$ covers what classical philosophy calls
+Together with Part VII, the practical sector S_P covers what classical philosophy calls
 ethics and political philosophy—the two domains governed by the register question
 "what should I do?"
 

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter
 prev_chapter_title: "Chapter 63: Physical Turing Machines as τ"
 next_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter-65-the-zfc-provability-horizon/"
 next_chapter_title: "Chapter 65: The ZFC Provability Horizon"
-summary_short: "Chapter 78 embedded computation in physics: a physical $E_2$ agent hosted on $E_1$ hardware inherits $τ$-admissibility .…"
+summary_short: "Chapter 78 embedded computation in physics: a physical E₂ agent hosted on E₁ hardware inherits τ-admissibility .…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-09-where-life-lives/"
@@ -38,15 +38,15 @@ right_rail:
 ---
 
 
-Chapter 78 embedded computation in physics: a physical $E_2$ agent
-hosted on $E_1$ hardware inherits $τ$-admissibility
+Chapter 78 embedded computation in physics: a physical E₂ agent
+hosted on E₁ hardware inherits τ-admissibility
 .
 This chapter removes the physical substrate entirely.
-The $E_3$ diagrammatic sector
+The E₃ diagrammatic sector
 
-hosts abstract Turing machines as $τ$-native diagrams,
+hosts abstract Turing machines as τ-native diagrams,
 without passing through ZFC.
-The chapter defines the $τ$-native abstract TM (III.D78),
+The chapter defines the τ-native abstract TM (III.D78),
 proves the Universal Admissibility Theorem (III.T53),
 and diagnoses ZFC's P vs NP openness as an artifact
 of actual infinity (III.R43).

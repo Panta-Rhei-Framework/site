@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-flui
 prev_chapter_title: "Chapter 56: The Defect Functional and Fluid Regimes"
 next_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-58-tau-euler-inviscid-flow/"
 next_chapter_title: "Chapter 58: τ-Euler: Inviscid Flow"
-summary_short: "the relevant chapter introduced the defect tuple $\\mathbfd = (d_1, d_2, d_3, d_4)$ as a universal regime classifier and identified eight canonical…"
+summary_short: "the relevant chapter introduced the defect tuple d = (d₁, d₂, d₃, d₄) as a universal regime classifier and identified eight canonical…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 the relevant chapter introduced the defect tuple
-$\mathbfd = (d_1, d_2, d_3, d_4)$
+d = (d₁, d₂, d₃, d₄)
 as a universal regime classifier and identified eight canonical
 fluid regimes.
 This chapter develops the defect tuple itself:
@@ -47,6 +47,6 @@ its mathematical structure, its transformation properties,
 its role as the master coordinate on the phase space of matter.
 The tuple is not merely a convenient label.
 It is the *canonical projection* of the full defect functional
-onto the four geometric axes of $T^2$,
+onto the four geometric axes of T²,
 and the projection is both complete and minimal—no
 fifth component exists, and no component is redundant.

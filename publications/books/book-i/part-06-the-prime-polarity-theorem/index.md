@@ -10,7 +10,7 @@ part_number: 6
 part_display: "Part VI"
 part_slug: "part-06-the-prime-polarity-theorem"
 chapter_count: 2
-summary_short: "The Hyperfactorization Theorem (Part V) established that every object of Category $τ$ has a unique ABCD address. The four coordinates are independent,…"
+summary_short: "The Hyperfactorization Theorem (Part V) established that every object of Category τ has a unique ABCD address. The four coordinates are independent,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -31,7 +31,7 @@ right_rail:
 
 
 The Hyperfactorization Theorem (Part V) established
-that every object of Category $τ$ has a unique ABCD address.
+that every object of Category τ has a unique ABCD address.
 The four coordinates are independent, complete, and faithful.
 But the coordinate system carries more structure
 than mere addressing.
@@ -39,19 +39,19 @@ than mere addressing.
 This Part proves the **Prime Polarity Theorem**,
 the second hinge theorem of the Panta Rhei series.
 The theorem discovers that the internal primes
-$ℙ_τ$ carry a canonical *bipolar* structure:
+ℙ_τ carry a canonical *bipolar* structure:
 every prime is either B-dominant
 (its tower atoms primarily grow through the exponent,
-the $γ$-channel) or C-dominant
+the γ-channel) or C-dominant
 (its tower atoms primarily grow through tetration height,
-the $η$-channel).
+the η-channel).
 Both polarity classes are infinite.
 
 The Prime Polarity Theorem is a purely finite-regime result:
 it concerns individual primes and their decidable,
 computable polarity.
 The geometric consequence of this bipolar partition —
-the algebraic lemniscate $𝕃$ —
+the algebraic lemniscate 𝕃 —
 will be *earned* in Part VII,
 where omega-germs and spectral splitting
 transform the arithmetic polarity data

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-00-the-third-self-enrichmen
 prev_chapter_title: "Chapter 1: The Third Self-Enrichment: Entry to E₃"
 next_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-03-the-four-registers-of-reason/"
 next_chapter_title: "Chapter 3: The Four Registers of Reason"
-summary_short: "Structural road map. The 4+1 sector decomposition at $E_3$ is previewed: $S_E$ (Empirical, Parts II–III), $S_D$ (Diagrammatic, Parts IV–VI), $S_P$ (Practical,…"
+summary_short: "Structural road map. The 4+1 sector decomposition at E₃ is previewed: S_E (Empirical, Parts II–III), S_D (Diagrammatic, Parts IV–VI), S_P (Practical,…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-00-the-third-self-enrichment/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Structural road map. The 4+1 sector decomposition at $E_3$ is previewed: $S_E$ (Empirical, Parts II–III), $S_D$ (Diagrammatic, Parts IV–VI), $S_P$ (Practical, Parts VII–VIII), $S_C$ (Commitment, Part IX), and $S_L$ (Logos, Part X). The reader is oriented within the thirteen-Part architecture.
+Structural road map. The 4+1 sector decomposition at E₃ is previewed: S_E (Empirical, Parts II–III), S_D (Diagrammatic, Parts IV–VI), S_P (Practical, Parts VII–VIII), S_C (Commitment, Part IX), and S_L (Logos, Part X). The reader is oriented within the thirteen-Part architecture.

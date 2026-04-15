@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 14: The Primorial Ladder"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-16-hensel-lifting-and-local-fields/"
 next_chapter_title: "Chapter 16: Hensel Lifting and Local Fields"
-summary_short: "the relevant chapter established the primorial ladder $Prim(k) = p_1 ⋯ p_k$ as the canonical cofinal filtration of the $τ$ kernel. Every $τ$-effective…"
+summary_short: "the relevant chapter established the primorial ladder Prim(k) = p₁ ⋯ p_k as the canonical cofinal filtration of the τ kernel. Every τ-effective…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -39,26 +39,24 @@ right_rail:
 
 
 the relevant chapter established the primorial ladder
-$Prim(k) = p_1 ⋯ p_k$
-as the canonical cofinal filtration of the $τ$ kernel.
-Every $τ$-effective property reduces to finitely many
+Prim(k) = p₁ ⋯ p_k
+as the canonical cofinal filtration of the τ kernel.
+Every τ-effective property reduces to finitely many
 primorial-level checks.
-But a check at level $k$ is a computation
-in the ring $ℤ / Prim(k)ℤ$,
-whose order grows super-exponentially with $k$.
+But a check at level k is a computation
+in the ring ℤ / Prim(k)ℤ,
+whose order grows super-exponentially with k.
 The **Chinese Remainder Theorem** (CRT)
 decomposes this single large ring
 into a product of small prime-level rings,
-$$
- ℤ / Prim(k)ℤ
+<div class="math-display">ℤ / Prim(k)ℤ
  ≅ 
- ∏_{i=1}^k ℤ / p_i ℤ,
-$$
-turning one hard computation into $k$ easy ones.
+ ∏_{i=1}^k ℤ / p_i ℤ,</div>
+turning one hard computation into k easy ones.
 The classical CRT proof relies on the extended Euclidean algorithm,
 which requires subtraction—a signed operation
-that the $τ$ kernel does not import
-($K3$ provides divisibility predicates,
+that the τ kernel does not import
+(K3 provides divisibility predicates,
 not signed arithmetic).
 This chapter proves the CRT constructively
 using modular B\'ezout coefficients

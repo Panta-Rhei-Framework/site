@@ -55,14 +55,14 @@ Five decades of effort
 to firewalls to replica wormholes —
 have not produced a consensus resolution.
 
-Category $τ$ answers the original question differently.
+Category τ answers the original question differently.
 A *mature* black hole
 — one that has completed ringdown
 and achieved torus-vacuum stabilization —
 cannot lose mass.
 The proof rests on defect monotonicity:
 mass decrease would require an *increase*
-in defect entropy $S_{def}$,
+in defect entropy S_def,
 violating the Categorical Second Law
 .
 This is the **No-Shrink Theorem**

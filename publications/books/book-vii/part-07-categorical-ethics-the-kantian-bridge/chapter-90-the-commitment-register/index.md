@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-k
 prev_chapter_title: "Chapter 89: The CI Proof Programme: Three Stages"
 next_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-91-the-kant-tau-correspondence/"
 next_chapter_title: "Chapter 91: The Kant-τ Correspondence"
-summary_short: "The fourth mode of reason: "what I am willing to live as true." The commitment register $ℝeg_C$ stands alongside the empirical register $ℝeg_E$, the…"
+summary_short: "The fourth mode of reason: "what I am willing to live as true." The commitment register ℝeg_C stands alongside the empirical register ℝeg_E, the…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
@@ -39,12 +39,12 @@ right_rail:
 
 
 The fourth mode of reason: "what I am willing to live as true." The
-commitment register $ℝeg_C$ stands alongside the empirical
-register $ℝeg_E$, the practical register $ℝeg_P$, and the
-diagrammatic register $ℝeg_D$ as a structurally independent mode of
-engagement with reality. $ℝeg_C$-claims are not propositional
+commitment register ℝeg_C stands alongside the empirical
+register ℝeg_E, the practical register ℝeg_P, and the
+diagrammatic register ℝeg_D as a structurally independent mode of
+engagement with reality. ℝeg_C-claims are not propositional
 assertions but performative declarations of lived commitment. Explicit
-admissibility rules prevent $ℝeg_C$ from collapsing into dogma. The
+admissibility rules prevent ℝeg_C from collapsing into dogma. The
 chapter addresses what was traditionally called "faith" without
 importing theological vocabulary, treating it instead as a structural
 universal property of the register architecture.

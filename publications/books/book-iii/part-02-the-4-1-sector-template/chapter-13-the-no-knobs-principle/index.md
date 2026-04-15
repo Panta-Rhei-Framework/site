@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 12: The Parity Bridge Theorem"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-14-the-primorial-ladder/"
 next_chapter_title: "Chapter 14: The Primorial Ladder"
-summary_short: "The $4+1$ sector template derived in the relevant chapter provides the organisational blueprint for the four primitive sectors and the…"
+summary_short: "The 4+1 sector template derived in the relevant chapter provides the organisational blueprint for the four primitive sectors and the…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -38,17 +38,17 @@ right_rail:
 ---
 
 
-The $4+1$ sector template derived in the relevant chapter
+The 4+1 sector template derived in the relevant chapter
 provides the organisational blueprint for the four primitive sectors
-and the $ω$-coupling that mediates between them.
+and the ω-coupling that mediates between them.
 The Parity Bridge Theorem 
-singled out the weak sector as the unique carrier of the $E_1 → E_2$ transition.
+singled out the weak sector as the unique carrier of the E₁ → E₂ transition.
 One structural question remains:
 *how strong* is each inter-sector coupling?
 The answer, established in this chapter, is that
 there is no freedom in the coupling strengths at all.
 Every coupling is a canonical rational function of the master constant
-$ι_τ = 2/(π + e)$
+ι_τ = 2/(π + e)
 evaluated at a specific primorial depth.
 The theory has no adjustable parameters—no knobs to turn.
 This is the **No Knobs Principle**,

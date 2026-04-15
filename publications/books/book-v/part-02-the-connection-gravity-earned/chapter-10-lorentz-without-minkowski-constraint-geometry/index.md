@@ -48,14 +48,14 @@ without either postulate.
 Lorentz covariance is not an axiom
 about the geometry of spacetime;
 it is a *theorem* about the structure of readouts
-from the boundary holonomy algebra $H_∂[ω]$.
+from the boundary holonomy algebra H_∂[ω].
 The Minkowski metric is not the ontological substrate
 of physics;
 it is a chart shadow—a
 convenient coordinate representation
-of the deeper $τ^3$ structure.
+of the deeper τ³ structure.
 What orthodox physics interprets
 as the "geometry of spacetime"
 is the constraint geometry
-imposed by the $τ^3$ fibration
+imposed by the τ³ fibration
 on the readout functors.

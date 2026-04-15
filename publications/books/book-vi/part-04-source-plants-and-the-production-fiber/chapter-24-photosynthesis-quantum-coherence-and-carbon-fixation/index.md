@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-04-source-plants-and-the-pro
 prev_chapter_title: "Chapter 23: The Source Sector: Structure Generation"
 next_chapter_url: "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-25-plants-the-sessile-engines/"
 next_chapter_title: "Chapter 25: Plants: The Sessile Engines"
-summary_short: "Photosynthesis is the canonical production act of the source sector: $CO_2 + H_2O + light → organic carbon + O_2$. The light reactions in photosystems I and II…"
+summary_short: "Photosynthesis is the canonical production act of the source sector: CO₂ + H₂O + light → organic carbon + O₂. The light reactions in photosystems I and II…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Photosynthesis is the canonical production act of the source sector: $CO_2 + H_2O + light → organic carbon + O_2$. The light reactions in photosystems I and II split water and drive electron transport, while the Calvin cycle fixes carbon via RuBisCO. Quantum coherence in the FMO complex suggests that energy transfer exploits quantum effects, though the biological mechanism remains at conjectural scope.
+Photosynthesis is the canonical production act of the source sector: CO₂ + H₂O + light → organic carbon + O₂. The light reactions in photosystems I and II split water and drive electron transport, while the Calvin cycle fixes carbon via RuBisCO. Quantum coherence in the FMO complex suggests that energy transfer exploits quantum effects, though the biological mechanism remains at conjectural scope.

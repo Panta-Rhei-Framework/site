@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-05-hyperfactorization/chapter
 prev_chapter_title: "Chapter 22: No-Tie Determinism"
 next_chapter_url: "/publications/books/book-i/part-05-hyperfactorization/chapter-24-the-hyperfactorization-theorem/"
 next_chapter_title: "Chapter 24: The Hyperfactorization Theorem"
-summary_short: "The greedy peel decomposes $X = T(\A, \B, \C) · \D$. For the decomposition to be well-founded — and for uniqueness to…"
+summary_short: "The greedy peel decomposes X = T(A, B, C) · D. For the decomposition to be well-founded — and for uniqueness to…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-05-hyperfactorization/"
@@ -39,14 +39,14 @@ right_rail:
 
 
 The greedy peel decomposes
-$X = T(A, B, C)
-· D$.
+X = T(A, B, C)
+· D.
 For the decomposition to be well-founded —
 and for uniqueness to follow by induction —
-the remainder $D$ must be
-*strictly less* than $X$.
+the remainder D must be
+*strictly less* than X.
 This chapter proves the **Strict Remainder Descent Lemma**:
-$D < X$ whenever $X ≥ 2$.
+D < X whenever X ≥ 2.
 The proof is a direct consequence of the tower atom
-being at least $2$,
-together with the division structure of $τ$-Idx.
+being at least 2,
+together with the division structure of τ-Idx.

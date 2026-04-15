@@ -36,10 +36,10 @@ In classical complex analysis,
 Hartogs' extension theorem says that
 a holomorphic function defined outside a thin set
 extends uniquely to the whole domain.
-The $τ$-analog is stronger:
-every $τ$-holomorphic function on $𝕃 \setminus K$,
-with $K$ primordially thin,
-extends uniquely to all of $𝕃$.
+The τ-analog is stronger:
+every τ-holomorphic function on 𝕃 ∖ K,
+with K primordially thin,
+extends uniquely to all of 𝕃.
 
 The proof uses everything earned so far:
 spectral coefficients from the character decomposition (Part X),
@@ -50,11 +50,11 @@ The result is the **Global Hartogs Extension Theorem** —
 the crown jewel and climax of Book I.
 
 As a corollary,
-omega-tail data on the algebraic lemniscate $𝕃$
-uniquely determines all finite-stage values on $τ^3$.
+omega-tail data on the algebraic lemniscate 𝕃
+uniquely determines all finite-stage values on τ³.
 This is the canonical passage to Book II,
 where the Central Theorem
-$O(τ^3) ≅ A_{spec}(𝕃)$
+O(τ³) ≅ A_spec(𝕃)
 sharpens this algebraic principle
 into the geometric slogan *boundary determines interior*.
 

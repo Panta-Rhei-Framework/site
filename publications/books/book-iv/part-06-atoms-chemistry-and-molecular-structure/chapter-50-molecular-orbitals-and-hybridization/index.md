@@ -41,10 +41,10 @@ right_rail:
 Molecular orbital theory constructs delocalised electronic states from
 atomic orbital superpositions—the LCAO (Linear Combination of Atomic
 Orbitals) method. In the co-rotor framework, this is mode
-superposition on the fiber $T^2$: atomic harmonics combine into
+superposition on the fiber T²: atomic harmonics combine into
 molecular harmonics spanning two or more nuclear centres. This chapter
-develops bonding and antibonding orbitals, classifies $σ$ and
-$π$ bonds, analyses homonuclear and heteronuclear diatomics, derives
-hybrid orbitals ($sp^3$, $sp^2$, $sp$) from energy-optimised
+develops bonding and antibonding orbitals, classifies σ and
+π bonds, analyses homonuclear and heteronuclear diatomics, derives
+hybrid orbitals (sp³, sp², sp) from energy-optimised
 superpositions, and introduces the frontier orbital picture (HOMO/LUMO)
 that governs chemical reactivity.

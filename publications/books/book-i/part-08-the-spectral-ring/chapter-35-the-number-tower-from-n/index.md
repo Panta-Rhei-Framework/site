@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-
 prev_chapter_title: "Chapter 34: The Master Constant ι_τ = 2/(π + e)"
 next_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-36-the-constructive-reals-ordered-field-and-completeness/"
 next_chapter_title: "Chapter 36: The Constructive Reals: Ordered Field and Completeness"
-summary_short: "The boundary ring $\\widehatℤ_τ$  is the *profinite completion* of $τ$-Idx — a compact, non-Archimedean structure encoding…"
+summary_short: "The boundary ring ℤ_τ  is the *profinite completion* of τ-Idx — a compact, non-Archimedean structure encoding…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-08-the-spectral-ring/"
@@ -38,17 +38,17 @@ right_rail:
 ---
 
 
-The boundary ring $\widehatℤ_τ$
+The boundary ring ℤ_τ
 
-is the *profinite completion* of $τ$-Idx —
+is the *profinite completion* of τ-Idx —
 a compact, non-Archimedean structure
 encoding all residue classes simultaneously.
-But Category $τ$ also requires
+But Category τ also requires
 the classical *Archimedean* number systems:
 integers, rationals, reals, and complexes.
 This chapter constructs the **number tower**
-$ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ
-⊆ ℝ_τ ⊆ ℂ_τ$
+ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ
+⊆ ℝ_τ ⊆ ℂ_τ
 via standard algebraic and topological completions,
 earning the scalar rings needed for
 linear algebra, analysis, and spectral theory in Books II and III.

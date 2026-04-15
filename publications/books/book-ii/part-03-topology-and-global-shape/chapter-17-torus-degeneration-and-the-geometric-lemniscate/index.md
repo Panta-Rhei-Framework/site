@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape
 prev_chapter_title: "Chapter 16: Boundary Minimality and Angular Sectors"
 next_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape/chapter-18-connectivity-via-coherence-the-two-readout-principle/"
 next_chapter_title: "Chapter 18: Connectivity via Coherence: The Two-Readout Principle"
-summary_short: "Book I earned the lemniscate $𝕃$ as a purely algebraic object: the boundary local ring forces split-complex scalars (I.T10, Book I), whose bipolar spectral…"
+summary_short: "Book I earned the lemniscate 𝕃 as a purely algebraic object: the boundary local ring forces split-complex scalars (I.T10, Book I), whose bipolar spectral…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-03-topology-and-global-shape/"
@@ -38,24 +38,24 @@ right_rail:
 ---
 
 
-Book I earned the lemniscate $𝕃$
+Book I earned the lemniscate 𝕃
 as a purely algebraic object:
 the boundary local ring forces split-complex scalars
 (I.T10, Book I),
 whose bipolar spectral algebra yields
 the **algebraic lemniscate** (I.D18, Book I).
 No topology entered that construction.
-This chapter gives $𝕃$ its **geometric body**.
-The fiber $T^2 = S^1_γ × S^1_η$
+This chapter gives 𝕃 its **geometric body**.
+The fiber T² = S¹_γ × S¹_η
 (II.D06) is a genuine torus at every finite stage.
 At the boundary, this torus degenerates to
-$𝕃 = S^1 ∨ S^1$
+𝕃 = S¹ ∨ S¹
 via a canonical **pinch map**
 that collapses the diagonal circle to a single point.
 The pinch map is the unique continuous surjection
 satisfying five structural constraints.
 The fundamental group undergoes a dramatic transition:
-$π_1(T^2) = ℤ^2$ becomes
-$π_1(𝕃) = F_2$—abelian
+π₁(T²) = ℤ^2 becomes
+π₁(𝕃) = F₂—abelian
 becomes free non-abelian.
 This is where geometry enters Book II.

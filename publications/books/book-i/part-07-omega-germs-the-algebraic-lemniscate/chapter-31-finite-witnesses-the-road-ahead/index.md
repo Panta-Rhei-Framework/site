@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-
 prev_chapter_title: "Chapter 30: The Bipolar Spectral Algebra"
 next_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-32-the-profinite-boundary-ring-z/"
 next_chapter_title: "Chapter 32: The Profinite Boundary Ring Z"
-summary_short: "The hinge block (Parts IV–VII) has transformed Category $τ$ from a countable combinatorial object into a structured mathematical universe with coordinates,…"
+summary_short: "The hinge block (Parts IV–VII) has transformed Category τ from a countable combinatorial object into a structured mathematical universe with coordinates,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The hinge block (Parts IV–VII)
-has transformed Category $τ$
+has transformed Category τ
 from a countable combinatorial object
 into a structured mathematical universe
 with coordinates, dimension, polarity,

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 21: Gauge Invariance and the τ-Maxwell Equations"
 next_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-23-weak-holonomy-and-the-w-z-bosons/"
 next_chapter_title: "Chapter 23: Weak Holonomy and the W/Z Bosons"
-summary_short: "The weak force is the most puzzling of the four interactions: short-range, maximally parity-violating, and responsible for radioactive decay. In Category $τ$…"
+summary_short: "The weak force is the most puzzling of the four interactions: short-range, maximally parity-violating, and responsible for radioactive decay. In Category τ…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-03-the-electroweak-arc/"
@@ -40,9 +40,9 @@ right_rail:
 
 The weak force is the most puzzling of the four interactions:
 short-range, maximally parity-violating, and responsible for
-radioactive decay. In Category $τ$ the mystery dissolves.
+radioactive decay. In Category τ the mystery dissolves.
 The weak force is **junction dynamics** on the lemniscate
-$𝕃 = S^1∨ S^1$—transitions through the crossing
-point $ω$ where the two lobes meet. This chapter develops
-the A-sector ($π$-generator), its SU(2) structure, and the
+𝕃 = S¹∨ S¹—transitions through the crossing
+point ω where the two lobes meet. This chapter develops
+the A-sector (π-generator), its SU(2) structure, and the
 geometric origin of chirality.

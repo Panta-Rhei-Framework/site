@@ -44,10 +44,10 @@ the transition functions between charts
 must be smooth (or analytic, or holomorphic)
 to endow the manifold with the corresponding structure.
 The construction **imports** the model space
-$ℝ^n$ (or $ℂ^n$) from outside.
-In Category $τ$, every ingredient of the manifold concept
+ℝ^n (or ℂ^n) from outside.
+In Category τ, every ingredient of the manifold concept
 has been **earned** in Parts I–IX:
-the point set $τ^3$ (Part I),
+the point set τ³ (Part I),
 the topology (Part III),
 the geometry (Part IV),
 the calibration constants (Part V),
@@ -55,26 +55,26 @@ the holomorphic structure (Parts VI–VII),
 the Yoneda embedding (Part VIII),
 and the Central Theorem (Part IX).
 This chapter assembles these earned ingredients
-into a **$τ$-manifold**:
-a space $(M, A_τ)$
-whose charts land in the model space $τ^3$
-and whose transition functions are $τ$-analytic.
+into a **τ-manifold**:
+a space (M, A_τ)
+whose charts land in the model space τ³
+and whose transition functions are τ-analytic.
 Three definitions are established.
 **the relevant definition (II.D63):
-the $τ$-manifold as a topological space
-equipped with a $τ$-analytic atlas.
+the τ-manifold as a topological space
+equipped with a τ-analytic atlas.
 **the relevant definition (II.D64):
-$τ$-analytic maps—maps that are $τ$-holomorphic,
+τ-analytic maps—maps that are τ-holomorphic,
 fibration-preserving,
 and spectrally supported at each stage.
 **the relevant definition (II.D65):
-the $τ$-exterior derivative
-$d_τ \colon Ω^k_τ → Ω^{k+1}_τ$,
-nilpotent ($d_τ^2 = 0$),
+the τ-exterior derivative
+d_τ : Ω^k_τ → Ω^{k+1}_τ,
+nilpotent (d_τ² = 0),
 which earns de Rham-type cohomology
-$H^k_τ = \ker(d_τ)/im(d_τ)$
+H^k_τ = ker(d_τ)/im(d_τ)
 for Book III.
 No external manifold theory is imported.
-The $τ$-manifold is a **consequence**
+The τ-manifold is a **consequence**
 of the holomorphic atlas,
 not a prerequisite for it.

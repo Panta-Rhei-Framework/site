@@ -35,12 +35,12 @@ and introduces the foundational principle that governs
 the entire second edition:
 every mathematical tool is *earned*
 from five generators, seven axioms, and the progression
-operator $ρ$.
+operator ρ.
 We preview the Three Keys (Hyperfactorization,
 Prime Polarity, Split-Complex Holomorphy),
 the four-layer Kernel Hinge that structures
 the book's seventy-nine chapters,
-and the self-enrichment ladder $E_0 → E_1 → E_2 → E_3$
+and the self-enrichment ladder E₀ → E₁ → E₂ → E₃
 that connects Book I to the rest of the series.
 
 ## Chapters

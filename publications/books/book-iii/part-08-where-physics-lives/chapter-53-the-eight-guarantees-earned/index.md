@@ -48,5 +48,5 @@ This chapter revisits the gluing table with every cell carrying a theorem number
 introduces a naming scheme for the eight structural forces that the guarantees provide,
 and answers the question posed in Chapter 1:
 *Where does physics live?*
-Physics lives at $E_1$,
-and the eight forces are what $E_1$ delivers.
+Physics lives at E₁,
+and the eight forces are what E₁ delivers.

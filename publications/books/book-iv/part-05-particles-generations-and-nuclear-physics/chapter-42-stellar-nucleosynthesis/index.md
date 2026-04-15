@@ -41,5 +41,5 @@ right_rail:
 Stars are cosmic forges, transmuting hydrogen into the full periodic
 table. From the pp-chain in the Sun to silicon burning in supergiants,
 from s-process in red giants to r-process in neutron star mergers,
-stellar nucleosynthesis is $T^2$ saturation writ large across the
+stellar nucleosynthesis is T² saturation writ large across the
 cosmos. This chapter traces the cosmic origin of every element.

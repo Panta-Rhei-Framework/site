@@ -10,7 +10,7 @@ part_number: 5
 part_display: "Part V"
 part_slug: "part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e"
 chapter_count: 6
-summary_short: "Part V earns the transcendental constants $π$, $e$, $j$, and $ι_τ$ from purely countable discrete structure. Six chapters bridge from ABCD refinement rays to…"
+summary_short: "Part V earns the transcendental constants π, e, j, and ι_τ from purely countable discrete structure. Six chapters bridge from ABCD refinement rays to…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -30,44 +30,44 @@ right_rail:
 ---
 
 
-Part V earns the transcendental constants $π$, $e$, $j$, and $ι_τ$
+Part V earns the transcendental constants π, e, j, and ι_τ
 from purely countable discrete structure.
 Six chapters bridge from ABCD refinement rays to the classical constants
 and the Archimedean-Non-Archimedean duality.
 
-the relevant chapter defines the $α$-ray as the canonical
-"real line" $ℓ_α = \{α_n : n ≥ 1\} ∪ \{ω\}$
-and shows that $ℝ$ appears as the inverse limit of ultrametric
+the relevant chapter defines the α-ray as the canonical
+"real line" ℓ_α = {α_n : n ≥ 1} ∪ {ω}
+and shows that ℝ appears as the inverse limit of ultrametric
 radial sequences—not as an uncountable continuum (consistent with Book I's
 Cantor refutation, I.T35).
 
 the relevant chapter constructs circles as solenoidal inverse
 limits in A/B/C coordinates.
-Each angular tower's inverse limit *is* $S^1$ (a profinite circle),
+Each angular tower's inverse limit *is* S¹ (a profinite circle),
 unifying geometric and topological circles.
 
 the relevant chapter proves
-**Theorem II.T22**: three perspectives on $π$ converge.
-Topological $π$ from the lemniscate period (I.T05);
-geometric $π$ via the Archimedes polygon method (circumference/diameter);
-spectral $π$ as the spectral radius of B-channel primes (I.D19 boundary ring).
-All three yield $π = 3.14159…$.
+**Theorem II.T22**: three perspectives on π converge.
+Topological π from the lemniscate period (I.T05);
+geometric π via the Archimedes polygon method (circumference/diameter);
+spectral π as the spectral radius of B-channel primes (I.D19 boundary ring).
+All three yield π = 3.14159….
 
-the relevant chapter derives $e$ as the eigenvalue of the $ν$-iterator
-in the ladder $ρ → μ → ν → θ$ (I.D04).
-The unique self-reproducing growth base: $e = \lim(1+1/n)^n$ computed in earned index arithmetic.
+the relevant chapter derives e as the eigenvalue of the ν-iterator
+in the ladder ρ → μ → ν → θ (I.D04).
+The unique self-reproducing growth base: e = lim(1+1/n)^n computed in earned index arithmetic.
 
-the relevant chapter establishes $j$ (with $j^2 = +1$) from bipolar
+the relevant chapter establishes j (with j² = +1) from bipolar
 polarity structure.
-$τ$ has no rotation (no continuous $SO(2)$), only a *discrete*
+τ has no rotation (no continuous SO(2)), only a *discrete*
 bipolar flip.
-Idempotents $e_± = (1 ± j)/2$ are canonical sector projections.
+Idempotents e_± = (1 ± j)/2 are canonical sector projections.
 
 the relevant chapter confirms the master constant
-$ι_τ = 2/(π + e)$ and establishes the **Archimedean-Non-Archimedean Bridge**:
+ι_τ = 2/(π + e) and establishes the **Archimedean-Non-Archimedean Bridge**:
 ultrametric refinement (D-depth) and Euclidean resolution (ABC precision)
 describe the same process from two coordinate perspectives.
-$τ$ accesses transcendentals without importing $ℝ$.
+τ accesses transcendentals without importing ℝ.
 
 Part V is the calibration engine.
 Its six chapters convert abstract ABCD structure into numerical reality,

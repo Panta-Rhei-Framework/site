@@ -10,7 +10,7 @@ part_number: 4
 part_display: "Part IV"
 part_slug: "part-04-source-plants-and-the-production-fiber"
 chapter_count: 5
-summary_short: "The $γ$-sector: **structure generation, photosynthesis, carbon fixation**. The source/producer sector operates on the production channel of the metabolic fiber…"
+summary_short: "The γ-sector: **structure generation, photosynthesis, carbon fixation**. The source/producer sector operates on the production channel of the metabolic fiber…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:
@@ -30,12 +30,12 @@ right_rail:
 ---
 
 
-The $γ$-sector: **structure generation, photosynthesis, carbon fixation**. The
-source/producer sector operates on the production channel of the metabolic fiber $T^2$. Plants—sessile
+The γ-sector: **structure generation, photosynthesis, carbon fixation**. The
+source/producer sector operates on the production channel of the metabolic fiber T². Plants—sessile
 autotrophs that convert inorganic precursors into organic structure—are the biological archetype.
 Photosynthesis captures light via quantum coherence; morphogenesis instantiates Hodge gradients at
 biological scale; the genetic code carries BSD motivic structure. The central dogma
-(DNA $→$ RNA $→$ protein) is morphism composition in the source sector.
+(DNA → RNA → protein) is morphism composition in the source sector.
 
 ## Chapters
 

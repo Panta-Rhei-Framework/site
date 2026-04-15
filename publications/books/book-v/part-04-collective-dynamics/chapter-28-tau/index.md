@@ -49,26 +49,26 @@ MHD is a coupled system
 of the Navier–Stokes equation
 and the magnetic induction equation.
 
-In Category $τ$,
+In Category τ,
 MHD is *magneto-fluid holonomy*:
 the coupled evolution
 of the macro defect tuple
-$(μ, ν, κ, θ)$
-with the $\SectorB$-sector holonomy.
+(μ, ν, κ, θ)
+with the Sector B-sector holonomy.
 The frozen-flux invariant
 (Alfv\'en's theorem)
 is the conservation
-of the $\SectorB$-sector topological charge $θ_B$
+of the Sector B-sector topological charge θ_B
 under ideal MHD evolution.
 Magnetic reconnection—the
 topological rearrangement of field lines—is
 a *defect event*:
 a discrete change in the topological component
-$θ$ of the defect tuple.
+θ of the defect tuple.
 Alfv\'en modes are coupled periodic orbits
-on the fiber $T^2$,
+on the fiber T²,
 and MHD instabilities
 are specific patterns
 of defect-tuple inequality violation.
 
-Scope: $τ$-effective throughout.
+Scope: τ-effective throughout.

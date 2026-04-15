@@ -10,7 +10,7 @@ part_number: 2
 part_display: "Part II"
 part_slug: "part-02-categorical-ontology"
 chapter_count: 17
-summary_short: "**Sector $S_E$ (Empirical), Part 1 of 2.** What exists? Book VII begins from a single commitment: a foundational structure $τ$ whose admissible constructions…"
+summary_short: "**Sector S_E (Empirical), Part 1 of 2.** What exists? Book VII begins from a single commitment: a foundational structure τ whose admissible constructions…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,21 +30,21 @@ right_rail:
 ---
 
 
-**Sector $S_E$ (Empirical), Part 1 of 2.**
+**Sector S_E (Empirical), Part 1 of 2.**
 What exists? Book VII begins from a single commitment: a foundational structure
-$τ$ whose admissible constructions determine what counts as an entity, a distinction,
-and a law. On $τ^3$, **relations precede relata**—objects are stabilized patterns
+τ whose admissible constructions determine what counts as an entity, a distinction,
+and a law. On τ³, **relations precede relata**—objects are stabilized patterns
 in relational organization. Modality becomes constraint satisfaction, causation becomes
 constrained composition, and identity becomes persistence of invariants through change.
 Parts compose wholes when colimits exist; abstract objects are positions in structures—
 mathematical structuralism dissolves the platonism-nominalism debate.
 The 2nd Edition adds the **inevitability argument** (six ontic requirements that
-converge uniquely to $τ$), the **metaphysical problem map** ($\sim$17 classical
+converge uniquely to τ), the **metaphysical problem map** (∼17 classical
 problems classified as resolved, reframed, or open), a **three-layer resolution of
 solipsism**, **non-dualistic Platonism** (single ontology with epistemic stratification),
-and **$ω$-uniqueness** ("there can be only one").
+and **ω-uniqueness** ("there can be only one").
 This is the deepest rewrite among the retained Parts: every chapter is updated for the
-$τ$-kernel vocabulary earned in the 2nd Edition.
+τ-kernel vocabulary earned in the 2nd Edition.
 
 ## Chapters
 

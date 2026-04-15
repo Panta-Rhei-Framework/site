@@ -41,9 +41,9 @@ right_rail:
 The three generations of fermions 
 differ by mass—and the mass ratios are not random.
 The Koide formula, an unexplained empirical regularity of the Standard
-Model, states that $(m_e + m_μ + m_τ)/(m_e + m_μ
-+ m_τ)^2 = 2/3$ to remarkable precision.
+Model, states that (m_e + m_μ + m_τ)/(m_e + m_μ
++ m_τ)^2 = 2/3 to remarkable precision.
 This chapter derives the Koide relation from character mode structure
-on $𝕃 = S^1 ∨ S^1$, develops the quark mass hierarchies
-from $ι_τ$ scaling, and connects CKM and PMNS mixing to the
-geometry of generation overlap on $T^2$.
+on 𝕃 = S¹ ∨ S¹, develops the quark mass hierarchies
+from ι_τ scaling, and connects CKM and PMNS mixing to the
+geometry of generation overlap on T².

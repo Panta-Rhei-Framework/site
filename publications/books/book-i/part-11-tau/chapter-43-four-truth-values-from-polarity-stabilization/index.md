@@ -40,27 +40,27 @@ right_rail:
 
 The spectral decomposition of the relevant chapter
 (the relevant theorem, I.T12)
-splits every element of the algebraic lemniscate $𝕃$
-into $B$-sector and $C$-sector components
-via the characters $χ_+$ and $χ_-$
+splits every element of the algebraic lemniscate 𝕃
+into B-sector and C-sector components
+via the characters χ_+ and χ_-
 (the relevant definition, I.D37).
 This chapter harvests a *logic* from that decomposition.
-Given a predicate $P$ on the $τ$-index,
+Given a predicate P on the τ-index,
 the two spectral sectors can independently
-*confirm* or *deny* $P$.
+*confirm* or *deny* P.
 Four combinations arise:
-both confirm ($T$, true),
-both deny ($F$, false),
-one confirms and the other denies incompatibly ($B$, both — overdetermined),
-neither is decisive ($N$, neither — underdetermined).
+both confirm (T, true),
+both deny (F, false),
+one confirms and the other denies incompatibly (B, both — overdetermined),
+neither is decisive (N, neither — underdetermined).
 These four truth values form a diamond lattice
-$T > B, N > F$,
+T > B, N > F,
 with conjunction as meet, disjunction as join,
-and the polarity swap $σ$ as negation
-($T ↔ F$,
-$B ↔ N$).
+and the polarity swap σ as negation
+(T ↔ F,
+B ↔ N).
 The resulting logic, Truth4,
 is *earned* from the bipolar structure,
 not axiomatized.
-Truth4 will serve as the subobject classifier $Ω_τ$
+Truth4 will serve as the subobject classifier Ω_τ
 in the earned topos of Part XIII.

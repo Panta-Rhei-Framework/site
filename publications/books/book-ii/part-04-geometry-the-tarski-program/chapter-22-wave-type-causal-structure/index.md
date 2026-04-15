@@ -41,26 +41,26 @@ right_rail:
 Chapters –
 earned Euclidean geometry as a theorem:
 betweenness, congruence, Pasch, and the parallel postulate
-all follow from the ultrametric structure of $τ^3$.
+all follow from the ultrametric structure of τ³.
 But Euclidean geometry is **static**—it
 has no notion of propagation, no preferred direction,
 no causal order.
 This chapter adds dynamics.
-The split-complex unit $\jj$ with $\jj^2 = +1$
-(I.T10, Book I) gives the codomain $H_τ$
+The split-complex unit j with j² = +1
+(I.T10, Book I) gives the codomain H_τ
 a hyperbolic algebraic structure.
 The split-complex Cauchy–Riemann equations
 yield the **wave equation**
-$∂^2 f / ∂ x^2 - ∂^2 f / ∂ y^2 = 0$,
+∂^2 f / ∂ x² - ∂^2 f / ∂ y² = 0,
 not the Laplace equation.
 This is hyperbolic, not elliptic:
 it has characteristic curves (null lines)
-that define a **causal structure** on $τ^3$.
+that define a **causal structure** on τ³.
 The B/C asymmetry from prime polarity
 provides a preferred propagation direction.
 Euclidean geometry reappears as the **static limit**:
 when wave-type coupling vanishes,
 the wave equation degenerates to Laplace,
 and the causal structure disappears.
-The forced $1 + 3$ split of the relevant chapter
+The forced 1 + 3 split of the relevant chapter
 is the algebraic seed of spacetime.

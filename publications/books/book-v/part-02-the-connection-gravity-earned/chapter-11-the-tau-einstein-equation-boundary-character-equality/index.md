@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-02-the-connection-gravity-ear
 prev_chapter_title: "Chapter 10: Lorentz Without Minkowski: Constraint Geometry"
 next_chapter_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-12-linear-tau-einstein-weak-field-regime-and-classical-tests/"
 next_chapter_title: "Chapter 12: Linear τ-Einstein: Weak-Field Regime and Classical Tests"
-summary_short: "The $τ$-Einstein equation is the central equation of $τ$-gravity. It is *not* a nonlinear partial differential equation on a background manifold. It is a…"
+summary_short: "The τ-Einstein equation is the central equation of τ-gravity. It is *not* a nonlinear partial differential equation on a background manifold. It is a…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/"
@@ -38,29 +38,27 @@ right_rail:
 ---
 
 
-The $τ$-Einstein equation
-is the central equation of $τ$-gravity.
+The τ-Einstein equation
+is the central equation of τ-gravity.
 It is *not* a nonlinear partial differential equation
 on a background manifold.
 It is a boundary-character identity
-in the holonomy algebra $H_∂[ω]$:
-$$
- R^H = κ_τ · T^{mat}
-$$
-stating that the curvature character $R^H$
-equals the gravitational coupling $κ_τ$
-times the matter character $T^{mat}$.
-Both sides are $ω$-germs—elements
+in the holonomy algebra H_∂[ω]:
+<div class="math-display">R^H = κ_τ · T^mat</div>
+stating that the curvature character R^H
+equals the gravitational coupling κ_τ
+times the matter character T^mat.
+Both sides are ω-germs—elements
 of the boundary algebra—and
 their equality is an algebraic identity,
 not a differential equation.
 The orthodox Einstein field equations einstein1915field,einstein1916foundation
-$G_{μν} = (8π G/c^4) T_{μν}$
+G_{μν} = (8π G/c⁴) T_{μν}
 are recovered as the chart shadow
 of this boundary identity
 under the local readout functors
 of the relevant chapter.
-Conservation ($∇ · T = 0$)
+Conservation (∇ · T = 0)
 is a corollary, not an extra axiom.
 Backreaction is automatic.
 Well-posedness follows from the Hartogs principle:

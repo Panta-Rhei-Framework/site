@@ -46,12 +46,12 @@ flowing uniformly "without relation to anything external."
 General relativity replaces this with proper time —
 arc length along a worldline in a Lorentzian manifold —
 but the manifold itself is still postulated as external input.
-Category $τ$ derives time from structure.
+Category τ derives time from structure.
 
 In Book IV, proto-time was defined
-as the $ρ$-iteration depth along the refinement tower
+as the ρ-iteration depth along the refinement tower
 (IV.D05):
-the natural number $t_p(α_n) = n$.
+the natural number t_p(α_n) = n.
 Proto-time is discrete, absolute, and structural —
 but it is not yet physical time.
 Physical time requires a metric:
@@ -60,32 +60,32 @@ to compare "how long" one process takes
 relative to another.
 This chapter bridges the gap.
 
-The base circle $τ^1$
-— the projection of $τ^3$ onto its
-$\{α, π\}$ component —
+The base circle τ¹
+— the projection of τ³ onto its
+{α, π} component —
 carries a natural metric structure
 inherited from the profinite topology.
 **Proper time** is geodesic arc length
-along $τ^1$
+along τ¹
 (the relevant definition, V.D14).
-Each step of the $α$-orbit —
-each application of $ρ$ —
-is one **$α$-tick**
+Each step of the α-orbit —
+each application of ρ —
+is one **α-tick**
 (the relevant definition, V.D13),
-and the accumulated arc length up to tick $n$
-is the physical time $t(n)$.
+and the accumulated arc length up to tick n
+is the physical time t(n).
 
 The **arrow of time**
-is the generative direction of the $α$-orbit
+is the generative direction of the α-orbit
 (Proposition [prop:ch04-arrow-orbit], V.P03) —
 not a thermodynamic accident
 but a structural feature of the kernel axioms.
 **Causality** is orbit ordering
 (the relevant theorem, V.T07):
-if $α_m$ precedes $α_n$ in the refinement tower,
-then event $m$ causally precedes event $n$.
+if α_m precedes α_n in the refinement tower,
+then event m causally precedes event n.
 And physical time is **bounded**
 (the relevant theorem, V.T08):
 the base circle is compact,
 the universe has finite temporal extent
-from $α_a$ (beginning) to $α_o$ (end).
+from α_a (beginning) to α_o (end).

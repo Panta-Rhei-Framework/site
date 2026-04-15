@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-08-where-physics-lives/chap
 prev_chapter_title: "Chapter 55: E₁"
 next_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter-57-the-computation-layer/"
 next_chapter_title: "Chapter 57: The Computation Layer"
-summary_short: "The canonical force mapping established in Chapter 10 assigns each of the four primitive forces to a generator and a sector: $A = π$ (weak), $B = γ$ (EM), $C =…"
+summary_short: "The canonical force mapping established in Chapter 10 assigns each of the four primitive forces to a generator and a sector: A = π (weak), B = γ (EM), C =…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-08-where-physics-lives/"
@@ -41,21 +41,21 @@ right_rail:
 The canonical force mapping established in Chapter 10
 assigns each of the four primitive forces
 to a generator and a sector:
-$A = π$ (weak), $B = γ$ (EM),
-$C = η$ (strong), $D = α$ (gravity).
+A = π (weak), B = γ (EM),
+C = η (strong), D = α (gravity).
 This chapter observes that the assignment is not arbitrary:
-the generators that build the base $τ^1$
-are the generators whose $E_1$ incarnations
+the generators that build the base τ¹
+are the generators whose E₁ incarnations
 are the *temporal* forces (gravity and weak),
-while the generators that span the fiber $T^2$
-are those whose $E_1$ incarnations
+while the generators that span the fiber T²
+are those whose E₁ incarnations
 are the *spatial* forces (EM, strong, Higgs).
 Section 1 establishes the generator-carrier correspondence
-as a $τ$-effective structural fact.
+as a τ-effective structural fact.
 Section 2 identifies the temporal pair;
 Section 3, the spatial triad.
 Section 4 reinterprets the electroweak coupling
-$κ(A,B)$ as the mechanism that makes
+κ(A,B) as the mechanism that makes
 light cones globally consistent.
 Section 5 presents the complete coupling table
 through the temporal-spatial lens.

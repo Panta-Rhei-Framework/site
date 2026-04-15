@@ -45,50 +45,50 @@ the vacuum metric surrounding
 a spherically symmetric,
 non-rotating mass.
 The solution contains
-$R_S = 2GM/c^2$ as its single parameter—the
+R_S = 2GM/c² as its single parameter—the
 Schwarzschild radius—and
-predicts an event horizon at $r = R_S$,
+predicts an event horizon at r = R_S,
 a coordinate singularity at the horizon,
-and a curvature singularity at $r = 0$.
+and a curvature singularity at r = 0.
 A century of work has clarified
 the coordinate singularity
 (removable by Kruskal–Szekeres coordinates)
 but not the curvature singularity
 (still present, still physically absurd).
 
-This chapter derives the $τ$-native Schwarzschild relation
+This chapter derives the τ-native Schwarzschild relation
 as a *readout* of the stabilized torus vacuum.
 The starting point is not
 a PDE on a manifold
-but the torus vacuum geometry of $τ^3$:
-the fibered product $τ^1 ×_f T^2$,
-when the $D$-sector saturates,
+but the torus vacuum geometry of τ³:
+the fibered product τ¹ ×_f T²,
+when the D-sector saturates,
 settles into a stabilized torus
-with shape ratio $r/R = ι_τ$
-(\S).
-The gravitational constant $G_τ$
+with shape ratio r/R = ι_τ
+(§).
+The gravitational constant G_τ
 emerges as the coherence conversion invariant
 relating the radius index
 to the mass index
-(\S).
+(§).
 The orthodox Schwarzschild metric
 is recovered as a sphere-proxy corollary:
-the chart readout $Φ_p$
+the chart readout Φ_p
 projects the torus-shaped boundary character
 onto a spherically symmetric metric
-(\S).
+(§).
 No singularity forms
-(\S),
+(§),
 and the stabilized torus relaxes
 through two channels:
 geometric (shape normalization)
 and topological (handle settling)
-(\S).
+(§).
 The chapter concludes
 with the full Schwarzschild relation
-$R_S = 2 G_τ M$
+R_S = 2 G_τ M
 and the No-Shrink forward reference
-(\S).
+(§).
 
 **Lean reference.**
 The structures and theorems

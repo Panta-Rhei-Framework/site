@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bri
 prev_chapter_title: "Chapter 55: τ-Manifold Structure from Holomorphic Atlas"
 next_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-57-bsd-bridge-proto-rationality-in-split-complex-regime/"
 next_chapter_title: "Chapter 57: BSD Bridge: Proto-Rationality in Split-Complex Regime"
-summary_short: "Book II has earned interior holomorphy: the $τ$-manifold structure (the relevant definition, II.D63), the holomorphic atlas (Definition…"
+summary_short: "Book II has earned interior holomorphy: the τ-manifold structure (the relevant definition, II.D63), the holomorphic atlas (Definition…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
@@ -39,13 +39,13 @@ right_rail:
 
 
 Book II has earned interior holomorphy:
-the $τ$-manifold structure
+the τ-manifold structure
 (the relevant definition, II.D63),
 the holomorphic atlas
 (the relevant definition, II.D64),
 the Central Theorem
-$O(τ^3) ≅ A_{spec}(\Lemniscate)$ (II.T40),
-and the categoricity of $τ^3$ (II.T42).
+O(τ³) ≅ A_spec(𝕃) (II.T40),
+and the categoricity of τ³ (II.T42).
 Book III must now earn **differential geometry**:
 connections, curvature, cohomology, metrics, and Hodge theory—the
 infrastructure that carries physics
@@ -54,13 +54,13 @@ This chapter is a **preview**:
 it declares what Book III must accomplish
 without proving anything.
 We inventory what Book III inherits ,
-then present four previews—$τ$-connections
+then present four previews—τ-connections
 ,
-$τ$-sheaf cohomology
+τ-sheaf cohomology
 ,
-$τ$-metric geometry
+τ-metric geometry
 ,
-and $τ$-Hodge theory
+and τ-Hodge theory
 —and
 close with the enrichment ladder
 that organizes the full seven-book programme

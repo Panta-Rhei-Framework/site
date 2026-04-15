@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chap
 prev_chapter_title: "Chapter 40: Characters on the Algebraic Lemniscate"
 next_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chapter-42-the-crossing-point-and-bipolar-fourier-analysis/"
 next_chapter_title: "Chapter 42: The Crossing Point and Bipolar Fourier Analysis"
-summary_short: "the relevant chapter introduced the lemniscate characters $χ_+$ and $χ_-$ (the relevant definition, I.D37) as ring homomorphisms…"
+summary_short: "the relevant chapter introduced the lemniscate characters χ_+ and χ_- (the relevant definition, I.D37) as ring homomorphisms…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-10-lemniscate-characters/"
@@ -39,20 +39,20 @@ right_rail:
 
 
 the relevant chapter introduced the lemniscate characters
-$χ_+$ and $χ_-$
+χ_+ and χ_-
 (the relevant definition, I.D37)
-as ring homomorphisms from the algebraic lemniscate $𝕃$
-into the split-complex scalars $\hatℤ_τ[j]$.
+as ring homomorphisms from the algebraic lemniscate 𝕃
+into the split-complex scalars ℤ_τ[j].
 This chapter proves the **spectral decomposition theorem**:
-every element of $𝕃$ decomposes uniquely
-into $B$-sector and $C$-sector components
+every element of 𝕃 decomposes uniquely
+into B-sector and C-sector components
 via these characters.
-The decomposition $x = χ_+(x) · e_+ + χ_-(x) · e_-$
+The decomposition x = χ_+(x) · e_+ + χ_-(x) · e_-
 is canonical —
 it requires no choice of basis, no approximation,
 and no topology.
-The master constant $ι_τ = 2/(π + e)$
+The master constant ι_τ = 2/(π + e)
 governs the relative spectral weight of the two sectors,
-and the profinite topology on $\hatℤ_τ$
+and the profinite topology on ℤ_τ
 provides the convergence framework
 for spectral sums.

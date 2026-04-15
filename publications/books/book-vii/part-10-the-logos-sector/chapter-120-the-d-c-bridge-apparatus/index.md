@@ -45,7 +45,7 @@ diagrammatic register certifies what can be proved. The fourth register
 to live as true. The gap between knowing and committing is not a
 failure of logic but a structural feature of the register architecture.
 This chapter constructs the formal bridge functor
-$B_{D → C} \colon S_D → S_C$ from diagrammatic content to
+B_{D → C} : S_D → S_C from diagrammatic content to
 commitment-eligible content, proves that the bridge is faithful
-precisely when restricted to the Logos sector $S_L$, and establishes
-that register identity is preserved everywhere outside $S_L$.
+precisely when restricted to the Logos sector S_L, and establishes
+that register identity is preserved everywhere outside S_L.

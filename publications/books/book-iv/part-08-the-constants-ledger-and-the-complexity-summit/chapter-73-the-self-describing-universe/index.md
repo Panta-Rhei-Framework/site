@@ -44,7 +44,7 @@ This final chapter asks: what has been accomplished?
 The answer is not merely a list of results
 but a single organizing insight:
 **the universe describes itself**.
-The fiber $T^2$ of $τ^3 = τ^1 ×_f T^2$
+The fiber T² of τ³ = τ¹ ×_f T²
 contains all of particle physics, quantum mechanics,
 and chemistry—not as postulates
 but as structural consequences of a self-enriched

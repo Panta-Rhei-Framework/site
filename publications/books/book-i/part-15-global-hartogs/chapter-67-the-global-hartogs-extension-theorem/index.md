@@ -45,9 +45,9 @@ for the result proved in this chapter.
 
 The **Global Hartogs Extension Theorem**
 (the relevant theorem, I.T31):
-if $f$ is $τ$-holomorphic on $𝕃 \setminus K$
-with $K$ primordially thin,
-then $f$ extends uniquely to all of $𝕃$.
+if f is τ-holomorphic on 𝕃 ∖ K
+with K primordially thin,
+then f extends uniquely to all of 𝕃.
 No boundedness assumption.
 Thinness alone suffices.
 
@@ -60,11 +60,11 @@ CRT reconstruction fills the gaps
 tower coherence
 (the relevant definition, I.D46)
 guarantees global consistency;
-the $τ$-Identity Theorem
+the τ-Identity Theorem
 (the relevant theorem, I.T21)
 delivers uniqueness.
-Omega-tail data on $𝕃$
+Omega-tail data on 𝕃
 determines all finite-stage values —
 the canonical passage to Book II,
-where $O(τ^3) ≅ A_{spec}(𝕃)$
+where O(τ³) ≅ A_spec(𝕃)
 gives this algebraic principle its geometric form.

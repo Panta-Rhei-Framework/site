@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-t
 prev_chapter_title: "Chapter 4: τ"
 next_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-06-the-tau-fibration-emerges/"
 next_chapter_title: "Chapter 6: The τ³ Fibration Emerges"
-summary_short: "Book I's ABCD chart handles $ω$ as a degenerate case: the point at infinity lies outside the scope of the four-coordinate readout $Φ(X) = (A, B, C, D)$,…"
+summary_short: "Book I's ABCD chart handles ω as a degenerate case: the point at infinity lies outside the scope of the four-coordinate readout Φ(X) = (A, B, C, D),…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/"
@@ -38,23 +38,23 @@ right_rail:
 ---
 
 
-Book I's ABCD chart handles $ω$ as a degenerate case:
+Book I's ABCD chart handles ω as a degenerate case:
 the point at infinity lies outside the scope of the
-four-coordinate readout $Φ(X) = (A, B, C, D)$,
+four-coordinate readout Φ(X) = (A, B, C, D),
 because its coordinates diverge.
-This chapter gives $ω$ a meaningful coordinate readout
+This chapter gives ω a meaningful coordinate readout
 by computing the limit of ABCD readouts
-along the primorial tower $P_1, P_2, P_3, …$
-as $n → ∞$.
+along the primorial tower P₁, P₂, P₃, …
+as n → ∞.
 The result is a sharp dichotomy:
-in base coordinates $(D, A)$, the omega readout
-collapses to a single point $(Ω, Ω)$;
-in fiber coordinates $(B, C)$, the omega readout
+in base coordinates (D, A), the omega readout
+collapses to a single point (Ω, Ω);
+in fiber coordinates (B, C), the omega readout
 has one-dimensional structure —
-the algebraic lemniscate $𝕃$.
+the algebraic lemniscate 𝕃.
 The lemniscate is not imported;
 it *is* the fiber readout of the point at infinity.
 This is the precise mechanism by which
-the fibered product $τ^3 = τ^1 ×_f T^2$ manifests:
-the fiber $T^2$ degenerates to $𝕃$
-at the boundary point $ω$.
+the fibered product τ³ = τ¹ ×_f T² manifests:
+the fiber T² degenerates to 𝕃
+at the boundary point ω.

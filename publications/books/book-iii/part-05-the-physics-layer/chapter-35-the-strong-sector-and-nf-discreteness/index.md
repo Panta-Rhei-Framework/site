@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapte
 prev_chapter_title: "Chapter 34: Positive Regularity"
 next_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapter-36-the-tau/"
 next_chapter_title: "Chapter 36: The τ"
-summary_short: "This chapter opens the Yang–Mills block (Chapters 38–40) by isolating the *strong sector*—the C-sector from the $4+1$ decomposition (Definition…"
+summary_short: "This chapter opens the Yang–Mills block (Chapters 38–40) by isolating the *strong sector*—the C-sector from the 4+1 decomposition (Definition…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-05-the-physics-layer/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-This chapter opens the Yang–Mills block (Chapters 38–40) by isolating the *strong sector*—the C-sector from the $4+1$ decomposition (the relevant definition, Ch. 10), instantiated at enrichment level $E_1$. The strong sector is governed by the generator $η$ and carries the $χ_-$-dominant spectral content that will underpin the mass-gap argument. We prove the NF Discreteness Lemma: the normal-form tower $ℤ/Prim(k)ℤ$ admits at most $Prim(k)$ distinct configurations in the C-sector at each depth $k$, a granularity that is not imposed but *earned* from K3 divisibility. We then define $τ$-admissible gauge data—the Yang–Mills analog of $τ$-admissible fluid data (the relevant definition, Ch. 34)—and preview how discreteness forbids the gap from closing.
+This chapter opens the Yang–Mills block (Chapters 38–40) by isolating the *strong sector*—the C-sector from the 4+1 decomposition (the relevant definition, Ch. 10), instantiated at enrichment level E₁. The strong sector is governed by the generator η and carries the χ_--dominant spectral content that will underpin the mass-gap argument. We prove the NF Discreteness Lemma: the normal-form tower ℤ/Prim(k)ℤ admits at most Prim(k) distinct configurations in the C-sector at each depth k, a granularity that is not imposed but *earned* from K3 divisibility. We then define τ-admissible gauge data—the Yang–Mills analog of τ-admissible fluid data (the relevant definition, Ch. 34)—and preview how discreteness forbids the gap from closing.

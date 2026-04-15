@@ -42,7 +42,7 @@ Aesthetic experience precedes symbolic representation. The kernel's
 structure is felt before it is articulated: infants track symmetry,
 animals respond to rhythmic regularity, and humans register consonance
 and balance prior to any explicit description. This chapter opens the
-diagrammatic sector $S_D$ by establishing that pattern recognition is
+diagrammatic sector S_D by establishing that pattern recognition is
 more fundamental than proof—the diagrammatic register begins with
 resonance, not with logic. Pre-symbolic resonance is formalized as
 the transportability of a motif under admissible transformations:

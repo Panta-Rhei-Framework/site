@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-c
 prev_chapter_title: "Chapter 50: Extensions Are ω-Germ Transformers"
 next_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/chapter-52-the-central-theorem/"
 next_chapter_title: "Chapter 52: The Central Theorem"
-summary_short: "Part VIII proved the Yoneda embedding as a **theorem** (II.T36, the relevant chapter): the functor $y \\colon τ \\hookrightarrow [τ^{op}, τ]$ is fully…"
+summary_short: "Part VIII proved the Yoneda embedding as a **theorem** (II.T36, the relevant chapter): the functor y : τ ↪ [τ^op, τ] is fully…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/"
@@ -40,39 +40,39 @@ right_rail:
 
 Part VIII proved the Yoneda embedding as a **theorem**
 (II.T36, the relevant chapter):
-the functor $y \colon τ \hookrightarrow [τ^{op}, τ]$
+the functor y : τ ↪ [τ^op, τ]
 is fully faithful.
 That was an abstract categorical fact,
 true of any enriched category satisfying the relevant
 representability conditions.
 This chapter **applies** the Yoneda theorem
-to the specific object $τ^3$
-and the specific Hom target $H_τ$,
+to the specific object τ³
+and the specific Hom target H_τ,
 proving the final link
 before the Central Theorem:
-$ω$-germ transformers **are**
-$τ$-holomorphic functions.
+ω-germ transformers **are**
+τ-holomorphic functions.
 The **Yoneda Application** (Lemma [lem:yoneda-application], II.L14)
-identifies elements of the internal Hom $[τ^3, H_τ]$
+identifies elements of the internal Hom [τ³, H_τ]
 with natural transformations
-$y(τ^3) → y(H_τ)$,
-and then with $ω$-germ transformers
+y(τ³) → y(H_τ),
+and then with ω-germ transformers
 via probe naturality (II.R12).
 The main result,
 **the relevant theorem (II.T39),
 establishes a canonical bijection
-between $ω$-germ transformers on $τ^3$
-and $τ$-holomorphic functions
-$τ^3 → H_τ$.
-The proof requires all the $τ$-specific infrastructure:
+between ω-germ transformers on τ³
+and τ-holomorphic functions
+τ³ → H_τ.
+The proof requires all the τ-specific infrastructure:
 bipolar idempotents, tower coherence,
 the Code/Decode bijection (II.T35),
 and the characterization theorem
-(II.T33: holomorphic $⇔$ idempotent-supported).
+(II.T33: holomorphic ⇔ idempotent-supported).
 The loop now closes:
 boundary characters
-$→$ Hartogs extensions
-$→$ $ω$-germ transformers
-$→$ holomorphic functions.
+→ Hartogs extensions
+→ ω-germ transformers
+→ holomorphic functions.
 the relevant chapter assembles
 the full Central Theorem from these four bijections.

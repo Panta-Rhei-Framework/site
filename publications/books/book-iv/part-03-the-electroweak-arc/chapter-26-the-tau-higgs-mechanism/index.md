@@ -40,7 +40,7 @@ right_rail:
 
 The 125 GeV resonance discovered at the LHC in 2012 is real. But
 what IS it? The Standard Model says: a fundamental scalar field that
-gives mass to everything. Category $τ$ says: a **collective
-excitation** of the $ω$-crossing ($γ∩η$) at the
+gives mass to everything. Category τ says: a **collective
+excitation** of the ω-crossing (γ∩η) at the
 lemniscate junction. Like a phonon in a crystal—real but not
 fundamental. No Mexican hat potential is needed. Mass is geometric.

@@ -10,7 +10,7 @@ part_number: 5
 part_display: "Part V"
 part_slug: "part-05-categorical-language-meaning"
 chapter_count: 12
-summary_short: "**Sector $S_D$ (Diagrammatic), Part 2 of 3.** How does meaning arise? Language adds **temporalization and mortality awareness**— the subsymbolic is real and…"
+summary_short: "**Sector S_D (Diagrammatic), Part 2 of 3.** How does meaning arise? Language adds **temporalization and mortality awareness**— the subsymbolic is real and…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-**Sector $S_D$ (Diagrammatic), Part 2 of 3.**
+**Sector S_D (Diagrammatic), Part 2 of 3.**
 How does meaning arise? Language adds **temporalization and mortality awareness**—
 the subsymbolic is real and primary. Syntax and semantics collapse into one; reference
 is indexical pointing; pragmatics is update calculus. Translation preserves structure;

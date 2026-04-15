@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/cha
 prev_chapter_title: "Chapter 17: The Structure τ: Signature, Axioms, Rigidity"
 next_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-19-worlds-topos-and-truth-makers/"
 next_chapter_title: "Chapter 19: Worlds, Topos, and Truth-Makers"
-summary_short: "What does it mean to exist inside $τ$? This chapter introduces the distinction between internal and external constructions, formulates NF-addressability as the…"
+summary_short: "What does it mean to exist inside τ? This chapter introduces the distinction between internal and external constructions, formulates NF-addressability as the…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-02-categorical-ontology/"
@@ -38,12 +38,12 @@ right_rail:
 ---
 
 
-What does it mean to exist inside $τ$? This chapter introduces the
+What does it mean to exist inside τ? This chapter introduces the
 distinction between internal and external constructions, formulates
 NF-addressability as the criterion for ontic standing, and deploys the
 ZFC-as-VM thesis from Book III: orthodox set theory functions as a
-virtual machine running on $τ$-hardware. The resulting
+virtual machine running on τ-hardware. The resulting
 ontic/virtual distinction dissolves most metaphysical puzzles about
 mathematical existence. Unbounded constructions—actual infinities,
 proper classes, uncomputable objects—are virtual: useful for
-reasoning but not part of $τ$'s internal ontology.
+reasoning but not part of τ's internal ontology.

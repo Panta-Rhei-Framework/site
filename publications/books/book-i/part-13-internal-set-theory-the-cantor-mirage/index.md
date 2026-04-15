@@ -10,7 +10,7 @@ part_number: 13
 part_display: "Part XIII"
 part_slug: "part-13-internal-set-theory-the-cantor-mirage"
 chapter_count: 8
-summary_short: "Parts IV–VII built the ABCD coordinate chart, proved the two hinge theorems (Hyperfactorization and Prime Polarity), and earned the algebraic lemniscate $𝕃$.…"
+summary_short: "Parts IV–VII built the ABCD coordinate chart, proved the two hinge theorems (Hyperfactorization and Prime Polarity), and earned the algebraic lemniscate 𝕃.…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -33,14 +33,14 @@ right_rail:
 Parts IV–VII built the ABCD coordinate chart,
 proved the two hinge theorems
 (Hyperfactorization and Prime Polarity),
-and earned the algebraic lemniscate $𝕃$.
+and earned the algebraic lemniscate 𝕃.
 Along the way, Part IV introduced
-internal divisibility and primes on $τ$-Idx
+internal divisibility and primes on τ-Idx
 .
 
 This Part takes a single, decisive step:
 it interprets divisibility as *membership*.
-The move $A ∈_τ B \iff A \mid B$
+The move A ∈_τ B ⇔ A ∣ B
 earns an entire internal set theory —
 complete with set-theoretic operations,
 a bounded powerset,
@@ -49,8 +49,8 @@ without importing a single ZFC axiom.
 
 In most foundations, sets are primitive
 and arithmetic is derived.
-In $τ$, the order is reversed:
-arithmetic is earned from $ρ$
+In τ, the order is reversed:
+arithmetic is earned from ρ
 (Parts I–III),
 and sets are derived from arithmetic.
 This inversion is not a curiosity
@@ -64,7 +64,7 @@ and countability of its arithmetic substrate.
 The Part concludes with *The Cantor Mirage*:
 three chapters that confront the diagonal argument
 head-on.
-The $τ$-framework's countability
+The τ-framework's countability
 is not a limitation to be overcome
 but a *feature to be celebrated*.
 Cantor's diagonal assumes unrestricted self-reference

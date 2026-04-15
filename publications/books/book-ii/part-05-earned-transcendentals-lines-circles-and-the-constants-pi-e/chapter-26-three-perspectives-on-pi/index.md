@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 25: Circles from Solenoidal Structure"
 next_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-27-e-earned-the-self-reproducing-growth-base/"
 next_chapter_title: "Chapter 27: e Earned — The Self-Reproducing Growth Base"
-summary_short: "Chapters  and  earned lines and circles from the primorial tower: $ℝ$ as the Archimedean shadow of the radial…"
+summary_short: "Chapters  and  earned lines and circles from the primorial tower: ℝ as the Archimedean shadow of the radial…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -42,38 +42,38 @@ Chapters
 and 
 earned lines and circles
 from the primorial tower:
-$ℝ$ as the Archimedean shadow
-of the radial $α$-ray (II.T20),
-and $S^1$ as the Archimedean shadow
+ℝ as the Archimedean shadow
+of the radial α-ray (II.T20),
+and S¹ as the Archimedean shadow
 of the solenoidal circle (II.T21).
 Both objects are now available
-within Category $τ$—as limit objects,
+within Category τ—as limit objects,
 not as imported continua.
 This chapter earns the first transcendental constant:
-**$π = 3.14159…$**.
-Three independent constructions produce $π$,
+**π = 3.14159…**.
+Three independent constructions produce π,
 and their agreement is a **theorem**
 (the relevant theorem, II.T22):
 enumerate
- \item[(T)]
- **Topological $π$**:
- the half-period of the lemniscate $𝕃$
+ -[(T)]
+ **Topological π**:
+ the half-period of the lemniscate 𝕃
  (I.T05, Book I),
  inherited from Prime Polarity's
  bipolar structure.
- \item[(G)]
- **Geometric $π$**:
+ -[(G)]
+ **Geometric π**:
  the circumference-to-diameter ratio
- of the earned circle $S^1$,
+ of the earned circle S¹,
  computed via the Archimedes polygon sequence
  (the relevant definition, II.D29).
- \item[(S)]
- **Spectral $π$**:
+ -[(S)]
+ **Spectral π**:
  the spectral radius
  of the solenoidal B-channel
  (I.D19, Book I),
  computed from character values
  on the boundary ring.
 enumerate
-All three yield the same number $3.14159…$,
-confirming that $τ$'s $π$ is the classical $π$.
+All three yield the same number 3.14159…,
+confirming that τ's π is the classical π.

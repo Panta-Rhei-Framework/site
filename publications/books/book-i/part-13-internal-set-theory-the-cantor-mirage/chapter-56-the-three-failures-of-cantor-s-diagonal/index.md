@@ -49,19 +49,19 @@ within ZFC set theory, irrefutable.
 
 This chapter presents Cantor's proof step by step,
 then identifies *precisely where* it fails
-in Category $τ$.
+in Category τ.
 Not because the proof is logically flawed,
 but because it relies on three pieces of infrastructure
-that $τ$ refuses to grant.
+that τ refuses to grant.
 Each failure is sharp and structural:
 (1) the diagonal digit-extraction requires
 a uniform oracle that constructive reals do not provide;
 (2) the comprehension step that forms
 "the real not in the list" has no analogue
-in $τ$'s bounded powerset;
-(3) the self-pairing map $n ↦ (n,n)$
+in τ's bounded powerset;
+(3) the self-pairing map n ↦ (n,n)
 violates the diagonal discipline.
 The conjunction of all three failures
 yields the **Cantor Diagonal Inapplicability Theorem**:
 no form of the diagonal argument can produce
-an uncountable object within $τ$.
+an uncountable object within τ.

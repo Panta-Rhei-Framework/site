@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-02-persistence-archaea-and-t
 prev_chapter_title: "Chapter 14: Thermodynamic Necessity and the Origin of Life"
 next_chapter_url: "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-16-homochirality-the-parity-bridge-made-visible/"
 next_chapter_title: "Chapter 16: Homochirality: The Parity Bridge Made Visible"
-summary_short: "Circadian rhythms are Poincaré orbits on the temporal circle of $τ^1$. The 24-hour cycle is modeled as a temporal lemniscate with two lobes (activity and…"
+summary_short: "Circadian rhythms are Poincaré orbits on the temporal circle of τ¹. The 24-hour cycle is modeled as a temporal lemniscate with two lobes (activity and…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Circadian rhythms are Poincar\'e orbits on the temporal circle of $τ^1$. The 24-hour cycle is modeled as a temporal lemniscate with two lobes (activity and rest), and the circadian clock is a limit cycle on the persistence sector's temporal circle. Ultradian and infradian rhythms appear as harmonics and subharmonics of this fundamental temporal orbit.
+Circadian rhythms are Poincar\'e orbits on the temporal circle of τ¹. The 24-hour cycle is modeled as a temporal lemniscate with two lobes (activity and rest), and the circadian clock is a limit cycle on the persistence sector's temporal circle. Ultradian and infradian rhythms appear as harmonics and subharmonics of this fundamental temporal orbit.

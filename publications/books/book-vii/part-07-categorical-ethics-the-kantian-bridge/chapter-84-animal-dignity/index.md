@@ -42,7 +42,7 @@ If dignity is structural, it cannot be confined to a single species.
 This chapter extends the framework of
 the relevant chapter beyond humans by identifying the
 structural threshold for moral standing: any carrier with
-$τ$-distinction — a well-defined NF address and non-trivial
+τ-distinction — a well-defined NF address and non-trivial
 identity-invariants — has dignity. Since many animals meet this
 threshold, species membership is not the relevant criterion. The
 chapter develops a graduated dignity scale: dignity has a minimum floor

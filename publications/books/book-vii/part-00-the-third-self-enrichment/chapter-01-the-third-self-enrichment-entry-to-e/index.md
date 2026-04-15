@@ -14,7 +14,7 @@ chapter_slug: "chapter-01-the-third-self-enrichment-entry-to-e"
 page_in_book: 3
 next_chapter_url: "/publications/books/book-vii/part-00-the-third-self-enrichment/chapter-02-map-of-book-vii/"
 next_chapter_title: "Chapter 2: Map of Book VII"
-summary_short: "Opens the terminal book. At $E_2$, a system carries and decodes its own code. At $E_3$, a system models the fact that it carries and decodes its own code. The…"
+summary_short: "Opens the terminal book. At E₂, a system carries and decodes its own code. At E₃, a system models the fact that it carries and decodes its own code. The…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-00-the-third-self-enrichment/"
@@ -36,4 +36,4 @@ right_rail:
 ---
 
 
-Opens the terminal book. At $E_2$, a system carries and decodes its own code. At $E_3$, a system models the fact that it carries and decodes its own code. The Prologue positions Book VII as the final enrichment layer and receives the six formal deliverables from Book VI.
+Opens the terminal book. At E₂, a system carries and decodes its own code. At E₃, a system models the fact that it carries and decodes its own code. The Prologue positions Book VII as the final enrichment layer and receives the six formal deliverables from Book VI.

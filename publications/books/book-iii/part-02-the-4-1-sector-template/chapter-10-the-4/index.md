@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 9: Boundary Functoriality (Langlands₀"
 next_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-11-the-yoneda-langlands-reflection/"
 next_chapter_title: "Chapter 11: The Yoneda-Langlands Reflection"
-summary_short: "Five generators. Four primitive sectors. One coupling sector. The ABCD decomposition from Book I assigns to each of the four primitive generators $α, π, γ, η$…"
+summary_short: "Five generators. Four primitive sectors. One coupling sector. The ABCD decomposition from Book I assigns to each of the four primitive generators α, π, γ, η…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -43,25 +43,25 @@ Four primitive sectors.
 One coupling sector.
 The ABCD decomposition from Book I assigns
 to each of the four primitive generators
-$α, π, γ, η$
-a dominant coordinate in the quadruple $Φ(x) = (A, B, C, D)$.
+α, π, γ, η
+a dominant coordinate in the quadruple Φ(x) = (A, B, C, D).
 Restricting this decomposition
-to the boundary character space $ℂhar(\Lemniscate)$
+to the boundary character space ℂhar(𝕃)
 yields four pairwise non-redundant sector projections—one
 per generator.
-The fifth generator $ω$ does not produce a fifth sector.
+The fifth generator ω does not produce a fifth sector.
 It mediates coupling between the existing four:
-the $ω$-coupling sector
+the ω-coupling sector
 consists of characters with non-trivial projection
-in both the $B$ and $C$ lobes simultaneously.
-The result is a $4+1$ decomposition, not a $5$-fold splitting.
+in both the B and C lobes simultaneously.
+The result is a 4+1 decomposition, not a 5-fold splitting.
 The decomposition is not postulated but *induced*
-by the Langlands$_0$ functor of the relevant chapter:
-the boundary-to-interior functor $Φ$
+by the Langlands_0 functor of the relevant chapter:
+the boundary-to-interior functor Φ
 maps the four primitive character families
 to four independent holomorphic sectors
 and the mixed characters to the coupling sector.
-At the first enrichment level $E_1$,
+At the first enrichment level E₁,
 the template acquires physical content—four
 fundamental interactions plus a mass mechanism—but
 no physical constants, no coupling values,

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definiti
 prev_chapter_title: "Chapter 9: G\"odel and Halting Avoidance"
 next_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-11-the-boundary-archetype-the-lemniscate/"
 next_chapter_title: "Chapter 11: The Boundary Archetype: The Lemniscate"
-summary_short: "The concept of *archetype* is given a precise categorical formalization. Starting from the internal presheaf universe $[τ^{op}, τ]$ and the Grothendieck…"
+summary_short: "The concept of *archetype* is given a precise categorical formalization. Starting from the internal presheaf universe [τ^op, τ] and the Grothendieck…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/"
@@ -40,14 +40,14 @@ right_rail:
 
 The concept of *archetype* is given a precise categorical
 formalization. Starting from the internal presheaf universe
-$[τ^{op}, τ]$ and the Grothendieck topology $J_τ$
-derived from the $τ^3$ cylinder basis, the closure operator $j$
-is constructed. A $j$-closed subobject is a presheaf stable under
-all $J_τ$-refinements. An archetype is defined as a *minimal*
+[τ^op, τ] and the Grothendieck topology J_τ
+derived from the τ³ cylinder basis, the closure operator j
+is constructed. A j-closed subobject is a presheaf stable under
+all J_τ-refinements. An archetype is defined as a *minimal*
 such subobject exhibiting a specified structural invariant—the
 smallest pattern closed under all admissible coverings. The Archetype
-Existence Theorem proves that the $j$-closure lattice has minimal
-elements, and the $j$-Closure Minimality Lemma establishes their
+Existence Theorem proves that the j-closure lattice has minimal
+elements, and the j-Closure Minimality Lemma establishes their
 uniqueness up to isomorphism. The Archetype Extractor Protocol
 provides a systematic method for identifying archetypal patterns
 from empirical or structural data.

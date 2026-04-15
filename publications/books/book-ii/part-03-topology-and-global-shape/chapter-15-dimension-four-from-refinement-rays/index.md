@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape
 prev_chapter_title: "Chapter 14: Topology as Invariant of Canonical Denotation"
 next_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape/chapter-16-boundary-minimality-and-angular-sectors/"
 next_chapter_title: "Chapter 16: Boundary Minimality and Angular Sectors"
-summary_short: "Classical covering dimension yields zero for $τ^3$ (every profinite space is totally disconnected). This chapter replaces covering dimension by…"
+summary_short: "Classical covering dimension yields zero for τ³ (every profinite space is totally disconnected). This chapter replaces covering dimension by…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-03-topology-and-global-shape/"
@@ -38,18 +38,18 @@ right_rail:
 ---
 
 
-Classical covering dimension yields zero for $τ^3$
+Classical covering dimension yields zero for τ³
 (every profinite space is totally disconnected).
 This chapter replaces covering dimension
-by **$τ$-dimension**:
+by **τ-dimension**:
 the minimal number of independent refinement rays
 whose joint cylinders separate all points.
 The four ABCD rays are independent
 (I.P08, Book I)
 and jointly complete
 (I.T04, Book I),
-giving $\dim_τ = 4$.
-The four dimensions split as $1 + 3$:
+giving dim_τ = 4.
+The four dimensions split as 1 + 3:
 one radial direction (D)
 and three solenoidal directions (A, B, C).
 The split is forced by the peel-off asymmetry

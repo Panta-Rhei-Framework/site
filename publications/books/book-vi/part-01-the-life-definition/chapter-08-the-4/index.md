@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapt
 prev_chapter_title: "Chapter 7: The Life Loop Class and Metabolic Geometry"
 next_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-09-the-seven-hallmarks-derived/"
 next_chapter_title: "Chapter 9: The Seven Hallmarks Derived"
-summary_short: "The $4+1$ sector template of Book III is instantiated at enrichment level $E_2$. The base-fiber geometry of $τ^3 = τ^1 ×_f T^2$ organizes the five Life…"
+summary_short: "The 4+1 sector template of Book III is instantiated at enrichment level E₂. The base-fiber geometry of τ³ = τ¹ ×_f T² organizes the five Life…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-01-the-life-definition/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The $4+1$ sector template of Book III is instantiated at enrichment level $E_2$. The base-fiber geometry of $τ^3 = τ^1 ×_f T^2$ organizes the five Life sectors: the base generators $(α, π)$ carry the worldline sectors—Persistence (temporal stability) and Agency (spatial motility)—while the fiber generators $(γ, η)$ carry the metabolic sectors—Source (structure production) and Closure (structure recycling). A unique mixed sector on the fiber pair $(γ, η)$, determined by the Consumer Mixer Uniqueness theorem of the relevant chapter, completes the template: the Consumer sector, which acquires structure and energy from other Life. Four primitive sectors plus one mixed sector generate the complete Life-layer structure. Generator Adequacy is proven and the structural exclusion of a fifth primitive sector is established. Biological archetypes—Archaea, Bacteria, Plants, Fungi, Animals—illustrate but do not define the sectors. Eukarya is not a sector; it is carrier technology.
+The 4+1 sector template of Book III is instantiated at enrichment level E₂. The base-fiber geometry of τ³ = τ¹ ×_f T² organizes the five Life sectors: the base generators (α, π) carry the worldline sectors—Persistence (temporal stability) and Agency (spatial motility)—while the fiber generators (γ, η) carry the metabolic sectors—Source (structure production) and Closure (structure recycling). A unique mixed sector on the fiber pair (γ, η), determined by the Consumer Mixer Uniqueness theorem of the relevant chapter, completes the template: the Consumer sector, which acquires structure and energy from other Life. Four primitive sectors plus one mixed sector generate the complete Life-layer structure. Generator Adequacy is proven and the structural exclusion of a fifth primitive sector is established. Biological archetypes—Archaea, Bacteria, Plants, Fungi, Animals—illustrate but do not define the sectors. Eukarya is not a sector; it is carrier technology.

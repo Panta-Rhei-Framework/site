@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-06-the-arithmetic-mirror/ch
 prev_chapter_title: "Chapter 48: The Tower Closes"
 next_chapter_url: "/publications/books/book-iii/part-07-the-hinge-theorem/chapter-50-the-hinge-theorem/"
 next_chapter_title: "Chapter 50: The Hinge Theorem"
-summary_short: "Sixty chapters converge into a single directed path. This chapter displays the *complete dependency chain* from the five generators $(α, π, γ, η, ω)$ to the…"
+summary_short: "Sixty chapters converge into a single directed path. This chapter displays the *complete dependency chain* from the five generators (α, π, γ, η, ω) to the…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-07-the-hinge-theorem/"
@@ -40,7 +40,7 @@ right_rail:
 
 Sixty chapters converge into a single directed path.
 This chapter displays the *complete dependency chain*
-from the five generators $(α, π, γ, η, ω)$
+from the five generators (α, π, γ, η, ω)
 to the Hinge Theorem of Chapter 61:
 fourteen links, each earned by a named theorem or definition,
 no link postulated.

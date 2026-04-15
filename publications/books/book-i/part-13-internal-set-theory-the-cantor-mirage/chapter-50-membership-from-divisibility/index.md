@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/c
 prev_chapter_title: "Chapter 49: The Identity Theorem"
 next_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-51-set-theoretic-operations/"
 next_chapter_title: "Chapter 51: Set-Theoretic Operations"
-summary_short: "Set theory typically begins with an undefined membership relation $∈$ governed by axioms. This chapter takes the opposite approach: membership is *defined* in…"
+summary_short: "Set theory typically begins with an undefined membership relation ∈ governed by axioms. This chapter takes the opposite approach: membership is *defined* in…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -39,15 +39,15 @@ right_rail:
 
 
 Set theory typically begins with an undefined
-membership relation $∈$ governed by axioms.
+membership relation ∈ governed by axioms.
 This chapter takes the opposite approach:
 membership is *defined*
 in terms of a relation already earned —
 internal divisibility
 .
-The definition $A ∈_τ B \iff A \mid B$
+The definition A ∈_τ B ⇔ A ∣ B
 is simple, but its consequences are far-reaching:
 membership becomes decidable,
-the "elements of $B$" are exactly the divisors of $B$,
+the "elements of B" are exactly the divisors of B,
 and every set-theoretic question reduces
-to an arithmetic computation on $τ$-Idx.
+to an arithmetic computation on τ-Idx.

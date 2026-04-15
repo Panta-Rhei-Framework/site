@@ -50,10 +50,10 @@ and strict remainder descent
 (Lemma [lem:remainder-descent],
 the relevant chapter).
 The theorem states that every
-$X ∈ τ-Idx$ with $X ≥ 2$
+X ∈ τ-Idx with X ≥ 2
 has a **unique** ABCD encoding.
 The consequence is immediate and profound:
-the ABCD chart $Φ$ is injective,
+the ABCD chart Φ is injective,
 shadow equality collapses to ontic identity,
-and every object of Category $τ$ has exactly one
+and every object of Category τ has exactly one
 canonical address.

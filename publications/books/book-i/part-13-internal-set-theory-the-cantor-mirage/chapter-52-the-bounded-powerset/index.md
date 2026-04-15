@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-ca
 prev_chapter_title: "Chapter 51: Set-Theoretic Operations"
 next_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-53-the-tau/"
 next_chapter_title: "Chapter 53: The τ"
-summary_short: "In ZFC, the power set $P(X)$ of a set $X$ is the collection of all subsets of $X$, and for infinite $X$ it is uncountable by Cantor's theorem. In $τ$-set…"
+summary_short: "In ZFC, the power set P(X) of a set X is the collection of all subsets of X, and for infinite X it is uncountable by Cantor's theorem. In τ-set…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -38,17 +38,17 @@ right_rail:
 ---
 
 
-In ZFC, the power set $P(X)$ of a set $X$
-is the collection of all subsets of $X$,
-and for infinite $X$ it is uncountable by Cantor's theorem.
-In $τ$-set theory, the powerset is defined
+In ZFC, the power set P(X) of a set X
+is the collection of all subsets of X,
+and for infinite X it is uncountable by Cantor's theorem.
+In τ-set theory, the powerset is defined
 *arithmetically* as the set of divisors,
 and it is always *finite*.
-This chapter introduces $P_τ(x)$,
-the $τ$-powerset of $x ∈ τ$-Idx,
+This chapter introduces P_τ(x),
+the τ-powerset of x ∈ τ-Idx,
 and proves its finiteness via the divisor function.
 We show that the Russell paradox cannot arise,
 prove the well-foundedness of strict membership,
 and observe a remarkable collapse:
-the membership relation $∈_τ$ and the subset relation
-$⊆_τ$ *coincide*.
+the membership relation ∈_τ and the subset relation
+⊆_τ *coincide*.

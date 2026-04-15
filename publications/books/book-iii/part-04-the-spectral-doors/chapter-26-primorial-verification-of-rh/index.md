@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapt
 prev_chapter_title: "Chapter 25: Spectral Purity and the Critical Line"
 next_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapter-27-the-grand-grh/"
 next_chapter_title: "Chapter 27: The Grand GRH"
-summary_short: "We present the **$τ$-effective RH statement**: a computable protocol that reduces the infinite conjecture to a cofinal tower of finite verifications. Each…"
+summary_short: "We present the **τ-effective RH statement**: a computable protocol that reduces the infinite conjecture to a cofinal tower of finite verifications. Each…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-We present the **$τ$-effective RH statement**: a computable protocol that reduces the infinite conjecture to a cofinal tower of finite verifications. Each primorial depth $k ≥ 1$ yields a finite-dimensional spectral problem and a finite Euler product on a computable window. We itemize the six proof obligations required to bridge $τ$-RH to orthodox RH, identify the honest gap (obligation O3: determinant representation), and declare what $τ$-RH *is* and what it *is not*. This chapter is the culmination of Part IV's structural calibration, demonstrating consistency with RH while maintaining intellectual honesty about the remaining conjectural step.
+We present the **τ-effective RH statement**: a computable protocol that reduces the infinite conjecture to a cofinal tower of finite verifications. Each primorial depth k ≥ 1 yields a finite-dimensional spectral problem and a finite Euler product on a computable window. We itemize the six proof obligations required to bridge τ-RH to orthodox RH, identify the honest gap (obligation O3: determinant representation), and declare what τ-RH *is* and what it *is not*. This chapter is the culmination of Part IV's structural calibration, demonstrating consistency with RH while maintaining intellectual honesty about the remaining conjectural step.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-con
 prev_chapter_title: "Chapter 33: The Vacuum Catastrophe Dissolved"
 next_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-35-three-generations/"
 next_chapter_title: "Chapter 35: Three Generations"
-summary_short: "Parts III–IV established the four sectors (D, A, B, C) plus the crossing sector $ω$, derived the fine-structure constant , and…"
+summary_short: "Parts III–IV established the four sectors (D, A, B, C) plus the crossing sector ω, derived the fine-structure constant , and…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/"
@@ -39,10 +39,10 @@ right_rail:
 
 
 Parts III–IV established the four sectors (D, A, B, C) plus the
-crossing sector $ω$, derived the fine-structure constant
+crossing sector ω, derived the fine-structure constant
 , and explored the strong vacuum
 and confinement (Part IV). This chapter draws the complete map: every
-Standard Model particle located in the $τ^3$ sector atlas.
+Standard Model particle located in the τ³ sector atlas.
 The atlas is not a phenomenological catalogue—it is a
 **structural consequence** of the fibration
-$τ^3 = τ^1 ×_f T^2$ and the $E_1$ spectral template.
+τ³ = τ¹ ×_f T² and the E₁ spectral template.

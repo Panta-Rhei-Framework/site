@@ -41,7 +41,7 @@ right_rail:
 The Bridge Ledger (the relevant theorem, Ch. 68) tabulated each
 bridge's status. This chapter performs the final accounting: the Honest Claim
 Theorem (III.T47) separating unconditional from conditional (Section 1), the
-complete $τ$-effective inventory (Section 2), the six conjectural bridge
+complete τ-effective inventory (Section 2), the six conjectural bridge
 identifications with Bridge Settlement Criteria (III.R34, Section 3), the one
 established bridge (Section 4), the argument for the honest position (Section 5),
 and the close of the Orthodox Bridge arc (Section 6).

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapte
 prev_chapter_title: "Chapter 72: Proof Theory as 3"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-74-saturation-why-3/"
 next_chapter_title: "Chapter 74: Saturation: Why 3"
-summary_short: "the relevant chapter diagnosed incompleteness and undecidability as $E_2$ boundary phenomena. the relevant chapter lifted the…"
+summary_short: "the relevant chapter diagnosed incompleteness and undecidability as E₂ boundary phenomena. the relevant chapter lifted the…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-10-where-proof-lives/"
@@ -40,15 +40,15 @@ right_rail:
 
 the relevant chapter diagnosed
 incompleteness and undecidability
-as $E_2$ boundary phenomena.
+as E₂ boundary phenomena.
 the relevant chapter lifted the vantage point
-to $E_3$, where the derivation system
+to E₃, where the derivation system
 becomes an object of study.
 This chapter unifies both perspectives.
 Cantor's diagonal argument, Russell's paradox,
 G\"odel's incompleteness sentence, and Turing's halting problem
 are diagnosed as four instances of a single phenomenon:
-an $E_2$ object attempting an operation
-that requires $E_3$ self-modelling.
+an E₂ object attempting an operation
+that requires E₃ self-modelling.
 Each paradox is the error message
 produced when the boundary is crossed.

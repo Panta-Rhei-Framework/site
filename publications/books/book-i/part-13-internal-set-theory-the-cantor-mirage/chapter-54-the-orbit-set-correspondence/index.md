@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-ca
 prev_chapter_title: "Chapter 53: The τ"
 next_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-55-countability-is-not-a-limitation/"
 next_chapter_title: "Chapter 55: Countability Is Not a Limitation"
-summary_short: "Part VIII built an internal set theory on a single orbit: $τ$-Idx, equipped with $∈_τ = \\mid$ . But Category $τ$ has…"
+summary_short: "Part VIII built an internal set theory on a single orbit: τ-Idx, equipped with ∈_τ = ∣ . But Category τ has…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -39,10 +39,10 @@ right_rail:
 
 
 Part VIII built an internal set theory on a single orbit:
-$τ$-Idx, equipped with
-$∈_τ = \mid$
+τ-Idx, equipped with
+∈_τ = ∣
 .
-But Category $τ$ has *five* orbits
+But Category τ has *five* orbits
 (the relevant theorem, Proposition [prop:orbit-disjoint]),
 and each orbit carries generators
 with distinct structural roles.
@@ -50,11 +50,11 @@ This chapter extends internal set theory
 from single-orbit arithmetic
 to a *five-orbit representation theory*.
 We define an orbit-set map
-$Set \colon \Obj(τ) → P(\Obj(τ))$
-that assigns to every $τ$-element
+Set : Obj(τ) → P(Obj(τ))
+that assigns to every τ-element
 a structurally determined set.
 The resulting correspondence is injective,
-partitions $τ$ into "opaque" (self-containing)
+partitions τ into "opaque" (self-containing)
 and "transparent" (organizing) elements,
 and reveals that the boundary between finite
 and infinite sets coincides exactly

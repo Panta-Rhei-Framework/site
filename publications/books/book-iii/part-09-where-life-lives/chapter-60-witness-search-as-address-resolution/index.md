@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter
 prev_chapter_title: "Chapter 59: Interface Width and τ"
 next_chapter_url: "/publications/books/book-iii/part-09-where-life-lives/chapter-61-the-computational-bi-square/"
 next_chapter_title: "Chapter 61: The Computational Bi-Square"
-summary_short: "Chapter 56 established that $τ$-admissible computations factor through a single finite quotient $ℤ/Prim(k_0)ℤ$. This chapter applies that collapse to NP…"
+summary_short: "Chapter 56 established that τ-admissible computations factor through a single finite quotient ℤ/Prim(k₀)ℤ. This chapter applies that collapse to NP…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-09-where-life-lives/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-Chapter 56 established that $τ$-admissible computations factor through
-a single finite quotient $ℤ/Prim(k_0)ℤ$.
+Chapter 56 established that τ-admissible computations factor through
+a single finite quotient ℤ/Prim(k₀)ℤ.
 This chapter applies that collapse to NP witness search.
-In Category $τ$, a witness is a canonical address whose ABCD
+In Category τ, a witness is a canonical address whose ABCD
 coordinates structure the search space, and the CRT decomposition
  factorizes the search into
 independent per-prime problems.
 The main result (Proposition [prop:polynomial-refinement]) shows
-that the total search cost is $O(k^2 \log k)$—polynomial in the
+that the total search cost is O(k² log k)—polynomial in the
 primorial depth—because the CRT converts a product of per-prime
 costs into a sum.

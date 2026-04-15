@@ -43,9 +43,9 @@ molecule—determines virtually every macroscopic property: melting
 point, solubility, reactivity, colour, biological function. The
 Valence Shell Electron Pair Repulsion (VSEPR) model predicts geometry
 from a single principle: electron pairs around a central atom arrange
-themselves to minimise mutual repulsion. In Category $τ$, VSEPR
-acquires a structural foundation: electron pairs are $τ^2$ modes on
-the fiber $T^2$, and repulsion is the Pauli–Coulomb exclusion forcing
+themselves to minimise mutual repulsion. In Category τ, VSEPR
+acquires a structural foundation: electron pairs are τ² modes on
+the fiber T², and repulsion is the Pauli–Coulomb exclusion forcing
 these modes to maximal angular separation. This chapter develops the
 VSEPR framework, catalogues the common molecular geometries, treats
 lone-pair distortions, derives molecular polarity from spatial symmetry,

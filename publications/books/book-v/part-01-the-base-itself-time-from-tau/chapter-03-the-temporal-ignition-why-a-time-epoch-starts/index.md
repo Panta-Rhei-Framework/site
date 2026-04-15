@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-
 prev_chapter_title: "Chapter 2: Proto-Chronos: From α-Ticks to Proper Time"
 next_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-04-high-energy-and-high-entropy-at-the-beginning/"
 next_chapter_title: "Chapter 4: High Energy and High Entropy at the Beginning"
-summary_short: "The preceding chapter derived physical time as arc length along the base circle $τ^1$. But arc length is a mathematical construction — it exists at every…"
+summary_short: "The preceding chapter derived physical time as arc length along the base circle τ¹. But arc length is a mathematical construction — it exists at every…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/"
@@ -39,10 +39,10 @@ right_rail:
 
 
 The preceding chapter derived physical time
-as arc length along the base circle $τ^1$.
+as arc length along the base circle τ¹.
 But arc length is a mathematical construction —
 it exists at every refinement depth,
-even at $α_1$.
+even at α₁.
 The fact that physical time *exists*
 does not yet explain
 why it *manifests* as the familiar
@@ -52,14 +52,14 @@ and observers experience.
 This chapter addresses the gap.
 Not all refinement depths
 produce a well-defined temporal readout.
-At very early depths ($n$ close to 1),
+At very early depths (n close to 1),
 the primorial structure is too coarse
 for the arc-length parameter
 to be read out by any physical subsystem:
 there are no clocks, no oscillators,
 no periodic processes
 that could register the passage of ticks.
-At very late depths ($n → ∞$),
+At very late depths (n → ∞),
 the ticks become so short
 that the temporal readout
 saturates and freezes.
@@ -79,7 +79,7 @@ The present chapter identifies three epochs
 defines the ignition condition
 that marks the onset of the temporal epoch
 (the relevant definition, V.D18),
-constructs the "now" hypersurface $Σ_{now}$
+constructs the "now" hypersurface Σ_{now}
 (the relevant definition, V.D19),
 and proves that the current state of the universe
 lies well within the temporal epoch

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-
 prev_chapter_title: "Chapter 33: Split-Complex Scalars"
 next_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-35-the-number-tower-from-n/"
 next_chapter_title: "Chapter 35: The Number Tower: From N"
-summary_short: "Throughout Part IV we classified primes into two sectors — $B$-dominant and $C$-dominant — according to their behavior in the prime bipolar partition (Chapter…"
+summary_short: "Throughout Part IV we classified primes into two sectors — B-dominant and C-dominant — according to their behavior in the prime bipolar partition (Chapter…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-08-the-spectral-ring/"
@@ -39,15 +39,15 @@ right_rail:
 
 
 Throughout Part IV we classified primes
-into two sectors — $B$-dominant and $C$-dominant —
+into two sectors — B-dominant and C-dominant —
 according to their behavior in the prime bipolar partition
 .
 This classification is not merely qualitative:
-the *ratio* of $B$-dominant to $C$-dominant primes
+the *ratio* of B-dominant to C-dominant primes
 converges to a fixed number as we range over all primes.
 This chapter introduces that number,
 the **master constant**
-$ι_τ = 2/(π + e) ≈ 0.341304$,
+ι_τ = 2/(π + e) ≈ 0.341304,
 and explains its structural role
 as a parametrization of the asymmetry
 between the two lemniscate lobes.

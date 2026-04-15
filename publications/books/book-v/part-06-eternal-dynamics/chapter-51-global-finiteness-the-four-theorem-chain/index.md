@@ -44,28 +44,28 @@ the observable universe is finite
 (bounded by the particle horizon),
 but the "full" universe may be infinite,
 depending on the spatial curvature.
-The $Λ$CDM model
-with $Ω_k = 0$
+The ΛCDM model
+with Ω_k = 0
 (spatially flat)
 admits both finite and infinite topologies —
 the theory is silent on global structure.
 
-Category $τ$ answers unambiguously:
+Category τ answers unambiguously:
 the universe is **finite, structured, and closed**.
 This chapter proves this claim
 through a chain of four theorems,
 each building on the last.
-The **Finite Motif Theorem** (\S)
+The **Finite Motif Theorem** (§)
 shows that only finitely many
-distinct topological motifs can exist in $τ^3$.
-The **Saturation Radius Theorem** (\S)
-shows that beyond a characteristic scale $R_{sat}$,
+distinct topological motifs can exist in τ³.
+The **Saturation Radius Theorem** (§)
+shows that beyond a characteristic scale R_sat,
 all structure is repeated.
-The **Absorbing Pattern Theorem** (\S)
+The **Absorbing Pattern Theorem** (§)
 shows that the large-scale pattern converges:
 long-range structure is eventually determined
 by the local pattern.
-The **Global Finiteness Corollary** (\S)
+The **Global Finiteness Corollary** (§)
 assembles these results
 into the definitive statement:
 the universe admits no infinite hierarchy
@@ -73,4 +73,4 @@ of nested structures,
 no infinite plain of new motifs,
 and no fractal abyss of self-similar complexity.
 Everything that can exist, already exists
-within a finite portion of $τ^3$.
+within a finite portion of τ³.

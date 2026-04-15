@@ -43,10 +43,10 @@ pillar (Critique of Pure Reason) and the practical pillar (Critique of
 Practical Reason). The third pillar—the diagrammatic bridge between
 knowing and acting—is what Kant attempted in the Critique of Judgment
 but could not formalize. This chapter maps Kant's critical architecture
-onto the four-register model of $τ$: CPR to the empirical register
-$ℝeg_E$, CPrR to the practical register $ℝeg_P$, CJ to the
-diagrammatic register $ℝeg_D$, and the postulates of practical reason
-to the commitment register $ℝeg_C$. The mapping reveals that Kant left
+onto the four-register model of τ: CPR to the empirical register
+ℝeg_E, CPrR to the practical register ℝeg_P, CJ to the
+diagrammatic register ℝeg_D, and the postulates of practical reason
+to the commitment register ℝeg_C. The mapping reveals that Kant left
 a precisely shaped socket—the diagrammatic bridge—unspoken rather
 than filling it with unearned closure. Three methodological rules
 extracted from Kant's discipline govern how the socket must eventually

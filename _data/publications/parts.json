@@ -21,7 +21,7 @@
     "slug": "part-01-the-coherence-kernel",
     "url": "/publications/books/book-i/part-01-the-coherence-kernel/",
     "chapter_count": 5,
-    "summary_short": "Category $τ$ begins with five generators in strict total order — $α < π < γ < η < ω$ — and a single ontic operator $ρ$ (progression). A zeroth axiom $K0$…"
+    "summary_short": "Category τ begins with five generators in strict total order — α < π < γ < η < ω — and a single ontic operator ρ (progression). A zeroth axiom K0…"
   },
   {
     "id": "book-i-part-02-orbit-generation-and-ontic-closure",
@@ -33,7 +33,7 @@
     "slug": "part-02-orbit-generation-and-ontic-closure",
     "url": "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/",
     "chapter_count": 3,
-    "summary_short": "The static kernel $τ_0$ is a specification — precise, categorical, and inert. Part I assembled the blueprint: five generators, one operator $ρ$, and six axioms…"
+    "summary_short": "The static kernel τ₀ is a specification — precise, categorical, and inert. Part I assembled the blueprint: five generators, one operator ρ, and six axioms…"
   },
   {
     "id": "book-i-part-03-the-denotational-bridge",
@@ -45,7 +45,7 @@
     "slug": "part-03-the-denotational-bridge",
     "url": "/publications/books/book-i/part-03-the-denotational-bridge/",
     "chapter_count": 6,
-    "summary_short": "The ontic seal is in place. Every object of $τ$ exists, is unique, and is rigid. From this point forward, we only *name* — never *create*. The alpha-orbit…"
+    "summary_short": "The ontic seal is in place. Every object of τ exists, is unique, and is rigid. From this point forward, we only *name* — never *create*. The alpha-orbit…"
   },
   {
     "id": "book-i-part-04-the-abcd-coordinate-chart",
@@ -57,7 +57,7 @@
     "slug": "part-04-the-abcd-coordinate-chart",
     "url": "/publications/books/book-i/part-04-the-abcd-coordinate-chart/",
     "chapter_count": 5,
-    "summary_short": "Parts I–III established the bare-metal foundations of Category $τ$: a static kernel of five generators and six axioms (Part I), a single generative act…"
+    "summary_short": "Parts I–III established the bare-metal foundations of Category τ: a static kernel of five generators and six axioms (Part I), a single generative act…"
   },
   {
     "id": "book-i-part-05-hyperfactorization",
@@ -69,7 +69,7 @@
     "slug": "part-05-hyperfactorization",
     "url": "/publications/books/book-i/part-05-hyperfactorization/",
     "chapter_count": 5,
-    "summary_short": "Part IV defined the ABCD coordinate chart: a total map $Φ : \\Obj(τ) → τ-Idx^4$ that assigns four typed coordinates to every object. Existence of the chart was…"
+    "summary_short": "Part IV defined the ABCD coordinate chart: a total map Φ : Obj(τ) → τ-Idx⁴ that assigns four typed coordinates to every object. Existence of the chart was…"
   },
   {
     "id": "book-i-part-06-the-prime-polarity-theorem",
@@ -81,7 +81,7 @@
     "slug": "part-06-the-prime-polarity-theorem",
     "url": "/publications/books/book-i/part-06-the-prime-polarity-theorem/",
     "chapter_count": 2,
-    "summary_short": "The Hyperfactorization Theorem (Part V) established that every object of Category $τ$ has a unique ABCD address. The four coordinates are independent,…"
+    "summary_short": "The Hyperfactorization Theorem (Part V) established that every object of Category τ has a unique ABCD address. The four coordinates are independent,…"
   },
   {
     "id": "book-i-part-07-omega-germs-the-algebraic-lemniscate",
@@ -117,7 +117,7 @@
     "slug": "part-09-earned-number-systems",
     "url": "/publications/books/book-i/part-09-earned-number-systems/",
     "chapter_count": 4,
-    "summary_short": "Part VIII introduced the number tower $ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ$ (Chapter [ch:number-tower]), establishing definitions and basic properties for each level.…"
+    "summary_short": "Part VIII introduced the number tower ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ (Chapter [ch:number-tower]), establishing definitions and basic properties for each level.…"
   },
   {
     "id": "book-i-part-10-lemniscate-characters",
@@ -129,7 +129,7 @@
     "slug": "part-10-lemniscate-characters",
     "url": "/publications/books/book-i/part-10-lemniscate-characters/",
     "chapter_count": 3,
-    "summary_short": "Part VII earned the algebraic lemniscate $𝕃$ as the bipolar spectral algebra $H_τ = A_τ^{(B)} × A_τ^{(C)}$ (Chapter [ch:bipolar-algebra]), and Part IX…"
+    "summary_short": "Part VII earned the algebraic lemniscate 𝕃 as the bipolar spectral algebra H_τ = A_τ^(B) × A_τ^(C) (Chapter [ch:bipolar-algebra]), and Part IX…"
   },
   {
     "id": "book-i-part-11-tau",
@@ -153,7 +153,7 @@
     "slug": "part-12-holomorphic-transformers",
     "url": "/publications/books/book-i/part-12-holomorphic-transformers/",
     "chapter_count": 4,
-    "summary_short": "Parts VIII–XI earned the boundary ring $\\widehatℤ_τ$, its split-complex scalar algebra $H_τ$, the fundamental characters $χ_±$, and the four-valued logic…"
+    "summary_short": "Parts VIII–XI earned the boundary ring ℤ_τ, its split-complex scalar algebra H_τ, the fundamental characters χ_±, and the four-valued logic…"
   },
   {
     "id": "book-i-part-13-internal-set-theory-the-cantor-mirage",
@@ -165,7 +165,7 @@
     "slug": "part-13-internal-set-theory-the-cantor-mirage",
     "url": "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/",
     "chapter_count": 8,
-    "summary_short": "Parts IV–VII built the ABCD coordinate chart, proved the two hinge theorems (Hyperfactorization and Prime Polarity), and earned the algebraic lemniscate $𝕃$.…"
+    "summary_short": "Parts IV–VII built the ABCD coordinate chart, proved the two hinge theorems (Hyperfactorization and Prime Polarity), and earned the algebraic lemniscate 𝕃.…"
   },
   {
     "id": "book-i-part-14-the-earned-topos",
@@ -177,7 +177,7 @@
     "slug": "part-14-the-earned-topos",
     "url": "/publications/books/book-i/part-14-the-earned-topos/",
     "chapter_count": 7,
-    "summary_short": "Part XII earned the three ingredients of $τ$-holomorphic rigidity: D-holomorphy (sector independence), tower coherence (primorial compatibility), and the…"
+    "summary_short": "Part XII earned the three ingredients of τ-holomorphic rigidity: D-holomorphy (sector independence), tower coherence (primorial compatibility), and the…"
   },
   {
     "id": "book-i-part-15-global-hartogs",
@@ -201,7 +201,7 @@
     "slug": "part-16-the-presheaf-essence",
     "url": "/publications/books/book-i/part-16-the-presheaf-essence/",
     "chapter_count": 2,
-    "summary_short": "Part XVI proved the Global Hartogs Extension Theorem: the limit determines the stages, and omega-tail data on $𝕃$ uniquely extends to all of $τ^3$. Part XVIII…"
+    "summary_short": "Part XVI proved the Global Hartogs Extension Theorem: the limit determines the stages, and omega-tail data on 𝕃 uniquely extends to all of τ³. Part XVIII…"
   },
   {
     "id": "book-i-part-17-the-proof-theoretic-mirror",
@@ -213,7 +213,7 @@
     "slug": "part-17-the-proof-theoretic-mirror",
     "url": "/publications/books/book-i/part-17-the-proof-theoretic-mirror/",
     "chapter_count": 9,
-    "summary_short": "Part XVII closed the development: sixty-seven chapters, every object and theorem earned from five generators, one operator, and seven axioms $K0$–$K6$. The…"
+    "summary_short": "Part XVII closed the development: sixty-seven chapters, every object and theorem earned from five generators, one operator, and seven axioms K0–K6. The…"
   },
   {
     "id": "book-ii-part-00-from-kernel-to-interior",
@@ -225,7 +225,7 @@
     "slug": "part-00-from-kernel-to-interior",
     "url": "/publications/books/book-ii/part-00-from-kernel-to-interior/",
     "chapter_count": 3,
-    "summary_short": "Book I closed with the Bridge Theorem (I.T34): Category $τ$ is complete. Five generators, one operator, seven axioms ($K0$–$K6$) have built a full mathematical…"
+    "summary_short": "Book I closed with the Bridge Theorem (I.T34): Category τ is complete. Five generators, one operator, seven axioms (K0–K6) have built a full mathematical…"
   },
   {
     "id": "book-ii-part-01-interior-points-and-the-tau",
@@ -237,7 +237,7 @@
     "slug": "part-01-interior-points-and-the-tau",
     "url": "/publications/books/book-ii/part-01-interior-points-and-the-tau/",
     "chapter_count": 5,
-    "summary_short": "Part I defines the point set of $τ^3$ and reveals the fibration structure $τ^3 = τ^1 ×_f T^2$. The approach is coordinate-first: Book I earned the ABCD chart…"
+    "summary_short": "Part I defines the point set of τ³ and reveals the fibration structure τ³ = τ¹ ×_f T². The approach is coordinate-first: Book I earned the ABCD chart…"
   },
   {
     "id": "book-ii-part-02-local-domains-cylinders-as-prefix-predicates",
@@ -249,7 +249,7 @@
     "slug": "part-02-local-domains-cylinders-as-prefix-predicates",
     "url": "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/",
     "chapter_count": 4,
-    "summary_short": "Part II constructs the local domains and proves the central inversion: {\\bfseries holomorphic implies continuous}. Four chapters build the topological…"
+    "summary_short": "Part II constructs the local domains and proves the central inversion: {holomorphic implies continuous}. Four chapters build the topological…"
   },
   {
     "id": "book-ii-part-03-topology-and-global-shape",
@@ -261,7 +261,7 @@
     "slug": "part-03-topology-and-global-shape",
     "url": "/publications/books/book-ii/part-03-topology-and-global-shape/",
     "chapter_count": 6,
-    "summary_short": "Part III establishes the global topological shape of $τ$. Six chapters prove that $τ$ is a Stone space, derive topology as an invariant of canonical…"
+    "summary_short": "Part III establishes the global topological shape of τ. Six chapters prove that τ is a Stone space, derive topology as an invariant of canonical…"
   },
   {
     "id": "book-ii-part-04-geometry-the-tarski-program",
@@ -285,7 +285,7 @@
     "slug": "part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e",
     "url": "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/",
     "chapter_count": 6,
-    "summary_short": "Part V earns the transcendental constants $π$, $e$, $j$, and $ι_τ$ from purely countable discrete structure. Six chapters bridge from ABCD refinement rays to…"
+    "summary_short": "Part V earns the transcendental constants π, e, j, and ι_τ from purely countable discrete structure. Six chapters bridge from ABCD refinement rays to…"
   },
   {
     "id": "book-ii-part-06-local-hartogs-and-the-holomorphic-interior",
@@ -297,7 +297,7 @@
     "slug": "part-06-local-hartogs-and-the-holomorphic-interior",
     "url": "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/",
     "chapter_count": 8,
-    "summary_short": "Part VI is {\\bfseries pivotal}: split-complex holomorphy becomes load-bearing. Eight chapters build the Local Hartogs extension theory, prove the central…"
+    "summary_short": "Part VI is {pivotal}: split-complex holomorphy becomes load-bearing. Eight chapters build the Local Hartogs extension theory, prove the central…"
   },
   {
     "id": "book-ii-part-07-regularity-and-mutual-determination",
@@ -309,7 +309,7 @@
     "slug": "part-07-regularity-and-mutual-determination",
     "url": "/publications/books/book-ii/part-07-regularity-and-mutual-determination/",
     "chapter_count": 5,
-    "summary_short": "Part VII executes the {\\itshape regularity program}, proving that {\\bfseries holomorphic $=$ idempotent-supported}. Five chapters build a three-lemma chain…"
+    "summary_short": "Part VII executes the {regularity program}, proving that {holomorphic = idempotent-supported}. Five chapters build a three-lemma chain…"
   },
   {
     "id": "book-ii-part-08-self-enrichment-yoneda-and-higher-categories",
@@ -321,7 +321,7 @@
     "slug": "part-08-self-enrichment-yoneda-and-higher-categories",
     "url": "/publications/books/book-ii/part-08-self-enrichment-yoneda-and-higher-categories/",
     "chapter_count": 5,
-    "summary_short": "Part VIII proves that $τ$ enriches over itself, yielding Yoneda as a theorem. Five chapters build self-enrichment and the enrichment ladder. Chapter…"
+    "summary_short": "Part VIII proves that τ enriches over itself, yielding Yoneda as a theorem. Five chapters build self-enrichment and the enrichment ladder. Chapter…"
   },
   {
     "id": "book-ii-part-09-the-central-theorem-and-categoricity",
@@ -333,7 +333,7 @@
     "slug": "part-09-the-central-theorem-and-categoricity",
     "url": "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/",
     "chapter_count": 6,
-    "summary_short": "Part IX is the climax: the {\\bfseries Central Theorem} and categoricity. Six chapters assemble boundary-to-interior correspondence and prove uniqueness.…"
+    "summary_short": "Part IX is the climax: the {Central Theorem} and categoricity. Six chapters assemble boundary-to-interior correspondence and prove uniqueness.…"
   },
   {
     "id": "book-ii-part-10-closure-synthesis-and-bridge-to-book-iii",
@@ -345,7 +345,7 @@
     "slug": "part-10-closure-synthesis-and-bridge-to-book-iii",
     "url": "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/",
     "chapter_count": 7,
-    "summary_short": "Part X is the closure: synthesis and the bridge to Book III. Seven chapters audit the complete dependency chain, earn $τ$-manifold structure from the…"
+    "summary_short": "Part X is the closure: synthesis and the bridge to Book III. Seven chapters audit the complete dependency chain, earn τ-manifold structure from the…"
   },
   {
     "id": "book-ii-part-11-the-fork-category-tau-versus-orthodox-mathematics",
@@ -357,7 +357,7 @@
     "slug": "part-11-the-fork-category-tau-versus-orthodox-mathematics",
     "url": "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/",
     "chapter_count": 8,
-    "summary_short": "Part XI is the fork: a systematic comparison of Category $τ$ against orthodox mathematics. Books I and II have built an alternative foundation from seven…"
+    "summary_short": "Part XI is the fork: a systematic comparison of Category τ against orthodox mathematics. Books I and II have built an alternative foundation from seven…"
   },
   {
     "id": "book-iii-part-00-where-does-physics-live",
@@ -369,7 +369,7 @@
     "slug": "part-00-where-does-physics-live",
     "url": "/publications/books/book-iii/part-00-where-does-physics-live/",
     "chapter_count": 3,
-    "summary_short": "The Central Theorem is proved and the holomorphic machinery is in hand. But $τ^3 = τ^1 ×_f T^2$ does not look like Cartesian three-dimensional space. Where,…"
+    "summary_short": "The Central Theorem is proved and the holomorphic machinery is in hand. But τ³ = τ¹ ×_f T² does not look like Cartesian three-dimensional space. Where,…"
   },
   {
     "id": "book-iii-part-01-the-self-enrichment-principle",
@@ -381,7 +381,7 @@
     "slug": "part-01-the-self-enrichment-principle",
     "url": "/publications/books/book-iii/part-01-the-self-enrichment-principle/",
     "chapter_count": 5,
-    "summary_short": "The enrichment ladder is the architectural spine of the entire series. We prove the **Canonical Ladder Theorem**: the self-enrichment of Category $τ$ produces…"
+    "summary_short": "The enrichment ladder is the architectural spine of the entire series. We prove the **Canonical Ladder Theorem**: the self-enrichment of Category τ produces…"
   },
   {
     "id": "book-iii-part-02-the-4-1-sector-template",
@@ -393,7 +393,7 @@
     "slug": "part-02-the-4-1-sector-template",
     "url": "/publications/books/book-iii/part-02-the-4-1-sector-template/",
     "chapter_count": 5,
-    "summary_short": "The organisational blueprint for all downstream books is *derived*, not assumed. The five generators of $τ$ induce four primitive sectors $(α, π, γ, η)$ plus…"
+    "summary_short": "The organisational blueprint for all downstream books is *derived*, not assumed. The five generators of τ induce four primitive sectors (α, π, γ, η) plus…"
   },
   {
     "id": "book-iii-part-03-the-spectral-algebra",
@@ -405,7 +405,7 @@
     "slug": "part-03-the-spectral-algebra",
     "url": "/publications/books/book-iii/part-03-the-spectral-algebra/",
     "chapter_count": 7,
-    "summary_short": "The algebraic vocabulary for everything that follows. We earn number theory—primes, residue rings, $p$-adic fields, ad\\`eles—from the $τ$ kernel, not by…"
+    "summary_short": "The algebraic vocabulary for everything that follows. We earn number theory—primes, residue rings, p-adic fields, ad\\`eles—from the τ kernel, not by…"
   },
   {
     "id": "book-iii-part-04-the-spectral-doors",
@@ -477,7 +477,7 @@
     "slug": "part-09-where-life-lives",
     "url": "/publications/books/book-iii/part-09-where-life-lives/",
     "chapter_count": 9,
-    "summary_short": "The world exists ($E_1$). Can it be *modelled*? P versus NP has been conspicuously absent from the preceding Parts. The reason is not strategic but…"
+    "summary_short": "The world exists (E₁). Can it be *modelled*? P versus NP has been conspicuously absent from the preceding Parts. The reason is not strategic but…"
   },
   {
     "id": "book-iii-part-10-where-proof-lives",
@@ -489,7 +489,7 @@
     "slug": "part-10-where-proof-lives",
     "url": "/publications/books/book-iii/part-10-where-proof-lives/",
     "chapter_count": 11,
-    "summary_short": "The world exists ($E_1$). Life can model it ($E_2$). Can the modelling *model itself*? This final Part ascends to $E_3$—the enrichment layer where proof…"
+    "summary_short": "The world exists (E₁). Life can model it (E₂). Can the modelling *model itself*? This final Part ascends to E₃—the enrichment layer where proof…"
   },
   {
     "id": "book-iv-part-00-two-arcs-from-one-neutron",
@@ -501,7 +501,7 @@
     "slug": "part-00-two-arcs-from-one-neutron",
     "url": "/publications/books/book-iv/part-00-two-arcs-from-one-neutron/",
     "chapter_count": 2,
-    "summary_short": "The Prologue frames Book IV as a whole. Chapter 1 introduces the self-describing thesis: physics is what happens when the coherence kernel $τ$ represents…"
+    "summary_short": "The Prologue frames Book IV as a whole. Chapter 1 introduces the self-describing thesis: physics is what happens when the coherence kernel τ represents…"
   },
   {
     "id": "book-iv-part-01-the-joint-core-from-neutron-to-hydrogen",
@@ -513,7 +513,7 @@
     "slug": "part-01-the-joint-core-from-neutron-to-hydrogen",
     "url": "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/",
     "chapter_count": 10,
-    "summary_short": "Part I is the *Joint Core*: the ten chapters that both the Complexity Arc (Book IV) and the Force Arc (Book V) require as prerequisite. Starting from the $τ^3$…"
+    "summary_short": "Part I is the *Joint Core*: the ten chapters that both the Complexity Arc (Book IV) and the Force Arc (Book V) require as prerequisite. Starting from the τ³…"
   },
   {
     "id": "book-iv-part-02-quantum-mechanics-as-address-obstruction",
@@ -525,7 +525,7 @@
     "slug": "part-02-quantum-mechanics-as-address-obstruction",
     "url": "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/",
     "chapter_count": 8,
-    "summary_short": "Quantum mechanics is not postulated—it is *derived* from the $τ^3$ geometry. The CR-structure on the fibered product $τ^3 = τ^1 ×_f T^2$ couples the torus…"
+    "summary_short": "Quantum mechanics is not postulated—it is *derived* from the τ³ geometry. The CR-structure on the fibered product τ³ = τ¹ ×_f T² couples the torus…"
   },
   {
     "id": "book-iv-part-03-the-electroweak-arc",
@@ -549,7 +549,7 @@
     "slug": "part-04-the-strong-sector-and-confinement",
     "url": "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/",
     "chapter_count": 6,
-    "summary_short": "The second force tool is the C-sector—the $η$-generator domain, $χ_-$-dominant, with gauge group SU(3). Where the electroweak arc (Part III) was gentle, the…"
+    "summary_short": "The second force tool is the C-sector—the η-generator domain, χ_--dominant, with gauge group SU(3). Where the electroweak arc (Part III) was gentle, the…"
   },
   {
     "id": "book-iv-part-05-particles-generations-and-nuclear-physics",
@@ -561,7 +561,7 @@
     "slug": "part-05-particles-generations-and-nuclear-physics",
     "url": "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/",
     "chapter_count": 10,
-    "summary_short": "Forces are not the destination—they are the *tools*. Parts III and IV surveyed the four force sectors on the $E_1$ spectral page: electromagnetic, weak,…"
+    "summary_short": "Forces are not the destination—they are the *tools*. Parts III and IV surveyed the four force sectors on the E₁ spectral page: electromagnetic, weak,…"
   },
   {
     "id": "book-iv-part-06-atoms-chemistry-and-molecular-structure",
@@ -585,7 +585,7 @@
     "slug": "part-07-condensed-matter-and-fluid-dynamics",
     "url": "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/",
     "chapter_count": 11,
-    "summary_short": "Parts II through VI studied the fiber $T^2$ one particle at a time: individual defect bundles, their quantum addresses, their interactions, their chemical…"
+    "summary_short": "Parts II through VI studied the fiber T² one particle at a time: individual defect bundles, their quantum addresses, their interactions, their chemical…"
   },
   {
     "id": "book-iv-part-08-the-constants-ledger-and-the-complexity-summit",
@@ -609,7 +609,7 @@
     "slug": "part-00-the-hermetic-principle",
     "url": "/publications/books/book-v/part-00-the-hermetic-principle/",
     "chapter_count": 1,
-    "summary_short": "center *``The way up and the way down are one and the same.''*\\\\ — Heraclitus, Fragment 60 center Book IV completed the fiber. The torus $T^2$, spanned by the…"
+    "summary_short": "center *``The way up and the way down are one and the same.''*\\\\ — Heraclitus, Fragment 60 center Book IV completed the fiber. The torus T², spanned by the…"
   },
   {
     "id": "book-v-part-01-the-base-itself-time-from-tau",
@@ -621,7 +621,7 @@
     "slug": "part-01-the-base-itself-time-from-tau",
     "url": "/publications/books/book-v/part-01-the-base-itself-time-from-tau/",
     "chapter_count": 7,
-    "summary_short": "Part I answers the most fundamental question of macroscopic physics: *What is time?* The base circle $τ^1$ of the fibered product $τ^3 = τ^1 ×_f T^2$ carries…"
+    "summary_short": "Part I answers the most fundamental question of macroscopic physics: *What is time?* The base circle τ¹ of the fibered product τ³ = τ¹ ×_f T² carries…"
   },
   {
     "id": "book-v-part-02-the-connection-gravity-earned",
@@ -633,7 +633,7 @@
     "slug": "part-02-the-connection-gravity-earned",
     "url": "/publications/books/book-v/part-02-the-connection-gravity-earned/",
     "chapter_count": 10,
-    "summary_short": "Part II is the heart of Book V. Gravity is not a force that happens to exist; it is the fourth primitive holonomy sector of the boundary algebra $H_∂[ω]$,…"
+    "summary_short": "Part II is the heart of Book V. Gravity is not a force that happens to exist; it is the fourth primitive holonomy sector of the boundary algebra H_∂[ω],…"
   },
   {
     "id": "book-v-part-03-what-propagates-thermodynamic-inversion",
@@ -657,7 +657,7 @@
     "slug": "part-04-collective-dynamics",
     "url": "/publications/books/book-v/part-04-collective-dynamics/",
     "chapter_count": 7,
-    "summary_short": "Part IV lifts the defect-functional framework from the fiber $T^2$ to the macroscopic base $τ^1$. Book IV, Chapter 53, classified fluid regimes, phase…"
+    "summary_short": "Part IV lifts the defect-functional framework from the fiber T² to the macroscopic base τ¹. Book IV, Chapter 53, classified fluid regimes, phase…"
   },
   {
     "id": "book-v-part-05-global-structure",
@@ -669,7 +669,7 @@
     "slug": "part-05-global-structure",
     "url": "/publications/books/book-v/part-05-global-structure/",
     "chapter_count": 12,
-    "summary_short": "Part V turns Category $τ$ toward the sky. The previous four Parts earned the temporal substrate (Part I), the gravitational connection (Part II), the…"
+    "summary_short": "Part V turns Category τ toward the sky. The previous four Parts earned the temporal substrate (Part I), the gravitational connection (Part II), the…"
   },
   {
     "id": "book-v-part-06-eternal-dynamics",
@@ -729,7 +729,7 @@
     "slug": "part-02-persistence-archaea-and-the-temporal-axis",
     "url": "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/",
     "chapter_count": 5,
-    "summary_short": "The $α$-sector: **temporal stability, homeostasis, deep time**. The persistence sector is the first of four primitive Life sectors, anchored on the temporal…"
+    "summary_short": "The α-sector: **temporal stability, homeostasis, deep time**. The persistence sector is the first of four primitive Life sectors, anchored on the temporal…"
   },
   {
     "id": "book-vi-part-03-agency-bacteria-and-the-spatial-axis",
@@ -741,7 +741,7 @@
     "slug": "part-03-agency-bacteria-and-the-spatial-axis",
     "url": "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/",
     "chapter_count": 6,
-    "summary_short": "The $π$-sector: **spatial motility and environmental interaction**. The agency sector is anchored on the spatial axis of the $τ^1$ base. Bacteria—the most…"
+    "summary_short": "The π-sector: **spatial motility and environmental interaction**. The agency sector is anchored on the spatial axis of the τ¹ base. Bacteria—the most…"
   },
   {
     "id": "book-vi-part-04-source-plants-and-the-production-fiber",
@@ -753,7 +753,7 @@
     "slug": "part-04-source-plants-and-the-production-fiber",
     "url": "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/",
     "chapter_count": 5,
-    "summary_short": "The $γ$-sector: **structure generation, photosynthesis, carbon fixation**. The source/producer sector operates on the production channel of the metabolic fiber…"
+    "summary_short": "The γ-sector: **structure generation, photosynthesis, carbon fixation**. The source/producer sector operates on the production channel of the metabolic fiber…"
   },
   {
     "id": "book-vi-part-05-closure-fungi-and-the-recycling-fiber",
@@ -765,7 +765,7 @@
     "slug": "part-05-closure-fungi-and-the-recycling-fiber",
     "url": "/publications/books/book-vi/part-05-closure-fungi-and-the-recycling-fiber/",
     "chapter_count": 5,
-    "summary_short": "The $η$-sector: **structure recycling, decomposition, nutrient cycling**. The closure/recycler sector operates on the recycling channel of the metabolic fiber…"
+    "summary_short": "The η-sector: **structure recycling, decomposition, nutrient cycling**. The closure/recycler sector operates on the recycling channel of the metabolic fiber…"
   },
   {
     "id": "book-vi-part-06-consumer-animals-and-the-mixed-sector",
@@ -777,7 +777,7 @@
     "slug": "part-06-consumer-animals-and-the-mixed-sector",
     "url": "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/",
     "chapter_count": 10,
-    "summary_short": "The $(γ, η)$ mixed sector: **acquires structure and energy from other Life forms**. Animals—the biological archetype of the consumer sector—couple source and…"
+    "summary_short": "The (γ, η) mixed sector: **acquires structure and energy from other Life forms**. Animals—the biological archetype of the consumer sector—couple source and…"
   },
   {
     "id": "book-vi-part-07-cosmic-life",
@@ -789,7 +789,7 @@
     "slug": "part-07-cosmic-life",
     "url": "/publications/books/book-vi/part-07-cosmic-life/",
     "chapter_count": 8,
-    "summary_short": "**Black holes are alive**—not as metaphor but as structural theorem. The macro-torus carrier $T(H_{BH})$ satisfies both Distinction and SelfDesc with the…"
+    "summary_short": "**Black holes are alive**—not as metaphor but as structural theorem. The macro-torus carrier T(H_BH) satisfies both Distinction and SelfDesc with the…"
   },
   {
     "id": "book-vi-part-08-consciousness-language-and-the-bridge-to-e",
@@ -801,7 +801,7 @@
     "slug": "part-08-consciousness-language-and-the-bridge-to-e",
     "url": "/publications/books/book-vi/part-08-consciousness-language-and-the-bridge-to-e/",
     "chapter_count": 3,
-    "summary_short": "The mixed sector's self-modeling capacity opens the door to $E_3$. **Consciousness** is defined structurally as the consumer sector's SelfDesc applied to its…"
+    "summary_short": "The mixed sector's self-modeling capacity opens the door to E₃. **Consciousness** is defined structurally as the consumer sector's SelfDesc applied to its…"
   },
   {
     "id": "book-vii-part-00-the-third-self-enrichment",
@@ -813,7 +813,7 @@
     "slug": "part-00-the-third-self-enrichment",
     "url": "/publications/books/book-vii/part-00-the-third-self-enrichment/",
     "chapter_count": 2,
-    "summary_short": "Book VII is the $E_3$ layer—the third and final self-enrichment of the coherence kernel. At $E_2$, a system carries and decodes its own code. At $E_3$, a…"
+    "summary_short": "Book VII is the E₃ layer—the third and final self-enrichment of the coherence kernel. At E₂, a system carries and decodes its own code. At E₃, a…"
   },
   {
     "id": "book-vii-part-01-the-metaphysics-definition",
@@ -837,7 +837,7 @@
     "slug": "part-02-categorical-ontology",
     "url": "/publications/books/book-vii/part-02-categorical-ontology/",
     "chapter_count": 17,
-    "summary_short": "**Sector $S_E$ (Empirical), Part 1 of 2.** What exists? Book VII begins from a single commitment: a foundational structure $τ$ whose admissible constructions…"
+    "summary_short": "**Sector S_E (Empirical), Part 1 of 2.** What exists? Book VII begins from a single commitment: a foundational structure τ whose admissible constructions…"
   },
   {
     "id": "book-vii-part-03-categorical-phenomenology",
@@ -849,7 +849,7 @@
     "slug": "part-03-categorical-phenomenology",
     "url": "/publications/books/book-vii/part-03-categorical-phenomenology/",
     "chapter_count": 8,
-    "summary_short": "**Sector $S_E$ (Empirical), Part 2 of 2.** How do we know? **Knowledge is sections over experience**—justified belief is sheaf gluing; perception is constraint…"
+    "summary_short": "**Sector S_E (Empirical), Part 2 of 2.** How do we know? **Knowledge is sections over experience**—justified belief is sheaf gluing; perception is constraint…"
   },
   {
     "id": "book-vii-part-04-categorical-aesthetics",
@@ -861,7 +861,7 @@
     "slug": "part-04-categorical-aesthetics",
     "url": "/publications/books/book-vii/part-04-categorical-aesthetics/",
     "chapter_count": 13,
-    "summary_short": "**Sector $S_D$ (Diagrammatic), Part 1 of 3.** What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary, not derivative. Beauty is…"
+    "summary_short": "**Sector S_D (Diagrammatic), Part 1 of 3.** What is beauty? **Pre-symbolic resonance** precedes language—aesthetics is primary, not derivative. Beauty is…"
   },
   {
     "id": "book-vii-part-05-categorical-language-meaning",
@@ -873,7 +873,7 @@
     "slug": "part-05-categorical-language-meaning",
     "url": "/publications/books/book-vii/part-05-categorical-language-meaning/",
     "chapter_count": 12,
-    "summary_short": "**Sector $S_D$ (Diagrammatic), Part 2 of 3.** How does meaning arise? Language adds **temporalization and mortality awareness**— the subsymbolic is real and…"
+    "summary_short": "**Sector S_D (Diagrammatic), Part 2 of 3.** How does meaning arise? Language adds **temporalization and mortality awareness**— the subsymbolic is real and…"
   },
   {
     "id": "book-vii-part-06-categorical-logic-inference",
@@ -885,7 +885,7 @@
     "slug": "part-06-categorical-logic-inference",
     "url": "/publications/books/book-vii/part-06-categorical-logic-inference/",
     "chapter_count": 10,
-    "summary_short": "**Sector $S_D$ (Diagrammatic), Part 3 of 3.** What is truth? **Boolean at micro scale, Bayesian at meso/macro**—logic is scale-dependent. Truth-bearers are…"
+    "summary_short": "**Sector S_D (Diagrammatic), Part 3 of 3.** What is truth? **Boolean at micro scale, Bayesian at meso/macro**—logic is scale-dependent. Truth-bearers are…"
   },
   {
     "id": "book-vii-part-07-categorical-ethics-the-kantian-bridge",
@@ -897,7 +897,7 @@
     "slug": "part-07-categorical-ethics-the-kantian-bridge",
     "url": "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/",
     "chapter_count": 18,
-    "summary_short": "**Sector $S_P$ (Practical), Part 1 of 2.** What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes theorem, not postulate.…"
+    "summary_short": "**Sector S_P (Practical), Part 1 of 2.** What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes theorem, not postulate.…"
   },
   {
     "id": "book-vii-part-08-categorical-societies",
@@ -909,7 +909,7 @@
     "slug": "part-08-categorical-societies",
     "url": "/publications/books/book-vii/part-08-categorical-societies/",
     "chapter_count": 12,
-    "summary_short": "**Sector $S_P$ (Practical), Part 2 of 2.** How do societies organize? **Sloterdijk's spheres** meet categorical structure—bubbles, globes, and foams. Dunbar…"
+    "summary_short": "**Sector S_P (Practical), Part 2 of 2.** How do societies organize? **Sloterdijk's spheres** meet categorical structure—bubbles, globes, and foams. Dunbar…"
   },
   {
     "id": "book-vii-part-09-categorical-mind-consciousness",
@@ -921,7 +921,7 @@
     "slug": "part-09-categorical-mind-consciousness",
     "url": "/publications/books/book-vii/part-09-categorical-mind-consciousness/",
     "chapter_count": 13,
-    "summary_short": "**Sector $S_C$ (Commitment).** What is mind? **Minds are internal topoi**—self-models with story functors. Consciousness is global section; intentionality is…"
+    "summary_short": "**Sector S_C (Commitment).** What is mind? **Minds are internal topoi**—self-models with story functors. Consciousness is global section; intentionality is…"
   },
   {
     "id": "book-vii-part-10-the-logos-sector",
@@ -933,7 +933,7 @@
     "slug": "part-10-the-logos-sector",
     "url": "/publications/books/book-vii/part-10-the-logos-sector/",
     "chapter_count": 6,
-    "summary_short": "**Sector $S_L$ (Logos — Mixed).** The Logos sector is the structural crown jewel of the second edition: the unique location in the 4+1 decomposition where…"
+    "summary_short": "**Sector S_L (Logos — Mixed).** The Logos sector is the structural crown jewel of the second edition: the unique location in the 4+1 decomposition where…"
   },
   {
     "id": "book-vii-part-11-categorical-genesis",
@@ -957,6 +957,6 @@
     "slug": "part-12-the-final-boundary-from-proof-to-commitment",
     "url": "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/",
     "chapter_count": 4,
-    "summary_short": "The $ω$-germ question—whether $ω$ is inhabited, and what that inhabitation means—is shown to be **diagrammatically unanswerable**. The boundary collapse lemma…"
+    "summary_short": "The ω-germ question—whether ω is inhabited, and what that inhabitation means—is shown to be **diagrammatically unanswerable**. The boundary collapse lemma…"
   }
 ]

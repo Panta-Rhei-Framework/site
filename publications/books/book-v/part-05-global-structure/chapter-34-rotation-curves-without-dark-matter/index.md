@@ -44,7 +44,7 @@ for the existence of dark matter.
 The observation is simple:
 stellar and gas velocities
 at the periphery of spiral galaxies
-do not decline as $v \propto r^{-1/2}$
+do not decline as v ∝ r^{-1/2}
 (the Keplerian falloff predicted
 for the visible mass distribution)
 but remain approximately constant
@@ -58,29 +58,29 @@ whose density profile
 is tuned to produce the observed curve.
 
 This chapter provides
-the $τ$-native explanation.
+the τ-native explanation.
 The D-sector coupling
-$κ(D;1) = 1 - ι_τ$
+κ(D;1) = 1 - ι_τ
 produces a capacity gradient
-$∇ C_D$
+∇ C_D
 at galactic scales
 (the relevant chapter,
 Proposition [prop:ch34-capacity-gradient-dark-matter])
 that enhances the gravitational acceleration
 beyond the Newtonian prediction
-(\S).
+(§).
 The enhancement is sufficient
 to flatten the rotation curve
 without introducing any new matter
-(\S).
+(§).
 
 The chapter proceeds to
 galaxy-by-galaxy predictions
-(\S),
+(§),
 a comparison with MOND
-(\S),
+(§),
 the structural impossibility
 of dark matter halos
-(\S),
+(§),
 and a catalogue of falsifiable signatures
-(\S).
+(§).

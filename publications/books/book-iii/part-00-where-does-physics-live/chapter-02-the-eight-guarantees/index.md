@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-00-where-does-physics-live/
 prev_chapter_title: "Chapter 1: Where Does Physics Live?"
 next_chapter_url: "/publications/books/book-iii/part-00-where-does-physics-live/chapter-03-the-reader-s-compass/"
 next_chapter_title: "Chapter 3: The Reader's Compass"
-summary_short: "The previous chapter established that three-dimensional Cartesian space is the Hartogs-projected bulk interior of the fibre torus $T^2$. But this projection is…"
+summary_short: "The previous chapter established that three-dimensional Cartesian space is the Hartogs-projected bulk interior of the fibre torus T². But this projection is…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-00-where-does-physics-live/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 The previous chapter established that three-dimensional Cartesian space
-is the Hartogs-projected bulk interior of the fibre torus $T^2$.
+is the Hartogs-projected bulk interior of the fibre torus T².
 But this projection is *local*:
-each particle's worldline carries its own $T^2$,
+each particle's worldline carries its own T²,
 its own bulk interior,
 its own three-dimensional neighbourhood.
 The global Cartesian space we inhabit requires all of these
@@ -51,5 +51,5 @@ one from each of the seven Clay Millennium Problems
 and one from the Langlands programme —
 that together ensure the local bulk projections glue
 into a single, globally consistent three-dimensional space.
-The self-enrichment layer $E_1$ is precisely this gluing.
-Physics *is* $E_1$.
+The self-enrichment layer E₁ is precisely this gluing.
+Physics *is* E₁.

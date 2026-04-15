@@ -41,7 +41,7 @@ right_rail:
 Where does the mind stop and the world begin? This chapter develops
 the extended mind thesis within the categorical framework. Clark and
 Chalmers' parity principle is reformulated as a carrier extension:
-the carrier domain $Ω_{body}$ is not fixed at the skull
+the carrier domain Ω_{body} is not fixed at the skull
 but extends to any substrate that supports the relevant morphism
 structure. The Extended Mind as Carrier Extension Proposition
 (VII.P28) shows that relational ontology naturally supports cognitive

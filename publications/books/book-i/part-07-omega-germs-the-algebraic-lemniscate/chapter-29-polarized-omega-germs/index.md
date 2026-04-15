@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-
 prev_chapter_title: "Chapter 28: Omega-Germs on the Ontic Elements"
 next_chapter_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-30-the-bipolar-spectral-algebra/"
 next_chapter_title: "Chapter 30: The Bipolar Spectral Algebra"
-summary_short: "the relevant chapter constructed omega-tails as the pre-topological boundary data of $τ$. This chapter introduces the decisive structural feature:…"
+summary_short: "the relevant chapter constructed omega-tails as the pre-topological boundary data of τ. This chapter introduces the decisive structural feature:…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/"
@@ -39,17 +39,17 @@ right_rail:
 
 
 the relevant chapter constructed omega-tails
-as the pre-topological boundary data of $τ$.
+as the pre-topological boundary data of τ.
 This chapter introduces the decisive structural feature:
 **polarization**.
 At each finite refinement depth,
 the local fiber of an omega-germ
-has two channel quotients — $B_n$ and $C_n$ —
-forming a local fiber product $T_n = B_n × C_n$.
+has two channel quotients — B_n and C_n —
+forming a local fiber product T_n = B_n × C_n.
 A germ is **polarized** when one channel
 eventually freezes while the other continues to refine.
 B-polarized germs correspond to B-dominant primes;
 C-polarized germs to C-dominant primes.
 The unique germ where *neither* channel freezes
 is the **crossing-point germ**,
-identified with the beacon $ω$.
+identified with the beacon ω.

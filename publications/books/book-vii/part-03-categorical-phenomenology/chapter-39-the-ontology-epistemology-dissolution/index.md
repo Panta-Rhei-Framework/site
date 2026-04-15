@@ -45,7 +45,7 @@ artefact of substance ontology: if reality is one substance and the
 mind another, a gap opens. In relational ontology, the observer is a
 node in the same relational web as the observed. Knowing is
 traversing the address space. The Ontology-Epistemology Collapse
-Theorem (VII.T18) shows that, for any $E_3$ observer with sufficient
+Theorem (VII.T18) shows that, for any E₃ observer with sufficient
 resources, the category of admissible ontological constructions and
 the category of knowledge-sections are equivalent. Skepticism,
 idealism, and naïve realism are all dissolved as consequences of

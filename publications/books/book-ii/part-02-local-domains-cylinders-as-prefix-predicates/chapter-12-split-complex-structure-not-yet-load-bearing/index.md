@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-a
 prev_chapter_title: "Chapter 11: Holomorphic Implies Continuous (The Inverted Dependency)"
 next_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape/chapter-13-compact-hausdorff-totally-disconnected/"
 next_chapter_title: "Chapter 13: Compact, Hausdorff, Totally Disconnected"
-summary_short: "Book I earned the split-complex algebra $H_τ$, the bipolar idempotents $e_± = (1 ± \\jj)/2$, the spectral characters $χ_±$, and the master constant $ι_τ = 2/(π…"
+summary_short: "Book I earned the split-complex algebra H_τ, the bipolar idempotents e_± = (1 ± j)/2, the spectral characters χ_±, and the master constant ι_τ = 2/(π…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-Book I earned the split-complex algebra $H_τ$,
-the bipolar idempotents $e_± = (1 ± \jj)/2$,
-the spectral characters $χ_±$,
-and the master constant $ι_τ = 2/(π + e)$.
+Book I earned the split-complex algebra H_τ,
+the bipolar idempotents e_± = (1 ± j)/2,
+the spectral characters χ_±,
+and the master constant ι_τ = 2/(π + e).
 All of these are available.
 None of them have been used.
 This chapter pauses to observe that
@@ -50,7 +50,7 @@ operate on a purely structural-algebraic
 and combinatorial-topological foundation:
 ABCD coordinates, CRT reduction maps,
 cylinders, the ultrametric, and omega-germ naturality.
-The split-complex codomain $H_τ$
+The split-complex codomain H_τ
 has not entered the argument.
 This is not an omission—it
 is the inverted dependency chain in action.

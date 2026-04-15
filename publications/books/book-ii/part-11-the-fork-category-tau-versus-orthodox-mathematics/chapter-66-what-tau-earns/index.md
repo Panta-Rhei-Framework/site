@@ -45,7 +45,7 @@ results where **the content is the same
 but the proof status differs**.
 
 Mode E (*Earned vs. Axiomatized*) identifies
-constructions where $τ$ *derives*
+constructions where τ *derives*
 what orthodox mathematics takes as axiom
 or obtains via a fundamentally different proof.
 The mathematical content is identical;

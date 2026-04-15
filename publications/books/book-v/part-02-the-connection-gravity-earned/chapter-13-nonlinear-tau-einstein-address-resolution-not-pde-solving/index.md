@@ -56,23 +56,23 @@ control over solutions
 that the equations resist providing.
 
 This chapter shows that none of these problems arise
-in the $τ$-framework.
-The $τ$-Einstein equation
+in the τ-framework.
+The τ-Einstein equation
 (the relevant chapter, V.D06)
 is not a PDE.
 It is a **boundary-character identity**
-in the holonomy algebra $H_∂[ω]$,
+in the holonomy algebra H_∂[ω],
 and its nonlinear regime is solved
 by **address resolution**:
 finding the unique boundary character
 that satisfies the cocycle-defect minimization principle.
 Existence, uniqueness, and selection
-are theorems (\S),
+are theorems (§),
 not conjectures.
-The profinite structure of Category $τ$
+The profinite structure of Category τ
 provides a natural resolution scale
 that eliminates point masses and curvature singularities
-(\S).
+(§).
 Horizons emerge as present surfaces
-of the null structure on $τ^3$
-(\S).
+of the null structure on τ³
+(§).

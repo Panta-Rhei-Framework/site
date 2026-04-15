@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-00-earned-foundations/chapter
 prev_chapter_title: "Chapter 1: Earned Foundations"
 next_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapter-03-the-iterator-rho-and-the-omega-beacon/"
 next_chapter_title: "Chapter 3: The Iterator ρ and the Omega Beacon"
-summary_short: "We introduce the five generators of Category $τ$: $α$, $π$, $γ$, $η$, and $ω$, arranged in a strict total order $α < π < γ < η < ω$. These five objects are the…"
+summary_short: "We introduce the five generators of Category τ: α, π, γ, η, and ω, arranged in a strict total order α < π < γ < η < ω. These five objects are the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-01-the-coherence-kernel/"
@@ -38,12 +38,12 @@ right_rail:
 ---
 
 
-We introduce the five generators of Category $τ$:
-$α$, $π$, $γ$, $η$, and $ω$,
-arranged in a strict total order $α < π < γ < η < ω$.
+We introduce the five generators of Category τ:
+α, π, γ, η, and ω,
+arranged in a strict total order α < π < γ < η < ω.
 These five objects are the entire primitive vocabulary of the theory.
 No further constants, function symbols, or relation symbols
 will be introduced — every subsequent structure is earned from this starting point
-and the single operator $ρ$ .
-We state the first kernel axiom ($K1$: Strict Order)
+and the single operator ρ .
+We state the first kernel axiom (K1: Strict Order)
 and derive the immediate consequence that all five generators are pairwise distinct.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 28: Electroweak Synthesis"
 next_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-30-confinement-as-address-irresolvability/"
 next_chapter_title: "Chapter 30: Confinement as Address Irresolvability"
-summary_short: "The electromagnetic and weak sectors occupy the $χ_+$-dominant and balanced regions of the spectral page. The strong sector is different: it is $χ_-$-dominant,…"
+summary_short: "The electromagnetic and weak sectors occupy the χ_+-dominant and balanced regions of the spectral page. The strong sector is different: it is χ_--dominant,…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/"
@@ -38,13 +38,13 @@ right_rail:
 ---
 
 
-The electromagnetic and weak sectors occupy the $χ_+$-dominant and balanced
+The electromagnetic and weak sectors occupy the χ_+-dominant and balanced
 regions of the spectral page. The strong sector is different: it is
-$χ_-$-dominant, governed by the $η$-generator, and its vacuum is
+χ_--dominant, governed by the η-generator, and its vacuum is
 *non-trivial*. Where the photon propagates through a structureless void,
 the strong vacuum seethes with topological content. This chapter introduces
-the C-sector—the third force sector on the $E_1$ page—derives its
-vacuum coupling $κ(C;3) = ι_τ^3/(1 - ι_τ)$, and then
-unpacks the internal geometry of SU(3): colour as branch index on $T^2$,
+the C-sector—the third force sector on the E₁ page—derives its
+vacuum coupling κ(C;3) = ι_τ³/(1 - ι_τ), and then
+unpacks the internal geometry of SU(3): colour as branch index on T²,
 the eight gluons as the SU(3) connection, and colour holonomy as
-path-ordered parallel transport on the $τ^3$ fiber bundle.
+path-ordered parallel transport on the τ³ fiber bundle.

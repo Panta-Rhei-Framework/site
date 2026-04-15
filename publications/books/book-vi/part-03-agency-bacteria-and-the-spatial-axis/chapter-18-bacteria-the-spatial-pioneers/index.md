@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Bacteria are the most abundant organisms on Earth, colonizing every environment from deep ocean vents to the upper atmosphere. Their motility mechanisms—flagella, pili, and gliding—instantiate the $π$-orbit of the agency sector. Biofilm formation demonstrates collective agency through quorum sensing, while horizontal gene transfer extends agency to the information level.
+Bacteria are the most abundant organisms on Earth, colonizing every environment from deep ocean vents to the upper atmosphere. Their motility mechanisms—flagella, pili, and gliding—instantiate the π-orbit of the agency sector. Biofilm formation demonstrates collective agency through quorum sensing, while horizontal gene transfer extends agency to the information level.

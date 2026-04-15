@@ -46,16 +46,16 @@ relies on diagonal arguments that require contraction.
 This chapter locates the barrier categorically.
 In cartesian closed categories,
 the diagonal morphism
-$Δ_A : A → A × A$ always exists;
+Δ_A : A → A × A always exists;
 Lawvere's fixed-point theorem makes incompleteness inevitable.
-In $*$-autonomous categories —
+In *-autonomous categories —
 the categorical semantics of linear logic —
 no general diagonal exists.
-$K5$'s diagonal discipline
+K5's diagonal discipline
 (the relevant definition, I.D03),
-which maps onto the $!$-free fragment of linear logic
+which maps onto the !-free fragment of linear logic
 (the relevant theorem, I.T37),
 structurally excludes the diagonal morphisms
 that Lawvere's theorem requires.
-$τ$'s proof theory lives
-on the $*$-autonomous side of the divide.
+τ's proof theory lives
+on the *-autonomous side of the divide.

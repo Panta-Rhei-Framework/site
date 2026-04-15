@@ -10,7 +10,7 @@ part_number: 9
 part_display: "Part IX"
 part_slug: "part-09-earned-number-systems"
 chapter_count: 4
-summary_short: "Part VIII introduced the number tower $ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ$ , establishing definitions and basic properties for each level.…"
+summary_short: "Part VIII introduced the number tower ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ ⊆ ℝ_τ ⊆ ℂ_τ , establishing definitions and basic properties for each level.…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -31,8 +31,8 @@ right_rail:
 
 
 Part VIII introduced the number tower
-$ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ
-⊆ ℝ_τ ⊆ ℂ_τ$
+ℕ_τ ⊆ ℤ_τ ⊆ ℚ_τ
+⊆ ℝ_τ ⊆ ℂ_τ
 ,
 establishing definitions and basic properties for each level.
 The first three levels — naturals, integers, rationals —
@@ -41,23 +41,23 @@ via finite algebraic constructions.
 
 This Part develops the upper levels of the tower
 into fully operational algebraic objects.
-The constructive reals $ℝ_τ$
+The constructive reals ℝ_τ
 receive their complete ordered field structure
 and the Archimedean property that distinguishes them
-from the profinite boundary ring $\widehatℤ_τ$.
-The elliptic complex field $ℂ_τ = ℝ_τ[i]$
-with $i^2 = -1$ is placed alongside its hyperbolic counterpart
-$\widehatℤ_τ[j]$ with $j^2 = +1$,
+from the profinite boundary ring ℤ_τ.
+The elliptic complex field ℂ_τ = ℝ_τ[i]
+with i² = -1 is placed alongside its hyperbolic counterpart
+ℤ_τ[j] with j² = +1,
 making the *elliptic–hyperbolic dichotomy* explicit.
 
 Two new algebraic structures complete the picture.
 The **elliptic quaternions**
-$ℍ_τ = ℝ_τ[i,j,k]$
+ℍ_τ = ℝ_τ[i,j,k]
 earn non-commutativity as a structural consequence
 of extending beyond two dimensions,
-and give $τ$ its first non-commutative division algebra.
+and give τ its first non-commutative division algebra.
 The **cyclotomic fields**
-$ℚ^cyc_τ = ℚ_τ(ζ_n)$
+ℚ^cyc_τ = ℚ_τ(ζ_n)
 connect the roots of unity
 to the CRT decomposition that already pervades
 the boundary ring and spectral characters,
@@ -68,7 +68,7 @@ Every construction in this Part is purely algebraic —
 no topology, no geometry, no analysis beyond
 the constructive Cauchy completion.
 The number systems are hosted by the spectral character algebra
-$H_τ$ and serve as the scalar fields
+H_τ and serve as the scalar fields
 for all subsequent enrichment layers.
 
 ## Chapters

@@ -10,7 +10,7 @@ part_number: 4
 part_display: "Part IV"
 part_slug: "part-04-the-abcd-coordinate-chart"
 chapter_count: 5
-summary_short: "Parts I–III established the bare-metal foundations of Category $τ$: a static kernel of five generators and six axioms (Part I), a single generative act…"
+summary_short: "Parts I–III established the bare-metal foundations of Category τ: a static kernel of five generators and six axioms (Part I), a single generative act…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-Parts I–III established the bare-metal foundations of Category $τ$:
+Parts I–III established the bare-metal foundations of Category τ:
 a static kernel of five generators and six axioms (Part I),
 a single generative act producing four orbit rays
 under an ontic seal (Part II),
@@ -38,23 +38,23 @@ and a denotational bridge earning internal natural numbers,
 index arithmetic, and a well-ordered universe (Part III).
 
 With arithmetic now in place — addition, multiplication,
-exponentiation, and tetration, all earned from the sole operator $ρ$
+exponentiation, and tetration, all earned from the sole operator ρ
 via the fold chain (Remark [rem:fold-chain-principle])
 — we can ask the first pivotal question:
-*can every object of $τ$ be canonically addressed
+*can every object of τ be canonically addressed
 by a finite tuple of typed coordinates?*
 
 This Part defines the **ABCD coordinate chart**:
-a canonical map $Φ(x) = (A, B, C, D)$ obtained by
-a greedy peel-off of tower atoms from the prime factorization of $x$.
+a canonical map Φ(x) = (A, B, C, D) obtained by
+a greedy peel-off of tower atoms from the prime factorization of x.
 The forced normal form
-$X = ((A ↑↑ C)^B) · D$
+X = ((A ↑↑ C)^B) · D
 is the *only* nesting compatible with the diagonal discipline.
 The four coordinates correspond to the four orbit channels:
-$A$ (the $π$-channel: largest prime),
-$B$ (the $γ$-channel: exponent),
-$C$ (the $η$-channel: tetration height),
-$D$ (the $α$-channel: remainder).
+A (the π-channel: largest prime),
+B (the γ-channel: exponent),
+C (the η-channel: tetration height),
+D (the α-channel: remainder).
 
 The chapter sequence:
 the relevant chapter earns internal primes and divisibility
@@ -64,7 +64,7 @@ and the greedy peel-off algorithm.
 the relevant chapter constructs the normal form encoding.
 the relevant chapter defines the ABCD chart itself.
 the relevant chapter derives the dimension
-$\dim_τ = 4$ and previews the fibration structure.
+dim_τ = 4 and previews the fibration structure.
 
 Part V will prove that this chart is *unique*
 — the Hyperfactorization Theorem, the first of the two hinge theorems

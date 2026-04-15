@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-4
 prev_chapter_title: "Chapter 44: Inflation-as-Regime: No Inflaton Sector"
 next_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-46-the-beta-decay-bookends/"
 next_chapter_title: "Chapter 46: The Beta-Decay Bookends"
-summary_short: "The universe cools. As the boundary characters decrease along the $α$-orbit, the physical readout passes through a sequence of qualitative transitions —…"
+summary_short: "The universe cools. As the boundary characters decrease along the α-orbit, the physical readout passes through a sequence of qualitative transitions —…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-06-eternal-dynamics/"
@@ -40,7 +40,7 @@ right_rail:
 
 The universe cools.
 As the boundary characters decrease
-along the $α$-orbit,
+along the α-orbit,
 the physical readout passes through
 a sequence of qualitative transitions —
 moments when the dominant physics changes
@@ -50,11 +50,11 @@ these are called *phase transitions*:
 the electroweak transition,
 the QCD transition,
 nucleosynthesis, recombination.
-In Category $τ$,
+In Category τ,
 they are **thresholds** —
 character-level crossings
 where one sector's contribution
-to the source term $T$
+to the source term T
 drops below a critical value
 and another sector takes over.
 
@@ -67,14 +67,14 @@ and recombination.
 Each threshold is defined intrinsically —
 as a crossing condition on the boundary characters —
 not as a temperature or energy scale.
-The neutron threshold $L_N$
+The neutron threshold L_N
 is identified as a kernel invariant:
 the refinement depth at which
-the $η$-sector (Strong) confines
+the η-sector (Strong) confines
 and stable composite nucleons appear.
 
 The chapter includes two honest scope boundaries:
-the $τ$-sphaleron question
+the τ-sphaleron question
 (baryon number violation, Sakharov conditions)
 is flagged as an *open question*,
 and the precise baryogenesis mechanism

@@ -10,7 +10,7 @@ part_number: 0
 part_display: "Prologue"
 part_slug: "part-00-two-arcs-from-one-neutron"
 chapter_count: 2
-summary_short: "The Prologue frames Book IV as a whole. Chapter 1 introduces the self-describing thesis: physics is what happens when the coherence kernel $τ$ represents…"
+summary_short: "The Prologue frames Book IV as a whole. Chapter 1 introduces the self-describing thesis: physics is what happens when the coherence kernel τ represents…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 right_rail:
@@ -32,11 +32,11 @@ right_rail:
 
 The Prologue frames Book IV as a whole.
 Chapter 1 introduces the self-describing thesis:
-physics is what happens when the coherence kernel $τ$
+physics is what happens when the coherence kernel τ
 represents itself on its own boundary.
-The fiber–base decomposition splits $τ^3$
-into microcosm (fiber $T^2$, Book IV)
-and macrocosm (base $τ^1$, Book V),
+The fiber–base decomposition splits τ³
+into microcosm (fiber T², Book IV)
+and macrocosm (base τ¹, Book V),
 and the Hermetic Principle declares their union complete.
 Two arcs traverse this physics:
 the *Complexity Arc* (Book IV) climbs from the neutron
@@ -45,11 +45,11 @@ the *Force Arc* (Book V) descends from gravity
 through gauge forces and cosmology.
 Both arcs share a common root—the Joint Core of Part I—and
 both are powered by a single constant:
-$ι_τ = 2/(π + e)$.
+ι_τ = 2/(π + e).
 
 Chapter 2 collects the three deliverables inherited
-from Books I–III—the five generators, the $4+1$ sector template,
-and the $E_1$ export contracts—so that nothing need be re-derived.
+from Books I–III—the five generators, the 4+1 sector template,
+and the E₁ export contracts—so that nothing need be re-derived.
 
 ## Chapters
 

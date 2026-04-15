@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-c
 prev_chapter_title: "Chapter 53: Liouville Categorical Dodge and Categoricity"
 next_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-55-tau-manifold-structure-from-holomorphic-atlas/"
 next_chapter_title: "Chapter 55: τ-Manifold Structure from Holomorphic Atlas"
-summary_short: "This chapter is an audit. It traces the complete logical path from the seven axioms $K0$–$K6$ of Book I through every definition, lemma, and theorem of Books I…"
+summary_short: "This chapter is an audit. It traces the complete logical path from the seven axioms K0–K6 of Book I through every definition, lemma, and theorem of Books I…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
@@ -40,12 +40,12 @@ right_rail:
 
 This chapter is an audit.
 It traces the complete logical path from
-the seven axioms $K0$–$K6$
+the seven axioms K0–K6
 of Book I
 through every definition, lemma, and theorem
 of Books I and II
 to the Central Theorem
-$O(τ^3) ≅ A_{spec}(\Lemniscate)$
+O(τ³) ≅ A_spec(𝕃)
 (the relevant theorem, II.T40).
 The dependency is organized as a directed acyclic graph
 (the relevant definition, II.D62)
@@ -54,7 +54,7 @@ and whose unique sink is the Central Theorem.
 The **Complete Dependency Chain**
 (Remark [rem:complete-dependency], II.R17)
 then verifies that *every* step in this graph
-is earned from within the $τ$-framework:
+is earned from within the τ-framework:
 no topology was imported,
 no geometry was assumed,
 no transcendentals were postulated,

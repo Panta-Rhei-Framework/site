@@ -46,5 +46,5 @@ ecosystems, structural value, sustainability), and AI ethics (duties
 toward and concerning artificial systems). In each case, the four
 categorical tests — universalizability, respect, coherence,
 monodromy — together with the sheaf condition and the admissibility
-constraint $L_{dig}$ yield principled guidance without
+constraint L_dig yield principled guidance without
 importing ad hoc postulates.

@@ -35,18 +35,18 @@ every structural theorem developed throughout Book IV.
 
 The complete coupling ledger 
 tabulates all ten inter-sector couplings as rational functions
-of a single number $ι_τ$.
+of a single number ι_τ.
 The ontological layer stack
 
 organizes the derivations into a strict hierarchy:
 geometry first, spectral theory second, calibration third.
 The running-versus-readout distinction
 
-explains why $τ^3$ has no renormalization group flow:
+explains why τ³ has no renormalization group flow:
 constants are read out, not run.
 The 10-link mass ratio chain
 
-derives $R = m_n / m_e$ from $ι_τ$ alone,
+derives R = m_n / m_e from ι_τ alone,
 matching CODATA to sub-ppm precision.
 The neutron lifetime
 
@@ -56,7 +56,7 @@ depending on every earlier derivation.
 Laws as structure
 
 argues that physical laws are not external prescriptions
-but diagram-level tautologies within $τ^3$.
+but diagram-level tautologies within τ³.
 And the finale
 
 confronts the thesis that gives Book IV its name:

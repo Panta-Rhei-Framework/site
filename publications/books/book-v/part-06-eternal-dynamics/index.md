@@ -36,8 +36,8 @@ Where does it go?
 What are black holes?*
 
 The answers all flow from a single structural principle:
-the same $τ$-Einstein equation
-$R^H = κ_τ · T$
+the same τ-Einstein equation
+R^H = κ_τ · T
 that governs stars and planets
 also governs the extreme regimes
 at the beginning and end of time.
@@ -50,10 +50,10 @@ that enter the equation.
 Twelve chapters trace the arc:
 
 **Chapters 46–47** derive the Big Bang and inflation
-as *regimes* of the $τ$-Einstein equation,
+as *regimes* of the τ-Einstein equation,
 not as separate events requiring new physics.
 The Big Bang is the opening of the temporal epoch
-at $α_a = α_1$;
+at α_a = α₁;
 inflation is the pre-hadronic regime
 in which all sectors are maximally coupled.
 No inflaton field is introduced —
@@ -62,18 +62,18 @@ forbids a sixth sector.
 
 **Chapter 48** constructs the threshold ladder:
 the canonical sequence of regime transitions
-$L_{EW} → L_B → L_N → L_{nuc}
-→ L_H → L_γ$
+L_EW → L_B → L_N → L_nuc
+→ L_H → L_γ
 from electroweak symmetry restoration
 through baryogenesis, nucleosynthesis,
 hydrogen formation, and recombination.
 
-**Chapters 49–51** develop the $τ$-native black hole.
+**Chapters 49–51** develop the τ-native black hole.
 Black holes are *topological events*:
 the emergence of a non-contractible linking class
-in $τ^3$ when gravitational tension
+in τ³ when gravitational tension
 exceeds the spherical capacity.
-Their horizon is toroidal ($T^2$, not $S^2$),
+Their horizon is toroidal (T², not S²),
 they are necessarily bipolar
 (from the lemniscate boundary structure),
 and they obey the No-Shrink Theorem:
@@ -91,8 +91,8 @@ When Part VI is complete,
 the universe has a *biography* —
 origin, structure, dynamics, and fate —
 all derived from the kernel axioms
-$K0$–$K6$
-and the master constant $ι_τ = 2/(π + e)$.
+K0–K6
+and the master constant ι_τ = 2/(π + e).
 
 ## Chapters
 

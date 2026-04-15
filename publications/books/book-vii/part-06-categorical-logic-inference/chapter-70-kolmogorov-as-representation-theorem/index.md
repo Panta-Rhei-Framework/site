@@ -44,7 +44,7 @@ foundation of the subject: probability is whatever satisfies these
 axioms. This chapter inverts the explanatory direction. The
 Kolmogorov axioms are not ontological primitives but *representation
 conditions*: they encode how the internal complexity of
-$τ$-constructions projects into numerical measures. Probability is
+τ-constructions projects into numerical measures. Probability is
 derivative; structure is primary. The axioms are consequences of the
 kernel's architecture, not independent postulates, and the synthesis
 of Bayesian credences  with

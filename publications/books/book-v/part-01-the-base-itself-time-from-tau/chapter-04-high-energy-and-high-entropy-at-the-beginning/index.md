@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-
 prev_chapter_title: "Chapter 3: The Temporal Ignition: Why a "Time Epoch" Starts"
 next_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-05-the-macro-readout-operational-distance-and-photon-ontology/"
 next_chapter_title: "Chapter 5: The Macro Readout: Operational Distance and Photon Ontology"
-summary_short: "The preceding chapters established proper time as arc length along $τ^1$ and identified three temporal epochs. The temporal epoch begins at the ignition depth…"
+summary_short: "The preceding chapters established proper time as arc length along τ¹ and identified three temporal epochs. The temporal epoch begins at the ignition depth…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/"
@@ -39,29 +39,29 @@ right_rail:
 
 
 The preceding chapters established
-proper time as arc length along $τ^1$
+proper time as arc length along τ¹
 and identified three temporal epochs.
-The temporal epoch begins at the ignition depth $n_{ign}$,
+The temporal epoch begins at the ignition depth n_ign,
 where the boundary holonomy algebra first supports
 stable oscillating modes.
 But what are the physical conditions
-at and just past $n_{ign}$?
+at and just past n_ign?
 
 This chapter answers:
 *hot, dense, and maximally coupled.*
 At early refinement depths,
-all spectral modes of $H_∂[ω]$
+all spectral modes of H_∂[ω]
 are active —
 no mode has yet been suppressed
 by primorial filtering —
 and all five sectors
-are maximally coupled through $ω$.
-The $τ$-Einstein equation (V.D06)
+are maximally coupled through ω.
+The τ-Einstein equation (V.D06)
 applies at all depths,
 but in the opening regime
 its readout is extreme:
 boundary characters carry maximal energy,
-the coupling constant $κ_τ = 1 - ι_τ$
+the coupling constant κ_τ = 1 - ι_τ
 is at full strength,
 and the resulting chart-level readout
 is what orthodox physics calls

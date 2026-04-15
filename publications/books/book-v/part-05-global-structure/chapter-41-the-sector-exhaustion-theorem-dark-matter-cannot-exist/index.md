@@ -50,7 +50,7 @@ and the cosmic web
 
 are all accounted for
 by the boundary holonomy mass
-of Category $τ$.
+of Category τ.
 
 This chapter makes a stronger claim.
 Dark matter is not merely unnecessary:
@@ -58,23 +58,23 @@ it is **structurally impossible**.
 The argument is purely algebraic
 and rests on three premises:
 enumerate[(i)]
- - The coherence kernel of Category $τ$
+ - The coherence kernel of Category τ
  has exactly five generators
- $\{α, π, γ, η, ω\}$
+ {α, π, γ, η, ω}
  (the 5-Generator Theorem, Book I).
  - Each generator maps to exactly one sector
  through the Generator–Sector Correspondence
  (Book IV, Chapter 6).
- - The fifth generator $ω$
+ - The fifth generator ω
  is not independent:
- $ω = γ ∩ η$
+ ω = γ ∩ η
  (the crossing point of the lemniscate).
 enumerate
 The result is the Sector Exhaustion Theorem
 :
 the boundary holonomy algebra decomposes as
-$H_∂[ω]
-= ⊕_{X ∈ \{A,B,C,D\}} H_X ⊕ H_ω$,
+H_∂[ω]
+= ⊕_{X ∈ {A,B,C,D}} H_X ⊕ H_ω,
 and this decomposition is *exhaustive*.
 There is no remainder term,
 no hidden sector,
@@ -88,8 +88,8 @@ no dark energy field
 and no fifth force
 (Corollary [cor:ch44-no-fifth-force]).
 The 68% "dark energy" and 27% "dark matter"
-of the $Λ$CDM budget
+of the ΛCDM budget
 are not substance but readout artifacts—projections
-of the $τ$-structure
+of the τ-structure
 onto an ontologically impoverished framework
 that has too few categories to parse them correctly.

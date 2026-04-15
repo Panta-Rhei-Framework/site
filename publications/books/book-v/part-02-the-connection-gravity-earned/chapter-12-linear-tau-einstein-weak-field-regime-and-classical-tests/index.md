@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-02-the-connection-gravity-ear
 prev_chapter_title: "Chapter 11: The τ-Einstein Equation: Boundary-Character Equality"
 next_chapter_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-13-nonlinear-tau-einstein-address-resolution-not-pde-solving/"
 next_chapter_title: "Chapter 13: Nonlinear τ-Einstein: Address Resolution, Not PDE Solving"
-summary_short: "The $τ$-Einstein equation $R^H = κ_τ · T^{mat}$ is a boundary-character identity valid at all scales. This chapter extracts its *linear* regime: the…"
+summary_short: "The τ-Einstein equation R^H = κ_τ · T^mat is a boundary-character identity valid at all scales. This chapter extracts its *linear* regime: the…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/"
@@ -38,8 +38,8 @@ right_rail:
 ---
 
 
-The $τ$-Einstein equation
-$R^H = κ_τ · T^{mat}$
+The τ-Einstein equation
+R^H = κ_τ · T^mat
 is a boundary-character identity
 valid at all scales.
 This chapter extracts its *linear* regime:
@@ -54,10 +54,10 @@ the deflection of starlight,
 gravitational redshift,
 and gravitational waves—as
 linear readouts
-of the full $τ$-Einstein identity.
+of the full τ-Einstein identity.
 No approximation beyond linearity is needed.
 Every prediction matches the orthodox GR result
 to the precision of the measurements,
 because the chart shadow
-of the linearized $τ$-Einstein equation
+of the linearized τ-Einstein equation
 *is* the linearized Einstein equation.

@@ -10,7 +10,7 @@ part_number: 5
 part_display: "Part V"
 part_slug: "part-05-particles-generations-and-nuclear-physics"
 chapter_count: 10
-summary_short: "Forces are not the destination—they are the *tools*. Parts III and IV surveyed the four force sectors on the $E_1$ spectral page: electromagnetic, weak,…"
+summary_short: "Forces are not the destination—they are the *tools*. Parts III and IV surveyed the four force sectors on the E₁ spectral page: electromagnetic, weak,…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 right_rail:
@@ -31,34 +31,34 @@ right_rail:
 
 
 Forces are not the destination—they are the *tools*.
-Parts III and IV surveyed the four force sectors on the $E_1$ spectral page:
-electromagnetic, weak, strong, and the $ω$-crossing.
+Parts III and IV surveyed the four force sectors on the E₁ spectral page:
+electromagnetic, weak, strong, and the ω-crossing.
 With these tools in hand, the complexity arc begins in earnest.
 
 Part V builds upward from the generation structure of fermions
 to the full nuclear landscape and the periodic table.
 the relevant chapter derives three generations
-as a topological necessity of $π_1(τ^3)$, and
+as a topological necessity of π₁(τ³), and
 the relevant chapter unpacks the Koide relation
-and mass hierarchies from character mode structure on $𝕃$.
+and mass hierarchies from character mode structure on 𝕃.
 the relevant chapter treats hadrons as confined composites;
 the relevant chapter develops the micro-donut
-and its ternary structure—baryons as three-fold $T^2$ saturation,
+and its ternary structure—baryons as three-fold T² saturation,
 mesons as two-fold.
 Chapters –
 traverse the nuclear landscape:
-the $α$-particle as universal building block,
+the α-particle as universal building block,
 light nuclei from helium to iron,
 heavy elements forged in supernovae and neutron star mergers,
-and stellar nucleosynthesis as $T^2$ saturation writ large.
+and stellar nucleosynthesis as T² saturation writ large.
 the relevant chapter derives the periodic table
-as a structural consequence of $T^2$ quantisation,
+as a structural consequence of T² quantisation,
 and the relevant chapter
 closes Part V with the complete particle spectrum—every Standard Model
 particle located, every coupling derived, zero free parameters
-beyond the neutron mass $m_n$.
+beyond the neutron mass m_n.
 
-By the end of Part V, the fiber $T^2$ has yielded everything:
+By the end of Part V, the fiber T² has yielded everything:
 particles, forces, generations, nuclei, atoms, elements.
 The microcosm is complete.
 

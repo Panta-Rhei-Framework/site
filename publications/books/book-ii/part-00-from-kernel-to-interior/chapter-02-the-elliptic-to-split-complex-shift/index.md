@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-00-from-kernel-to-interior/c
 prev_chapter_title: "Chapter 1: The Boundary-First Paradigm"
 next_chapter_url: "/publications/books/book-ii/part-00-from-kernel-to-interior/chapter-03-roadmap-and-inverted-dependency/"
 next_chapter_title: "Chapter 3: Roadmap and Inverted Dependency"
-summary_short: "Classical complex analysis is built on the elliptic unit $i^2 = -1$. The Cauchy–Riemann equations, conformal mappings, the Laplacian, and the entire edifice of…"
+summary_short: "Classical complex analysis is built on the elliptic unit i² = -1. The Cauchy–Riemann equations, conformal mappings, the Laplacian, and the entire edifice of…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-00-from-kernel-to-interior/"
@@ -39,18 +39,18 @@ right_rail:
 
 
 Classical complex analysis is built on the elliptic unit
-$i^2 = -1$.
+i² = -1.
 The Cauchy–Riemann equations, conformal mappings,
 the Laplacian, and the entire edifice of holomorphic
 function theory rest on the rotational symmetry
-that $i$ provides.
+that i provides.
 This chapter explains why elliptic structure
-*fails* for Category $τ$—and
-why the split-complex unit $j^2 = +1$
+*fails* for Category τ—and
+why the split-complex unit j² = +1
 is not merely an alternative but a **forced consequence**
 of the bipolar boundary structure
 earned in Book I.
 The chapter closes by defining the split-complex
-codomain $H_τ$ that will serve as the
+codomain H_τ that will serve as the
 scalar target for every holomorphic function
 in the remainder of this book.

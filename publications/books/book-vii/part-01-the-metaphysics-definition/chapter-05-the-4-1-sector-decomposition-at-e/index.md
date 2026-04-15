@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definiti
 prev_chapter_title: "Chapter 4: SelfDesc-of-SelfDesc: The E₃ Structure"
 next_chapter_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-06-sector-witness-bundles-vacua-and-normalizers/"
 next_chapter_title: "Chapter 6: Sector Witness Bundles, Vacua, and Normalizers"
-summary_short: "The abstract 4+1 sector template—discovered in Book III, Part II and instantiated at $E_1$ (physics, Books IV–V) and $E_2$ (life, Book VI)—is now concretely…"
+summary_short: "The abstract 4+1 sector template—discovered in Book III, Part II and instantiated at E₁ (physics, Books IV–V) and E₂ (life, Book VI)—is now concretely…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-01-the-metaphysics-definition/"
@@ -39,10 +39,10 @@ right_rail:
 
 
 The abstract 4+1 sector template—discovered in Book III, Part II and
-instantiated at $E_1$ (physics, Books IV–V) and $E_2$ (life, Book VI)—is
-now concretely instantiated at $E_3$ (metaphysics). Four pure sectors
-($S_E$, $S_P$, $S_D$, $S_C$) correspond to the four registers of reason.
-The mixed Logos sector $S_L$ is the unique structural location where
+instantiated at E₁ (physics, Books IV–V) and E₂ (life, Book VI)—is
+now concretely instantiated at E₃ (metaphysics). Four pure sectors
+(S_E, S_P, S_D, S_C) correspond to the four registers of reason.
+The mixed Logos sector S_L is the unique structural location where
 proof-validity equals stance-stability. The Sector Decomposition Theorem
-proves that every $E_3$-admissible content belongs to exactly one pure
+proves that every E₃-admissible content belongs to exactly one pure
 sector or to the mixed sector.

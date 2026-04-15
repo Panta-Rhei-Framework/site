@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-hol
 prev_chapter_title: "Chapter 34: Composition, Identity, Associativity"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-36-the-canonical-holomorphic-basis-b/"
 next_chapter_title: "Chapter 36: The Canonical Holomorphic Basis B"
-summary_short: "Classical Laurent theory expands a holomorphic function in an annulus $\\{r_1 < |z| < r_2\\}$ as a doubly-infinite power series $∑_{n=-∞}^∞ a_n z^n$, with the…"
+summary_short: "Classical Laurent theory expands a holomorphic function in an annulus \{r₁ < |z| < r₂\} as a doubly-infinite power series ∑_{n=-∞}^∞ a_n z^n, with the…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
@@ -40,33 +40,31 @@ right_rail:
 
 Classical Laurent theory
 expands a holomorphic function
-in an annulus $\{r_1 < |z| < r_2\}$
+in an annulus {r₁ < |z| < r₂}
 as a doubly-infinite power series
-$∑_{n=-∞}^∞ a_n z^n$,
-with the residue $a_{-1}$
+∑_{n=-∞}^∞ a_n z^n,
+with the residue a_-1
 computed by contour integration
 around the singularity Ahlfors1979,Conway1978.
 None of this machinery is available
 in the split-complex setting:
-there is no rotation group $SO(2)$,
+there is no rotation group SO(2),
 no contour integration,
 and no annular domains
-in the sense of $ℂ$.
+in the sense of ℂ.
 This chapter develops the
-$τ$-analogue of Laurent expansion.
+τ-analogue of Laurent expansion.
 The key insight is that the bipolar spectral decomposition
 (I.T10, I.D21, Book I)
 replaces the circular Fourier decomposition.
-A $τ$-holomorphic function
+A τ-holomorphic function
 decomposes into two independent channel series:
-$$
- f
+<div class="math-display">f
  = 
- ∑_n a_n e_+ φ_n^{(+)}
+ ∑_n a_n e_+ φ_n^(+)
  + 
- ∑_n b_n e_- φ_n^{(-)},
-$$
-where $φ_n^{(±)}$ are the sector basis functions.
+ ∑_n b_n e_- φ_n^(-),</div>
+where φ_n^(±) are the sector basis functions.
 **Residues** emerge as
 spectral coefficients at distinguished frequencies
 (the relevant definition, II.D43)—not

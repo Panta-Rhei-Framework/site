@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-11-tau/chapter-45-boolean-rec
 prev_chapter_title: "Chapter 45: Boolean Recovery and the Subobject Classifier Preview"
 next_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/chapter-47-tower-coherence-and-tau/"
 next_chapter_title: "Chapter 47: Tower Coherence and τ"
-summary_short: "the relevant chapter earned the split-complex scalar ring $\\hatℤ_τ[j]$ (the relevant definition, I.D20), and the relevant chapter…"
+summary_short: "the relevant chapter earned the split-complex scalar ring ℤ_τ[j] (the relevant definition, I.D20), and the relevant chapter…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-12-holomorphic-transformers/"
@@ -40,16 +40,16 @@ right_rail:
 
 the relevant chapter earned the
 split-complex scalar ring
-$\hatℤ_τ[j]$
+ℤ_τ[j]
 (the relevant definition, I.D20),
 and the relevant chapter constructed
 the bipolar spectral algebra
-$H_τ = \hatℤ_τ[j]$
+H_τ = ℤ_τ[j]
 (the relevant definition, I.D27)
-with $j^2 = +1$ forced by the bipolar structure
+with j² = +1 forced by the bipolar structure
 (the relevant theorem, I.T10).
 This chapter develops the first layer of analysis
-on $H_τ$:
+on H_τ:
 **D-differentiability**
 (the relevant definition, I.D42),
 the split-complex analog of complex differentiability.
@@ -60,30 +60,30 @@ by the **split Cauchy–Riemann equations**
 whose characteristic feature is a
 *plus sign* where the classical equations
 carry a minus sign —
-reflecting the hyperbolic signature $j^2 = +1$.
-In sector coordinates $(u, v) = (a + b, a - b)$,
+reflecting the hyperbolic signature j² = +1.
+In sector coordinates (u, v) = (a + b, a - b),
 the split-CR equations reduce to
-$∂ F_+ / ∂ v = 0$ and
-$∂ F_- / ∂ u = 0$:
+∂ F_+ / ∂ v = 0 and
+∂ F_- / ∂ u = 0:
 each sector component depends on only one variable.
 The **sector independence theorem**
 (Proposition [prop:sector-independence], I.P22)
 formalizes this:
 every D-holomorphic function decomposes as
-$f(u, v) = (g(u), h(v))$
-for independent functions $g$ and $h$.
-This is the wave equation $∂^2 f / ∂ u ∂ v = 0$.
-In the classical (orthodox) setting over $ℝ$,
+f(u, v) = (g(u), h(v))
+for independent functions g and h.
+This is the wave equation ∂^2 f / ∂ u ∂ v = 0.
+In the classical (orthodox) setting over ℝ,
 sector independence makes D-holomorphy
 *too flexible* —
 the theory lacks the identity theorem,
 Liouville's theorem,
 and virtually all the rigidity that powers
 complex analysis.
-The zero divisors $e_+ · e_- = 0$
+The zero divisors e_+ · e_- = 0
 are the root cause.
 The chapter closes by diagnosing this pathology
-precisely, setting the stage for the $τ$-framework's
+precisely, setting the stage for the τ-framework's
 rescue of D-holomorphy
 via tower coherence 
 and diagonal discipline .

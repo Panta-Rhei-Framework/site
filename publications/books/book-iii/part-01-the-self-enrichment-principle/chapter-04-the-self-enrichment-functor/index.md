@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-00-where-does-physics-live/
 prev_chapter_title: "Chapter 3: The Reader's Compass"
 next_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-05-the-layer-template/"
 next_chapter_title: "Chapter 5: The Layer Template"
-summary_short: "A category enriches over itself when its morphism spaces are themselves objects of the category. Book II, Part VIII proved that Category $τ$ has exactly this…"
+summary_short: "A category enriches over itself when its morphism spaces are themselves objects of the category. Book II, Part VIII proved that Category τ has exactly this…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/"
@@ -40,17 +40,17 @@ right_rail:
 
 A category enriches over itself when its morphism spaces
 are themselves objects of the category.
-Book II, Part VIII proved that Category $τ$
+Book II, Part VIII proved that Category τ
 has exactly this property:
-$\Hom(A,B) ∈ \Obj(τ)$ for every pair of objects $A, B$,
+Hom(A,B) ∈ Obj(τ) for every pair of objects A, B,
 and the morphism spaces carry the same bipolar decomposition
 as the objects they connect.
 This chapter receives that result,
 extracts its structural content,
-and defines the *enrichment functor* $F_E$
+and defines the *enrichment functor* F_E
 that iterates self-enrichment to produce new layers.
-Each application of $F_E$
+Each application of F_E
 creates a category whose Hom objects
 live one enrichment level higher.
-The iteration $E_0 → E_1 → E_2 → E_3$
+The iteration E₀ → E₁ → E₂ → E₃
 is the architectural spine of the entire series.

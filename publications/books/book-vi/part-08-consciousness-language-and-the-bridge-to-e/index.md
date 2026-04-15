@@ -10,7 +10,7 @@ part_number: 8
 part_display: "Part VIII"
 part_slug: "part-08-consciousness-language-and-the-bridge-to-e"
 chapter_count: 3
-summary_short: "The mixed sector's self-modeling capacity opens the door to $E_3$. **Consciousness** is defined structurally as the consumer sector's SelfDesc applied to its…"
+summary_short: "The mixed sector's self-modeling capacity opens the door to E₃. **Consciousness** is defined structurally as the consumer sector's SelfDesc applied to its…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:
@@ -30,11 +30,11 @@ right_rail:
 ---
 
 
-The mixed sector's self-modeling capacity opens the door to $E_3$. **Consciousness** is
+The mixed sector's self-modeling capacity opens the door to E₃. **Consciousness** is
 defined structurally as the consumer sector's SelfDesc applied to its own modeling—not qualia
 (that is Book VII), but the formal requirement that the self-model includes a model of itself.
 **Language** extends the lemniscate between agents, realizing life as nature's expression of
-computation. The $ω$-germ question cannot be resolved diagrammatically: this is the principled
+computation. The ω-germ question cannot be resolved diagrammatically: this is the principled
 science–faith boundary. Six export contracts close Book VI; Book VII opens at consciousness.
 
 ## Chapters

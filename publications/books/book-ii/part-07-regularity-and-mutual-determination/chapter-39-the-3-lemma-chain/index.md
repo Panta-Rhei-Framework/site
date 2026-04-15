@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-det
 prev_chapter_title: "Chapter 38: Idempotent Decomposition Lemma"
 next_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-40-regularity-as-positive-structure/"
 next_chapter_title: "Chapter 40: Regularity as Positive Structure"
-summary_short: "the relevant chapter established the Idempotent Decomposition Lemma (II.L07): every $τ$-holomorphic map decomposes canonically as $f = e_+ ·…"
+summary_short: "the relevant chapter established the Idempotent Decomposition Lemma (II.L07): every τ-holomorphic map decomposes canonically as f = e_+ ·…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/"
@@ -40,32 +40,32 @@ right_rail:
 
 the relevant chapter
 established the Idempotent Decomposition Lemma (II.L07):
-every $τ$-holomorphic map decomposes canonically
-as $f = e_+ · f_+ + e_- · f_-$.
+every τ-holomorphic map decomposes canonically
+as f = e_+ · f_+ + e_- · f_-.
 This chapter builds on that decomposition
 to prove the **characterization theorem**
 of Part VII:
-a function $f \colon τ^3 → H_τ$
-is $τ$-holomorphic
+a function f : τ³ → H_τ
+is τ-holomorphic
 **if and only if** it is idempotent-supported.
 
 The proof chains three lemmas.
 **Lemma 1** (Branch Factorization, II.L08):
-every $ω$-germ transformer
-factors through the bipolar idempotents $e_±$.
+every ω-germ transformer
+factors through the bipolar idempotents e_±.
 **Lemma 2** (Prime-Split Support, II.L09):
-the $e_+$-component is supported
-on B-channel primes ($γ$-orbit),
-and the $e_-$-component
-on C-channel primes ($η$-orbit),
+the e_+-component is supported
+on B-channel primes (γ-orbit),
+and the e_--component
+on C-channel primes (η-orbit),
 forced by Prime Polarity (I.T05, Book I).
 **Lemma 3** (Polarity Symmetry, II.L10):
-the $\jj$-involution interchanges the two sectors:
-$σ_\jj(G_+) = G_-$ and $σ_\jj(G_-) = G_+$,
+the j-involution interchanges the two sectors:
+σ_j(G_+) = G_- and σ_j(G_-) = G_+,
 so the two channels carry symmetric information.
 Together, these three lemmas yield
 **the relevant theorem (II.T33):
-$τ$-holomorphic $\Longleftrightarrow$
+τ-holomorphic ⟺
 idempotent-supported.
 This is the equivalence that unifies
 the analytic viewpoint (holomorphy)

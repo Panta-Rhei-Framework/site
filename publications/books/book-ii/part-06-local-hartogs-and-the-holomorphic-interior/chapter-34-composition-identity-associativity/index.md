@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-hol
 prev_chapter_title: "Chapter 33: Evolution Operator and Causal Arrow"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-35-laurent-series-and-residues/"
 next_chapter_title: "Chapter 35: Laurent Series and Residues"
-summary_short: "The preceding chapters of Part VI built the **objects** and **morphisms** of split-complex holomorphy: $τ$-admissible points as objects, $ω$-germ transformers…"
+summary_short: "The preceding chapters of Part VI built the **objects** and **morphisms** of split-complex holomorphy: τ-admissible points as objects, ω-germ transformers…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
@@ -41,8 +41,8 @@ right_rail:
 The preceding chapters of Part VI
 built the **objects** and **morphisms**
 of split-complex holomorphy:
-$τ$-admissible points as objects,
-$ω$-germ transformers as morphisms,
+τ-admissible points as objects,
+ω-germ transformers as morphisms,
 the BndLift construction ,
 the Mutual Determination Theorem
 (the relevant chapter, II.T27),
@@ -52,7 +52,7 @@ This chapter verifies that these morphisms
 form a **category**.
 Composition of holomorphic maps
 is defined as stagewise composition
-of $ω$-germs
+of ω-germs
 (the relevant definition, II.D39).
 The identity map is the constant family
 assigning the identity germ at each stage
@@ -66,8 +66,8 @@ associativity (I.P02, Book I)
 through the tower coherence conditions
 that every holomorphic map must satisfy.
 With identity and associativity established,
-the category $HolEnd_τ$
+the category HolEnd_τ
 (the relevant definition, II.D41) is formed:
-the category of $τ$-holomorphic endomorphisms,
+the category of τ-holomorphic endomorphisms,
 the algebraic skeleton
 on which Parts VII–IX will build.

@@ -42,9 +42,9 @@ On September 14, 2015,
 the Laser Interferometer Gravitational-Wave Observatory (LIGO) abbott2016observation
 detected the gravitational-wave signal GW150914:
 the merger of two black holes
-with masses $36 M_\odot$ and $29 M_\odot$
-at a distance of $\sim 410$ Mpc,
-releasing $\sim 3 M_\odot c^2$
+with masses 36 M_☉ and 29 M_☉
+at a distance of ∼ 410 Mpc,
+releasing ∼ 3 M_☉ c²
 of energy in gravitational radiation
 over a fraction of a second.
 This detection confirmed
@@ -52,25 +52,25 @@ a century-old prediction of general relativity
 and opened an entirely new observational window
 onto the universe.
 
-In Category $τ$,
+In Category τ,
 gravitational waves are not ripples
 in a background spacetime manifold.
 They are **boundary-character oscillations**:
 periodic perturbations of the holonomy algebra
-$H_∂[ω]$
-propagating along the base $τ^1$
-at the speed $c$.
+H_∂[ω]
+propagating along the base τ¹
+at the speed c.
 A binary merger is the coalescence
 of two coherent instances—two
 localized concentrations of boundary holonomy—into
 a single, more massive coherent instance.
 The gravitational-wave signal
 is the readout of this coalescence
-in the $\SectorD$ (gravity) sector.
+in the Sector D (gravity) sector.
 
 This chapter derives
 the binary inspiral waveform
-from the $τ$-Einstein equation
+from the τ-Einstein equation
 ,
 proves the **Chirp Mass Theorem**
 

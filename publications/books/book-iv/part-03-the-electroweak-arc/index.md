@@ -34,25 +34,25 @@ Forces are not the story—they are *tools* for the story.
 The complexity arc that began with the neutron
 (Part I) and continued through quantum mechanics (Part II)
 now requires gauge machinery:
-the electromagnetic and weak sectors of the $E_1$ spectral page.
+the electromagnetic and weak sectors of the E₁ spectral page.
 
 Part III traverses the **electroweak arc**.
 the relevant chapter derives gauge invariance
-from the lemniscate topology and obtains the $τ$-Maxwell equations
+from the lemniscate topology and obtains the τ-Maxwell equations
 as curvature identities of the U(1) connection.
 Chapters – develop the
-weak force: parity violation from junction orientation, the $W/Z$ bosons
-as junction modes, and the neutrino as a $τ^1$ time eigenmode.
+weak force: parity violation from junction orientation, the W/Z bosons
+as junction modes, and the neutrino as a τ¹ time eigenmode.
 Chapters – earn the
-Weinberg angle $\sin^2θ_W = ι_τ(1 - ι_τ)$ at tree level
-and the $τ$-Higgs mechanism at the $ω$-crossing.
+Weinberg angle sin²θ_W = ι_τ(1 - ι_τ) at tree level
+and the τ-Higgs mechanism at the ω-crossing.
 the relevant chapter unpacks the continued-fraction structure
 of the derived constants,
 and the relevant chapter closes the arc with
 the complete coupling cascade: zero free parameters,
 precision agreement, and the ontological lesson that
 particles are modes, forces are holonomies,
-and only $τ^3$ is fundamental.
+and only τ³ is fundamental.
 
 ## Chapters
 

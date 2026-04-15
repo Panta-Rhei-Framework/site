@@ -34,25 +34,25 @@ right_rail:
 > — Heraclitus, Fragment 60
 
 Book IV completed the fiber.
-The torus $T^2$, spanned by the generators
-$γ$, $η$, and $ω$,
+The torus T², spanned by the generators
+γ, η, and ω,
 delivered quantum mechanics,
 the four gauge forces,
 the particle spectrum,
 and the electron mass—all
 from the boundary holonomy algebra
-$H_∂[ω]$
+H_∂[ω]
 restricted to the fiber sectors.
 The harvest was precise:
-$m_e = 0.510 998 937$ MeV
-at $0.025$ ppm,
+m_e = 0.510 998 937 MeV
+at 0.025 ppm,
 with zero free parameters.
 
 Book V turns to the base.
-The circle $τ^1$, governed by the generators
-$α$ and $π$,
+The circle τ¹, governed by the generators
+α and π,
 carries the temporal sectors:
-Gravity ($\SectorD$) and the Weak force ($\SectorA$).
+Gravity (Sector D) and the Weak force (Sector A).
 From the base we must earn
 time, gravitational dynamics,
 thermodynamic inversion,
@@ -61,9 +61,9 @@ and the large-scale architecture
 of the cosmos.
 
 The Hermetic Principle unites the two halves:
-fiber $T^2$ and base $τ^1$
-together exhaust $τ^3$,
-and therefore exhaust all $E_1$ physics.
+fiber T² and base τ¹
+together exhaust τ³,
+and therefore exhaust all E₁ physics.
 When Book V is complete,
 nothing physical remains unaccounted for.
 The three chapters of this Prologue

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-03-categorical-phenomenolog
 prev_chapter_title: "Chapter 37: Intersubjectivity"
 next_chapter_url: "/publications/books/book-vii/part-03-categorical-phenomenology/chapter-39-the-ontology-epistemology-dissolution/"
 next_chapter_title: "Chapter 39: The Ontology-Epistemology Dissolution"
-summary_short: "The lived body (*Leib*) is not a container for the mind but the carrier's self-referential boundary—the interface through which an $E_3$ observer engages the…"
+summary_short: "The lived body (*Leib*) is not a container for the mind but the carrier's self-referential boundary—the interface through which an E₃ observer engages the…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-03-categorical-phenomenology/"
@@ -40,7 +40,7 @@ right_rail:
 
 The lived body (*Leib*) is not a container for the mind but
 the carrier's self-referential boundary—the interface through which
-an $E_3$ observer engages the relational web from a particular
+an E₃ observer engages the relational web from a particular
 structural position. Merleau-Ponty's phenomenology of embodiment is
 reformulated: the distinction between the body as experienced from
 inside (*Leib*) and the body as observed from outside

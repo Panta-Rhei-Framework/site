@@ -10,7 +10,7 @@ part_number: 7
 part_display: "Part VII"
 part_slug: "part-07-categorical-ethics-the-kantian-bridge"
 chapter_count: 18
-summary_short: "**Sector $S_P$ (Practical), Part 1 of 2.** What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes theorem, not postulate.…"
+summary_short: "**Sector S_P (Practical), Part 1 of 2.** What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes theorem, not postulate.…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,14 +30,14 @@ right_rail:
 ---
 
 
-**Sector $S_P$ (Practical), Part 1 of 2.**
+**Sector S_P (Practical), Part 1 of 2.**
 What is good? **Dignity is meta-ethical foundation**—Kant's categorical imperative becomes
 theorem, not postulate. The no-conflict theorem: genuine duties never contradict. Trolley
 problems solved; fairness protocols derived; moral ambiguity is monodromy. Four ethical tests
 emerge. Virtue ethics complements deontology: character as fixed point, flourishing as global
 section. Applied ethics brings principles to bioethics, environment, and AI.
-The 2nd Edition adds the **CI as $j$-closed fixed point** (three-stage proof programme
-K/S/CI), the **Kant-$τ$ Correspondence** ($τ$ fills Kant's "unspoken socket"—the
+The 2nd Edition adds the **CI as j-closed fixed point** (three-stage proof programme
+K/S/CI), the **Kant-τ Correspondence** (τ fills Kant's "unspoken socket"—the
 diagrammatic bridge he left empty), the **commitment register** as fourth mode of reason,
 and the **earned vs. unearned ethics** framework.
 Part VII undergoes the deepest transformation among the retained Parts: from a survey of

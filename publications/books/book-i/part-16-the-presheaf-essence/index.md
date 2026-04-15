@@ -10,7 +10,7 @@ part_number: 16
 part_display: "Part XVI"
 part_slug: "part-16-the-presheaf-essence"
 chapter_count: 2
-summary_short: "Part XVI proved the Global Hartogs Extension Theorem: the limit determines the stages, and omega-tail data on $𝕃$ uniquely extends to all of $τ^3$. Part XVIII…"
+summary_short: "Part XVI proved the Global Hartogs Extension Theorem: the limit determines the stages, and omega-tail data on 𝕃 uniquely extends to all of τ³. Part XVIII…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -32,17 +32,17 @@ right_rail:
 
 Part XVI proved the Global Hartogs Extension Theorem:
 the limit determines the stages,
-and omega-tail data on $𝕃$
-uniquely extends to all of $τ^3$.
+and omega-tail data on 𝕃
+uniquely extends to all of τ³.
 Part XVIII audited the proof-theoretic substrate
 and charted the enrichment frontier.
 
 This two-chapter finale asks:
-*what IS $τ$-holomorphy, structurally?*
+*what IS τ-holomorphy, structurally?*
 Not what it does — extend, determine, decompose —
 but what it *is* as a categorical object.
 
-The answer: a $τ$-holomorphic function is a
+The answer: a τ-holomorphic function is a
 **natural endomorphism of the primorial presheaf**
 
 that respects the sector decomposition,

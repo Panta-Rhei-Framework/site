@@ -10,7 +10,7 @@ part_number: 2
 part_display: "Part II"
 part_slug: "part-02-persistence-archaea-and-the-temporal-axis"
 chapter_count: 5
-summary_short: "The $α$-sector: **temporal stability, homeostasis, deep time**. The persistence sector is the first of four primitive Life sectors, anchored on the temporal…"
+summary_short: "The α-sector: **temporal stability, homeostasis, deep time**. The persistence sector is the first of four primitive Life sectors, anchored on the temporal…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:
@@ -30,8 +30,8 @@ right_rail:
 ---
 
 
-The $α$-sector: **temporal stability, homeostasis, deep time**. The persistence sector
-is the first of four primitive Life sectors, anchored on the temporal axis of the $τ^1$ base.
+The α-sector: **temporal stability, homeostasis, deep time**. The persistence sector
+is the first of four primitive Life sectors, anchored on the temporal axis of the τ¹ base.
 Archaea—Earth's oldest lineage, surviving thermal, halophilic, and acidophilic extremes—are
 the biological archetype. The origin of life is recast as the first persistence event: a
 thermodynamically necessary transition from non-persistent chemistry to self-maintaining

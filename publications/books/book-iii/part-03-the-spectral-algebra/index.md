@@ -10,7 +10,7 @@ part_number: 3
 part_display: "Part III"
 part_slug: "part-03-the-spectral-algebra"
 chapter_count: 7
-summary_short: "The algebraic vocabulary for everything that follows. We earn number theory—primes, residue rings, $p$-adic fields, adèles—from the $τ$ kernel, not by…"
+summary_short: "The algebraic vocabulary for everything that follows. We earn number theory—primes, residue rings, p-adic fields, adèles—from the τ kernel, not by…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 right_rail:
@@ -31,43 +31,43 @@ right_rail:
 
 
 The algebraic vocabulary for everything that follows.
-We earn number theory—primes, residue rings, $p$-adic fields, ad\`eles—from the $τ$ kernel,
+We earn number theory—primes, residue rings, p-adic fields, ad\`eles—from the τ kernel,
 not by importing classical algebraic number theory.
 
 **Enrichment level.**
-Part III operates at $E_0$—the same algebraic substrate as Books I and II.
+Part III operates at E₀—the same algebraic substrate as Books I and II.
 The constructions are number-theoretic:
 finite cyclic groups, modular arithmetic,
 inverse limits, and split-complex extensions.
 No enriched Hom spaces are needed;
-the self-enrichment functor $F_E$ (Part I) does not enter.
-Part III builds the *spectral toolkit at $E_0$*
+the self-enrichment functor F_E (Part I) does not enter.
+Part III builds the *spectral toolkit at E₀*
 that the Millennium clusters of Parts IV–VI
-will *apply* at $E_1$.
+will *apply* at E₁.
 
 **Relationship to Book I.**
 Book I earned the primorial presheaf (I.D83),
 the CRT decomposition (I.D29),
-the profinite boundary ring $\widehatℤ_τ$ (I.D19),
+the profinite boundary ring ℤ_τ (I.D19),
 the split-complex scalars (I.D20),
 and the spectral decomposition (I.T12).
 Part III *extends* these foundations:
 the primorial ladder gains a cofinality theorem (III.T09),
 the CRT is re-derived constructively via Fermat's method as a cross-validation
 and lifted to the module level (III.D20),
-Hensel lifting and $τ$-native local fields are constructed for the first time (III.T11, III.D21),
+Hensel lifting and τ-native local fields are constructed for the first time (III.T11, III.D21),
 and the informal B/C lobe language is replaced
-by the computable classifier $Label_n$ (III.D23)
+by the computable classifier Label_n (III.D23)
 and the spectral trichotomy (III.T14).
 
-The **CRT Decomposition Theorem** gives a $τ$-native Chinese Remainder Theorem
+The **CRT Decomposition Theorem** gives a τ-native Chinese Remainder Theorem
 via modular B\'ezout *without signed arithmetic*—earned-language discipline in action.
 Hensel lifting is performed constructively in residue carriers.
-The primorial ladder $Prim(k) = p_1 ⋯ p_k$ emerges as the canonical cofinal filtration
+The primorial ladder Prim(k) = p₁ ⋯ p_k emerges as the canonical cofinal filtration
 that unifies finite-level verification across all Millennium Problems.
-The internal bipolar classifier $Label_n$ replaces informal lobe language
+The internal bipolar classifier Label_n replaces informal lobe language
 with computable predicates: every boundary character decomposes uniquely into
-$B$-supported, $C$-supported, and $X$-mixing components via the spectral trichotomy.
+B-supported, C-supported, and X-mixing components via the spectral trichotomy.
 
 ## Chapters
 

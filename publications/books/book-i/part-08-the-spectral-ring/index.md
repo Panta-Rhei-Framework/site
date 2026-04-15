@@ -37,33 +37,33 @@ the Chinese Remainder Theorem on the primorial ladder,
 and the split-complex structure forced by bipolar polarization.
 This Part develops the local ring
 into the *full profinite spectral ring*
-$\hatℤ_τ$
+ℤ_τ
 — the inverse limit of the primorial quotients —
 and constructs the split-complex scalar field
-$\hatℤ_τ[j]$ where $j^2 = +1$.
+ℤ_τ[j] where j² = +1.
 
 The master constant
-$ι_τ = 2/(π + e) ≈ 0.341304$
+ι_τ = 2/(π + e) ≈ 0.341304
 is earned as the asymptotic mediator
 between the two bipolar sectors.
 It is not a free parameter:
 it is a structural invariant
 of the prime bipolar partition,
 computable from the distribution of primes
-among the $B$- and $C$-channels.
+among the B- and C-channels.
 
 Finally, the internal number tower
-$ℕ_τ ⊂ ℤ_τ
+ℕ_τ ⊂ ℤ_τ
 ⊂ ℚ_τ
 ⊂ ℝ_τ
-⊂ ℂ_τ$
+⊂ ℂ_τ
 is constructed:
 integers via group completion,
 rationals via field of fractions,
 reals via Cauchy completion,
-and complexes via the standard $i$-extension.
-The split-complex $j$ (from the spectral ring)
-and the complex $i$ (from the number tower)
+and complexes via the standard i-extension.
+The split-complex j (from the spectral ring)
+and the complex i (from the number tower)
 are distinct algebraic extensions
 serving different structural roles.
 

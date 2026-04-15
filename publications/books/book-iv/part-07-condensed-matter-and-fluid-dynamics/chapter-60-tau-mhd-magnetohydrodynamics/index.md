@@ -43,10 +43,10 @@ the fluid and the field evolve together:
 currents generate fields, fields exert forces,
 and at large scales the two become inseparable.
 This is magnetohydrodynamics (MHD).
-In $τ^3$, the MHD equations emerge by coupling
-the $τ$-Navier–Stokes dynamics of defect transport
+In τ³, the MHD equations emerge by coupling
+the τ-Navier–Stokes dynamics of defect transport
 
 to the B-sector holonomy of the electromagnetic field.
-This chapter derives the $τ$-MHD system,
+This chapter derives the τ-MHD system,
 introduces the magnetic Reynolds number,
-and shows how Alfv\'en waves arise as coupled $T^2$ modes.
+and shows how Alfv\'en waves arise as coupled T² modes.

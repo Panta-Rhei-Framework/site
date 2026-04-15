@@ -42,21 +42,21 @@ the relevant chapter
 proved the Hartogs Extension Uniqueness Theorem (II.T37):
 every idempotent-supported boundary character
 extends uniquely to a holomorphic function
-on the interior of $τ^3$,
+on the interior of τ³,
 with the extension living in the
-split-complex codomain $H_τ$.
+split-complex codomain H_τ.
 This chapter takes the next step.
 We prove that these Hartogs extensions
-**are** $ω$-germ transformers—the
+**are** ω-germ transformers—the
 algebraic objects defined in Book I
 Part XIII (I.D45–I.D47).
 The identification is not a metaphor:
-the extension $f_χ$
-of a boundary character $χ$
+the extension f_χ
+of a boundary character χ
 determines, and is determined by,
 a unique element of
-$End(d(τ^3))$,
-the endomorphism monoid of the $ω$-germ space.
+End(d(τ³)),
+the endomorphism monoid of the ω-germ space.
 The key ingredient is
 **Stagewise Naturality** (II.L13):
 the Hartogs extension respects
@@ -65,21 +65,19 @@ at every stage of the primorial tower,
 because the boundary character
 that generates it is tower-coherent
 by definition.
-Stagewise naturality ensures that the stage-$k$
+Stagewise naturality ensures that the stage-k
 actions of the extension form a coherent system,
 which in the inverse limit
-becomes an $ω$-germ transformer.
-The converse—every regular $ω$-germ transformer
+becomes an ω-germ transformer.
+The converse—every regular ω-germ transformer
 comes from a Hartogs extension—closes
 the second link in the Central Theorem chain:
-$$
- boundary characters
- \text{II.T37} 
+<div class="math-display">boundary characters
+ {II.T37} 
  Hartogs extensions
- \text{II.T38} 
- ω-germ transformers.
-$$
+ {II.T38} 
+ ω-germ transformers.</div>
 The next chapter 
 will close the loop
-by showing that $ω$-germ transformers
+by showing that ω-germ transformers
 **are** holomorphic functions.

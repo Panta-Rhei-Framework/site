@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 51: Molecular Geometry"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-53-organic-chemistry-and-aromatic-systems/"
 next_chapter_title: "Chapter 53: Organic Chemistry and Aromatic Systems"
-summary_short: "A chemical reaction is, at its core, a rearrangement of bonds—old bonds break, new bonds form, and the atoms find a new equilibrium. In Category $τ$, this…"
+summary_short: "A chemical reaction is, at its core, a rearrangement of bonds—old bonds break, new bonds form, and the atoms find a new equilibrium. In Category τ, this…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -40,8 +40,8 @@ right_rail:
 
 A chemical reaction is, at its core, a rearrangement of bonds—old
 bonds break, new bonds form, and the atoms find a new equilibrium. In
-Category $τ$, this translates to a reorganisation of $τ^2$ modes
-on the fiber $T^2$: reactant modes destabilise, pass through a
+Category τ, this translates to a reorganisation of τ² modes
+on the fiber T²: reactant modes destabilise, pass through a
 transition configuration, and settle into product modes. This chapter
 develops three interlocking perspectives on reactions: the
 *thermodynamic* question (which direction is favoured?), the
@@ -49,4 +49,4 @@ develops three interlocking perspectives on reactions: the
 question (by what pathway?). We introduce potential energy surfaces,
 the Arrhenius equation, catalysis, and the thermodynamic state
 functions—enthalpy, entropy, and Gibbs free energy—culminating in
-the equilibrium condition $Δ G = -RT \ln K$.
+the equilibrium condition Δ G = -RT ln K.

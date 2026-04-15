@@ -41,8 +41,8 @@ right_rail:
 Laws of nature are not mere regularities in the Humean sense, nor
 brute necessitations in the Armstrong sense. They are *admissible
 continuation operators*—structural features of the coherence
-kernel $K_τ$ that determine which extensions of a given
-configuration are $τ$-admissible and which are not. The analytic
+kernel K_τ that determine which extensions of a given
+configuration are τ-admissible and which are not. The analytic
 continuation principle of holomorphy (Book II) provides the formal
 mechanism: a law is an operator that takes a local datum and extends it
 uniquely to the maximal domain of coherence. The Operator Realism

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-
 prev_chapter_title: "Chapter 71: The Neutron Lifetime: Crown of the Cascade"
 next_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-73-the-self-describing-universe/"
 next_chapter_title: "Chapter 73: The Self-Describing Universe"
-summary_short: "Throughout Parts I–VII, we derived particles, forces, coupling constants, and mass ratios from the fiber $T^2$ of $τ^3 = τ^1 ×_f T^2$. At no point did we…"
+summary_short: "Throughout Parts I–VII, we derived particles, forces, coupling constants, and mass ratios from the fiber T² of τ³ = τ¹ ×_f T². At no point did we…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
@@ -39,20 +39,20 @@ right_rail:
 
 
 Throughout Parts I–VII, we derived particles, forces,
-coupling constants, and mass ratios from the fiber $T^2$
-of $τ^3 = τ^1 ×_f T^2$.
+coupling constants, and mass ratios from the fiber T²
+of τ³ = τ¹ ×_f T².
 At no point did we impose a law from outside.
 No equation of motion was postulated;
 no symmetry principle was assumed.
 Everything emerged from the categorical structure itself.
 This is not an accident.
-It is the central thesis of the $τ^3$ framework:
+It is the central thesis of the τ³ framework:
 physical laws are not external rules governing matter—they
-**are** the internal structure of $τ^3$.
+**are** the internal structure of τ³.
 Conservation laws are naturality conditions on functors.
 Symmetries are automorphisms of the boundary algebra.
-Feynman diagrams are morphisms in the $τ^3$ category.
-The $S$-matrix is a composed morphism.
-And the deepest fact: $τ^3$ is enriched over itself—the
-morphism spaces (laws) are themselves $τ^3$ objects (matter).
+Feynman diagrams are morphisms in the τ³ category.
+The S-matrix is a composed morphism.
+And the deepest fact: τ³ is enriched over itself—the
+morphism spaces (laws) are themselves τ³ objects (matter).
 Laws and matter are the same stuff.

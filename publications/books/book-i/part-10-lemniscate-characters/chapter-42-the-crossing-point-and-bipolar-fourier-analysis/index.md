@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chap
 prev_chapter_title: "Chapter 41: Spectral Decomposition"
 next_chapter_url: "/publications/books/book-i/part-11-tau/chapter-43-four-truth-values-from-polarity-stabilization/"
 next_chapter_title: "Chapter 43: Four Truth Values from Polarity Stabilization"
-summary_short: "The algebraic lemniscate $𝕃$ has two sectors ($B$ and $C$), and the spectral decomposition theorem (the relevant theorem, I.T12) splits every…"
+summary_short: "The algebraic lemniscate 𝕃 has two sectors (B and C), and the spectral decomposition theorem (the relevant theorem, I.T12) splits every…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-10-lemniscate-characters/"
@@ -38,25 +38,25 @@ right_rail:
 ---
 
 
-The algebraic lemniscate $𝕃$
-has two sectors ($B$ and $C$),
+The algebraic lemniscate 𝕃
+has two sectors (B and C),
 and the spectral decomposition theorem
 (the relevant theorem, I.T12)
-splits every element of $𝕃$
-into its $B$-sector and $C$-sector components.
+splits every element of 𝕃
+into its B-sector and C-sector components.
 This chapter studies the **crossing point**:
 the algebraic locus where the two sectors meet.
 The crossing point is singular —
-it is where $e_+$ and $e_-$ both contribute,
+it is where e_+ and e_- both contribute,
 and where the sectorial decomposition degenerates.
 Its local structure reflects the wedge singularity
 of the lemniscate.
 We then formalize the **bipolar Fourier transform**:
-the map that sends an element of $𝕃$
+the map that sends an element of 𝕃
 to its pair of character evaluations.
 This transform is the formal framework
-for harmonic analysis on $𝕃$,
+for harmonic analysis on 𝕃,
 and it previews the central role
 that lemniscate characters will play
 in the Central Theorem of Book II:
-$O(τ^3) ≅ A_{spec}(𝕃)$.
+O(τ³) ≅ A_spec(𝕃).

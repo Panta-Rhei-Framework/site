@@ -44,28 +44,28 @@ in the preceding books.
 Book III proved the Positive Regularity Theorem
 (III.T25):
 blow-up is structurally impossible
-for $τ$-admissible data
-on the enrichment layer $E_0$.
+for τ-admissible data
+on the enrichment layer E₀.
 Book IV, Chapter 53,
-gave the $E_1$ physical interpretation
-on the fiber $T^2$:
+gave the E₁ physical interpretation
+on the fiber T²:
 the fluid never develops infinite velocity,
 because the compact fiber,
 bounded ABCD extraction,
-and $K5$ sector isolation
+and K5 sector isolation
 jointly forbid energy concentration.
 
 This chapter completes the story
 at the macroscopic level.
-The base $τ^1$ is a circle—compact,
+The base τ¹ is a circle—compact,
 like the fiber.
 The full fibered product
-$τ^3 = τ^1 ×_f T^2$
+τ³ = τ¹ ×_f T²
 is therefore compact,
 and macro-scale transport
 inherits the regularity
 of the fiber-level defect dynamics.
-We derive the macro $τ$-Navier–Stokes equation
+We derive the macro τ-Navier–Stokes equation
 as a base-projected budget transport law,
 prove that the macro velocity readout
 is bounded for all time,
@@ -74,5 +74,5 @@ eliminates a class of singularity scenarios
 that do not arise on the fiber alone:
 those involving *temporal* blow-up.
 
-Scope: $τ$-effective (structural regularity);
+Scope: τ-effective (structural regularity);
 conjectural (bridge to Clay problem).

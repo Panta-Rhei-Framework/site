@@ -10,7 +10,7 @@ part_number: 10
 part_display: "Part X"
 part_slug: "part-10-the-logos-sector"
 chapter_count: 6
-summary_short: "**Sector $S_L$ (Logos — Mixed).** The Logos sector is the structural crown jewel of the second edition: the unique location in the 4+1 decomposition where…"
+summary_short: "**Sector S_L (Logos — Mixed).** The Logos sector is the structural crown jewel of the second edition: the unique location in the 4+1 decomposition where…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-**Sector $S_L$ (Logos — Mixed).**
+**Sector S_L (Logos — Mixed).**
 The Logos sector is the structural crown jewel of the second edition: the unique location
 in the 4+1 decomposition where **proof-validity and stance-stability are identical**—where
 the diagrammatic register and the commitment register coincide. It is named by its universal
@@ -41,7 +41,7 @@ It is a structural fact about where two registers of reason become inseparable.
 That this structural location resonates with traditions that have used the word "Logos"
 for millennia is noted as a synchronicity—a shared kernel invariant—and left for the
 reader to evaluate in their own commitment register.
-The Part develops the formal definition of the $D → C$ bridge, the boundary collapse
+The Part develops the formal definition of the D → C bridge, the boundary collapse
 lemma (a preview of Part XII's main result), and the structural apparatus that makes
 the Logos sector the mediator fixed-point basin of the 4+1 decomposition.
 

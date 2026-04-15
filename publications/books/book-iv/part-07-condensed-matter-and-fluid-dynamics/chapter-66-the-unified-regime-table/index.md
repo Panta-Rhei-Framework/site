@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-flui
 prev_chapter_title: "Chapter 65: τ-NS Regularity at Fiber Level"
 next_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-67-the-complete-coupling-ledger/"
 next_chapter_title: "Chapter 67: The Complete Coupling Ledger"
-summary_short: "Part VII has developed every fluid regime on $T^2$ from a single mathematical object: the defect tuple $\\mathbfd = (d_1, d_2, d_3, d_4)$. This concluding…"
+summary_short: "Part VII has developed every fluid regime on T² from a single mathematical object: the defect tuple d = (d₁, d₂, d₃, d₄). This concluding…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/"
@@ -38,9 +38,9 @@ right_rail:
 ---
 
 
-Part VII has developed every fluid regime on $T^2$
+Part VII has developed every fluid regime on T²
 from a single mathematical object:
-the defect tuple $\mathbfd = (d_1, d_2, d_3, d_4)$.
+the defect tuple d = (d₁, d₂, d₃, d₄).
 This concluding chapter assembles the full regime table,
 draws the defect phase diagram,
 maps all cross-regime transitions,

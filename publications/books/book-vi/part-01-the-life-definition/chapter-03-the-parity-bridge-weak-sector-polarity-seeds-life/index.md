@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-00-the-question-of-life/chap
 prev_chapter_title: "Chapter 2: The Categorical Resolution: Life as E₂ Enrichment"
 next_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-04-tau-distinction-the-self-non-self-boundary/"
 next_chapter_title: "Chapter 4: τ-Distinction: The Self/Non-Self Boundary"
-summary_short: "Among the four primitive holonomy sectors at $E_1$, only the weak sector admits a nontrivial polarity functional into the split-complex idempotent codomain…"
+summary_short: "Among the four primitive holonomy sectors at E₁, only the weak sector admits a nontrivial polarity functional into the split-complex idempotent codomain…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-01-the-life-definition/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Among the four primitive holonomy sectors at $E_1$, only the weak sector admits a nontrivial polarity functional into the split-complex idempotent codomain $2_τ$. The Parity Bridge Theorem establishes that weak-sector chirality provides the unique polarity seed that SelfDesc closure amplifies into stable self/non-self distinction, making the weak sector the unique bridge from $E_1$ to $E_2$.
+Among the four primitive holonomy sectors at E₁, only the weak sector admits a nontrivial polarity functional into the split-complex idempotent codomain 2_τ. The Parity Bridge Theorem establishes that weak-sector chirality provides the unique polarity seed that SelfDesc closure amplifies into stable self/non-self distinction, making the weak sector the unique bridge from E₁ to E₂.

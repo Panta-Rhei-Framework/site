@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 47: Hyperfine Structure and the Role of ι_τ"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-49-the-chemical-bond-as-graph-transformation/"
 next_chapter_title: "Chapter 49: The Chemical Bond as Graph Transformation"
-summary_short: "Hydrogen admits an exact solution; every other atom does not. The culprit is electron–electron repulsion, which couples all fermionic modes on the fiber $T^2$.…"
+summary_short: "Hydrogen admits an exact solution; every other atom does not. The culprit is electron–electron repulsion, which couples all fermionic modes on the fiber T².…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -40,11 +40,11 @@ right_rail:
 
 Hydrogen admits an exact solution; every other atom does not. The
 culprit is electron–electron repulsion, which couples all fermionic
-modes on the fiber $T^2$. This chapter develops the multi-electron
-atom within Category $τ$, beginning with helium—the first closed
+modes on the fiber T². This chapter develops the multi-electron
+atom within Category τ, beginning with helium—the first closed
 shell—and building toward the full periodic table. Shell structure
-emerges as $T^2$ mode saturation: each principal quantum number $n$
-supports $2n^2$ co-rotor slots, and the aufbau principle follows from
-the energetic ordering of $T^2$ harmonics. The periodic table itself
-is a map of $T^2$ mode filling, with noble gases marking complete
+emerges as T² mode saturation: each principal quantum number n
+supports 2n² co-rotor slots, and the aufbau principle follows from
+the energetic ordering of T² harmonics. The periodic table itself
+is a map of T² mode filling, with noble gases marking complete
 saturation at each tier.

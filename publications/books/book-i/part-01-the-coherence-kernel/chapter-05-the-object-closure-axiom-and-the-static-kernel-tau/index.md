@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapt
 prev_chapter_title: "Chapter 4: Orbit-Seeded Generation and the No-Jump Principle"
 next_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapter-06-diagonal-discipline-why-exactly-four-channels/"
 next_chapter_title: "Chapter 6: Diagonal Discipline — Why Exactly Four Channels"
-summary_short: "The first five kernel axioms describe the *internal structure* of the five generators and the operator $ρ$: how the generators are ordered ($K1$), how $ω$…"
+summary_short: "The first five kernel axioms describe the *internal structure* of the five generators and the operator ρ: how the generators are ordered (K1), how ω…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-01-the-coherence-kernel/"
@@ -40,24 +40,24 @@ right_rail:
 
 The first five kernel axioms describe the
 *internal structure* of the five generators
-and the operator $ρ$:
-how the generators are ordered ($K1$),
-how $ω$ absorbs ($K2$),
-how orbit rays are seeded and traversed ($K3$, $K4$),
-and how $ω$ is unreachable ($K5$).
+and the operator ρ:
+how the generators are ordered (K1),
+how ω absorbs (K2),
+how orbit rays are seeded and traversed (K3, K4),
+and how ω is unreachable (K5).
 None of these axioms says anything about
-what objects *exist* in $τ$.
-The sixth and final kernel axiom, $K6$ (Object Closure),
+what objects *exist* in τ.
+The sixth and final kernel axiom, K6 (Object Closure),
 fills this gap:
 it declares that the four orbit rays and the beacon
-$ω$ exhaust the entire universe.
+ω exhaust the entire universe.
 There is nothing else.
 
 With all six axioms assembled, we define the
-*static kernel* $τ_0$:
-the complete specification of Category $τ$
+*static kernel* τ₀:
+the complete specification of Category τ
 before any generative act has taken place.
-$τ_0$ is a blueprint — precise, categorical, and inert.
+τ₀ is a blueprint — precise, categorical, and inert.
 We close with a discussion of axiom independence,
 showing via sketched countermodels that no axiom
 is redundant.

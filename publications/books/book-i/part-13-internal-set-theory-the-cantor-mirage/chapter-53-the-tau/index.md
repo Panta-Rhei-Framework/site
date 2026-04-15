@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-ca
 prev_chapter_title: "Chapter 52: The Bounded Powerset"
 next_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-54-the-orbit-set-correspondence/"
 next_chapter_title: "Chapter 54: The Orbit-Set Correspondence"
-summary_short: "The collection of all $τ$-sets — that is, all objects of $τ$-Idx under the $∈_τ$ relation — forms a universe that is dramatically different from the…"
+summary_short: "The collection of all τ-sets — that is, all objects of τ-Idx under the ∈_τ relation — forms a universe that is dramatically different from the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -38,12 +38,12 @@ right_rail:
 ---
 
 
-The collection of all $τ$-sets — that is,
-all objects of $τ$-Idx under the $∈_τ$ relation —
+The collection of all τ-sets — that is,
+all objects of τ-Idx under the ∈_τ relation —
 forms a universe that is dramatically different
 from the set-theoretic universe of ZFC.
 This chapter catalogs the properties
-of $Set(τ)$:
+of Set(τ):
 it is *countable*, not uncountable;
 it contains *no* non-measurable sets,
 no Banach-Tarski decompositions,

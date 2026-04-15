@@ -44,11 +44,11 @@ internal primes, tower atoms, the greedy peel,
 and the NF address encoding.
 This chapter assembles them into the
 **ABCD coordinate chart** —
-a map $Φ : \Obj(τ) → τ-Idx^4$
+a map Φ : Obj(τ) → τ-Idx⁴
 that assigns to every object a canonical four-tuple
 of typed coordinates.
 We define the four coordinate functions,
 state their types and ranges,
-and prove that $Φ$ is a total function on $\Obj(τ)$.
-The chart is the global address system for Category $τ$:
+and prove that Φ is a total function on Obj(τ).
+The chart is the global address system for Category τ:
 every object has an ABCD address.

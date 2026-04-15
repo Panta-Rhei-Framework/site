@@ -43,11 +43,11 @@ and  mapped
 the structural source of all differences
 and the constructions that survive the fork.
 This chapter addresses the hardest question:
-**what does Category $τ$ structurally refuse?**
+**what does Category τ structurally refuse?**
 
 Mode C (*Refused*) objects are constructions
 that orthodox mathematics permits
-but $τ$'s axioms structurally block.
+but τ's axioms structurally block.
 Each refusal is not arbitrary:
 it is a *necessary consequence* of categoricity.
 The chapter catalogues sixteen refusals,
@@ -58,4 +58,4 @@ and identifies the coherent *protection architecture*
 that the refusals collectively form.
 
 This is the honest accounting
-of what Category $τ$ cannot do.
+of what Category τ cannot do.

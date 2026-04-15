@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapt
 prev_chapter_title: "Chapter 5: The Object Closure Axiom and the Static Kernel τ₀"
 next_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-07-the-one-generative-act-rho-unfolds-the-universe/"
 next_chapter_title: "Chapter 7: The ONE Generative Act — ρ Unfolds the Universe"
-summary_short: "The static kernel $τ_0$ specifies five generators and four orbit channels. Why four? Why not three, or seven, or countably many? The answer lies in the…"
+summary_short: "The static kernel τ₀ specifies five generators and four orbit channels. Why four? Why not three, or seven, or countably many? The answer lies in the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-01-the-coherence-kernel/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-The static kernel $τ_0$ specifies five generators
+The static kernel τ₀ specifies five generators
 and four orbit channels.
 Why four?
 Why not three, or seven, or countably many?
@@ -50,12 +50,12 @@ a step in which the self-application of an operation
 at one level produces a genuinely new operation
 at the next level.
 Three successive rewirings are possible:
-addition overflows into multiplication ($π$ channel),
-multiplication overflows into exponentiation ($γ$ channel),
-exponentiation overflows into tetration ($η$ channel).
+addition overflows into multiplication (π channel),
+multiplication overflows into exponentiation (γ channel),
+exponentiation overflows into tetration (η channel).
 A fourth rewiring — pentation — would require a fifth
-orbit channel, but $K6$ (Object Closure) forbids it.
+orbit channel, but K6 (Object Closure) forbids it.
 The ladder saturates.
-The $1+3$ split of the generators
-($1$ radial $+$ $3$ solenoidal)
+The 1+3 split of the generators
+(1 radial + 3 solenoidal)
 is not a design choice but a structural necessity.

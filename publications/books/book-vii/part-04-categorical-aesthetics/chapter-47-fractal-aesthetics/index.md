@@ -51,4 +51,4 @@ self-similarity is not a mathematical curiosity but a design principle
 pervasive in the physical world. The aesthetic appeal of fractal
 dimension, confirmed by empirical studies of visual preference,
 connects scale invariance to the categorical framework through
-$τ$'s own self-similar structure.
+τ's own self-similar structure.

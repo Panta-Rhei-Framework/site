@@ -10,7 +10,7 @@ part_number: 1
 part_display: "Part I"
 part_slug: "part-01-the-joint-core-from-neutron-to-hydrogen"
 chapter_count: 10
-summary_short: "Part I is the *Joint Core*: the ten chapters that both the Complexity Arc (Book IV) and the Force Arc (Book V) require as prerequisite. Starting from the $τ^3$…"
+summary_short: "Part I is the *Joint Core*: the ten chapters that both the Complexity Arc (Book IV) and the Force Arc (Book V) require as prerequisite. Starting from the τ³…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 right_rail:
@@ -33,21 +33,21 @@ right_rail:
 Part I is the *Joint Core*:
 the ten chapters that both the Complexity Arc (Book IV)
 and the Force Arc (Book V) require as prerequisite.
-Starting from the $τ^3$ arena and the defect-bundle formalism,
+Starting from the τ³ arena and the defect-bundle formalism,
 we introduce the photon as null transport,
 earn the neutron as the minimal stable defect bundle,
-and let $β$-decay produce the proton, the electron,
+and let β-decay produce the proton, the electron,
 and the antineutrino.
 All five sectors are displayed in concert,
 the fine-structure constant is derived
-($α = (121/225) ι_τ^4$ at 9.8 ppm),
+(α = (121/225) ι_τ⁴ at 9.8 ppm),
 the neutron mass anchors calibration,
 and hydrogen closes the sequence
 as the first composite atom.
 
 By the end of Part I the ontic sequence is complete:
-vacuum $→$ neutron $β^-$
-proton $+$ electron $+$ antineutrino $→$ hydrogen.
+vacuum → neutron β^-
+proton + electron + antineutrino → hydrogen.
 Every subsequent chapter in Books IV and V builds on this foundation.
 
 ## Chapters

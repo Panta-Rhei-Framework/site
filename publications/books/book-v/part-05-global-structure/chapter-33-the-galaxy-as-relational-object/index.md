@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-3
 prev_chapter_title: "Chapter 32: Kepler and the Solar System as Calibration Laboratory"
 next_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-34-rotation-curves-without-dark-matter/"
 next_chapter_title: "Chapter 34: Rotation Curves Without Dark Matter"
-summary_short: "A galaxy is not a swarm of stars flying through empty space. In Category $τ$, a galaxy is a **relational structure**—a coherent pattern in the boundary…"
+summary_short: "A galaxy is not a swarm of stars flying through empty space. In Category τ, a galaxy is a **relational structure**—a coherent pattern in the boundary…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-05-global-structure/"
@@ -40,14 +40,14 @@ right_rail:
 
 A galaxy is not a swarm of stars
 flying through empty space.
-In Category $τ$,
+In Category τ,
 a galaxy is a **relational structure**—a
 coherent pattern in the boundary holonomy algebra
-$H_∂[ω]$
+H_∂[ω]
 that binds baryonic matter, radiation,
 and the gravitational field
 into a single self-consistent readout
-(\S).
+(§).
 
 This redefinition has immediate consequences.
 Galaxy formation is not the gravitational collapse
@@ -57,22 +57,22 @@ It is the emergence of relational coherence
 from the initial boundary conditions
 encoded in the CMB constraint surface
 (the relevant chapter,
-\S).
+§).
 The cosmic web—the
 filamentary large-scale structure of the universe—is
 not an afterthought but the **boundary condition**
 that determines where galaxies form
-(\S).
+(§).
 The classification of galaxies
 (elliptical, spiral, irregular)
 corresponds to distinct patterns
-in the $D$-sector capacity profile
-(\S).
+in the D-sector capacity profile
+(§).
 
 Throughout this chapter,
-the structural features are $τ$-effective.
+the structural features are τ-effective.
 The quantitative details of galaxy formation—timing,
 mass functions, merger rates—remain
 conjectural pending explicit solutions
-of the $τ$-Einstein equation
+of the τ-Einstein equation
 with cosmological boundary conditions.

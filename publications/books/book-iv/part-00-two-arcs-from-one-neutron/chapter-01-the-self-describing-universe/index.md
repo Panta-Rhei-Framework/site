@@ -45,10 +45,10 @@ This chapter crosses the threshold from mathematics to physics.
 The central thesis: physics is not imposed on the kernel
 from outside—it is what happens when the kernel
 *represents itself on its own boundary*.
-The boundary holonomy algebra $H_∂$ is the Yoneda
-self-image of $τ$ at the first enrichment layer $E_1$;
-the fiber $T^2$ of the fibered product
-$τ^3 = τ^1 ×_f T^2$ is the domain of Book IV,
+The boundary holonomy algebra H_∂ is the Yoneda
+self-image of τ at the first enrichment layer E₁;
+the fiber T² of the fibered product
+τ³ = τ¹ ×_f T² is the domain of Book IV,
 the microcosm of quantum mechanics, particles, and forces.
 We state the Hermetic Principle—Book IV (fiber)
 plus Book V (base) equals complete physics—lift

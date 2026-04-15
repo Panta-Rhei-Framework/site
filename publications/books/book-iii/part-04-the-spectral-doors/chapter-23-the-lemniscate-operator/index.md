@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapt
 prev_chapter_title: "Chapter 22: The Functional Equation in H_"
 next_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapter-24-the-spectral-correspondence/"
 next_chapter_title: "Chapter 24: The Spectral Correspondence"
-summary_short: "We construct the lemniscate operator $H_L$ on the boundary $L = S^1 ∨ S^1$, treating $L$ as a metric graph with two edges joined at the crossing point $ω$. The…"
+summary_short: "We construct the lemniscate operator H_L on the boundary L = S¹ ∨ S¹, treating L as a metric graph with two edges joined at the crossing point ω. The…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-We construct the lemniscate operator $H_L$ on the boundary $L = S^1 ∨ S^1$, treating $L$ as a metric graph with two edges joined at the crossing point $ω$. The operator $H_L = -d^2{dx^2}$ with Kirchhoff boundary conditions is self-adjoint with real, discrete spectrum. This chapter combines established quantum graph theory with $τ$'s specific boundary structure, yielding the spectral data that govern all subsequent Millennium Problem attacks.
+We construct the lemniscate operator H_L on the boundary L = S¹ ∨ S¹, treating L as a metric graph with two edges joined at the crossing point ω. The operator H_L = -d²{dx²} with Kirchhoff boundary conditions is self-adjoint with real, discrete spectrum. This chapter combines established quantum graph theory with τ's specific boundary structure, yielding the spectral data that govern all subsequent Millennium Problem attacks.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 24: Lines from Countable Structure"
 next_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-26-three-perspectives-on-pi/"
 next_chapter_title: "Chapter 26: Three Perspectives on π"
-summary_short: "the relevant chapter earned the real line as the Archimedean shadow of the radial $α$-ray and introduced level circles $Λ_k^X$ as finite cyclic groups…"
+summary_short: "the relevant chapter earned the real line as the Archimedean shadow of the radial α-ray and introduced level circles Λ_k^X as finite cyclic groups…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -39,23 +39,23 @@ right_rail:
 
 
 the relevant chapter earned the real line
-as the Archimedean shadow of the radial $α$-ray
-and introduced level circles $Λ_k^X$
+as the Archimedean shadow of the radial α-ray
+and introduced level circles Λ_k^X
 as finite cyclic groups at each NF stage.
 This chapter takes the inverse limit
 of those level circles and produces
 the **solenoidal circle**
 (the relevant definition, II.D26):
 a profinite group whose Archimedean projection
-is the classical circle $S^1$.
+is the classical circle S¹.
 **the relevant theorem (II.T21):
-$S^1$ is the Archimedean shadow
+S¹ is the Archimedean shadow
 of the solenoidal inverse limit—not
 an independently existing uncountable continuum.
 The geometric circle
 (the locus of constant distance from a center)
 and the topological circle
-(the unique compact connected $1$-manifold)
+(the unique compact connected 1-manifold)
 are identified as two descriptions
 of the same solenoidal limit object
 (the relevant definition, II.D27).

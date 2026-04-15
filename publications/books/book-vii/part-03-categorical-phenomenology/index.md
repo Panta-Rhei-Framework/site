@@ -10,7 +10,7 @@ part_number: 3
 part_display: "Part III"
 part_slug: "part-03-categorical-phenomenology"
 chapter_count: 8
-summary_short: "**Sector $S_E$ (Empirical), Part 2 of 2.** How do we know? **Knowledge is sections over experience**—justified belief is sheaf gluing; perception is constraint…"
+summary_short: "**Sector S_E (Empirical), Part 2 of 2.** How do we know? **Knowledge is sections over experience**—justified belief is sheaf gluing; perception is constraint…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,14 +30,14 @@ right_rail:
 ---
 
 
-**Sector $S_E$ (Empirical), Part 2 of 2.**
+**Sector S_E (Empirical), Part 2 of 2.**
 How do we know? **Knowledge is sections over experience**—justified belief is sheaf
 gluing; perception is constraint filtering. Temporal experience has a threefold structure:
 retention, primal impression, protention. Intersubjectivity grounds objectivity through
 perspectival gluing. The lived body (Leib) is the phenomenological ground of all experience.
 The epistemology/ontology distinction dissolves: knowing and being are the same categorical
 structure viewed from different angles. Husserl and Merleau-Ponty meet category theory.
-Together with Part II, the empirical sector $S_E$ covers what classical philosophy calls
+Together with Part II, the empirical sector S_E covers what classical philosophy calls
 ontology and epistemology—the two domains governed by the register question
 "what do I observe?"
 

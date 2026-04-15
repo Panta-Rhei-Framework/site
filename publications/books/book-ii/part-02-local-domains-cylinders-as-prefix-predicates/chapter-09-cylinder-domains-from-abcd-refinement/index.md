@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-t
 prev_chapter_title: "Chapter 8: ABCD Structure Replaces Quaternions"
 next_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-10-the-ultrametric-and-first-disagreement-depth/"
 next_chapter_title: "Chapter 10: The Ultrametric and First Disagreement Depth"
-summary_short: "The point set $τ^3$ was defined in the relevant chapter as the collection of $τ$-admissible ABCD quadruples, completed by the profinite inverse…"
+summary_short: "The point set τ³ was defined in the relevant chapter as the collection of τ-admissible ABCD quadruples, completed by the profinite inverse…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/"
@@ -38,24 +38,24 @@ right_rail:
 ---
 
 
-The point set $τ^3$ was defined in
+The point set τ³ was defined in
 the relevant chapter
-as the collection of $τ$-admissible ABCD quadruples,
+as the collection of τ-admissible ABCD quadruples,
 completed by the profinite inverse limit.
-This chapter builds *local domains* on $τ^3$
+This chapter builds *local domains* on τ³
 using the CRT reduction maps
-$π_k : τ^3 → ℤ/P_k$
+π_k : τ³ → ℤ/P_k
 that Book I's Chinese Remainder Theorem provides.
 The key construction:
-a **stage-$k$ cylinder** is the set of all points
+a **stage-k cylinder** is the set of all points
 that agree with a given point
-modulo the $k$th primorial $P_k$.
+modulo the kth primorial P_k.
 This is a "prefix predicate":
 two points lie in the same cylinder
-if and only if their first $k$ prime reductions coincide.
+if and only if their first k prime reductions coincide.
 Cylinders decompose along the four ABCD coordinates,
 are simultaneously open and closed,
-and form a basis for a topology on $τ^3$.
+and form a basis for a topology on τ³.
 This topology is not chosen —
 it is the unique topology making
 all reduction maps continuous.

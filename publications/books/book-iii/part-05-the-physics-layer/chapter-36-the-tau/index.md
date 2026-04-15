@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapte
 prev_chapter_title: "Chapter 35: The Strong Sector and NF Discreteness"
 next_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapter-37-the-yang-mills-mass-gap/"
 next_chapter_title: "Chapter 37: The Yang–Mills Mass Gap"
-summary_short: "We prove the $τ$-Gap Meta-Theorem: any NF-discrete tower equipped with a contractive defect functional admits a strictly positive spectral gap. The argument is…"
+summary_short: "We prove the τ-Gap Meta-Theorem: any NF-discrete tower equipped with a contractive defect functional admits a strictly positive spectral gap. The argument is…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-05-the-physics-layer/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-We prove the $τ$-Gap Meta-Theorem: any NF-discrete tower equipped with a contractive defect functional admits a strictly positive spectral gap. The argument is entirely $τ$-internal—no quantum field theory, no gauge groups, no Lagrangians. NF discreteness (Ch. 38) provides a minimal separation between distinct configurations at each primorial depth; defect contractivity (Ch. 35) prevents accumulation toward zero. These two properties together force the gap constant $Γ^*$ to be strictly positive. We compute $Γ^*$ explicitly at the first three primorial levels and prove that it stabilizes as primorial depth increases. The theorem is a *meta*-theorem because it applies to any sector satisfying the hypotheses—Yang–Mills (Ch. 40) is one instantiation, but the logic is not specific to gauge theory.
+We prove the τ-Gap Meta-Theorem: any NF-discrete tower equipped with a contractive defect functional admits a strictly positive spectral gap. The argument is entirely τ-internal—no quantum field theory, no gauge groups, no Lagrangians. NF discreteness (Ch. 38) provides a minimal separation between distinct configurations at each primorial depth; defect contractivity (Ch. 35) prevents accumulation toward zero. These two properties together force the gap constant Γ^* to be strictly positive. We compute Γ^* explicitly at the first three primorial levels and prove that it stabilizes as primorial depth increases. The theorem is a *meta*-theorem because it applies to any sector satisfying the hypotheses—Yang–Mills (Ch. 40) is one instantiation, but the logic is not specific to gauge theory.

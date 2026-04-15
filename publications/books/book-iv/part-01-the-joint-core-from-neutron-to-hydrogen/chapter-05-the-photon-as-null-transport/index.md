@@ -40,6 +40,6 @@ right_rail:
 
 Before the neutron decays, we need the mode that will carry its electromagnetic information away.
 The photon is not a "particle of light"—it is a **null transport mode**
-for U(1) phase on $τ^3$. It has zero mass, zero $T^2$ breathing amplitude,
-and travels at speed $c$ because it is pure boundary-character propagation with no
+for U(1) phase on τ³. It has zero mass, zero T² breathing amplitude,
+and travels at speed c because it is pure boundary-character propagation with no
 bulk defect structure. Its existence is a prerequisite for everything that follows.

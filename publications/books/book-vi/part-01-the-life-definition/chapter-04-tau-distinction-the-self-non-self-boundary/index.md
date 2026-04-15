@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapt
 prev_chapter_title: "Chapter 3: The Parity Bridge: Weak-Sector Polarity Seeds Life"
 next_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-05-selfdesc-the-internal-decoding-loop/"
 next_chapter_title: "Chapter 5: SelfDesc: The Internal Decoding Loop"
-summary_short: "The formal $τ$-distinction predicate $D\\colon X → 2_τ$ is defined by five conditions: clopen, refinement-coherent, eventually stable, law-stable, and…"
+summary_short: "The formal τ-distinction predicate D: X → 2_τ is defined by five conditions: clopen, refinement-coherent, eventually stable, law-stable, and…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-01-the-life-definition/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The formal $τ$-distinction predicate $D\colon X → 2_τ$ is defined by five conditions: clopen, refinement-coherent, eventually stable, law-stable, and $H_∂$-equivariant. Three carrier families—finite-lineage (biological), macro-torus (black hole), and galactic (basins)—realize the framework at different scales. Two canonical modes connect boundary geometry to defect thermodynamics. The Distinction Well-Definedness Theorem establishes that $τ$-finiteness of the carrier at each refinement level ensures the predicate terminates.
+The formal τ-distinction predicate D: X → 2_τ is defined by five conditions: clopen, refinement-coherent, eventually stable, law-stable, and H_∂-equivariant. Three carrier families—finite-lineage (biological), macro-torus (black hole), and galactic (basins)—realize the framework at different scales. Two canonical modes connect boundary geometry to defect thermodynamics. The Distinction Well-Definedness Theorem establishes that τ-finiteness of the carrier at each refinement level ensures the predicate terminates.

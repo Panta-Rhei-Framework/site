@@ -10,7 +10,7 @@ part_number: 6
 part_display: "Part VI"
 part_slug: "part-06-categorical-logic-inference"
 chapter_count: 10
-summary_short: "**Sector $S_D$ (Diagrammatic), Part 3 of 3.** What is truth? **Boolean at micro scale, Bayesian at meso/macro**—logic is scale-dependent. Truth-bearers are…"
+summary_short: "**Sector S_D (Diagrammatic), Part 3 of 3.** What is truth? **Boolean at micro scale, Bayesian at meso/macro**—logic is scale-dependent. Truth-bearers are…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-**Sector $S_D$ (Diagrammatic), Part 3 of 3.**
+**Sector S_D (Diagrammatic), Part 3 of 3.**
 What is truth? **Boolean at micro scale, Bayesian at meso/macro**—logic is scale-dependent.
 Truth-bearers are sections; truth-makers are structures; correspondence and coherence unify
 in the sheaf condition. Modal logic emerges from possible worlds as objects with accessibility
@@ -38,7 +38,7 @@ morphisms. Paraconsistent logic handles contradictions at boundaries without exp
 Internal randomness exists; external randomness does not. Kolmogorov probability is representation
 theorem for belief. Inference is categorical necessity.
 Logic closes the diagrammatic sector: having established pattern (aesthetics), symbol (language),
-and now proof, the $S_D$ apparatus is complete.
+and now proof, the S_D apparatus is complete.
 
 ## Chapters
 

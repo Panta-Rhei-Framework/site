@@ -10,7 +10,7 @@ part_number: 3
 part_display: "Part III"
 part_slug: "part-03-the-denotational-bridge"
 chapter_count: 6
-summary_short: "The ontic seal is in place. Every object of $τ$ exists, is unique, and is rigid. From this point forward, we only *name* — never *create*. The alpha-orbit…"
+summary_short: "The ontic seal is in place. Every object of τ exists, is unique, and is rigid. From this point forward, we only *name* — never *create*. The alpha-orbit…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -31,27 +31,27 @@ right_rail:
 
 
 The ontic seal is in place.
-Every object of $τ$ exists, is unique, and is rigid.
+Every object of τ exists, is unique, and is rigid.
 From this point forward, we only *name* — never *create*.
 
-The alpha-orbit $O_α$ is identified as $τ$-Idx:
+The alpha-orbit O_α is identified as τ-Idx:
 the internal natural numbers, earned rather than imported.
 Rank transfer maps establish canonical bijections
 between the counting scaffold and the three solenoidal orbits.
-From $ρ$ alone, we derive the swap operator $σ$,
-index addition ($n + m = ρ^m(n)$),
+From ρ alone, we derive the swap operator σ,
+index addition (n + m = ρ^m(n)),
 index multiplication, exponentiation, and tetration —
 a full arithmetic tower, each level earned by structural recursion
 from the previous.
 
-The program monoid captures finite $ρ$-instruction sequences
+The program monoid captures finite ρ-instruction sequences
 with composition defined by concatenation and normalization.
 Composition associativity is a *theorem*, not an axiom —
 proved via the NF-Confluence Lemma.
 Three levels of sameness (ontic identity, address equivalence,
-shadow equality) replace the single primitive "$=$"
+shadow equality) replace the single primitive "="
 with a principled hierarchy.
-The denotational order extends $K1$ to all of $\Obj(τ)$,
+The denotational order extends K1 to all of Obj(τ),
 completing the well-ordered structure.
 
 After this Part, every object has a name, an address, and a position.

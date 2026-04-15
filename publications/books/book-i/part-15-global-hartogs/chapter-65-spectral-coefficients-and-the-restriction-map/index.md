@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-6
 prev_chapter_title: "Chapter 64: Internal Hom and Exponentials"
 next_chapter_url: "/publications/books/book-i/part-15-global-hartogs/chapter-66-thinness-and-the-removable-singularity-criterion/"
 next_chapter_title: "Chapter 66: Thinness and the Removable Singularity Criterion"
-summary_short: "The spectral decomposition (the relevant theorem, I.T12) splits every element of $𝕃$ into $B$-sector and $C$-sector components via the…"
+summary_short: "The spectral decomposition (the relevant theorem, I.T12) splits every element of 𝕃 into B-sector and C-sector components via the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-15-global-hartogs/"
@@ -40,24 +40,24 @@ right_rail:
 
 The spectral decomposition
 (the relevant theorem, I.T12)
-splits every element of $𝕃$
-into $B$-sector and $C$-sector components
-via the characters $χ_+$ and $χ_-$
+splits every element of 𝕃
+into B-sector and C-sector components
+via the characters χ_+ and χ_-
 (the relevant definition, I.D37).
 This chapter lifts the spectral machinery
 from elements to *functions*:
-every $f ∈ Hol(𝕃)$
+every f ∈ Hol(𝕃)
 (the relevant definition, I.D49)
 has unique **spectral coefficients**
-$(a_k, b_k)$ at each primorial stage
+(a_k, b_k) at each primorial stage
 (the relevant definition, I.D65).
 The **restriction map**
 (the relevant definition, I.D66)
-restricts a function on $𝕃$
-to the complement $𝕃 \setminus K$.
+restricts a function on 𝕃
+to the complement 𝕃 ∖ K.
 The **Spectral Determination Theorem**
 (the relevant theorem, I.T29)
-proves that a $τ$-holomorphic function
+proves that a τ-holomorphic function
 is uniquely determined by its spectral coefficients:
 the characters form a basis at each stage
 (I.T12) and tower coherence

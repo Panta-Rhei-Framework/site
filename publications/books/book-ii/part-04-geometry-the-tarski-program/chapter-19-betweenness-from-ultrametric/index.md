@@ -42,9 +42,9 @@ Tarski's axiomatization of Euclidean geometry
 rests on two primitive relations:
 **betweenness** and **congruence**.
 Classical treatments *assume* these as undefined primitives.
-In Category $τ$, we **derive** the betweenness relation
+In Category τ, we **derive** the betweenness relation
 from the ultrametric distance
-$d(x,y) = 2^{-δ(x,y)}$
+d(x,y) = 2^{-δ(x,y)}
 ,
 then **prove** that it satisfies
 Tarski's betweenness axioms T1–T3.
@@ -52,7 +52,7 @@ Betweenness is a *theorem*,
 not an axiom—earned from the CRT tower
 and the first disagreement depth.
 The key insight:
-"$y$ is between $x$ and $z$"
-means that $x$ and $y$ agree
+"y is between x and z"
+means that x and y agree
 to greater depth in the primorial tower
-than $x$ and $z$ do.
+than x and z do.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-det
 prev_chapter_title: "Chapter 40: Regularity as Positive Structure"
 next_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-42-code-decode-and-diagonal-protection/"
 next_chapter_title: "Chapter 42: Code/Decode and Diagonal Protection"
-summary_short: "This chapter establishes a phenomenon that has no classical analogue: holomorphic functions on $τ^3$ are **themselves objects** of $τ^3$. The function space…"
+summary_short: "This chapter establishes a phenomenon that has no classical analogue: holomorphic functions on τ³ are **themselves objects** of τ³. The function space…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/"
@@ -39,11 +39,11 @@ right_rail:
 
 
 This chapter establishes a phenomenon that has no classical analogue:
-holomorphic functions on $τ^3$
-are **themselves objects** of $τ^3$.
-The function space $Hol_τ(τ^3, H_τ)$
-embeds into the $ω$-germ space $d(τ^3)$
-via a canonical injection $y$
+holomorphic functions on τ³
+are **themselves objects** of τ³.
+The function space Hol_τ(τ³, H_τ)
+embeds into the ω-germ space d(τ³)
+via a canonical injection y
 that preserves bipolar decomposition, regularity,
 and the full ABCD coordinate structure.
 A function on the space is also a point of the space.
@@ -53,17 +53,17 @@ The chapter draws on two sources:
 Book I's Presheaf Characterization (I.T40)
 and the regularity theory of Part VII.
 From Book I, we inherit the algebraic insight
-that $τ$-holomorphy is naturality plus sector independence.
+that τ-holomorphy is naturality plus sector independence.
 From Part VII, we inherit the Idempotent Decomposition Lemma (II.L07)
 and the positive regularity criterion (II.T34).
 Together, these allow us to prove
 **Proposition [prop:functions-as-objects**] (II.P10):
-the embedding $y$ is structure-preserving
+the embedding y is structure-preserving
 in a precise sense.
 The chapter closes with a conceptual remark
 (**Remark [rem:probe-naturality**], II.R12)
 connecting probe naturality to holomorphy:
-a function is $τ$-holomorphic if and only if
+a function is τ-holomorphic if and only if
 probing by cylinder inclusions
 yields natural transformations in the staging variable.
 This is the deep reason that

@@ -41,10 +41,10 @@ system, algebraic geometry, spectral theory, logic,
 complex analysis, category theory, abstract algebra,
 a computability framework, and a complexity bridge—from
 five generators, seven axioms, and the progression
-operator $ρ$.
+operator ρ.
 Nothing is borrowed.
 Every tool is earned in the order
-Category $τ$ itself demands—and
+Category τ itself demands—and
 every result is machine-checked in the accompanying
 Lean 4 library TauLib
 (81 modules, zero `sorry`).

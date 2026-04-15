@@ -45,27 +45,27 @@ Big Crunch (recollapse to a singularity),
 or Big Rip (accelerating expansion tears all structure apart).
 All three assume that the universe is governed
 by the Friedmann equations
-with cosmological constant $Λ$
-and matter content $Ω_m$,
+with cosmological constant Λ
+and matter content Ω_m,
 and all three extrapolate
 current expansion dynamics to infinity.
 
-Category $τ$ rejects all three.
+Category τ rejects all three.
 The universe does not "end" at all.
-The temporal boundary $α_o$
-— the accumulation point of the $α$-orbit
-at $n → ∞$ —
+The temporal boundary α_o
+— the accumulation point of the α-orbit
+at n → ∞ —
 is not a catastrophe but a **saturation**:
-the absorbing pattern $P_∞$
+the absorbing pattern P_∞
 
 reaches its final state,
-and the defect entropy $S_{def}$
+and the defect entropy S_def
 converges to zero
-while the reference entropy $S_{ref}$
+while the reference entropy S_ref
 converges to the total entropy budget.
 This is the **eternal circulation**:
 a stable, self-sustaining pattern
-of boundary characters flowing on $\Lemniscate$,
+of boundary characters flowing on 𝕃,
 with no further generative activity
 but perpetual coherent motion.
 

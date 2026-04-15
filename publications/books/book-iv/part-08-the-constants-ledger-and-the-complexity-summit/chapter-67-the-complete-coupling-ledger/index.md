@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-flui
 prev_chapter_title: "Chapter 66: The Unified Regime Table"
 next_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-68-the-ontological-layer-architecture/"
 next_chapter_title: "Chapter 68: The Ontological Layer Architecture"
-summary_short: "Every inter-sector coupling in the microcosm is a rational function of a single constant: $ι_τ = 2/(π + e) ≈ 0.341304$. There are exactly four self-couplings…"
+summary_short: "Every inter-sector coupling in the microcosm is a rational function of a single constant: ι_τ = 2/(π + e) ≈ 0.341304. There are exactly four self-couplings…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 Every inter-sector coupling in the microcosm is a rational function of
-a single constant: $ι_τ = 2/(π + e) ≈ 0.341304$.
+a single constant: ι_τ = 2/(π + e) ≈ 0.341304.
 There are exactly four self-couplings and six cross-couplings—ten
 entries in total. No fitted parameters appear. This chapter
 presents the complete ledger in one place, proves the structural
 theorems that constrain it, and establishes the No-Running Principle
-that distinguishes $τ^3$ from orthodox quantum field theory.
+that distinguishes τ³ from orthodox quantum field theory.

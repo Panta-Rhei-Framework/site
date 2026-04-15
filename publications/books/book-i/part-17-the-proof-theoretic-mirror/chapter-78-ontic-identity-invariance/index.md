@@ -53,9 +53,9 @@ admitting the full diagonal.
 proliferate wherever the three components
 reinforce one another.
 This chapter proves the resolution.
-$τ$'s coherence kernel ($K0$–$K6$)
+τ's coherence kernel (K0–K6)
 blocks each component of diagonal resonance individually:
-$K5$ blocks free contraction (L),
+K5 blocks free contraction (L),
 NF-Confluence blocks equality ambiguity (E),
 and the star-autonomous structure blocks
 primitive self-products (P).
@@ -70,10 +70,10 @@ shadow identities.
 The **No Identity Decoherence** corollary
 (Corollary [cor:no-identity-decoherence], I.C03)
 states that diagonal resonance
-cannot occur at the ontic level in $τ$.
+cannot occur at the ontic level in τ.
 The **Conditional Theorem**
 (the relevant theorem, I.T47)
 draws the consequence:
 any foundation that permits identity slippage
 at the substrate level
-cannot internalize a unique, absolute infinity $ω$.
+cannot internalize a unique, absolute infinity ω.

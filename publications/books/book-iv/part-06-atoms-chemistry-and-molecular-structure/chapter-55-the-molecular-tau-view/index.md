@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 54: Biochemistry and Photochemistry"
 next_chapter_url: "/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/chapter-56-the-defect-functional-and-fluid-regimes/"
 next_chapter_title: "Chapter 56: The Defect Functional and Fluid Regimes"
-summary_short: "Chemistry is not a separate science. It is $τ^2$ physics at the atomic and molecular scale. This chapter looks back over Part VI and distils its content into a…"
+summary_short: "Chemistry is not a separate science. It is τ² physics at the atomic and molecular scale. This chapter looks back over Part VI and distils its content into a…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-Chemistry is not a separate science. It is $τ^2$ physics at the
+Chemistry is not a separate science. It is τ² physics at the
 atomic and molecular scale. This chapter looks back over Part VI and
 distils its content into a single claim: every chemical phenomenon
 encountered—from the hydrogen spectrum to DNA base pairing—follows
-from four principles, all inherited from the $τ^3$ fibration.
+from four principles, all inherited from the τ³ fibration.
 No new axioms were introduced; no parameters were fitted.
 From hydrogen to biochemistry, one geometry governs all.

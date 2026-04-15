@@ -10,7 +10,7 @@ part_number: 10
 part_display: "Part X"
 part_slug: "part-10-lemniscate-characters"
 chapter_count: 3
-summary_short: "Part VII earned the algebraic lemniscate $𝕃$ as the bipolar spectral algebra $H_τ = A_τ^{(B)} × A_τ^{(C)}$ , and Part IX…"
+summary_short: "Part VII earned the algebraic lemniscate 𝕃 as the bipolar spectral algebra H_τ = A_τ^(B) × A_τ^(C) , and Part IX…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -30,26 +30,26 @@ right_rail:
 ---
 
 
-Part VII earned the algebraic lemniscate $𝕃$
+Part VII earned the algebraic lemniscate 𝕃
 as the bipolar spectral algebra
-$H_τ = A_τ^{(B)} × A_τ^{(C)}$
+H_τ = A_τ^(B) × A_τ^(C)
 ,
 and Part IX constructed the full profinite boundary ring
-$\hatℤ_τ$ with its split-complex extension
-$\hatℤ_τ[j]$
+ℤ_τ with its split-complex extension
+ℤ_τ[j]
 (Chapters –).
 
-This Part develops the *character theory* of $𝕃$:
+This Part develops the *character theory* of 𝕃:
 ring homomorphisms from the bipolar spectral algebra
 into the split-complex scalars.
-The fundamental characters $χ_+$ and $χ_-$
+The fundamental characters χ_+ and χ_-
 project onto the B-sector and C-sector respectively,
 and the full character group classifies
-all the ways $𝕃$ interacts with its scalar ring.
+all the ways 𝕃 interacts with its scalar ring.
 
 The spectral decomposition theorem
 gives a canonical decomposition
-of every element of $𝕃$
+of every element of 𝕃
 into B-sector and C-sector components.
 The crossing point —
 the algebraic locus where the two sectors meet —
@@ -58,7 +58,7 @@ whose local structure reflects
 the bipolar polarity of primes.
 Finally, the bipolar Fourier transform
 provides a formal framework for harmonic analysis
-on $𝕃$, previewing the central role
+on 𝕃, previewing the central role
 that lemniscate characters play
 in the Central Theorem of Book II.
 

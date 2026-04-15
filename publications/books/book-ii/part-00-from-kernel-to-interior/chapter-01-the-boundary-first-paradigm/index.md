@@ -39,9 +39,9 @@ right_rail:
 Classical several complex variables (SCV) flows from interior to boundary:
 one starts with holomorphic functions on open domains
 and derives boundary values as limits.
-Category $τ$ inverts this flow.
+Category τ inverts this flow.
 Book I earned a boundary object—the algebraic lemniscate
-$𝕃$—and a holomorphic calculus on it,
+𝕃—and a holomorphic calculus on it,
 then proved that boundary data determines interior structure
 (Global Hartogs Extension).
 This chapter explains why the inversion is not a stylistic choice

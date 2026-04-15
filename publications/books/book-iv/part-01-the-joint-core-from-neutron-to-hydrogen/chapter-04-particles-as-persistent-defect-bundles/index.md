@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 3: The τ³ Arena: Fiber T² as Microcosm"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-05-the-photon-as-null-transport/"
 next_chapter_title: "Chapter 5: The Photon as Null Transport"
-summary_short: "The stage is set: the fiber $T^2$ is the microcosm arena , equipped with the $E_1$ sector template (Chapter…"
+summary_short: "The stage is set: the fiber T² is the microcosm arena , equipped with the E₁ sector template (Chapter…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-The stage is set: the fiber $T^2$ is the microcosm arena
+The stage is set: the fiber T² is the microcosm arena
 ,
-equipped with the $E_1$ sector template
+equipped with the E₁ sector template
 .
 This chapter introduces the actors: *particles*.
 A particle is not a point, not a string,
 not a field excitation—it is a **persistent defect bundle**
-on $T^2$, a localized deviation from the vacuum torus
+on T², a localized deviation from the vacuum torus
 whose topological invariants determine all observable properties.
 We define the defect tuple, the three particle kinds,
 and the mass–energy correspondence that turns

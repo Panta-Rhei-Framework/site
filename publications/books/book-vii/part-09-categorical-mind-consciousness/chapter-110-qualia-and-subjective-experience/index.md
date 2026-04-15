@@ -45,7 +45,7 @@ models a quale not as a mysterious non-physical substance but as a
 structured internal transformation from stimulus representation to
 phenomenal presentation. The Hard Problem of consciousness is
 reformulated (VII.R41) as a layer question: the gap between
-$E_2$ structure (functional organisation) and $E_3$ experience
+E₂ structure (functional organisation) and E₃ experience
 (first-person instantiation). The chapter closes with an honest
 acknowledgment of what the framework cannot resolve. The entire
 chapter carries the **conjectural** scope label.

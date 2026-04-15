@@ -10,7 +10,7 @@ part_number: 5
 part_display: "Part V"
 part_slug: "part-05-hyperfactorization"
 chapter_count: 5
-summary_short: "Part IV defined the ABCD coordinate chart: a total map $Φ : \\Obj(τ) → τ-Idx^4$ that assigns four typed coordinates to every object. Existence of the chart was…"
+summary_short: "Part IV defined the ABCD coordinate chart: a total map Φ : Obj(τ) → τ-Idx⁴ that assigns four typed coordinates to every object. Existence of the chart was…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -31,10 +31,10 @@ right_rail:
 
 
 Part IV defined the ABCD coordinate chart:
-a total map $Φ : \Obj(τ) → τ-Idx^4$
+a total map Φ : Obj(τ) → τ-Idx⁴
 that assigns four typed coordinates to every object.
 Existence of the chart was proved;
-the dimension $\dim_τ = 4$ was established.
+the dimension dim_τ = 4 was established.
 But a coordinate system that merely *exists*
 is not yet a coordinate system that *works*:
 the chart must be **injective** —
@@ -44,26 +44,26 @@ This Part proves the **Hyperfactorization Theorem**,
 the first of the two hinge theorems
 that anchor the entire Panta Rhei series.
 The theorem states that the ABCD encoding is
-*unique*: every $X ∈ τ-Idx$
-with $X ≥ 2$ has exactly one
-decomposition $X = ((A ↑↑
-C)^{B}) · D$
+*unique*: every X ∈ τ-Idx
+with X ≥ 2 has exactly one
+decomposition X = ((A ↑↑
+C)^{B}) · D
 satisfying the greedy-peel constraints.
 
 The proof rests on three critical lemmas:
 enumerate
  - **Tetration injectivity**
  (already proved in Part III, the relevant chapter):
- $a ↑↑ c_1
- = a ↑↑ c_2$
- implies $c_1 = c_2$.
+ a ↑↑ c₁
+ = a ↑↑ c₂
+ implies c₁ = c₂.
  - **No-tie determinism**
  :
  the greedy peel's choice is deterministic
  at every step.
  - **Strict remainder descent**
  :
- the remainder $D$ is strictly less than $X$.
+ the remainder D is strictly less than X.
 enumerate
 
 The chapter sequence:
@@ -80,7 +80,7 @@ With the Hyperfactorization Theorem in hand,
 the ABCD chart becomes a faithful coordinate system:
 shadow equality collapses to ontic identity
 ,
-and every object of Category $τ$
+and every object of Category τ
 has exactly one canonical address.
 
 ## Chapters

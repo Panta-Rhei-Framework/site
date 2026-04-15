@@ -45,7 +45,7 @@ where evidence is partial, and where competing hypotheses must be
 weighed—logic becomes Bayesian. Degrees of credence replace binary
 truth values, and belief revision follows from conditional probability
 understood as a categorical operation. This transition is not a
-departure from $τ$-logic but a structural consequence of scale:
+departure from τ-logic but a structural consequence of scale:
 when the observer cannot resolve individual addresses, uncertainty
 enters not as an epistemic deficiency but as a feature of the scale
 at which inquiry is conducted.

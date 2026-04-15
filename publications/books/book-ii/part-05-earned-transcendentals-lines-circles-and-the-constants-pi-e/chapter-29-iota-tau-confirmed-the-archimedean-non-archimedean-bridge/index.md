@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 28: Replaces i — Polarity, Not Rotation"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/"
 next_chapter_title: "Chapter 30: Split-Complex Codomain with Calibration"
-summary_short: "Book I introduced the master constant $ι_τ = 2/(π + e) ≈ 0.341304$ as a structural mediator between the B and C channels (I.D24, Book I). At that stage,…"
+summary_short: "Book I introduced the master constant ι_τ = 2/(π + e) ≈ 0.341304 as a structural mediator between the B and C channels (I.D24, Book I). At that stage,…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -39,24 +39,24 @@ right_rail:
 
 
 Book I introduced the master constant
-$ι_τ = 2/(π + e) ≈ 0.341304$
+ι_τ = 2/(π + e) ≈ 0.341304
 as a structural mediator between the B and C channels
 (I.D24, Book I).
-At that stage, neither $π$ nor $e$ was earned:
-$ι_τ$ was a formal ratio
+At that stage, neither π nor e was earned:
+ι_τ was a formal ratio
 awaiting numerical content.
 Chapters  and 
-earned $π$ and $e$ from the $τ$-framework itself,
+earned π and e from the τ-framework itself,
 and the relevant chapter
-established the bipolar unit $\jj$.
+established the bipolar unit j.
 This chapter closes the circle.
-We confirm $ι_τ = 2/(π + e)$
-with **earned** $π$ and $e$,
+We confirm ι_τ = 2/(π + e)
+with **earned** π and e,
 establish the **Archimedean-Non-Archimedean Bridge**
 between ultrametric refinement (D-depth)
 and Euclidean resolution (ABC angular precision),
 and prove the **Refinement-Resolution Duality**:
 the statement that these two measurement processes
 are dual descriptions of the same structural process.
-The chapter also explains why $τ$ accesses
-transcendental constants without importing $ℝ$.
+The chapter also explains why τ accesses
+transcendental constants without importing ℝ.

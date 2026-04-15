@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-k
 prev_chapter_title: "Chapter 88: The CI as j-Closed Fixed Point"
 next_chapter_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/chapter-90-the-commitment-register/"
 next_chapter_title: "Chapter 90: The Commitment Register"
-summary_short: "The proof of the categorical imperative as $j$-closed fixed point unfolds in three stages: (K) the Kernel Theorem, which shows that the seven axioms on five…"
+summary_short: "The proof of the categorical imperative as j-closed fixed point unfolds in three stages: (K) the Kernel Theorem, which shows that the seven axioms on five…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-07-categorical-ethics-the-kantian-bridge/"
@@ -38,13 +38,13 @@ right_rail:
 ---
 
 
-The proof of the categorical imperative as $j$-closed fixed point
+The proof of the categorical imperative as j-closed fixed point
 unfolds in three stages: (K) the Kernel Theorem, which shows that the
-seven axioms on five generators force the existence of a $j$-closed
+seven axioms on five generators force the existence of a j-closed
 ethical operator graph; (S) the Semantic Object Construction, which
-builds the domain of CI-relevant ethical objects within $τ$; and
+builds the domain of CI-relevant ethical objects within τ; and
 (CI) the Fixed-Point Uniqueness Conjecture, which claims that the
-minimal $j$-closed fixed point is unique up to isomorphism. Stages K
-and S are $τ$-effective; Stage CI carries conjectural scope. The
+minimal j-closed fixed point is unique up to isomorphism. Stages K
+and S are τ-effective; Stage CI carries conjectural scope. The
 First Bombshell: earning the language to *formulate* the CI proof
 is itself a foundational result.

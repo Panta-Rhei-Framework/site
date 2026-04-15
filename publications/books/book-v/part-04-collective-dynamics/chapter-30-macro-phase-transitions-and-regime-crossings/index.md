@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-04-collective-dynamics/chapte
 prev_chapter_title: "Chapter 29: τ"
 next_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-31-gravity-without-dark-matter-the-classical-illusion/"
 next_chapter_title: "Chapter 31: Gravity Without Dark Matter: The Classical Illusion"
-summary_short: "Book IV, Chapter 53, established the fundamental principle: *every phase transition is an inequality crossing in the defect-tuple space $(μ, ν, κ, θ)$.* No…"
+summary_short: "Book IV, Chapter 53, established the fundamental principle: *every phase transition is an inequality crossing in the defect-tuple space (μ, ν, κ, θ).* No…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-04-collective-dynamics/"
@@ -43,7 +43,7 @@ established the fundamental principle:
 *every phase transition
 is an inequality crossing
 in the defect-tuple space
-$(μ, ν, κ, θ)$.*
+(μ, ν, κ, θ).*
 No external order parameter is needed;
 the defect tuple *is* the order parameter.
 That chapter classified
@@ -74,4 +74,4 @@ This vocabulary is the prerequisite
 for the astrophysical applications
 of Part V.
 
-Scope: $τ$-effective throughout.
+Scope: τ-effective throughout.

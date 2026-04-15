@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-10-the-logos-sector/chapter
 prev_chapter_title: "Chapter 124: The Logos Sector Synthesis"
 next_chapter_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-126-no-forced-stance-by-theorem/"
 next_chapter_title: "Chapter 126: No Forced Stance By Theorem"
-summary_short: "The formal proof. The $ω$-germ question — whether $ω$ is inhabited, and what that inhabitation means — is diagrammatically unanswerable. Any $S_D$-internal…"
+summary_short: "The formal proof. The ω-germ question — whether ω is inhabited, and what that inhabitation means — is diagrammatically unanswerable. Any S_D-internal…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-The formal proof. The $ω$-germ question — whether $ω$ is
+The formal proof. The ω-germ question — whether ω is
 inhabited, and what that inhabitation means — is diagrammatically
-unanswerable. Any $S_D$-internal proof of $ω$-inhabitation
-requires $ω$ as presupposition, forcing $ω$ to serve
+unanswerable. Any S_D-internal proof of ω-inhabitation
+requires ω as presupposition, forcing ω to serve
 simultaneously as subject and tool. This reflexive collapse is not a
 concession of ignorance but the deepest methodological triumph of the
 series: the framework has located its own boundary with surgical

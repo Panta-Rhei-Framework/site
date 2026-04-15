@@ -43,14 +43,14 @@ proved the Mutual Determination Theorem:
 five descriptions of holomorphic data
 are canonically equivalent.
 This chapter puts the equivalence to work.
-The $ω$-germ description (G)
+The ω-germ description (G)
 provides a natural notion of **transport**
 along the primorial tower:
-given holomorphic data at stage $n$,
-the $BndLift_n$ operator
+given holomorphic data at stage n,
+the BndLift_n operator
 (II.D36, the relevant chapter)
-propagates it to stage $n+1$.
-We define the **evolution operator** $E_{n → m}$
+propagates it to stage n+1.
+We define the **evolution operator** E_{n → m}
 as the composition of successive lifts.
 The B/C asymmetry from Prime Polarity
 (I.T05, Book I) breaks the symmetry
@@ -61,14 +61,14 @@ increasing refinement depth).
 This preferred direction is the **causal arrow**.
 The causal arrow is structural—it
 arises from the asymmetry
-between the $γ$-orbit (exponent, B-channel)
-and the $η$-orbit (tetration, C-channel),
+between the γ-orbit (exponent, B-channel)
+and the η-orbit (tetration, C-channel),
 which distinguishes forward propagation
 from backward propagation.
 We prove the main result of the chapter:
 **B/C asymmetry implies a time-like direction**
 (II.T28).
-Elliptic holomorphy ($i^2 = -1$)
+Elliptic holomorphy (i² = -1)
 has no such asymmetry and no causal arrow.
 The chapter connects back to the wave-type causal structure
 of the relevant chapter

@@ -42,22 +42,15 @@ right_rail:
     updated: April 2026
 ---
 
-## The Self-Describing Universe
-
-Book IV is part of the **Physics (Microcosm)** layer (E₁) of the Panta Rhei framework.
-
-**9 parts** · **73 chapters** · **479 pages**
-
-
 ## About This Volume
 
 The Prologue frames Book IV as a whole.
 Chapter 1 introduces the self-describing thesis:
-physics is what happens when the coherence kernel $τ$
+physics is what happens when the coherence kernel τ
 represents itself on its own boundary.
-The fiber–base decomposition splits $τ^3$
-into microcosm (fiber $T^2$, Book IV)
-and macrocosm (base $τ^1$, Book V),
+The fiber–base decomposition splits τ³
+into microcosm (fiber T², Book IV)
+and macrocosm (base τ¹, Book V),
 and the Hermetic Principle declares their union complete.
 Two arcs traverse this physics:
 the *Complexity Arc* (Book IV) climbs from the neutron
@@ -66,23 +59,12 @@ the *Force Arc* (Book V) descends from gravity
 through gauge forces and cosmology.
 Both arcs share a common root—the Joint Core of Part I—and
 both are powered by a single constant:
-$ι_τ = 2/(π + e)$.
+ι_τ = 2/(π + e).
 
 Chapter 2 collects the three deliverables inherited
-from Books I–III—the five generators, the $4+1$ sector template,
-and the $E_1$ export contracts—so that nothing need be re-derived.
+from Books I–III—the five generators, the 4+1 sector template,
+and the E₁ export contracts—so that nothing need be re-derived.
 
-## Parts
-
-- **[Prologue: Two Arcs from One Neutron]({{ '/publications/books/book-iv/part-00-two-arcs-from-one-neutron/' | relative_url }})** — 2 chapters
-- **[Part I: The Joint Core: From Neutron to Hydrogen]({{ '/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/' | relative_url }})** — 10 chapters
-- **[Part II: Quantum Mechanics as Address Obstruction]({{ '/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/' | relative_url }})** — 8 chapters
-- **[Part III: The Electroweak Arc]({{ '/publications/books/book-iv/part-03-the-electroweak-arc/' | relative_url }})** — 8 chapters
-- **[Part IV: The Strong Sector and Confinement]({{ '/publications/books/book-iv/part-04-the-strong-sector-and-confinement/' | relative_url }})** — 6 chapters
-- **[Part V: Particles, Generations, and Nuclear Physics]({{ '/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/' | relative_url }})** — 10 chapters
-- **[Part VI: Atoms, Chemistry, and Molecular Structure]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/' | relative_url }})** — 11 chapters
-- **[Part VII: Condensed Matter and Fluid Dynamics]({{ '/publications/books/book-iv/part-07-condensed-matter-and-fluid-dynamics/' | relative_url }})** — 11 chapters
-- **[Part VIII: The Constants Ledger and the Complexity Summit]({{ '/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/' | relative_url }})** — 7 chapters
 
 ## Canonical Artifacts
 

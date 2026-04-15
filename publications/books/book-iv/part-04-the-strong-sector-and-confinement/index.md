@@ -10,7 +10,7 @@ part_number: 4
 part_display: "Part IV"
 part_slug: "part-04-the-strong-sector-and-confinement"
 chapter_count: 6
-summary_short: "The second force tool is the C-sector—the $η$-generator domain, $χ_-$-dominant, with gauge group SU(3). Where the electroweak arc (Part III) was gentle, the…"
+summary_short: "The second force tool is the C-sector—the η-generator domain, χ_--dominant, with gauge group SU(3). Where the electroweak arc (Part III) was gentle, the…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 right_rail:
@@ -30,8 +30,8 @@ right_rail:
 ---
 
 
-The second force tool is the C-sector—the $η$-generator domain,
-$χ_-$-dominant, with gauge group SU(3).
+The second force tool is the C-sector—the η-generator domain,
+χ_--dominant, with gauge group SU(3).
 Where the electroweak arc (Part III) was gentle, the strong sector
 is topologically forceful:
 a non-trivial vacuum, non-abelian self-interaction,
@@ -41,19 +41,19 @@ Part IV opens with the strong vacuum and colour holonomy
 ,
 derives confinement as address irresolvability
 ,
-and proves the $τ$-gap meta-theorem
+and proves the τ-gap meta-theorem
 —a spectral gap result
 whose C-sector instance yields the Yang–Mills mass gap.
 the relevant chapter develops quarks and gluons
 as confined character modes, the No-Running Principle, and the
-$α_s(M_Z)$ near-match ($2κ(C) ≈ 0.1208$ vs. $0.1180$).
+α_s(M_Z) near-match (2κ(C) ≈ 0.1208 vs. 0.1180).
 the relevant chapter dissolves the vacuum catastrophe,
 and the relevant chapter assembles the complete sector atlas:
-every Standard Model particle located in the $τ^3$ fibration.
+every Standard Model particle located in the τ³ fibration.
 
-By the end of Part IV the force survey of the fiber $T^2$ is complete.
+By the end of Part IV the force survey of the fiber T² is complete.
 All four sectors—D (gravity), A (weak), B (electromagnetic),
-C (strong)—and the crossing $ω$ (Higgs/mass) have been earned.
+C (strong)—and the crossing ω (Higgs/mass) have been earned.
 
 ## Chapters
 

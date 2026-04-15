@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapt
 prev_chapter_title: "Chapter 21: The Coherence Programme"
 next_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapter-23-the-lemniscate-operator/"
 next_chapter_title: "Chapter 23: The Lemniscate Operator"
-summary_short: "The opening move of the Riemann Hypothesis block. The classical functional equation defines an involution $J$ on the complex plane that exchanges $s$ and…"
+summary_short: "The opening move of the Riemann Hypothesis block. The classical functional equation defines an involution J on the complex plane that exchanges s and…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The opening move of the Riemann Hypothesis block. The classical functional equation defines an involution $J$ on the complex plane that exchanges $s$ and $1-s$. When we encode the $\T$-effective zeta function in the split-complex codomain $H_{\T} = \hatℤ_{\T}[\jj]$, this involution acquires a *fixed locus*—the critical line $Re(s) = \tfrac12$—forced by algebraic structure. The bipolar decomposition $ζ_{\T}(s) = e_+ · ζ_B(s) + e_- · ζ_C(s)$ respects the involution: $J$ exchanges the two idempotent components. The classical symmetry becomes an algebraic constraint.
+The opening move of the Riemann Hypothesis block. The classical functional equation defines an involution J on the complex plane that exchanges s and 1-s. When we encode the T-effective zeta function in the split-complex codomain H_T = ℤ_{T}[j], this involution acquires a *fixed locus*—the critical line Re(s) = ½—forced by algebraic structure. The bipolar decomposition ζ_T(s) = e_+ · ζ_B(s) + e_- · ζ_C(s) respects the involution: J exchanges the two idempotent components. The classical symmetry becomes an algebraic constraint.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/cha
 prev_chapter_title: "Chapter 30: The Metaphysical Problem Map"
 next_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-32-non-dualistic-platonism-and-omega-uniqueness/"
 next_chapter_title: "Chapter 32: Non-Dualistic Platonism and ω-Uniqueness"
-summary_short: "Three-layer resolution of solipsism. Layer 1 (Ontic): collapse to $ω$ produces monism with internal distinctions—solipsism is trivially true (there is only one…"
+summary_short: "Three-layer resolution of solipsism. Layer 1 (Ontic): collapse to ω produces monism with internal distinctions—solipsism is trivially true (there is only one…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-02-categorical-ontology/"
@@ -39,11 +39,11 @@ right_rail:
 
 
 Three-layer resolution of solipsism. Layer 1 (Ontic): collapse to
-$ω$ produces monism with internal distinctions—solipsism is
+ω produces monism with internal distinctions—solipsism is
 trivially true (there is only one structure) and structurally vacuous
 (the "I" is not privileged within it). Layer 2 (Epistemic):
 uncertainty provides an epistemic witness for other minds—a system
-that models its own modeling ($E_3$) necessarily encounters uncertainty
+that models its own modeling (E₃) necessarily encounters uncertainty
 about other modelers, which is an epistemic signature of other minds.
 Layer 3 (Bayesian): under finite computational resources, solipsism is
 Bayesian-excluded as maximally implausible. The dissolution: solipsism

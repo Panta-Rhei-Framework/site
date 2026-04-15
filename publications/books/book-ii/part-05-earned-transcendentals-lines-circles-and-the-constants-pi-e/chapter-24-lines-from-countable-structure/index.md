@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-progr
 prev_chapter_title: "Chapter 23: Orthodox vs.\ τ Denotation Bridge"
 next_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-25-circles-from-solenoidal-structure/"
 next_chapter_title: "Chapter 25: Circles from Solenoidal Structure"
-summary_short: "Part IV constructed the denotation map $den : τ^3 → ℝ^4$ by sending each $τ$-admissible point to the limit of its stage-$k$ approximation sequence (Chapter…"
+summary_short: "Part IV constructed the denotation map den : τ³ → ℝ^4 by sending each τ-admissible point to the limit of its stage-k approximation sequence (Chapter…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -39,27 +39,27 @@ right_rail:
 
 
 Part IV constructed the denotation map
-$den : τ^3 → ℝ^4$
-by sending each $τ$-admissible point
-to the limit of its stage-$k$ approximation sequence
+den : τ³ → ℝ^4
+by sending each τ-admissible point
+to the limit of its stage-k approximation sequence
 .
 The map is well-defined and preserves all Tarski axioms,
-but it treats $ℝ$ as a target:
+but it treats ℝ as a target:
 the real line appears as the Archimedean completion
 to which approximation sequences converge.
-This chapter earns $ℝ$ **from the inside**.
-The $α$-ray $ℓ_α = \{α_n : n ≥ 1\} ∪ \{ω\}$
+This chapter earns ℝ **from the inside**.
+The α-ray ℓ_α = {α_n : n ≥ 1} ∪ {ω}
 is the canonical radial sequence in the D-coordinate
 of the ABCD chart
 (I.D17, Book I).
 Its points are discrete,
 its metric is ultrametric,
 and its closure—the inverse limit
-of stage-$k$ projections—recovers
+of stage-k projections—recovers
 the classical real line.
 **the relevant theorem (II.T20):
-$ℝ$ is the Archimedean shadow
-of the $α$-ray inverse limit,
+ℝ is the Archimedean shadow
+of the α-ray inverse limit,
 not an uncountable continuum
 (consistent with Book I's Cantor refutation, I.T35).
 Level circles at each NF depth

@@ -10,7 +10,7 @@ part_number: 8
 part_display: "Part VIII"
 part_slug: "part-08-self-enrichment-yoneda-and-higher-categories"
 chapter_count: 5
-summary_short: "Part VIII proves that $τ$ enriches over itself, yielding Yoneda as a theorem. Five chapters build self-enrichment and the enrichment ladder. Chapter…"
+summary_short: "Part VIII proves that τ enriches over itself, yielding Yoneda as a theorem. Five chapters build self-enrichment and the enrichment ladder. Chapter…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -30,44 +30,44 @@ right_rail:
 ---
 
 
-Part VIII proves that $τ$ enriches over itself, yielding Yoneda as a theorem.
+Part VIII proves that τ enriches over itself, yielding Yoneda as a theorem.
 Five chapters build self-enrichment and the enrichment ladder.
 
 the relevant chapter establishes the key structural fact:
-$Hom(A,B) ∈ Obj(τ)$.
+Hom(A,B) ∈ Obj(τ).
 Morphism spaces are objects.
-They are NF-addressable and valued in $H_τ$;
-each $Hom(A,B)$ inherits bipolar decomposition:
-$Hom(A,B) = e_+ · Hom_+(A,B) + e_- · Hom_-(A,B)$.
+They are NF-addressable and valued in H_τ;
+each Hom(A,B) inherits bipolar decomposition:
+Hom(A,B) = e_+ · Hom_+(A,B) + e_- · Hom_-(A,B).
 
 the relevant chapter proves
-**Theorem II.T36**: the Yoneda embedding $τ \hookrightarrow [τ^{op}, τ]$
+**Theorem II.T36**: the Yoneda embedding τ ↪ [τ^op, τ]
 as a *theorem* (not axiom).
 The proof uses probe naturality: the same condition that forced
 continuity in Part II now forces Yoneda embedding.
-This is the deep reason holomorphy is primitive in $τ$.
+This is the deep reason holomorphy is primitive in τ.
 
 the relevant chapter shows how enrichment layers iterate:
-$τ → [τ,τ] → [[τ,τ],[τ,τ]]$.
-Two-morphisms arise from $Hom(Hom(A,B), Hom(C,D))$.
+τ → [τ,τ] → [[τ,τ],[τ,τ]].
+Two-morphisms arise from Hom(Hom(A,B), Hom(C,D)).
 Split-complex structure propagates to all higher layers.
-This is the beginning of the self-enrichment ladder $E_0 → E_1 → E_2 → E_3$.
+This is the beginning of the self-enrichment ladder E₀ → E₁ → E₂ → E₃.
 
-the relevant chapter articulates that $τ$ describes its own morphisms.
+the relevant chapter articulates that τ describes its own morphisms.
 Self-enrichment *is* self-description.
 The split-complex codomain is rich enough for self-reference.
-This transition from $E_0$ (Book I + Part I–VII) to $E_1$ (Part VIII)
+This transition from E₀ (Book I + Part I–VII) to E₁ (Part VIII)
 initiates the enrichment frontier (I.D82).
 
 the relevant chapter previews the enrichment ladder:
-$E_0 = τ$ (Books I + II Parts I–VII);
-$E_1 = τ$ enriched over itself (Book II Part VIII);
-$E_2 = $ Physics layer (Books III–V, not yet earned);
-$E_3 = $ Life layer (Book VI, not yet earned).
-Book III must climb from $E_1$ to $E_2$.
+E₀ = τ (Books I + II Parts I–VII);
+E₁ = τ enriched over itself (Book II Part VIII);
+E₂ =  Physics layer (Books III–V, not yet earned);
+E₃ =  Life layer (Book VI, not yet earned).
+Book III must climb from E₁ to E₂.
 
 Part VIII closes with self-enrichment established.
-$τ$ is capable of self-reference and categorical abstraction.
+τ is capable of self-reference and categorical abstraction.
 
 ## Chapters
 

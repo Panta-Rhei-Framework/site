@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape
 prev_chapter_title: "Chapter 15: Dimension Four from Refinement Rays"
 next_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape/chapter-17-torus-degeneration-and-the-geometric-lemniscate/"
 next_chapter_title: "Chapter 17: Torus Degeneration and the Geometric Lemniscate"
-summary_short: "Book I's Prime Polarity Theorem (I.T05) established that the algebraic lemniscate $𝕃 = S^1 ∨ S^1$ is the boundary of the $τ^3$ fibration—proved algebraically,…"
+summary_short: "Book I's Prime Polarity Theorem (I.T05) established that the algebraic lemniscate 𝕃 = S¹ ∨ S¹ is the boundary of the τ³ fibration—proved algebraically,…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-03-topology-and-global-shape/"
@@ -40,18 +40,18 @@ right_rail:
 
 Book I's Prime Polarity Theorem (I.T05)
 established that the algebraic lemniscate
-$𝕃 = S^1 ∨ S^1$
-is the boundary of the $τ^3$ fibration—proved
+𝕃 = S¹ ∨ S¹
+is the boundary of the τ³ fibration—proved
 algebraically, without topology.
 Now that we have the Stone space structure (II.D14)
 and canonical topology (II.T09),
-we can ask: *is $L*$ the minimal
-quotient of $T^2$ preserving both gauge factors?
+we can ask: *is L* the minimal
+quotient of T² preserving both gauge factors?
 This chapter answers yes
 (the relevant theorem, II.T12),
 defines **angular sectors**
 from B/C solenoidal constraints (II.D17),
-and proves that the two lobes of $𝕃$
+and proves that the two lobes of 𝕃
 are complementary clopen subsets (II.P05),
 making the bipolar decomposition
 topologically visible.

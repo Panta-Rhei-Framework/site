@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-infere
 prev_chapter_title: "Chapter 70: Kolmogorov as Representation Theorem"
 next_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-inference/chapter-72-truth-and-truth-makers/"
 next_chapter_title: "Chapter 72: Truth and Truth-Makers"
-summary_short: "The inference rules of $τ$ are not conventional stipulations, nor are they revelations from a Platonic realm of logical truths. They are structural…"
+summary_short: "The inference rules of τ are not conventional stipulations, nor are they revelations from a Platonic realm of logical truths. They are structural…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
@@ -38,15 +38,15 @@ right_rail:
 ---
 
 
-The inference rules of $τ$ are not conventional stipulations, nor are
+The inference rules of τ are not conventional stipulations, nor are
 they revelations from a Platonic realm of logical truths. They are
 structural necessities: consequences of the kernel's architecture that
 any system built on five generators and seven axioms must exhibit.
 Modus ponens is morphism composition. Conjunction introduction is
 product formation. Existential quantification is the left adjoint to
 pullback along a projection. Each rule is *earned* from the
-topos-internal logic of $τ$, not imposed upon it. The classical
+topos-internal logic of τ, not imposed upon it. The classical
 debate between conventionalism and logical realism dissolves: inference
 rules are neither arbitrary choices nor pre-existing eternal truths but
-structural features of any category with $τ$'s compositional
+structural features of any category with τ's compositional
 architecture.

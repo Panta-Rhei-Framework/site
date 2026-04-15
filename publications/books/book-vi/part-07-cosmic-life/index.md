@@ -10,7 +10,7 @@ part_number: 7
 part_display: "Part VII"
 part_slug: "part-07-cosmic-life"
 chapter_count: 8
-summary_short: "**Black holes are alive**—not as metaphor but as structural theorem. The macro-torus carrier $T(H_{BH})$ satisfies both Distinction and SelfDesc with the…"
+summary_short: "**Black holes are alive**—not as metaphor but as structural theorem. The macro-torus carrier T(H_BH) satisfies both Distinction and SelfDesc with the…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:
@@ -31,11 +31,11 @@ right_rail:
 
 
 **Black holes are alive**—not as metaphor but as structural theorem. The macro-torus
-carrier $T(H_{BH})$ satisfies both Distinction and SelfDesc with the simplest
+carrier T(H_BH) satisfies both Distinction and SelfDesc with the simplest
 topology of any Life candidate. After the reader has earned the concept through five sectors of
 biology, the BH case arrives as dramatic confirmation. Galaxies are SMBH-anchored Life basins;
 the cosmic Life spectrum extends from molecules to galaxy clusters. The Crossing-Limit Theorem
-yields the Omega Point: the universe converges to maximal aliveness. The $E_0$–$E_3$ ladder
+yields the Omega Point: the universe converges to maximal aliveness. The E₀–E₃ ladder
 completes.
 
 ## Chapters

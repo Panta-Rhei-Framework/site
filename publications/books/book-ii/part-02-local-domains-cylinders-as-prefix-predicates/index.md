@@ -36,25 +36,25 @@ Four chapters build the topological foundation from ABCD coordinates.
 
 the relevant chapter defines cylinders as clopen sets determined by
 ABCD prefix constraints.
-The D-ray yields ultrametric stage-$k$ cylinders (depth-based);
+The D-ray yields ultrametric stage-k cylinders (depth-based);
 A/B/C-rays yield angular peel-token constraints.
 Cylinders form the canonical clopen basis.
 
 the relevant chapter introduces the first disagreement depth
-$δ(t, t')$ between NF expansions and the ultrametric distance
-$d(t,t') = 2^{-δ(t,t')}$.
+δ(t, t') between NF expansions and the ultrametric distance
+d(t,t') = 2^{-δ(t,t')}.
 Cylinders are precisely ultrametric balls; the ultrametric triangle
 inequality holds in its strong form.
 
 the relevant chapter proves
-**Theorem II.T06**: Every $ω$-germ transformer is continuous.
+**Theorem II.T06**: Every ω-germ transformer is continuous.
 This is the core inversion: classical complex analysis moves
-continuous $⇒$ holomorphic;
-$τ$ moves holomorphic $⇒$ continuous,
+continuous ⇒ holomorphic;
+τ moves holomorphic ⇒ continuous,
 forced by probe naturality and cylinder compatibility.
 
 the relevant chapter notes that Parts I–II work purely topologically:
-split-complex structure $H_τ$ is not yet needed.
+split-complex structure H_τ is not yet needed.
 The topological skeleton stands alone; split-complex becomes load-bearing
 in Part VI (Local Hartogs).
 

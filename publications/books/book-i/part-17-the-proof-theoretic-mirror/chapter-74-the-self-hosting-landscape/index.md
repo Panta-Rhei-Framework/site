@@ -45,11 +45,11 @@ and kernel axioms remain unearned —
 honest starting conditions,
 not defects.
 The enrichment ladder
-$E_0 → E_1 → E_2 → E_3$
+E₀ → E₁ → E₂ → E₃
 
 charts a path from external CIC substrate
 to full self-hosting,
-where $τ$ reasons about its own proof theory
+where τ reasons about its own proof theory
 using only resources it has earned.
 Before traversing that path,
 one must ask:
@@ -89,10 +89,10 @@ The **Proof-Theoretic Landscape Survey**
 (Remark [rem:landscape-survey], I.R18)
 tabulates the state of the art.
 
-The chapter does not claim that $τ$
+The chapter does not claim that τ
 can cross the wall.
 It identifies precisely where the wall stands
-and why $K5$'s linear discipline —
+and why K5's linear discipline —
 confirmed by the Diagonal–Linear Correspondence
 (the relevant theorem, I.T37) —
 may offer a structural route

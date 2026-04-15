@@ -42,7 +42,7 @@ Religion is the social infrastructure through which communities
 construct shared access to the commitment register. This chapter
 develops the categorical account: the sacred-profane distinction as
 boundary invariant, ritual as social gluing protocol, collective
-$ℝeg_C$-access as the structural function of religious life, and
+ℝeg_C-access as the structural function of religious life, and
 different religious traditions as different readout functors of shared
 invariants. The Ritual as Social Gluing definition (VII.D81)
 formalizes how synchronized action binds individuals into communities,

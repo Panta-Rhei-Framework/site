@@ -45,31 +45,31 @@ That framework was neutral:
 no electric or color charge appeared.
 This chapter adds charge to the macro picture.
 
-In Category $τ$,
+In Category τ,
 charge is not a primitive attribute
 attached to particles.
 It is a *boundary obstruction*:
-a topological defect in the $\SectorB$- or $\SectorC$-sector
+a topological defect in the Sector B- or Sector C-sector
 holonomy that cannot be removed
-by smooth deformation within the fiber $T^2$.
+by smooth deformation within the fiber T².
 Book IV derived this at the quantum level
 (the address-obstruction interpretation of QM).
 This chapter lifts the result
 to the macroscopic scale,
 proves the No-Isolated-Charges Theorem—every
-charged configuration on $τ^3$
-is neutralized at the boundary $\Lemniscate$—and
+charged configuration on τ³
+is neutralized at the boundary 𝕃—and
 establishes the macro vocabulary
 for electromagnetic and chromodynamic flux.
 
 Two key consequences follow.
 First, the no-monopole constraint:
-the $\SectorB$-sector boundary holonomy
-is $U(1)$-valued,
+the Sector B-sector boundary holonomy
+is U(1)-valued,
 and no isolated magnetic pole
-can be constructed on $τ^3$.
+can be constructed on τ³.
 Second, color confinement at macro scale:
-the $\SectorC$-sector obstruction
+the Sector C-sector obstruction
 forces color-neutral composites.
 
-Scope: $τ$-effective throughout.
+Scope: τ-effective throughout.

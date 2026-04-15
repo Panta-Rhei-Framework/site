@@ -10,7 +10,7 @@ part_number: 1
 part_display: "Part I"
 part_slug: "part-01-the-coherence-kernel"
 chapter_count: 5
-summary_short: "Category $τ$ begins with five generators in strict total order — $α < π < γ < η < ω$ — and a single ontic operator $ρ$ (progression). A zeroth axiom $K0$…"
+summary_short: "Category τ begins with five generators in strict total order — α < π < γ < η < ω — and a single ontic operator ρ (progression). A zeroth axiom K0…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 right_rail:
@@ -30,23 +30,23 @@ right_rail:
 ---
 
 
-Category $τ$ begins with five generators in strict total order —
-$α < π < γ < η < ω$ —
-and a single ontic operator $ρ$ (progression).
-A zeroth axiom $K0$ postulates the existence of $τ$ itself
+Category τ begins with five generators in strict total order —
+α < π < γ < η < ω —
+and a single ontic operator ρ (progression).
+A zeroth axiom K0 postulates the existence of τ itself
 as a universe of discourse — the ambient totality that contains
-all objects, distinct from the fixed-point element $ω$ within it.
-Six structural axioms $K1$–$K6$ then govern this minimal signature:
+all objects, distinct from the fixed-point element ω within it.
+Six structural axioms K1–K6 then govern this minimal signature:
 a strict order on the generators,
-a fixed point at $ω$,
-orbit-seeded generation for each non-$ω$ generator,
+a fixed point at ω,
+orbit-seeded generation for each non-ω generator,
 a no-jump cover relation within each orbit,
-the unreachability of $ω$ from below,
+the unreachability of ω from below,
 and an object closure axiom that exhausts the universe.
 
-Together these define the *static kernel* $τ_0$:
+Together these define the *static kernel* τ₀:
 a finite, complete specification from which all of mathematics will be generated.
-At the end of this Part, $τ_0$ is a blueprint — precise, categorical, and inert.
+At the end of this Part, τ₀ is a blueprint — precise, categorical, and inert.
 No objects have been created yet; no arithmetic has been earned.
 That is the work of the Parts that follow.
 

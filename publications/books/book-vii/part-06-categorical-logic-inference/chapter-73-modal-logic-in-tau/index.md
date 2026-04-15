@@ -41,13 +41,13 @@ right_rail:
 Necessity, possibility, and possible worlds receive a categorical
 treatment. Kripke frames are reconstructed as presheaves over a
 category of worlds with accessibility morphisms. The modal operators
-$\Box$ (necessity) and $\Diamond$ (possibility) arise as adjoint
+□ (necessity) and ◇ (possibility) arise as adjoint
 functors: universal and existential quantification over accessible
 worlds. The Kripke Soundness Theorem (VII.T28) shows that Kripke
 semantics for modal logic is sound with respect to the internal logic of
-the presheaf topos over $τ$. A Modal Collapse Prevention Lemma
+the presheaf topos over τ. A Modal Collapse Prevention Lemma
 (VII.L09) establishes that the non-triviality of the accessibility
-relation prevents the degenerate collapse $\Box P ↔ P$
+relation prevents the degenerate collapse □ P ↔ P
 that would render modality vacuous. Different modal systems—alethic,
 deontic, epistemic—emerge as different choices of accessibility
 constraint, all within the same categorical architecture.

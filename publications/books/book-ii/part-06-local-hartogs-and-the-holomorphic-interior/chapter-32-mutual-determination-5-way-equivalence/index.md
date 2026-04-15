@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-hol
 prev_chapter_title: "Chapter 31: The BndLift"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-33-evolution-operator-and-causal-arrow/"
 next_chapter_title: "Chapter 33: Evolution Operator and Causal Arrow"
-summary_short: "This chapter proves the central unification theorem of Book II. Five apparently distinct descriptions of a holomorphic object on $τ^3$ turn out to be the…"
+summary_short: "This chapter proves the central unification theorem of Book II. Five apparently distinct descriptions of a holomorphic object on τ³ turn out to be the…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
@@ -40,17 +40,17 @@ right_rail:
 
 This chapter proves the central unification theorem of Book II.
 Five apparently distinct descriptions of a holomorphic object
-on $τ^3$ turn out to be the **same thing**:
+on τ³ turn out to be the **same thing**:
 (1) a refinement tail in the primorial tower,
 (2) a spectral tail in the character decomposition,
-(3) an $ω$-germ at the profinite limit,
+(3) an ω-germ at the profinite limit,
 (4) a boundary character on the boundary ring,
 (5) a Hartogs continuation from boundary to interior.
 The proof proceeds by a chain of four lemmas
 (II.L02–II.L05),
 each establishing a pairwise equivalence.
 The unifying mechanism is the split-complex polarity:
-the bipolar idempotents $e_± = (1 ± \jj)/2$
+the bipolar idempotents e_± = (1 ± j)/2
 decompose each description into two independent channels,
 and it is this decomposition that makes all five
 perspectives mutually determining.

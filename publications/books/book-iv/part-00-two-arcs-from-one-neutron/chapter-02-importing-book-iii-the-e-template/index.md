@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-00-two-arcs-from-one-neutron
 prev_chapter_title: "Chapter 1: The Self-Describing Universe"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-03-the-tau-arena-fiber-t-as-microcosm/"
 next_chapter_title: "Chapter 3: The τ³ Arena: Fiber T² as Microcosm"
-summary_short: "Books I through III built the mathematical kernel of Category $τ$: a five-generator categorical structure (Book I), a holomorphic fibration with spectral…"
+summary_short: "Books I through III built the mathematical kernel of Category τ: a five-generator categorical structure (Book I), a holomorphic fibration with spectral…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-00-two-arcs-from-one-neutron/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Books I through III built the mathematical kernel of Category $τ$:
+Books I through III built the mathematical kernel of Category τ:
 a five-generator categorical structure (Book I),
 a holomorphic fibration with spectral boundary (Book II),
 and a complete first enrichment layer whose sector couplings

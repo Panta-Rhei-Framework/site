@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/ch
 prev_chapter_title: "Chapter 12: Earned Exponentiation and Tetration"
 next_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/chapter-14-three-levels-of-sameness/"
 next_chapter_title: "Chapter 14: Three Levels of Sameness"
-summary_short: "In standard category theory, composition of morphisms is an *axiom*: one postulates that for morphisms $f : A → B$ and $g : B → C$, the composite $g ∘ f : A →…"
+summary_short: "In standard category theory, composition of morphisms is an *axiom*: one postulates that for morphisms f : A → B and g : B → C, the composite g ∘ f : A →…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-03-the-denotational-bridge/"
@@ -40,12 +40,12 @@ right_rail:
 
 In standard category theory,
 composition of morphisms is an *axiom*:
-one postulates that for morphisms $f : A → B$ and $g : B → C$,
-the composite $g ∘ f : A → C$ exists
+one postulates that for morphisms f : A → B and g : B → C,
+the composite g ∘ f : A → C exists
 and is associative.
-In $τ$, composition is a *theorem*.
+In τ, composition is a *theorem*.
 We define *programs* as finite sequences of
-$ρ$-instructions, introduce normalization,
+ρ-instructions, introduce normalization,
 and prove that composition
 — defined as concatenation followed by normalization —
 is associative.

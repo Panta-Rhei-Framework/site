@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapt
 prev_chapter_title: "Chapter 3: The Iterator ρ and the Omega Beacon"
 next_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapter-05-the-object-closure-axiom-and-the-static-kernel-tau/"
 next_chapter_title: "Chapter 5: The Object Closure Axiom and the Static Kernel τ₀"
-summary_short: "Chapters  and  established the signature $Σ_τ = (α, π, γ, η, ω, ρ, <)$ and three kernel axioms: $K1$ (strict order on the…"
+summary_short: "Chapters  and  established the signature Σ_τ = (α, π, γ, η, ω, ρ, <) and three kernel axioms: K1 (strict order on the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-01-the-coherence-kernel/"
@@ -40,20 +40,20 @@ right_rail:
 
 Chapters  and 
 established the signature
-$Σ_τ = (α, π, γ, η, ω, ρ, <)$
+Σ_τ = (α, π, γ, η, ω, ρ, <)
 and three kernel axioms:
-$K1$ (strict order on the generators),
-$K2$ ($ω$ absorbs $ρ$),
-and $K5$ ($ω$ is unreachable from below).
-We now introduce the two axioms that govern *how $ρ$ generates
-new objects* from the non-$ω$ generators.
-$K3$ (Orbit-Seeded Generation) declares that each
-generator $g ∈ \{α, π, γ, η\}$ seeds
-an infinite orbit ray $O_g = \{g, ρ(g), ρ^2(g), …\}$.
-$K4$ (No-Jump / Cover) asserts that $ρ$ acts as the
+K1 (strict order on the generators),
+K2 (ω absorbs ρ),
+and K5 (ω is unreachable from below).
+We now introduce the two axioms that govern *how ρ generates
+new objects* from the non-ω generators.
+K3 (Orbit-Seeded Generation) declares that each
+generator g ∈ {α, π, γ, η} seeds
+an infinite orbit ray O_g = {g, ρ(g), ρ²(g), …}.
+K4 (No-Jump / Cover) asserts that ρ acts as the
 *immediate successor* within each ray — there is no gap,
-no skipping, no alternate path from $ρ^n(g)$ to $ρ^{n+1}(g)$.
-From $K4$, we derive that $ρ$ is injective on each orbit ray
+no skipping, no alternate path from ρ^n(g) to ρ^n+1(g).
+From K4, we derive that ρ is injective on each orbit ray
 (Proposition [prop:rho-injective]),
 a result that will be essential for establishing the countability
 and disjointness of orbits in Part II.

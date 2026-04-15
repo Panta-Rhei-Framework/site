@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-09-the-central-theorem-and-c
 prev_chapter_title: "Chapter 52: The Central Theorem"
 next_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/chapter-54-the-complete-dependency-chain/"
 next_chapter_title: "Chapter 54: The Complete Dependency Chain"
-summary_short: "The Central Theorem (II.T40) establishes $O(τ^3) ≅ A_{spec}(\\Lemniscate)$: the holomorphic function algebra of $τ^3$ is canonically isomorphic to the spectral…"
+summary_short: "The Central Theorem (II.T40) establishes O(τ³) ≅ A_spec(𝕃): the holomorphic function algebra of τ³ is canonically isomorphic to the spectral…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-09-the-central-theorem-and-categoricity/"
@@ -39,24 +39,24 @@ right_rail:
 
 
 The Central Theorem (II.T40) establishes
-$O(τ^3) ≅ A_{spec}(\Lemniscate)$:
-the holomorphic function algebra of $τ^3$
+O(τ³) ≅ A_spec(𝕃):
+the holomorphic function algebra of τ³
 is canonically isomorphic to the spectral algebra
 of the lemniscate boundary.
 A classical analyst would immediately object:
 **Liouville's theorem** states that
 every bounded holomorphic function on a compact complex manifold
 is constant, which would force
-$O(τ^3) = ℂ$
+O(τ³) = ℂ
 and render the Central Theorem trivial.
 This chapter resolves the objection.
 **the relevant theorem (II.T41):
-$τ^3$ **dodges** Liouville
-because the split-complex unit $\jj^2 = +1$
+τ³ **dodges** Liouville
+because the split-complex unit j² = +1
 gives a **wave-type** PDE operator
-(hyperbolic, $\Box = ∂^2/∂ x^2 - ∂^2/∂ y^2$),
+(hyperbolic, □ = ∂^2/∂ x² - ∂^2/∂ y²),
 not the **elliptic** Laplacian
-($Δ = ∂^2/∂ x^2 + ∂^2/∂ y^2$)
+(Δ = ∂^2/∂ x² + ∂^2/∂ y²)
 that Liouville requires.
 Wave equations admit non-constant bounded solutions
 (standing waves, normal modes),
@@ -65,9 +65,9 @@ With the Liouville obstruction removed,
 we proceed to the chapter's second result:
 **the relevant theorem (II.T42):
 the six axioms K0–K5 (equivalently I.K0–I.K5)
-force $τ^3$ **uniquely** up to canonical isomorphism.
+force τ³ **uniquely** up to canonical isomorphism.
 The **moduli space** (II.D61)
 is a single point:
-$M_{τ^3} = \{pt\}$.
+M_{τ³} = {pt}.
 There are no free parameters.
-$τ^3$ is discovered, not constructed.
+τ³ is discovered, not constructed.

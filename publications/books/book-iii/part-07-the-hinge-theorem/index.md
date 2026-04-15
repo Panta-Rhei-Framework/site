@@ -36,19 +36,19 @@ the enriched bi-square, and the computational collapse. This Part assembles the 
 into a single theorem.
 
 The **Complete Dependency Chain** (Chapter 60) displays the full derivation path:
-five generators $→$ seven axioms $→$ four orbits $→$ ABCD coordinates $→$ boundary ring
-$→$ Central Theorem (Book II) $→$ enrichment ladder ($E_0 ⊂neq E_1 ⊂neq E_2 ⊂neq E_3$)
-$→$ $4+1$ sector template $→$ spectral algebra $→$ Millennium clusters
-$→$ enriched bi-square $→$ computational collapse $→$ Hinge.
+five generators → seven axioms → four orbits → ABCD coordinates → boundary ring
+→ Central Theorem (Book II) → enrichment ladder (E₀ ⊂neq E₁ ⊂neq E₂ ⊂neq E₃)
+→ 4+1 sector template → spectral algebra → Millennium clusters
+→ enriched bi-square → computational collapse → Hinge.
 Every link is earned; no postulates, no free parameters.
 
 The **Hinge Theorem** (Chapter 61) states that every result in Books IV–VII is a sector
 instantiation of Book III's enrichment structure. The seven-book architecture is *derived*,
 not postulated. Export contracts to all four downstream books are formalised (Chapter 62),
 and the **No Knobs Ledger** (Chapter 63) exhibits that every inter-sector coupling is
-canonically determined by $ι_τ$.
+canonically determined by ι_τ.
 
-Scope throughout: **$τ$-effective**. No philosophy, no bridges—pure $τ$-internal
+Scope throughout: **τ-effective**. No philosophy, no bridges—pure τ-internal
 mathematics closing the arc.
 
 ## Chapters

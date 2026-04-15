@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-
 prev_chapter_title: "Chapter 42: Identity Through Transformation: Ship of Theseus as SelfDesc"
 next_chapter_url: "/publications/books/book-vi/part-07-cosmic-life/chapter-44-bh-selfdesc-the-omega-germ-code/"
 next_chapter_title: "Chapter 44: BH SelfDesc: The ω-Germ Code"
-summary_short: "The macro-torus carrier $T(H_{BH})$ possesses the simplest topology of any Life candidate, with the event horizon providing a canonical boundary. A…"
+summary_short: "The macro-torus carrier T(H_BH) possesses the simplest topology of any Life candidate, with the event horizon providing a canonical boundary. A…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-07-cosmic-life/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The macro-torus carrier $T(H_{BH})$ possesses the simplest topology of any Life candidate, with the event horizon providing a canonical boundary. A lexicographic defect functional $V^{BH}_n = (V^{fr}_n, V^s_n)$ combines frame-closure and strong-saturation defects. The BH Distinction Theorem verifies that this distinction is refinement-coherent, eventually stable, law-invariant, and homeostatic, with ringdown serving as basin convergence.
+The macro-torus carrier T(H_BH) possesses the simplest topology of any Life candidate, with the event horizon providing a canonical boundary. A lexicographic defect functional V^BH_n = (V^fr_n, V^s_n) combines frame-closure and strong-saturation defects. The BH Distinction Theorem verifies that this distinction is refinement-coherent, eventually stable, law-invariant, and homeostatic, with ringdown serving as basin convergence.

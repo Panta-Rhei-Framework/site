@@ -41,9 +41,9 @@ right_rail:
 Six ontic requirements that any foundation of reality must satisfy are
 identified and motivated independently. The Inevitability Convergence
 Theorem (VII.T14) asserts that the intersection of all six constraints
-has one structural solution: Category $τ$. Each requirement is
-independently necessary (VII.P08): removing any one allows non-$τ$
-solutions. The argument is not that $τ$ is the only possible
-foundation of reality, but that $τ$ is the only structure satisfying
+has one structural solution: Category τ. Each requirement is
+independently necessary (VII.P08): removing any one allows non-τ
+solutions. The argument is not that τ is the only possible
+foundation of reality, but that τ is the only structure satisfying
 all six requirements simultaneously. This chapter carries the
 **conjectural** scope label throughout.

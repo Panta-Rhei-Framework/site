@@ -42,8 +42,8 @@ Individual quarks never appear in isolation—the C-sector confinement
 principle  forces them into
 colour-neutral composites. This chapter treats the bound states that
 result: mesons, baryons, nuclei, and the binding energy curve.
-We derive the semi-empirical mass formula from $τ^3$ geometry,
+We derive the semi-empirical mass formula from τ³ geometry,
 map the valley of stability, and identify the magic numbers that
-mark $T^2$ shell closures. The $α$-particle—the universal
+mark T² shell closures. The α-particle—the universal
 nuclear building block—receives its own dedicated treatment in
 the relevant chapter.

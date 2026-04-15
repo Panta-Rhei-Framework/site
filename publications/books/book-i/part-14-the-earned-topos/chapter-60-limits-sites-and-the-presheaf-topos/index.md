@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-5
 prev_chapter_title: "Chapter 59: Functors and Natural Transformations"
 next_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-61-the-subobject-classifier-and-the-earned-topos/"
 next_chapter_title: "Chapter 61: The Subobject Classifier and the Earned Topos"
-summary_short: "the relevant chapter earned the arrows of $Cat_τ$ from the monoid of $τ$-holomorphic programs, and the relevant chapter verified the category axioms…"
+summary_short: "the relevant chapter earned the arrows of Cat_τ from the monoid of τ-holomorphic programs, and the relevant chapter verified the category axioms…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-14-the-earned-topos/"
@@ -38,8 +38,8 @@ right_rail:
 ---
 
 
-the relevant chapter earned the arrows of $Cat_τ$
-from the monoid of $τ$-holomorphic programs,
+the relevant chapter earned the arrows of Cat_τ
+from the monoid of τ-holomorphic programs,
 and the relevant chapter verified the category axioms
 (the relevant theorem, I.T22)
 and constructed the Yoneda embedding
@@ -47,27 +47,27 @@ and constructed the Yoneda embedding
 This chapter completes the categorical infrastructure
 by constructing **finite limits**
 (the relevant definition, I.D55),
-equipping $Cat_τ$ with a **Grothendieck topology**
+equipping Cat_τ with a **Grothendieck topology**
 via the primorial coverage
 (the relevant definition, I.D56),
 and forming the **presheaf topos**
-$PSh(Cat_τ)$
+PSh(Cat_τ)
 (the relevant definition, I.D57).
 The primorial coverage categorifies
 the CRT decomposition
 (Section [subsec:ch30-crt], I.D29):
-at each primorial stage $M_k$,
+at each primorial stage M_k,
 the Chinese Remainder Theorem gives
 a covering family that resolves an object
 into its prime-factor components.
 The key results are that
-$PSh(Cat_τ)$
+PSh(Cat_τ)
 is a **Grothendieck topos**
 (the relevant theorem, I.T24)
 and that it is **countable**
 (Proposition [prop:countable-topos], I.P26) —
 both consequences of the smallness
-and countability of $Cat_τ$
+and countability of Cat_τ
 (Proposition [prop:set-countable], I.P12).
 The earned topos of the relevant chapter
 will be carved from this presheaf topos

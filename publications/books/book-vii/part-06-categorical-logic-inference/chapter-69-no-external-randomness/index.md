@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-infere
 prev_chapter_title: "Chapter 68: Internal Randomness"
 next_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-inference/chapter-70-kolmogorov-as-representation-theorem/"
 next_chapter_title: "Chapter 70: Kolmogorov as Representation Theorem"
-summary_short: "the relevant chapter established that randomness in $τ$ arises from internal structural complexity. This chapter draws the complementary…"
+summary_short: "the relevant chapter established that randomness in τ arises from internal structural complexity. This chapter draws the complementary…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 the relevant chapter established that randomness in
-$τ$ arises from internal structural complexity. This chapter draws
+τ arises from internal structural complexity. This chapter draws
 the complementary conclusion: there is no genuinely external source of
 randomness. The kernel is terminal; every admissible construction
 factors through it; there is no "outside" from which random input

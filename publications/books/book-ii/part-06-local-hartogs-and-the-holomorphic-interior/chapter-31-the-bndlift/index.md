@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-hol
 prev_chapter_title: "Chapter 30: Split-Complex Codomain with Calibration"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-32-mutual-determination-5-way-equivalence/"
 next_chapter_title: "Chapter 32: Mutual Determination (5-Way Equivalence)"
-summary_short: "This chapter constructs the central operator of Part VI: the **boundary lift** $BndLift_n$, which promotes boundary data at stage $n$ to interior data at stage…"
+summary_short: "This chapter constructs the central operator of Part VI: the **boundary lift** BndLift_n, which promotes boundary data at stage n to interior data at stage…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/"
@@ -40,23 +40,23 @@ right_rail:
 
 This chapter constructs the central operator
 of Part VI:
-the **boundary lift** $BndLift_n$,
-which promotes boundary data at stage $n$
-to interior data at stage $n+1$.
+the **boundary lift** BndLift_n,
+which promotes boundary data at stage n
+to interior data at stage n+1.
 The construction uses the Chinese Remainder Theorem
 on primorial completions (I.T18, Book I)
 to decompose the lift
 into two independent channels.
 The bipolar idempotents
-$e_± = (1 ± \jj)/2$
+e_± = (1 ± j)/2
 (II.D33, the relevant chapter)
 split the lift into a B-sector component
 and a C-sector component,
 each governed by its own calibration constant
-($π$ for B, $e$ for C).
+(π for B, e for C).
 The coupling between the two channels
 is controlled by the master constant
-$ι_τ = 2/(π + e)$
+ι_τ = 2/(π + e)
 (I.D24, Book I; II.T25, the relevant chapter).
 The main results are:
 the lift *exists* ,
@@ -64,7 +64,7 @@ it is *unique*
 (forced by CRT and the diagonal discipline K5),
 and the two channels are *independent*
 (Proposition [prop:bipolar-channel-independence]).
-The $BndLift_n$ is the engine
+The BndLift_n is the engine
 that drives the Local Hartogs extension:
 iterating the lift produces
 interior holomorphic data from boundary data,

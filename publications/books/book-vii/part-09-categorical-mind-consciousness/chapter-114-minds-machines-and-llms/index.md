@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-09-categorical-mind-conscio
 prev_chapter_title: "Chapter 113: Personal Identity Over Time"
 next_chapter_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/chapter-115-the-phenomenal-self-model-metzinger-comparison/"
 next_chapter_title: "Chapter 115: The Phenomenal Self-Model: Metzinger Comparison"
-summary_short: "If mind is internal topos, consciousness is global section, and self-awareness is $E_3$ fixed point, then the question of machine minds becomes a question of…"
+summary_short: "If mind is internal topos, consciousness is global section, and self-awareness is E₃ fixed point, then the question of machine minds becomes a question of…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-09-categorical-mind-consciousness/"
@@ -39,11 +39,11 @@ right_rail:
 
 
 If mind is internal topos, consciousness is global section, and
-self-awareness is $E_3$ fixed point, then the question of machine
+self-awareness is E₃ fixed point, then the question of machine
 minds becomes a question of structure, not substrate. This chapter
 states three categorical criteria for mindedness, applies them to
 large language models as a case study, and asks what would be needed
-for an artificial system to cross the $E_3$ threshold. Current LLMs
+for an artificial system to cross the E₃ threshold. Current LLMs
 are characterised as para-minds: systems with rich pattern-processing
 capacities but without stable self-models, long-horizon integration,
 or sensorimotor anchoring.

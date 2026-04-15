@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-02-persistence-archaea-and-t
 prev_chapter_title: "Chapter 12: The Persistence Sector: Temporal Stability and Homeostasis"
 next_chapter_url: "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-14-thermodynamic-necessity-and-the-origin-of-life/"
 next_chapter_title: "Chapter 14: Thermodynamic Necessity and the Origin of Life"
-summary_short: "Archaea biology instantiates the persistence sector. Extremophiles—thermal ($>100^∘$C at hydrothermal vents), halophilic (Dead Sea), acidophilic (pH $<$ 2),…"
+summary_short: "Archaea biology instantiates the persistence sector. Extremophiles—thermal (>100^∘C at hydrothermal vents), halophilic (Dead Sea), acidophilic (pH < 2),…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Archaea biology instantiates the persistence sector. Extremophiles—thermal ($>100^∘$C at hydrothermal vents), halophilic (Dead Sea), acidophilic (pH $<$ 2), radioresistant—represent the oldest lineage, closest to the Last Universal Common Ancestor. The $α$-orbit's temporal invariance manifests in minimal genome change, metabolic conservatism, and extremophile robustness across deep time.
+Archaea biology instantiates the persistence sector. Extremophiles—thermal (>100^∘C at hydrothermal vents), halophilic (Dead Sea), acidophilic (pH < 2), radioresistant—represent the oldest lineage, closest to the Last Universal Common Ancestor. The α-orbit's temporal invariance manifests in minimal genome change, metabolic conservatism, and extremophile robustness across deep time.

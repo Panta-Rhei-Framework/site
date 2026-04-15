@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-16-the-presheaf-essence/chapt
 prev_chapter_title: "Chapter 70: The Holomorphy Bi-Square"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-72-diagonal-discipline-as-linear-logic/"
 next_chapter_title: "Chapter 72: Diagonal Discipline as Linear Logic"
-summary_short: "Book I's sixty-seven chapters build Category $τ$ from five generators and seven axioms. Every object, operation, and theorem is earned. But the proofs…"
+summary_short: "Book I's sixty-seven chapters build Category τ from five generators and seven axioms. Every object, operation, and theorem is earned. But the proofs…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/"
@@ -38,19 +38,19 @@ right_rail:
 ---
 
 
-Book I's sixty-seven chapters build Category $τ$
+Book I's sixty-seven chapters build Category τ
 from five generators and seven axioms.
 Every object, operation, and theorem is earned.
 But the proofs themselves were written
 in Lean 4's Calculus of Inductive Constructions (CIC) —
 a logical substrate that was imported,
-not derived from $K0$–$K6$.
+not derived from K0–K6.
 This chapter takes inventory:
 what CIC provides,
 what Book I actually used,
 and where the earned-vs-imported boundary lies.
 The structural rules of contraction and weakening —
-free in CIC, refused by $K5$
+free in CIC, refused by K5
 at the object level —
 point toward a deep correspondence
 that the next chapter will make precise.

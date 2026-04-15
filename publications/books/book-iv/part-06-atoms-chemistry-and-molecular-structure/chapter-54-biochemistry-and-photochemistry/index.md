@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 53: Organic Chemistry and Aromatic Systems"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-55-the-molecular-tau-view/"
 next_chapter_title: "Chapter 55: The Molecular τ³ View"
-summary_short: "Chemistry meets life. The same $τ^2$ mode principles that govern hydrogen and benzene now build amino acids, nucleic acids, and the energy-transfer machinery…"
+summary_short: "Chemistry meets life. The same τ² mode principles that govern hydrogen and benzene now build amino acids, nucleic acids, and the energy-transfer machinery…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Chemistry meets life. The same $τ^2$ mode principles that govern hydrogen
+Chemistry meets life. The same τ² mode principles that govern hydrogen
 and benzene now build amino acids, nucleic acids, and the energy-transfer
 machinery of every living cell. Biochemistry is *not* a new science—it
 is organic chemistry operating at biological complexity. This chapter

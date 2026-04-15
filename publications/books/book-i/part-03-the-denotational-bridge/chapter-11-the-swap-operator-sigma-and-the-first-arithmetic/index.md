@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/ch
 prev_chapter_title: "Chapter 10: τ-Idx — The Alpha-Orbit as Internal Natural Numbers"
 next_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/chapter-12-earned-exponentiation-and-tetration/"
 next_chapter_title: "Chapter 12: Earned Exponentiation and Tetration"
-summary_short: "With $τ$-Idx as the earned counting scaffold and rank transfer maps as canonical bijections, we now derive the first arithmetic operations. The swap operator…"
+summary_short: "With τ-Idx as the earned counting scaffold and rank transfer maps as canonical bijections, we now derive the first arithmetic operations. The swap operator…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-03-the-denotational-bridge/"
@@ -38,17 +38,17 @@ right_rail:
 ---
 
 
-With $τ$-Idx as the earned counting scaffold
+With τ-Idx as the earned counting scaffold
 and rank transfer maps as canonical bijections,
 we now derive the first arithmetic operations.
-The swap operator $σ$ is the first operation
-derived from $ρ$: it exchanges positions
+The swap operator σ is the first operation
+derived from ρ: it exchanges positions
 within orbit rays via rank transfer composition.
-Index addition is defined as iterated $ρ$:
-$n + m := ρ^m(n)$.
+Index addition is defined as iterated ρ:
+n + m := ρ^m(n).
 Index multiplication is defined by structural recursion
 on addition.
 We prove commutativity and associativity of addition,
 distributivity of multiplication over addition,
-and establish that $(τ-Idx, +, ×, 0, 1)$
+and establish that (τ-Idx, +, ×, 0, 1)
 is a commutative semiring.

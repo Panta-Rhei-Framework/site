@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-s
 prev_chapter_title: "Chapter 21: Membranes: Self-Assembly and the First Distinction"
 next_chapter_url: "/publications/books/book-vi/part-04-source-plants-and-the-production-fiber/chapter-23-the-source-sector-structure-generation/"
 next_chapter_title: "Chapter 23: The Source Sector: Structure Generation"
-summary_short: "Woese's three domains—Archaea, Bacteria, and Eukarya—are recast through the sector lens: Archaea are the persistence ($α$) archetype, Bacteria the agency ($π$)…"
+summary_short: "Woese's three domains—Archaea, Bacteria, and Eukarya—are recast through the sector lens: Archaea are the persistence (α) archetype, Bacteria the agency (π)…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Woese's three domains—Archaea, Bacteria, and Eukarya—are recast through the sector lens: Archaea are the persistence ($α$) archetype, Bacteria the agency ($π$) archetype, and Eukarya not a sector but a fiber-enabled regime whose nucleus and organelles permit operation in any sector plus the mixed sector. The phylogenetic tree becomes a sector-decorated graph in which horizontal gene transfer crosses sector boundaries.
+Woese's three domains—Archaea, Bacteria, and Eukarya—are recast through the sector lens: Archaea are the persistence (α) archetype, Bacteria the agency (π) archetype, and Eukarya not a sector but a fiber-enabled regime whose nucleus and organelles permit operation in any sector plus the mixed sector. The phylogenetic tree becomes a sector-decorated graph in which horizontal gene transfer crosses sector boundaries.

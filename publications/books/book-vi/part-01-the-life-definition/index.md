@@ -32,8 +32,8 @@ right_rail:
 
 All formal machinery in one Part. The **Parity Bridge Theorem** identifies the weak sector's
 unique parity violation as the sole polarity seed for self/non-self distinction.
-**$τ$-Distinction** and **SelfDesc** define the two predicates whose conjunction
-*is* Life; the **Layer Separation Lemma** proves this is genuinely $E_2$, non-reducible
+**τ-Distinction** and **SelfDesc** define the two predicates whose conjunction
+*is* Life; the **Layer Separation Lemma** proves this is genuinely E₂, non-reducible
 to physics. The **Life Loop Class** formalizes metabolism, the **4+1 Sector Template**
 classifies all Life forms, and the **Seven Hallmarks** are derived as theorems.
 **Predictions by Absence**—virus, neutron, neutron star—establish falsifiability.

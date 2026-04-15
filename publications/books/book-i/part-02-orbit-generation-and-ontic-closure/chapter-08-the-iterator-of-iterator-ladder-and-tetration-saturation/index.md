@@ -46,7 +46,7 @@ This chapter makes the mechanism precise
 by defining the *iterator ladder*:
 a sequence of meta-operations obtained by iterating
 the concept of iteration itself.
-The ladder climbs four levels — raw iteration ($ρ$),
+The ladder climbs four levels — raw iteration (ρ),
 multiplication, exponentiation, tetration —
 and then saturates.
 A fifth level (pentation) would require canonical injectivity

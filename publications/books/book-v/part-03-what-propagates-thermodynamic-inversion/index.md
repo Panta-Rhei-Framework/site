@@ -35,57 +35,57 @@ in Book V: the orthodox second law is *inverted*.
 The arrow of time points toward *order*, not chaos.
 
 Book IV, Chapter 22 proved the second law
-as a structural theorem about the refinement tower on $τ^1$:
-entropy is non-decreasing along the $α$-orbit.
+as a structural theorem about the refinement tower on τ¹:
+entropy is non-decreasing along the α-orbit.
 That proof is correct—but it describes
 the *total* entropy.
 Part III decomposes total entropy into two components:
-**defect entropy** $S_{def}$
+**defect entropy** S_def
 (the physically relevant disorder)
-and **refinement entropy** $S_{ref}$
+and **refinement entropy** S_ref
 (the counting artifact of finer resolution).
-The total $S = S_{def} + S_{ref}$ increases,
-but $S_{def}$ *decreases*—monotonically,
+The total S = S_def + S_ref increases,
+but S_def *decreases*—monotonically,
 finitely, and to zero.
 
 Six chapters trace this inversion and its consequences:
 
-**Chapter 21** (*The $180^∘$ Thermodynamic Inversion*)
-proves that the $τ$-native second law is an ordering principle:
-defect entropy decreases along the $α$-orbit.
+**Chapter 21** (*The 180^∘ Thermodynamic Inversion*)
+proves that the τ-native second law is an ordering principle:
+defect entropy decreases along the α-orbit.
 Equilibrium is minimal disorder, not maximal chaos.
 
 **Chapter 22** (*Entropy Splitting*)
-defines the $S_{def} + S_{ref}$ decomposition,
-proves that $S_{def}$ is bounded and monotonically decreasing,
-and explains why orthodox physics sees only $S_{ref}$.
+defines the S_def + S_ref decomposition,
+proves that S_def is bounded and monotonically decreasing,
+and explains why orthodox physics sees only S_ref.
 
 **Chapter 23** (*Global Defect Exhaustion*)
 proves the Global Defect Exhaustion Theorem:
-$S_{def}$ reaches zero in finitely many orbit steps.
+S_def reaches zero in finitely many orbit steps.
 Irreversibility is finite, not eternal.
 
 **Chapter 24** (*Heat Is Electromagnetism*)
 re-reads radiation, conduction, and convection
-as $B$-sector (EM) transport mechanisms.
+as B-sector (EM) transport mechanisms.
 Heat is not kinetic billiards; it is electromagnetic boundary
 exchange mediated by the fine-structure constant.
 
 **Chapter 25** (*Vacuum Without Void*)
-dissolves the $10^{120}$ vacuum catastrophe.
-The ground state is the coherent boundary state $H_∂[ω]$,
+dissolves the 10¹²⁰ vacuum catastrophe.
+The ground state is the coherent boundary state H_∂[ω],
 not a sum of mode energies.
 No mode counting, no cutoff, no catastrophe.
 
 **Chapter 26** (*Dark Energy as Readout Artifact*)
-shows that cosmic acceleration requires no cosmological constant $Λ$.
+shows that cosmic acceleration requires no cosmological constant Λ.
 "Dark energy" is diagnosed as a category error:
 a base-progression phenomenon
 misread through the orthodox readout functor.
 
 When Part III is complete,
 thermodynamics has been *inverted*—not overturned,
-but re-read from the $τ$-native perspective.
+but re-read from the τ-native perspective.
 The arrow of time creates order.
 The vacuum is coherent.
 And 68% of the orthodox cosmic budget dissolves.

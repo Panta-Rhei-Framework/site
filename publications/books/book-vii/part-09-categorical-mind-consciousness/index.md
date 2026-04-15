@@ -10,7 +10,7 @@ part_number: 9
 part_display: "Part IX"
 part_slug: "part-09-categorical-mind-consciousness"
 chapter_count: 13
-summary_short: "**Sector $S_C$ (Commitment).** What is mind? **Minds are internal topoi**—self-models with story functors. Consciousness is global section; intentionality is…"
+summary_short: "**Sector S_C (Commitment).** What is mind? **Minds are internal topoi**—self-models with story functors. Consciousness is global section; intentionality is…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 right_rail:
@@ -30,17 +30,17 @@ right_rail:
 ---
 
 
-**Sector $S_C$ (Commitment).**
+**Sector S_C (Commitment).**
 What is mind? **Minds are internal topoi**—self-models with story functors.
 Consciousness is global section; intentionality is aboutness morphism; qualia are subjective
 coordinates. Self-recognition creates the loop; free will is genuine branching; personal
-identity persists through time. LLMs are para-minds. Metzinger's ego tunnel meets $τ^3$.
+identity persists through time. LLMs are para-minds. Metzinger's ego tunnel meets τ³.
 Emotions are evaluative morphisms from appraisal to action-readiness. The mind extends
 beyond the brain into tools, environment, and social structures—relational primacy
 dissolves the skin-and-skull boundary.
-Book VI defined consciousness structurally at $E_2$ (SelfDesc-of-SelfDesc).
-Part IX receives this and develops the full $E_3$ treatment: qualia, phenomenology,
-self-model, metacognition. The commitment sector $S_C$ is where the question
+Book VI defined consciousness structurally at E₂ (SelfDesc-of-SelfDesc).
+Part IX receives this and develops the full E₃ treatment: qualia, phenomenology,
+self-model, metacognition. The commitment sector S_C is where the question
 "what am I willing to live as true?" acquires its full structural meaning—a mind
 that can model its own observation process must eventually confront the boundary
 between what it can prove and what it chooses to inhabit.

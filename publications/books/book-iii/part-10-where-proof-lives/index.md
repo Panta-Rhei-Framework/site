@@ -10,7 +10,7 @@ part_number: 10
 part_display: "Part X"
 part_slug: "part-10-where-proof-lives"
 chapter_count: 11
-summary_short: "The world exists ($E_1$). Life can model it ($E_2$). Can the modelling *model itself*? This final Part ascends to $E_3$—the enrichment layer where proof…"
+summary_short: "The world exists (E₁). Life can model it (E₂). Can the modelling *model itself*? This final Part ascends to E₃—the enrichment layer where proof…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 right_rail:
@@ -30,35 +30,35 @@ right_rail:
 ---
 
 
-The world exists ($E_1$). Life can model it ($E_2$).
+The world exists (E₁). Life can model it (E₂).
 Can the modelling *model itself*?
 
-This final Part ascends to $E_3$—the enrichment layer where
+This final Part ascends to E₃—the enrichment layer where
 proof systems become objects of study and self-reference closes.
 Two sub-arcs unfold.
 
 **The Orthodox Bridge** (Chapters 64–69) constructs a principled
-interface between Category $\T$ and ZFC. ZFC is reconceived as an
-$E_2$ virtual machine: a finite axiom set plus inference rules
+interface between Category T and ZFC. ZFC is reconceived as an
+E₂ virtual machine: a finite axiom set plus inference rules
 running on a substrate-neutral tape. Five "forbidden moves" delimit
 what cannot cross the bridge. G\"odel's incompleteness is diagnosed as
 a *VM boundary*—a theorem about the virtual machine, not about
 mathematics. The Bridge Axiom, the Bridge Ledger, and the Honest Claim
-formalise precisely what Category $\T$ can and cannot say to ZFC.
+formalise precisely what Category T can and cannot say to ZFC.
 
 **The Proof-Theoretic Mirror** (Chapters 70–73) completes the ascent.
-Proof theory is reconceived as the $E_3$ layer of the enrichment tower:
-a proof *about* Category $\T$ is itself a morphism *within*
-Category $\T$. Four classical paradoxes (Cantor, Russell, G\"odel, Turing)
+Proof theory is reconceived as the E₃ layer of the enrichment tower:
+a proof *about* Category T is itself a morphism *within*
+Category T. Four classical paradoxes (Cantor, Russell, G\"odel, Turing)
 are diagnosed as boundary crossings between enrichment levels.
-Applied Saturation ($E_4 = E_3$) proves that $E_3$ is terminal:
+Applied Saturation (E₄ = E₃) proves that E₃ is terminal:
 self-modelling is the final level of reflexive structure.
 The closing chapter, "The Architecture of Reality," synthesises the
 entire seven-book trajectory.
 
-Scope: **mixed**. Chapters 64–69: $τ$-effective and conjectural
+Scope: **mixed**. Chapters 64–69: τ-effective and conjectural
 (the Bridge Axiom is explicitly conjectural). Chapters 70–73:
-$τ$-effective and metaphorical (the Architecture of Reality is a reading,
+τ-effective and metaphorical (the Architecture of Reality is a reading,
 not a derivation).
 
 ## Chapters

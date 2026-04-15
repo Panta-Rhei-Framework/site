@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/
 prev_chapter_title: "Chapter 16: Internal Primes and Divisibility"
 next_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-18-the-normal-form-address-encoding/"
 next_chapter_title: "Chapter 18: The Normal-Form Address Encoding"
-summary_short: "the relevant chapter gave us primes and the Fundamental Theorem of Arithmetic on $τ$-Idx. The prime factorization of $\n$ is a flat…"
+summary_short: "the relevant chapter gave us primes and the Fundamental Theorem of Arithmetic on τ-Idx. The prime factorization of n is a flat…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/"
@@ -39,9 +39,9 @@ right_rail:
 
 
 the relevant chapter gave us primes and the
-Fundamental Theorem of Arithmetic on $τ$-Idx.
-The prime factorization of $n$ is a flat product
-of prime powers $p^{e}$.
+Fundamental Theorem of Arithmetic on τ-Idx.
+The prime factorization of n is a flat product
+of prime powers p^e.
 But the arithmetic of Part III includes not only multiplication
 and exponentiation, but also *tetration*
 .
@@ -49,8 +49,8 @@ A *tower atom* is a prime raised to a power that is itself
 an iterated exponential — a tetration tower.
 This chapter defines tower atoms,
 explains why the nesting
-$X = ((A ↑↑ C)^{B})
-· D$
+X = ((A ↑↑ C)^{B})
+· D
 is the *only* binding compatible with the diagonal discipline,
 and introduces the greedy peel-off algorithm
 that extracts these atoms from any object.

@@ -43,12 +43,12 @@ Molecules interact, shear layers develop, energy dissipates.
 The Navier–Stokes equations extend the Euler equations
 by adding a viscous stress term that converts
 ordered kinetic energy into disordered thermal motion.
-In $τ^3$, viscosity is not a phenomenological parameter
+In τ³, viscosity is not a phenomenological parameter
 pasted onto the equations:
-it is the inter-mode friction on $T^2$,
+it is the inter-mode friction on T²,
 a structural consequence of the non-orthogonality
 of distinct defect modes.
-This chapter derives the $τ$-Navier–Stokes equation,
+This chapter derives the τ-Navier–Stokes equation,
 introduces the Reynolds number as a defect-tuple ratio,
 and previews the connection to the Millennium Problem
 that will be resolved in the relevant chapter.

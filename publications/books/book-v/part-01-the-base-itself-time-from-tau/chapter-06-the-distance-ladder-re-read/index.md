@@ -49,35 +49,35 @@ on the assumption that a single global metric
 connects the emission event to the observer.
 
 This chapter re-reads the distance ladder
-in the language of Category $τ$.
+in the language of Category τ.
 The central thesis is that what the ladder calibrates
 is not "physical distance" in some absolute sense
 but the *readout functor*
-$R_d\colon Orbit_n → SI$
-that maps orbit-depth progression on $τ^1$
+R_d: Orbit_n → SI
+that maps orbit-depth progression on τ¹
 to SI-measured lengths
-(\S).
+(§).
 Each standard candle and standard ruler
 is a readout calibrator:
 a physical system whose intrinsic properties
 (period, luminosity, oscillation scale)
 are themselves earned from the physics
 of Books IV and V
-(\S).
+(§).
 The Hubble tension is not a measurement crisis
 but a *category error*:
-the "early universe" $H_0$ from the CMB
-and the "late universe" $H_0$
+the "early universe" H₀ from the CMB
+and the "late universe" H₀
 from Cepheid-calibrated supernovae
 are readouts at different orbit depths,
 and the tension arises from assuming
 a single scale-factor history
-when the $τ$-framework has regime-dependent readout
-(\S).
+when the τ-framework has regime-dependent readout
+(§).
 The chapter closes with a first pass
 on the "dark energy" puzzle:
 the apparent accelerating expansion
 is a readout effect,
 not a new energy component
-(\S,
+(§,
 detailed treatment in Part V).

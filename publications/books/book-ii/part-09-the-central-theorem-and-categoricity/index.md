@@ -34,42 +34,42 @@ Part IX is the climax: the **Central Theorem** and categoricity.
 Six chapters assemble boundary-to-interior correspondence and prove uniqueness.
 
 the relevant chapter restates the boundary ring
-$\widehatℤ_τ$ spectral characters (I.D19, I.D22–I.D23)
+ℤ_τ spectral characters (I.D19, I.D22–I.D23)
 as idempotent-supported objects.
-Each character decomposes: $χ = e_+ · χ_+ + e_- · χ_-$ (B-channel vs. C-channel).
+Each character decomposes: χ = e_+ · χ_+ + e_- · χ_- (B-channel vs. C-channel).
 
 the relevant chapter proves
 **Theorem II.T37**: each idempotent-supported character extends
 uniquely to the interior.
-The extension lives in split-complex codomain $H_τ$ (not classical $ℂ$).
+The extension lives in split-complex codomain H_τ (not classical ℂ).
 Uniqueness follows from bipolar channel independence.
 
 the relevant chapter proves
-**Theorem II.T38**: Hartogs extensions *are* $ω$-germ transformers.
+**Theorem II.T38**: Hartogs extensions *are* ω-germ transformers.
 Stagewise naturality carries forward the boundary character structure.
-This is the boundary $→$ interior bridge.
+This is the boundary → interior bridge.
 
 the relevant chapter applies the Yoneda theorem (II.T36)
-to $τ^3$ and proves
-**Theorem II.T39**: $ω$-germs *are* holomorphic functions.
-Probe naturality $=$ $ω$-germ naturality $=$ holomorphy.
-The loop closes: characters $→$ extensions $→$ $ω$-germs $→$ holomorphic functions.
+to τ³ and proves
+**Theorem II.T39**: ω-germs *are* holomorphic functions.
+Probe naturality = ω-germ naturality = holomorphy.
+The loop closes: characters → extensions → ω-germs → holomorphic functions.
 
 the relevant chapter assembles the main result.
 **Theorem II.T40**: The **Central Theorem**
-$$O(τ^3) ≅ A_{spec}(𝕃).$$
+<div class="math-display">O(τ³) ≅ A_spec(𝕃).</div>
 Boundary determines interior; interior encodes boundary.
 Exact holographic principle.
-Spectral coefficients are numerically calibrated via $ι_τ$ (Part V).
+Spectral coefficients are numerically calibrated via ι_τ (Part V).
 
 the relevant chapter resolves the classical Liouville
-theorem in the $τ$ setting.
+theorem in the τ setting.
 **Theorem II.T41**: Wave-type PDEs (not elliptic) permit non-constant
 bounded solutions, dodging Liouville.
 **Theorem II.T42**: **Categoricity**.
-The six axioms (I.K0–I.K5) force $τ^3$ uniquely.
-Moduli space = $\{pt\}$ (no parameters).
-$τ^3$ is discovered, not constructed.
+The six axioms (I.K0–I.K5) force τ³ uniquely.
+Moduli space = {pt} (no parameters).
+τ³ is discovered, not constructed.
 
 Part IX closes with the Central Theorem proven and categoricity established.
 The interior is completely determined by boundary character algebra.

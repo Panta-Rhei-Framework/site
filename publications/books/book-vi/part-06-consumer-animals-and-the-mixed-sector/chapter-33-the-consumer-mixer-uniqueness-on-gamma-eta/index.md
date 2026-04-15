@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-05-closure-fungi-and-the-rec
 prev_chapter_title: "Chapter 32: Healing, Regeneration, and the Repair Budget"
 next_chapter_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/chapter-34-eukarya-as-fiber-enabled-regime-not-sector/"
 next_chapter_title: "Chapter 34: Eukarya as Fiber-Enabled Regime, Not Sector"
-summary_short: "The consumer sector is the unique mixed sector on the $(γ, η)$ metabolic fiber pair. A consumer carrier couples production and recycling channels to acquire…"
+summary_short: "The consumer sector is the unique mixed sector on the (γ, η) metabolic fiber pair. A consumer carrier couples production and recycling channels to acquire…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-06-consumer-animals-and-the-mixed-sector/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The consumer sector is the unique mixed sector on the $(γ, η)$ metabolic fiber pair. A consumer carrier couples production and recycling channels to acquire both structure and energy from other Life forms. Signature rigidity of $τ^3$ forces exactly one mixed sector: no other generator pairing admits a stable mixed Life loop. The consumer sector's self-modeling capacity—SelfDesc applied to SelfDesc itself—opens the door to $E_3$ enrichment, making animals the bridge-head from biology to mind.
+The consumer sector is the unique mixed sector on the (γ, η) metabolic fiber pair. A consumer carrier couples production and recycling channels to acquire both structure and energy from other Life forms. Signature rigidity of τ³ forces exactly one mixed sector: no other generator pairing admits a stable mixed Life loop. The consumer sector's self-modeling capacity—SelfDesc applied to SelfDesc itself—opens the door to E₃ enrichment, making animals the bridge-head from biology to mind.

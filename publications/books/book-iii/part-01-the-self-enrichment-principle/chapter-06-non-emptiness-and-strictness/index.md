@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-prin
 prev_chapter_title: "Chapter 5: The Layer Template"
 next_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/chapter-07-saturation-at-e/"
 next_chapter_title: "Chapter 7: Saturation at E₃"
-summary_short: "The Canonical Ladder Theorem asserts three properties of the enrichment tower $E_0 ⊂ E_1 ⊂ E_2 ⊂ E_3$: each layer is non-empty, each inclusion is strict, and…"
+summary_short: "The Canonical Ladder Theorem asserts three properties of the enrichment tower E₀ ⊂ E₁ ⊂ E₂ ⊂ E₃: each layer is non-empty, each inclusion is strict, and…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-01-the-self-enrichment-principle/"
@@ -39,12 +39,12 @@ right_rail:
 
 
 The Canonical Ladder Theorem asserts three properties
-of the enrichment tower $E_0 ⊂ E_1 ⊂ E_2 ⊂ E_3$:
+of the enrichment tower E₀ ⊂ E₁ ⊂ E₂ ⊂ E₃:
 each layer is non-empty, each inclusion is strict,
-and the tower saturates at $E_3$.
+and the tower saturates at E₃.
 This chapter earns the first two pillars.
 Non-emptiness requires constructive witnesses at each layer.
 Strictness requires obstruction arguments
-proving that structures at layer $E_k$
-cannot be reduced to layer $E_{k-1}$.
+proving that structures at layer E_k
+cannot be reduced to layer E_k-1.
 Saturation is deferred to the relevant chapter.

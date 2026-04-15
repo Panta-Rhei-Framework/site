@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bri
 prev_chapter_title: "Chapter 59: Results Inventory and Open Questions"
 next_chapter_url: "/publications/books/book-ii/part-11-the-fork-category-tau-versus-orthodox-mathematics/chapter-61-the-question-of-foundations/"
 next_chapter_title: "Chapter 61: The Question of Foundations"
-summary_short: "Book I closed with the **algebraic bi-square** (Theorem I.T41, Book I, Part XIX): a pasted commuting diagram on finite cyclic groups $ℤ/M_kℤ$ whose left face…"
+summary_short: "Book I closed with the **algebraic bi-square** (Theorem I.T41, Book I, Part XIX): a pasted commuting diagram on finite cyclic groups ℤ/M_kℤ whose left face…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-10-closure-synthesis-and-bridge-to-book-iii/"
@@ -41,7 +41,7 @@ right_rail:
 Book I closed with the **algebraic bi-square**
 (Theorem I.T41, Book I, Part XIX):
 a pasted commuting diagram
-on finite cyclic groups $ℤ/M_kℤ$
+on finite cyclic groups ℤ/M_kℤ
 whose left face encodes tower coherence
 and whose right face encodes spectral naturality.
 That diagram was earned with zero topology,
@@ -59,9 +59,9 @@ Geometry arrived in Part IV
 Continuity arrived in Part II
 (holomorphic implies continuous, II.T06).
 Transcendentals arrived in Part V
-($π$, $e$, $\jj$, $ι_τ$).
+(π, e, j, ι_τ).
 The Central Theorem arrived in Part IX
-($O(τ^3) ≅ A_{spec}(\Lemniscate)$,
+(O(τ³) ≅ A_spec(𝕃),
 II.T40).
 
 This chapter is the **full geometric realization**

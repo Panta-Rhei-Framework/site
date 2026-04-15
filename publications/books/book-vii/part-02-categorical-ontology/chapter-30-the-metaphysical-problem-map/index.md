@@ -41,7 +41,7 @@ right_rail:
 A comprehensive classification of seventeen classical metaphysical
 problems. Each problem is classified into one of four categories:
 Resolved(Kernel)—dissolved by the kernel itself;
-Resolved(Pattern)—resolved by a specific $τ$-construction;
+Resolved(Pattern)—resolved by a specific τ-construction;
 Reframed(VM/Scope)—shown to be an artefact of orthodox foundations;
 Open/Interpretive—genuinely open within the framework. The chapter
 serves as a reference map for Part II and a guide to where each problem

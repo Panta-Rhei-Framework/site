@@ -45,6 +45,6 @@ mortality awareness (the symbolic representation of one's own end),
 and self-reference (the capacity to name oneself and one's own
 operations). These additions come at a cost—ambiguity, drift, and
 the possibility of misrepresentation. This chapter opens Part V by
-identifying what language contributes to the $E_3$ observer's
+identifying what language contributes to the E₃ observer's
 cognitive architecture, building on Part IV's account of pre-symbolic
 resonance.

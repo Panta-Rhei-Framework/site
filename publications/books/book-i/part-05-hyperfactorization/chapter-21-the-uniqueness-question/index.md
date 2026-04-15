@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/
 prev_chapter_title: "Chapter 20: Dimension and the Fibration Preview"
 next_chapter_url: "/publications/books/book-i/part-05-hyperfactorization/chapter-22-no-tie-determinism/"
 next_chapter_title: "Chapter 22: No-Tie Determinism"
-summary_short: "Part IV proved that every object in $τ$-Idx has an ABCD encoding: $X = ((\A ↑↑ \C)^{\B}) · \D$. But existence alone is not…"
+summary_short: "Part IV proved that every object in τ-Idx has an ABCD encoding: X = ((A ↑↑ C)^{B}) · D. But existence alone is not…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-05-hyperfactorization/"
@@ -38,16 +38,16 @@ right_rail:
 ---
 
 
-Part IV proved that every object in $τ$-Idx
+Part IV proved that every object in τ-Idx
 has an ABCD encoding:
-$X = ((A ↑↑ C)^{B})
-· D$.
+X = ((A ↑↑ C)^{B})
+· D.
 But existence alone is not enough.
 If two different tuples
-$(A, B, C, D)$
+(A, B, C, D)
 and
-$(A', B', C', D')$
-could yield the same $X$,
+(A', B', C', D')
+could yield the same X,
 then the ABCD chart would not be a faithful coordinate system:
 it would be a *surjection*,
 not a *bijection*.

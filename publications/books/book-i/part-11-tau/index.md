@@ -34,33 +34,33 @@ Parts VI–VII proved that the primes carry a canonical
 bipolar polarity (B-dominant vs. C-dominant),
 and Parts IX–X developed the split-complex scalars,
 the spectral decomposition,
-and the master constant $ι_τ$
+and the master constant ι_τ
 that governs the B/C asymmetry.
 
-This Part harvests a {\em logic} from polarity.
+This Part harvests a {logic} from polarity.
 The key observation is that the two spectral sectors
 (B and C) can *agree*, *disagree*,
 *both confirm*, or *neither confirm*
 a given predicate.
 This yields four truth values —
-$T$ (true), $F$ (false),
-$B$ (both), $N$ (neither) —
+T (true), F (false),
+B (both), N (neither) —
 arranged in a diamond lattice
-$T > B, N > F$.
+T > B, N > F.
 
 The resulting logic, Truth4,
 is *earned* from the bipolar structure,
 not axiomatized.
 It has a built-in explosion barrier:
-the overdetermined value $B$
+the overdetermined value B
 ("true and false simultaneously")
 does not collapse to triviality,
 because the B-sector witnesses and C-sector witnesses
 live in orthogonal spectral components.
 Classical Boolean logic is recovered
-as a quotient that collapses $B$ and $N$.
+as a quotient that collapses B and N.
 
-Truth4 will serve as the subobject classifier $Ω_τ$
+Truth4 will serve as the subobject classifier Ω_τ
 in the earned topos structure of Part XIII.
 
 ## Chapters

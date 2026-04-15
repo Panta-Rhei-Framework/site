@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-11-tau/chapter-44-the-explosi
 prev_chapter_title: "Chapter 44: The Explosion Barrier"
 next_chapter_url: "/publications/books/book-i/part-12-holomorphic-transformers/chapter-46-d-holomorphy-and-the-cauchy-riemann-analog/"
 next_chapter_title: "Chapter 46: D-Holomorphy and the Cauchy–Riemann Analog"
-summary_short: "the relevant chapter earned the four truth values $\\{T, F, B, N\\}$ (the relevant definition, I.D21), and the relevant chapter proved the…"
+summary_short: "the relevant chapter earned the four truth values \{T, F, B, N\} (the relevant definition, I.D21), and the relevant chapter proved the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-11-tau/"
@@ -39,30 +39,30 @@ right_rail:
 
 
 the relevant chapter earned the four truth values
-$\{T, F, B, N\}$
+{T, F, B, N}
 (the relevant definition, I.D21),
 and the relevant chapter
 proved the explosion barrier
 (the relevant theorem, I.T13):
-the overdetermined value $B$
+the overdetermined value B
 does not collapse the logic to triviality.
 A natural question follows:
 *when is the full four-valued logic necessary,
 and when does classical Boolean logic suffice?*
 This chapter answers both questions.
 First, we construct a **forgetful map**
-$f : Truth4 → Bool$
-that collapses $B ↦ T$
-and $N ↦ F$,
+f : Truth4 → Bool
+that collapses B ↦ T
+and N ↦ F,
 recovering classical two-valued logic as a quotient.
 The **Boolean recovery theorem**
 (Proposition [prop:boolean-recovery], I.P13)
 identifies the exact condition
 under which this collapse is lossless:
 when the spectral decomposition
-assigns only $T$ or $F$ to a predicate,
+assigns only T or F to a predicate,
 Truth4 reduces to Bool with no information loss.
-Second, we define $Ω_τ := Truth4$
+Second, we define Ω_τ := Truth4
 as the **subobject classifier**
 (the relevant definition, I.D41),
 previewing its role as the truth-value object

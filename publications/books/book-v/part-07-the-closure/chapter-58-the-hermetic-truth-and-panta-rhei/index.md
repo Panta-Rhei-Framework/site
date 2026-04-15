@@ -14,7 +14,7 @@ chapter_slug: "chapter-58-the-hermetic-truth-and-panta-rhei"
 page_in_book: 455
 prev_chapter_url: "/publications/books/book-v/part-07-the-closure/chapter-57-export-contracts-and-bridge-to-life/"
 prev_chapter_title: "Chapter 57: Export Contracts and Bridge to Life"
-summary_short: "In Chapter 1, we stated the Hermetic Principle: the fiber $T^2$ (microcosm, Book IV) and the base $τ^1$ (macrocosm, Book V) are two aspects of the single…"
+summary_short: "In Chapter 1, we stated the Hermetic Principle: the fiber T² (microcosm, Book IV) and the base τ¹ (macrocosm, Book V) are two aspects of the single…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-07-the-closure/"
@@ -37,26 +37,26 @@ right_rail:
 
 
 In Chapter 1, we stated the Hermetic Principle:
-the fiber $T^2$ (microcosm, Book IV)
-and the base $τ^1$ (macrocosm, Book V)
+the fiber T² (microcosm, Book IV)
+and the base τ¹ (macrocosm, Book V)
 are two aspects of the single structure
-$τ^3 = τ^1 ×_f T^2$,
+τ³ = τ¹ ×_f T²,
 governed by one master constant
-$ι_τ = 2/(π + e)$.
+ι_τ = 2/(π + e).
 Seventy-three chapters later,
 the Principle has been verified.
 Every coupling constant, every mass ratio,
 every gravitational constant
-is a function of $ι_τ$ and nothing else.
+is a function of ι_τ and nothing else.
 Unification is not an event at some high energy;
 it is a structural fact at all energies.
 
 Twenty-six centuries ago,
 Heraclitus held that reality is flux:
-$π\acuteαντα$ $\dotρε\tildeι$—everything flows.
+παντα ρει—everything flows.
 His rival Parmenides answered:
 reality is one, unchanging, eternal.
-Category $τ$ resolves the dispute.
+Category τ resolves the dispute.
 Both were right.
-The base $τ^1$ flows; the fiber $T^2$ persists;
-the fibered product $τ^3$ is their union.
+The base τ¹ flows; the fiber T² persists;
+the fibered product τ³ is their union.

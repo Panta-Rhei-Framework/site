@@ -43,7 +43,7 @@ perceptual synthesis. Sensory input provides "patches"—local
 data from different sense modalities and attentional frames.
 Perceptual synthesis glues these patches into a unified perceptual
 experience. The perception functor
-$P \colon ℂateg{Sens} → ℂateg{Exp}$ maps sensory covers to
+P : ℂateg{Sens} → ℂateg{Exp} maps sensory covers to
 experiential sections. Illusions and hallucinations are diagnosed
 as gluing failures: the patches do not cohere, but the perceptual
 system forces a section anyway. The direct-versus-indirect realism

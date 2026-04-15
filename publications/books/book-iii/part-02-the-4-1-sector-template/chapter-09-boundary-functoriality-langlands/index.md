@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-01-the-self-enrichment-prin
 prev_chapter_title: "Chapter 8: The Canonical Ladder Theorem"
 next_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-10-the-4/"
 next_chapter_title: "Chapter 10: The 4+"
-summary_short: "The Canonical Ladder Theorem  established four enrichment layers $E_0 ⊂neq E_1 ⊂neq E_2 ⊂neq E_3$ and a universal layer…"
+summary_short: "The Canonical Ladder Theorem  established four enrichment layers E₀ ⊂neq E₁ ⊂neq E₂ ⊂neq E₃ and a universal layer…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -41,28 +41,28 @@ right_rail:
 The Canonical Ladder Theorem
 
 established four enrichment layers
-$E_0 ⊂neq E_1 ⊂neq E_2 ⊂neq E_3$
+E₀ ⊂neq E₁ ⊂neq E₂ ⊂neq E₃
 and a universal layer template.
 This chapter puts that template to work for the first time.
-The lemniscate $\Lemniscate = S^1 ∨ S^1$
+The lemniscate 𝕃 = S¹ ∨ S¹
 carries a natural space of characters,
-and these characters are indexed by a lattice $ℤ^2$
+and these characters are indexed by a lattice ℤ^2
 whose two axes encode
 the multiplicative and additive structure
 of the series.
-A canonical functor $Φ$
-maps boundary characters on $\Lemniscate$
+A canonical functor Φ
+maps boundary characters on 𝕃
 to holomorphic functions
-in the fibered product $τ^3$.
+in the fibered product τ³.
 The central result of this chapter
-is that $Φ$ *preserves*
+is that Φ *preserves*
 the bipolar decomposition:
-the $χ_+$-sector of the boundary
+the χ_+-sector of the boundary
 maps into one holomorphic sector,
-the $χ_-$-sector into another,
-and the mixed characters into the $ω$-coupling sector.
+the χ_--sector into another,
+and the mixed characters into the ω-coupling sector.
 This functorial preservation
-is what we call **Langlands$_0$**—boundary
+is what we call **Langlands_0**—boundary
 functoriality—and it is the mechanism
-that *induces* the $4+1$ decomposition
+that *induces* the 4+1 decomposition
 developed in the next chapter.

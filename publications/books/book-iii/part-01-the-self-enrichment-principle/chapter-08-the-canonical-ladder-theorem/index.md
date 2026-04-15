@@ -48,12 +48,12 @@ This chapter assembles them into the single theorem
 that organises the entire series:
 the **Canonical Ladder Theorem**.
 The enrichment ladder
-$E_0 ⊂neq E_1 ⊂neq E_2 ⊂neq E_3$
+E₀ ⊂neq E₁ ⊂neq E₂ ⊂neq E₃
 is non-empty at every level,
 strictly increasing at every step,
 saturating at the fourth level,
 and *unique*—no alternative maximal enrichment chain exists.
-From this theorem we derive the $(3, 2, 1, 1)$ distribution
+From this theorem we derive the (3, 2, 1, 1) distribution
 that explains why the series has exactly seven books.
 We then introduce a formal proof harness—the Ladder Checker—and
 close with the export contracts

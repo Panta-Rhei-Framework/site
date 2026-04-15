@@ -33,18 +33,18 @@ right_rail:
 The first Millennium cluster earns two spectral prerequisites for the enrichment layer.
 
 **The Riemann Hypothesis** becomes a spectral-purity theorem.
-The functional equation defines an involution $J(s) = 1 - \bars$ whose fixed locus is the critical line.
+The functional equation defines an involution J(s) = 1 - s whose fixed locus is the critical line.
 In the split-complex codomain, a zero forces both idempotent components to vanish simultaneously.
-Axiom K5 (diagonal discipline) forbids the off-diagonal mixing that would produce zeros off the critical line—$τ$
-gets RH *structurally*. The primorial ladder $Prim(k)$ reduces the infinite positivity check
+Axiom K5 (diagonal discipline) forbids the off-diagonal mixing that would produce zeros off the critical line—τ
+gets RH *structurally*. The primorial ladder Prim(k) reduces the infinite positivity check
 to a cofinal tower of finite verifications.
 
-**Poincar\'e** is established (Perelman, 2003); $τ$ adds a categorical reinterpretation
-in which simple connectivity becomes a property of the enrichment functor and $S^3$ emerges
+**Poincar\'e** is established (Perelman, 2003); τ adds a categorical reinterpretation
+in which simple connectivity becomes a property of the enrichment functor and S³ emerges
 as the terminal object among closed simply connected 3-manifolds.
 
-The **Master Schema** unifies these two problems as instances of Mutual Determination at $E_0$.
-P versus NP, which requires enrichment level $E_2$ (the computation layer), is deferred to Part IX:
+The **Master Schema** unifies these two problems as instances of Mutual Determination at E₀.
+P versus NP, which requires enrichment level E₂ (the computation layer), is deferred to Part IX:
 "Where Life Lives."
 
 ## Chapters

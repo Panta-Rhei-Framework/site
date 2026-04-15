@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 11: The Yoneda-Langlands Reflection"
 next_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/chapter-13-the-no-knobs-principle/"
 next_chapter_title: "Chapter 13: The No Knobs Principle"
-summary_short: "The $4+1$ decomposition assigns each generator a sector of the spectral algebra. But not all sectors are created equal. Each primitive sector projects…"
+summary_short: "The 4+1 decomposition assigns each generator a sector of the spectral algebra. But not all sectors are created equal. Each primitive sector projects…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/"
@@ -38,20 +38,20 @@ right_rail:
 ---
 
 
-The $4+1$ decomposition assigns each generator
+The 4+1 decomposition assigns each generator
 a sector of the spectral algebra.
 But not all sectors are created equal.
 Each primitive sector projects differently
-onto the two lobes of the lemniscate $\Lemniscate$,
+onto the two lobes of the lemniscate 𝕃,
 and this asymmetry has a measurable consequence:
 *spectral polarity*.
 Three of the four primitive sectors are polarised—they
 project predominantly onto one lobe.
-The weak sector $\Sectorπ$ alone is *balanced*:
-it projects equally onto $χ_+$ and $χ_-$.
+The weak sector Sector π alone is *balanced*:
+it projects equally onto χ_+ and χ_-.
 This chapter proves that balanced polarity
 is the unique structural prerequisite
-for the $E_1 → E_2$ transition.
+for the E₁ → E₂ transition.
 The **Parity Bridge Theorem** identifies
 the weak sector as the canonical carrier
 of the computational bootstrap.

@@ -10,7 +10,7 @@ part_number: 2
 part_display: "Part II"
 part_slug: "part-02-the-4-1-sector-template"
 chapter_count: 5
-summary_short: "The organisational blueprint for all downstream books is *derived*, not assumed. The five generators of $τ$ induce four primitive sectors $(α, π, γ, η)$ plus…"
+summary_short: "The organisational blueprint for all downstream books is *derived*, not assumed. The five generators of τ induce four primitive sectors (α, π, γ, η) plus…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 right_rail:
@@ -31,17 +31,17 @@ right_rail:
 
 
 The organisational blueprint for all downstream books is *derived*, not assumed.
-The five generators of $τ$ induce four primitive sectors $(α, π, γ, η)$
-plus one mixed sector $(ω-coupling)$—the $4+1$ template.
+The five generators of τ induce four primitive sectors (α, π, γ, η)
+plus one mixed sector (ω-coupling)—the 4+1 template.
 
-Langlands$_0$ (boundary functoriality) *induces* this decomposition:
+Langlands_0 (boundary functoriality) *induces* this decomposition:
 the functor from boundary characters to interior holomorphic data preserves sector structure,
-so the $4+1$ form is a functorial consequence. At the first enrichment level $E_1$,
+so the 4+1 form is a functorial consequence. At the first enrichment level E₁,
 the template instantiates as electromagnetism, weak, strong, gravity, plus Higgs/mass—but
 the derivation of physical content is strictly deferred to Books IV and V.
 The **Parity Bridge Theorem** identifies the weak sector as the canonical carrier
 for the computational bootstrap (bridge to Book VI), and the **No Knobs Principle** establishes
-that all sector couplings are determined by $ι_τ$, not free parameters.
+that all sector couplings are determined by ι_τ, not free parameters.
 
 ## Chapters
 

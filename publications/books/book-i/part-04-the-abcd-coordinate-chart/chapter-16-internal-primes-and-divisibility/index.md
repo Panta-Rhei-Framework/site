@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/ch
 prev_chapter_title: "Chapter 15: The Denotational Order and the Road Ahead"
 next_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-17-tower-atoms-and-the-greedy-peel/"
 next_chapter_title: "Chapter 17: Tower Atoms and the Greedy Peel"
-summary_short: "Before we can define the ABCD coordinate chart, we need the concept of *prime* on $τ$-Idx. In standard mathematics, primes are imported from number theory as a…"
+summary_short: "Before we can define the ABCD coordinate chart, we need the concept of *prime* on τ-Idx. In standard mathematics, primes are imported from number theory as a…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/"
@@ -39,18 +39,18 @@ right_rail:
 
 
 Before we can define the ABCD coordinate chart,
-we need the concept of *prime* on $τ$-Idx.
+we need the concept of *prime* on τ-Idx.
 In standard mathematics, primes are imported
 from number theory as a background concept.
-In $τ$, primes are *earned*:
+In τ, primes are *earned*:
 they emerge from the divisibility relation
 on the internal natural numbers
-$τ$-Idx $= O_α$,
+τ-Idx = O_α,
 using only the multiplication earned in
 the relevant chapter.
 This chapter defines divisibility,
 identifies the internal primes,
 and proves the Fundamental Theorem of Arithmetic
-on $τ$-Idx:
-every element $n ≥ 2$
+on τ-Idx:
+every element n ≥ 2
 has a unique factorization into primes.

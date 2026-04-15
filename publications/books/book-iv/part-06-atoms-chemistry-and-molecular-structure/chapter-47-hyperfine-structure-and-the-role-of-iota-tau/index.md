@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molec
 prev_chapter_title: "Chapter 46: The Hydrogen Spectrum"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-48-multi-electron-atoms-and-shell-structure/"
 next_chapter_title: "Chapter 48: Multi-Electron Atoms and Shell Structure"
-summary_short: "The proton is not a scalar source: it carries spin $s_p = \\tfrac12$ and a magnetic moment $μ_p$. The coupling between the proton and electron magnetic moments…"
+summary_short: "The proton is not a scalar source: it carries spin s_p = ½ and a magnetic moment μ_p. The coupling between the proton and electron magnetic moments…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-The proton is not a scalar source: it carries spin $s_p = \tfrac12$
-and a magnetic moment $μ_p$. The coupling between the proton
+The proton is not a scalar source: it carries spin s_p = ½
+and a magnetic moment μ_p. The coupling between the proton
 and electron magnetic moments splits the hydrogen ground state into
-a triplet ($F = 1$) and a singlet ($F = 0$), separated by
-$Δ E_{HF} ≈ 5.9 × 10^{-6}$ eV—the
+a triplet (F = 1) and a singlet (F = 0), separated by
+Δ E_HF ≈ 5.9 × 10^{-6} eV—the
 hyperfine splitting. The resulting 21 cm radio line maps the
 large-scale structure of the universe. This chapter derives the
 splitting, surveys its observational significance, and clarifies
 where the master constant
-$ι_τ = 2/(π + e) ≈ 0.341304$ enters the physics
+ι_τ = 2/(π + e) ≈ 0.341304 enters the physics
 and—equally important—where it does not.

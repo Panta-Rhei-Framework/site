@@ -127,6 +127,79 @@
   }
 }
 
+// Parts grid: glassmorphic cards linking to each Part of a Book.
+// Reuses .lane-grid + .lane-card but adds anchor-specific behavior.
+.parts-grid {
+  margin-top: 18px;
+  margin-bottom: 8px;
+}
+
+a.part-card {
+  display: block;
+  text-decoration: none;
+  color: inherit;
+  transition: transform $transition, box-shadow $transition, border-color $transition;
+
+  .eyebrow {
+    display: inline-block;
+    font-family: $font-ui;
+    font-size: 0.7rem;
+    font-weight: 650;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: $text-muted;
+    margin-bottom: 6px;
+  }
+
+  h3 {
+    color: $text;
+  }
+
+  p {
+    color: $text-muted;
+    line-height: 1.55;
+    margin-top: 8px;
+    margin-bottom: 10px;
+  }
+
+  .chip-row {
+    margin-top: 10px;
+    margin-bottom: 0;
+  }
+
+  .chip {
+    background: rgba(41, 75, 102, 0.08);
+    border-color: rgba(41, 75, 102, 0.14);
+    color: $accent;
+    font-weight: 550;
+  }
+
+  &:hover {
+    transform: translateY(-1px);
+    border-color: rgba(41, 75, 102, 0.25);
+
+    h3 {
+      color: $accent;
+    }
+  }
+}
+
+// Display math blocks (for the 7 chapters with $$...$$ equations)
+.math-display {
+  display: block;
+  margin: 20px auto;
+  padding: 14px 18px;
+  max-width: 90%;
+  text-align: center;
+  font-family: $font-display;
+  font-size: 1.1rem;
+  font-style: italic;
+  color: $text;
+  background: rgba(255, 255, 255, 0.25);
+  border-left: 3px solid $accent;
+  border-radius: 4px;
+}
+
 // Module-specific components
 .module-eyebrow-row {
   display: flex;

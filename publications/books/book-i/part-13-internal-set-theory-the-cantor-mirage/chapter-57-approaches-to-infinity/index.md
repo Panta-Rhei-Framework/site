@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-ca
 prev_chapter_title: "Chapter 56: The Three Failures of Cantor's Diagonal"
 next_chapter_url: "/publications/books/book-i/part-14-the-earned-topos/chapter-58-earned-arrows-and-the-tau/"
 next_chapter_title: "Chapter 58: Earned Arrows and the τ"
-summary_short: "the relevant chapter showed that Cantor's diagonal argument cannot execute in $τ$: the bounded powerset, the absence of impredicative comprehension,…"
+summary_short: "the relevant chapter showed that Cantor's diagonal argument cannot execute in τ: the bounded powerset, the absence of impredicative comprehension,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -39,22 +39,22 @@ right_rail:
 
 
 the relevant chapter showed that Cantor's diagonal
-argument cannot execute in $τ$:
+argument cannot execute in τ:
 the bounded powerset, the absence of impredicative comprehension,
 and the diagonal discipline together block
 the mechanism that produces uncountable sets.
 But blocking the diagonal is a *negative* result —
-it says what $τ$ does *not* have.
+it says what τ does *not* have.
 This chapter provides the *positive* replacement.
 The "structure of infinity" that analysis needs
 comes not from different *sizes* of infinity
-(the cardinality hierarchy $\aleph_0 < \aleph_1 < \aleph_2 < ⋯$)
-but from different *approaches* to the unique infinity $ω$.
+(the cardinality hierarchy ℵ_0 < ℵ_1 < ℵ_2 < ⋯)
+but from different *approaches* to the unique infinity ω.
 The omega-germs of the relevant chapter
 are precisely these approaches:
 each germ is a direction of convergence
 toward the beacon,
 and the collection of all approaches
-is the boundary ring $\hatℤ_τ$
+is the boundary ring ℤ_τ
 .
 Cardinality is unnecessary; convergence suffices.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-01-the-coherence-kernel/chapt
 prev_chapter_title: "Chapter 6: Diagonal Discipline — Why Exactly Four Channels"
 next_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-08-the-iterator-of-iterator-ladder-and-tetration-saturation/"
 next_chapter_title: "Chapter 8: The Iterator-of-Iterator Ladder and Tetration Saturation"
-summary_short: "Part I assembled the static kernel $τ_0$: a finite specification consisting of five generators, one operator, and six axioms. $τ_0$ is a blueprint — it…"
+summary_short: "Part I assembled the static kernel τ₀: a finite specification consisting of five generators, one operator, and six axioms. τ₀ is a blueprint — it…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/"
@@ -38,17 +38,17 @@ right_rail:
 ---
 
 
-Part I assembled the static kernel $τ_0$:
+Part I assembled the static kernel τ₀:
 a finite specification consisting of five generators,
 one operator, and six axioms.
-$τ_0$ is a blueprint — it describes what the universe
+τ₀ is a blueprint — it describes what the universe
 must look like, but it does not create it.
 In this chapter, we cross the threshold from specification to existence.
-The operator $ρ$, acting on the four non-$ω$ generators,
+The operator ρ, acting on the four non-ω generators,
 unfolds four infinite orbit rays.
 This is the *generative act*:
 a single, indivisible passage from the static kernel
 to the populated universe.
-After this act, every object that will ever exist in $τ$ exists.
+After this act, every object that will ever exist in τ exists.
 No further creation occurs — only naming, addressing,
 and structural discovery.

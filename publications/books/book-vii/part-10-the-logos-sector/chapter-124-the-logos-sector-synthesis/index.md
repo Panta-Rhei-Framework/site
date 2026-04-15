@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-10-the-logos-sector/chapter
 prev_chapter_title: "Chapter 123: Boundary Collapse Preview"
 next_chapter_url: "/publications/books/book-vii/part-12-the-final-boundary-from-proof-to-commitment/chapter-125-the-boundary-collapse-lemma/"
 next_chapter_title: "Chapter 125: The Boundary Collapse Lemma"
-summary_short: "Capstone for Part X. The Logos sector $S_L$ has been defined by universal property (VII.D86), proved unique (VII.T45), equipped with a bridge apparatus…"
+summary_short: "Capstone for Part X. The Logos sector S_L has been defined by universal property (VII.D86), proved unique (VII.T45), equipped with a bridge apparatus…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-10-the-logos-sector/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Capstone for Part X. The Logos sector $S_L$ has been defined by
+Capstone for Part X. The Logos sector S_L has been defined by
 universal property (VII.D86), proved unique (VII.T45), equipped with
 a bridge apparatus (VII.D87, VII.T46), embedded in a mediator basin
 (VII.D88, VII.P29), correlated with the historical *logos*
@@ -46,5 +46,5 @@ concept (VII.R45), and brought face to face with its own boundary
 (VII.D89, VII.T47). This chapter synthesizes the deliverables,
 identifies the structural crown jewel of the 2nd Edition, and
 positions the reader for Part XI (the Genesis reading through the
-$S_L$ lens) and Part XII (the formal boundary collapse and the
+S_L lens) and Part XII (the formal boundary collapse and the
 series closing).

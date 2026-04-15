@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-hol
 prev_chapter_title: "Chapter 37: Sheaf Coherence from ω-Germ Compatibility"
 next_chapter_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/chapter-39-the-3-lemma-chain/"
 next_chapter_title: "Chapter 39: The 3-Lemma Chain"
-summary_short: "Part VI established the sheaf $O_τ$ and its coherence properties. Part VII now asks: what is the **internal structure** of a $τ$-holomorphic function? The…"
+summary_short: "Part VI established the sheaf O_τ and its coherence properties. Part VII now asks: what is the **internal structure** of a τ-holomorphic function? The…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-07-regularity-and-mutual-determination/"
@@ -38,36 +38,36 @@ right_rail:
 ---
 
 
-Part VI established the sheaf $O_τ$
+Part VI established the sheaf O_τ
 and its coherence properties.
 Part VII now asks:
 what is the **internal structure**
-of a $τ$-holomorphic function?
+of a τ-holomorphic function?
 The answer begins with the observation
 that the bipolar idempotents
-$e_± = (1 ± \jj)/2$
+e_± = (1 ± j)/2
 (I.D21, Book I)
 decompose not only *scalars*
 but also *functions*.
-If $f \colon τ^3 → H_τ$
-is $τ$-holomorphic,
-then $f_+ := e_+ · f$
-and $f_- := e_- · f$
-are each $τ$-holomorphic,
-and $f = f_+ + f_-$.
+If f : τ³ → H_τ
+is τ-holomorphic,
+then f_+ := e_+ · f
+and f_- := e_- · f
+are each τ-holomorphic,
+and f = f_+ + f_-.
 This is the **Idempotent Decomposition Lemma**
 (II.L07):
-the algebraic idempotent splitting of $H_τ$
+the algebraic idempotent splitting of H_τ
 lifts to a functional splitting
 of the holomorphic function space.
 The decomposition is **canonical**
 (no choices are made),
 **functorial**
 (it respects composition:
-$(g ∘ f)_± = g_± ∘ f_±$,
+(g ∘ f)_± = g_± ∘ f_±,
 the channels do not mix),
 and **complete**
-($f_+$ and $f_-$ together determine $f$ uniquely).
+(f_+ and f_- together determine f uniquely).
 **the relevant definition (II.D48)
 formalizes the canonical decomposition.
 **Proposition [prop:decomposition-functoriality**] (II.P09)
@@ -76,6 +76,6 @@ This lemma is the engine
 for the three-lemma chain
 in the next chapter:
 it converts the *algebraic*
-decomposition of the codomain $H_τ$
+decomposition of the codomain H_τ
 into a *functional* decomposition
-of the holomorphic function space $O_τ(τ^3)$.
+of the holomorphic function space O_τ(τ³).

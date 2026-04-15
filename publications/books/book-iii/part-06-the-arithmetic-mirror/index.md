@@ -34,7 +34,7 @@ The third Millennium cluster verifies that the enrichment tower is complete, sel
 and ready for export to Books IV–VII.
 
 **BSD** builds the rational bridge: discrete carriers form the proto-code
-that labels the local spatial patches and establishes the $E_1 → E_2$ bridgehead—the
+that labels the local spatial patches and establishes the E₁ → E₂ bridgehead—the
 first theorem that genuinely lives at the arithmetic-geometry layer.
 
 **Langlands** completes the programme: boundary functoriality at every level

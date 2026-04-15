@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-00-from-kernel-to-interior/c
 prev_chapter_title: "Chapter 3: Roadmap and Inverted Dependency"
 next_chapter_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/chapter-05-the-omega-readout-and-the-lemniscate/"
 next_chapter_title: "Chapter 5: The Omega Readout and the Lemniscate"
-summary_short: "Book I built the ABCD coordinate chart $Φ : \\Obj(τ) → τ-Idx^4$ as a total, injective address system for every finite object. This chapter extends the chart…"
+summary_short: "Book I built the ABCD coordinate chart Φ : Obj(τ) → τ-Idx⁴ as a total, injective address system for every finite object. This chapter extends the chart…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-01-interior-points-and-the-tau/"
@@ -39,15 +39,15 @@ right_rail:
 
 
 Book I built the ABCD coordinate chart
-$Φ : \Obj(τ) → τ-Idx^4$
+Φ : Obj(τ) → τ-Idx⁴
 as a total, injective address system for every finite object.
 This chapter extends the chart beyond finite objects
-to define the full point set $τ^3$.
+to define the full point set τ³.
 The key insight:
-$τ^3$ is *not* defined by importing an ambient space
+τ³ is *not* defined by importing an ambient space
 or invoking Hartogs extension.
 It is defined purely algebraically as the set of
-**$τ$-admissible ABCD quadruples** —
+**τ-admissible ABCD quadruples** —
 those quadruples satisfying the constraints forced by the
 normal-form structure.
 The profinite completion of the finite ABCD space

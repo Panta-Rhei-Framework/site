@@ -52,25 +52,25 @@ behind the horizon —
 has driven four decades of debate
 in theoretical physics.
 
-In Category $τ$,
+In Category τ,
 a black hole is something quite different.
 It is a **global topological event**:
 the emergence of a non-contractible
-linking class in $τ^3$
+linking class in τ³
 when the gravitational tension at a region
 of the boundary exceeds
 the maximum spherical capacity.
-The horizon is not a sphere $S^2$
-but a torus $T^2$ —
-the same torus that forms the fiber of $τ^3$.
+The horizon is not a sphere S²
+but a torus T² —
+the same torus that forms the fiber of τ³.
 There is no interior singularity
 (the profinite structure prevents divergences).
 And there is no information paradox:
 the boundary preserves all data,
 because the boundary holonomy algebra
-$H_∂[ω]$ is invertible.
+H_∂[ω] is invertible.
 
-This chapter defines the $τ$-native black hole,
+This chapter defines the τ-native black hole,
 proves the toroidal topology of the horizon,
 and derives information preservation
 as a structural corollary.

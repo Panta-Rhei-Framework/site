@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-00-two-arcs-from-one-neutron
 prev_chapter_title: "Chapter 2: Importing Book~III: The E₁ Template"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-04-particles-as-persistent-defect-bundles/"
 next_chapter_title: "Chapter 4: Particles as Persistent Defect Bundles"
-summary_short: "The fibered product $τ^3 = τ^1 ×_f T^2$ was constructed in Books I and II. This chapter does not reconstruct it; instead it extracts the physical…"
+summary_short: "The fibered product τ³ = τ¹ ×_f T² was constructed in Books I and II. This chapter does not reconstruct it; instead it extracts the physical…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -38,16 +38,16 @@ right_rail:
 ---
 
 
-The fibered product $τ^3 = τ^1 ×_f T^2$ was constructed
+The fibered product τ³ = τ¹ ×_f T² was constructed
 in Books I and II.
 This chapter does not reconstruct it;
 instead it extracts the physical interpretation.
-The fiber $T^2 = S^1 × S^1$ (torus) is the *microcosm*:
+The fiber T² = S¹ × S¹ (torus) is the *microcosm*:
 the arena of quantum mechanics, particle physics,
 and all phenomena at fixed worldline position.
-The base $τ^1$ is the *macrocosm*:
+The base τ¹ is the *macrocosm*:
 the arena of gravity and cosmology (Book V).
-We describe the geometry of $T^2$ as a physical stage,
+We describe the geometry of T² as a physical stage,
 the coordinate structure it carries,
 and the micro/macro decomposition that organizes
 Books IV and V.

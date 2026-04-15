@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapt
 prev_chapter_title: "Chapter 4: τ-Distinction: The Self/Non-Self Boundary"
 next_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapter-06-the-layer-separation-lemma-life-is-genuinely-e/"
 next_chapter_title: "Chapter 6: The Layer Separation Lemma: Life Is Genuinely E₂"
-summary_short: "The SelfDesc predicate requires that an internal evaluator $Eval_X$ reconstructs the distinction $D_n$ from $code(D)[ω]$ and $NF_n(x)$. The evaluator is…"
+summary_short: "The SelfDesc predicate requires that an internal evaluator Eval_X reconstructs the distinction D_n from code(D)[ω] and NF_n(x). The evaluator is…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-01-the-life-definition/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The SelfDesc predicate requires that an internal evaluator $Eval_X$ reconstructs the distinction $D_n$ from $code(D)[ω]$ and $NF_n(x)$. The evaluator is internal—it operates within $X$, not from an external vantage. This separates Life from mere physical stability: once SelfDesc is achieved, the system's distinction is self-maintaining and perturbations within the basin are corrected.
+The SelfDesc predicate requires that an internal evaluator Eval_X reconstructs the distinction D_n from code(D)[ω] and NF_n(x). The evaluator is internal—it operates within X, not from an external vantage. This separates Life from mere physical stability: once SelfDesc is achieved, the system's distinction is self-maintaining and perturbations within the basin are corrected.

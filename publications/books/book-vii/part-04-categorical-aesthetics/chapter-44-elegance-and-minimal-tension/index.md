@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/c
 prev_chapter_title: "Chapter 43: Beauty as Invariance"
 next_chapter_url: "/publications/books/book-vii/part-04-categorical-aesthetics/chapter-45-style-motif-and-genre/"
 next_chapter_title: "Chapter 45: Style, Motif, and Genre"
-summary_short: "Beauty is the *what*: $A(m) = 0$, invariance under all admissible transformations. Elegance is the *how*: the simplest, most efficient path to low $A$-values.…"
+summary_short: "Beauty is the *what*: A(m) = 0, invariance under all admissible transformations. Elegance is the *how*: the simplest, most efficient path to low A-values.…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-04-categorical-aesthetics/"
@@ -38,15 +38,15 @@ right_rail:
 ---
 
 
-Beauty is the *what*: $A(m) = 0$, invariance under
+Beauty is the *what*: A(m) = 0, invariance under
 all admissible transformations. Elegance is the *how*: the
-simplest, most efficient path to low $A$-values. Two
-motifs may both be beautiful—both achieving $A = 0$—but
+simplest, most efficient path to low A-values. Two
+motifs may both be beautiful—both achieving A = 0—but
 one may reach that invariance through fewer steps, fewer auxiliary
 constructions, fewer detours. The elegant motif is the one that
 achieves maximal coherence with minimal complexity. This chapter
 formalises elegance as the ratio of coherence achieved to complexity
 expended, derives Occam's Razor as a special case, and connects the
 notion to the kernel itself: the five generators and seven axioms of
-Category $τ$ constitute a maximally elegant foundation—minimal
+Category τ constitute a maximally elegant foundation—minimal
 input, maximal structural output.

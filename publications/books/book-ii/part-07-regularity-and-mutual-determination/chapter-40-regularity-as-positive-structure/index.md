@@ -49,29 +49,29 @@ One first defines what can go wrong,
 then declares regularity to be
 the complement of wrongness.
 
-In Category $τ$,
+In Category τ,
 regularity is a *positive* condition:
-the *existence* of a stabilized $ω$-germ.
-A point $p ∈ τ^3$ is $τ$-regular for a function $f$
-if the sequence of $ω$-germ restrictions
+the *existence* of a stabilized ω-germ.
+A point p ∈ τ³ is τ-regular for a function f
+if the sequence of ω-germ restrictions
 stabilizes at a finite primorial stage —
 if finitely much boundary data suffices
-to determine $f$ at $p$.
+to determine f at p.
 This chapter introduces
-**$τ$-Regularity**
+**τ-Regularity**
 (the relevant definition, II.D49),
 proves the
 **Regularity Criterion**
 (the relevant theorem, II.T34),
 which establishes a sharp dichotomy —
-every point is either $τ$-regular
+every point is either τ-regular
 (stabilization at finite stage)
 or genuinely singular
 (the germ sequence diverges) —
 and explains in
 **Remark [rem:positive-negative-regularity**] (II.R11)
 why the classical notion of "removable singularity"
-has no $τ$-analogue.
+has no τ-analogue.
 The ultrametric topology
 admits no epsilon-delta wiggle room:
 cylinders are clopen,
@@ -84,8 +84,8 @@ the Global Hartogs Theorem
 establishes that boundary data determines interior data;
 the Idempotent Decomposition Lemma
 (II.L07, the relevant chapter)
-provides the canonical $e_±$-splitting;
-the Holomorphic $⇔$ Idempotent-Supported
+provides the canonical e_±-splitting;
+the Holomorphic ⇔ Idempotent-Supported
 equivalence
 (II.T33, the relevant chapter)
 characterizes holomorphic maps;

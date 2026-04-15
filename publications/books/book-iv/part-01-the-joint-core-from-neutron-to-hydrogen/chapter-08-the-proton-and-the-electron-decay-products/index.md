@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutr
 prev_chapter_title: "Chapter 7: -Decay: The Rosetta Stone"
 next_chapter_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/chapter-09-the-five-sectors-in-concert/"
 next_chapter_title: "Chapter 9: The Five Sectors in Concert"
-summary_short: "The orthodox presentation postulates protons and electrons as fundamental particles and builds atoms from them. Category $τ$ reverses this order. The neutron…"
+summary_short: "The orthodox presentation postulates protons and electrons as fundamental particles and builds atoms from them. Category τ reverses this order. The neutron…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-01-the-joint-core-from-neutron-to-hydrogen/"
@@ -39,8 +39,8 @@ right_rail:
 
 
 The orthodox presentation postulates protons and electrons as fundamental
-particles and builds atoms from them. Category $τ$ reverses this order.
+particles and builds atoms from them. Category τ reverses this order.
 The neutron is primary .
-$β$-decay has been demonstrated
+β-decay has been demonstrated
 . Now we **derive** the proton and
 the electron as products of that decay. They are earned, not assumed.

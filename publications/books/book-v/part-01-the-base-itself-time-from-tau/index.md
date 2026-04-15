@@ -10,7 +10,7 @@ part_number: 1
 part_display: "Part I"
 part_slug: "part-01-the-base-itself-time-from-tau"
 chapter_count: 7
-summary_short: "Part I answers the most fundamental question of macroscopic physics: *What is time?* The base circle $τ^1$ of the fibered product $τ^3 = τ^1 ×_f T^2$ carries…"
+summary_short: "Part I answers the most fundamental question of macroscopic physics: *What is time?* The base circle τ¹ of the fibered product τ³ = τ¹ ×_f T² carries…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 right_rail:
@@ -33,12 +33,12 @@ right_rail:
 Part I answers the most fundamental question of macroscopic physics:
 *What is time?*
 
-The base circle $τ^1$ of the fibered product
-$τ^3 = τ^1 ×_f T^2$
+The base circle τ¹ of the fibered product
+τ³ = τ¹ ×_f T²
 carries two generators:
-$α$ (Gravity, the radial/ultrametric direction)
-and $π$ (Weak, the first solenoidal direction).
-Book IV defined proto-time as the $ρ$-iteration depth
+α (Gravity, the radial/ultrametric direction)
+and π (Weak, the first solenoidal direction).
+Book IV defined proto-time as the ρ-iteration depth
 (IV.D05) and established the structural arrow of time
 (IV.T01).
 Book V now develops these seeds into the full temporal
@@ -47,8 +47,8 @@ and cosmological structure of the macroscopic universe.
 Seven chapters trace the arc:
 
 **Chapter 4** (*Proto-Chronos*)
-derives proper time as geodesic arc length along $τ^1$,
-the time arrow as $α$-orbit direction,
+derives proper time as geodesic arc length along τ¹,
+the time arrow as α-orbit direction,
 and causality as orbit ordering.
 Physical time is bounded: the base circle is compact.
 
@@ -56,14 +56,14 @@ Physical time is bounded: the base circle is compact.
 identifies three epochs—pre-temporal, temporal,
 post-temporal—and defines the ignition condition
 at which proper-time readout becomes well-defined.
-The "now" hypersurface $Σ_{now}$
+The "now" hypersurface Σ_{now}
 is structural, not conventional.
 
 **Chapter 6** (*High Energy at the Beginning*)
 derives the initial conditions of the temporal epoch:
 all modes active, all sectors maximally coupled.
 The "hot Big Bang" is the opening regime
-of the $τ$-Einstein equation,
+of the τ-Einstein equation,
 and inflation is a refinement-progression phenomenon.
 
 **Chapter 7** (*Macro Readout*)
@@ -80,7 +80,7 @@ that serves as the interface to Parts II–VIII.
 When Part I is complete,
 time, distance, causality, and the initial conditions
 of the universe have been *derived*—not postulated—from
-the base $τ^1$.
+the base τ¹.
 Parts II–VIII build on this temporal substrate
 to construct gravity, thermodynamics,
 fluids, astrophysics, and cosmology.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror
 prev_chapter_title: "Chapter 72: Diagonal Discipline as Linear Logic"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-74-the-self-hosting-landscape/"
 next_chapter_title: "Chapter 74: The Self-Hosting Landscape"
-summary_short: "The Diagonal–Linear Correspondence (the relevant chapter, I.T37) identified a structural isomorphism between $K5$'s diagonal discipline…"
+summary_short: "The Diagonal–Linear Correspondence (the relevant chapter, I.T37) identified a structural isomorphism between K5's diagonal discipline…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/"
@@ -41,8 +41,8 @@ right_rail:
 The Diagonal–Linear Correspondence
 (the relevant chapter, I.T37)
 identified a structural isomorphism
-between $K5$'s diagonal discipline
-and the $!$-free fragment of linear logic.
+between K5's diagonal discipline
+and the !-free fragment of linear logic.
 That correspondence operates at the level of design principles.
 This chapter descends to the level of code.
 TauLib — the Lean 4 formalization of Book I —

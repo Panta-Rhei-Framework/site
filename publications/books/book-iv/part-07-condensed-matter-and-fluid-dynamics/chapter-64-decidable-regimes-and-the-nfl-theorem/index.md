@@ -42,12 +42,12 @@ What distinguishes an Euler flow from a Navier–Stokes flow?
 Physically, the answer is dissipation:
 Euler flows conserve energy exactly,
 while NS flows lose energy to heat.
-In $τ^3$, this distinction acquires
+In τ³, this distinction acquires
 a precise algebraic formulation.
 The **NFL-boundary theorem** shows that
 a step in the defect dynamics is non-dissipative
 if and only if it acts as an automorphism
-of the boundary character algebra $H_∂$.
+of the boundary character algebra H_∂.
 Dissipation—viscosity, friction, turbulent decay—corresponds
 to strict endomorphisms that push information
 deeper into the primorial filtration.

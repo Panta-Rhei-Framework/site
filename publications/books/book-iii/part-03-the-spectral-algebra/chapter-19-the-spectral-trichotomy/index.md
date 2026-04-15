@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/cha
 prev_chapter_title: "Chapter 18: The Internal Bipolar Classifier"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-20-the-spectral-algebra-complete/"
 next_chapter_title: "Chapter 20: The Spectral Algebra Complete"
-summary_short: "the relevant chapter replaced informal lobe language with the computable bipolar classifier $Label_n$, assigning to every boundary…"
+summary_short: "the relevant chapter replaced informal lobe language with the computable bipolar classifier Label_n, assigning to every boundary…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -40,33 +40,33 @@ right_rail:
 
 the relevant chapter
 replaced informal lobe language
-with the computable bipolar classifier $Label_n$,
-assigning to every boundary character at level $n$
-a label in $\{B, C, X\}$.
+with the computable bipolar classifier Label_n,
+assigning to every boundary character at level n
+a label in {B, C, X}.
 This chapter proves the structural consequence:
 every boundary character decomposes
 *uniquely and exactly*
-into a $B$-supported part,
-a $C$-supported part,
-and an $X$-mixing part—the
+into a B-supported part,
+a C-supported part,
+and an X-mixing part—the
 **Spectral Trichotomy Lemma**.
 The split-complex boundary ring
-$(ℤ / Prim(k)ℤ)[\jj]$
+(ℤ / Prim(k)ℤ)[j]
 has a **boundary normal form**:
-every element writes uniquely as $a · e_+ + b · e_-$
-with $a$ the $B$-coordinate and $b$ the $C$-coordinate.
+every element writes uniquely as a · e_+ + b · e_-
+with a the B-coordinate and b the C-coordinate.
 The **B/C Non-Collapse Theorem**
 proves these two sectors genuinely distinct:
 no tower-compatible isomorphism relates them,
-because $B = γ$ (exponentiation)
-and $C = η$ (tetration)
+because B = γ (exponentiation)
+and C = η (tetration)
 have different growth rates.
 Finally, **spectral coefficients**
-$c_B(f, p)$ and $c_C(f, p)$
-measure the $B$- and $C$-content
-of each $τ$-holomorphic function
+c_B(f, p) and c_C(f, p)
+measure the B- and C-content
+of each τ-holomorphic function
 at each prime.
-The trichotomy gives $f = f_B + f_C + f_X$,
-and the spectral purity of $f_X$
+The trichotomy gives f = f_B + f_C + f_X,
+and the spectral purity of f_X
 becomes the central question of Part IV:
-RH is the statement that $f_X$ is spectrally pure.
+RH is the statement that f_X is spectrally pure.

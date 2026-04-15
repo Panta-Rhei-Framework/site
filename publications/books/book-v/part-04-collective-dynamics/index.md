@@ -10,7 +10,7 @@ part_number: 4
 part_display: "Part IV"
 part_slug: "part-04-collective-dynamics"
 chapter_count: 7
-summary_short: "Part IV lifts the defect-functional framework from the fiber $T^2$ to the macroscopic base $τ^1$. Book IV, Chapter 53, classified fluid regimes, phase…"
+summary_short: "Part IV lifts the defect-functional framework from the fiber T² to the macroscopic base τ¹. Book IV, Chapter 53, classified fluid regimes, phase…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 right_rail:
@@ -31,7 +31,7 @@ right_rail:
 
 
 Part IV lifts the defect-functional framework
-from the fiber $T^2$ to the macroscopic base $τ^1$.
+from the fiber T² to the macroscopic base τ¹.
 Book IV, Chapter 53, classified fluid regimes,
 phase transitions, and condensed-matter states
 at the fiber level.
@@ -46,10 +46,10 @@ Seven chapters trace the arc:
 
 **Chapter 27** (*Navier–Stokes at Macro Level*)
 completes the three-level regularity story:
-$E_0$ (Book III),
-$E_1$ fiber (Book IV),
-$E_1$ base (this chapter).
-The compact topology of $τ^3$
+E₀ (Book III),
+E₁ fiber (Book IV),
+E₁ base (this chapter).
+The compact topology of τ³
 forbids singularity formation
 at the macroscopic scale.
 
@@ -62,7 +62,7 @@ as its vorticity dual.
 
 **Chapter 29** (*Charge as Boundary Obstruction*)
 derives the no-isolated-charges theorem
-from the $\SectorB$- and $\SectorC$-sector
+from the Sector B- and Sector C-sector
 boundary holonomy,
 establishing the macro vocabulary
 for electromagnetic and chromodynamic flux.
@@ -74,7 +74,7 @@ charge transport as boundary-obstruction flow,
 magneto-fluid holonomy with frozen flux
 and reconnection events,
 and Alfv\'en waves as mixed-sector oscillations
-coupling the $\SectorB$ and $\SectorD$ sectors.
+coupling the Sector B and Sector D sectors.
 
 **Chapter 33** (*Macro Phase Transitions*)
 closes the Part by lifting Book IV's
@@ -88,7 +88,7 @@ When Part IV is complete,
 the collective vocabulary is in place:
 fluids, plasmas, waves, and phase transitions
 are all boundary-holonomy phenomena
-on $τ^3$,
+on τ³,
 ready for the astrophysical applications
 of Part V.
 

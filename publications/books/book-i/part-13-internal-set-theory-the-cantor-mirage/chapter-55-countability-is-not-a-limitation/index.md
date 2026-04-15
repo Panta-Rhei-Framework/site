@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-ca
 prev_chapter_title: "Chapter 54: The Orbit-Set Correspondence"
 next_chapter_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/chapter-56-the-three-failures-of-cantor-s-diagonal/"
 next_chapter_title: "Chapter 56: The Three Failures of Cantor's Diagonal"
-summary_short: "Orthodox mathematics treats countability as a measure of *smallness*: a set is countable if it is "no bigger than $ℕ$," and the existence of uncountable sets…"
+summary_short: "Orthodox mathematics treats countability as a measure of *smallness*: a set is countable if it is "no bigger than ℕ," and the existence of uncountable sets…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-13-internal-set-theory-the-cantor-mirage/"
@@ -40,13 +40,13 @@ right_rail:
 
 Orthodox mathematics treats countability
 as a measure of *smallness*:
-a set is countable if it is "no bigger than $ℕ$,"
+a set is countable if it is "no bigger than ℕ,"
 and the existence of uncountable sets
 (via Cantor's theorem) reveals that most of mathematics
 lives beyond the countable horizon.
-This chapter argues that within Category $τ$,
+This chapter argues that within Category τ,
 the framing is inverted.
-The progression operator $ρ$ that *creates* objects
+The progression operator ρ that *creates* objects
 is the same operator that *enumerates* them.
 The universe is not "found to be countable"
 by an external observer;

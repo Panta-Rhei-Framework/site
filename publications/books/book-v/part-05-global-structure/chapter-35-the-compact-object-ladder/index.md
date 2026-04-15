@@ -47,34 +47,34 @@ This chapter traces the
 **compact-object ladder**—the
 sequence of stellar endpoints
 ordered by mass—in
-the language of Category $τ$.
+the language of Category τ.
 
 Below the **Chandrasekhar mass**
-$M_{Ch} ≈ 1.4 M_\odot$,
+M_Ch ≈ 1.4 M_☉,
 electron degeneracy pressure
 (a fiber-sector phenomenon,
 Book IV)
 supports the remnant:
 the result is a **white dwarf**
-(\S).
-Above $M_{Ch}$
+(§).
+Above M_Ch
 but below the Tolman–Oppenheimer–Volkoff limit
-$M_{TOV} ≈ 2.0\text–2.3 M_\odot$,
+M_TOV ≈ 2.0–2.3 M_☉,
 neutron degeneracy pressure
 and the strong nuclear force
-(the $C$-sector)
+(the C-sector)
 support the remnant:
 the result is a **neutron star**
-(\S).
-Above $M_{TOV}$,
+(§).
+Above M_TOV,
 no known force can resist gravitational collapse,
 and the result is a **black hole**
-(\S).
+(§).
 
 Each rung of the ladder
 is a readout of the competition
-between the $D$-sector gravitational coupling
-$κ(D;1) = 1 - ι_τ$
+between the D-sector gravitational coupling
+κ(D;1) = 1 - ι_τ
 and the fiber-sector pressure
 encoded in the defect functional
 of Book IV.
@@ -83,11 +83,11 @@ are *relational thresholds*:
 mass values at which
 the balance between sectors shifts
 irreversibly
-(\S).
+(§).
 
 The chapter closes with pulsar timing
-(\S)—the
+(§)—the
 most precise clocks in nature—and
 their role as probes
-of the $τ$-Einstein equation
+of the τ-Einstein equation
 in the strong-field regime.

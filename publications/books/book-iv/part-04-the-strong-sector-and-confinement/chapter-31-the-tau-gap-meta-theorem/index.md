@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-con
 prev_chapter_title: "Chapter 30: Confinement as Address Irresolvability"
 next_chapter_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/chapter-32-strong-coupling-and-quarks/"
 next_chapter_title: "Chapter 32: Strong Coupling and Quarks"
-summary_short: "The **$τ$-gap meta-theorem** states: any NF-discrete tower on $τ^3$ with contractive defect functional and bounded sector extraction has a positive spectral…"
+summary_short: "The **τ-gap meta-theorem** states: any NF-discrete tower on τ³ with contractive defect functional and bounded sector extraction has a positive spectral…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-04-the-strong-sector-and-confinement/"
@@ -38,10 +38,10 @@ right_rail:
 ---
 
 
-The **$τ$-gap meta-theorem** states: any NF-discrete tower on
-$τ^3$ with contractive defect functional and bounded sector extraction
-has a positive spectral gap $Γ^* = ∈f\{Δ(f,n)\} > 0$.
-This is a structural theorem about the spectral geometry of $τ^3$,
+The **τ-gap meta-theorem** states: any NF-discrete tower on
+τ³ with contractive defect functional and bounded sector extraction
+has a positive spectral gap Γ^* = ∈f{Δ(f,n)} > 0.
+This is a structural theorem about the spectral geometry of τ³,
 not a conjecture about a specific theory. It applies to *any*
 sector satisfying its hypotheses. The C-sector (strong force) is one
 such instance, and the Yang–Mills mass gap—a Clay Millennium Prize

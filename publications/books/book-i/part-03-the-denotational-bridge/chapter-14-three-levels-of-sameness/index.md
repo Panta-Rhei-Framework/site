@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/ch
 prev_chapter_title: "Chapter 13: The Program Monoid — Composition as a Theorem"
 next_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/chapter-15-the-denotational-order-and-the-road-ahead/"
 next_chapter_title: "Chapter 15: The Denotational Order and the Road Ahead"
-summary_short: "In standard mathematics, equality is monolithic: two objects are either equal or not. In $τ$, the ontic/denotational boundary induces a *hierarchy* of…"
+summary_short: "In standard mathematics, equality is monolithic: two objects are either equal or not. In τ, the ontic/denotational boundary induces a *hierarchy* of…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-03-the-denotational-bridge/"
@@ -40,11 +40,11 @@ right_rail:
 
 In standard mathematics, equality is monolithic:
 two objects are either equal or not.
-In $τ$, the ontic/denotational boundary
+In τ, the ontic/denotational boundary
 induces a *hierarchy* of sameness.
 At the deepest level, *ontic identity*
 asks whether two objects are literally the same
-element of $\Obj(τ)$ — the same seed and depth.
+element of Obj(τ) — the same seed and depth.
 At the middle level, *address equivalence*
 asks whether two programs have the same normal form
 — whether two denotational paths

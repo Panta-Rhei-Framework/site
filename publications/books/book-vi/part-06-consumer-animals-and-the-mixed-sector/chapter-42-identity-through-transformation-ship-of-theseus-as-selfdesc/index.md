@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The Ship of Theseus paradox is resolved within the SelfDesc framework: substrate replacement preserves life-equivalence because SelfDesc is defined over the $ω$-germ code, not the physical carrier. Two carriers with the same SelfDesc code are life-equivalent regardless of material composition. Metamorphosis—caterpillar to butterfly—provides the most dramatic biological confirmation, where radical carrier restructuring leaves the SelfDesc code unchanged.
+The Ship of Theseus paradox is resolved within the SelfDesc framework: substrate replacement preserves life-equivalence because SelfDesc is defined over the ω-germ code, not the physical carrier. Two carriers with the same SelfDesc code are life-equivalent regardless of material composition. Metamorphosis—caterpillar to butterfly—provides the most dramatic biological confirmation, where radical carrier restructuring leaves the SelfDesc code unchanged.

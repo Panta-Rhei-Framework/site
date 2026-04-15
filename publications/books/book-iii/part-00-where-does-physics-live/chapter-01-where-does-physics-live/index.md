@@ -14,7 +14,7 @@ chapter_slug: "chapter-01-where-does-physics-live"
 page_in_book: 3
 next_chapter_url: "/publications/books/book-iii/part-00-where-does-physics-live/chapter-02-the-eight-guarantees/"
 next_chapter_title: "Chapter 2: The Eight Guarantees"
-summary_short: "Books I and II constructed a complete mathematical universe from five generators and seven axioms, culminating in the Central Theorem $O(τ^3) ≅ A_{spec}(𝕃)$.…"
+summary_short: "Books I and II constructed a complete mathematical universe from five generators and seven axioms, culminating in the Central Theorem O(τ³) ≅ A_spec(𝕃).…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-00-where-does-physics-live/"
@@ -39,24 +39,24 @@ right_rail:
 Books I and II constructed a complete mathematical universe
 from five generators and seven axioms,
 culminating in the Central Theorem
-$O(τ^3) ≅ A_{spec}(𝕃)$.
+O(τ³) ≅ A_spec(𝕃).
 But this universe does not look like the three-dimensional
 Cartesian space in which physics is formulated.
-The fibered product $τ^3 = τ^1 ×_f T^2$
+The fibered product τ³ = τ¹ ×_f T²
 has four coordinates, all solenoidal—one-sided,
-angular, with no canonical $±$ symmetry.
+angular, with no canonical ± symmetry.
 Quantum field theory and general relativity,
-by contrast, live in $ℝ^{1,3}$,
+by contrast, live in ℝ^{1,3},
 whose spatial coordinates are two-sided,
 linear, and Cartesian.
 This chapter identifies the gap
 and resolves it:
 the three-dimensional Cartesian space
 of physics arises as the Hartogs bulk
-of the fiber $T^2$.
+of the fiber T².
 The central task of Book III is then to show
 that these local bulk projections
 glue into a single globally coherent space—and
 that this gluing is precisely the content
-of the self-enrichment layer $E_1$.
-Physics *is* $E_1$.
+of the self-enrichment layer E₁.
+Physics *is* E₁.

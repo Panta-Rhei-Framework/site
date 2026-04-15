@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-infere
 prev_chapter_title: "Chapter 73: Modal Logic in τ"
 next_chapter_url: "/publications/books/book-vii/part-06-categorical-logic-inference/chapter-75-the-diagrammatic-sector-synthesis/"
 next_chapter_title: "Chapter 75: The Diagrammatic Sector Synthesis"
-summary_short: "At the lemniscate boundary $𝕃 = S^1 ∨ S^1$, the two spectral sectors of the bipolar algebra can disagree: one sector confirms a predicate while the other…"
+summary_short: "At the lemniscate boundary 𝕃 = S¹ ∨ S¹, the two spectral sectors of the bipolar algebra can disagree: one sector confirms a predicate while the other…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-06-categorical-logic-inference/"
@@ -38,13 +38,13 @@ right_rail:
 ---
 
 
-At the lemniscate boundary $𝕃 = S^1 ∨ S^1$, the two
+At the lemniscate boundary 𝕃 = S¹ ∨ S¹, the two
 spectral sectors of the bipolar algebra can disagree: one sector
 confirms a predicate while the other denies it. The result is the
-overdetermined truth value $B$—a structurally real
+overdetermined truth value B—a structurally real
 contradiction. This chapter develops the philosophical import of
 Book I's four-valued logic (Definition I.D21) and the explosion
-barrier (Theorem I.T13): the natural logic of $τ$ is not Boolean
+barrier (Theorem I.T13): the natural logic of τ is not Boolean
 but four-valued, contradictions at boundaries are genuine phenomena
 rather than defects, and yet the system does not collapse because the
 spectral decomposition blocks explosion. Classical logic governs the

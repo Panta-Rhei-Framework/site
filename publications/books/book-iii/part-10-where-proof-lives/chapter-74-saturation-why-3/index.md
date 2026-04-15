@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapte
 prev_chapter_title: "Chapter 73: Four Paradoxes as 2"
 next_chapter_url: "/publications/books/book-iii/part-10-where-proof-lives/chapter-75-the-architecture-of-reality/"
 next_chapter_title: "Chapter 75: The Architecture of Reality"
-summary_short: "the relevant chapter proved the Saturation Theorem (III.T03) abstractly: the enrichment functor $F_E$ applied to $E_3$ yields $E_3$ again, so $E_4 =…"
+summary_short: "the relevant chapter proved the Saturation Theorem (III.T03) abstractly: the enrichment functor F_E applied to E₃ yields E₃ again, so E_4 =…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-10-where-proof-lives/"
@@ -39,8 +39,8 @@ right_rail:
 
 
 the relevant chapter proved the Saturation Theorem (III.T03)
-abstractly: the enrichment functor $F_E$ applied to $E_3$
-yields $E_3$ again, so $E_4 = E_3$.
+abstractly: the enrichment functor F_E applied to E₃
+yields E₃ again, so E₄ = E₃.
 Since then, Parts II–IX have filled every enrichment level with concrete content.
 This chapter revisits saturation with that content in hand,
 testing the abstract collapse against proof theory, ZFC, and Book III itself.

@@ -33,15 +33,15 @@ right_rail:
 The second Millennium cluster builds the enrichment layer itself—the machinery
 that makes local Hartogs bulk projections glue into globally coherent physics.
 
-**Navier–Stokes regularity** is *positive*: regularity equals the existence of a stabilised $ω$-germ,
-not the absence of singularity. The singularity predicate is non-denotable in $τ$.
-NS $=$ Local Hartogs: clopen locality, $ω$-germ determinacy, and defect-horizon contractivity
+**Navier–Stokes regularity** is *positive*: regularity equals the existence of a stabilised ω-germ,
+not the absence of singularity. The singularity predicate is non-denotable in τ.
+NS = Local Hartogs: clopen locality, ω-germ determinacy, and defect-horizon contractivity
 together guarantee smooth continuation—the mortar between local spatial patches.
 
 **Yang–Mills mass gap** falls out from NF discreteness: the tower's built-in granularity
 forbids the continuum limit that would allow the gap to close—the bricks of the spatial structure.
 
-**Hodge** is verified sector by sector: $σ$-fixed characters are NF-addressable,
+**Hodge** is verified sector by sector: σ-fixed characters are NF-addressable,
 providing the blueprint for which patches exist and which structures are spectrally addressable.
 
 ## Chapters

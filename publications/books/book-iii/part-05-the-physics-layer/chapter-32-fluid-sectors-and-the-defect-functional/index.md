@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapte
 prev_chapter_title: "Chapter 31: τ"
 next_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapter-33-the-hartogs-flow-operator/"
 next_chapter_title: "Chapter 33: The Hartogs Flow Operator"
-summary_short: "The $4+1$ sector decomposition (the relevant definition, Ch. 10) was built for boundary characters on $𝕃$. Here we apply the same template…"
+summary_short: "The 4+1 sector decomposition (the relevant definition, Ch. 10) was built for boundary characters on 𝕃. Here we apply the same template…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-05-the-physics-layer/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-The $4+1$ sector decomposition (the relevant definition, Ch. 10) was built for boundary characters on $𝕃$. Here we apply the same template to $τ$-admissible fluid data (the relevant definition, Ch. 34), obtaining a sector-by-sector decomposition of the flow. Each sector inherits the split-complex structure $e_+ / e_-$, and the $ω$-coupling sector mediates inter-sector energy transfer. We then introduce the defect functional $Δ$, which measures how far fluid data deviates from canonical form at a given primorial depth, and prove that $Δ$ is contractive under primorial refinement—the key estimate driving the Positive Regularity Theorem of Chapter 37.
+The 4+1 sector decomposition (the relevant definition, Ch. 10) was built for boundary characters on 𝕃. Here we apply the same template to τ-admissible fluid data (the relevant definition, Ch. 34), obtaining a sector-by-sector decomposition of the flow. Each sector inherits the split-complex structure e_+ / e_-, and the ω-coupling sector mediates inter-sector energy transfer. We then introduce the defect functional Δ, which measures how far fluid data deviates from canonical form at a given primorial depth, and prove that Δ is contractive under primorial refinement—the key estimate driving the Positive Regularity Theorem of Chapter 37.

@@ -40,16 +40,16 @@ right_rail:
 
 the relevant chapter inventoried the meta-logical
 substrate — CIC's structural rules that Book I imported but did not
-earn. One finding stood out: at the object level, $τ$'s diagonal
-discipline ($K5$,
+earn. One finding stood out: at the object level, τ's diagonal
+discipline (K5,
 the relevant definition, I.D03)
 refuses contraction and weakening while preserving exchange.
 This is precisely the structural signature of linear logic.
 This chapter makes the correspondence precise.
 The **Diagonal–Linear Correspondence Theorem**
 (the relevant theorem, I.T37) establishes that
-$K5$'s three constraints map isomorphically onto the
-$!$-free fragment of Girard's linear logic (1987).
+K5's three constraints map isomorphically onto the
+!-free fragment of Girard's linear logic (1987).
 The program monoid of the relevant chapter
 (the relevant definition, I.D14)
 reinterprets as a linear sequent calculus,
@@ -59,7 +59,7 @@ Truth4 (the relevant definition, I.D21)
 acquires a natural explanation
 as the four resource states of linear logic.
 The correspondence was not designed — it was discovered.
-$K5$ was formulated in the 1st Edition
+K5 was formulated in the 1st Edition
 without reference to Girard.
 That the diagonal discipline independently reproduces
 the structural core of linear logic

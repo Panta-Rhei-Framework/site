@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chap
 prev_chapter_title: "Chapter 39: Cyclotomic Fields and Roots of Unity"
 next_chapter_url: "/publications/books/book-i/part-10-lemniscate-characters/chapter-41-spectral-decomposition/"
 next_chapter_title: "Chapter 41: Spectral Decomposition"
-summary_short: "the relevant chapter earned the algebraic lemniscate $𝕃 = (H_τ, ω_𝕃, σ)$ as the pre-geometric boundary of $τ$, and the relevant chapter…"
+summary_short: "the relevant chapter earned the algebraic lemniscate 𝕃 = (H_τ, ω_𝕃, σ) as the pre-geometric boundary of τ, and the relevant chapter…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-10-lemniscate-characters/"
@@ -39,28 +39,28 @@ right_rail:
 
 
 the relevant chapter earned the algebraic lemniscate
-$𝕃 = (H_τ, ω_𝕃, σ)$
-as the pre-geometric boundary of $τ$,
+𝕃 = (H_τ, ω_𝕃, σ)
+as the pre-geometric boundary of τ,
 and the relevant chapter formalized
 the split-complex scalar ring
-$\hatℤ_τ[j]$
+ℤ_τ[j]
 with its idempotent decomposition
-$e_+ = (1+j)/2$, $e_- = (1-j)/2$.
-This chapter develops the *character theory* of $𝕃$:
+e_+ = (1+j)/2, e_- = (1-j)/2.
+This chapter develops the *character theory* of 𝕃:
 ring homomorphisms from the bipolar spectral algebra
 into the split-complex scalars.
-The fundamental characters $χ_+$ and $χ_-$
-project onto the $B$-sector and $C$-sector respectively.
-The polarity character $\tildeχ$
+The fundamental characters χ_+ and χ_-
+project onto the B-sector and C-sector respectively.
+The polarity character χ
 
 is recovered as a character in this formal sense.
-The full character group $Char(𝕃)$
+The full character group Char(𝕃)
 is a group under pointwise multiplication,
 and every character traces back
 to the bipolar partition of primes
 established by the Prime Polarity Theorem
 .
-Characters are the spectral probes of $𝕃$:
+Characters are the spectral probes of 𝕃:
 they detect sector membership
 and will drive the spectral decomposition
 of the relevant chapter

@@ -40,8 +40,8 @@ right_rail:
 
 The neutron exists . But physics is
 not only about being—it is about becoming. In this chapter we encounter
-the first quantum **process**: $β^-$ decay. A single neutron
+the first quantum **process**: β^- decay. A single neutron
 transforms into proton, electron, and antineutrino—and in doing so
 reveals **all five sectors** of the force template from Book III.
-This single process is the Rosetta Stone of Category $τ$: one reaction,
+This single process is the Rosetta Stone of Category τ: one reaction,
 five languages, complete translation.

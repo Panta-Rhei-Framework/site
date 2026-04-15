@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-
 prev_chapter_title: "Chapter 8: Contract with Parts~II–VIII: The Cosmic Stack API"
 next_chapter_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-10-lorentz-without-minkowski-constraint-geometry/"
 next_chapter_title: "Chapter 10: Lorentz Without Minkowski: Constraint Geometry"
-summary_short: "The Generator–Sector Correspondence (Book IV, Chapter 6) assigns the generator $α$ to the D-sector: gravity. But the assignment alone does not produce physics.…"
+summary_short: "The Generator–Sector Correspondence (Book IV, Chapter 6) assigns the generator α to the D-sector: gravity. But the assignment alone does not produce physics.…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-02-the-connection-gravity-earned/"
@@ -40,22 +40,22 @@ right_rail:
 
 The Generator–Sector Correspondence
 (Book IV, Chapter 6)
-assigns the generator $α$ to the D-sector:
+assigns the generator α to the D-sector:
 gravity.
 But the assignment alone does not produce physics.
 A sector label is not a gravitational field.
 What turns the label into dynamics
 is the *frame holonomy*—the
 parallel transport of coherence frames
-around the base circle $τ^1$.
+around the base circle τ¹.
 This chapter derives gravity
 as the canonical gap
-in the D-sector of $H_∂[ω]$,
+in the D-sector of H_∂[ω],
 proves the gravitational constant formula
-$G = (c^3/ℏ) ι_τ^2$
+G = (c³/ℏ) ι_τ²
 from the torus vacuum shape ratio
-$r/R = ι_τ$,
-and establishes the $σ$-equivariance
-of the gravitational coupling $κ_τ = 1 - ι_τ$:
+r/R = ι_τ,
+and establishes the σ-equivariance
+of the gravitational coupling κ_τ = 1 - ι_τ:
 gravity is unpolarized,
 treating both lobes of the lemniscate symmetrically.

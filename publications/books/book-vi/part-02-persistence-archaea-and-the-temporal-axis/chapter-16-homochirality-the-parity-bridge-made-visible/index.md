@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-All known life uses L-amino acids and D-sugars—a universal preference that remains unexplained by classical chemistry. Homochirality is interpreted as the phenomenological shadow of the Parity Bridge Theorem: weak-sector chirality provides the unique polarity seed, and biology inherits this asymmetry. The structural bridge is $τ$-effective; the biological manifestation is conjectural, and strict scope discipline is maintained throughout.
+All known life uses L-amino acids and D-sugars—a universal preference that remains unexplained by classical chemistry. Homochirality is interpreted as the phenomenological shadow of the Parity Bridge Theorem: weak-sector chirality provides the unique polarity seed, and biology inherits this asymmetry. The structural bridge is τ-effective; the biological manifestation is conjectural, and strict scope discipline is maintained throughout.

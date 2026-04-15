@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-progr
 prev_chapter_title: "Chapter 20: Congruence from Canonical Distance"
 next_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-22-wave-type-causal-structure/"
 next_chapter_title: "Chapter 22: Wave-Type Causal Structure"
-summary_short: "Chapters  and  earned betweenness (II.D19, II.T15) and congruence (II.D20, II.T16) from the ultrametric structure on $τ^3$. This…"
+summary_short: "Chapters  and  earned betweenness (II.D19, II.T15) and congruence (II.D20, II.T16) from the ultrametric structure on τ³. This…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/"
@@ -41,7 +41,7 @@ right_rail:
 Chapters  and 
 earned betweenness (II.D19, II.T15)
 and congruence (II.D20, II.T16)
-from the ultrametric structure on $τ^3$.
+from the ultrametric structure on τ³.
 This chapter tackles the two hardest Tarski axioms:
 the **Pasch axiom** (a line entering a triangle
 through one side must exit through another)
@@ -52,10 +52,10 @@ Pasch follows from ultrametric triangle structure;
 the parallel postulate follows from cylinder separability
 at each stage of the primorial tower.
 A critical structural point:
-the parallel postulate *survives* $τ$'s
+the parallel postulate *survives* τ's
 native compactification because the algebraic base
-is hyperbolic ($\jj^2 = +1$), not elliptic ($i^2 = -1$).
+is hyperbolic (j² = +1), not elliptic (i² = -1).
 With this chapter, all Tarski axioms for Euclidean geometry
-are verified within $τ$,
-without importing $ℝ$,
+are verified within τ,
+without importing ℝ,
 Dedekind completeness, or any continuity axiom.

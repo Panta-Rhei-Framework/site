@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Morphogen gradients are Hodge-type differential forms on the developing organism: the gradient field determines cell fate. Turing's reaction-diffusion patterns—spots, stripes, and spirals—arise as Hodge eigenmode patterns, and development from zygote to organism is driven by controlled differentiation via these gradients. Limb bud formation through the Sonic hedgehog gradient illustrates how reaction-diffusion meets $τ^3$ structure.
+Morphogen gradients are Hodge-type differential forms on the developing organism: the gradient field determines cell fate. Turing's reaction-diffusion patterns—spots, stripes, and spirals—arise as Hodge eigenmode patterns, and development from zygote to organism is driven by controlled differentiation via these gradients. Limb bud formation through the Sonic hedgehog gradient illustrates how reaction-diffusion meets τ³ structure.

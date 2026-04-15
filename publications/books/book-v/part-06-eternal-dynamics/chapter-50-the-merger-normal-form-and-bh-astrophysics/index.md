@@ -45,12 +45,12 @@ in the strong-field, highly dynamical regime —
 a problem so difficult
 that it required decades of numerical relativity
 to solve even approximately.
-In Category $τ$,
+In Category τ,
 the situation is structurally simpler.
 A black hole is a single-excision coherent instance
 :
-a region of $τ^3$ where the topological defect
-$d_{top} = 1$
+a region of τ³ where the topological defect
+d_top = 1
 permanently removes a boundary component.
 When two such regions approach each other,
 the coherence kernel forces convergence
@@ -72,4 +72,4 @@ as a coherent-instance readout,
 predicts the black hole mass spectrum
 from the primorial ladder,
 and constructs Wilson loops at cosmic scale
-as holonomy probes of the base $τ^1$.
+as holonomy probes of the base τ¹.

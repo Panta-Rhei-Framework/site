@@ -42,7 +42,7 @@ The Ship of Theseus asks when an entity that changes every part
 remains the same entity. This chapter resolves the puzzle by
 distinguishing substrate persistence from address persistence.
 Identity is not the survival of material constituents but the
-continuity of a normal-form address in $τ^3$: the unique
+continuity of a normal-form address in τ³: the unique
 structural location that individuates a carrier across change.
 Death is addressed as address cessation, and the framework yields a
 principled account of memory, gradual replacement, and branching

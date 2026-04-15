@@ -40,8 +40,8 @@ right_rail:
 
 From helium-4 to iron-56, the nuclear landscape is shaped by two
 organising principles: magic numbers and the binding energy curve.
-Magic numbers (2, 8, 20, 28, 50, 82, 126) mark $T^2$ shell closures;
-the binding energy curve peaks at iron-56, where $T^2$ saturation
+Magic numbers (2, 8, 20, 28, 50, 82, 126) mark T² shell closures;
+the binding energy curve peaks at iron-56, where T² saturation
 efficiency reaches its maximum. This chapter derives both from the
-$τ^3$ framework and traces the nuclear journey from the lightest
+τ³ framework and traces the nuclear journey from the lightest
 to the most tightly bound nucleus.

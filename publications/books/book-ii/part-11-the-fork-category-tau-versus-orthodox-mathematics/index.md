@@ -10,7 +10,7 @@ part_number: 11
 part_display: "Part XI"
 part_slug: "part-11-the-fork-category-tau-versus-orthodox-mathematics"
 chapter_count: 8
-summary_short: "Part XI is the fork: a systematic comparison of Category $τ$ against orthodox mathematics. Books I and II have built an alternative foundation from seven…"
+summary_short: "Part XI is the fork: a systematic comparison of Category τ against orthodox mathematics. Books I and II have built an alternative foundation from seven…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -30,13 +30,13 @@ right_rail:
 ---
 
 
-Part XI is the fork: a systematic comparison of Category $τ$
+Part XI is the fork: a systematic comparison of Category τ
 against orthodox mathematics.
 
 Books I and II have built an alternative foundation
 from seven axioms on five generators,
 culminating in the Central Theorem
-$O(τ^3) ≅ A_{spec}(\Lemniscate)$.
+O(τ³) ≅ A_spec(𝕃).
 Every construction along the way—from
 the coherence kernel through holomorphy,
 topology, geometry, and self-enrichment—differs
@@ -52,27 +52,27 @@ These tools organize the entire audit.
 
 the relevant chapter identifies
 the master pattern: a single algebraic sign,
-$\jj^2 = +1$ versus $i^2 = -1$,
+j² = +1 versus i² = -1,
 propagates through twelve levels
 of mathematical structure.
 The sign is not a choice—it is forced
-by prime polarity (I.T05 $→$ I.T10).
+by prime polarity (I.T05 → I.T10).
 
 Chapters 
 and  map what survives the fork
 and what does not.
-Mode A objects (primes, $π$, $e$, $ℕ$)
+Mode A objects (primes, π, e, ℕ)
 are identical; Mode B objects
 (constructive reals, split-complex holomorphy,
 Stone topology) satisfy the same axioms
 on different carriers.
 Mode C objects (uncountable sets,
-$ε$-$δ$ limits, conformal maps)
+ε-δ limits, conformal maps)
 are structurally blocked—each refusal
 a necessary consequence of categoricity.
 
 Chapters  and 
-catalogue what $τ$ provides.
+catalogue what τ provides.
 Mode D objects (categoricity, rigidity,
 the Central Theorem, the Parallel Postulate
 as theorem) are structurally impossible
@@ -85,7 +85,7 @@ the relevant chapter assembles
 the master trade-off: 49 gains against 16 costs,
 organized by five thematic patterns.
 The structural incompatibility theorem
-(II.T43) proves that unique global $ω$
+(II.T43) proves that unique global ω
 and Archimedean local density cannot coexist:
 the fork is not a design decision but
 a mathematical necessity.
@@ -99,7 +99,7 @@ and a complete physics stack emerges
 from one constant and one empirical anchor
 (Books IV–V).
 Two books. One fork. Everything that follows
-lives on the side of $\jj^2 = +1$.
+lives on the side of j² = +1.
 
 ## Chapters
 

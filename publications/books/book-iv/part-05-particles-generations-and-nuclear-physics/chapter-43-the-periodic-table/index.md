@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and
 prev_chapter_title: "Chapter 42: Stellar Nucleosynthesis"
 next_chapter_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/chapter-44-the-particle-spectrum-complete/"
 next_chapter_title: "Chapter 44: The Particle Spectrum Complete"
-summary_short: "Mendeleev organised the elements by atomic weight and chemical properties. The modern table organises by electron configuration. The $τ$-periodic table goes…"
+summary_short: "Mendeleev organised the elements by atomic weight and chemical properties. The modern table organises by electron configuration. The τ-periodic table goes…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-05-particles-generations-and-nuclear-physics/"
@@ -40,8 +40,8 @@ right_rail:
 
 Mendeleev organised the elements by atomic weight and chemical
 properties. The modern table organises by electron configuration.
-The $τ$-periodic table goes deeper: it organises by $T^2$
+The τ-periodic table goes deeper: it organises by T²
 saturation level of **both** nucleus and electron cloud,
 revealing the periodic table not as an empirical catalogue but as a
-structural consequence of $T^2$ quantisation on
-$τ^3 = τ^1 ×_f T^2$.
+structural consequence of T² quantisation on
+τ³ = τ¹ ×_f T².

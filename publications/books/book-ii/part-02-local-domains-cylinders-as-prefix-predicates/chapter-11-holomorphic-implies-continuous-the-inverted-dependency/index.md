@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-a
 prev_chapter_title: "Chapter 10: The Ultrametric and First Disagreement Depth"
 next_chapter_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-12-split-complex-structure-not-yet-load-bearing/"
 next_chapter_title: "Chapter 12: Split-Complex Structure Not Yet Load-Bearing"
-summary_short: "In classical complex analysis, the logical chain runs: topology $⇒$ limits $⇒$ differentiability $⇒$ holomorphy. Continuity is a *prerequisite*; holomorphy is…"
+summary_short: "In classical complex analysis, the logical chain runs: topology ⇒ limits ⇒ differentiability ⇒ holomorphy. Continuity is a *prerequisite*; holomorphy is…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/"
@@ -39,21 +39,21 @@ right_rail:
 
 
 In classical complex analysis, the logical chain runs:
-topology $⇒$ limits $⇒$ differentiability $⇒$ holomorphy.
+topology ⇒ limits ⇒ differentiability ⇒ holomorphy.
 Continuity is a *prerequisite*;
 holomorphy is a strengthening condition imposed on
 a substrate that is already continuous.
-In Category $τ$, this chain is inverted.
+In Category τ, this chain is inverted.
 Holomorphy — defined combinatorially in Book I
-via $ω$-germ transformer naturality —
+via ω-germ transformer naturality —
 is the primitive concept.
 Continuity is a *consequence*.
 This chapter proves the core inversion:
-every $ω$-germ transformer on $τ^3$
+every ω-germ transformer on τ³
 is continuous with respect to the cylinder topology.
 The proof is short — a three-line lemma
 does all the work — because naturality
 is a stronger condition than continuity.
 The inverted dependency is not cosmetic;
-it reflects the fact that $τ$'s holomorphic structure
+it reflects the fact that τ's holomorphic structure
 is logically prior to its topological structure.

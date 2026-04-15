@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/cha
 prev_chapter_title: "Chapter 19: Worlds, Topos, and Truth-Makers"
 next_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-21-tau-base-fiber-and-the-central-arena/"
 next_chapter_title: "Chapter 21: τ³: Base, Fiber, and the Central Arena"
-summary_short: "Space, metric, dimension, and locality are not postulated but derived from the five generators of Category $τ$. Distance is address-comparison cost: two NF…"
+summary_short: "Space, metric, dimension, and locality are not postulated but derived from the five generators of Category τ. Distance is address-comparison cost: two NF…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-02-categorical-ontology/"
@@ -39,10 +39,10 @@ right_rail:
 
 
 Space, metric, dimension, and locality are not postulated but derived
-from the five generators of Category $τ$. Distance is
+from the five generators of Category τ. Distance is
 address-comparison cost: two NF addresses are close when they share
 a long common prefix. Dimension—specifically,
-$\dim(τ^3) = 3$—is a structural consequence of the fibered
+dim(τ³) = 3—is a structural consequence of the fibered
 product construction, not an empirical input. Locality is the sheaf
 condition applied to the kernel's covering families: a property is
 local when it can be checked on patches and glued. The philosophical

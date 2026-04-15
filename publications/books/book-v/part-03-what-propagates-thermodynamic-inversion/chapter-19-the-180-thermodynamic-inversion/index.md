@@ -52,21 +52,21 @@ This chapter inverts it.
 
 Not by denying the mathematics,
 but by *decomposing* what "entropy" means
-in the $τ$-native framework.
+in the τ-native framework.
 Book IV, the relevant chapter,
 proved that holomorphic entropy
-is non-decreasing along the $α$-orbit.
+is non-decreasing along the α-orbit.
 That proof stands.
 But holomorphic entropy counts *all*
 CR-compatible continuations,
 including those created by refinement itself.
 When the physically relevant component—the
-**defect entropy** $S_{def}$—is
+**defect entropy** S_def—is
 isolated from the refinement-generated component
-$S_{ref}$,
+S_ref,
 a different picture emerges:
-$S_{def}$ is *monotonically decreasing*.
-The $α$-orbit does not create disorder;
+S_def is *monotonically decreasing*.
+The α-orbit does not create disorder;
 it *eliminates* disorder.
 Equilibrium is not maximal chaos
 but minimal defect.

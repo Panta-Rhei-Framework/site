@@ -44,7 +44,7 @@ every boundary-crossing. Where the boundary archetype
  marks the threshold, the mitigation
 archetype provides repair. Genesis 3:21 supplies the structural prototype:
 garments of skin after the opening of eyes—not punishment but protection.
-The $j$-closure verification shows that the mitigation pattern is stable
+The j-closure verification shows that the mitigation pattern is stable
 under refinement: you cannot refine away the need for mitigation after
 boundary-crossing. The mitigation archetype is the structural dual of
 the boundary archetype.

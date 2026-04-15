@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-05-hyperfactorization/chapter
 prev_chapter_title: "Chapter 25: Consequences and the Constructive Substrate"
 next_chapter_url: "/publications/books/book-i/part-06-the-prime-polarity-theorem/chapter-27-the-prime-polarity-theorem/"
 next_chapter_title: "Chapter 27: The Prime Polarity Theorem"
-summary_short: "The Hyperfactorization Theorem gave every object a unique ABCD address. The $A$-coordinate picks out a prime — the dominant prime of the object. But primes are…"
+summary_short: "The Hyperfactorization Theorem gave every object a unique ABCD address. The A-coordinate picks out a prime — the dominant prime of the object. But primes are…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-06-the-prime-polarity-theorem/"
@@ -40,18 +40,18 @@ right_rail:
 
 The Hyperfactorization Theorem gave every object
 a unique ABCD address.
-The $A$-coordinate picks out a prime —
+The A-coordinate picks out a prime —
 the dominant prime of the object.
 But primes are not mere labels.
-Each prime $p$ appears as the $A$-coordinate
+Each prime p appears as the A-coordinate
 of infinitely many objects,
 and for each such object,
-the $B$- and $C$-coordinates record how $p$
+the B- and C-coordinates record how p
 is stacked (exponent vs. tetration height).
 Does this stacking pattern reveal global structure
-about $p$ itself?
+about p itself?
 This is the *spectral question*:
 when we look at the full population of objects
-for which $p$ is dominant,
-does the $B$/$C$ interaction
+for which p is dominant,
+does the B/C interaction
 show a systematic asymmetry?

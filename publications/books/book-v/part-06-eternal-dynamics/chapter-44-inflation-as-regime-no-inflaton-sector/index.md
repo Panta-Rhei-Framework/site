@@ -53,15 +53,15 @@ the inflaton — whose potential energy
 dominates the energy budget
 and produces a nearly de Sitter expansion.
 
-Category $τ$ agrees that the early universe
+Category τ agrees that the early universe
 underwent rapid expansion.
 But it disagrees on the mechanism.
 The inflationary epoch is a **regime**
-of the same $τ$-Einstein equation —
+of the same τ-Einstein equation —
 not a new phase driven by a new field.
 The **Regime Invariance Theorem**
 
-states that the $τ$-Einstein equation
+states that the τ-Einstein equation
 is invariant across all regimes.
 The **Inflaton No-Go Corollary**
 (Corollary [cor:ch47-inflaton-no-go])
@@ -72,4 +72,4 @@ no sixth sector exists,
 so no inflaton sector exists.
 The flatness and horizon problems
 are resolved not by inflation
-but by the compactness of $τ^3$.
+but by the compactness of τ³.

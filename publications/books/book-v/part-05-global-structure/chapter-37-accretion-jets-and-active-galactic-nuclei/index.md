@@ -60,23 +60,23 @@ is unified only by an orientation-dependent
 "unified model" whose underlying geometry
 remains unexplained.
 
-In Category $τ$, accretion has a topological origin.
-The $τ^3$ fibration is a torus $T^2$
-fibered over a circle $τ^1$.
+In Category τ, accretion has a topological origin.
+The τ³ fibration is a torus T²
+fibered over a circle τ¹.
 The compact object is a coherent instance—a
 localized concentration of boundary holonomy
-on $\Lemniscate$.
+on 𝕃.
 Matter approaching such an instance
 follows the geodesics of the boundary-character
 metric (Part II, the relevant chapter),
-and the topology of $T^2$
+and the topology of T²
 forces these geodesics into a specific pattern:
 an **accretion funnel**
 converging on the equatorial plane of the torus
 .
 
 Jets are equally topological.
-The axis of the torus $T^2$
+The axis of the torus T²
 is a one-dimensional channel
 through which energy and momentum
 can escape without crossing
@@ -87,7 +87,7 @@ proves that the topological index
 of the torus axis
 forces jet opening angles
 below a critical bound
-determined by the shape ratio $ι_τ$.
+determined by the shape ratio ι_τ.
 AGN are then classified
 not by ad hoc orientation angles
 but by the **lifecycle phase**
@@ -95,4 +95,4 @@ of the coherent instance
 ,
 with quasars, Seyferts, and radio galaxies
 as different readout projections
-of the same underlying $T^2$ structure.
+of the same underlying T² structure.

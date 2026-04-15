@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/cha
 prev_chapter_title: "Chapter 20: Geometry from Generators"
 next_chapter_url: "/publications/books/book-vii/part-02-categorical-ontology/chapter-22-boundary-and-bulk-boundary-duality/"
 next_chapter_title: "Chapter 22: Boundary and Bulk-Boundary Duality"
-summary_short: "The fibered product $τ^3 = τ^1 ×_f T^2$ is the central object of the entire series. Its base $τ^1$ governs the macrocosm (gravity, cosmology, large-scale…"
+summary_short: "The fibered product τ³ = τ¹ ×_f T² is the central object of the entire series. Its base τ¹ governs the macrocosm (gravity, cosmology, large-scale…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-02-categorical-ontology/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-The fibered product $τ^3 = τ^1 ×_f T^2$ is the central
-object of the entire series. Its base $τ^1$ governs the macrocosm
+The fibered product τ³ = τ¹ ×_f T² is the central
+object of the entire series. Its base τ¹ governs the macrocosm
 (gravity, cosmology, large-scale structure; Book V) and its fiber
-$T^2$ governs the microcosm (quantum mechanics, particle physics;
-Book IV). The boundary $𝕃 = S^1 ∨ S^1$ is the
+T² governs the microcosm (quantum mechanics, particle physics;
+Book IV). The boundary 𝕃 = S¹ ∨ S¹ is the
 lemniscate—the figure-eight that encodes duality at the topological
-level. The Central Theorem of Book II, $O(τ^3) ≅
-A_{spec}(𝕃)$, establishes a holographic
+level. The Central Theorem of Book II, O(τ³) ≅
+A_spec(𝕃), establishes a holographic
 correspondence: the interior of the arena is completely determined by
 its boundary. This chapter presents the philosophical import of these
 structures—not as technical recalls but as ontological claims about

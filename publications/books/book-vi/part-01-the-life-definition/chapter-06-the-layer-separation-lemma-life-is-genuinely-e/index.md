@@ -42,8 +42,8 @@ The sharpest formal result of the book: SelfDesc is not automatic for all
 refinement-coherent distinctions. A neutron star near the TOV limit provides
 the canonical counterexample—it has a conditionally stable distinction
 satisfying all five conditions of the relevant chapter, yet
-boundary instability prevents the evaluator $Eval_X$ from converging
+boundary instability prevents the evaluator Eval_X from converging
 to a fixed point, so SelfDesc fails. The proof is constructive, not abstract:
 we exhibit the system, verify the five conditions, and demonstrate the failure
-mode. This establishes $E_2$ as genuinely non-reducible to $E_1$; the gap
+mode. This establishes E₂ as genuinely non-reducible to E₁; the gap
 between physics and life is real.

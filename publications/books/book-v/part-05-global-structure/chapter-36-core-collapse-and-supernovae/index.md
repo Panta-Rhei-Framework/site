@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-3
 prev_chapter_title: "Chapter 35: The Compact-Object Ladder"
 next_chapter_url: "/publications/books/book-v/part-05-global-structure/chapter-37-accretion-jets-and-active-galactic-nuclei/"
 next_chapter_title: "Chapter 37: Accretion, Jets, and Active Galactic Nuclei"
-summary_short: "A massive star ($M_{ZAMS} \\gtrsim 8 M_\\odot$) fuses heavier and heavier elements in concentric shells: hydrogen, helium, carbon, neon, oxygen, silicon. When…"
+summary_short: "A massive star (M_ZAMS ≳ 8 M_☉) fuses heavier and heavier elements in concentric shells: hydrogen, helium, carbon, neon, oxygen, silicon. When…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-05-global-structure/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-A massive star ($M_{ZAMS} \gtrsim 8 M_\odot$)
+A massive star (M_ZAMS ≳ 8 M_☉)
 fuses heavier and heavier elements
 in concentric shells:
 hydrogen, helium, carbon, neon, oxygen, silicon.
@@ -52,18 +52,18 @@ in the universe:
 a core-collapse supernova.
 
 This chapter interprets the collapse
-in the language of Category $τ$.
+in the language of Category τ.
 The trigger is not a failure of pressure support
 in the naïve sense.
 It is the **opening of a topological channel**—a
 transition in the defect functional
-from $d_{top} = 0$
-to $d_{top} > 0$—that
+from d_top = 0
+to d_top > 0—that
 occurs when the GR tension
-(the difference between the $D$-sector curvature
+(the difference between the D-sector curvature
 and the fiber-sector pressure)
 exceeds a critical threshold
-(\S).
+(§).
 
 The explosion mechanism
 (the "bounce and revival" of the shock)
@@ -72,16 +72,16 @@ the topological channel that opened inward
 during collapse
 reverses direction at nuclear density,
 driving a shock outward
-(\S).
+(§).
 The neutrino-driven mechanism
-is a $A$-sector (Weak) energy transfer
+is a A-sector (Weak) energy transfer
 from the proto-neutron star to the stalled shock
-(\S).
+(§).
 
 The chapter closes with the nucleosynthesis bridge
-(\S):
+(§):
 the explosive environment
 forges elements heavier than iron
-through rapid neutron capture (the $r$-process),
+through rapid neutron capture (the r-process),
 connecting the death of a star
 to the periodic table of Book IV.

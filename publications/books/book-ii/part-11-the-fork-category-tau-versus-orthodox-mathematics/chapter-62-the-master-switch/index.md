@@ -42,10 +42,10 @@ the relevant chapter introduced
 five comparison modes and six axes.
 Before we apply them mode by mode,
 this chapter identifies the **structural source**
-of all differences between Category $τ$
+of all differences between Category τ
 and orthodox mathematics:
 a single algebraic sign,
-$\jj^2 = +1$ versus $i^2 = -1$.
+j² = +1 versus i² = -1.
 
 That sign propagates through twelve levels
 of mathematical structure,
@@ -54,7 +54,7 @@ At each level, the two choices produce
 qualitatively different outcomes.
 The sign is not a design decision:
 it is forced by Prime Polarity
-(I.T05 $→$ I.T10).
+(I.T05 → I.T10).
 
 This chapter consolidates three perspectives:
 the twelve-level cascade

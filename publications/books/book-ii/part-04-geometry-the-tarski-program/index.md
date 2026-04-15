@@ -38,12 +38,12 @@ parallel to (not dependent on) the fine-grain topological readout of Part III.
 Five chapters earn betweenness, congruence, Pasch, and the parallel postulate
 as theorems—not axioms.
 
-the relevant chapter defines the betweenness relation $B(x,y,z)$ from
+the relevant chapter defines the betweenness relation B(x,y,z) from
 ultrametric ordering on NF prefixes.
 **Theorem II.T15** verifies that betweenness satisfies Tarski axioms T1–T3.
 
-the relevant chapter defines congruence $≅$ from the canonical
-ultrametric distance $d(x,y) = 2^{-δ(x,y)}$.
+the relevant chapter defines congruence ≅ from the canonical
+ultrametric distance d(x,y) = 2^{-δ(x,y)}.
 **Theorem II.T16** verifies Tarski congruence axioms C1–C6.
 Euclidean congruence emerges from a non-Archimedean base.
 
@@ -55,16 +55,16 @@ the parallel postulate follows from cylinder separability.
 the relevant chapter explains that split-complex holomorphy
 generates wave-type PDEs (not Laplacian).
 Characteristic curves define a causal structure.
-Euclidean geometry emerges as the static limit (wave speed $→ ∞$).
+Euclidean geometry emerges as the static limit (wave speed → ∞).
 
 the relevant chapter outlines the denotation map
-from $τ$-geometry to classical Euclidean geometry.
-$ℝ^4$ appears as a limit of $τ$-approximations,
+from τ-geometry to classical Euclidean geometry.
+ℝ^4 appears as a limit of τ-approximations,
 not as an ambient space.
 This bridges to the calibration dictionary of Part V.
 
 Together, these five chapters show that Euclidean geometry is
-a *theorem* in $τ$, earned from the axioms.
+a *theorem* in τ, earned from the axioms.
 
 ## Chapters
 

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/ch
 prev_chapter_title: "Chapter 14: Three Levels of Sameness"
 next_chapter_url: "/publications/books/book-i/part-04-the-abcd-coordinate-chart/chapter-16-internal-primes-and-divisibility/"
 next_chapter_title: "Chapter 16: Internal Primes and Divisibility"
-summary_short: "The strict order $K1$ governs the five generators. With the full arithmetic of $τ$-Idx now available, we extend this order to all of $\\Obj(τ)$, producing a…"
+summary_short: "The strict order K1 governs the five generators. With the full arithmetic of τ-Idx now available, we extend this order to all of Obj(τ), producing a…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-03-the-denotational-bridge/"
@@ -38,14 +38,14 @@ right_rail:
 ---
 
 
-The strict order $K1$ governs the five generators.
-With the full arithmetic of $τ$-Idx now available,
-we extend this order to all of $\Obj(τ)$,
+The strict order K1 governs the five generators.
+With the full arithmetic of τ-Idx now available,
+we extend this order to all of Obj(τ),
 producing a well-ordering that respects the orbit structure.
-This *denotational order* is the canonical linear order on $τ$:
+This *denotational order* is the canonical linear order on τ:
 it determines the position of every object in the universe.
 We prove that the denotational order is a well-ordering
-and sketch the Hasse diagram of $\Obj(τ)$.
+and sketch the Hasse diagram of Obj(τ).
 The chapter closes with a forward look to Parts IV–XV,
 outlining the road from these bare-metal foundations
 to the full edifice of mathematics.

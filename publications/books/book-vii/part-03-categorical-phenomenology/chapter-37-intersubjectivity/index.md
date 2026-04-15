@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-03-categorical-phenomenolog
 prev_chapter_title: "Chapter 36: Temporal Structure of Experience"
 next_chapter_url: "/publications/books/book-vii/part-03-categorical-phenomenology/chapter-38-embodiment-and-the-lived-body/"
 next_chapter_title: "Chapter 38: Embodiment and the Lived Body"
-summary_short: "How do self-modelling systems ($E_3$ observers) recognize other self-modelling systems? This chapter develops the structural conditions for empathy, theory of…"
+summary_short: "How do self-modelling systems (E₃ observers) recognize other self-modelling systems? This chapter develops the structural conditions for empathy, theory of…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-03-categorical-phenomenology/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-How do self-modelling systems ($E_3$ observers) recognize other
+How do self-modelling systems (E₃ observers) recognize other
 self-modelling systems? This chapter develops the structural
 conditions for empathy, theory of mind, and objectivity within the
 sheaf framework. The central move: objectivity is perspectival

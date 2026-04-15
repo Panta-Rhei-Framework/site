@@ -48,20 +48,20 @@ Pasch (II.T17),
 the parallel postulate (II.T18),
 and wave-type causal structure
 with the Euclidean static limit.
-All of this was internal to $τ$—no
+All of this was internal to τ—no
 real numbers, no classical continuum,
 no ambient Euclidean space.
-But classical mathematics works in $ℝ^4$.
+But classical mathematics works in ℝ^4.
 How do the two connect?
 This chapter constructs the **denotation map**
-$den : τ^3 → ℝ^4$
-by sending each $τ$-admissible point
-to the limit of its stage-$k$ approximation sequence.
+den : τ³ → ℝ^4
+by sending each τ-admissible point
+to the limit of its stage-k approximation sequence.
 The map is continuous, injective on finite points,
 and preserves all Tarski axioms.
 The key philosophical point:
-$ℝ^4$ appears as the *limit*
-of $τ$-approximations,
-not as an ambient space that contains $τ^3$.
-$τ$ does not sit inside $ℝ^4$;
-rather, $ℝ^4$ is the classical shadow of $τ^3$.
+ℝ^4 appears as the *limit*
+of τ-approximations,
+not as an ambient space that contains τ³.
+τ does not sit inside ℝ^4;
+rather, ℝ^4 is the classical shadow of τ³.

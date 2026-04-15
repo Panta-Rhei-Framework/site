@@ -14,7 +14,7 @@ chapter_slug: "chapter-01-the-hermetic-principle-fiber-complete-base-awaits"
 page_in_book: 3
 next_chapter_url: "/publications/books/book-v/part-01-the-base-itself-time-from-tau/chapter-02-proto-chronos-from-alpha-ticks-to-proper-time/"
 next_chapter_title: "Chapter 2: Proto-Chronos: From α-Ticks to Proper Time"
-summary_short: "The fibered product $τ^3 = τ^1 ×_f T^2$ divides all $E_1$ physics into two halves: the fiber $T^2$ and the base $τ^1$. Book IV completed the fiber. Quantum…"
+summary_short: "The fibered product τ³ = τ¹ ×_f T² divides all E₁ physics into two halves: the fiber T² and the base τ¹. Book IV completed the fiber. Quantum…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-00-the-hermetic-principle/"
@@ -36,24 +36,24 @@ right_rail:
 ---
 
 
-The fibered product $τ^3 = τ^1 ×_f T^2$
-divides all $E_1$ physics into two halves:
-the fiber $T^2$ and the base $τ^1$.
+The fibered product τ³ = τ¹ ×_f T²
+divides all E₁ physics into two halves:
+the fiber T² and the base τ¹.
 Book IV completed the fiber.
 Quantum mechanics, the four gauge forces,
 the particle spectrum, coupling constants,
 and the electron mass prediction
 were all derived from the boundary holonomy algebra
-$H_∂[ω]$ restricted to the fiber sectors.
+H_∂[ω] restricted to the fiber sectors.
 This chapter frames what remains.
-The base $τ^1$, governed by the generators
-$α$ (Gravity) and $π$ (Weak),
+The base τ¹, governed by the generators
+α (Gravity) and π (Weak),
 must deliver time, gravitational dynamics,
 thermodynamic inversion, black hole structure,
 cosmological architecture, and the closing identity
 that links the gravitational constant
-to the master constant $ι_τ$.
+to the master constant ι_τ.
 The Hermetic Principle states that the union
-fiber $+$ base is *exact*:
-$τ^3$ exhausts all physics at enrichment layer $E_1$,
+fiber + base is *exact*:
+τ³ exhausts all physics at enrichment layer E₁,
 with nothing left over and nothing missing.

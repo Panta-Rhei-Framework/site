@@ -32,7 +32,7 @@ right_rail:
 
 What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer
 captures a necessary condition but none is sufficient: fire metabolizes, mules don't reproduce,
-crystals grow, computers process information. Book VI is the second self-enrichment layer $E_2$:
+crystals grow, computers process information. Book VI is the second self-enrichment layer E₂:
 where the kernel's physical structure becomes capable of recognizing itself. Two earned predicates
 —Distinction and SelfDesc—replace every classical laundry list, and the 4+1 sector template
 organizes all of biology by structural role.

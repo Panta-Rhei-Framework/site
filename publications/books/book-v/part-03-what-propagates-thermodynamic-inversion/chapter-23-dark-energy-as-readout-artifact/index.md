@@ -42,11 +42,11 @@ In 1998,
 observations of Type Ia supernovae riess1998observational,perlmutter1999measurements
 revealed that the expansion of the universe
 is accelerating.
-The standard cosmological model ($Λ$CDM)
+The standard cosmological model (ΛCDM)
 attributes this acceleration
-to a *cosmological constant* $Λ$—a
+to a *cosmological constant* Λ—a
 uniform energy density filling all of space,
-comprising $\sim 68%$ of the total cosmic energy budget.
+comprising ∼ 68% of the total cosmic energy budget.
 This substance is called *dark energy*.
 Nobody knows what it is.
 Its only observational signature
@@ -58,7 +58,7 @@ but the dark energy is not.
 "Dark energy" is diagnosed
 as a **readout artifact**:
 a base-progression phenomenon
-on $τ^1$
+on τ¹
 misinterpreted as an energy component
 by the orthodox readout functor.
 No cosmological constant is needed.
@@ -67,10 +67,10 @@ The 68% of the cosmic budget
 attributed to dark energy
 vanishes when the correct readout is applied.
 
-The structural dissolution is $τ$-effective:
+The structural dissolution is τ-effective:
 it follows from the thermodynamic inversion
 (Chapters 21–25),
-the $τ$-Einstein equation (Part II),
+the τ-Einstein equation (Part II),
 and the cosmological readout
 .
 The quantitative prediction

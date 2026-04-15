@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-03-topology-and-global-shape
 prev_chapter_title: "Chapter 17: Torus Degeneration and the Geometric Lemniscate"
 next_chapter_url: "/publications/books/book-ii/part-04-geometry-the-tarski-program/chapter-19-betweenness-from-ultrametric/"
 next_chapter_title: "Chapter 19: Betweenness from Ultrametric"
-summary_short: "Part III has proved that $τ^3$ is a Stone space: compact (II.T07), Hausdorff (II.T08), and totally disconnected (II.T09). The only connected subsets are…"
+summary_short: "Part III has proved that τ³ is a Stone space: compact (II.T07), Hausdorff (II.T08), and totally disconnected (II.T09). The only connected subsets are…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-03-topology-and-global-shape/"
@@ -38,7 +38,7 @@ right_rail:
 ---
 
 
-Part III has proved that $τ^3$ is a Stone space:
+Part III has proved that τ³ is a Stone space:
 compact (II.T07), Hausdorff (II.T08),
 and totally disconnected (II.T09).
 The only connected subsets are singletons.
@@ -59,7 +59,7 @@ We state the **two-readout principle**,
 define **address-space connectivity**
 via the normal-form structure,
 and show that **refinement rays**
-provide the canonical paths in $τ$.
+provide the canonical paths in τ.
 This chapter is the capstone of Part III
 and the bridge to Part IV,
 where Euclidean geometry will be earned

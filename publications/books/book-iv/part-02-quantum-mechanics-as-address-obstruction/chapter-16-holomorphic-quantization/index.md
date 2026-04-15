@@ -40,6 +40,6 @@ right_rail:
 
 With Hilbert space established, we now derive the quantum formalism.
 Operators, commutators, expectation values—all emerge from the
-holomorphic structure of $τ^3$. This is quantization without
-canonical prescription. And most remarkably: $ℏ$ itself emerges
+holomorphic structure of τ³. This is quantization without
+canonical prescription. And most remarkably: ℏ itself emerges
 as a geometric constant of the bi-rotating torus.
