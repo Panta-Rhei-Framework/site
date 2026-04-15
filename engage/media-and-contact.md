@@ -64,9 +64,9 @@ For all other correspondence — readers, supporters, general questions, suggest
 
 ## Additional Resources
 
-- **[Series Prospectus]({{ '/publications/white-papers/#series-prospectus' | relative_url }})** — 23-page reference document for academics and institutions
-- **[Falsification Pack]({{ '/publications/white-papers/#falsification-pack' | relative_url }})** — 220+ quantitative predictions with precision claims
-- **[Reviewer's Dossier]({{ '/publications/white-papers/#reviewers-dossier' | relative_url }})** — factual substrate for evaluators
+- **[Series Prospectus]({{ '/assets/media/series-prospectus.pdf' | relative_url }})** — 23-page reference document for academics and institutions (PDF)
+- **[Falsification Pack]({{ '/assets/media/falsification-pack.pdf' | relative_url }})** — 220+ quantitative predictions with precision claims (PDF)
+- **[Reviewer's Dossier]({{ '/assets/media/reviewers-dossier.pdf' | relative_url }})** — factual substrate for evaluators (PDF)
 - **[About the Research]({{ '/research-program/about/' | relative_url }})** — what the program is and how to engage
 
 ---

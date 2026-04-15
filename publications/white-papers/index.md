@@ -25,14 +25,14 @@ right_rail:
 
 ## Available White Papers
 
-| Document | Pages | Audience |
-|----------|:-----:|----------|
-| **Falsification Pack**{: #falsification-pack} | 8 | Physicists, experimentalists |
-| **Lean Verification Report**{: #lean-verification-report} | 6 | Formal methods, mathematicians |
-| **Reviewer's Dossier**{: #reviewers-dossier} | 4 | Journal reviewers, evaluators |
-| **Reader's Guide**{: #readers-guide} | 3 | All readers |
-| **Series Prospectus**{: #series-prospectus} | 23 | Academics, institutions |
-| **Seminar Abstracts**{: #seminar-abstracts} | 4 | Seminar organizers |
-| **Category τ at a Glance**{: #category-tau-at-a-glance} | 1 | Everyone |
+| Document | Pages | Audience | Download |
+|----------|:-----:|----------|----------|
+| **Falsification Pack**{: #falsification-pack} | 8 | Physicists, experimentalists | [PDF]({{ '/assets/media/falsification-pack.pdf' | relative_url }}) |
+| **Lean Verification Report**{: #lean-verification-report} | 6 | Formal methods, mathematicians | [PDF]({{ '/assets/media/lean-verification-report.pdf' | relative_url }}) |
+| **Reviewer's Dossier**{: #reviewers-dossier} | 4 | Journal reviewers, evaluators | [PDF]({{ '/assets/media/reviewers-dossier.pdf' | relative_url }}) |
+| **Reader's Guide**{: #readers-guide} | 3 | All readers | [PDF]({{ '/assets/media/readers-guide.pdf' | relative_url }}) |
+| **Series Prospectus**{: #series-prospectus} | 23 | Academics, institutions | [PDF]({{ '/assets/media/series-prospectus.pdf' | relative_url }}) |
+| **Seminar Abstracts**{: #seminar-abstracts} | 4 | Seminar organizers | [PDF]({{ '/assets/media/seminar-abstracts.pdf' | relative_url }}) |
+| **Category τ at a Glance**{: #category-tau-at-a-glance} | 1 | Everyone | [PDF]({{ '/assets/media/category-tau-at-a-glance.pdf' | relative_url }}) |
 
-White papers will be made available as PDF downloads. For advance copies, contact [contact@panta-rhei.site](mailto:contact@panta-rhei.site).
+All white papers are available as free PDF downloads.
