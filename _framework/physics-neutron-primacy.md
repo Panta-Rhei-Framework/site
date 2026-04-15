@@ -5,6 +5,17 @@ layer: E1
 strand: microcosm
 summary_short: The neutron is the first stable ontic particle — all others derive
   from it.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-neutron-primacy-defect-bundle.svg
+  caption: "Concept map for defect bundles: the topological data of T² determines a defect bundle D whose sections, charge classification, and holonomy group encode the quantum numbers of Standard Model fields."
+  alt: "Concept map for defect bundles: the topological data of T² determines a defect bundle D whose sections, charge classification, and holonomy group encode the…"
+  source: "Book IV, Chapter 4"
+  label: "fig:bookIV-ch04-defect-bundle"
+- src: /assets/diagrams/framework/book-iv/physics-neutron-primacy-torus-arena.svg
+  caption: "The torus arena T² as a fundamental domain: the square with opposite edges identified, with two independent cycles generating the homology H₁(T²;ℤ) ≅ ℤ²."
+  alt: "The torus arena T² as a fundamental domain: the square with opposite edges identified, with two independent cycles generating the homology H₁(T²;ℤ) ≅ ℤ²."
+  source: "Book IV, Chapter 3"
+  label: "fig:bookIV-ch03-torus-arena"
 thesis: The neutron emerges as the minimal stable defect on T²; bi-rotation at speed
   c with phase-lock ι_τ gives E = mc².
 canonical_books:

@@ -5,6 +5,12 @@ layer: E1
 strand: microcosm
 summary_short: ONE dimensional parameter, ZERO free dimensionless constants — the
   zoo becomes a garden.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-self-description-self-desc.svg
+  caption: "Self-describing closure: Category τ is its own model — the framework that describes physical structure is itself an object within that structure."
+  alt: "Self-describing closure: Category τ is its own model — the framework that describes physical structure is itself an object within that structure."
+  source: "Book IV, Chapter 73"
+  label: "fig:bookIV-ch73-self-desc"
 thesis: The entire particle spectrum and all coupling constants derive from τ³ structure;
   the universe is self-describing.
 canonical_books:

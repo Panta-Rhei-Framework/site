@@ -5,6 +5,17 @@ layer: E1
 strand: microcosm
 summary_short: 9 electroweak predictions from 0 free parameters — the five sectors
   in concert.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-electroweak-synthesis-ew-mixing.svg
+  caption: "Electroweak mixing triangle: SU(2)_L and U(1)_Y gauge fields mix via the Weinberg angle θ_W to produce Z⁰ and γ. sin²θ_W is derived from ι_τ."
+  alt: "Electroweak mixing triangle: SU(2)_L and U(1)_Y gauge fields mix via the Weinberg angle θ_W to produce Z⁰ and γ. sin²θ_W is derived from ι_τ."
+  source: "Book IV, Chapter 25"
+  label: "fig:bookIV-ch25-ew-mixing"
+- src: /assets/diagrams/framework/book-iv/physics-electroweak-synthesis-sector-atlas.svg
+  caption: "Sector atlas of Book IV: Standard Model particles classified by sector label. Each sector corresponds to one force of nature."
+  alt: "Sector atlas of Book IV: Standard Model particles classified by sector label. Each sector corresponds to one force of nature."
+  source: "Book IV, Chapter 34"
+  label: "fig:bookIV-ch34-sector-atlas"
 thesis: EM, Weak, Strong, Gravity, and Higgs form a closed algebra; confinement admits
   only colour-neutral hadrons.
 canonical_books:

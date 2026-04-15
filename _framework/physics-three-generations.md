@@ -4,6 +4,12 @@ module_id: E1-005
 layer: E1
 strand: microcosm
 summary_short: π₁(τ³) ≅ ℤ³ — three generations from topology, not postulate.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-three-generations-three-gen.svg
+  caption: "Three generations from the topology of T²: the first homology group H₁(τ³;ℤ) ≅ ℤ³ has rank three, and the three primitive winding classes correspond bijectively to the three generations."
+  alt: "Three generations from the topology of T²: the first homology group H₁(τ³;ℤ) ≅ ℤ³ has rank three, and the three primitive winding classes correspond…"
+  source: "Book IV, Chapter 35"
+  label: "fig:bookIV-ch35-three-gen"
 thesis: The fundamental group of τ³ has rank 3; three winding classes produce three
   stable fermion generations.
 canonical_books:

@@ -4,6 +4,12 @@ module_id: E1-003
 layer: E1
 strand: microcosm
 summary_short: α = (121/225)·ι_τ⁴ at 9.8 ppm — zero free parameters.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-fine-structure-coupling-ledger.svg
+  caption: "The complete coupling ledger: the three gauge coupling constants g₁, g₂, g₃ are derived from ι_τ, κ_D, κ_ω, yielding α, sin²θ_W, and α_s as ratios."
+  alt: "The complete coupling ledger: the three gauge coupling constants g₁, g₂, g₃ are derived from ι_τ, κ_D, κ_ω, yielding α, sin²θ_W, and α_s as ratios."
+  source: "Book IV, Chapter 67"
+  label: "fig:bookIV-ch67-coupling-ledger"
 thesis: The fine-structure constant is derived from the EM-active fraction (11/15)
   of boundary modes; m_n is the single calibration anchor.
 canonical_books:

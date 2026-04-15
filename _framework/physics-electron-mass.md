@@ -4,6 +4,12 @@ module_id: E1-004
 layer: E1
 strand: microcosm
 summary_short: R₀ = ι_τ⁻⁷ − √3·ι_τ⁻² ≈ 1838.7 — mass ratio at 0.025 ppm.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-electron-mass-mass-ratio-chain.svg
+  caption: "The 10-link mass ratio chain from τ³ to m_e. The Epstein zeta function Z(4; iι_τ) extracts ι_τ⁻⁷ from the torus shape; the holonomy correction π³α² brings R₁ to sub-ppm agreement with CODATA."
+  alt: "The 10-link mass ratio chain from τ³ to m_e. The Epstein zeta function Z(4; iι_τ) extracts ι_τ⁻⁷ from the torus shape; the holonomy correction π³α² brings R₁…"
+  source: "Book IV, Chapter 70"
+  label: "fig:bookIV-ch70-mass-ratio-chain"
 thesis: The Epstein zeta at s=4 gives the bulk exponent -7; the lemniscate capacity
   √3 provides the correction.
 canonical_books:

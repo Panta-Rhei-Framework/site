@@ -5,6 +5,12 @@ layer: E1
 strand: microcosm
 summary_short: All five sectors visible in one process — the single event that decodes
   the Standard Model.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-beta-decay-five-sectors.svg
+  caption: "The five spectral sectors in concert: the universe of particles partitions into five sectors (Gravity, EM, Strong, α, Higgs). Every Standard Model field occupies exactly one sector."
+  alt: "The five spectral sectors in concert: the universe of particles partitions into five sectors (Gravity, EM, Strong, α, Higgs). Every Standard Model field…"
+  source: "Book IV, Chapter 9"
+  label: "fig:bookIV-ch09-five-sectors"
 thesis: n → p + e⁻ + ν̄ₑ is a torus reconfiguration displaying all five sectors simultaneously.
 canonical_books:
 - IV

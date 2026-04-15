@@ -4,6 +4,12 @@ module_id: E1-007
 layer: E1
 strand: microcosm
 summary_short: From hydrogen to chemistry — molecular geometry earned from τ³ topology.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-atomic-ladder-complexity.svg
+  caption: "Complexity hierarchy in the τ³ framework: the spectral structure identifies the P vs NP boundary with the diagonal-free discipline of the coherence kernel."
+  alt: "Complexity hierarchy in the τ³ framework: the spectral structure identifies the P vs NP boundary with the diagonal-free discipline of the coherence kernel."
+  source: "Book IV, Chapter 55"
+  label: "fig:bookIV-ch55-complexity"
 thesis: The hydrogen atom bootstraps from calibration; chemistry emerges from electron
   orbital structure.
 canonical_books:

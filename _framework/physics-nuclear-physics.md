@@ -5,6 +5,12 @@ layer: E1
 strand: microcosm
 summary_short: Alpha-particle structure, nuclear binding, and the periodic table from
   confinement.
+diagrams:
+- src: /assets/diagrams/framework/book-iv/physics-nuclear-physics-sm-tau-dict.svg
+  caption: "SM–τ³ translation dictionary: each Standard Model concept corresponds to a precise structural counterpart in the categorical framework."
+  alt: "SM–τ³ translation dictionary: each Standard Model concept corresponds to a precise structural counterpart in the categorical framework."
+  source: "Book IV, Chapter 44"
+  label: "fig:bookIV-ch44-sm-tau-dict"
 thesis: Nuclear physics follows from the strong-sector confinement; stellar nucleosynthesis
   fills the periodic table.
 canonical_books:
