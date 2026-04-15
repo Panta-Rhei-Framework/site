@@ -24,6 +24,12 @@ key_registry:
 depends_on: []
 unlocks:
 - E0-002
+diagrams:
+- src: /assets/diagrams/framework/book-i/mathematics-coherence-kernel-generators.svg
+  caption: "The five generators of Category τ in strict total order α < π < γ < η < ω (axiom K1). Each generator carries a distinct structural role: α as radial/remainder, π as primary solenoidal, γ as secondary solenoidal, η as tertiary solenoidal, and ω as limit/stabilization."
+  alt: "Vertical Hasse diagram showing the five generators α, π, γ, η, ω in ascending order with their structural roles annotated to the right"
+  source: "Book I, Chapter 1, Figure 1"
+  label: "fig:bookI-ch01-generators-order"
 right_rail:
   related:
   - title: Orbit Generation & Ontic Closure
