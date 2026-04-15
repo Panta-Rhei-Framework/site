@@ -5,6 +5,12 @@ layer: E0
 strand: spectrum
 summary_short: Search equals construction at E₂ — the τ-Tower Machine and Product-Meet
   Collapse.
+diagrams:
+- src: /assets/diagrams/framework/book-iii/mathematics-computation-bridge-computational-bisquare.svg
+  caption: "The computational bi-square at E₂: self-referential codes exist natively at the life-enrichment level where the τ-Tower framing gives P vs NP its structural interpretation."
+  alt: "The computational bi-square at E₂: self-referential codes exist natively at the life-enrichment level where the τ-Tower framing gives P vs NP its structural…"
+  source: "Book III, Chapter 58"
+  label: "fig:bookIII-ch58-computational-bisquare"
 thesis: Computation is native to E₂ where self-referential codes exist; the τ-Tower
   Machine model proves that witness search is address resolution, yielding the fourth
   bi-square.

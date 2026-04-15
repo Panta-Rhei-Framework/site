@@ -5,6 +5,12 @@ layer: E0
 strand: spectrum
 summary_short: 'Exactly four enrichment layers: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃. The ladder is structurally
   forced.'
+diagrams:
+- src: /assets/diagrams/framework/book-iii/mathematics-canonical-ladder-enrichment-ladder.svg
+  caption: "The canonical ladder of enrichment: exactly four layers E₀ ⊂ E₁ ⊂ E₂ ⊂ E₃ arise from non-emptiness, strictness, and saturation. No fifth layer exists."
+  alt: "The canonical ladder of enrichment: exactly four layers E₀ ⊂ E₁ ⊂ E₂ ⊂ E₃ arise from non-emptiness, strictness, and saturation. No fifth layer exists."
+  source: "Book III, Chapter 4"
+  label: "fig:bookIII-ch04-enrichment-ladder"
 thesis: Non-emptiness, strictness, and saturation prove exactly four layers exist;
   the (3,2,1,1) distribution yields seven books.
 canonical_books:

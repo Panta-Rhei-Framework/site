@@ -5,6 +5,17 @@ layer: E0
 strand: spectrum
 summary_short: RH, Poincaré, BSD, and Navier-Stokes as instances of one structural
   pattern.
+diagrams:
+- src: /assets/diagrams/framework/book-iii/mathematics-spectral-algebra-trichotomy.svg
+  caption: "The spectral trichotomy: every spectral character is classified as B-type, C-type, or mixed (X), providing the foundation for the Master Schema of Millennium Problems."
+  alt: "The spectral trichotomy: every spectral character is classified as B-type, C-type, or mixed (X), providing the foundation for the Master Schema of Millennium…"
+  source: "Book III, Chapter 19"
+  label: "fig:bookIII-ch19-trichotomy"
+- src: /assets/diagrams/framework/book-iii/mathematics-spectral-algebra-master-schema.svg
+  caption: "The Master Schema: all eight Millennium Problems arranged across enrichment levels and sectors as instances of Mutual Determination. No free parameters, one architectural diagram."
+  alt: "The Master Schema: all eight Millennium Problems arranged across enrichment levels and sectors as instances of Mutual Determination. No free parameters, one…"
+  source: "Book III, Chapter 63"
+  label: "fig:bookIII-ch63-master-schema"
 thesis: The Master Schema frames all Millennium Problems as instances of Mutual Determination
   at different enrichment levels.
 canonical_books:

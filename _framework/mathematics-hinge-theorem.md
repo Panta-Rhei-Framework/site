@@ -5,6 +5,12 @@ layer: E0
 strand: spectrum
 summary_short: Books IV-VII = sector instantiations. The 7-book architecture is derived,
   not chosen.
+diagrams:
+- src: /assets/diagrams/framework/book-iii/mathematics-hinge-theorem-master-schema.svg
+  caption: "The Master Schema arranged as the Hinge Theorem visual: each downstream book's results are sector-restricted instantiations of the same enrichment functor."
+  alt: "The Master Schema arranged as the Hinge Theorem visual: each downstream book's results are sector-restricted instantiations of the same enrichment functor."
+  source: "Book III, Chapter 63"
+  label: "fig:bookIII-ch63-master-schema"
 thesis: Every result in downstream books is a sector-level instantiation of the enrichment
   structure; the architecture is mathematically necessary.
 canonical_books:
