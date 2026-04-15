@@ -5,6 +5,12 @@ layer: E0
 strand: spectrum
 summary_short: Five generators induce four primitive sectors plus one coupling — the
   recurring structural pattern.
+diagrams:
+- src: /assets/diagrams/framework/book-iii/mathematics-sector-template-sector-decomp.svg
+  caption: "The 4+1 sector decomposition induced by the boundary-to-interior functor: four primitive sectors A, B, C, D and one mixed (ω) sector."
+  alt: "The 4+1 sector decomposition induced by the boundary-to-interior functor: four primitive sectors A, B, C, D and one mixed (ω) sector."
+  source: "Book III, Chapter 10"
+  label: "fig:bookIII-ch10-sector-decomp"
 thesis: The boundary-to-interior functor induces exactly 4 primitive sectors (A,B,C,D)
   and 1 ω-coupling sector at every enrichment level.
 canonical_books:

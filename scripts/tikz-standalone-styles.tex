@@ -84,4 +84,80 @@
 % tikz-cd global spacing defaults
 \tikzcdset{every diagram/.append style={column sep=3.5em, row sep=2.5em}}
 
+% ---------------------------------------------------------------------------
+% Math macros from common/tex/preamble.tex and common/tex/macros.tex
+% These are the custom commands used inside TikZ node labels across the manuscripts.
+% ---------------------------------------------------------------------------
+\providecommand{\Q}{\mathbb{Q}}
+\providecommand{\R}{\mathbb{R}}
+\providecommand{\C}{\mathbb{C}}
+\providecommand{\N}{\mathbb{N}}
+\providecommand{\Nzero}{\mathbb{N}_0}
+\providecommand{\Z}{\mathbb{Z}}
+\providecommand{\Tau}{\mathcal{T}}
+\providecommand{\cat}[1]{\mathbf{#1}}
+\providecommand{\I}[1]{I_{#1}}
+\providecommand{\p}[1]{\pi_{#1}}
+\providecommand{\InfSym}{\infty}
+\providecommand{\mul}{\mathbin{\times}}
+\providecommand{\meet}{\mathbin{\wedge}}
+\providecommand{\tet}{\mathbin{\uparrow}}
+\providecommand{\ObjI}{\mathcal{O}_I}
+\providecommand{\ObjPi}{\mathcal{O}_\pi}
+\providecommand{\ObjT}{\mathcal{O}_T}
+\providecommand{\CatT}{\mathcal{T}}
+\providecommand{\Obj}{\mathrm{Obj}}
+\providecommand{\Sh}{\mathrm{Sh}}
+\providecommand{\Char}{\text{Char}}
+\providecommand{\NF}{\texttt{NF}}
+\providecommand{\xmark}{\ensuremath{\times}}
+\providecommand{\colim}{\text{colim}}
+\providecommand{\Succ}{\mathrm{S}}
+\providecommand{\Pred}{\mathrm{R}}
+\providecommand{\Diag}{\mathrm{D}}
+\providecommand{\isPrime}{\ensuremath{\mathrm{isPrime}}}
+\providecommand{\UnDiag}{\mathrm{U}}
+\providecommand{\Cl}{\mathrm{P}}
+\providecommand{\Int}{\mathrm{O}}
+\providecommand{\Enc}{\mathrm{Enc}}
+\providecommand{\Dec}{\mathrm{Dec}}
+\providecommand{\dlex}{d_{\mathrm{lex}}}
+\providecommand{\dLone}{d_{\ell^1}}
+\providecommand{\dT}{d_T}
+\providecommand{\kvec}{\boldsymbol{\kappa}}
+\providecommand{\Hv}{\mathrm{H}}
+\providecommand{\Zinf}[1]{Z_{\InfSym}(#1)}
+% DeclareMathOperator equivalents (expanded for standalone context)
+\providecommand{\degT}{\operatorname{deg}}
+\providecommand{\IsAbsorber}{\operatorname{IsAbsorber}}
+\providecommand{\PP}{\operatorname{PP}}
+\providecommand{\Prime}{\operatorname{Prime}}
+\providecommand{\Prob}{\operatorname{Prob}}
+\providecommand{\abs}{\operatorname{abs}}
+\providecommand{\Hull}{\operatorname{Hull}}
+\providecommand{\Aut}{\operatorname{Aut}}
+\providecommand{\op}{\operatorname{op}}
+\providecommand{\Bet}{\operatorname{Bet}}
+\providecommand{\vp}[2]{v_{#1}(#2)}
+% From macros.tex
+\providecommand{\T}{\mathcal{T}}
+\providecommand{\Cat}{\operatorname{Cat}}
+\providecommand{\Hom}{\operatorname{Hom}}
+\providecommand{\id}{\mathrm{id}}
+\providecommand{\Id}{\mathrm{Id}}
+\providecommand{\NFtimes}{\mathrm{NF}_{\times}}
+\providecommand{\SetT}[1]{\mathsf{Set}_T(#1)}
+\providecommand{\SetAlg}{\mathsf{SetAlg}}
+\providecommand{\Sub}{\mathrm{Sub}}
+\providecommand{\Lie}{\mathrm{Lie}}
+\providecommand{\Elayer}[1]{E_{#1}}
+\providecommand{\Estage}[1]{E_0^{(#1)}}
+\providecommand{\Enrich}{\mathrm{Enrich}}
+\providecommand{\Sector}[1]{\mathfrak{S}_{#1}}
+\providecommand{\MixedSector}{\mathfrak{S}_{\mathrm{mix}}}
+\providecommand{\Lemniscate}{\mathbb{L}}
+\providecommand{\iotatau}{\iota_\tau}
+% Kernel axiom references (used in some diagram labels)
+\providecommand{\KAxiom}[1]{\mathrm{K}_{#1}}
+
 \endinput

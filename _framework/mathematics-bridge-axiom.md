@@ -4,6 +4,12 @@ module_id: E0-021
 layer: E0
 strand: spectrum
 summary_short: The one conjectural postulate and the 4-tier epistemic framework.
+diagrams:
+- src: /assets/diagrams/framework/book-iii/mathematics-bridge-axiom-architecture.svg
+  caption: "The architecture of reality: the enrichment-by-sector grid showing how the Bridge Axiom maps τ-structures to ZFC, with explicit scope discipline (established/τ-effective/conjectural) across each cell."
+  alt: "The architecture of reality: the enrichment-by-sector grid showing how the Bridge Axiom maps τ-structures to ZFC, with explicit scope discipline…"
+  source: "Book III, Chapter 73"
+  label: "fig:bookIII-ch73-architecture"
 thesis: The Bridge Axiom specifies a functor from τ to ZFC; the scope discipline (established,
   τ-effective, conjectural, metaphorical) governs all claims.
 canonical_books:
