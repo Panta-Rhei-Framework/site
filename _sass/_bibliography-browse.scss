@@ -1,0 +1,193 @@
+// Bibliography Browse — filter bar + card grid for /bibliography/browse/
+// Static-first, progressively enhanced by assets/js/bibliography-browse.js
+//
+// This partial adds ONLY the bibliography-specific container/grid/card
+// classes. It intentionally reuses .filter-chip, .sort-chip, .filter-group,
+// .filter-label, .filter-chips, .filter-group-actions, .filter-count,
+// .btn-clear-filters, .btn-link from _results-browse.scss (loaded before
+// this partial in main.scss) because those are truly generic.
+
+.bibliography-browse {
+  .bibliography-browse-intro {
+    margin-bottom: 20px;
+  }
+}
+
+// ---------- Filter / Sort control bar ----------
+.bibliography-browse-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 18px 20px;
+  margin-bottom: 24px;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px) saturate(140%);
+  -webkit-backdrop-filter: blur(10px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: $radius-lg;
+  box-shadow: 0 4px 20px rgba(22, 29, 37, 0.05);
+}
+
+// Status chip active states (cited=green, corpus=gray) matching the
+// results-browse chip-status-r and chip-status-n treatments
+.bibliography-browse-controls {
+  .filter-chip.chip-status-cited.is-active {
+    background: #1e7e34;
+    border-color: #1e7e34;
+    color: #fff;
+  }
+  .filter-chip.chip-status-corpus.is-active {
+    background: #6b7280;
+    border-color: #6b7280;
+    color: #fff;
+  }
+}
+
+// ---------- Results grid ----------
+.bibliography-browse-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(340px, 1fr));
+  gap: 14px;
+
+  @media (max-width: $bp-stack) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.biblio-card {
+  display: block;
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(22, 29, 37, 0.08);
+  border-radius: $radius-lg;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+
+  // Performance: let the browser skip off-screen layout for 1,125 cards.
+  // content-visibility: auto with an intrinsic size hint keeps scrolling
+  // smooth without sacrificing pre-rendered SEO content.
+  content-visibility: auto;
+  contain-intrinsic-size: 320px 220px;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(22, 29, 37, 0.08);
+    border-color: rgba(41, 75, 102, 0.2);
+  }
+
+  &[hidden] {
+    display: none;
+  }
+}
+
+.biblio-card-link {
+  display: block;
+  padding: 18px 20px 16px;
+  text-decoration: none;
+  color: inherit;
+
+  &:hover {
+    text-decoration: none;
+  }
+}
+
+.biblio-card-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+
+  .chip {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+
+.biblio-card-title {
+  font-family: $font-ui;
+  font-size: 1.02rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: $text;
+  margin: 0 0 6px;
+  text-transform: none;
+  letter-spacing: normal;
+
+  // Clamp to 3 lines so long titles don't distort card heights
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+
+  // MathML inside card titles — render inline, inherit styling
+  math {
+    font-family: inherit;
+    font-size: inherit;
+    display: inline;
+  }
+
+  math mi {
+    font-style: italic;
+  }
+}
+
+.biblio-card-meta {
+  font-family: $font-ui;
+  font-size: 0.85rem;
+  color: $text-muted;
+  margin: 0 0 12px;
+  // Clamp authors list to 2 lines for long collaboration author lists
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+}
+
+.biblio-card-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+
+  .chip {
+    margin-right: 0;
+    margin-bottom: 0;
+  }
+}
+
+// ---------- Status badges on cards ----------
+.chip-status-cited {
+  background: rgba(30, 126, 52, 0.1);
+  border-color: rgba(30, 126, 52, 0.3);
+  color: #1e7e34;
+  font-weight: 600;
+}
+
+.chip-status-corpus {
+  background: rgba(107, 114, 128, 0.1);
+  border-color: rgba(107, 114, 128, 0.3);
+  color: #6b7280;
+}
+
+// Role chip — accent-tinted
+.chip-role {
+  background: rgba(41, 75, 102, 0.08);
+  border-color: rgba(41, 75, 102, 0.16);
+  color: $accent;
+}
+
+// ---------- Empty state ----------
+.bibliography-browse-empty {
+  padding: 40px 20px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px dashed rgba(22, 29, 37, 0.15);
+  border-radius: $radius-lg;
+  margin-bottom: 20px;
+
+  p {
+    margin: 0;
+    font-size: 0.95rem;
+    color: $text-muted;
+  }
+}

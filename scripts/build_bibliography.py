@@ -759,6 +759,14 @@ def generate_all(entries, out_collection: Path, dry_run: bool = False):
 
         stats["total"] += 1
 
+        # Compute cited_books: sorted, comma-joined list of unique book
+        # Roman numerals that cite this entry. Used by the bibliography browse
+        # surface for per-book filtering. Empty string for orphans.
+        cited_books_list = sorted(set(
+            c["book"] for c in cited_in_list if c.get("book")
+        ))
+        cited_books_str = ",".join(cited_books_list)
+
         # ── Index data (uses title_plain for JSON safety) ──
         index_entry = {
             "key": key,
@@ -778,6 +786,7 @@ def generate_all(entries, out_collection: Path, dry_run: bool = False):
             "url": f"/bibliography/{slug}/",
             "is_orphan": is_orphan,
             "cited_in_count": len(cited_in_list),
+            "cited_books": cited_books_str,
         }
         index_data.append(index_entry)
         groups[domain].append(index_entry)

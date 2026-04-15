@@ -258,6 +258,8 @@ utility_nav:
 bibliography_nav:
   - title: "Overview"
     url: "/bibliography/"
+  - title: "Browse & Filter"
+    url: "/bibliography/browse/"
   - title: "Foundations and Logic"
     url: "/bibliography/#foundations-and-logic"
   - title: "Category Theory"
