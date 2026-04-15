@@ -141,6 +141,61 @@ ACCENT_DIACRITICS = {
 }
 
 
+# LaTeX literal letter commands (no argument) — standalone special characters
+LITERAL_LETTERS = {
+    r"\ss": "ß",
+    r"\SS": "ẞ",
+    r"\o": "ø",
+    r"\O": "Ø",
+    r"\ae": "æ",
+    r"\AE": "Æ",
+    r"\oe": "œ",
+    r"\OE": "Œ",
+    r"\aa": "å",
+    r"\AA": "Å",
+    r"\i": "ı",  # dotless i
+    r"\j": "ȷ",  # dotless j
+    r"\l": "ł",
+    r"\L": "Ł",
+    r"\dh": "ð",
+    r"\DH": "Ð",
+    r"\th": "þ",
+    r"\TH": "Þ",
+    r"\ng": "ŋ",
+    r"\NG": "Ŋ",
+    r"\dj": "đ",
+    r"\DJ": "Đ",
+    r"\textcopyright": "©",
+    r"\textregistered": "®",
+    r"\textbullet": "•",
+    r"\textdegree": "°",
+    r"\textendash": "–",
+    r"\textemdash": "—",
+    r"\P": "¶",
+    r"\S": "§",
+}
+
+# Sorted by length desc so longer commands match before prefixes (\ss before \s)
+_LITERAL_LETTERS_SORTED = sorted(
+    LITERAL_LETTERS.items(), key=lambda kv: -len(kv[0])
+)
+
+
+def _resolve_literal_letters(text: str) -> str:
+    """Replace LaTeX literal letter commands like \\ss → ß.
+
+    These commands take no argument and represent a single character.
+    Must be followed by a non-letter (end of word, brace, space, etc.)
+    to avoid matching prefixes of other commands.
+    """
+    for cmd, replacement in _LITERAL_LETTERS_SORTED:
+        # \ss must not be followed by another letter (otherwise we'd match
+        # inside longer commands). Use negative lookahead for [a-zA-Z].
+        pattern = re.escape(cmd) + r"(?![a-zA-Z])"
+        text = re.sub(pattern, replacement, text)
+    return text
+
+
 def latex_accents_to_unicode(text: str) -> str:
     """Resolve LaTeX accent commands to Unicode combining characters.
 
@@ -150,7 +205,11 @@ def latex_accents_to_unicode(text: str) -> str:
         Poincar\\'e   → Poincaré
         Erd\\H{o}s    → Erdős
         \\c{s}        → ş
+        Sto\\ss      → Stoß
     """
+    # First: literal letter commands (\ss, \o, \ae, etc.)
+    text = _resolve_literal_letters(text)
+
     # Pattern matches: \ACCENT letter, \ACCENT{letter}, {\ACCENT letter}, {\ACCENT{letter}}
     def replace(match: re.Match) -> str:
         accent = match.group("accent")
@@ -432,6 +491,16 @@ def convert_title(raw: str) -> tuple[str, str]:
 
     Returns (mathml_html, plain_unicode).
     """
+    # Pre-process: handle \texorpdfstring{A}{B} → A (use the TeX form for display)
+    raw = re.sub(
+        r"\\texorpdfstring\s*\{([^{}]*)\}\s*\{[^{}]*\}",
+        r"\1",
+        raw,
+    )
+    # Pre-process: strip \index{...} and \label{...} markers
+    for drop in ["index", "label"]:
+        raw = re.sub(r"\\" + drop + r"\s*\{[^{}]*\}", "", raw)
+
     mathml_parts = []
     plain_parts = []
     for kind, content in _tokenize_dollar_math(raw):
@@ -452,6 +521,11 @@ def convert_title(raw: str) -> tuple[str, str]:
     # HTML/Unicode, so remaining `{` `}` chars are BibTeX casing protection).
     mathml_out = _strip_protective_braces(mathml_out)
     plain_out = _strip_protective_braces(plain_out)
+
+    # Convert LaTeX dashes: --- → em-dash, -- → en-dash
+    # Must run AFTER brace stripping so Yang{--}Mills works.
+    mathml_out = mathml_out.replace("---", "\u2014").replace("--", "\u2013")
+    plain_out = plain_out.replace("---", "\u2014").replace("--", "\u2013")
 
     # Collapse any doubled whitespace introduced by brace stripping
     mathml_out = re.sub(r"\s+", " ", mathml_out).strip()
