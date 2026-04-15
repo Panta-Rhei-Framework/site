@@ -5,6 +5,12 @@ layer: E0
 strand: interior
 summary_short: Five descriptions of holomorphic structure are the same object — the
   5-way equivalence.
+diagrams:
+- src: /assets/diagrams/framework/book-ii/mathematics-mutual-determination-mutual-det.svg
+  caption: "Mutual determination among the five central structures of categorical holomorphy. Each structure uniquely determines the others; the cycle has no free parameters."
+  alt: "Mutual determination among the five central structures of categorical holomorphy. Each structure uniquely determines the others; the cycle has no free…"
+  source: "Book II, Chapter 31"
+  label: "fig:bookII-ch31-mutual-det"
 thesis: Refinement tails, spectral tails, omega-germs, boundary characters, and Hartogs
   continuations are mutually determining via bipolar decomposition.
 canonical_books:
