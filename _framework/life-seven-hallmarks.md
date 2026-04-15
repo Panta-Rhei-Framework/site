@@ -5,6 +5,12 @@ layer: E2
 strand: definition
 summary_short: Organization, metabolism, homeostasis, growth, reproduction, response,
   evolution — all derived.
+diagrams:
+- src: /assets/diagrams/framework/book-vi/life-seven-hallmarks-seven-hallmarks.svg
+  caption: "The bijection φ mapping each classical hallmark of life to a categorical predicate: Metabolism↔energy morphism, Self-replication↔endomorphism, and so on."
+  alt: "The bijection φ mapping each classical hallmark of life to a categorical predicate: Metabolism↔energy morphism, Self-replication↔endomorphism, and so on."
+  source: "Book VI, Chapter 9"
+  label: "fig:bookVI-ch09-seven-hallmarks"
 thesis: The seven classical hallmarks of life follow as logical consequences of Distinction
   ∧ SelfDesc.
 canonical_books:

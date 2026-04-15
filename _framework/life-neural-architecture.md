@@ -5,6 +5,12 @@ layer: E2
 strand: biology
 summary_short: The nervous system as τ³ computer; sleep as temporal lemniscate; consciousness
   at E₂.
+diagrams:
+- src: /assets/diagrams/framework/book-vi/life-neural-architecture-consciousness-boundary.svg
+  caption: "The extended lemniscate ℒ_ext = ℒ ∪ γ_self with a self-referential loop at the boundary crossing. Neural systems implement structural self-models via Eval²(Eval)."
+  alt: "The extended lemniscate ℒ_ext = ℒ ∪ γ_self with a self-referential loop at the boundary crossing. Neural systems implement structural self-models via…"
+  source: "Book VI, Chapter 51"
+  label: "fig:bookVI-ch51-consciousness-boundary"
 thesis: Neural architecture instantiates the consumer sector; consciousness is structural
   self-modeling that bridges to E₃.
 canonical_books:

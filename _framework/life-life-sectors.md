@@ -5,6 +5,12 @@ layer: E2
 strand: sectors
 summary_short: Persistence, Agency, Source, Closure, Consumer — the same template
   that produces four forces.
+diagrams:
+- src: /assets/diagrams/framework/book-vi/life-life-sectors-sector-template.svg
+  caption: "The 4+1 sector template at E₂: five boxed sectors (A, B, C, D, ω). Instantiates Book III's abstract template at the Life layer."
+  alt: "The 4+1 sector template at E₂: five boxed sectors (A, B, C, D, ω). Instantiates Book III's abstract template at the Life layer."
+  source: "Book VI, Chapter 8"
+  label: "fig:bookVI-ch07-sector-template"
 thesis: The 4+1 sector template at E₂ produces five life sectors with biological archetypes.
 canonical_books:
 - VI

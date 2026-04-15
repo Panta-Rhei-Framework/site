@@ -5,6 +5,17 @@ layer: E2
 strand: cosmic-life
 summary_short: The BH merger net converges to ι_τ — the universe tends toward maximal
   aliveness.
+diagrams:
+- src: /assets/diagrams/framework/book-vi/life-crossing-limit-distinction-matrix.svg
+  caption: "The Distinction/SelfDesc matrix showing how BH carriers occupy Quadrant IV (alive). Classificatory framework for cosmic life."
+  alt: "The Distinction/SelfDesc matrix showing how BH carriers occupy Quadrant IV (alive). Classificatory framework for cosmic life."
+  source: "Book VI, Chapter 48"
+  label: "fig:bookVI-ch48-distinction-matrix"
+- src: /assets/diagrams/framework/book-vi/life-crossing-limit-enrichment-regimes.svg
+  caption: "Enrichment regimes showing BH-life as a distinct identity regime (phenotype-stable, genotype-stable, immortal)."
+  alt: "Enrichment regimes showing BH-life as a distinct identity regime (phenotype-stable, genotype-stable, immortal)."
+  source: "Book VI, Chapter 50"
+  label: "fig:bookVI-ch50-enrichment-regimes"
 thesis: Black holes satisfy all seven hallmarks of life formally; the merger-directed
   net converges to the master constant.
 canonical_books:

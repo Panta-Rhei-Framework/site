@@ -5,6 +5,12 @@ layer: E2
 strand: biology
 summary_short: DNA→RNA→Protein as categorical morphism; codon degeneracy as error
   correction.
+diagrams:
+- src: /assets/diagrams/framework/book-vi/life-genetic-code-central-dogma.svg
+  caption: "The Central Dogma as morphism composition: DNA → RNA → Protein with replication as self-loop. The genetic code is a BSD-type structure."
+  alt: "The Central Dogma as morphism composition: DNA → RNA → Protein with replication as self-loop. The genetic code is a BSD-type structure."
+  source: "Book VI, Chapter 27"
+  label: "fig:bookVI-ch27-central-dogma"
 thesis: The genetic code is a BSD-type structure; the Central Dogma is a 2-step functor
   in τ³.
 canonical_books:

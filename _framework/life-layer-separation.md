@@ -5,6 +5,17 @@ layer: E2
 strand: definition
 summary_short: Life is genuinely E₂ — the neutron star counterexample proves the gap
   is real.
+diagrams:
+- src: /assets/diagrams/framework/book-vi/life-layer-separation-distinction-matrix.svg
+  caption: "The Distinction/SelfDesc 2×2 matrix: Quadrant III (Distinction only = bounded-but-not-alive) vs Quadrant IV (Distinction + SelfDesc = alive). Visual proof of layer separation."
+  alt: "The Distinction/SelfDesc 2×2 matrix: Quadrant III (Distinction only = bounded-but-not-alive) vs Quadrant IV (Distinction + SelfDesc = alive). Visual proof of…"
+  source: "Book VI, Chapter 48"
+  label: "fig:bookVI-ch48-distinction-matrix"
+- src: /assets/diagrams/framework/book-vi/life-layer-separation-enrichment-regimes.svg
+  caption: "Enrichment regimes across the E₀–E₃ ladder, showing SelfDesc adds exactly one irreducible predicate at the E₁→E₂ transition."
+  alt: "Enrichment regimes across the E₀–E₃ ladder, showing SelfDesc adds exactly one irreducible predicate at the E₁→E₂ transition."
+  source: "Book VI, Chapter 50"
+  label: "fig:bookVI-ch50-enrichment-regimes"
 thesis: SelfDesc is strictly stronger than Distinction; the physics-to-life transition
   is a genuine enrichment, not complexity.
 canonical_books:

@@ -5,6 +5,17 @@ layer: E2
 strand: definition
 summary_short: Life = Distinction + SelfDesc — two predicates from which all seven
   hallmarks follow.
+diagrams:
+- src: /assets/diagrams/framework/book-vi/life-life-defined-parity-bridge.svg
+  caption: "The parity bridge as A→B→C morphism chain showing the physics-to-life transition via polarity seed."
+  alt: "The parity bridge as A→B→C morphism chain showing the physics-to-life transition via polarity seed."
+  source: "Book VI, Chapter 3"
+  label: "fig:bookVI-ch03-parity-bridge"
+- src: /assets/diagrams/framework/book-vi/life-life-defined-homochirality.svg
+  caption: "Four-force cascade amplifying parity into biochemical preference: the physical structure that enables life's asymmetric biochemistry."
+  alt: "Four-force cascade amplifying parity into biochemical preference: the physical structure that enables life's asymmetric biochemistry."
+  source: "Book VI, Chapter 16"
+  label: "fig:bookVI-ch16-homochirality"
 thesis: A system is alive iff it carries a five-condition distinction that is self-describing
   via an internal evaluator.
 canonical_books:

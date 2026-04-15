@@ -530,7 +530,7 @@
         "rationale": "Shows the physics-to-life transition at the heart of the self-decoding distinction definition."
       },
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part03/ch16-homochirality.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part02/ch16-homochirality.tex",
         "label": "fig:bookVI-ch16-homochirality",
         "caption": "Four-force cascade amplifying parity into biochemical preference: the physical structure that enables life's asymmetric biochemistry.",
         "rationale": "Complements the self-decoding distinction definition by showing physics-level enablement of life's homochirality."
@@ -543,13 +543,13 @@
     "source_parts": ["VI.1"],
     "diagrams": [
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch48-distinction-matrix.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch48-cosmic-life-spectrum.tex",
         "label": "fig:bookVI-ch48-distinction-matrix",
         "caption": "The Distinction/SelfDesc 2×2 matrix: Quadrant III (Distinction only = bounded-but-not-alive) vs Quadrant IV (Distinction + SelfDesc = alive). Visual proof of layer separation.",
         "rationale": "Canonical: directly visualizes that SelfDesc is strictly stronger than Distinction."
       },
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch50-enrichment-regimes.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch50-enrichment-ladder.tex",
         "label": "fig:bookVI-ch50-enrichment-regimes",
         "caption": "Enrichment regimes across the E₀–E₃ ladder, showing SelfDesc adds exactly one irreducible predicate at the E₁→E₂ transition.",
         "rationale": "Contextualizes layer separation within the full enrichment ladder."
@@ -575,7 +575,7 @@
     "source_parts": ["VI.2", "VI.3", "VI.4", "VI.5"],
     "diagrams": [
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part02/ch08-sector-template.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part01/ch08-sector-template.tex",
         "label": "fig:bookVI-ch07-sector-template",
         "caption": "The 4+1 sector template at E₂: five boxed sectors (A, B, C, D, ω). Instantiates Book III's abstract template at the Life layer.",
         "rationale": "Canonical taxonomy diagram for the 4+1 life sectors."
@@ -588,7 +588,7 @@
     "source_parts": ["VI.4"],
     "diagrams": [
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part04/ch27-central-dogma.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part04/ch27-genetic-code.tex",
         "label": "fig:bookVI-ch27-central-dogma",
         "caption": "The Central Dogma as morphism composition: DNA → RNA → Protein with replication as self-loop. The genetic code is a BSD-type structure.",
         "rationale": "THE canonical diagram reinterpreting the Central Dogma as a 2-step categorical functor."
@@ -607,7 +607,7 @@
     "source_parts": ["VI.6", "VI.8"],
     "diagrams": [
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part08/ch51-consciousness-boundary.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part08/ch51-consciousness.tex",
         "label": "fig:bookVI-ch51-consciousness-boundary",
         "caption": "The extended lemniscate ℒ_ext = ℒ ∪ γ_self with a self-referential loop at the boundary crossing. Neural systems implement structural self-models via Eval²(Eval).",
         "rationale": "Illustrates how neural architecture instantiates the consumer sector and bridges to consciousness via self-reference."
@@ -620,13 +620,13 @@
     "source_parts": ["VI.7"],
     "diagrams": [
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch48-distinction-matrix.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch48-cosmic-life-spectrum.tex",
         "label": "fig:bookVI-ch48-distinction-matrix",
         "caption": "The Distinction/SelfDesc matrix showing how BH carriers occupy Quadrant IV (alive). Classificatory framework for cosmic life.",
         "rationale": "Shows black holes satisfy the life definition at the structural level."
       },
       {
-        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch50-enrichment-regimes.tex",
+        "tex_file": "books/VI-CategoricalLife/latex/sections/part07/ch50-enrichment-ladder.tex",
         "label": "fig:bookVI-ch50-enrichment-regimes",
         "caption": "Enrichment regimes showing BH-life as a distinct identity regime (phenotype-stable, genotype-stable, immortal).",
         "rationale": "Contextualizes the Crossing-Limit Theorem result within the enrichment ladder."
