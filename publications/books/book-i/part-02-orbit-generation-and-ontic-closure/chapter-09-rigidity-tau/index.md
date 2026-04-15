@@ -1,6 +1,6 @@
 ---
 layout: publication-chapter
-title: "Chapter 9: Rigidity — (τ) = \\"
+title: "Chapter 9: Rigidity — (τ) = {τ}
 permalink: /publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/
 lane: publications
 publication_type: chapter

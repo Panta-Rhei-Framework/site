@@ -15,7 +15,7 @@ page_in_book: 33
 prev_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-07-the-one-generative-act-rho-unfolds-the-universe/"
 prev_chapter_title: "Chapter 7: The ONE Generative Act — ρ Unfolds the Universe"
 next_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/"
-next_chapter_title: "Chapter 9: Rigidity — (τ) = \\"
+next_chapter_title: "Chapter 9: Rigidity — (τ) = {τ}
 summary_short: "The diagonal discipline  explained *why* four orbit channels exist: each successive diagonal rewiring consumes one solenoidal…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"

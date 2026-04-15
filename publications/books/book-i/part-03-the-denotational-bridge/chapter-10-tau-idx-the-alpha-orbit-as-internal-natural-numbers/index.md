@@ -13,7 +13,7 @@ chapter_number: 10
 chapter_slug: "chapter-10-tau-idx-the-alpha-orbit-as-internal-natural-numbers"
 page_in_book: 41
 prev_chapter_url: "/publications/books/book-i/part-02-orbit-generation-and-ontic-closure/chapter-09-rigidity-tau/"
-prev_chapter_title: "Chapter 9: Rigidity — (τ) = \\"
+prev_chapter_title: "Chapter 9: Rigidity — (τ) = {τ}
 next_chapter_url: "/publications/books/book-i/part-03-the-denotational-bridge/chapter-11-the-swap-operator-sigma-and-the-first-arithmetic/"
 next_chapter_title: "Chapter 11: The Swap Operator σ and the First Arithmetic"
 summary_short: "The passage from generation to denotation begins with a single observation: the alpha-orbit $O_α = \\{α, ρ(α), ρ^2(α), …\\}$ *is* the natural numbers. Not by…"

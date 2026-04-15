@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-s
 prev_chapter_title: "Chapter 18: Bacteria: The Spatial Pioneers"
 next_chapter_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-20-atp-the-universal-energy-currency/"
 next_chapter_title: "Chapter 20: ATP: The Universal Energy Currency"
-summary_short: "Metabolism is Poincar\\'e circulation at every scale: catabolism and anabolism form the fundamental oscillation that sustains all agency. The Krebs cycle is a…"
+summary_short: "Metabolism is Poincaré circulation at every scale: catabolism and anabolism form the fundamental oscillation that sustains all agency. The Krebs cycle is a…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/"

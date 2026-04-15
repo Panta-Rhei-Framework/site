@@ -10,7 +10,7 @@ part_number: 0
 part_display: "Prologue"
 part_slug: "part-00-the-question-of-life"
 chapter_count: 2
-summary_short: "What distinguishes living from non-living? Aristotle, Schr\\\"odinger, NASA—every classical answer captures a necessary condition but none is sufficient: fire…"
+summary_short: "What distinguishes living from non-living? Aristotle, Schrödinger, NASA—every classical answer captures a necessary condition but none is sufficient: fire…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 right_rail:

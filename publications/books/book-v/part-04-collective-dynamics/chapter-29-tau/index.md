@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-04-collective-dynamics/chapte
 prev_chapter_title: "Chapter 28: τ"
 next_chapter_url: "/publications/books/book-v/part-04-collective-dynamics/chapter-30-macro-phase-transitions-and-regime-crossings/"
 next_chapter_title: "Chapter 30: Macro Phase Transitions and Regime Crossings"
-summary_short: "the relevant chapter derived the $τ$-MHD system and introduced Alfv\\'en waves as coupled fluid–field oscillations. This chapter develops the…"
+summary_short: "the relevant chapter derived the $τ$-MHD system and introduced Alfvén waves as coupled fluid–field oscillations. This chapter develops the…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-04-collective-dynamics/"

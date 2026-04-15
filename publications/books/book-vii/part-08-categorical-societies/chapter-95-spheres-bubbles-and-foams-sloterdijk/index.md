@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vii/part-08-categorical-societies/ch
 prev_chapter_title: "Chapter 94: Objects with Dignity and Worlds with Structure"
 next_chapter_url: "/publications/books/book-vii/part-08-categorical-societies/chapter-96-rural-worlds-and-dunbar-limits/"
 next_chapter_title: "Chapter 96: Rural Worlds and Dunbar Limits"
-summary_short: "Sloterdijk's *Sph\\\"aren* trilogy distinguishes three scales of social topology: bubbles (intimate dyads), globes (communal institutions), and foams (modern…"
+summary_short: "Sloterdijk's *Sphären* trilogy distinguishes three scales of social topology: bubbles (intimate dyads), globes (communal institutions), and foams (modern…"
 canonical_book_url: "/publications/books/book-vii/"
 canonical_book_title: "Book VII: Categorical Metaphysics"
 canonical_part_url: "/publications/books/book-vii/part-08-categorical-societies/"

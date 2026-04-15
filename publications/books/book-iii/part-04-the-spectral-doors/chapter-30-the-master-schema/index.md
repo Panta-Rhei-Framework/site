@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapt
 prev_chapter_title: "Chapter 29: Simply Connected in Category τ"
 next_chapter_url: "/publications/books/book-iii/part-05-the-physics-layer/chapter-31-tau/"
 next_chapter_title: "Chapter 31: τ"
-summary_short: "Part IV has addressed two Millennium Problems at enrichment level $E_0$: the Riemann Hypothesis (spectral purity) and the Poincar\\'e Conjecture (topological…"
+summary_short: "Part IV has addressed two Millennium Problems at enrichment level $E_0$: the Riemann Hypothesis (spectral purity) and the Poincaré Conjecture (topological…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"

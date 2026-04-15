@@ -14,7 +14,7 @@ chapter_slug: "chapter-01-what-is-life-why-every-classical-answer-fails"
 page_in_book: 3
 next_chapter_url: "/publications/books/book-vi/part-00-the-question-of-life/chapter-02-the-categorical-resolution-life-as-e-enrichment/"
 next_chapter_title: "Chapter 2: The Categorical Resolution: Life as E₂ Enrichment"
-summary_short: "Every classical attempt to define life—Aristotle's soul aristotle-de-anima, Schr\\\"odinger's negentropy schrodinger1944, NASA's working definition—captures a…"
+summary_short: "Every classical attempt to define life—Aristotle's soul aristotle-de-anima, Schrödinger's negentropy schrodinger1944, NASA's working definition—captures a…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-00-the-question-of-life/"

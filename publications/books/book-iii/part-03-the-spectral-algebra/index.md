@@ -10,7 +10,7 @@ part_number: 3
 part_display: "Part III"
 part_slug: "part-03-the-spectral-algebra"
 chapter_count: 7
-summary_short: "The algebraic vocabulary for everything that follows. We earn number theory—primes, residue rings, $p$-adic fields, ad\\`eles—from the $τ$ kernel, not by…"
+summary_short: "The algebraic vocabulary for everything that follows. We earn number theory—primes, residue rings, $p$-adic fields, adèles—from the $τ$ kernel, not by…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 right_rail:

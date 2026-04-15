@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror
 prev_chapter_title: "Chapter 74: The Self-Hosting Landscape"
 next_chapter_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-76-the-enrichment-frontier/"
 next_chapter_title: "Chapter 76: The Enrichment Frontier"
-summary_short: "The previous chapter surveyed the landscape: nobody has achieved full proof-theoretic self-hosting at meaningful mathematical strength. The barrier — G\\\"odel,…"
+summary_short: "The previous chapter surveyed the landscape: nobody has achieved full proof-theoretic self-hosting at meaningful mathematical strength. The barrier — Gödel,…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"
 canonical_part_url: "/publications/books/book-i/part-17-the-proof-theoretic-mirror/"
