@@ -5,6 +5,17 @@ layer: E0
 strand: kernel
 summary_short: The generative act unfolds four infinite orbit rays, seals the universe,
   and proves rigidity.
+diagrams:
+- src: /assets/diagrams/framework/book-i/mathematics-orbit-generation-spec-existence.svg
+  caption: "The generative act: the single passage from the static kernel τ₀ (specification) to the populated universe τ (existence). The operator ρ unfolds all four orbit rays simultaneously in one indivisible act."
+  alt: "The generative act: the single passage from the static kernel τ₀ (specification) to the populated universe τ (existence). The operator ρ unfolds all four…"
+  source: "Book I, Chapter 6"
+  label: "fig:bookI-ch06-spec-existence"
+- src: /assets/diagrams/framework/book-i/mathematics-orbit-generation-ontic-closure.svg
+  caption: "The five pairwise-disjoint parts of the ontically sealed universe. The four countably infinite orbit rays and the beacon singleton {ω} exhaust Obj(τ) with no overlap and no remainder."
+  alt: "The five pairwise-disjoint parts of the ontically sealed universe. The four countably infinite orbit rays and the beacon singleton {ω} exhaust Obj(τ) with no…"
+  source: "Book I, Chapter 7"
+  label: "fig:bookI-ch07-ontic-closure"
 thesis: A single generative act executes the kernel, producing four orbit rays; the
   Ontic Closure Theorem and Rigidity Theorem prove the universe is complete and the
   model unique.

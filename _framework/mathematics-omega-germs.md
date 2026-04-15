@@ -5,6 +5,12 @@ layer: E0
 strand: boundary
 summary_short: Compatible towers on the primorial ladder yield the split-complex ring
   H_τ with j² = +1.
+diagrams:
+- src: /assets/diagrams/framework/book-i/mathematics-omega-germs-lemniscate.svg
+  caption: "The algebraic lemniscate ℒ = S¹ ∨ S¹ as two polarized sectors joined at the crossing-point germ ω. B-polarized germs inhabit the left lobe; C-polarized germs inhabit the right lobe."
+  alt: "The algebraic lemniscate ℒ = S¹ ∨ S¹ as two polarized sectors joined at the crossing-point germ ω. B-polarized germs inhabit the left lobe; C-polarized germs…"
+  source: "Book I, Chapter 29"
+  label: "fig:bookI-ch29-lemniscate"
 thesis: Omega-germs partition into B- and C-polarized families; the bipolar spectral
   algebra with j² = +1 emerges as the natural scalar ring.
 canonical_books:

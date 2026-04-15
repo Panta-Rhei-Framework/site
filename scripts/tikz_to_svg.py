@@ -202,14 +202,151 @@ def resolve_tex_path(tex_ref: str) -> Path:
     raise ConversionError(f"Cannot resolve tex file path: {tex_ref}")
 
 
-def convert_mapping(mapping_file: Path, book_filter: str = None) -> dict:
-    """Process a batch mapping file. Returns stats dict."""
+def svg_path_for(module_slug: str, book: str, label: str) -> tuple[Path, str]:
+    """Return (absolute_path, web_path) for a diagram SVG."""
+    book_dir_name = f"book-{book.lower()}"
+    short_id = re.sub(r"^fig:book[IVX]+-ch\d+-", "", label)
+    filename = f"{module_slug}-{short_id}.svg"
+    abs_path = SITE_ROOT / "assets" / "diagrams" / "framework" / book_dir_name / filename
+    web_path = f"/assets/diagrams/framework/{book_dir_name}/{filename}"
+    return abs_path, web_path
+
+
+ROMAN_TO_INT = {"I": 1, "II": 2, "III": 3, "IV": 4, "V": 5, "VI": 6, "VII": 7}
+
+
+def derive_source_citation(tex_file: str) -> str:
+    """Derive a human-readable source citation from a tex path.
+
+    Example: 'books/I-CategoricalFoundations/latex/sections/part01/ch06-generative-act.tex'
+    → 'Book I, Chapter 6'
+    """
+    # Match book number via the I-… prefix of the top-level directory
+    book_match = re.search(r"books/([IVX]+)-", tex_file)
+    book = book_match.group(1) if book_match else "?"
+    # Match chapter number from chNN- pattern
+    chap_match = re.search(r"/ch(\d+)-", tex_file)
+    chapter = int(chap_match.group(1)) if chap_match else 0
+    return f"Book {book}, Chapter {chapter}"
+
+
+def derive_alt_text(caption: str, max_len: int = 160) -> str:
+    """Short alt text derived from the caption, truncated cleanly."""
+    # Strip markdown/LaTeX remnants and collapse whitespace
+    alt = re.sub(r"\s+", " ", caption).strip()
+    if len(alt) <= max_len:
+        return alt
+    # Truncate at a word boundary, append ellipsis
+    truncated = alt[: max_len - 1].rsplit(" ", 1)[0]
+    return truncated + "…"
+
+
+def update_module_frontmatter(module_slug: str, new_diagrams: list) -> bool:
+    """Update (or insert) the `diagrams:` field in a framework module's frontmatter.
+
+    Idempotent: replaces existing `diagrams:` block if present.
+
+    Returns True if the file was modified.
+    """
+    module_file = SITE_ROOT / "_framework" / f"{module_slug}.md"
+    if not module_file.exists():
+        raise ConversionError(f"Module file not found: {module_file}")
+
+    text = module_file.read_text(encoding="utf-8")
+    if not text.startswith("---\n"):
+        raise ConversionError(f"Module file missing frontmatter: {module_file}")
+
+    # Find frontmatter bounds
+    end_idx = text.find("\n---\n", 4)
+    if end_idx == -1:
+        raise ConversionError(f"Module file missing closing frontmatter: {module_file}")
+    frontmatter = text[4:end_idx]  # between --- markers
+    body = text[end_idx + 5:]  # after closing ---\n
+
+    # Remove any existing diagrams: block
+    # The block starts with "diagrams:\n" and includes subsequent lines indented with spaces
+    lines = frontmatter.split("\n")
+    new_lines = []
+    i = 0
+    while i < len(lines):
+        line = lines[i]
+        if re.match(r"^diagrams:\s*$", line) or re.match(r"^diagrams:\s*\[\]\s*$", line):
+            # Skip this line
+            i += 1
+            # Skip subsequent indented block
+            while i < len(lines) and (lines[i].startswith("  ") or lines[i].startswith("- ") or lines[i].strip() == ""):
+                # Stop at next non-indented field
+                if lines[i].strip() == "" and i + 1 < len(lines) and not lines[i + 1].startswith(("  ", "-")):
+                    break
+                if lines[i] and not lines[i].startswith(" ") and not lines[i].startswith("-"):
+                    break
+                i += 1
+            continue
+        new_lines.append(line)
+        i += 1
+    frontmatter = "\n".join(new_lines)
+
+    # Build the new diagrams block
+    diagram_lines = ["diagrams:"]
+    for d in new_diagrams:
+        diagram_lines.append(f"- src: {d['src']}")
+        # Caption: use double quotes, escape any embedded double quotes
+        caption_escaped = d["caption"].replace("\\", "\\\\").replace('"', '\\"')
+        diagram_lines.append(f'  caption: "{caption_escaped}"')
+        alt_escaped = d["alt"].replace("\\", "\\\\").replace('"', '\\"')
+        diagram_lines.append(f'  alt: "{alt_escaped}"')
+        diagram_lines.append(f'  source: "{d["source"]}"')
+        diagram_lines.append(f'  label: "{d["label"]}"')
+    diagrams_block = "\n".join(diagram_lines)
+
+    # Insert diagrams block after summary_short: line (or after thesis: if summary_short is missing)
+    # Use regex to find either line and insert after its (possibly multi-line) value
+    insertion_done = False
+
+    # Try to insert after summary_short (which may span multiple lines in YAML)
+    fm_lines = frontmatter.split("\n")
+    result_lines = []
+    i = 0
+    while i < len(fm_lines):
+        result_lines.append(fm_lines[i])
+        if fm_lines[i].startswith("summary_short:") and not insertion_done:
+            # Skip continuation lines (indented)
+            j = i + 1
+            while j < len(fm_lines) and (fm_lines[j].startswith("  ") and not fm_lines[j].startswith("  -")):
+                result_lines.append(fm_lines[j])
+                j += 1
+            # Now insert diagrams block
+            result_lines.append(diagrams_block)
+            insertion_done = True
+            i = j
+            continue
+        i += 1
+
+    if not insertion_done:
+        raise ConversionError(f"Could not find summary_short: field in {module_file}")
+
+    new_frontmatter = "\n".join(result_lines)
+    new_text = f"---\n{new_frontmatter}\n---\n{body}"
+    module_file.write_text(new_text, encoding="utf-8")
+    return True
+
+
+def convert_mapping(mapping_file: Path, book_filter: str = None, wire: bool = True) -> dict:
+    """Process a batch mapping file. Returns stats dict.
+
+    If wire=True, also updates each affected module's frontmatter with the
+    diagrams: field pointing at the newly generated SVGs.
+    """
     mapping = json.loads(mapping_file.read_text(encoding="utf-8"))
 
-    stats = {"total": 0, "succeeded": 0, "failed": 0, "errors": []}
+    stats = {"total": 0, "succeeded": 0, "failed": 0, "modules_wired": 0, "errors": []}
 
     for module_slug, module_data in mapping.items():
+        if module_slug.startswith("_"):  # skip _metadata keys
+            continue
         if book_filter and module_data.get("source_book") != book_filter:
+            continue
+        if module_data.get("status") == "done-in-phase-1":
             continue
 
         diagrams = module_data.get("diagrams", [])
@@ -217,32 +354,47 @@ def convert_mapping(mapping_file: Path, book_filter: str = None) -> dict:
             continue
 
         book = module_data["source_book"]
-        book_dir_name = f"book-{book.lower()}"
-        output_dir = SITE_ROOT / "assets" / "diagrams" / "framework" / book_dir_name
+        module_succeeded = True
+        wired_entries = []
 
         for idx, diag in enumerate(diagrams):
             stats["total"] += 1
-
-            # Generate output filename
             label = diag["label"]
-            # Extract short id from label: fig:bookI-ch01-generators-order → generators-order
-            short_id = re.sub(r"^fig:book[IVX]+-ch\d+-", "", label)
-            if idx > 0:
-                output_file = output_dir / f"{module_slug}-{short_id}.svg"
-            else:
-                output_file = output_dir / f"{module_slug}-{short_id}.svg"
+            output_file, web_path = svg_path_for(module_slug, book, label)
 
             try:
                 tex_path = resolve_tex_path(diag["tex_file"])
                 print(f"\n[{module_slug}] diagram {idx+1}/{len(diagrams)}")
                 convert_one(tex_path, label, output_file, verbose=True)
                 stats["succeeded"] += 1
+                wired_entries.append({
+                    "src": web_path,
+                    "caption": diag["caption"],
+                    "alt": derive_alt_text(diag["caption"]),
+                    "source": derive_source_citation(diag["tex_file"]),
+                    "label": label,
+                })
             except ConversionError as e:
                 print(f"  ✗ FAILED: {e}", file=sys.stderr)
                 stats["failed"] += 1
                 stats["errors"].append({
                     "module": module_slug,
                     "label": label,
+                    "error": str(e),
+                })
+                module_succeeded = False
+
+        # Wire the frontmatter if ALL diagrams for this module succeeded
+        if wire and module_succeeded and wired_entries:
+            try:
+                update_module_frontmatter(module_slug, wired_entries)
+                stats["modules_wired"] += 1
+                print(f"  ✓ wired {module_slug}.md frontmatter ({len(wired_entries)} diagrams)")
+            except ConversionError as e:
+                print(f"  ✗ FRONTMATTER FAILED: {e}", file=sys.stderr)
+                stats["errors"].append({
+                    "module": module_slug,
+                    "label": "<frontmatter>",
                     "error": str(e),
                 })
 
@@ -281,6 +433,7 @@ def main():
         print(f"  Total:     {stats['total']}")
         print(f"  Succeeded: {stats['succeeded']}")
         print(f"  Failed:    {stats['failed']}")
+        print(f"  Modules wired: {stats.get('modules_wired', 0)}")
         if stats["errors"]:
             print(f"\n  Errors:")
             for err in stats["errors"]:
