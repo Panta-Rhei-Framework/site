@@ -5,6 +5,12 @@ layer: E0
 strand: kernel
 summary_short: Natural numbers, addition, multiplication, exponentiation, and tetration
   earned from orbit structure.
+diagrams:
+- src: /assets/diagrams/framework/book-i/mathematics-earning-arithmetic-rank-transfer.svg
+  caption: "The rank transfer maps RT_π and RT_γ as depth-preserving bijections between orbit rays. Each map sends the element at depth n in the α-ray to the element at depth n in the target ray."
+  alt: "The rank transfer maps RT_π and RT_γ as depth-preserving bijections between orbit rays. Each map sends the element at depth n in the α-ray to the element at…"
+  source: "Book I, Chapter 10"
+  label: "fig:bookI-ch10-rank-transfer"
 thesis: The α-orbit becomes the earned natural numbers; rank transfer maps yield the
   four arithmetic operations; the program monoid provides composition.
 canonical_books:

@@ -5,6 +5,12 @@ layer: E0
 strand: coordinates
 summary_short: Every object receives a canonical 4-dimensional address via the greedy
   peel algorithm.
+diagrams:
+- src: /assets/diagrams/framework/book-i/mathematics-abcd-chart-coprojections.svg
+  caption: "The fibration coprojections from τ³ to its base τ¹ and fiber T². The two readout projections π_base and π_fiber realize the 2+2 split of the ABCD coordinate chart; their domains become the macrocosm and microcosm in Books IV–V."
+  alt: "The fibration coprojections from τ³ to its base τ¹ and fiber T². The two readout projections π_base and π_fiber realize the 2+2 split of the ABCD coordinate…"
+  source: "Book I, Chapter 20"
+  label: "fig:bookI-ch20-coprojections"
 thesis: The ABCD chart maps every tau-object to a unique quadruple (A, B, C, D) using
   tower atoms and greedy peel-off, forcing dim_tau = 4.
 canonical_books:
