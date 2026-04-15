@@ -6,6 +6,17 @@ lane: results
 section: "Results · Prologue"
 nav_order: 4
 summary_short: "The strongest major mathematical statement-families that become affirmatively true inside the Tau mathematical universe."
+key_registry:
+  - III.T19
+  - III.T20
+  - III.T25
+  - III.T27
+  - III.T28
+  - III.T34
+  - III.T35
+  - III.T36
+  - III.T37
+  - III.D31
 right_rail:
   related:
   - title: Results Prologue
@@ -52,22 +63,22 @@ That is already an enormous mathematical claim, even before any separate orthodo
 The site's later [result pages]({{ '/results/topic/mathematics/' | relative_url }}) treat these in more detail. At the level of this prologue, the point is simply to state their collective status.
 
 ### Tau-Riemann and the generalized hierarchy
-Within Tau, the relevant Riemannian statement-families are claimed to hold affirmatively, not only in the narrow RH sense but across a wider generalized hierarchy.
+Within Tau, the relevant Riemannian statement-families are claimed to hold affirmatively — the Critical Line Theorem ([III.T19]({{ '/registry/object/III.T19/' | relative_url }})) and the Prime Polarity Scaling Theorem ([III.T20]({{ '/registry/object/III.T20/' | relative_url }})) — not only in the narrow RH sense but across a wider generalized hierarchy, including the Grand GRH ([III.D31]({{ '/registry/object/III.D31/' | relative_url }})).
 
 ### Tau-P versus NP
-Within Tau, the admissible computational world is claimed to settle the corresponding problem affirmatively on Tau's own terms.
+Within Tau, the admissible computational world is claimed to settle the corresponding problem affirmatively on Tau's own terms — the No Barrier Theorem ([III.T34]({{ '/registry/object/III.T34/' | relative_url }})).
 
 ### Tau-Yang-Mills mass gap
-Within Tau, the relevant mass-gap family is claimed to come out affirmatively.
+Within Tau, the relevant mass-gap family is claimed to come out affirmatively — the Yang-Mills Gap Theorem ([III.T27]({{ '/registry/object/III.T27/' | relative_url }})).
 
 ### Tau-Navier-Stokes regularity
-Within Tau, the corresponding statement-family is claimed to be affirmatively resolved.
+Within Tau, the corresponding statement-family is claimed to be affirmatively resolved — the Positive Regularity Theorem ([III.T25]({{ '/registry/object/III.T25/' | relative_url }})).
 
 ### Tau-Hodge
-Within Tau, the corresponding geometric statement-family is claimed to be affirmatively resolved.
+Within Tau, the corresponding geometric statement-family is claimed to be affirmatively resolved — the NF-Addressability Theorem ([III.T28]({{ '/registry/object/III.T28/' | relative_url }})).
 
 ### Tau-Birch-Swinnerton-Dyer
-Within Tau, the corresponding arithmetic statement-family is claimed to be affirmatively resolved.
+Within Tau, the corresponding arithmetic statement-family is claimed to be affirmatively resolved — the BSD Coherence Theorem ([III.T35]({{ '/registry/object/III.T35/' | relative_url }})).
 
 ### Tau-Poincare
 Within Tau, the corresponding topological statement-family is claimed to be affirmatively resolved.
@@ -75,7 +86,7 @@ Within Tau, the corresponding topological statement-family is claimed to be affi
 And beyond the seven:
 
 ### Tau-Langlands
-The Langlands program, in its Tau form, is likewise claimed to come out affirmatively true.
+The Langlands program, in its Tau form, is likewise claimed to come out affirmatively true — the Functoriality Theorem ([III.T36]({{ '/registry/object/III.T36/' | relative_url }})) and Base Change-Transfer Naturality ([III.T37]({{ '/registry/object/III.T37/' | relative_url }})).
 
 ## Why this is already remarkable
 
@@ -140,6 +151,19 @@ The strongest disciplined conclusion is therefore this:
 Within the Tau mathematical universe, the Tau formulations of the seven Millennium-problem families, the generalized Riemann hierarchy, and the Langlands program are presented as affirmatively true. This is not yet, in every case, the same as claiming immediate resolution in the orthodox external formulation. But it is already a major mathematical statement about the internal strength, richness, and consequence-bearing power of the framework.
 
 That is the level on which this page should be read.
+
+## Canonical References
+
+- [III.T19]({{ '/registry/object/III.T19/' | relative_url }}) — Critical Line Theorem
+- [III.T20]({{ '/registry/object/III.T20/' | relative_url }}) — Prime Polarity Scaling Theorem
+- [III.T25]({{ '/registry/object/III.T25/' | relative_url }}) — Positive Regularity Theorem
+- [III.T27]({{ '/registry/object/III.T27/' | relative_url }}) — Yang-Mills Gap Theorem
+- [III.T28]({{ '/registry/object/III.T28/' | relative_url }}) — NF-Addressability Theorem
+- [III.T34]({{ '/registry/object/III.T34/' | relative_url }}) — No Barrier Theorem
+- [III.T35]({{ '/registry/object/III.T35/' | relative_url }}) — BSD Coherence Theorem
+- [III.T36]({{ '/registry/object/III.T36/' | relative_url }}) — Functoriality Theorem
+- [III.T37]({{ '/registry/object/III.T37/' | relative_url }}) — Base Change-Transfer Naturality
+- [III.D31]({{ '/registry/object/III.D31/' | relative_url }}) — Grand GRH
 
 ---
 

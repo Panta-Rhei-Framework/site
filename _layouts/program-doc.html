@@ -17,3 +17,14 @@ layout: default
     {{ content }}
   </div>
 </div>
+
+{% if page.key_registry.size > 0 %}
+<div class="content-card">
+  <h2>Registry Anchors</h2>
+  <div class="registry-list">
+    {% for reg_id in page.key_registry %}
+    <a href="{{ '/registry/object/' | append: reg_id | append: '/' | relative_url }}" class="chip">{{ reg_id }}</a>
+    {% endfor %}
+  </div>
+</div>
+{% endif %}
