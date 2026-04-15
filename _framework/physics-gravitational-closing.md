@@ -4,6 +4,12 @@ module_id: E1-012
 layer: E1
 strand: macrocosm
 summary_short: α_G = α¹⁸·√3·(1-3α/π) — G predicted to 3 ppm.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-gravitational-closing-tau-orthodox.svg
+  caption: "The τ-native to orthodox shadow correspondence: each fundamental structure in the categorical framework has a classical orthodox counterpart, but the τ-native formulation derives these from first principles."
+  alt: "The τ-native to orthodox shadow correspondence: each fundamental structure in the categorical framework has a classical orthodox counterpart, but the τ-native…"
+  source: "Book V, Chapter 11"
+  label: "fig:bookV-ch11-tau-orthodox"
 thesis: Two independent routes converge on the same identity; the gravitational constant
   is derived from α and structural geometry.
 canonical_books:

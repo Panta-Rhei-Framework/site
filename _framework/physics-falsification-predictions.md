@@ -5,6 +5,12 @@ layer: E1
 strand: macrocosm
 summary_short: Seven pre-registered observational domains — if CMB-S4 rules out r
   = ι_τ⁴, the framework falls.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-falsification-predictions-threshold-ladder.svg
+  caption: "The threshold ladder of Book V: energy scales from the Planck scale to the cosmological horizon form a strict ordering determined by the enrichment structure of τ³."
+  alt: "The threshold ladder of Book V: energy scales from the Planck scale to the cosmological horizon form a strict ordering determined by the enrichment structure…"
+  source: "Book V, Chapter 48"
+  label: "fig:bookV-ch48-threshold-ladder"
 thesis: Specific falsifiable tests across CMB, rotation curves, BH mergers, BBN, and
   gravitational waves.
 canonical_books:

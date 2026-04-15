@@ -5,6 +5,12 @@ layer: E1
 strand: macrocosm
 summary_short: The τ-Einstein equation — gravity as an algebraic identity, not a nonlinear
   PDE.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-gravity-earned-tau-einstein.svg
+  caption: "The τ-Einstein equation as boundary identity: the lemniscate boundary condition, together with the kernel axioms, earns the metric g^(τ)_μν and forces the Einstein field equations G_μν = 8πG T_μν as a categorical consequence."
+  alt: "The τ-Einstein equation as boundary identity: the lemniscate boundary condition, together with the kernel axioms, earns the metric g^(τ)_μν and forces the…"
+  source: "Book V, Chapter 13"
+  label: "fig:bookV-ch13-tau-einstein"
 thesis: R^H = κ_τ · T^mat in the boundary holonomy algebra; chart shadow recovers
   Einstein's field equations.
 canonical_books:

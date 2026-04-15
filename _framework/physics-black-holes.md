@@ -4,6 +4,12 @@ module_id: E1-015
 layer: E1
 strand: macrocosm
 summary_short: Horizon = T², no singularity, no evaporation. QNM ratio = ι_τ⁻¹.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-black-holes-bh-topology.svg
+  caption: "Black hole topological event in Book V. In the τ³ framework the horizon topology is T² (non-contractible, no singularity); the orthodox S² horizon collapses to a singularity because the sphere is simply connected."
+  alt: "Black hole topological event in Book V. In the τ³ framework the horizon topology is T² (non-contractible, no singularity); the orthodox S² horizon collapses…"
+  source: "Book V, Chapter 50"
+  label: "fig:bookV-ch50-bh-topology"
 thesis: Black holes are topological events with torus horizons; profinite structure
   prevents divergences.
 canonical_books:

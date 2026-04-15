@@ -5,6 +5,12 @@ layer: E1
 strand: macrocosm
 summary_short: Defect entropy decreases along proto-time — the arrow points toward
   order.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-thermodynamic-inversion-entropy-split.svg
+  caption: "Entropy splitting in the macrocosm: total entropy splits into defect entropy S_def (which decreases as structure forms, opposite to the classical second law) and refinement entropy S_ref (which increases without bound). The two are dual under the base–fiber symmetry of τ³."
+  alt: "Entropy splitting in the macrocosm: total entropy splits into defect entropy S_def (which decreases as structure forms, opposite to the classical second law) and…"
+  source: "Book V, Chapter 22"
+  label: "fig:bookV-ch21-entropy-split"
 thesis: Heat is electromagnetic; entropy splits into defect exhaustion and information
   loss; no cosmological constant needed.
 canonical_books:

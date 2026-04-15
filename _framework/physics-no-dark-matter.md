@@ -5,6 +5,17 @@ layer: E1
 strand: macrocosm
 summary_short: Flat rotation curves from boundary holonomy correction — no exotic
   particles needed.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-no-dark-matter-capacity-rotation.svg
+  caption: "Derivation chain from capacity gradient to flat rotation curves: the capacity equation for τ¹ yields a gradient force that, combined with baryonic mass M_b, predicts asymptotically flat galaxy rotation curves with no dark matter parameter."
+  alt: "Derivation chain from capacity gradient to flat rotation curves: the capacity equation for τ¹ yields a gradient force that, combined with baryonic mass M_b,…"
+  source: "Book V, Chapter 37"
+  label: "fig:bookV-ch37-capacity-rotation"
+- src: /assets/diagrams/framework/book-v/physics-no-dark-matter-sector-budget.svg
+  caption: "Sector exhaustion budget: the five spectral sectors of Category τ partition the total coupling budget of τ³. No sixth sector exists by the No-Fifth-Sector Theorem."
+  alt: "Sector exhaustion budget: the five spectral sectors of Category τ partition the total coupling budget of τ³. No sixth sector exists by the No-Fifth-Sector…"
+  source: "Book V, Chapter 44"
+  label: "fig:bookV-ch44-sector-budget"
 thesis: Galaxy dynamics follow from τ-Einstein geometry with coupling κ(D;1) = 1-ι_τ;
   MOND scale derived from ι_τ.
 canonical_books:

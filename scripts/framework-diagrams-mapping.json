@@ -467,7 +467,7 @@
     "diagrams": [
       {
         "tex_file": "books/V-CategoricalMacrocosm/latex/sections/part03/ch22-entropy-splitting.tex",
-        "label": "fig:bookV-ch22-entropy-split",
+        "label": "fig:bookV-ch21-entropy-split",
         "caption": "Entropy splitting in the macrocosm: total entropy splits into defect entropy S_def (which decreases as structure forms, opposite to the classical second law) and refinement entropy S_ref (which increases without bound). The two are dual under the base–fiber symmetry of τ³.",
         "rationale": "Illustrates thermodynamic inversion: heat-as-electromagnetic through entropy decomposition into defect + refinement components."
       }

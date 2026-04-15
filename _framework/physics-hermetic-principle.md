@@ -4,6 +4,12 @@ module_id: E1-010
 layer: E1
 strand: macrocosm
 summary_short: Fiber + base = exact. τ³ exhausts all physics at E₁.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-hermetic-principle-fiber-base-split.svg
+  caption: "The fiber–base split of τ³: Book IV studies the torus fiber T² (quantum/particle physics), while Book V studies the macrocosm base τ¹ (gravity, cosmology, large-scale universe)."
+  alt: "The fiber–base split of τ³: Book IV studies the torus fiber T² (quantum/particle physics), while Book V studies the macrocosm base τ¹ (gravity, cosmology,…"
+  source: "Book V, Chapter 1"
+  label: "fig:bookV-ch01-fiber-base-split"
 thesis: The fibered product partitions physics into microcosm (fiber T²) and macrocosm
   (base τ¹); their union is complete.
 canonical_books:

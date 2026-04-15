@@ -4,6 +4,12 @@ module_id: E1-016
 layer: E1
 strand: macrocosm
 summary_short: r = ι_τ⁴, n_s = 0.9649, ℓ₁ = 220.6 — all from one constant.
+diagrams:
+- src: /assets/diagrams/framework/book-v/physics-cmb-pipeline-cosmic-stack.svg
+  caption: "The cosmic stack API of Book V: the fibration structure of τ³ determines the τ-Einstein equations, which drive Friedmann evolution, yielding all cosmological observables from zero free parameters."
+  alt: "The cosmic stack API of Book V: the fibration structure of τ³ determines the τ-Einstein equations, which drive Friedmann evolution, yielding all cosmological…"
+  source: "Book V, Chapter 10"
+  label: "fig:bookV-ch10-cosmic-stack"
 thesis: The CMB power spectrum is derived from ι_τ alone; tensor-to-scalar ratio pre-registered
   for CMB-S4.
 canonical_books:
