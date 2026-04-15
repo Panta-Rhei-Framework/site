@@ -3,13 +3,13 @@ layout: bibliography-index
 title: "Bibliography"
 lane: bibliography
 permalink: /bibliography/
-summary_short: "The shared reference corpus of the Panta Rhei Research Program — 1,124 references across mathematics, physics, life sciences, and philosophy, each with a short editorial note on why it is included."
+summary_short: "The shared reference corpus of the Panta Rhei Research Program — 1,125 references across mathematics, physics, life sciences, and philosophy, each with a short editorial note on why it is included."
 summary_cards:
-  - title: "References"
-    body: "1,124 entries from the shared references.bib used across all seven books."
-  - title: "Domain groups"
-    body: "8 domains: Foundations, Category Theory, Topology, Number Theory, Physics, Life, Philosophy, Computation."
-  - title: "Downloadable"
+  - title: "1,125 references"
+    body: "Every entry has an editorial note. 210 are directly cited in the seven-book series; 915 are retained as corpus-only standing references."
+  - title: "Browse & filter →"
+    body: "Filter by domain, role, type, citation status, book, and decade on the [unified browse surface](/bibliography/browse/)."
+  - title: "Download .bib"
     body: "The raw BibTeX file is available for download as a research asset."
 right_rail:
   related:
@@ -37,7 +37,9 @@ The bibliography is not a literature review. It is a working reference surface �
 
 ## How to use this page
 
-Browse by domain group below. Each entry links to a dedicated page showing the full citation, bibliographic metadata, and an editorial note on the reference's role in the research program.
+Browse by domain group below — each entry links to a dedicated page showing the full citation, bibliographic metadata, and an editorial note on the reference's role in the research program.
+
+For interactive exploration across the full 1,125-entry corpus, use the **[Browse & Filter surface]({{ '/bibliography/browse/' | relative_url }})**. It lets you narrow the view by domain, role, entry type, citation status, book, and decade, and sort by year, title, or most-cited.
 
 The raw BibTeX file (`references.bib`) is available for download for researchers who wish to use it directly.
 

@@ -1,0 +1,192 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">Bibliography · Browse</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+  <div class="btn-group" style="margin-top: 16px;">
+    <a href="{{ '/assets/bibliography/references.bib' | relative_url }}" class="btn-secondary" download>Download references.bib</a>
+  </div>
+</div>
+
+<div class="content-card bibliography-browse">
+  <div class="bibliography-browse-intro prose">
+    {{ content }}
+  </div>
+
+  <div class="bibliography-browse-controls" id="bibliography-browse-controls" aria-label="Filter and sort bibliography">
+    <div class="filter-group" data-filter-group="domain">
+      <span class="filter-label">Domain</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="domain" data-value="foundations-and-logic" type="button">Foundations &amp; Logic</button>
+        <button class="filter-chip" data-filter="domain" data-value="physics" type="button">Physics</button>
+        <button class="filter-chip" data-filter="domain" data-value="topology-and-geometry" type="button">Topology &amp; Geometry</button>
+        <button class="filter-chip" data-filter="domain" data-value="number-theory-and-analysis" type="button">Number Theory</button>
+        <button class="filter-chip" data-filter="domain" data-value="life-and-biology" type="button">Life &amp; Biology</button>
+        <button class="filter-chip" data-filter="domain" data-value="category-theory" type="button">Category Theory</button>
+        <button class="filter-chip" data-filter="domain" data-value="computation-and-complexity" type="button">Computation</button>
+        <button class="filter-chip" data-filter="domain" data-value="metaphysics-and-philosophy" type="button">Metaphysics</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="role">
+      <span class="filter-label">Role</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="role" data-value="foundational-source" type="button">Foundational</button>
+        <button class="filter-chip" data-filter="role" data-value="formal-antecedent" type="button">Antecedent</button>
+        <button class="filter-chip" data-filter="role" data-value="historical-lineage" type="button">Lineage</button>
+        <button class="filter-chip" data-filter="role" data-value="methodological-anchor" type="button">Methodological</button>
+        <button class="filter-chip" data-filter="role" data-value="conceptual-bridge" type="button">Bridge</button>
+        <button class="filter-chip" data-filter="role" data-value="comparative-reference" type="button">Comparative</button>
+        <button class="filter-chip" data-filter="role" data-value="contrast-or-foil" type="button">Foil</button>
+        <button class="filter-chip" data-filter="role" data-value="domain-context" type="button">Context</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="type">
+      <span class="filter-label">Type</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="type" data-value="book" type="button">Book</button>
+        <button class="filter-chip" data-filter="type" data-value="article" type="button">Article</button>
+        <button class="filter-chip" data-filter="type" data-value="incollection" type="button">Book Chapter</button>
+        <button class="filter-chip" data-filter="type" data-value="inproceedings" type="button">Conference</button>
+        <button class="filter-chip" data-filter="type" data-value="phdthesis" type="button">Thesis</button>
+        <button class="filter-chip" data-filter="type" data-value="unpublished" type="button">Unpublished</button>
+        <button class="filter-chip" data-filter="type" data-value="misc" type="button">Misc</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="status">
+      <span class="filter-label">Status</span>
+      <div class="filter-chips">
+        <button class="filter-chip chip-status-cited" data-filter="status" data-value="cited" type="button">Cited</button>
+        <button class="filter-chip chip-status-corpus" data-filter="status" data-value="orphan" type="button">Corpus only</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="book">
+      <span class="filter-label">Cited in</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="book" data-value="I" type="button">I</button>
+        <button class="filter-chip" data-filter="book" data-value="II" type="button">II</button>
+        <button class="filter-chip" data-filter="book" data-value="III" type="button">III</button>
+        <button class="filter-chip" data-filter="book" data-value="IV" type="button">IV</button>
+        <button class="filter-chip" data-filter="book" data-value="V" type="button">V</button>
+        <button class="filter-chip" data-filter="book" data-value="VI" type="button">VI</button>
+        <button class="filter-chip" data-filter="book" data-value="VII" type="button">VII</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="decade">
+      <span class="filter-label">Decade</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="decade" data-value="pre-1900" type="button">pre-1900</button>
+        <button class="filter-chip" data-filter="decade" data-value="1900-1949" type="button">1900–49</button>
+        <button class="filter-chip" data-filter="decade" data-value="1950s" type="button">1950s</button>
+        <button class="filter-chip" data-filter="decade" data-value="1960s" type="button">1960s</button>
+        <button class="filter-chip" data-filter="decade" data-value="1970s" type="button">1970s</button>
+        <button class="filter-chip" data-filter="decade" data-value="1980s" type="button">1980s</button>
+        <button class="filter-chip" data-filter="decade" data-value="1990s" type="button">1990s</button>
+        <button class="filter-chip" data-filter="decade" data-value="2000s" type="button">2000s</button>
+        <button class="filter-chip" data-filter="decade" data-value="2010s" type="button">2010s</button>
+        <button class="filter-chip" data-filter="decade" data-value="2020s" type="button">2020s</button>
+      </div>
+    </div>
+
+    <div class="filter-group filter-group-sort">
+      <span class="filter-label">Sort</span>
+      <div class="filter-chips">
+        <button class="sort-chip is-active" data-sort="year" type="button">Year (newest)</button>
+        <button class="sort-chip" data-sort="alpha" type="button">A → Z</button>
+        <button class="sort-chip" data-sort="citations" type="button">Most cited</button>
+      </div>
+    </div>
+
+    <div class="filter-group filter-group-actions">
+      <div class="filter-count">
+        <strong id="bibliography-count">{{ site.data.bibliography.index | size }}</strong> of {{ site.data.bibliography.index | size }} references
+      </div>
+      <button class="btn-secondary btn-clear-filters" id="bibliography-clear-filters" type="button">Clear filters</button>
+    </div>
+  </div>
+
+  <div class="bibliography-browse-empty" id="bibliography-empty" hidden>
+    <p>No references match the current filters. <button type="button" class="btn-link" id="bibliography-empty-clear">Clear filters</button> to see everything.</p>
+  </div>
+
+  <ol class="bibliography-browse-grid" id="bibliography-browse-grid">
+    {% assign entries = site.data.bibliography.index %}
+    {% for entry in entries %}
+      {%- comment -%} Compute decade from year (Liquid integer comparisons) {%- endcomment -%}
+      {%- assign year_num = entry.year | plus: 0 -%}
+      {%- if year_num == 0 -%}
+        {%- assign decade = "unknown" -%}
+      {%- elsif year_num < 1900 -%}
+        {%- assign decade = "pre-1900" -%}
+      {%- elsif year_num < 1950 -%}
+        {%- assign decade = "1900-1949" -%}
+      {%- elsif year_num < 1960 -%}
+        {%- assign decade = "1950s" -%}
+      {%- elsif year_num < 1970 -%}
+        {%- assign decade = "1960s" -%}
+      {%- elsif year_num < 1980 -%}
+        {%- assign decade = "1970s" -%}
+      {%- elsif year_num < 1990 -%}
+        {%- assign decade = "1980s" -%}
+      {%- elsif year_num < 2000 -%}
+        {%- assign decade = "1990s" -%}
+      {%- elsif year_num < 2010 -%}
+        {%- assign decade = "2000s" -%}
+      {%- elsif year_num < 2020 -%}
+        {%- assign decade = "2010s" -%}
+      {%- else -%}
+        {%- assign decade = "2020s" -%}
+      {%- endif -%}
+      {%- comment -%} Slugify the domain name to match filter data-values {%- endcomment -%}
+      {%- assign domain_slug = entry.domain_group | downcase | replace: " ", "-" | replace: "&", "and" -%}
+      {%- assign status = "cited" -%}
+      {%- if entry.is_orphan -%}{%- assign status = "orphan" -%}{%- endif -%}
+      {%- assign title_lower = entry.title_plain | default: entry.title | downcase -%}
+      {%- assign citations = entry.cited_in_count | default: 0 -%}
+      <li class="biblio-card"
+          data-domain="{{ domain_slug }}"
+          data-role="{{ entry.role_in_program }}"
+          data-type="{{ entry.entry_type }}"
+          data-status="{{ status }}"
+          data-books="{{ entry.cited_books }}"
+          data-decade="{{ decade }}"
+          data-year="{{ year_num }}"
+          data-title="{{ title_lower | escape }}"
+          data-citations="{{ citations }}">
+        <a class="biblio-card-link" href="{{ entry.url | relative_url }}">
+          <div class="biblio-card-top">
+            {% if entry.is_orphan %}
+              <span class="chip chip-small chip-status-corpus">In corpus</span>
+            {% else %}
+              <span class="chip chip-small chip-status-cited">Cited {{ citations }}×</span>
+            {% endif %}
+            <span class="chip chip-small">{{ entry.domain_group }}</span>
+            <span class="chip chip-small">{{ entry.type_display }}</span>
+          </div>
+          <h3 class="biblio-card-title">{{ entry.title }}</h3>
+          <div class="biblio-card-meta">{{ entry.authors }}{% if entry.year and entry.year != "" %} ({{ entry.year }}){% endif %}</div>
+          <div class="biblio-card-bottom">
+            {% if entry.role_display %}<span class="chip chip-small chip-role">{{ entry.role_display }}</span>{% endif %}
+            {% if entry.cited_books and entry.cited_books != "" %}
+              {% assign book_list = entry.cited_books | split: "," %}
+              {% for b in book_list %}
+                <span class="chip chip-small chip-book">Book {{ b }}</span>
+              {% endfor %}
+            {% endif %}
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</div>
+
+<script defer src="{{ '/assets/js/bibliography-browse.js' | relative_url }}"></script>
