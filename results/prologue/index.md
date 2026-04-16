@@ -27,7 +27,7 @@ The Results lane of the Panta Rhei Research Program does not begin, in the first
 
 **What kind of thing must exist before a corpus of claims can count, in the program's own terms, as a corpus of results?**
 
-That question matters because the site contains two very different but related layers. One layer is the **Result Atlas**: the large and growing collection of [individual result pages]({{ '/results/by-problem/' | relative_url }}), each tied to recognized problems, internal theorem clusters, or consequence-level readouts. The other layer is prior to the atlas — it asks why the [framework]({{ '/framework/about/' | relative_url }}) itself qualifies as a legitimate result-bearing object.
+That question matters because the site contains two very different but related layers. One layer is the **Result Atlas**: the large and growing collection of [individual result pages]({{ '/results/browse/' | relative_url }}), each tied to recognized problems, internal theorem clusters, or consequence-level readouts. The other layer is prior to the atlas — it asks why the [framework]({{ '/framework/about/' | relative_url }}) itself qualifies as a legitimate result-bearing object.
 
 This introduction answers that prior question. It explains **how the framework first exists**: not yet as a public theory of reality, but as a materialized formal system implemented over Lean 4 and the Calculus of Inductive Constructions. This is the first epistemic stance of the program and the first admissible layer of resulthood.
 
@@ -47,7 +47,7 @@ The first epistemic stance: [TauLib]({{ '/verify/' | relative_url }}) as materia
 
 ## How to read these pages
 
-These pages are written as interpretive and epistemic clarifications, not as theorem ledgers. They aim to make explicit what is already distributed across the [books]({{ '/publications/' | relative_url }}), the [framework modules]({{ '/framework/' | relative_url }}), [TauLib]({{ '/verify/' | relative_url }}), and the [result corpus]({{ '/results/by-problem/' | relative_url }}).
+These pages are written as interpretive and epistemic clarifications, not as theorem ledgers. They aim to make explicit what is already distributed across the [books]({{ '/publications/' | relative_url }}), the [framework modules]({{ '/framework/' | relative_url }}), [TauLib]({{ '/verify/' | relative_url }}), and the [result corpus]({{ '/results/browse/' | relative_url }}).
 
 A reader does not need to grant the program all of its later world-readout claims to benefit from this introduction. It is enough, at first, to ask a more modest question:
 

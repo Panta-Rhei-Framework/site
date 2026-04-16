@@ -24,7 +24,7 @@ right_rail:
   - title: Mathematics Results
     url: /results/topic/mathematics/
   - title: Results by Problem
-    url: /results/by-problem/
+    url: /results/browse/
   - title: Status & Claim Typing
     url: /results/status-and-claim-typing/
   - title: Verify Lane
@@ -138,7 +138,7 @@ But this prologue page has a simpler task: to make explicit the collective mathe
 
 ## Why this matters for the Results lane
 
-This page also changes how the reader should understand the [result atlas]({{ '/results/by-problem/' | relative_url }}).
+This page also changes how the reader should understand the [result atlas]({{ '/results/browse/' | relative_url }}).
 
 The atlas is not just a pile of disconnected problem pages. It is a detailed unpacking of what follows from a mathematical world that, on the program's own reading, already yields an unusually strong and coherent cluster of major truths.
 

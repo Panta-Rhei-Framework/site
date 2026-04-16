@@ -13,6 +13,8 @@
   var emptyEl = document.getElementById('results-empty');
   var clearBtn = document.getElementById('results-clear-filters');
   var emptyClearBtn = document.getElementById('results-empty-clear');
+  var advancedToggle = document.getElementById('results-toggle-advanced');
+  var advancedGroup = document.getElementById('results-advanced-filters');
 
   // Multi-value filter state — set of active values per dimension
   var state = {
@@ -190,6 +192,23 @@
 
   if (clearBtn) clearBtn.addEventListener('click', clearAll);
   if (emptyClearBtn) emptyClearBtn.addEventListener('click', clearAll);
+
+  // ---------- Advanced filter toggle ----------
+  if (advancedToggle && advancedGroup) {
+    advancedToggle.addEventListener('click', function () {
+      var isHidden = advancedGroup.hidden;
+      advancedGroup.hidden = !isHidden;
+      advancedToggle.textContent = isHidden ? 'Fewer filters' : 'More filters';
+    });
+    // Auto-expand if any advanced filter is active on page load
+    var hasAdvancedActive = ['layer', 'kind', 'importance', 'book'].some(function (k) {
+      return state[k] && state[k].size > 0;
+    });
+    if (hasAdvancedActive) {
+      advancedGroup.hidden = false;
+      advancedToggle.textContent = 'Fewer filters';
+    }
+  }
 
   window.addEventListener('popstate', function () {
     readStateFromUrl();

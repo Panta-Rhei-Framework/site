@@ -98,4 +98,4 @@ Logos is the final boundary of the Tau world-readout. It is the place where mean
 
 ---
 
-*Previous: [Mind, Consciousness, and the Self-Model]({{ '/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/by-problem/' | relative_url }})*
+*Previous: [Mind, Consciousness, and the Self-Model]({{ '/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/browse/' | relative_url }})*

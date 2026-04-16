@@ -81,6 +81,31 @@
   &.chip-status-n.is-active { background: #6b7280; border-color: #6b7280; color: #fff; }
 }
 
+// Advanced filter toggle
+.filter-advanced-toggle {
+  display: flex;
+  align-items: center;
+  padding-top: 4px;
+
+  .btn-link {
+    font-size: 0.82rem;
+    font-weight: 600;
+  }
+}
+
+.filter-advanced-group {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding-top: 12px;
+  margin-top: 4px;
+  border-top: 1px solid rgba(22, 29, 37, 0.06);
+
+  &[hidden] {
+    display: none;
+  }
+}
+
 .filter-group-actions {
   justify-content: space-between;
   padding-top: 10px;

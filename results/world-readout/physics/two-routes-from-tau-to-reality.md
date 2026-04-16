@@ -80,4 +80,4 @@ Tau can therefore be engaged in two epistemically distinct but compatible ways: 
 
 ---
 
-*Previous: [What This Physics Makes True]({{ '/results/world-readout/physics/what-this-physics-makes-true/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/by-problem/' | relative_url }})*
+*Previous: [What This Physics Makes True]({{ '/results/world-readout/physics/what-this-physics-makes-true/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/browse/' | relative_url }})*

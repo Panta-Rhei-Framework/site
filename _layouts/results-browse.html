@@ -18,6 +18,7 @@ layout: default
   </div>
 
   <div class="results-browse-controls" id="results-browse-controls" aria-label="Filter and sort results">
+    <!-- Primary filters (always visible) -->
     <div class="filter-group" data-filter-group="topic">
       <span class="filter-label">Domain</span>
       <div class="filter-chips">
@@ -25,36 +26,6 @@ layout: default
         <button class="filter-chip" data-filter="topic" data-value="physics" type="button">Physics</button>
         <button class="filter-chip" data-filter="topic" data-value="biology" type="button">Biology</button>
         <button class="filter-chip" data-filter="topic" data-value="philosophy" type="button">Philosophy</button>
-      </div>
-    </div>
-
-    <div class="filter-group" data-filter-group="layer">
-      <span class="filter-label">Layer</span>
-      <div class="filter-chips">
-        <button class="filter-chip" data-filter="layer" data-value="mathematics" type="button">E₀ Math</button>
-        <button class="filter-chip" data-filter="layer" data-value="physics" type="button">E₁ Physics</button>
-        <button class="filter-chip" data-filter="layer" data-value="life" type="button">E₂ Life</button>
-        <button class="filter-chip" data-filter="layer" data-value="metaphysics" type="button">E₃ Meta</button>
-      </div>
-    </div>
-
-    <div class="filter-group" data-filter-group="kind">
-      <span class="filter-label">Kind</span>
-      <div class="filter-chips">
-        <button class="filter-chip" data-filter="kind" data-value="frontier-problem" type="button">Frontier Problem</button>
-        <button class="filter-chip" data-filter="kind" data-value="foundational-math" type="button">Foundational Math</button>
-        <button class="filter-chip" data-filter="kind" data-value="consequence" type="button">Consequence</button>
-      </div>
-    </div>
-
-    <div class="filter-group" data-filter-group="importance">
-      <span class="filter-label">Importance</span>
-      <div class="filter-chips">
-        <button class="filter-chip" data-filter="importance" data-value="core-foundational-problem" type="button">Core Foundational</button>
-        <button class="filter-chip" data-filter="importance" data-value="high-impact-frontier-problem" type="button">High-Impact Frontier</button>
-        <button class="filter-chip" data-filter="importance" data-value="domain-level-open-problem" type="button">Domain-Level</button>
-        <button class="filter-chip" data-filter="importance" data-value="structural-support-result" type="button">Structural Support</button>
-        <button class="filter-chip" data-filter="importance" data-value="consequence-reframing" type="button">Consequence/Reframing</button>
       </div>
     </div>
 
@@ -69,25 +40,62 @@ layout: default
       </div>
     </div>
 
-    <div class="filter-group" data-filter-group="book">
-      <span class="filter-label">Book</span>
-      <div class="filter-chips">
-        <button class="filter-chip" data-filter="book" data-value="I" type="button">I</button>
-        <button class="filter-chip" data-filter="book" data-value="II" type="button">II</button>
-        <button class="filter-chip" data-filter="book" data-value="III" type="button">III</button>
-        <button class="filter-chip" data-filter="book" data-value="IV" type="button">IV</button>
-        <button class="filter-chip" data-filter="book" data-value="V" type="button">V</button>
-        <button class="filter-chip" data-filter="book" data-value="VI" type="button">VI</button>
-        <button class="filter-chip" data-filter="book" data-value="VII" type="button">VII</button>
-      </div>
-    </div>
-
     <div class="filter-group filter-group-sort">
       <span class="filter-label">Sort</span>
       <div class="filter-chips">
         <button class="sort-chip is-active" data-sort="importance" type="button">Importance</button>
         <button class="sort-chip" data-sort="alpha" type="button">A → Z</button>
         <button class="sort-chip" data-sort="book" type="button">By Book</button>
+      </div>
+    </div>
+
+    <!-- Advanced filters (collapsed by default) -->
+    <div class="filter-advanced-toggle">
+      <button class="btn-link" id="results-toggle-advanced" type="button">More filters</button>
+    </div>
+
+    <div class="filter-advanced-group" id="results-advanced-filters" hidden>
+      <div class="filter-group" data-filter-group="layer">
+        <span class="filter-label">Layer</span>
+        <div class="filter-chips">
+          <button class="filter-chip" data-filter="layer" data-value="mathematics" type="button">E₀ Math</button>
+          <button class="filter-chip" data-filter="layer" data-value="physics" type="button">E₁ Physics</button>
+          <button class="filter-chip" data-filter="layer" data-value="life" type="button">E₂ Life</button>
+          <button class="filter-chip" data-filter="layer" data-value="metaphysics" type="button">E₃ Meta</button>
+        </div>
+      </div>
+
+      <div class="filter-group" data-filter-group="kind">
+        <span class="filter-label">Kind</span>
+        <div class="filter-chips">
+          <button class="filter-chip" data-filter="kind" data-value="frontier-problem" type="button">Frontier Problem</button>
+          <button class="filter-chip" data-filter="kind" data-value="foundational-math" type="button">Foundational Math</button>
+          <button class="filter-chip" data-filter="kind" data-value="consequence" type="button">Consequence</button>
+        </div>
+      </div>
+
+      <div class="filter-group" data-filter-group="importance">
+        <span class="filter-label">Importance</span>
+        <div class="filter-chips">
+          <button class="filter-chip" data-filter="importance" data-value="core-foundational-problem" type="button">Core Foundational</button>
+          <button class="filter-chip" data-filter="importance" data-value="high-impact-frontier-problem" type="button">High-Impact Frontier</button>
+          <button class="filter-chip" data-filter="importance" data-value="domain-level-open-problem" type="button">Domain-Level</button>
+          <button class="filter-chip" data-filter="importance" data-value="structural-support-result" type="button">Structural Support</button>
+          <button class="filter-chip" data-filter="importance" data-value="consequence-reframing" type="button">Consequence/Reframing</button>
+        </div>
+      </div>
+
+      <div class="filter-group" data-filter-group="book">
+        <span class="filter-label">Book</span>
+        <div class="filter-chips">
+          <button class="filter-chip" data-filter="book" data-value="I" type="button">I</button>
+          <button class="filter-chip" data-filter="book" data-value="II" type="button">II</button>
+          <button class="filter-chip" data-filter="book" data-value="III" type="button">III</button>
+          <button class="filter-chip" data-filter="book" data-value="IV" type="button">IV</button>
+          <button class="filter-chip" data-filter="book" data-value="V" type="button">V</button>
+          <button class="filter-chip" data-filter="book" data-value="VI" type="button">VI</button>
+          <button class="filter-chip" data-filter="book" data-value="VII" type="button">VII</button>
+        </div>
       </div>
     </div>
 

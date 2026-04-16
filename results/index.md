@@ -1,6 +1,6 @@
 ---
 layout: program-doc
-title: Key Results
+title: Results
 permalink: /results/
 lane: results
 summary_short: "A frontier-problem-first research interface — 234 results across mathematics, physics, biology, and philosophy."
@@ -110,12 +110,6 @@ The [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relat
 - [Mathematics](/results/topic/mathematics/) — 76 results
 - [Philosophy](/results/topic/philosophy/) — 45 results
 - [Physics](/results/topic/physics/) — 60 results
-
-## Browse
-
-- [All results by problem](/results/by-problem/)
-- [Results by domain](/results/by-domain/)
-- [Results by book](/results/by-book/)
 
 ## Understanding This Lane
 
