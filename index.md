@@ -67,19 +67,20 @@ right_rail:
 <div class="content-card homepage-section">
   <svg class="section-icon-corner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
   <h2>Current scope of the program&rsquo;s claims</h2>
-  <p>The program currently presents <strong>{{ result_count }} key results</strong> across four domains, each with typed epistemic status. A selection of flagship claims:</p>
+  <p>The program currently presents <strong>{{ result_count }} key results</strong> across four domains, each with typed epistemic status, plus a <strong>Physics Ledger</strong> of 67 zero-parameter numerical predictions and a 30-item falsification pack. A selection of flagship claims:</p>
   <ul>
     <li><strong>Dark sector closure</strong> <span class="status-badge status-live">Resolved</span>&mdash;dark matter and dark energy as structural artifacts of the boundary reading, not new particles</li>
     <li><strong>Hubble tension</strong> <span class="status-badge status-live">Resolved</span>&mdash;h = 2/3 + &iota;<sub>&tau;</sub>&sup2;/17 at &minus;120 ppm, zero free parameters</li>
+    <li><strong>Sub-10 ppm precision</strong> <span class="status-badge status-live">15 predictions</span>&mdash;electron mass (0.025 ppm), sin&sup2;&theta;<sub>W</sub> (&minus;0.65 ppm), Higgs mass (+8.0 ppm), from one constant</li>
     <li><strong>Genetic code optimality</strong> <span class="status-badge status-live">Resolved</span>&mdash;top 0.01% for error minimization, derived from BSD-motivic structure</li>
     <li><strong>Categorical Imperative</strong> <span class="status-badge status-live">Resolved</span>&mdash;Kant&rsquo;s CI derived as the unique j-closed fixed point, not postulated</li>
-    <li><strong>Hierarchy problem</strong> <span class="status-badge status-live">Resolved</span>&mdash;the 10<sup>32</sup> gravity/EM ratio from structural sector separation</li>
-    <li><strong>Gettier Problem</strong> <span class="status-badge status-live">Resolved</span>&mdash;knowledge as global section, Gettier cases as cover failures</li>
+    <li><strong>30 falsification tests</strong> <span class="status-badge status-live">N1&ndash;N30</span>&mdash;named experiments, 2025&ndash;2035 timelines, 7 seams where &tau; and orthodox physics disagree</li>
   </ul>
-  <p>Every claim carries a status: resolved, partial, qualitative, or contradicted. The typing is not optional&mdash;it is the program&rsquo;s principal epistemic commitment.</p>
+  <p>Every claim carries a status: resolved, partial, qualitative, or contradicted. The typing is not optional&mdash;it is the program&rsquo;s principal epistemic commitment. The 67 numerical predictions are <strong>bridge-independent</strong>: they can be compared directly to experimental measurement without accepting the framework&rsquo;s deeper ontological claims.</p>
   <div class="btn-group section-ctas">
     <a href="{{ '/results/' | relative_url }}" class="btn-secondary">Browse {{ result_count }} Results</a>
-    <a href="{{ '/results/why-so-many-results/' | relative_url }}" class="btn-ghost">Why So Many Results</a>
+    <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-secondary">67 Predictions</a>
+    <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost">Falsification Pack</a>
   </div>
 </div>
 
@@ -91,15 +92,16 @@ right_rail:
     <li><strong>{{ book_count }} canonical books</strong>&mdash;{{ chapter_count }} chapters in proof-order, available on Amazon KDP</li>
     <li><strong>TauLib</strong>&mdash;450 Lean 4 modules, 125,771 lines, 4,332 machine-checked theorems, 0 sorry in Books I&ndash;VI</li>
     <li><strong>{{ registry_count }} registry objects</strong>&mdash;every definition, theorem, and proposition with dependency graphs</li>
-    <li><strong>8 guided tours</strong>&mdash;interactive Lean walkthroughs for skeptics, mathematicians, physicists, biologists, and philosophers</li>
-    <li><strong>220+ quantitative predictions</strong>&mdash;specific numerical values with explicit precision and falsification routes</li>
+    <li><strong>67 quantitative predictions</strong>&mdash;from one constant, with 15 at sub-10 ppm precision, each filterable by domain, precision tier, and scope</li>
+    <li><strong>30 falsification tests (N1&ndash;N30)</strong>&mdash;named experiments (CMB-S4, LZ, DESI, ngEHT), specific timelines, 5&sigma; threshold</li>
+    <li><strong>Physics Ledger (free PDF)</strong>&mdash;the complete 156-page numerical scorecard with full derivations, available for download</li>
   </ul>
-  <p>The decisive empirical test: CMB-S4 will measure the tensor-to-scalar ratio <em>r</em>. If <em>r</em> is inconsistent with &iota;<sub>&tau;</sub><sup>4</sup>, the framework&rsquo;s cosmological predictions fail.</p>
+  <p>The decisive empirical test: CMB-S4 will measure the tensor-to-scalar ratio <em>r</em>. The &tau;-prediction is <em>r</em> = &iota;<sub>&tau;</sub><sup>4</sup> &asymp; 0.0136, testable at 14&sigma; significance. If <em>r</em> is inconsistent, the framework&rsquo;s cosmological predictions fail.</p>
   <div class="btn-group section-ctas">
     <a href="{{ '/publications/books/' | relative_url }}" class="btn-secondary">Get the Books</a>
-    <a href="{{ '/verify/' | relative_url }}" class="btn-secondary">Verify</a>
+    <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download>Physics Ledger (PDF)</a>
+    <a href="{{ '/verify/' | relative_url }}" class="btn-ghost">Verify</a>
     <a href="{{ '/registry/' | relative_url }}" class="btn-ghost">Registry</a>
-    <a href="{{ '/publications/guided-tours/' | relative_url }}" class="btn-ghost">Guided Tours</a>
   </div>
 </div>
 
@@ -125,11 +127,12 @@ right_rail:
   <p>The program can be entered through many routes:</p>
   <ul>
     <li><a href="{{ '/publications/books/' | relative_url }}"><strong>The Seven Books</strong></a>&mdash;the canonical monograph series with DOIs and Amazon links</li>
+    <li><a href="{{ '/publications/physics-ledger/' | relative_url }}"><strong>Physics Ledger (free PDF)</strong></a>&mdash;67 predictions + 30 falsifications in one 156-page document</li>
     <li><a href="{{ '/results/' | relative_url }}"><strong>Key Results</strong></a>&mdash;{{ result_count }} results with typed status across four domains</li>
     <li><a href="{{ '/verify/' | relative_url }}"><strong>Verify</strong></a>&mdash;clone TauLib, run <code>lake build</code>, step through the tours</li>
     <li><a href="{{ '/media/' | relative_url }}"><strong>Media Kit</strong></a>&mdash;for journalists, podcast hosts, reviewers, and institutions</li>
     <li><a href="{{ '/engage/follow-the-research/' | relative_url }}"><strong>Follow the Research</strong></a>&mdash;stay connected with the program&rsquo;s ongoing work</li>
   </ul>
-  <p><strong>The enrichment ladder.</strong> For a guided reading path that follows the framework&rsquo;s own architecture, start with the <a href="{{ '/results/prologue/' | relative_url }}">Results Introduction</a>, then continue through the four world readouts&mdash;<a href="{{ '/results/world-readout/mathematics/' | relative_url }}">Mathematics</a> (E<sub>0</sub>), <a href="{{ '/results/world-readout/physics/' | relative_url }}">Physics</a> (E<sub>1</sub>), <a href="{{ '/results/world-readout/life/' | relative_url }}">Life</a> (E<sub>2</sub>), <a href="{{ '/results/world-readout/metaphysics/' | relative_url }}">Metaphysics</a> (E<sub>3</sub>)&mdash;before entering the <a href="{{ '/results/browse/' | relative_url }}">detailed result atlas</a>.</p>
+  <p><strong>The enrichment ladder.</strong> For a guided reading path that follows the framework&rsquo;s own architecture, start with the <a href="{{ '/results/prologue/' | relative_url }}">Results Introduction</a>, then continue through the four world readouts&mdash;<a href="{{ '/results/world-readout/mathematics/' | relative_url }}">Mathematics</a> (E<sub>0</sub>), <a href="{{ '/results/world-readout/physics/' | relative_url }}">Physics</a> (E<sub>1</sub>), <a href="{{ '/results/world-readout/life/' | relative_url }}">Life</a> (E<sub>2</sub>), <a href="{{ '/results/world-readout/metaphysics/' | relative_url }}">Metaphysics</a> (E<sub>3</sub>)&mdash;then explore the <a href="{{ '/results/predictions/browse/' | relative_url }}">67 predictions</a>, the <a href="{{ '/results/falsifications/browse/' | relative_url }}">30 falsification tests</a>, and the <a href="{{ '/results/browse/' | relative_url }}">detailed result atlas</a>.</p>
   <p><em>Panta Rhei&mdash;Everything Flows.</em></p>
 </div>
