@@ -23,7 +23,7 @@ right_rail:
     updated: April 2026
 ---
 
-This is the **E₂ (Life)** layer of the enrichment ladder — following the [mathematics prologue]({{ '/results/prologue/' | relative_url }}) (E₀) and [Physics world readout]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), and preceding the [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readout.
+This is the **E₂ (Life)** layer of the enrichment ladder — following the [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀) and [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁) world readouts, and preceding the [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readout.
 
 The pages collected here do not function as the detailed atlas of all life-related results in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
 

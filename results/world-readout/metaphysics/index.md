@@ -23,7 +23,7 @@ right_rail:
     updated: April 2026
 ---
 
-This is the **E₃ (Metaphysics)** layer — the terminal stage of the enrichment ladder, following the [mathematics prologue]({{ '/results/prologue/' | relative_url }}) (E₀), the [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁) and [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂) world readouts. After this cluster, readers enter the [detailed result atlas]({{ '/results/browse/' | relative_url }}).
+This is the **E₃ (Metaphysics)** layer — the terminal stage of the enrichment ladder, following the [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), and [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂) world readouts. After this cluster, readers enter the [detailed result atlas]({{ '/results/browse/' | relative_url }}).
 
 The pages collected here do not function as the detailed atlas of all metaphysics-related results in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
 

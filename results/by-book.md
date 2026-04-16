@@ -23,7 +23,7 @@ right_rail:
 
 Results are grouped by the [canonical book]({{ '/publications/books/' | relative_url }}) where their derivation is grounded. Some results appear under multiple books when the argument spans volumes. The seven books follow the [enrichment ladder]({{ '/framework/mathematics-canonical-ladder/' | relative_url }}): Books I-III (mathematics), Books IV-V (physics), Book VI (life), Book VII (metaphysics).
 
-Before browsing individual results, the [Results Prologue]({{ '/results/prologue/' | relative_url }}) and world-readout clusters describe the broader world from which these results follow: [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}), [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}), [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}). You can also [browse all results with filters]({{ '/results/browse/' | relative_url }}).
+Before browsing individual results, the [Results Introduction]({{ '/results/prologue/' | relative_url }}) and world-readout clusters describe the broader world from which these results follow: [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂), [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃). You can also [browse all results with filters]({{ '/results/browse/' | relative_url }}).
 
 ### [Book I: Categorical Foundations]({{ '/publications/books/book-i/' | relative_url }}) — 24 results
 *How Mathematics Is Earned* · E₀ Mathematics

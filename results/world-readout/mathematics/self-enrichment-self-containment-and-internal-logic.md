@@ -1,10 +1,10 @@
 ---
 layout: program-doc
 title: Self-Enrichment, Self-Containment, and Internal Logic
-permalink: /results/prologue/self-enrichment-self-containment-and-internal-logic/
+permalink: /results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/
 lane: results
-section: "Results · Prologue"
-nav_order: 5
+section: "Results · Mathematics World Readout"
+nav_order: 4
 summary_short: "Why Tau can enrich over itself, host internal logic, and remain ontically closed — and why this changes the epistemic shape of the framework."
 key_registry:
   - I.T01
@@ -16,8 +16,8 @@ key_registry:
   - VII.D15
 right_rail:
   related:
-  - title: Results Prologue
-    url: /results/prologue/
+  - title: Mathematics World Readout
+    url: /results/world-readout/mathematics/
   - title: Self-Enrichment & Four Layers
     url: /framework/about/self-enrichment-and-the-four-layers/
   - title: Self-Hosting & Closure
@@ -33,7 +33,7 @@ right_rail:
     updated: April 2026
 ---
 
-If the [previous page]({{ '/results/prologue/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) asked what kind of mathematics Tau is, and the [page after it]({{ '/results/prologue/what-this-mathematics-makes-true/' | relative_url }}) what that mathematics makes true, then this page asks a deeper question still:
+If the [previous page]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) asked what kind of mathematics Tau is, and the [page after it]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) what that mathematics makes true, then this page asks a deeper question still:
 
 **what kind of mathematical world can enrich over itself, host internal logic, and still remain countable, constructive, and ontically closed at the base?**
 
@@ -160,4 +160,4 @@ Tau is not only a different mathematics. It is a different kind of mathematical 
 
 ---
 
-*Previous: [What This Mathematics Makes True]({{ '/results/prologue/what-this-mathematics-makes-true/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/by-problem/' | relative_url }})*
+*Previous: [What This Mathematics Makes True]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/by-problem/' | relative_url }})*
