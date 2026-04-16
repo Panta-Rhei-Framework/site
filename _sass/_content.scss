@@ -419,6 +419,67 @@ a.part-card {
   }
 }
 
+// Copy-to-clipboard bar for assessment prompt blocks
+.copy-prompt-bar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 12px;
+  padding: 10px 14px;
+  margin-top: 20px;
+  background: rgba(41, 75, 102, 0.04);
+  border: 1px solid rgba(41, 75, 102, 0.1);
+  border-bottom: none;
+  border-radius: $radius-sm $radius-sm 0 0;
+  font-size: 0.78rem;
+}
+
+.copy-prompt-label {
+  color: $text-muted;
+  font-family: $font-ui;
+  font-weight: 500;
+}
+
+.copy-prompt-btn {
+  display: inline-flex;
+  align-items: center;
+  gap: 5px;
+  height: 30px;
+  padding: 0 12px;
+  font-family: $font-ui;
+  font-size: 0.76rem;
+  font-weight: 580;
+  color: $accent;
+  background: rgba(255, 255, 255, 0.7);
+  border: 1px solid rgba(41, 75, 102, 0.15);
+  border-radius: $radius-pill;
+  cursor: pointer;
+  transition: all $transition;
+  flex-shrink: 0;
+
+  &:hover {
+    background: rgba(41, 75, 102, 0.08);
+    border-color: rgba(41, 75, 102, 0.25);
+  }
+
+  &.copied {
+    color: #1e7e34;
+    border-color: rgba(52, 168, 83, 0.3);
+    background: rgba(52, 168, 83, 0.08);
+  }
+
+  svg { flex-shrink: 0; }
+}
+
+// Ensure the code block following .copy-prompt-bar has matching top radius
+.copy-prompt-bar + .highlighter-rouge pre,
+.copy-prompt-bar + div > pre,
+.copy-prompt-bar + pre {
+  border-top-left-radius: 0;
+  border-top-right-radius: 0;
+  margin-top: 0;
+}
+
 // TauLib doc-gen4 content
 .taulib-doc-content {
   .decl { margin-bottom: 16px; }

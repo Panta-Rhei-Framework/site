@@ -32,7 +32,7 @@ The protocol works with public materials only. No confidential or unpublished ma
 
 ## The Prompt
 
-Copy the entire block below and paste it into a frontier model.
+{% include copy-prompt-button.html id="series-prompt" %}
 
 ```text
 You are conducting an AI-assisted first-pass assessment of a public research architecture.
