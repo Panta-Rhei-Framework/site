@@ -87,18 +87,45 @@
 <!-- Fonts: Inter variable (self-hosted — zero external requests) -->
 <link rel="preload" href="{{ '/assets/fonts/InterVariable.woff2' | relative_url }}" as="font" type="font/woff2" crossorigin>
 
-<!-- Styles: preload + stylesheet for faster LCP (cache-bust on build) -->
 {%- assign cache_bust = site.time | date: '%s' -%}
-<link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}?v={{ cache_bust }}" as="style">
-<link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ cache_bust }}">
+
+<!-- Critical CSS: inlined for instant first paint (eliminates render-blocking main.css from LCP path) -->
+<style>
+@font-face{font-family:"Inter";src:url("{{ '/assets/fonts/InterVariable.woff2' | relative_url }}") format("woff2-variations");font-weight:100 900;font-style:normal;font-display:swap}
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0}
+html{scroll-behavior:smooth;-webkit-text-size-adjust:100%}
+body{font-family:"Inter",system-ui,-apple-system,"Segoe UI",Roboto,sans-serif;font-size:16px;line-height:1.7;color:#182027;background:#f6f7f3;background-image:linear-gradient(160deg,rgba(255,255,255,.4) 0%,rgba(238,241,235,.2) 40%,rgba(246,247,243,0) 70%);background-attachment:fixed;min-height:100vh;-webkit-font-smoothing:antialiased}
+h1,h2,h3,h4{font-family:"Iowan Old Style",Palatino,"Palatino Linotype","Book Antiqua",Georgia,serif;color:#182027;line-height:1.25}
+h1{font-size:clamp(2.1rem,2vw + 1.5rem,3.2rem);font-weight:400;margin-bottom:.6em}
+p{color:#5b6772;line-height:1.7;margin-bottom:1rem}
+a{color:#294b66;text-decoration:none}
+.skip-link{position:absolute;top:-100%;left:0;padding:8px 16px;background:#294b66;color:#fff;z-index:100;font-size:.85rem;border-radius:0 0 8px 0}
+.skip-link:focus{top:0}
+.site-header{position:sticky;top:0;z-index:55;display:flex;align-items:center;height:56px;padding:0 22px;background:rgba(255,255,255,.58);border-bottom:1px solid rgba(255,255,255,.72);backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px)}
+.header-brand{display:flex;align-items:center;gap:10px;text-decoration:none}
+.brand-title{font-family:"Inter",system-ui,sans-serif;font-size:.95rem;font-weight:700;color:#182027}
+.brand-sub{font-size:.72rem;color:#5b6772}
+.header-nav{display:flex;gap:2px;margin-left:auto}
+.header-nav-link{font-size:.82rem;font-weight:500;color:#5b6772;padding:6px 11px;border-radius:8px}
+.header-controls{display:flex;align-items:center;gap:4px;margin-left:12px}
+.page-grid{display:grid;grid-template-columns:260px minmax(0,860px) 240px;gap:18px;max-width:calc(260px + 860px + 240px + 36px);margin:18px auto 0;padding:0 22px;align-items:start}
+.main-content{min-width:0}
+.left-rail,.right-rail{padding:20px 16px;background:rgba(255,255,255,.58);border:1px solid rgba(255,255,255,.72);border-radius:22px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px)}
+.hero-card{background:rgba(255,255,255,.58);border:1px solid rgba(255,255,255,.72);border-radius:22px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);padding:28px 30px 22px;margin-bottom:18px}
+.content-card{background:rgba(255,255,255,.58);border:1px solid rgba(255,255,255,.72);border-radius:22px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);padding:24px 28px;margin-bottom:18px}
+.eyebrow{display:inline-block;font-family:"Inter",system-ui,sans-serif;font-size:.72rem;font-weight:650;text-transform:uppercase;letter-spacing:.08em;color:#5b6772;margin-bottom:8px}
+@media(max-width:1080px){.page-grid{grid-template-columns:1fr;max-width:860px;padding:0 16px}.left-rail{display:none}.right-rail{position:static;order:3;max-height:none;margin-top:18px}}
+@media(max-width:760px){.page-grid{padding:0 10px;gap:12px}.header-nav{display:none}.hero-card{padding:20px 16px 16px}.content-card{padding:16px}}
+</style>
+
+<!-- Full stylesheet: async load (non-blocking — critical CSS above handles first paint) -->
+<link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}?v={{ cache_bust }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}?v={{ cache_bust }}"></noscript>
 
 <!-- Pagefind search (CSS deferred — only needed when search overlay opens; JS already deferred) -->
 <link rel="preload" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}?v={{ cache_bust }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
 <noscript><link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}?v={{ cache_bust }}"></noscript>
 <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}?v={{ cache_bust }}" defer></script>
-
-<!-- Skip to content (a11y) -->
-<style>.skip-link{position:absolute;top:-100%;left:0;padding:8px 16px;background:#294b66;color:#fff;z-index:100;font-size:0.85rem;border-radius:0 0 8px 0;}.skip-link:focus{top:0;}</style>
 
 <!-- Google Scholar + Dublin Core citation metadata -->
 {%- include scholar-citation-meta.html -%}
