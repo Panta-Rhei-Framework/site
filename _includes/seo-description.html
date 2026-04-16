@@ -74,6 +74,18 @@ Registry dashboard — 4,547 typed mathematical objects across the seven books o
 {%- when 'program-doc' -%}
 {% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}{{ page.title }} — Panta Rhei Research Program.{% endif %}
 
+{%- when 'prediction-page' -%}
+{{ page.title_plain | default: page.title | strip_html }} — τ-value {{ page.tau_value }}, observed {{ page.observed_value }}, deviation {{ page.deviation }}. Zero-parameter prediction from ι_τ = 2/(π+e). {{ page.domain_display | default: 'Physics' }} domain. Panta Rhei Research Program.
+
+{%- when 'falsification-page' -%}
+{{ page.title | strip_html }} — {{ page.experiment }}. {{ page.timeline }}. {{ page.domain_display | default: 'Physics' }} domain. Part of the 30-prediction falsification pack (N1–N30). Panta Rhei Research Program.
+
+{%- when 'predictions-browse' -%}
+{% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}Browse 67 zero-parameter physics predictions from the single master constant ι_τ = 2/(π+e). Filter by domain, precision, and scope.{% endif %}
+
+{%- when 'falsifications-browse' -%}
+{% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% else %}30 sharp falsification tests (N1–N30) with named experiments and 2025–2035 timelines. Panta Rhei Research Program.{% endif %}
+
 {%- else -%}
 {% if page.summary_short and page.summary_short != '' %}{{ page.summary_short | strip_html }}{% elsif page.description and page.description != '' %}{{ page.description | strip_html }}{% else %}{{ site.description }}{% endif %}
 

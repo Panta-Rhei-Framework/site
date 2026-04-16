@@ -575,6 +575,48 @@
 }
 </script>
 
+{%- when 'prediction-page' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": {{ json_title | jsonify }},
+  "description": {{ json_description | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "inLanguage": "en",
+  "author": {{ authors_json }},
+  "publisher": {{ publisher_json }}{% if page.domain_display %},
+  "about": {
+    "@type": "DefinedTerm",
+    "name": {{ page.domain_display | jsonify }}
+  }{% endif %}{% if page.registry_id and page.registry_id != "" %},
+  "identifier": {{ page.registry_id | jsonify }}{% endif %},
+  "articleSection": "Physics Predictions",
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ page.url | absolute_url }}" }
+}
+</script>
+
+{%- when 'falsification-page' -%}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "ScholarlyArticle",
+  "headline": {{ json_title | jsonify }},
+  "description": {{ json_description | jsonify }},
+  "url": "{{ page.url | absolute_url }}",
+  "inLanguage": "en",
+  "author": {{ authors_json }},
+  "publisher": {{ publisher_json }}{% if page.domain_display %},
+  "about": {
+    "@type": "DefinedTerm",
+    "name": {{ page.domain_display | jsonify }}
+  }{% endif %}{% if page.falsification_id %},
+  "identifier": {{ page.falsification_id | jsonify }}{% endif %},
+  "articleSection": "Falsification Pack",
+  "mainEntityOfPage": { "@type": "WebPage", "@id": "{{ page.url | absolute_url }}" }
+}
+</script>
+
 {%- else -%}
 <script type="application/ld+json">
 {

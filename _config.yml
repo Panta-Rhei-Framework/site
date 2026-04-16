@@ -101,3 +101,13 @@ defaults:
     values:
       layout: "changelog-entry"
       lane: "utility"
+  - scope:
+      type: "predictions"
+    values:
+      layout: "prediction-page"
+      lane: "results"
+  - scope:
+      type: "falsifications"
+    values:
+      layout: "falsification-page"
+      lane: "results"

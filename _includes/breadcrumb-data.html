@@ -109,6 +109,21 @@ Home::/|{{ lane_label }}::{{ lane_url }}|{{ page.title | replace: '|', ' ' }}::{
 {%- when 'results-browse' -%}
 Home::/|Key Results::/results/|Browse All Results::{{ page.url }}
 
+{%- when 'predictions-browse' -%}
+Home::/|Key Results::/results/|Physics Predictions::{{ page.url }}
+
+{%- when 'falsifications-browse' -%}
+Home::/|Key Results::/results/|Falsification Pack::{{ page.url }}
+
+{%- when 'prediction-page' -%}
+Home::/|Key Results::/results/|Predictions::/results/predictions/browse/|{{ page.title_plain | default: page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+
+{%- when 'falsification-page' -%}
+Home::/|Key Results::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+
+{%- when 'bibliography-browse' -%}
+Home::/|Bibliography::/bibliography/|Browse & Filter::{{ page.url }}
+
 {%- endcase -%}
 {%- endcapture -%}
 
