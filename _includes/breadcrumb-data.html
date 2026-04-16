@@ -78,6 +78,37 @@ Home::/|Changelog::{{ page.url }}
 {%- when 'bibliography-index' -%}
 Home::/|Bibliography::{{ page.url }}
 
+{%- when 'program-doc' -%}
+{%- assign lane_label = page.lane | default: '' | capitalize -%}
+{%- assign lane_url = '/' -%}
+{%- case page.lane -%}
+  {%- when 'results' -%}{%- assign lane_label = 'Key Results' -%}{%- assign lane_url = '/results/' -%}
+  {%- when 'framework' -%}{%- assign lane_label = 'Framework' -%}{%- assign lane_url = '/framework/about/' -%}
+  {%- when 'impact' -%}{%- assign lane_label = 'Impact' -%}{%- assign lane_url = '/impact/' -%}
+  {%- when 'verify' -%}{%- assign lane_label = 'Verify' -%}{%- assign lane_url = '/verify/' -%}
+  {%- when 'registry' -%}{%- assign lane_label = 'Registry' -%}{%- assign lane_url = '/registry/' -%}
+{%- endcase -%}
+{%- if page.section contains ' · ' -%}
+  {%- assign section_parts = page.section | split: ' · ' -%}
+  {%- assign cluster_label = section_parts[1] | strip -%}
+  {%- if cluster_label == 'Prologue' -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|Prologue::/results/prologue/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- elsif cluster_label == 'Physics World Readout' -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|Physics World Readout::/results/world-readout/physics/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- elsif cluster_label == 'Life World Readout' -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|Life World Readout::/results/world-readout/life/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- elsif cluster_label == 'Metaphysics World Readout' -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|Metaphysics World Readout::/results/world-readout/metaphysics/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- else -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
+{%- else -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+{%- endif -%}
+
+{%- when 'results-browse' -%}
+Home::/|Key Results::/results/|Browse All Results::{{ page.url }}
+
 {%- endcase -%}
 {%- endcapture -%}
 

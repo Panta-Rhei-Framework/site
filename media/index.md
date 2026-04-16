@@ -56,25 +56,25 @@ The Panta Rhei Research Program is an independent open research program developi
 
 | Document | Pages | Audience | Download |
 |----------|:-----:|----------|----------|
-| **Category τ at a Glance** | 1 | Everyone | [PDF]({{ '/assets/media/category-tau-at-a-glance.pdf' | relative_url }}) |
-| **Reader's Guide** | 3 | All readers | [PDF]({{ '/assets/media/readers-guide.pdf' | relative_url }}) |
-| **Falsification Pack** | 8 | Physicists, experimentalists | [PDF]({{ '/assets/media/falsification-pack.pdf' | relative_url }}) |
-| **Lean Verification Report** | 6 | Formal methods, mathematicians | [PDF]({{ '/assets/media/lean-verification-report.pdf' | relative_url }}) |
-| **Reviewer's Dossier** | 4 | Journal reviewers, evaluators | [PDF]({{ '/assets/media/reviewers-dossier.pdf' | relative_url }}) |
-| **Series Prospectus** | 23 | Academics, institutions | [PDF]({{ '/assets/media/series-prospectus.pdf' | relative_url }}) |
-| **Seminar Abstracts** | 4 | Seminar organizers | [PDF]({{ '/assets/media/seminar-abstracts.pdf' | relative_url }}) |
+| **Category τ at a Glance** | 1 | Everyone | [Download — Category τ at a Glance]({{ '/assets/media/category-tau-at-a-glance.pdf' | relative_url }}) |
+| **Reader's Guide** | 3 | All readers | [Download — Reader's Guide]({{ '/assets/media/readers-guide.pdf' | relative_url }}) |
+| **Falsification Pack** | 8 | Physicists, experimentalists | [Download — Falsification Pack]({{ '/assets/media/falsification-pack.pdf' | relative_url }}) |
+| **Lean Verification Report** | 6 | Formal methods, mathematicians | [Download — Lean Verification Report]({{ '/assets/media/lean-verification-report.pdf' | relative_url }}) |
+| **Reviewer's Dossier** | 4 | Journal reviewers, evaluators | [Download — Reviewer's Dossier]({{ '/assets/media/reviewers-dossier.pdf' | relative_url }}) |
+| **Series Prospectus** | 23 | Academics, institutions | [Download — Series Prospectus]({{ '/assets/media/series-prospectus.pdf' | relative_url }}) |
+| **Seminar Abstracts** | 4 | Seminar organizers | [Download — Seminar Abstracts]({{ '/assets/media/seminar-abstracts.pdf' | relative_url }}) |
 
 ### Guided Tours (one per book)
 
 | Tour | Book | Download |
 |------|------|----------|
-| **Categorical Foundations** | Book I — How Mathematics Is Earned | [PDF]({{ '/assets/media/guided-tour-book-I.pdf' | relative_url }}) |
-| **Categorical Holomorphy** | Book II — Finite Readouts of Infinity | [PDF]({{ '/assets/media/guided-tour-book-II.pdf' | relative_url }}) |
-| **Categorical Spectrum** | Book III — Where Physics Lives | [PDF]({{ '/assets/media/guided-tour-book-III.pdf' | relative_url }}) |
-| **Categorical Microcosm** | Book IV — The Self-Describing Universe | [PDF]({{ '/assets/media/guided-tour-book-IV.pdf' | relative_url }}) |
-| **Categorical Macrocosm** | Book V — The Biography of the Universe | [PDF]({{ '/assets/media/guided-tour-book-V.pdf' | relative_url }}) |
-| **Categorical Life** | Book VI — Life as Self-Decoding Distinctions | [PDF]({{ '/assets/media/guided-tour-book-VI.pdf' | relative_url }}) |
-| **Categorical Metaphysics** | Book VII — The Final Self-Enrichment | [PDF]({{ '/assets/media/guided-tour-book-VII.pdf' | relative_url }}) |
+| **Categorical Foundations** | Book I — How Mathematics Is Earned | [Download — Book I Tour]({{ '/assets/media/guided-tour-book-I.pdf' | relative_url }}) |
+| **Categorical Holomorphy** | Book II — Finite Readouts of Infinity | [Download — Book II Tour]({{ '/assets/media/guided-tour-book-II.pdf' | relative_url }}) |
+| **Categorical Spectrum** | Book III — Where Physics Lives | [Download — Book III Tour]({{ '/assets/media/guided-tour-book-III.pdf' | relative_url }}) |
+| **Categorical Microcosm** | Book IV — The Self-Describing Universe | [Download — Book IV Tour]({{ '/assets/media/guided-tour-book-IV.pdf' | relative_url }}) |
+| **Categorical Macrocosm** | Book V — The Biography of the Universe | [Download — Book V Tour]({{ '/assets/media/guided-tour-book-V.pdf' | relative_url }}) |
+| **Categorical Life** | Book VI — Life as Self-Decoding Distinctions | [Download — Book VI Tour]({{ '/assets/media/guided-tour-book-VI.pdf' | relative_url }}) |
+| **Categorical Metaphysics** | Book VII — The Final Self-Enrichment | [Download — Book VII Tour]({{ '/assets/media/guided-tour-book-VII.pdf' | relative_url }}) |
 
 ### Additional Research Assets
 
