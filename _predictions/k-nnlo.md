@@ -39,4 +39,25 @@ right_rail:
     updated: "April 2026"
 ---
 
-kᵣₘ NNLO: τ-value 7.5, observed –, deviation -8.2~ppm.
+## Derivation
+
+Systematic assessment of all predictions above $5000\,ppm$
+after Wave 49 corrections:
+
+**Observable** | **Before** | **After** | **Status**
+$θ_23$ (IV.T206) | $+8604$ | $-494$ | NNLO, sub-1000 $δ_CP$ (IV.T207) | $+9365$ | $+5645$ | NLO, 40% improved $m_μ/m_e$ (IV.T176) | $+6156$ | $-8.2$ | NNLO done (Wave 6D) QLC $θ_12$ (IV.T163) | $-41965$ | $-41965$ | structural limit $η$ pentagon (IV.D359) | $+75275$ | $+75275$ | structural limit
+
+The QLC $θ_12$ and $η$ pentagon entries represent
+**structural limits**: they require qualitatively new mathematical
+insight (exact $θ_C$ NLO coupling for $θ_12$; complex
+geometry resolution for $η$), not incremental NLO engineering.
+
+- $θ_13$: $+5000\,ppm$ (sub-$1%$, $1.6σ$),
+- $θ_12$: $+3106\,ppm$ (approaching $τ$-effective),
+- $θ_23$: $-494\,ppm$ (NNLO, sub-$1000$),
+- $δ_CP$: $+5645\,ppm$ (NLO, improved $40%$).
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 35 — three-generations), Books IV–V of *Panta Rhei*.
+

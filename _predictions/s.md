@@ -39,4 +39,33 @@ right_rail:
     updated: "April 2026"
 ---
 
-S₈: τ-value 0.760, observed 0.762 ± 0.024, deviation -0.3%.
+## Derivation
+
+with $Ω_Λ = κ_D(1 + ι_τ^3) = 0.6849$.
+Deviation: $-675$ ppm—a
+$41×$ improvement
+over the holonomy path.
+The two paths are complementary:
+M3h determines the ratio $ω_m/ω_b$;
+DE-closure determines the absolute value.
+*(Registry: V.T199, Wave 14D.)*
+
+Using the DE-closure path
+with $h = 2/3 + ι_τ^2/17 = 0.67352$,
+the full Friedmann pipeline gives
+$_1 = 221.5$ at $+0.69%$.
+Higher peaks:
+$_2 = 529.8$ (observed: $537.5$),
+$_3 = 796.7$ (observed: $810.0$).
+Peak ratios
+$_2/_1 = 2.401$,
+$_3/_1 = 3.611$
+are universal
+(set by phase shifts,
+independent of cosmological parameters).
+*(Registry: V.T197.)*
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
+

@@ -39,4 +39,40 @@ right_rail:
     updated: "April 2026"
 ---
 
-Σ m_ν (eV): τ-value 0.089, observed < 0.12, deviation +7~ppm.
+## Derivation
+
+The NuFIT 5.3 value is
+$^2θ_23 = 0.572 ± 0.018$
+(normal ordering),
+giving a deviation of $+8\,604$ ppm ($+0.86%$, $0.9σ$).
+
+The formula has a structural reading:
+$θ_23$
+is the probability amplitude
+for a neutrino to traverse
+one lobe of $$
+through the $ι_τ$-coupling gate.
+The factor $(1+ι_τ)^-1$
+is the inverse of the effective junction width.
+
+The atmospheric angle is *near-maximal*
+but not exactly maximal:
+$^2θ_23 ≠ 1/2$.
+In $τ$,
+exact maximality
+would require $ι_τ = 0$,
+which is excluded by the Central Theorem.
+The deviation from maximality
+is a direct measure of $ι_τ$:
+
+This is a genuine prediction:
+if future experiments determine
+$^2θ_23 = 0.500\,0 ± $
+with $ < 0.01$,
+the formula (eq:ch61-theta23)
+would be falsified.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
+

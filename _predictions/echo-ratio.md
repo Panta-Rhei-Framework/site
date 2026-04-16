@@ -39,4 +39,22 @@ right_rail:
     updated: "April 2026"
 ---
 
-Echo ratio: τ-value 8.57, deviation –.
+## Derivation
+
+The proton charge radius is set by the Compton wavelength of the
+proton, scaled by the $T^2$ fiber geometry:
+
+The factor $4 = 2^(τ^3)-1 = 2^2$ counts the two independent
+charge-weighted $T^2$ winding directions
+($2$ polarities $×$ $2$ lobes); the proton charge radius is the
+Compton wavelength times the number of charged pathways on $L$.
+
+Comparison with the CREMA muonic hydrogen measurement:
+
+This resolves the proton radius puzzle (pre-2019 CODATA value
+$0.8768\,fm$) by selecting the muonic hydrogen value as correct.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 47 — hyperfine-structure), Books IV–V of *Panta Rhei*.
+

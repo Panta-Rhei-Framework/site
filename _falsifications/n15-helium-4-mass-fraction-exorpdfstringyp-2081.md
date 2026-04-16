@@ -34,4 +34,44 @@ right_rail:
     updated: "April 2026"
 ---
 
-Yp = 20/81. helium-4!prediction pred:n15 $Y_p = 20/81 = 0.2469$ (V.T245). Orthodox: fitted from $_B$. Observed: $0.2449 0.0040$.
+## N15: Prediction
+
+Yp = 20/81.
+
+$Y_p = 20/81 = 0.2469$ (V.T245).
+Orthodox: fitted from $η_B$.
+Observed: $0.2449 ± 0.0040$.
+*Experiment:* metal-poor HII regions.
+*Timeline:* ongoing.
+
+
+## Derivation Context
+
+The fiber suppression is selective:
+it affects only $A ≥ 7$ nuclei
+(those requiring EM radiative capture
+across the full $τ^3$ geometry).
+Light nuclei with $A ≤ 4$
+fit the stride-3 macrocell
+and are unaffected:
+
+- $Y_p$ ($^4He$):
+unchanged (voxel packing geometry,
+independent of $^7Be$ production).
+- $D/H$:
+unchanged (set by deuterium bottleneck,
+not by $^7Be$ channel).
+- $^3He/H$:
+unchanged ($A = (τ^3) = 3$,
+fits macrocell).
+
+No BBN products have $5 ≤ A ≤ 6$
+(the mass gaps at $A = 5$ and $A = 8$
+in nuclear physics prevent their formation).
+The $τ$ framework
+therefore resolves the lithium problem
+*selectively*—without
+disturbing the other
+successful BBN predictions.
+*(Registry: V.T245, V.T246, Wave 25.)*
+

@@ -39,4 +39,32 @@ right_rail:
     updated: "April 2026"
 ---
 
-barρ: τ-value 0.1592, observed 0.159, deviation +125~ppm.
+## Derivation
+
+The Wolfenstein parameter $A = |V_cb|/λ^2$
+satisfies:
+
+where the coefficient $32$
+is the ratio $|gen|/|lobes|
+= 3/2$,
+counting the three generations
+over the two lobes of the lemniscate $$.
+The PDG 2024 value is
+$A = 0.826 ± 0.012$,
+giving a deviation of $-887$ ppm ($-0.09%$).
+
+The appearance of the ratio
+$|gen|/lobes = 3/2$
+is a recurring theme:
+it also governs the Koide formula correction
+(Book IV, IV.T143)
+and the muon–electron mass ratio exponent
+(Book IV, IV.T148).
+The two lobes of $$
+are the topological units
+on which the generation structure is built.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
+

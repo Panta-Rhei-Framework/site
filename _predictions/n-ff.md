@@ -39,4 +39,31 @@ right_rail:
     updated: "April 2026"
 ---
 
-Nᵣₘ ₑff: τ-value 3.000, observed 2.99 ± 0.17, deviation –.
+## Derivation
+
+The bottom quark mass as a standalone $τ$-prediction:
+
+m_b = m_t(τ) · ι_τ^45/13
+= W_3(3)|lobes|^2 · W_3(4)
+· ι_τ^-20/13 · m_n
+= 1720\,ι_τ^-20/13\,m_n
+= 4,174.4\;MeV
+
+at $-1,351$ ppm from PDG $m_b(MS, m_b)
+= 4,180 ± 7$ MeV (within $0.8σ$).
+
+*Combined exponent.*
+The exponent $-20/13 = -5 + 45/13 = (-65+45)/13$ decomposes as:
+\[
+-2013
+= -|lobes|^2 · W_3(4)a_3
+= -4 × 513,
+\]
+the negative of the denominator prefactor of the top mass divided by
+$a_3$. Equivalently, $m_b/m_n = (17/20)\,ι_τ^-20/13
+= 4.443$, a dimensionless ratio governed entirely by CF arithmetic.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 36 — koide-mass-hierarChapter ies), Books IV–V of *Panta Rhei*.
+

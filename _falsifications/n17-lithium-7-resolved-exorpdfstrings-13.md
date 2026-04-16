@@ -34,4 +34,52 @@ right_rail:
     updated: "April 2026"
 ---
 
-S = 1/3 fiber suppression). lithium problem!prediction pred:n17 The cosmological lithium problem is resolved by the fiber suppression factor $S = 1/3$ (V.T243–T244). $^7$Li/H $ 1.6 i͡mes 10^-10$, matching the Spite plateau. Orthodox: $^7$Li/H $ 5 i͡mes 10^-10$ (3$i͡mes$ too high). Decisive if independent $^7$Li measurements confirm or refute $S = 1/3$.
+## N17: Prediction
+
+S = 1/3 fiber suppression).
+
+The cosmological lithium problem is resolved
+by the fiber suppression factor $S = 1/3$
+(V.T243–T244).
+$^7$Li/H $≈ 1.6 × 10^-10$,
+matching the Spite plateau.
+Orthodox: $^7$Li/H $≈ 5 × 10^-10$ (3$×$ too high).
+*Decisive if* independent $^7$Li measurements
+confirm or refute $S = 1/3$.
+*Experiment:* stellar archaeology, primordial gas clouds.
+*Timeline:* 2025–2035.
+
+
+## Derivation Context
+
+The $^7Be$ production rate
+is suppressed by exactly
+
+The suppression arises because
+the EM radiative capture
+$^3He + ^4He
+→ ^7Be + γ$
+(the dominant $^7Li$ production channel)
+operates on the 1D base $τ^1$,
+not the full 3D $τ^3$.
+The photon propagates in the base direction
+while the nuclear composite
+must fit the fibered geometry.
+The available phase space
+for the capture process
+is $(τ^1)/(τ^3) = 1/3$
+of the total.
+*(Registry: V.T243, Wave 25.)*
+
+With the suppression factor $S = 1/3$
+applied to the $^7Be$ production channel:
+
+^7Li/H(τ)
+\;=\;
+S_^7Be
+× ^7Li/H(SBBN)
+\;=\;
+13 × 5.62 × 10^-10
+\;≈\;
+1.87 × 10^-10,
+

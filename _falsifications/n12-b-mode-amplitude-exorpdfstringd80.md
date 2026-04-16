@@ -34,4 +34,39 @@ right_rail:
     updated: "April 2026"
 ---
 
-^BB = 339$D-80-BB = 339~nK$^2$. B-mode!amplitude prediction pred:n12 First $a͡u$-polarization prediction (V.D256). No de-lensing needed: $S/N = 1131$.
+## N12: Prediction
+
+^BB = 339$D-80-BB = 339 nK$^2$.
+
+First $τ$-polarization prediction (V.D256).
+No de-lensing needed: $S/N = 1131$.
+*Experiment:* CMB-S4, LiteBIRD.
+*Timeline:* 2028–2032.
+
+
+## Derivation Context
+
+With $r = ι_τ^4$
+and $A_s = 2.096 × 10^-9$,
+the primordial B-mode power spectrum
+is fully determined.
+The recombination bump
+peaks at $ ≈ 80$:
+
+D_80^BB
+\;=\;
+(+1)\,C_^BB2π
+|_ ≈ 80
+\;≈\;
+0.025 × r
+\;=\;
+339\;nK^2.
+
+At $ ≈ 80$,
+the lensing B-mode foreground
+($∼ 0.3$ nK$^2$)
+is $∼ 1100×$ weaker
+than the primordial signal.
+De-lensing is not required.
+*(Registry: V.D256, Wave 14F.)*
+

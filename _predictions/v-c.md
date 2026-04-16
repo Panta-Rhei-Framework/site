@@ -39,4 +39,41 @@ right_rail:
     updated: "April 2026"
 ---
 
-vᵣₘ ᵣₑc: τ-value 0.117,vA, observed 0.01–0.1,vA, deviation –.
+## Derivation
+
+Observational agreement.
+The experimental value
+$C_K = 1.5 ± 0.1$
+(Sreenivasan 1995;
+Yeung and Zhou 1997;
+Ishihara et al.\ 2009)
+matches the $τ$-prediction exactly.
+The central value coincides;
+the deviation is $0.0%$
+(Proposition (prop:ch28-ck-match)).
+
+Why the Kolmogorov constant has been hard to determine.
+
+The experimental determination of $C_K$
+has historically been uncertain:
+values ranging from $1.4$ to $1.7$
+have been reported,
+depending on the experiment,
+the Reynolds number,
+and the method of compensating
+for finite-$Re$ effects.
+DNS values have converged
+toward $C_K ≈ 1.5$
+as resolution has increased,
+but the prefactor remains
+one of the least precisely known
+``universal'' constants
+in turbulence theory.
+The $τ$-prediction $C_K = 3/2$ exactly
+provides a sharp target
+for future high-resolution experiments.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 65 — collective-dynamics), Books IV–V of *Panta Rhei*.
+

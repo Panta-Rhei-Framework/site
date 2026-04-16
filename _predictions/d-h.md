@@ -39,4 +39,32 @@ right_rail:
     updated: "April 2026"
 ---
 
-D/H: τ-value 2.52!×!10⁻⁵, observed 2.53!×!10⁻⁵, deviation -0.4%.
+## Derivation
+
+Using $η_B = (121/270)\,ι_τ^19
+≈ 6.041 × 10^-10$
+as the sole input
+to the standard BBN nuclear network:
+
+in comparison with the observed value
+$D/H_obs
+= (2.527 ± 0.030) × 10^-5$
+(Cooke et al.\ 2018).
+The deviation is $+2.7%$ ($+2.3σ$).
+*(Registry: V.T241, $τ$-effective, Wave 25.)*
+
+The slight D/H overshoot is physically expected:
+the $τ$-native $η_B$
+is $1.03%$ below the Planck value,
+meaning fewer baryons per photon,
+hence less efficient deuterium destruction
+($D + D$ and $D + p$ reactions),
+yielding a slightly higher residual D/H.
+The BBN sensitivity
+$d((D/H))/d(η_B) ≈ -1.6$
+quantifies this anti-correlation.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
+

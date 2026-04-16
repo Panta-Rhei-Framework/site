@@ -39,4 +39,45 @@ right_rail:
     updated: "April 2026"
 ---
 
-Aₛ: τ-value 2.14!×!10⁻⁹, observed 2.10!×!10⁻⁹, deviation -1979~ppm.
+## Derivation
+
+A_s
+\;=\;
+121225\,ι_τ^18\,
+(1 - ι_τ^3/3)
+\;=\;
+α_τ\,ι_τ^14\,
+(1 - ι_τ^3/3)
+\;≈\;
+2.096 × 10^-9,
+
+where $α_τ = (11/15)^2 = 121/225$
+is the $τ$-native fine-structure amplitude.
+The NLO factor $(1 - ι_τ^3/3)$
+is structural:
+it represents $τ^3$ volume averaging
+over $(τ^3) = 3$ dimensions,
+not dynamical spectral running.
+The Planck 2018 value
+$A_s = (2.100 ± 0.030) × 10^-9$
+gives a deviation of $-1979$ ppm ($-0.2%$).
+*(Registry: V.D253, $τ$-effective, Wave 14A.)*
+
+From $r = ι_τ^4$ and $n_s = 1 - 2/57$,
+the slow-roll parameter
+$ε = r/16 = 8.48 × 10^-4$,
+which gives dynamical spectral running
+$dn_s/d k = O(ε) ∼ 10^-3$.
+The NLO correction
+$(1 - ι_τ^3/3)$
+requires $O(ι_τ^3) ∼ 0.040$—a
+$156×$ gap.
+This confirms that the NLO correction
+is structural (volume averaging),
+not dynamical (spectral running).
+*(Registry: V.T198.)*
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
+

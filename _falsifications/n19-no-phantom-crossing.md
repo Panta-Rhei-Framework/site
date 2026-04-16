@@ -34,4 +34,11 @@ right_rail:
     updated: "April 2026"
 ---
 
-phantom crossing!prediction pred:n19 $w(z) > -1$ for all $z$. Bounded characters $$ no phantom regime.
+## N19: Prediction
+
+$w(z) > -1$ for all $z$.
+Bounded characters $$ no phantom regime.
+*Experiment:* DESI, Euclid.
+*Timeline:* 2025–2030.
+
+

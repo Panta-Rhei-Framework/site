@@ -34,4 +34,43 @@ right_rail:
     updated: "April 2026"
 ---
 
-Majorana neutrinos!prediction pred:n5 $ = C_a͡u$ zero holonomy (IV.T146) requires Majorana mass terms.
+## N5: Prediction
+
+$σ = C_τ$ zero holonomy (IV.T146)
+requires Majorana mass terms.
+*Experiment:* nEXO, LEGEND, CUPID, KamLAND-Zen.
+*Timeline:* 2027–2035.
+
+
+## Derivation Context
+
+The $τ$-framework predicts the **normal hierarchy**
+$m_1 < m_2 < m_3$
+from the ordering $r < p$
+of the winding exponents:
+
+This is a falsifiable prediction:
+if the inverted hierarchy is confirmed
+by JUNO or DUNE,
+the $τ$-framework's mass structure
+would require revision.
+
+All three neutrinos
+are predicted to be Majorana particles.
+The structural origin is the $σ = C_τ$ condition
+(Book IV, IV.T146):
+the zero-holonomy constraint
+on the $σ$-matrix
+requires the neutrino
+to be its own antiparticle.
+This is testable
+by neutrinoless double-beta decay
+($0νββ$) experiments.
+With $Σ m_ν = 0.089$ eV in normal hierarchy,
+the effective Majorana mass
+$|m_ββ| ∼ 1$–$4$ meV
+is within reach
+of next-generation experiments
+(LEGEND-1000, nEXO, CUPID)
+by the early 2030s.
+

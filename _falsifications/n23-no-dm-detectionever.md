@@ -34,4 +34,15 @@ right_rail:
     updated: "April 2026"
 ---
 
-dark matter!never detected pred:n23 Stronger than N3: no indirect detection either (no annihilation signal, no DM decay line, no collider missing energy from a non-SM particle).
+## N23: Prediction
+
+Stronger than N3:
+no indirect detection either
+(no annihilation signal,
+no DM decay line,
+no collider missing energy
+from a non-SM particle).
+*Experiment:* all DM searches.
+*Timeline:* permanent.
+
+

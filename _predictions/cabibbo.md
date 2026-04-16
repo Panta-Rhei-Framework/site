@@ -39,4 +39,34 @@ right_rail:
     updated: "April 2026"
 ---
 
-Cabibbo λ: τ-value 0.2248, observed 0.2253, deviation -2327~ppm.
+## Derivation
+
+The Cabibbo angle parameter
+$λ_C = θ_C = |V_us|$
+satisfies:
+
+λ_C
+\;=\; ι_τ · (1 - ι_τ)
+\;=\; ι_τ · κ_D
+\;≈\; 0.22495,
+
+where $κ_D = 1 - ι_τ$
+is the D-sector coupling.
+The PDG 2024 value is
+$λ = 0.22500 ± 0.00067$,
+giving a deviation of $-2\,327$ ppm
+(within the experimental uncertainty).
+
+The formula has a transparent structural meaning:
+$λ_C$ is the product of the two basic couplings —
+the A-sector coupling $ι_τ$
+and the D-sector coupling $κ_D$.
+The Cabibbo rotation
+is the cross-coupling between the sectors
+that govern the electromagnetic
+and gravitational interactions.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
+

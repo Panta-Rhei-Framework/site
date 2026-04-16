@@ -34,4 +34,18 @@ right_rail:
     updated: "April 2026"
 ---
 
-dark matter!prediction N3 pred:n3 The Sector Exhaustion Theorem (Chapter~e̊fch:book5-ch44-sector-exhaustion) forbids a sixth sector. No dark matter particle—WIMP, axion, sterile neutrino, or any other species—will be detected in any experiment. $a͡u$-value: zero cross-section. Orthodox: $ 10^-47$~cm$^2$ (WIMP).
+## N3: Prediction
+
+The Sector Exhaustion Theorem
+(Chapter (ch:book5-ch44-sector-exhaustion))
+forbids a sixth sector.
+No dark matter particle—WIMP,
+axion, sterile neutrino,
+or any other species—will
+be detected in any experiment.
+$τ$-value: zero cross-section.
+Orthodox: $σ ∼ 10^-47$ cm$^2$ (WIMP).
+*Experiment:* LZ, XLZD, PandaX, XENONnT, DARWIN, ADMX.
+*Timeline:* 2025–2035.
+
+

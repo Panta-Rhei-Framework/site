@@ -39,4 +39,27 @@ right_rail:
     updated: "April 2026"
 ---
 
-NNLO δ: τ-value 0.04, observed –, deviation –.
+## Derivation
+
+The NNLO correction
+to the muon-to-electron mass ratio
+involves the parameter
+
+where $W_3(4) = 5$ is the third Waring number
+at four summands.
+This correction brings
+the winding exponent from $5.00$ to $4.96$,
+producing the $+307$ ppm agreement
+cited above.
+At the $τ$-native NNLO level,
+the mass ratio formula becomes
+
+m_μm_e
+= ι_τ^-(W_3(4) - 1/W_3(4)^2)
+= ι_τ^-(5 - 1/25)
+= ι_τ^-4.96.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
+

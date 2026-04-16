@@ -39,4 +39,40 @@ right_rail:
     updated: "April 2026"
 ---
 
-barη: τ-value 0.345, observed 0.348, deviation -2285~ppm.
+## Derivation
+
+where $κ_D = 1 - ι_τ$.
+The PDG 2024 value is
+$η = 0.349^+0.012_-0.011$,
+giving a deviation of $-2\,285$ ppm ($-0.23%$, $0.7σ$).
+
+The exponents in (eq:ch61-etabar)
+are not numerological accidents.
+They have a topological reading
+(IV.D363/IV.T173):
+
+-14
+&= -12 · |lobes|
+= -12 × 2
+(holonomy factor),
++54
+&= |gen|2 · |lobes|
++ 1|lobes|
+= 34 + 12
+(coupling factor),
+-12
+&= -1|lobes|
+= |gen|^-1/2|_|gen|=4
+(normalization factor).
+
+η
+= ι_τ^-1/(2·lobes)_holonomy
+\;·\;
+κ_D^|gen|/(2·lobes)+1/lobes_coupling
+\;·\;
+|generators|^-1/lobes_normalization.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
+

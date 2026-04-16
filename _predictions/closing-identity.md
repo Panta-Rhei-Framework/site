@@ -39,4 +39,37 @@ right_rail:
     updated: "April 2026"
 ---
 
-Closing identity: τ-value –, observed –, deviation ∼ 3~ppm.
+## Derivation
+
+a_0^barea_0^dress
+\;=\;
+1 - ι_τι_τ
+\;=\;
+κ_Dκ_B
+\;≈\;
+2.378,
+
+where $κ_D = 1 - ι_τ$ is the gravitational coupling
+and $κ_B = ι_τ^2$ is the baryonic coupling.
+The ratio is the square root
+of the holonomy-to-baryon coupling ratio—the
+same ratio that governs
+the Silk damping scale
+(Chapter (ch:book5-ch56-falsification-pack)).
+
+This unification is significant:
+the *same* algebraic structure
+($κ_D/κ_B$)
+that determines galactic dynamics
+also determines
+the CMB damping scale.
+In $Λ$CDM,
+these are unrelated phenomena.
+In Category $τ$,
+they share a common origin
+in the coherence kernel.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 63 — dark-sector), Books IV–V of *Panta Rhei*.
+

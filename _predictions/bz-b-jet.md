@@ -39,4 +39,32 @@ right_rail:
     updated: "April 2026"
 ---
 
-Bz / B_φ (jet): τ-value ι_τ, observed ≈!0.3, deviation ∼ 10%.
+## Derivation
+
+At the jet base ($∼ 10\,R_S$),
+the axial-to-toroidal magnetic field ratio is
+
+This follows from the torus hoop-stress collimation:
+the toroidal component $B_$ provides
+hoop stress $P = B_^2/(4π r)$
+that collimates the jet,
+while the axial component $B_z$
+originates from the topologically protected $Φ_pol$.
+The equilibrium condition
+$θ_jet ≤ B_z/B_ = ι_τ$
+independently recovers the jet collimation angle
+$θ_jet ≤ 20^$
+(Theorem (thm:ch40-jet-hoop-stress)).
+
+VLBI observations of AGN jets
+at sub-parsec scales
+measure $B_z/B_ ∼ 0.2$–$0.5$,
+consistent with the $τ$-prediction
+$ι_τ ≈ 0.341$.
+The ratio is a zero-parameter prediction,
+testable with improved VLBI polarimetry.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
+

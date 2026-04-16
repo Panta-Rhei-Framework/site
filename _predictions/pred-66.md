@@ -39,4 +39,48 @@ right_rail:
     updated: "April 2026"
 ---
 
-ℓᵣₘ ₕₑₐₜ: τ-value 0.117,R_⊙, observed ≈!0.1,R_⊙, deviation ∼ 15%.
+## Derivation
+
+F_τ
+\;=\;
+ρ\,v_A\,v_conv^2
+\;(1 - e^-ι_τ^2\,L/λ_A),
+
+where $ρ$ is the photospheric
+mass density,
+$v_A$ the Alfv\'en speed,
+$v_conv ∼ 1$ km/s
+the convective velocity,
+$L$ the coronal loop length,
+and $λ_A$ the dominant
+Alfv\'en wavelength.
+No free parameters enter the damping
+fraction $ι_τ^2$.
+
+Numerical evaluation.
+For typical active-region parameters
+($ρ ∼ 3 × 10^-15$ g cm$^-3$,
+$B_0 ∼ 100$ G,
+$v_conv ∼ 1$ km/s,
+$L ∼ 10^10$ cm,
+$λ_A ∼ 10^9$ cm):
+
+- The Alfv\'en speed is
+$v_A = B_0/4πρ
+≈ 1.6 × 10^8$ cm s$^-1$.
+- The wave energy flux is
+$F_A = ρ\,v_A\,v_conv^2
+≈ 4.9 × 10^5
+\;erg\;cm^-2\;s^-1$.
+- The damping fraction is
+$1 - (-ι_τ^2\,L/λ_A)
+= 1 - (-0.117 × 10)
+≈ 0.69$.
+- The heating flux is
+$F_τ ≈ 3.4 × 10^5
+\;erg\;cm^-2\;s^-1$.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 65 — collective-dynamics), Books IV–V of *Panta Rhei*.
+

@@ -34,4 +34,46 @@ right_rail:
     updated: "April 2026"
 ---
 
-mass hierarchy!prediction pred:n7 $r < p$ in the exponent triplet $$ normal ordering ($m_1 < m_2 < m_3$) (V.P127). Orthodox: unknown (both allowed).
+## N7: Prediction
+
+$r < p$ in the exponent triplet
+$$ normal ordering
+($m_1 < m_2 < m_3$)
+(V.P127).
+Orthodox: unknown (both allowed).
+*Experiment:* JUNO, DUNE, Hyper-Kamiokande.
+*Timeline:* 2027–2030.
+
+
+## Derivation Context
+
+The $τ$-framework predicts the **normal hierarchy**
+$m_1 < m_2 < m_3$
+from the ordering $r < p$
+of the winding exponents:
+
+This is a falsifiable prediction:
+if the inverted hierarchy is confirmed
+by JUNO or DUNE,
+the $τ$-framework's mass structure
+would require revision.
+
+All three neutrinos
+are predicted to be Majorana particles.
+The structural origin is the $σ = C_τ$ condition
+(Book IV, IV.T146):
+the zero-holonomy constraint
+on the $σ$-matrix
+requires the neutrino
+to be its own antiparticle.
+This is testable
+by neutrinoless double-beta decay
+($0νββ$) experiments.
+With $Σ m_ν = 0.089$ eV in normal hierarchy,
+the effective Majorana mass
+$|m_ββ| ∼ 1$–$4$ meV
+is within reach
+of next-generation experiments
+(LEGEND-1000, nEXO, CUPID)
+by the early 2030s.
+

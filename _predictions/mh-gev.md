@@ -39,4 +39,29 @@ right_rail:
     updated: "April 2026"
 ---
 
-mH (GeV): τ-value 125.21, observed 125.20, deviation +8.0~ppm.
+## Derivation
+
+The Higgs mass parameter involves
+the integer $n = 7$,
+where
+
+with $lobes = 2$
+(the two circles of $ = S^1 S^1$)
+and $sectors = 3$
+(the three active sectors B, A, C
+that couple to the $ω$-crossing).
+The $τ$-native Higgs mass formula yields
+
+in agreement with the PDG 2024 value
+$m_H^(PDG) = 125.20 ± 0.11$ GeV
+at $+8.0$ ppm.
+*(Registry: IV.T166, Wave 5.)*
+
+The integer 7 is not arbitrary.
+It is the canonical combination
+of the lemniscate and sector counts:
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
+

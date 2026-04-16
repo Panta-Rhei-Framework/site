@@ -39,4 +39,36 @@ right_rail:
     updated: "April 2026"
 ---
 
-ℓ₁: τ-value 220.6, observed 220.0, deviation +2840~ppm.
+## Derivation
+
+The first acoustic peak multipole
+is determined by the Friedmann pipeline
+with $τ$-native inputs:
+
+where $_A = π d_A(z_rec) / r_s(z_rec)$
+is the acoustic scale,
+$d_A$ is the angular diameter distance,
+$r_s$ is the sound horizon at recombination,
+and $_1$ is the phase shift
+from the neutrino and gravitational driving.
+All quantities are computed
+from $ι_τ$ with zero free parameters.
+The Planck measurement gives
+$_1 = 220.0 ± 0.5$.
+The deviation is $+0.28%$ ($+2840$ ppm).
+*(Registry: V.T190, $τ$-effective, Wave 8A.)*
+
+The computation of $_1$
+requires three $τ$-native inputs,
+each derived from $ι_τ$:
+
+- **Baryon density:**
+$ω_b = 0.02209$,
+derived from
+$η_B = (121/270)\,ι_τ^19$
+(Section (sec:ch62-baryon-density)).
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
+
