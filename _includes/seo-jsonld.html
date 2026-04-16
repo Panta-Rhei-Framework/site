@@ -82,8 +82,20 @@
     "name": "Panta Rhei Research Program",
     "url": "{{ site.url }}",
     "founder": [
-      { "@type": "Person", "name": "Thorsten Fuchs" },
-      { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+      {
+        "@type": "Person",
+        "name": "Thorsten Fuchs",
+        "jobTitle": "Co-Founder & Research Lead",
+        "affiliation": { "@type": "Organization", "name": "Panta Rhei Research Program" },
+        "url": "{{ '/research-program/founders/' | absolute_url }}"
+      },
+      {
+        "@type": "Person",
+        "name": "Anna-Sophie Fuchs",
+        "jobTitle": "Co-Founder",
+        "affiliation": { "@type": "Organization", "name": "Panta Rhei Research Program" },
+        "url": "{{ '/research-program/founders/' | absolute_url }}"
+      }
     ]
   }
   {%- endif -%}
