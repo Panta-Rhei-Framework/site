@@ -101,6 +101,8 @@ The [Physics Predictions]({{ '/results/predictions/browse/' | relative_url }}) c
 
 The [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relative_url }}) identifies **30 sharp predictions** where the framework makes specific claims that named experiments can test on a 2025–2035 timeline, including 7 falsifiable seams where τ and orthodox physics make structurally incompatible predictions.
 
+The complete typeset document (~150 pages) with full derivations, tables, and experimental timelines is available as a **free download**: [**Physics Ledger (PDF, 800 KB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
+
 ## Featured Results
 
 - [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior f

@@ -222,6 +222,8 @@ publications_nav:
     url: "/publications/"
   - title: "The Seven Books"
     url: "/publications/books/"
+  - title: "Physics Ledger (PDF)"
+    url: "/publications/physics-ledger/"
   - title: "Guided Tours"
     url: "/publications/guided-tours/"
   - title: "White Papers"

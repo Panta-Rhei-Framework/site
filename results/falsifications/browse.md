@@ -24,4 +24,4 @@ The **30-Prediction Falsification Pack** identifies the sharpest points where Ca
 
 Seven of these predictions form **falsifiable seams** — points where τ and orthodox physics make structurally incompatible claims. The sharpest discriminant is **N9** (tensor-to-scalar ratio r = 0.0136), which CMB-S4 can test at 14σ significance.
 
-If any prediction is decisively falsified (≥5σ), the τ-framework must be revised in that domain.
+If any prediction is decisively falsified (≥5σ), the τ-framework must be revised in that domain. The complete typeset document with full derivations, tables, and experimental timelines is available as a free download: [**Physics Ledger (PDF, 800 KB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
