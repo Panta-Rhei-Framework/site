@@ -43,14 +43,19 @@ Every result distinguishes:
 
 The [Browse surface]({{ '/results/browse/' | relative_url }}) is the primary discovery route: a single page with all 234 results pre-rendered as HTML cards, with client-side filters for domain, enrichment layer, kind, importance, status, and canonical book. Filter state is shareable via URL query parameters. The page is fully crawlable and works without JavaScript.
 
-## Results Prologue
+## Results Introduction
 
-Before browsing individual results, readers may want to understand what counts as a result in this program and what kind of mathematics the framework describes. The [Results Prologue]({{ '/results/prologue/' | relative_url }}) is a four-page epistemic ladder:
+Before browsing individual results, readers may want to understand what counts as a result in this program. The [Results Introduction]({{ '/results/prologue/' | relative_url }}) explains the first epistemic stance — how the framework first exists as a materialized formal system — and introduces the four world-readout clusters below.
 
 - [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) — the first admissible layer of resulthood
-- [The Shape of Mathematics in the Tau Framework]({{ '/results/prologue/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) — the distinct mathematical world Tau describes
-- [What This Mathematics Makes True]({{ '/results/prologue/what-this-mathematics-makes-true/' | relative_url }}) — Millennium problems, Riemann, Langlands in Tau formulation
-- [Self-Enrichment, Self-Containment, and Internal Logic]({{ '/results/prologue/self-enrichment-self-containment-and-internal-logic/' | relative_url }}) — why self-enrichment changes the epistemic shape of the framework
+
+## Mathematics World Readout
+
+The [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relative_url }}) describes the E₀ mathematical world — what kind of mathematical universe Tau describes, what it makes true, and why self-enrichment changes the epistemic shape of the framework. Three pages:
+
+- [The Shape of Mathematics in the Tau Framework]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) — countable ontology, hyperbolic geometry, resource-sensitive logic
+- [What This Mathematics Makes True]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) — Millennium problems, Riemann, Langlands in Tau formulation
+- [Self-Enrichment, Self-Containment, and Internal Logic]({{ '/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/' | relative_url }}) — enrichment without ontic inflation
 
 ## Physics World Readout
 

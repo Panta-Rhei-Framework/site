@@ -3,7 +3,7 @@ layout: program-doc
 title: How the Framework First Exists
 permalink: /results/prologue/how-the-framework-first-exists/
 lane: results
-section: "Results · Prologue"
+section: "Results · Introduction"
 nav_order: 2
 summary_short: "The first epistemic stance of the program: TauLib as materialized formal system and the first admissible layer of resulthood."
 key_registry:
@@ -142,4 +142,4 @@ What this page claims is something more fundamental: the framework first exists 
 
 ---
 
-*Next: [The Shape of Mathematics in the Tau Framework]({{ '/results/prologue/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }})*
+*Next: [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relative_url }})*

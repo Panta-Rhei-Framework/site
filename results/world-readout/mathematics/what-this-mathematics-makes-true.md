@@ -1,10 +1,10 @@
 ---
 layout: program-doc
 title: What This Mathematics Makes True
-permalink: /results/prologue/what-this-mathematics-makes-true/
+permalink: /results/world-readout/mathematics/what-this-mathematics-makes-true/
 lane: results
-section: "Results · Prologue"
-nav_order: 4
+section: "Results · Mathematics World Readout"
+nav_order: 3
 summary_short: "The strongest major mathematical statement-families that become affirmatively true inside the Tau mathematical universe."
 key_registry:
   - III.T19
@@ -19,8 +19,8 @@ key_registry:
   - III.D31
 right_rail:
   related:
-  - title: Results Prologue
-    url: /results/prologue/
+  - title: Mathematics World Readout
+    url: /results/world-readout/mathematics/
   - title: Mathematics Results
     url: /results/topic/mathematics/
   - title: Results by Problem
@@ -36,7 +36,7 @@ right_rail:
     updated: April 2026
 ---
 
-Once the [shape of mathematics in Tau]({{ '/results/prologue/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) is understood, the next question becomes unavoidable:
+Once the [shape of mathematics in Tau]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) is understood, the next question becomes unavoidable:
 
 **what does this mathematics actually yield?**
 
@@ -167,4 +167,4 @@ That is the level on which this page should be read.
 
 ---
 
-*Previous: [The Shape of Mathematics]({{ '/results/prologue/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) | Next: [Self-Enrichment, Self-Containment, and Internal Logic]({{ '/results/prologue/self-enrichment-self-containment-and-internal-logic/' | relative_url }})*
+*Previous: [The Shape of Mathematics]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) | Next: [Self-Enrichment, Self-Containment, and Internal Logic]({{ '/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/' | relative_url }})*

@@ -21,7 +21,7 @@ right_rail:
 
 All 234 results in alphabetical order. Each carries a [typed epistemic status]({{ '/results/status-and-claim-typing/' | relative_url }}) and a result kind (Frontier Problem, Foundational Math, or Consequence). For domain-grouped or book-grouped views, see [By Domain]({{ '/results/by-domain/' | relative_url }}) or [By Book]({{ '/results/by-book/' | relative_url }}). For interactive filtering and sorting, see [Browse All Results]({{ '/results/browse/' | relative_url }}).
 
-For the narrative front door, see the [Results Prologue]({{ '/results/prologue/' | relative_url }}) and world-readout clusters: [Physics]({{ '/results/world-readout/physics/' | relative_url }}), [Life]({{ '/results/world-readout/life/' | relative_url }}), [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}).
+For the narrative front door, see the [Results Introduction]({{ '/results/prologue/' | relative_url }}) and world-readout clusters: [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂), [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃).
 
 - [0νββ / Majorana Neutrinos](/results/problem/0-majorana-neutrinos/) — *Frontier Problem* · Resolved
 - [ABC Conjecture](/results/problem/abc-conjecture/) — *Frontier Problem* · Not Addressed
