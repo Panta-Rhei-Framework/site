@@ -10,7 +10,7 @@
 {%- endcomment -%}
 
 {%- comment -%} Compute author JSON fragment (reused across schemas) {%- endcomment -%}
-{%- capture authors_json -%}[{"@type":"Person","name":"Thorsten Fuchs"},{"@type":"Person","name":"Anna-Sophie Fuchs"}]{%- endcapture -%}
+{%- capture authors_json -%}[{"@type":"Person","name":"Thorsten Fuchs","url":"https://orcid.org/0009-0007-0718-1042","sameAs":"https://orcid.org/0009-0007-0718-1042"},{"@type":"Person","name":"Anna-Sophie Fuchs","url":"https://orcid.org/0009-0007-3495-7416","sameAs":"https://orcid.org/0009-0007-3495-7416"}]{%- endcapture -%}
 
 {%- comment -%} Compute publisher Organization reference {%- endcomment -%}
 {%- capture publisher_json -%}{"@type":"Organization","name":"Panta Rhei Research Program","url":"{{ site.url }}"}{%- endcapture -%}
@@ -87,14 +87,16 @@
         "name": "Thorsten Fuchs",
         "jobTitle": "Co-Founder & Research Lead",
         "affiliation": { "@type": "Organization", "name": "Panta Rhei Research Program" },
-        "url": "{{ '/research-program/founders/' | absolute_url }}"
+        "url": "{{ '/research-program/founders/' | absolute_url }}",
+        "sameAs": "https://orcid.org/0009-0007-0718-1042"
       },
       {
         "@type": "Person",
         "name": "Anna-Sophie Fuchs",
         "jobTitle": "Co-Founder",
         "affiliation": { "@type": "Organization", "name": "Panta Rhei Research Program" },
-        "url": "{{ '/research-program/founders/' | absolute_url }}"
+        "url": "{{ '/research-program/founders/' | absolute_url }}",
+        "sameAs": "https://orcid.org/0009-0007-3495-7416"
       }
     ]
   }
@@ -112,8 +114,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -141,8 +143,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -173,8 +175,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -237,8 +239,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -260,8 +262,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -287,8 +289,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -393,8 +395,8 @@
   "inLanguage": "en",
   "image": "{{ '/assets/og-image.png' | absolute_url }}",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -419,8 +421,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",
@@ -445,8 +447,8 @@
   "programmingModel": "Lean 4",
   "targetPlatform": "Lean 4",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "about": {
     "@type": "SoftwareSourceCode",
@@ -468,8 +470,8 @@
   "url": "{{ page.url | absolute_url }}",
   "inLanguage": "en",
   "author": [
-    { "@type": "Person", "name": "Thorsten Fuchs" },
-    { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+    { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+    { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
   ],
   "publisher": {
     "@type": "Organization",

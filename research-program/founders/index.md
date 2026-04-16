@@ -34,6 +34,8 @@ The program should be read through its public artifacts and arguments: the books
 
 ## Thorsten Fuchs
 
+<a href="https://orcid.org/0009-0007-0718-1042" target="_blank" rel="noopener" class="orcid-link">ORCID 0009-0007-0718-1042</a>
+
 **Dr. Thorsten Fuchs** studied pure mathematics before spending many years in business and technology leadership. After graduate work in algebraic structures, he worked at McKinsey & Company and later led the Office Business Group at Microsoft Germany. Mathematics did not disappear during those years; it moved into the background and waited.
 
 What brought him back was not nostalgia for abstraction, but a question he could not let go of: *what if reality is more deeply coherent than it first appears?* In the Panta Rhei program, he leads the formal and architectural side of that question: the kernel, the proofs, the inter-book structure, the formal layer through **TauLib**, and the overall research architecture in which the different surfaces of the project belong together.
@@ -41,6 +43,8 @@ What brought him back was not nostalgia for abstraction, but a question he could
 He presents the work not as a finished final word, but as a research architecture published for scrutiny.
 
 ## Anna-Sophie Fuchs
+
+<a href="https://orcid.org/0009-0007-3495-7416" target="_blank" rel="noopener" class="orcid-link">ORCID 0009-0007-3495-7416</a>
 
 **Anna-Sophie Fuchs** trained as an underwater archaeologist. Her work taught her how to excavate layered structures patiently, document fragile connections, and reconstruct wholes from buried fragments. Those habits transferred unexpectedly well into a long-form research architecture.
 
