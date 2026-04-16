@@ -3,26 +3,36 @@ layout: program-doc
 title: "Assessment Protocols"
 lane: publications
 permalink: /publications/protocols/
-summary_short: "Public protocols that help outsiders produce structured first-pass assessments of the research program."
+summary_short: "Assessment protocols have moved to the Verify lane — they are verification instruments, not publications."
 summary_cards:
-  - title: "What these are"
-    body: "Step-by-step assessment guides designed for domain experts who want to evaluate specific claims."
-  - title: "What they are not"
-    body: "Not substitutes for expert review. They help structure engagement, not replace it."
+  - title: "Moved"
+    body: "Assessment protocols now live in the Verify lane alongside TauLib and the formalization surfaces."
+  - title: "New location"
+    body: "/verify/assessments/ — AI-assisted first-pass assessment protocol with three-gate rubric."
 right_rail:
   related:
-    - title: "Publications Overview"
-      url: /publications/
+    - title: "Assessment Protocols (new)"
+      url: /verify/assessments/
     - title: "Verify"
       url: /verify/
   meta:
-    type: "Family Root"
-    status: "In development"
+    type: "Redirect"
+    status: "Moved"
     updated: "April 2026"
 ---
 
-## Assessment Protocols
+## Assessment Protocols Have Moved
 
-Assessment protocols are structured guides that help domain experts evaluate specific aspects of the research program. They are designed to lower the threshold for serious engagement without pretending to replace expert scrutiny.
+Assessment protocols are verification instruments, not publications. They now live in the **Verify lane**:
 
-*Protocols are currently in development and will be published as they are ready.*
+**[Go to AI-Assisted First-Pass Assessment]({{ '/verify/assessments/' | relative_url }})**
+
+The assessment protocol provides a structured public method for producing initial dossiers on inspectability, novelty signals, and possible impact using only public materials. It includes:
+
+- Three assessment modes (series-level, book-level, domain-expert)
+- A 17-criteria Three-Gate Rubric (legitimacy, novelty, impact)
+- Structured dossier output schema
+- Downloadable scorecard template
+- An 8-step reviewer workflow
+
+All based on public materials only. Not peer review — structured triage under human oversight.

@@ -252,6 +252,12 @@ verify_nav:
     url: "/verify/taulib/scope-labels/"
   - title: "Glossary"
     url: "/verify/taulib/glossary/"
+  - title: "Assessment Protocols"
+    url: "/verify/assessments/"
+  - title: "Methodology"
+    url: "/verify/assessments/methodology/"
+  - title: "Three-Gate Rubric"
+    url: "/verify/assessments/three-gate-rubric/"
 
 utility_nav:
   - title: "Cite"
