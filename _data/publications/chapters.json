@@ -396,7 +396,7 @@
     "part_number": 7,
     "part_slug": "part-07-omega-germs-the-algebraic-lemniscate",
     "chapter_number": 31,
-    "title": "Finite Witnesses \\& the Road Ahead",
+    "title": "Finite Witnesses & the Road Ahead",
     "slug": "chapter-31-finite-witnesses-the-road-ahead",
     "url": "/publications/books/book-i/part-07-omega-germs-the-algebraic-lemniscate/chapter-31-finite-witnesses-the-road-ahead/",
     "page_in_book": 119,
@@ -972,7 +972,7 @@
     "slug": "chapter-75-star-autonomous-categories-and-the-diagonal-barrier",
     "url": "/publications/books/book-i/part-17-the-proof-theoretic-mirror/chapter-75-star-autonomous-categories-and-the-diagonal-barrier/",
     "page_in_book": 347,
-    "summary_short": "The previous chapter surveyed the landscape: nobody has achieved full proof-theoretic self-hosting at meaningful mathematical strength. The barrier — G\\\"odel,…"
+    "summary_short": "The previous chapter surveyed the landscape: nobody has achieved full proof-theoretic self-hosting at meaningful mathematical strength. The barrier — Gödel,…"
   },
   {
     "id": "book-i-ch-76",
@@ -2268,7 +2268,7 @@
     "part_number": 4,
     "part_slug": "part-04-the-spectral-doors",
     "chapter_number": 28,
-    "title": "Poincar\\'e's Conjecture",
+    "title": "Poincaré's Conjecture",
     "slug": "chapter-28-poincar-e-s-conjecture",
     "url": "/publications/books/book-iii/part-04-the-spectral-doors/chapter-28-poincar-e-s-conjecture/",
     "page_in_book": 151,
@@ -2298,7 +2298,7 @@
     "slug": "chapter-30-the-master-schema",
     "url": "/publications/books/book-iii/part-04-the-spectral-doors/chapter-30-the-master-schema/",
     "page_in_book": 157,
-    "summary_short": "Part IV has addressed two Millennium Problems at enrichment level E₀: the Riemann Hypothesis (spectral purity) and the Poincar\\'e Conjecture (topological…"
+    "summary_short": "Part IV has addressed two Millennium Problems at enrichment level E₀: the Riemann Hypothesis (spectral purity) and the Poincaré Conjecture (topological…"
   },
   {
     "id": "book-iii-ch-31",
@@ -2788,7 +2788,7 @@
     "part_number": 10,
     "part_slug": "part-10-where-proof-lives",
     "chapter_number": 68,
-    "title": "G\\\"odel and the VM Boundary",
+    "title": "Gödel and the VM Boundary",
     "slug": "chapter-68-g-odel-and-the-vm-boundary",
     "url": "/publications/books/book-iii/part-10-where-proof-lives/chapter-68-g-odel-and-the-vm-boundary/",
     "page_in_book": 341,
@@ -3126,7 +3126,7 @@
     "part_number": 2,
     "part_slug": "part-02-quantum-mechanics-as-address-obstruction",
     "chapter_number": 18,
-    "title": "Measurement and the Schr\\\"odinger Equation",
+    "title": "Measurement and the Schrödinger Equation",
     "slug": "chapter-18-measurement-and-the-schr-odinger-equation",
     "url": "/publications/books/book-iv/part-02-quantum-mechanics-as-address-obstruction/chapter-18-measurement-and-the-schr-odinger-equation/",
     "page_in_book": 91,
@@ -4222,7 +4222,7 @@
     "slug": "chapter-29-tau",
     "url": "/publications/books/book-v/part-04-collective-dynamics/chapter-29-tau/",
     "page_in_book": 207,
-    "summary_short": "Chapter [ch:book5-ch31-tau-mhd] derived the τ-MHD system and introduced Alfv\\'en waves as coupled fluid–field oscillations. This chapter develops the…"
+    "summary_short": "Chapter [ch:book5-ch31-tau-mhd] derived the τ-MHD system and introduced Alfvén waves as coupled fluid–field oscillations. This chapter develops the…"
   },
   {
     "id": "book-v-ch-30",
@@ -4612,7 +4612,7 @@
     "slug": "chapter-01-what-is-life-why-every-classical-answer-fails",
     "url": "/publications/books/book-vi/part-00-the-question-of-life/chapter-01-what-is-life-why-every-classical-answer-fails/",
     "page_in_book": 3,
-    "summary_short": "Every classical attempt to define life—Aristotle's soul aristotle-de-anima, Schr\\\"odinger's negentropy schrodinger1944, NASA's working definition—captures a…"
+    "summary_short": "Every classical attempt to define life—Aristotle's soul aristotle-de-anima, Schrödinger's negentropy schrodinger1944, NASA's working definition—captures a…"
   },
   {
     "id": "book-vi-ch-02",
@@ -4790,11 +4790,11 @@
     "part_number": 2,
     "part_slug": "part-02-persistence-archaea-and-the-temporal-axis",
     "chapter_number": 15,
-    "title": "Circadian Rhythms: Poincar\\'e Orbits on the Temporal Circle",
+    "title": "Circadian Rhythms: Poincaré Orbits on the Temporal Circle",
     "slug": "chapter-15-circadian-rhythms-poincar-e-orbits-on-the-temporal-circle",
     "url": "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-15-circadian-rhythms-poincar-e-orbits-on-the-temporal-circle/",
     "page_in_book": 81,
-    "summary_short": "Circadian rhythms are Poincar\\'e orbits on the temporal circle of τ¹. The 24-hour cycle is modeled as a temporal lemniscate with two lobes (activity and…"
+    "summary_short": "Circadian rhythms are Poincaré orbits on the temporal circle of τ¹. The 24-hour cycle is modeled as a temporal lemniscate with two lobes (activity and…"
   },
   {
     "id": "book-vi-ch-16",
@@ -4846,7 +4846,7 @@
     "slug": "chapter-19-metabolism-circulation-at-every-scale",
     "url": "/publications/books/book-vi/part-03-agency-bacteria-and-the-spatial-axis/chapter-19-metabolism-circulation-at-every-scale/",
     "page_in_book": 107,
-    "summary_short": "Metabolism is Poincar\\'e circulation at every scale: catabolism and anabolism form the fundamental oscillation that sustains all agency. The Krebs cycle is a…"
+    "summary_short": "Metabolism is Poincaré circulation at every scale: catabolism and anabolism form the fundamental oscillation that sustains all agency. The Krebs cycle is a…"
   },
   {
     "id": "book-vi-ch-20",
@@ -5401,7 +5401,7 @@
     "part_number": 1,
     "part_slug": "part-01-the-metaphysics-definition",
     "chapter_number": 9,
-    "title": "G\\\"odel and Halting Avoidance",
+    "title": "Gödel and Halting Avoidance",
     "slug": "chapter-09-g-odel-and-halting-avoidance",
     "url": "/publications/books/book-vii/part-01-the-metaphysics-definition/chapter-09-g-odel-and-halting-avoidance/",
     "page_in_book": 36,
@@ -6523,7 +6523,7 @@
     "slug": "chapter-95-spheres-bubbles-and-foams-sloterdijk",
     "url": "/publications/books/book-vii/part-08-categorical-societies/chapter-95-spheres-bubbles-and-foams-sloterdijk/",
     "page_in_book": 342,
-    "summary_short": "Sloterdijk's *Sph\\\"aren* trilogy distinguishes three scales of social topology: bubbles (intimate dyads), globes (communal institutions), and foams (modern…"
+    "summary_short": "Sloterdijk's *Sphären* trilogy distinguishes three scales of social topology: bubbles (intimate dyads), globes (communal institutions), and foams (modern…"
   },
   {
     "id": "book-vii-ch-96",

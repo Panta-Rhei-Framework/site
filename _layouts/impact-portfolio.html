@@ -4,11 +4,13 @@ layout: default
 
 {% include breadcrumb-nav.html %}
 
+<article class="impact-portfolio-article">
 <header class="hero-card">
   <div class="module-eyebrow-row">
     <span class="eyebrow">Impact · Portfolio</span>
     {% if page.time_horizon != "" %}<span class="chip">{{ page.time_horizon | capitalize }} horizon</span>{% endif %}
     {% if page.deployment_stage != "" %}<span class="chip">{{ page.deployment_stage | replace: "-", " " | capitalize }}</span>{% endif %}
+    {% if page.right_rail.meta.status %}<span class="chip">{{ page.right_rail.meta.status }}</span>{% endif %}
   </div>
   <h1>{{ page.title }}</h1>
   {% if page.summary_short %}
@@ -21,3 +23,4 @@ layout: default
     {{ content }}
   </div>
 </section>
+</article>

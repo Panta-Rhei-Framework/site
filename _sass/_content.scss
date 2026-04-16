@@ -396,6 +396,24 @@ a.part-card {
   word-break: break-all;
 }
 
+.taulib-build-pin {
+  margin-top: 24px;
+  padding: 10px 16px;
+  border-top: 1px solid rgba(0, 0, 0, 0.06);
+  font-size: 0.74rem;
+  color: $text-muted;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 6px;
+
+  .taulib-build-label { font-weight: 600; }
+  .taulib-build-sep   { opacity: 0.45; user-select: none; }
+
+  a { color: $text-muted; &:hover { color: $accent; } }
+  code { font-size: 0.72rem; background: rgba(0, 0, 0, 0.04); padding: 1px 5px; border-radius: 3px; }
+}
+
 // Prose content
 .prose {
   h2:first-child { margin-top: 0; }

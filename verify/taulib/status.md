@@ -18,6 +18,20 @@ right_rail:
     updated: "April 2026"
 ---
 
+## Build Pin
+
+{% assign build = site.data.verify.build %}
+
+| Source | Revision | Reference |
+|--------|----------|-----------|
+| **TauLib** ({{ build.taulib.repo }}) | [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}) &middot; {{ build.taulib.commit_date }} | Apache&nbsp;2.0 &middot; [LICENSE]({{ build.taulib.license_url }}) |
+| **Lean** | `{{ build.lean.version }}` | [lean-lang.org]({{ build.lean.url }}) |
+| **Mathlib** | [`{{ build.mathlib.commit_short }}`]({{ build.mathlib.url }}/commit/{{ build.mathlib.commit_sha }}) | {{ build.mathlib.policy }} |
+
+The 445 API-doc pages in `/verify/taulib/docs/` were generated from TauLib commit `{{ build.taulib.commit_short }}` via `scripts/import_taulib_docs.py` + `scripts/convert_taulib_html_to_md.py`. To reproduce locally, clone the repo at that commit and run `lake build`.
+
+---
+
 ## Summary
 
 | Metric | Value |

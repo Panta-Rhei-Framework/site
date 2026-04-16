@@ -69,7 +69,7 @@ Girard2016TS:
 
 Godel1931:
   why_included: |
-    Gödel's 1931 <em>Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I</em>, published in *Monatshefte für Mathematik und Physik*, is one of the program's working technical references. Cited 2 times in Book I (*Categorical Foundations*), Part 18, Chapter *The Self-Hosting Landscape*, where the program draws on it in the context of “G\"odel (1931). The Second Incompleteness Theorem : any sufficiently strong, consistent, recursively enumerable formal system S cannot prove its own consistency.”
+    Gödel's 1931 <em>Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme I</em>, published in *Monatshefte für Mathematik und Physik*, is one of the program's working technical references. Cited 2 times in Book I (*Categorical Foundations*), Part 18, Chapter *The Self-Hosting Landscape*, where the program draws on it in the context of “Gödel (1931). The Second Incompleteness Theorem : any sufficiently strong, consistent, recursively enumerable formal system S cannot prove its own consistency.”
 
 Hamkins2012:
   why_included: |
@@ -93,7 +93,7 @@ Linnebo2018:
 
 Lob1955:
   why_included: |
-    Löb's 1955 <em>Solution of a Problem of Leon Henkin</em>, published in *Journal of Symbolic Logic*, is one of the program's working technical references. Cited across Book I (*Categorical Foundations*), Part 18, Chapter *The Self-Hosting Landscape*; Book I (*Categorical Foundations*), Part 18, Chapter *Star-Autonomous Categories and the Diagonal Barrier* — the central framing is “L\"ob (1955). L\"ob's theorem sharpens G\"odel's Second Incompleteness Theorem”.
+    Löb's 1955 <em>Solution of a Problem of Leon Henkin</em>, published in *Journal of Symbolic Logic*, is one of the program's working technical references. Cited across Book I (*Categorical Foundations*), Part 18, Chapter *The Self-Hosting Landscape*; Book I (*Categorical Foundations*), Part 18, Chapter *Star-Autonomous Categories and the Diagonal Barrier* — the central framing is “Löb (1955). Löb's theorem sharpens Gödel's Second Incompleteness Theorem”.
 
 MacLaneMoerdijk1992:
   why_included: |
@@ -125,7 +125,7 @@ WilliamsStay2021:
 
 Yanofsky2003:
   why_included: |
-    Yanofsky's 2003 <em>A Universal Approach to Self-Referential Paradoxes, Incompleteness and Fixed Points</em>, published in *Bulletin of Symbolic Logic*, is one of the program's working technical references. Cited across Book I (*Categorical Foundations*), Part 18, Chapter *The Self-Hosting Landscape*; Book I (*Categorical Foundations*), Part 18, Chapter *Star-Autonomous Categories and the Diagonal Barrier* — the central framing is “Yanofsky (2003). Yanofsky showed that Cantor's diagonal argument, Russell's paradox, G\"odel's incompleteness theorem, Tarski's undefinability theorem, and Turing's halting…”.
+    Yanofsky's 2003 <em>A Universal Approach to Self-Referential Paradoxes, Incompleteness and Fixed Points</em>, published in *Bulletin of Symbolic Logic*, is one of the program's working technical references. Cited across Book I (*Categorical Foundations*), Part 18, Chapter *The Self-Hosting Landscape*; Book I (*Categorical Foundations*), Part 18, Chapter *Star-Autonomous Categories and the Diagonal Barrier* — the central framing is “Yanofsky (2003). Yanofsky showed that Cantor's diagonal argument, Russell's paradox, Gödel's incompleteness theorem, Tarski's undefinability theorem, and Turing's halting…”.
 
 
 # ============================================================
@@ -412,7 +412,7 @@ Hoyle1954:
 
 Huckel1931:
   why_included: |
-    Hückel's 1931 <em>Quantentheoretische Beiträge zum Benzolproblem</em>, published in *Zeitschrift für Physik*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 6, Chapter *Organic Chemistry and Aromatic Systems*, where the program draws on it in the context of “H\"uckel's Rule A cyclic, planar, fully conjugated molecule is aromatic (anomalously stable) if and only if it contains 4n + 2 π electrons, where n is a non-negative integer: N_π….”
+    Hückel's 1931 <em>Quantentheoretische Beiträge zum Benzolproblem</em>, published in *Zeitschrift für Physik*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 6, Chapter *Organic Chemistry and Aromatic Systems*, where the program draws on it in the context of “Hückel's Rule A cyclic, planar, fully conjugated molecule is aromatic (anomalously stable) if and only if it contains 4n + 2 π electrons, where n is a non-negative integer: N_π….”
 
 Kekule1865:
   why_included: |
@@ -508,7 +508,7 @@ Weinberg1967:
 
 Weizsacker1935:
   why_included: |
-    von Weizsäcker's 1935 <em>Zur Theorie der Kernmassen</em>, published in *Zeitschrift für Physik*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 5, Chapter *Hadrons and Nuclei*, where the program draws on it in the context of “The nuclear binding energy is described by the Bethe–Weizs\"acker formula : B(A,Z) = a_V A - a_S A^2/3 - a_C Z^2A^1/3 - a_A (N-Z)^2A + δ(A,Z) Each term has a τ^3 interpretation:….”
+    von Weizsäcker's 1935 <em>Zur Theorie der Kernmassen</em>, published in *Zeitschrift für Physik*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 5, Chapter *Hadrons and Nuclei*, where the program draws on it in the context of “The nuclear binding energy is described by the Bethe–Weizsäcker formula : B(A,Z) = a_V A - a_S A^2/3 - a_C Z^2A^1/3 - a_A (N-Z)^2A + δ(A,Z) Each term has a τ^3 interpretation:….”
 
 Wigner1960:
   why_included: |
@@ -634,7 +634,7 @@ aristotle-de-anima:
 
 bergson1907:
   why_included: |
-    Bergson's <em>Creative Evolution (L'Évolution créatrice)</em> (1911), published by Henry Holt and Company, sits in the program's reference corpus as a standing technical source. Cited in Book VI (*Categorical Life*), Part 7, Chapter *The Self-Enrichment Ladder: E₀–E₃ Complete*, where the program draws on it in the context of “Vitalism holds that life requires a special substance or force—the \'elan vital —that is absent from non-living matter and irreducible to physics.”
+    Bergson's <em>Creative Evolution (L'Évolution créatrice)</em> (1911), published by Henry Holt and Company, sits in the program's reference corpus as a standing technical source. Cited in Book VI (*Categorical Life*), Part 7, Chapter *The Self-Enrichment Ladder: E₀–E₃ Complete*, where the program draws on it in the context of “Vitalism holds that life requires a special substance or force—the élan vital —that is absent from non-living matter and irreducible to physics.”
 
 chalmers1995:
   why_included: |
@@ -763,7 +763,7 @@ husserl1900:
 
 husserl1913:
   why_included: |
-    Husserl's <em>Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie</em> (1913), published by Max Niemeyer, sits in the program's reference corpus as a standing technical source. Cited in Book VII (*Categorical Metaphysics*), Part 3, Chapter *Embodiment and the Lived Body*, where the program draws on it in the context of “The Phenomenological Distinction Leib and K\"orper The German phenomenological tradition, from Husserl through Plessner to Merleau-Ponty , draws a distinction that most European….”
+    Husserl's <em>Ideen zu einer reinen Phänomenologie und phänomenologischen Philosophie</em> (1913), published by Max Niemeyer, sits in the program's reference corpus as a standing technical source. Cited in Book VII (*Categorical Metaphysics*), Part 3, Chapter *Embodiment and the Lived Body*, where the program draws on it in the context of “The Phenomenological Distinction Leib and Körper The German phenomenological tradition, from Husserl through Plessner to Merleau-Ponty , draws a distinction that most European….”
 
 kant1781:
   why_included: |

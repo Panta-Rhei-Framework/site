@@ -9,6 +9,7 @@ layout: default
   <div class="module-eyebrow-row">
     <span class="eyebrow">Impact · Companion Paper</span>
     {% if page.portfolio_id != "" %}<span class="chip">{{ page.portfolio_id | replace: "impact-", "" | capitalize }}</span>{% endif %}
+    {% if page.right_rail.meta.status %}<span class="chip">{{ page.right_rail.meta.status }}</span>{% endif %}
   </div>
   <h1>{{ page.title }}</h1>
   {% if page.summary_short %}
@@ -27,4 +28,11 @@ layout: default
     {{ content }}
   </div>
 </section>
+
+<aside class="content-card impact-cite-block" aria-label="Suggested citation">
+  <h2 class="format-section-title">Cite this paper</h2>
+  <div class="citation-block">
+    Fuchs, T. ({{ page.right_rail.meta.updated | default: "2026" }}). <em>{{ page.title }}</em>. Panta Rhei Research Program. {{ page.url | absolute_url }}
+  </div>
+</aside>
 </article>

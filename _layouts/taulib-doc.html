@@ -16,4 +16,20 @@ layout: default
 <section class="content-card taulib-doc-content">
   {{ content }}
 </section>
+
+{% assign build = site.data.verify.build %}
+{% if build %}
+<aside class="taulib-build-pin" aria-label="Generated from">
+  <span class="taulib-build-label">Generated from</span>
+  <a href="{{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}" target="_blank" rel="noopener">
+    {{ build.taulib.repo }}@<code>{{ build.taulib.commit_short }}</code>
+  </a>
+  <span class="taulib-build-sep" aria-hidden="true">&middot;</span>
+  <span>Lean&nbsp;<code>{{ build.lean.version }}</code></span>
+  <span class="taulib-build-sep" aria-hidden="true">&middot;</span>
+  <span>Mathlib&nbsp;<code>{{ build.mathlib.commit_short }}</code></span>
+  <span class="taulib-build-sep" aria-hidden="true">&middot;</span>
+  <a href="{{ build.taulib.license_url }}" target="_blank" rel="noopener license">{{ build.taulib.license }}</a>
+</aside>
+{% endif %}
 </article>

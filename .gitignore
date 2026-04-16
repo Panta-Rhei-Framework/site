@@ -5,3 +5,6 @@ _site/
 Gemfile.lock
 .DS_Store
 vendor/
+
+# Local preflight QA workspace (not published, not versioned)
+preflight/

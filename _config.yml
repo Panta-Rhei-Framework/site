@@ -60,6 +60,7 @@ exclude:
   - scripts
   - README.md
   - .DS_Store
+  - preflight
 
 defaults:
   - scope:

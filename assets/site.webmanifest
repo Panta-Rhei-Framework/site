@@ -1,0 +1,23 @@
+{
+  "name": "Panta Rhei Research",
+  "short_name": "Panta Rhei",
+  "description": "The τ³ research program — categorical foundations from mathematics to metaphysics.",
+  "icons": [
+    {
+      "src": "/assets/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/assets/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any maskable"
+    }
+  ],
+  "theme_color": "#294b66",
+  "background_color": "#f6f7f3",
+  "display": "standalone",
+  "start_url": "/"
+}

@@ -1,0 +1,37 @@
+# TauLib build metadata — source of truth for the Verify lane
+#
+# Update this file whenever a new TauLib release is pinned into the site.
+# It is surfaced on /verify/taulib/status/ and in the taulib-doc layout footer
+# so readers can trace generated API docs to an exact revision.
+#
+# Populate with: gh api repos/Panta-Rhei-Research/taulib/commits/main --jq .sha
+# and by reading lake-manifest.json for the mathlib rev.
+
+taulib:
+  repo: "Panta-Rhei-Research/taulib"
+  url: "https://github.com/Panta-Rhei-Research/taulib"
+  branch: "main"
+  commit_sha: "181a59e1bb7099c5ae49cb4c3aa027a9e76f98a5"
+  commit_short: "181a59e"
+  commit_date: "2026-04-14"
+  license: "Apache-2.0"
+  license_url: "https://github.com/Panta-Rhei-Research/taulib/blob/main/LICENSE"
+  description: "Live Lean 4 formalization of Category τ — 450 modules, 125K lines, 4332 theorems, 0 sorry in Books I–VI"
+
+lean:
+  version: "v4.28.0-rc1"
+  toolchain: "leanprover/lean4:v4.28.0-rc1"
+  url: "https://lean-lang.org"
+
+mathlib:
+  repo: "leanprover-community/mathlib4"
+  url: "https://github.com/leanprover-community/mathlib4"
+  commit_sha: "85028a69f0ea"
+  commit_short: "85028a6"
+  policy: "Tactics only (simp, omega, ring, aesop, decide). NEVER imports Mathlib mathematical content."
+
+generated_docs:
+  source_commit: "181a59e1bb7099c5ae49cb4c3aa027a9e76f98a5"
+  generator_scripts:
+    - "scripts/import_taulib_docs.py"
+    - "scripts/convert_taulib_html_to_md.py"
