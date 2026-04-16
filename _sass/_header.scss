@@ -7,7 +7,8 @@
   top: 0;
   z-index: $z-header;
   height: $header-h;
-  margin: 10px 12px 0;
+  max-width: calc(#{$rail-left-w} + #{$content-max} + #{$rail-right-w} + #{$shell-gap} * 2);
+  margin: 10px auto 0;
   padding: 0 $page-px;
   display: flex;
   align-items: center;
