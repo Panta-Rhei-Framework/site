@@ -234,6 +234,19 @@
       margin: 0;
       line-height: 1.45;
     }
+
+    .book-format-btns {
+      display: flex;
+      gap: 8px;
+      margin-top: 10px;
+      flex-wrap: wrap;
+
+      .btn-ghost {
+        height: 32px;
+        font-size: 0.78rem;
+        padding: 0 12px;
+      }
+    }
   }
 }
 
