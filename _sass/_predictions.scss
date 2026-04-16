@@ -1,0 +1,249 @@
+// Physics Ledger: Predictions + Falsifications browse + detail styles
+
+// ---------- Shared browse controls ----------
+.predictions-browse-controls,
+.falsifications-browse-controls {
+  display: flex;
+  flex-direction: column;
+  gap: 14px;
+  padding: 18px 20px;
+  margin-bottom: 24px;
+  background: rgba(255, 255, 255, 0.5);
+  backdrop-filter: blur(10px) saturate(140%);
+  -webkit-backdrop-filter: blur(10px) saturate(140%);
+  border: 1px solid rgba(255, 255, 255, 0.55);
+  border-radius: $radius-lg;
+  box-shadow: 0 4px 20px rgba(22, 29, 37, 0.05);
+}
+
+// ---------- Prediction grid + cards ----------
+.predictions-browse-grid,
+.falsifications-browse-grid {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(320px, 1fr));
+  gap: 14px;
+
+  @media (max-width: $bp-stack) {
+    grid-template-columns: 1fr;
+  }
+}
+
+.prediction-card,
+.falsification-card {
+  display: block;
+  background: rgba(255, 255, 255, 0.75);
+  border: 1px solid rgba(22, 29, 37, 0.08);
+  border-radius: $radius-lg;
+  transition: transform 0.15s ease, box-shadow 0.15s ease, border-color 0.15s ease;
+  content-visibility: auto;
+  contain-intrinsic-size: 320px 200px;
+
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 8px 24px rgba(22, 29, 37, 0.08);
+    border-color: rgba(41, 75, 102, 0.2);
+  }
+
+  &[hidden] { display: none; }
+}
+
+.prediction-card-link,
+.falsification-card-link {
+  display: block;
+  padding: 18px 20px 16px;
+  text-decoration: none;
+  color: inherit;
+  &:hover { text-decoration: none; }
+}
+
+.prediction-card-top,
+.falsification-card-top {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-bottom: 10px;
+}
+
+.prediction-card-title,
+.falsification-card-title {
+  font-family: $font-ui;
+  font-size: 1.02rem;
+  font-weight: 600;
+  line-height: 1.35;
+  color: $text;
+  margin: 0 0 8px;
+  display: -webkit-box;
+  -webkit-line-clamp: 2;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+
+  math {
+    font-family: inherit;
+    font-size: inherit;
+    display: inline;
+  }
+}
+
+.prediction-card-values {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  font-family: $font-mono;
+  font-size: 0.82rem;
+  color: $text-muted;
+  margin-bottom: 10px;
+}
+
+.prediction-card-tau { color: $accent; font-weight: 600; }
+.prediction-card-dev { font-weight: 600; }
+
+.prediction-card-bottom,
+.falsification-card-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 5px;
+}
+
+.falsification-card-meta {
+  font-size: 0.85rem;
+  color: $text-muted;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.falsification-experiment { font-weight: 500; }
+.falsification-timeline { color: lighten($text-muted, 10%); }
+
+// ---------- Precision tier chips ----------
+.chip-precision-sub-10-ppm,
+.chip-precision-sub-10 {
+  background: rgba(30, 126, 52, 0.1);
+  border-color: rgba(30, 126, 52, 0.3);
+  color: #1e7e34;
+  font-weight: 600;
+}
+
+.chip-precision-10-1000-ppm,
+.chip-precision-mid {
+  background: rgba(26, 91, 196, 0.1);
+  border-color: rgba(26, 91, 196, 0.3);
+  color: #1a5bc4;
+}
+
+.chip-precision-1-5-percent,
+.chip-precision-percent {
+  background: rgba(166, 109, 0, 0.1);
+  border-color: rgba(166, 109, 0, 0.3);
+  color: #a66d00;
+}
+
+// Active states for precision filter chips
+.predictions-browse-controls {
+  .chip-precision-sub-10.is-active { background: #1e7e34; border-color: #1e7e34; color: #fff; }
+  .chip-precision-mid.is-active { background: #1a5bc4; border-color: #1a5bc4; color: #fff; }
+  .chip-precision-percent.is-active { background: #a66d00; border-color: #a66d00; color: #fff; }
+}
+
+// ---------- Falsification status chips ----------
+.chip-status-confirmed { background: rgba(30, 126, 52, 0.1); border-color: rgba(30, 126, 52, 0.3); color: #1e7e34; font-weight: 600; }
+.chip-status-consistent { background: rgba(26, 91, 196, 0.1); border-color: rgba(26, 91, 196, 0.3); color: #1a5bc4; }
+.chip-status-testable { background: rgba(166, 109, 0, 0.1); border-color: rgba(166, 109, 0, 0.3); color: #a66d00; }
+
+.falsifications-browse-controls {
+  .chip-status-confirmed.is-active { background: #1e7e34; border-color: #1e7e34; color: #fff; }
+  .chip-status-consistent.is-active { background: #1a5bc4; border-color: #1a5bc4; color: #fff; }
+  .chip-status-testable.is-active { background: #a66d00; border-color: #a66d00; color: #fff; }
+}
+
+.chip-fals-id { background: rgba(41, 75, 102, 0.12); border-color: rgba(41, 75, 102, 0.25); color: $accent; font-weight: 700; font-family: $font-mono; }
+.chip-seam { background: rgba(139, 69, 19, 0.1); border-color: rgba(139, 69, 19, 0.3); color: #8b4513; }
+
+// ---------- Empty state ----------
+.predictions-browse-empty,
+.falsifications-browse-empty {
+  padding: 40px 20px;
+  text-align: center;
+  background: rgba(255, 255, 255, 0.5);
+  border: 1px dashed rgba(22, 29, 37, 0.15);
+  border-radius: $radius-lg;
+  margin-bottom: 20px;
+  p { margin: 0; font-size: 0.95rem; color: $text-muted; }
+}
+
+// ---------- Detail page layouts ----------
+.prediction-detail {
+  .prediction-comparison {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 18px;
+    padding: 22px 0;
+
+    @media (max-width: $bp-stack) {
+      grid-template-columns: repeat(2, 1fr);
+      gap: 12px;
+    }
+  }
+
+  .prediction-column {
+    .eyebrow {
+      display: block;
+      padding: 0;
+      background: none;
+      border: none;
+      border-radius: 0;
+      margin-bottom: 8px;
+    }
+  }
+
+  .prediction-formula {
+    font-family: $font-mono;
+    font-size: 0.95rem;
+    word-break: break-word;
+    math { display: inline; }
+  }
+
+  .prediction-value {
+    font-family: $font-mono;
+    font-size: 1.1rem;
+    font-weight: 600;
+    color: $text;
+  }
+
+  .prediction-value-tau { color: $accent; }
+  .prediction-deviation { color: #1e7e34; }
+}
+
+.falsification-detail {
+  .falsification-grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 18px;
+
+    @media (max-width: $bp-stack) {
+      grid-template-columns: 1fr;
+      gap: 12px;
+    }
+  }
+
+  .falsification-block {
+    .eyebrow {
+      display: block;
+      padding: 0;
+      background: none;
+      border: none;
+      border-radius: 0;
+      margin-bottom: 8px;
+    }
+
+    p {
+      font-size: 0.95rem;
+      line-height: 1.55;
+      color: $text;
+      margin: 0;
+    }
+  }
+}

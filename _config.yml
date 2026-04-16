@@ -41,6 +41,12 @@ collections:
     output: true
     permalink: /changelog/:name/
     sort_by: date
+  predictions:
+    output: true
+    permalink: /predictions/:name/
+  falsifications:
+    output: true
+    permalink: /falsifications/:name/
 
 collections_dir: .
 

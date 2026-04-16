@@ -1,0 +1,113 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">Results · Physics Predictions</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+</div>
+
+<div class="content-card predictions-browse">
+  <div class="predictions-browse-intro prose">
+    {{ content }}
+  </div>
+
+  <div class="predictions-browse-controls" id="predictions-browse-controls" aria-label="Filter and sort predictions">
+    <div class="filter-group" data-filter-group="domain">
+      <span class="filter-label">Domain</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="domain" data-value="particle-physics" type="button">Particle Physics</button>
+        <button class="filter-chip" data-filter="domain" data-value="electroweak-qcd" type="button">Electroweak/QCD</button>
+        <button class="filter-chip" data-filter="domain" data-value="cosmology" type="button">Cosmology</button>
+        <button class="filter-chip" data-filter="domain" data-value="astrophysics" type="button">Astrophysics</button>
+        <button class="filter-chip" data-filter="domain" data-value="collective-dynamics" type="button">Collective Dynamics</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="precision">
+      <span class="filter-label">Precision</span>
+      <div class="filter-chips">
+        <button class="filter-chip chip-precision-sub-10" data-filter="precision" data-value="sub-10-ppm" type="button">Sub-10 ppm</button>
+        <button class="filter-chip chip-precision-mid" data-filter="precision" data-value="10-1000-ppm" type="button">10–1000 ppm</button>
+        <button class="filter-chip chip-precision-percent" data-filter="precision" data-value="1-5-percent" type="button">1–5%</button>
+        <button class="filter-chip" data-filter="precision" data-value="structural" type="button">Structural</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="scope">
+      <span class="filter-label">Scope</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="scope" data-value="established" type="button">Established</button>
+        <button class="filter-chip" data-filter="scope" data-value="tau-effective" type="button">τ-Effective</button>
+        <button class="filter-chip" data-filter="scope" data-value="conjectural" type="button">Conjectural</button>
+      </div>
+    </div>
+
+    <div class="filter-group filter-group-sort">
+      <span class="filter-label">Sort</span>
+      <div class="filter-chips">
+        <button class="sort-chip is-active" data-sort="precision" type="button">Precision</button>
+        <button class="sort-chip" data-sort="alpha" type="button">A → Z</button>
+        <button class="sort-chip" data-sort="domain" type="button">By Domain</button>
+      </div>
+    </div>
+
+    <div class="filter-group filter-group-actions">
+      <div class="filter-count">
+        <strong id="predictions-count">{{ site.data.predictions.predictions | size }}</strong> of {{ site.data.predictions.predictions | size }} predictions
+      </div>
+      <button class="btn-secondary btn-clear-filters" id="predictions-clear-filters" type="button">Clear filters</button>
+    </div>
+  </div>
+
+  <div class="predictions-browse-empty" id="predictions-empty" hidden>
+    <p>No predictions match the current filters. <button type="button" class="btn-link" id="predictions-empty-clear">Clear filters</button> to see everything.</p>
+  </div>
+
+  <ol class="predictions-browse-grid" id="predictions-browse-grid">
+    {%- assign domain_rank = "particle-physics:1,electroweak-qcd:2,cosmology:3,astrophysics:4,collective-dynamics:5" | split: "," -%}
+    {% for pred in site.data.predictions.predictions %}
+      {%- assign precision_rank = 4 -%}
+      {%- if pred.precision_tier == "sub-10-ppm" -%}{%- assign precision_rank = 1 -%}
+      {%- elsif pred.precision_tier == "10-1000-ppm" -%}{%- assign precision_rank = 2 -%}
+      {%- elsif pred.precision_tier == "1-5-percent" -%}{%- assign precision_rank = 3 -%}
+      {%- endif -%}
+      <li class="prediction-card"
+          data-domain="{{ pred.domain }}"
+          data-precision="{{ pred.precision_tier }}"
+          data-scope="{{ pred.scope }}"
+          data-title="{{ pred.title_plain | default: pred.title | downcase | escape }}"
+          data-precision-rank="{{ precision_rank }}">
+        <a class="prediction-card-link" href="{{ pred.url | relative_url }}">
+          <div class="prediction-card-top">
+            <span class="chip chip-small">{{ pred.domain_display }}</span>
+            {% if pred.precision_display and pred.precision_display != "" %}
+            <span class="chip chip-small chip-precision-{{ pred.precision_tier }}">{{ pred.precision_display }}</span>
+            {% endif %}
+            <span class="chip chip-small">{{ pred.scope_display }}</span>
+          </div>
+          <h3 class="prediction-card-title">{{ pred.title }}</h3>
+          <div class="prediction-card-values">
+            <span class="prediction-card-tau">τ: {{ pred.tau_value }}</span>
+            {% if pred.observed and pred.observed != "" and pred.observed != "–" and pred.observed != "--" %}
+            <span class="prediction-card-obs">Obs: {{ pred.observed }}</span>
+            {% endif %}
+            {% if pred.deviation and pred.deviation != "" and pred.deviation != "–" and pred.deviation != "--" %}
+            <span class="prediction-card-dev">{{ pred.deviation }}</span>
+            {% endif %}
+          </div>
+          <div class="prediction-card-bottom">
+            {% if pred.registry_id and pred.registry_id != "" %}
+            <span class="chip chip-small chip-book">{{ pred.registry_id }}</span>
+            {% endif %}
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</div>
+
+<script defer src="{{ '/assets/js/predictions-browse.js' | relative_url }}"></script>

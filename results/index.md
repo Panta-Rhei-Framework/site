@@ -95,6 +95,12 @@ The [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relat
 - [Mind, Consciousness, and the Self-Model]({{ '/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/' | relative_url }}) — selfhood, free will, and the hard problem
 - [Logos and the Final Boundary]({{ '/results/world-readout/metaphysics/logos-and-the-final-boundary/' | relative_url }}) — where proof meets commitment
 
+## Physics Predictions Ledger
+
+The [Physics Predictions]({{ '/results/predictions/browse/' | relative_url }}) collection compiles **67 zero-parameter numerical predictions** derived from the single master constant ι_τ = 2/(π+e). Each prediction compares a τ-derived value directly to experimental measurement — no ontological bridge claims needed. Fifteen predictions achieve sub-10 ppm precision.
+
+The [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relative_url }}) identifies **30 sharp predictions** where the framework makes specific claims that named experiments can test on a 2025–2035 timeline, including 7 falsifiable seams where τ and orthodox physics make structurally incompatible predictions.
+
 ## Featured Results
 
 - [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior f

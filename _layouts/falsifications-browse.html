@@ -1,0 +1,94 @@
+---
+layout: default
+---
+
+<div class="hero-card">
+  <span class="eyebrow">Results · Falsification Pack</span>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+</div>
+
+<div class="content-card falsifications-browse">
+  <div class="falsifications-browse-intro prose">
+    {{ content }}
+  </div>
+
+  <div class="falsifications-browse-controls" id="falsifications-browse-controls" aria-label="Filter and sort falsifications">
+    <div class="filter-group" data-filter-group="domain">
+      <span class="filter-label">Domain</span>
+      <div class="filter-chips">
+        <button class="filter-chip" data-filter="domain" data-value="particle-physics" type="button">Particle Physics</button>
+        <button class="filter-chip" data-filter="domain" data-value="cmb-inflation" type="button">CMB/Inflation</button>
+        <button class="filter-chip" data-filter="domain" data-value="bbn" type="button">BBN</button>
+        <button class="filter-chip" data-filter="domain" data-value="dark-sector" type="button">Dark Sector</button>
+        <button class="filter-chip" data-filter="domain" data-value="black-holes" type="button">Black Holes</button>
+        <button class="filter-chip" data-filter="domain" data-value="collective-dynamics" type="button">Collective Dynamics</button>
+      </div>
+    </div>
+
+    <div class="filter-group" data-filter-group="status">
+      <span class="filter-label">Status</span>
+      <div class="filter-chips">
+        <button class="filter-chip chip-status-confirmed" data-filter="status" data-value="confirmed" type="button">Confirmed</button>
+        <button class="filter-chip chip-status-consistent" data-filter="status" data-value="consistent" type="button">Consistent</button>
+        <button class="filter-chip chip-status-testable" data-filter="status" data-value="testable" type="button">Testable</button>
+      </div>
+    </div>
+
+    <div class="filter-group filter-group-sort">
+      <span class="filter-label">Sort</span>
+      <div class="filter-chips">
+        <button class="sort-chip is-active" data-sort="id" type="button">N1 → N30</button>
+        <button class="sort-chip" data-sort="domain" type="button">By Domain</button>
+        <button class="sort-chip" data-sort="status" type="button">By Status</button>
+      </div>
+    </div>
+
+    <div class="filter-group filter-group-actions">
+      <div class="filter-count">
+        <strong id="falsifications-count">{{ site.data.falsifications.falsifications | size }}</strong> of {{ site.data.falsifications.falsifications | size }} falsifications
+      </div>
+      <button class="btn-secondary btn-clear-filters" id="falsifications-clear-filters" type="button">Clear filters</button>
+    </div>
+  </div>
+
+  <div class="falsifications-browse-empty" id="falsifications-empty" hidden>
+    <p>No falsifications match the current filters. <button type="button" class="btn-link" id="falsifications-empty-clear">Clear filters</button> to see everything.</p>
+  </div>
+
+  <ol class="falsifications-browse-grid" id="falsifications-browse-grid">
+    {% for fals in site.data.falsifications.falsifications %}
+      {%- assign status_rank = 3 -%}
+      {%- if fals.current_status == "confirmed" -%}{%- assign status_rank = 1 -%}
+      {%- elsif fals.current_status == "consistent" -%}{%- assign status_rank = 2 -%}
+      {%- endif -%}
+      <li class="falsification-card"
+          data-domain="{{ fals.domain }}"
+          data-status="{{ fals.current_status }}"
+          data-seam="{{ fals.seam | default: 'none' }}"
+          data-n="{{ fals.n_num }}"
+          data-status-rank="{{ status_rank }}"
+          data-title="{{ fals.title | downcase | escape }}">
+        <a class="falsification-card-link" href="{{ fals.url | relative_url }}">
+          <div class="falsification-card-top">
+            <span class="chip chip-small chip-fals-id">{{ fals.id }}</span>
+            <span class="chip chip-small">{{ fals.domain_display }}</span>
+            <span class="chip chip-small chip-status-{{ fals.current_status }}">{{ fals.current_status | capitalize }}</span>
+            {% if fals.seam %}<span class="chip chip-small chip-seam">Seam {{ fals.seam }}</span>{% endif %}
+          </div>
+          <h3 class="falsification-card-title">{{ fals.title }}</h3>
+          <div class="falsification-card-meta">
+            <span class="falsification-experiment">{{ fals.experiment }}</span>
+            {% if fals.timeline and fals.timeline != "" %}
+            <span class="falsification-timeline">{{ fals.timeline }}</span>
+            {% endif %}
+          </div>
+        </a>
+      </li>
+    {% endfor %}
+  </ol>
+</div>
+
+<script defer src="{{ '/assets/js/falsifications-browse.js' | relative_url }}"></script>

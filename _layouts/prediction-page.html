@@ -1,0 +1,76 @@
+---
+layout: default
+---
+
+{% include breadcrumb-nav.html %}
+
+<div class="hero-card">
+  <div class="module-eyebrow-row">
+    <span class="eyebrow">Physics Ledger · Prediction</span>
+    <span class="chip">{{ page.domain_display }}</span>
+    <span class="chip">{{ page.scope_display }}</span>
+    {% if page.precision_display and page.precision_display != "" %}
+    <span class="chip chip-precision-{{ page.precision_tier }}">{{ page.precision_display }}</span>
+    {% endif %}
+  </div>
+  <h1>{{ page.title }}</h1>
+  {% if page.summary_short %}
+  <p>{{ page.summary_short }}</p>
+  {% endif %}
+</div>
+
+<div class="content-card prediction-detail">
+  <h2>Prediction</h2>
+  <div class="prediction-comparison">
+    <div class="prediction-column">
+      <span class="eyebrow">τ-Formula</span>
+      <div class="prediction-formula">{{ page.formula_mathml }}</div>
+    </div>
+    <div class="prediction-column">
+      <span class="eyebrow">τ-Value</span>
+      <div class="prediction-value prediction-value-tau">{{ page.tau_value }}</div>
+    </div>
+    <div class="prediction-column">
+      <span class="eyebrow">Observed</span>
+      <div class="prediction-value">{{ page.observed_value }}</div>
+    </div>
+    <div class="prediction-column">
+      <span class="eyebrow">Deviation</span>
+      <div class="prediction-value prediction-deviation">{{ page.deviation }}</div>
+    </div>
+  </div>
+</div>
+
+{% if content != "" %}
+<div class="content-card">
+  <div class="prose">
+    {{ content }}
+  </div>
+</div>
+{% endif %}
+
+{% if page.registry_id and page.registry_id != "" %}
+<div class="content-card">
+  <h2>Registry</h2>
+  <div class="registry-list">
+    <a href="{{ '/registry/object/' | append: page.registry_id | append: '/' | relative_url }}" class="chip">{{ page.registry_id }}</a>
+  </div>
+  <p style="margin-top: 10px; font-size: 0.88rem; color: #5b6772;">
+    Canonical derivation in
+    {% for book in page.canonical_books %}Book {{ book }}{% unless forloop.last %}, {% endunless %}{% endfor %}.
+  </p>
+</div>
+{% endif %}
+
+<div class="content-card">
+  <h2>Metadata</h2>
+  <div class="meta-list" style="font-size: 0.88rem;">
+    <div class="meta-item"><span>Domain</span><span class="meta-value">{{ page.domain_display }}</span></div>
+    <div class="meta-item"><span>Precision Tier</span><span class="meta-value">{{ page.precision_display | default: "—" }}</span></div>
+    <div class="meta-item"><span>Scope</span><span class="meta-value">{{ page.scope_display }}</span></div>
+    <div class="meta-item"><span>Registry ID</span><span class="meta-value" style="font-family: var(--font-mono, monospace);">{{ page.registry_id }}</span></div>
+    {% for book in page.canonical_books %}
+    <div class="meta-item"><span>Canonical Book</span><span class="meta-value">Book {{ book }}</span></div>
+    {% endfor %}
+  </div>
+</div>
