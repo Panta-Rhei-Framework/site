@@ -133,7 +133,7 @@
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "All content of Books IV–VII is a sector instantiation of the Book III template; all inter-sector couplings are rational functions of ι_τ with zero free parameters.",
+    "summary_short": "All content of Books IV–VII is a sector instantiation of the Book III template; all inter-sector couplings are rational functions of ι<sub>τ</sub> with zero free parameters.",
     "url": "/results/problem/hinge-theorem-no-knobs/",
     "canonical_books": [
       "I"
@@ -218,7 +218,7 @@
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The W-boson mass is derived as M_W = (17/5)ι_τ⁻³ m_n [1 + (5/17)αι_τ²] at −0.5 ppm from the PDG value.",
+    "summary_short": "The W-boson mass is derived as M_W = (17/5)ι<sub>τ</sub>⁻³ m_n [1 + (5/17)αι<sub>τ</sub>²] at −0.5 ppm from the PDG value.",
     "url": "/results/problem/w-boson-mass-prediction/",
     "canonical_books": [
       "IV"
@@ -276,12 +276,12 @@
   {
     "id": "result-014",
     "slug": "tensor-to-scalar-ratio",
-    "title": "Tensor-to-Scalar Ratio r = ι_τ⁴ = 0.0136",
+    "title": "Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136",
     "topic": "physics",
     "layer": "physics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The CMB tensor-to-scalar ratio is derived as r = ι_τ⁴ = 0.0136 — a falsifiable prediction for CMB-S4 at ~14σ above the current upper bound.",
+    "summary_short": "The CMB tensor-to-scalar ratio is derived as r = ι<sub>τ</sub>⁴ = 0.0136 — a falsifiable prediction for CMB-S4 at ~14σ above the current upper bound.",
     "url": "/results/problem/tensor-to-scalar-ratio/",
     "canonical_books": [
       "V"
@@ -713,12 +713,12 @@
   {
     "id": "result-034",
     "slug": "cabibbo-angle",
-    "title": "Cabibbo Angle: sin θ_C = ι_τ(1 − ι_τ) at −2327 ppm",
+    "title": "Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm",
     "topic": "mathematics",
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The Cabibbo angle is derived as sin θ_C = ι_τ(1 − ι_τ) = 0.22456..., at −2327 ppm from the experimental value.",
+    "summary_short": "The Cabibbo angle is derived as sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) = 0.22456..., at −2327 ppm from the experimental value.",
     "url": "/results/problem/cabibbo-angle/",
     "canonical_books": [
       "IV"
@@ -783,7 +783,7 @@
     "layer": "physics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The CMB first acoustic peak position ℓ₁ = 220.6 is derived at LO to +2840 ppm and at NLO to +69 ppm using δ_h = ι_τ/W₅(3).",
+    "summary_short": "The CMB first acoustic peak position ℓ₁ = 220.6 is derived at LO to +2840 ppm and at NLO to +69 ppm using δ_h = ι<sub>τ</sub>/W₅(3).",
     "url": "/results/problem/cmb-first-peak/",
     "canonical_books": [
       "V"
@@ -799,7 +799,7 @@
   {
     "id": "result-038",
     "slug": "gravitational-constant-from-iota-tau",
-    "title": "Gravitational Constant from ι_τ: α_G at 3 ppm",
+    "title": "Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm",
     "topic": "mathematics",
     "layer": "mathematics",
     "result_type": "structural_readout",
@@ -1040,12 +1040,12 @@
   {
     "id": "result-049",
     "slug": "baryogenesis-eta-b",
-    "title": "Baryogenesis: η_B = α·ι_τ¹⁵·(5/6) at −1%",
+    "title": "Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%",
     "topic": "mathematics",
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The baryon-to-photon ratio η_B is derived as α·ι_τ¹⁵·(5/6) at −1%, with the three Sakharov conditions satisfied structurally.",
+    "summary_short": "The baryon-to-photon ratio η_B is derived as α·ι<sub>τ</sub>¹⁵·(5/6) at −1%, with the three Sakharov conditions satisfied structurally.",
     "url": "/results/problem/baryogenesis-eta-b/",
     "canonical_books": [
       "IV",
@@ -1126,12 +1126,12 @@
   {
     "id": "result-053",
     "slug": "fine-structure-constant-alpha-inverse-137",
-    "title": "Fine-Structure Constant α⁻¹ = 137.036 from ι_τ",
+    "title": "Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>",
     "topic": "mathematics",
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The dimensionless fine-structure constant α⁻¹ = 137.036 is derived from ι_τ at approximately zero ppm agreement with CODATA — no free parameters.",
+    "summary_short": "The dimensionless fine-structure constant α⁻¹ = 137.036 is derived from ι<sub>τ</sub> at approximately zero ppm agreement with CODATA — no free parameters.",
     "url": "/results/problem/fine-structure-constant-alpha-inverse-137/",
     "canonical_books": [
       "IV"
@@ -1210,12 +1210,12 @@
   {
     "id": "result-057",
     "slug": "axial-coupling-g-a-5pt5-ppm",
-    "title": "Axial Coupling g_A at +5.5 ppm via κ_D² /ι_τ with CF Window NLO",
+    "title": "Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO",
     "topic": "mathematics",
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The nucleon axial coupling g_A = 1.27637 is derived at +5.5 ppm from PDG using κ_D²/ι_τ with a continued-fraction window NLO correction.",
+    "summary_short": "The nucleon axial coupling g_A = 1.27637 is derived at +5.5 ppm from PDG using κ_D²/ι<sub>τ</sub> with a continued-fraction window NLO correction.",
     "url": "/results/problem/axial-coupling-g-a-5pt5-ppm/",
     "canonical_books": [
       "IV"
@@ -1273,12 +1273,12 @@
   {
     "id": "result-060",
     "slug": "hubble-tension-resolved-h-formula",
-    "title": "Hubble Tension Resolved: h = 2/3 + ι_τ²/17 at –120 ppm",
+    "title": "Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm",
     "topic": "mathematics",
     "layer": "mathematics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The Hubble constant h = 0.6735 is derived as h = 2/3 + ι_τ²/17 at –120 ppm from SH0ES/JWST, resolving the Hubble tension without free parameters.",
+    "summary_short": "The Hubble constant h = 0.6735 is derived as h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm from SH0ES/JWST, resolving the Hubble tension without free parameters.",
     "url": "/results/problem/hubble-tension-resolved-h-formula/",
     "canonical_books": [
       "V"
@@ -1425,12 +1425,12 @@
   {
     "id": "result-067",
     "slug": "crossing-limit-theorem-merger-networks-iota-tau",
-    "title": "Crossing-Limit Theorem: Merger Networks Converge to ι_τ",
+    "title": "Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>",
     "topic": "physics",
     "layer": "physics",
     "result_type": "structural_readout",
     "bridge_status": "internal",
-    "summary_short": "The merger-directed network of ω-codes converges to ι_τ: the universe trends toward maximal aliveness, with the cosmological endstate having code exactly ι_τ.",
+    "summary_short": "The merger-directed network of ω-codes converges to ι<sub>τ</sub>: the universe trends toward maximal aliveness, with the cosmological endstate having code exactly ι<sub>τ</sub>.",
     "url": "/results/problem/crossing-limit-theorem-merger-networks-iota-tau/",
     "canonical_books": [
       "II"
@@ -3652,7 +3652,7 @@
     "importance_class": "core-foundational-problem",
     "status_code": "R",
     "domain_group": "FOUND",
-    "summary_short": "The apparent fine-tuning of physical constants (α, masses, cosmological parameters) is dissolved: every constant is derived from ι_τ = 2/(π+e) with zero free pa",
+    "summary_short": "The apparent fine-tuning of physical constants (α, masses, cosmological parameters) is dissolved: every constant is derived from ι<sub>τ</sub> = 2/(π+e) with zero free pa",
     "url": "/results/problem/fine-tuning-dissolved/",
     "canonical_books": [
       "III",
@@ -3926,7 +3926,7 @@
     "importance_class": "high-impact-frontier-problem",
     "status_code": "R",
     "domain_group": "COSMO",
-    "summary_short": "Primordial gravitational waves from inflation would produce B-mode polarization in the CMB. The τ-framework predicts tensor-to-scalar ratio r = ι_τ⁴ ≈ 0.014, te",
+    "summary_short": "Primordial gravitational waves from inflation would produce B-mode polarization in the CMB. The τ-framework predicts tensor-to-scalar ratio r = ι<sub>τ</sub>⁴ ≈ 0.014, te",
     "url": "/results/problem/primordial-gravitational-waves/",
     "canonical_books": [
       "V"

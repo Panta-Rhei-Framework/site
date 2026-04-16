@@ -68,7 +68,7 @@ Source: τ-native coupling space (dim = number of sectors).
 Target: SI measurable quantities.
 
 - no_knobs : Bool
-The map is determined by ι_τ alone (No Knobs).
+The map is determined by ι<sub>τ</sub> alone (No Knobs).
 
 - no_knobs_true : self.no_knobs = true
 Instances For
@@ -121,4 +121,4 @@ Tau.BookIV.Calibration.calibration_structural :calibration_map.source_dim = 5 �
 
 
 [IV.P159] Calibration is structural: determined by 5 sectors,
-governed by ι_τ alone.
+governed by ι<sub>τ</sub> alone.

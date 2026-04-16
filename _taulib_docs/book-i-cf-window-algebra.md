@@ -26,7 +26,7 @@ right_rail:
 # TauLib.CF.WindowAlgebra
 
 
-Window algebra on the continued fraction head of ι_τ = 2/(π+e).
+Window algebra on the continued fraction head of ι<sub>τ</sub> = 2/(π+e).
 
 ## Registry Cross-References
 
@@ -43,7 +43,7 @@ Window algebra on the continued fraction head of ι_τ = 2/(π+e).
 ## Mathematical Content
 
 
-The continued fraction CF[ι_τ] = [0; 2, 1, 13, 3, 1, 1, 1, 42, ...] encodes
+The continued fraction CF[ι<sub>τ</sub>] = [0; 2, 1, 13, 3, 1, 1, 1, 42, ...] encodes
 electroweak physics through width-3 sliding window sums W₃(j) = a_j + a_{j+1} + a_{j+2}.
 
 Key values:
@@ -75,7 +75,7 @@ generators winding through the fiber T².
 Tau.CF.cf_head :List Nat**
 
 
-The first 14 partial quotients of CF[ι_τ] = CF[2/(π+e)].
+The first 14 partial quotients of CF[ι<sub>τ</sub>] = CF[2/(π+e)].
 Index 0 = floor part (0), indices 1..13 = partial quotients a₁..a₁₃.
 Sufficient for all known physics encodings.
 Equations

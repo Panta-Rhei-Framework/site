@@ -75,7 +75,7 @@ values presented as the Dimensionless Cascade.
 Tau.BookIV.Calibration.grav_self_coupling :Sectors.CouplingFormula**
 
 
-[IV.D275] Gravitational self-coupling κ(D;1) = 1 − ι_τ ≈ 0.658541.
+[IV.D275] Gravitational self-coupling κ(D;1) = 1 − ι<sub>τ</sub> ≈ 0.658541.
 Depth 1, χ₊-dominant. The largest primitive coupling.
 Equations
 - Tau.BookIV.Calibration.grav_self_coupling = Tau.BookIV.Sectors.kappa_DD
@@ -102,7 +102,7 @@ Tau.BookIV.Calibration.grav_coupling_value :grav_self_coupling.numer * 1000 > 65
 Tau.BookIV.Calibration.weak_self_coupling :Sectors.CouplingFormula**
 
 
-[IV.D276] Weak self-coupling κ(A;1) = ι_τ ≈ 0.341304.
+[IV.D276] Weak self-coupling κ(A;1) = ι<sub>τ</sub> ≈ 0.341304.
 Depth 1, balanced polarity. Equals the master constant.
 Equations
 - Tau.BookIV.Calibration.weak_self_coupling = Tau.BookIV.Sectors.kappa_AA
@@ -129,7 +129,7 @@ Tau.BookIV.Calibration.weak_coupling_value :weak_self_coupling.numer * 1000 > 34
 Tau.BookIV.Calibration.em_self_coupling :Sectors.CouplingFormula**
 
 
-[IV.D277] Electromagnetic self-coupling κ(B;2) = ι_τ² ≈ 0.116594.
+[IV.D277] Electromagnetic self-coupling κ(B;2) = ι<sub>τ</sub>² ≈ 0.116594.
 Depth 2, χ₊-dominant.
 Equations
 - Tau.BookIV.Calibration.em_self_coupling = Tau.BookIV.Sectors.kappa_BB
@@ -156,7 +156,7 @@ Tau.BookIV.Calibration.em_coupling_value :em_self_coupling.numer * 1000 > 116 * 
 Tau.BookIV.Calibration.strong_self_coupling :Sectors.CouplingFormula**
 
 
-[IV.D278] Strong self-coupling κ(C;3) = ι_τ³/(1−ι_τ) ≈ 0.06046.
+[IV.D278] Strong self-coupling κ(C;3) = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>) ≈ 0.06046.
 Depth 3, χ₋-dominant. Confinement coupling.
 Equations
 - Tau.BookIV.Calibration.strong_self_coupling = Tau.BookIV.Sectors.kappa_CC
@@ -183,7 +183,7 @@ Tau.BookIV.Calibration.strong_coupling_value :strong_self_coupling.numer * 1000 
 Tau.BookIV.Calibration.omega_self_coupling :Sectors.CouplingFormula**
 
 
-[IV.D279] Omega self-coupling κ(ω) = ι_τ³/(1+ι_τ) ≈ 0.02968.
+[IV.D279] Omega self-coupling κ(ω) = ι<sub>τ</sub>³/(1+ι<sub>τ</sub>) ≈ 0.02968.
 Crossing-point readout. The smallest primitive coupling.
 Equations
 - Tau.BookIV.Calibration.omega_self_coupling = Tau.BookIV.Sectors.kappa_BC
@@ -210,7 +210,7 @@ Tau.BookIV.Calibration.omega_coupling_value :omega_self_coupling.numer * 1000 > 
 Tau.BookIV.Calibration.weak_grav_cross :Sectors.CouplingFormula**
 
 
-[IV.D280] Weak-gravity cross-coupling κ(A,D) = ι_τ(1−ι_τ) ≈ 0.2249.
+[IV.D280] Weak-gravity cross-coupling κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>) ≈ 0.2249.
 Both sectors on base τ¹. Near sin²θ_W = 0.2312.
 Equations
 - Tau.BookIV.Calibration.weak_grav_cross = Tau.BookIV.Sectors.kappa_AD

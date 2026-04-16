@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.Physics.PlanckCharacter
 lean_name: Tau.BookIV.Physics.SectorLift
 summary: 'Sector lift functor Lift_S: H_fix[ω] → H_fix[ω]. Ring homomorphism, σ-equivariant.
-  5 canonical lifts: EM=ι_τ², Weak=ι_τ, Strong=ι_τ³/(1−ι_τ), Gravity=1−ι_τ, Higgs=ι_τ³/(1+ι_τ).'
+  5 canonical lifts: EM=ι<sub>τ</sub>², Weak=ι<sub>τ</sub>, Strong=ι<sub>τ</sub>³/(1−ι<sub>τ</sub>), Gravity=1−ι<sub>τ</sub>, Higgs=ι<sub>τ</sub>³/(1+ι<sub>τ</sub>).'
 depends_on:
 - III.D13
 - IV.D01

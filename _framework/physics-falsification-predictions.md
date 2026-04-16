@@ -4,7 +4,7 @@ module_id: E1-018
 layer: E1
 strand: macrocosm
 summary_short: Seven pre-registered observational domains — if CMB-S4 rules out r
-  = ι_τ⁴, the framework falls.
+  = ι<sub>τ</sub>⁴, the framework falls.
 diagrams:
 - src: /assets/diagrams/framework/book-v/physics-falsification-predictions-threshold-ladder.svg
   caption: "The threshold ladder of Book V: energy scales from the Planck scale to the cosmological horizon form a strict ordering determined by the enrichment structure of τ³."

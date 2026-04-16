@@ -50,14 +50,14 @@ Every mature black hole state is a stabilized torus vacuum with a fixed
 shape ratio:
 
 ```
-r_n(x) / R_n(x) = ι_τ ∀ mature BH states x
+r_n(x) / R_n(x) = ι<sub>τ</sub> ∀ mature BH states x
 ```
 
 
 where r_n(x) is the minor radius index and R_n(x) is the major radius index.
 
 This ratio is **fixed by refinement coherence** beyond the maturity horizon:
-ι_τ is the canonical shape invariant of the mature torus vacuum.
+ι<sub>τ</sub> is the canonical shape invariant of the mature torus vacuum.
 Only the scale degree of freedom (R) remains as free parameter.
 
 ### Gravitational Constant G_τ
@@ -82,9 +82,9 @@ from the τ-kernel (Schwarzschild theorem, see Schwarzschild.lean).
 
 - G_τ is the τ-derived gravitational constant
 
-- In orthodox physics: G = (c³/ℏ) · ι_τ² (from sector self-coupling)
+- In orthodox physics: G = (c³/ℏ) · ι<sub>τ</sub>² (from sector self-coupling)
 
-- The gravity sector self-coupling κ(D;1) = 1−ι_τ determines the
+- The gravity sector self-coupling κ(D;1) = 1−ι<sub>τ</sub> determines the
 gravitational coupling strength
 
 
@@ -108,7 +108,7 @@ Tau.BookV.Gravity.TorusVacuum :Type**
 [V.D01] Torus vacuum: the stabilized torus configuration of a
 mature black hole state.
 
-The shape ratio r/R = ι_τ is fixed by refinement coherence:
+The shape ratio r/R = ι<sub>τ</sub> is fixed by refinement coherence:
 
 
 - r = minor radius index (fiber dimension)
@@ -141,7 +141,7 @@ Both denominators positive.
 Major radius positive (physical).
 
 - shape_ratio : self.minor_numer * self.major_denom * BookIV.Sectors.iotaD = BookIV.Sectors.iota * self.minor_denom * self.major_numer
-Shape ratio r/R = ι_τ = iota/iotaD (cross-multiplied).
+Shape ratio r/R = ι<sub>τ</sub> = iota/iotaD (cross-multiplied).
 
 Instances For
 
@@ -225,8 +225,8 @@ Instances For
 Tau.BookV.Gravity.unit_torus_vacuum :TorusVacuum**
 
 
-Example torus vacuum with r = ι_τ, R = 1 (unit major radius).
-Shape ratio: ι_τ/1 = ι_τ.
+Example torus vacuum with r = ι<sub>τ</sub>, R = 1 (unit major radius).
+Shape ratio: ι<sub>τ</sub>/1 = ι<sub>τ</sub>.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -256,7 +256,7 @@ Properties:
 
 - G_τ > 0 (positive gravitational coupling)
 
-- In orthodox units: G = (c³/ℏ) · ι_τ² (sector self-coupling readout)
+- In orthodox units: G = (c³/ℏ) · ι<sub>τ</sub>² (sector self-coupling readout)
 
 
 - g_numer : ℕ
@@ -321,9 +321,9 @@ Instances For
 Tau.BookV.Gravity.g_tau_iota_factor_numer :ℕ**
 
 
-G_τ is proportional to ι_τ² (from the gravity sector self-coupling).
-In orthodox units: G = (c³/ℏ) · ι_τ².
-Here we record the ι_τ² factor as the structural core.
+G_τ is proportional to ι<sub>τ</sub>² (from the gravity sector self-coupling).
+In orthodox units: G = (c³/ℏ) · ι<sub>τ</sub>².
+Here we record the ι<sub>τ</sub>² factor as the structural core.
 Equations
 - Tau.BookV.Gravity.g_tau_iota_factor_numer = Tau.BookIV.Sectors.iota_sq_numer
 Instances For
@@ -349,7 +349,7 @@ Instances For
 Tau.BookV.Gravity.gravity_self_coupling_numer :ℕ**
 
 
-The gravity sector self-coupling κ(D;1) = 1 − ι_τ connects to G_τ.
+The gravity sector self-coupling κ(D;1) = 1 − ι<sub>τ</sub> connects to G_τ.
 Equations
 - Tau.BookV.Gravity.gravity_self_coupling_numer = Tau.BookIV.Sectors.iotaD - Tau.BookIV.Sectors.iota
 Instances For
@@ -377,7 +377,7 @@ Tau.BookV.Gravity.vacuum_shape_ratio_holds
  :v.minor_numer * v.major_denom * BookIV.Sectors.iotaD = BookIV.Sectors.iota * v.minor_denom * v.major_numer**
 
 
-[V.T01] The torus vacuum shape ratio r/R = ι_τ is encoded
+[V.T01] The torus vacuum shape ratio r/R = ι<sub>τ</sub> is encoded
 in the shape_ratio field of every TorusVacuum.
 
 ---
@@ -389,7 +389,7 @@ in the shape_ratio field of every TorusVacuum.
 Tau.BookV.Gravity.unit_torus_has_iota_ratio :unit_torus_vacuum.minor_numer = BookIV.Sectors.iota ∧ unit_torus_vacuum.major_numer = BookIV.Sectors.iotaD**
 
 
-The unit torus vacuum has shape ratio ι_τ.
+The unit torus vacuum has shape ratio ι<sub>τ</sub>.
 
 ---
 
@@ -414,7 +414,7 @@ requires a positive numerator and denominator.
 Tau.BookV.Gravity.gravity_coupling_positive :gravity_self_coupling_numer > 0**
 
 
-The gravity self-coupling is positive (1 − ι_τ > 0 since ι_τ < 1).
+The gravity self-coupling is positive (1 − ι<sub>τ</sub> > 0 since ι<sub>τ</sub> < 1).
 
 ---
 
@@ -425,4 +425,4 @@ The gravity self-coupling is positive (1 − ι_τ > 0 since ι_τ < 1).
 Tau.BookV.Gravity.g_tau_factor_positive :g_tau_iota_factor_numer > 0**
 
 
-The ι_τ² factor for G_τ is positive.
+The ι<sub>τ</sub>² factor for G_τ is positive.

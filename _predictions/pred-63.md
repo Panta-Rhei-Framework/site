@@ -94,11 +94,11 @@ $p/9 + 2[1-(2/3)^p/3]$ &
 (see table) &
 $<1%$ err &
 V.T249 Reconnection rate &
-$ι_τ^2\,v_A$ &
+$ι<sub>τ</sub>^2\,v_A$ &
 $0.117\,v_A$ &
 $0.1 ± 0.03$ &
 V.T252 Alfv\'en damping &
-$ι_τ^2\,ω_A$ &
+$ι<sub>τ</sub>^2\,ω_A$ &
 $0.117\,ω_A$ &
 $∼ 0.1$ &
 V.T253 NS decompact.\ &

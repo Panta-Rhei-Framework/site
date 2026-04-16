@@ -13,7 +13,7 @@ scope: established
 formalization: formalized
 lean_module: TauLib.BookIV.Calibration.DimensionlessNearMatch
 lean_name: Tau.BookIV.Calibration.StrongNearMatch
-summary: 'Strong coupling near-match: 2·κ(C) = 2·ι_τ³/(1−ι_τ) ≈ 0.1208 vs α_s(M_Z)
+summary: 'Strong coupling near-match: 2·κ(C) = 2·ι<sub>τ</sub>³/(1−ι<sub>τ</sub>) ≈ 0.1208 vs α_s(M_Z)
   = 0.1180 (CODATA 2022). Deviation ~2.4%. τ-approximation overshoots. Range proof:
   2·κ(C) ∈ (0.119, 0.122).'
 depends_on:

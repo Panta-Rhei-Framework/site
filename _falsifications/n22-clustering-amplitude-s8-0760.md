@@ -47,7 +47,7 @@ $S_8 = 0.760$.
 
 ## Derivation Context
 
-with $Ω_Λ = κ_D(1 + ι_τ^3) = 0.6849$.
+with $Ω_Λ = κ_D(1 + ι<sub>τ</sub>^3) = 0.6849$.
 Deviation: $-675$ ppm—a
 $41×$ improvement
 over the holonomy path.
@@ -57,7 +57,7 @@ DE-closure determines the absolute value.
 *(Registry: V.T199, Wave 14D.)*
 
 Using the DE-closure path
-with $h = 2/3 + ι_τ^2/17 = 0.67352$,
+with $h = 2/3 + ι<sub>τ</sub>^2/17 = 0.67352$,
 the full Friedmann pipeline gives
 $_1 = 221.5$ at $+0.69%$.
 Higher peaks:

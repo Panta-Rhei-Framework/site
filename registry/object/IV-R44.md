@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: not_applicable
 lean_module: null
 lean_name: ''
-summary: '1st Edition α = (ι_τ/2)⁴ ≈ 1/1176 was WRONG (off by factor ~8.6, transcription
-  error). 2nd Edition α ≈ (8/15)·ι_τ⁴ ≈ 1/136 correct to 0.83%. Factor 8/15 from spectral
+summary: '1st Edition α = (ι<sub>τ</sub>/2)⁴ ≈ 1/1176 was WRONG (off by factor ~8.6, transcription
+  error). 2nd Edition α ≈ (8/15)·ι<sub>τ</sub>⁴ ≈ 1/136 correct to 0.83%. Factor 8/15 from spectral
   normalisation of breathing operator. Pattern: geometric intuition sound, algebraic
   precision requires full Part II machinery.'
 depends_on:

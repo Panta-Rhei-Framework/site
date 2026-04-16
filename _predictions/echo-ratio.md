@@ -8,10 +8,10 @@ prediction_id: "pred-057"
 domain: "astrophysics"
 domain_display: "Astrophysics"
 observable: "Echo ratio"
-observable_mathml: "<math><mi>t₊/t₋ = ι_τ⁻²</mi></math>"
-formula_plain: "t₊/t₋ = ι_τ⁻²"
-formula_mathml: "<math><mi>t₊/t₋ = ι_τ⁻²</mi></math>"
-formula_display: "t₊/t₋ = ι_τ⁻² ≈ 8.57"
+observable_mathml: "<math><mi>t₊/t₋ = ι<sub>τ</sub>⁻²</mi></math>"
+formula_plain: "t₊/t₋ = ι<sub>τ</sub>⁻²"
+formula_mathml: "<math><mi>t₊/t₋ = ι<sub>τ</sub>⁻²</mi></math>"
+formula_display: "t₊/t₋ = ι<sub>τ</sub>⁻² ≈ 8.57"
 tau_value: "8.57"
 observed_value: "(pending)"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**t₊/t₋ = ι_τ⁻² ≈ 8.57**
+**t₊/t₋ = ι<sub>τ</sub>⁻² ≈ 8.57**
 
 ## Derivation
 

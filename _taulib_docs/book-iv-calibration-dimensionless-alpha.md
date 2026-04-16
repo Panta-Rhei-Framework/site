@@ -67,7 +67,7 @@ five relational units, and the correction factor.
 Tau.BookIV.Calibration.alpha_spec_numer :ℕ**
 
 
-[IV.D286] Spectral fine-structure formula: α_spec = (8/15)·ι_τ⁴.
+[IV.D286] Spectral fine-structure formula: α_spec = (8/15)·ι<sub>τ</sub>⁴.
 The prefactor 8/15 = 2³/(3·5) arises from the primorial structure.
 Wraps FineStructure.alpha_spectral_*.
 Equations
@@ -108,7 +108,7 @@ Tau.BookIV.Calibration.RelationalUnits :Type**
 
 
 [IV.D287] The five relational units M, L, H, Q, R derived from
-the neutron mass anchor m_n and ι_τ. The τ-framework collapses
+the neutron mass anchor m_n and ι<sub>τ</sub>. The τ-framework collapses
 the SI unit system from 7 base units to 1 anchor + 1 constant.
 
 - mass_is_neutron : Bool
@@ -190,7 +190,7 @@ Wraps FineStructure.holonomy_alpha with holonomy_correction.
 Tau.BookIV.Calibration.CorrectionFactor :Type**
 
 
-[IV.D288] The holonomy correction factor R(ι_τ) ≈ 1.006 measures
+[IV.D288] The holonomy correction factor R(ι<sub>τ</sub>) ≈ 1.006 measures
 the deviation of the spectral approximation from the exact holonomy
 formula. Wraps HolonomyCorrection module.
 

@@ -51,7 +51,7 @@ $θ_τ = 40.85\,μas$.
 - **EHT observation:**
 $42 ± 3\,μas$.
 - **Deviation:** $0.4σ$.
-- **QNM ratio:** $ι_τ^-1 ≈ 2.930$.
+- **QNM ratio:** $ι<sub>τ</sub>^-1 ≈ 2.930$.
 - **Modulation periods:**
 $4.66$ d (outer $S^1$),
 $1.59$ d (inner $S^1$).

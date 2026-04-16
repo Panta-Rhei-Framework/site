@@ -43,7 +43,7 @@ and constructs the split-complex scalar field
 ℤ_τ[j] where j² = +1.
 
 The master constant
-ι_τ = 2/(π + e) ≈ 0.341304
+ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304
 is earned as the asymptotic mediator
 between the two bipolar sectors.
 It is not a free parameter:
@@ -71,5 +71,5 @@ serving different structural roles.
 
 - **[Chapter 32: The Profinite Boundary Ring Z]({{ '/publications/books/book-i/part-08-the-spectral-ring/chapter-32-the-profinite-boundary-ring-z/' | relative_url }})**
 - **[Chapter 33: Split-Complex Scalars]({{ '/publications/books/book-i/part-08-the-spectral-ring/chapter-33-split-complex-scalars/' | relative_url }})**
-- **[Chapter 34: The Master Constant ι_τ = 2/(π + e)]({{ '/publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/' | relative_url }})**
+- **[Chapter 34: The Master Constant ι<sub>τ</sub> = 2/(π + e)]({{ '/publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/' | relative_url }})**
 - **[Chapter 35: The Number Tower: From N]({{ '/publications/books/book-i/part-08-the-spectral-ring/chapter-35-the-number-tower-from-n/' | relative_url }})**

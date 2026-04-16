@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-The baryon asymmetry (η_B ≈ 6 × 10⁻¹⁰) — why matter dominates over antimatter — requires CP violation and baryon number violation beyond the Standard Model. The τ-framework derives η_B = α·ι_τ¹⁵·(5/6) at −1%.
+The baryon asymmetry (η_B ≈ 6 × 10⁻¹⁰) — why matter dominates over antimatter — requires CP violation and baryon number violation beyond the Standard Model. The τ-framework derives η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%.
 
 ## Result Statement
 
-Baryon asymmetry η_B = α·ι_τ¹⁵·(5/6) at −1%. Upgraded τ-effective. Status: Resolved.
+Baryon asymmetry η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%. Upgraded τ-effective. Status: Resolved.

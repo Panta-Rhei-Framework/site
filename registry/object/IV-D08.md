@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Sectors.FineStructure
 lean_name: Tau.BookIV.Sectors.alpha_spectral_numer
-summary: Spectral fine structure constant α ≈ (8/15)·ι_τ⁴. Leading-order approximation
+summary: Spectral fine structure constant α ≈ (8/15)·ι<sub>τ</sub>⁴. Leading-order approximation
   from two τ² surface modes (exponent 4) and primorial factor 8/15 = 2³/(3·5). Gives
   α ≈ 0.00725, 1/α ≈ 137.9 (spectral approx, ~0.06% from experiment).
 depends_on:

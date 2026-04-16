@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapt
 prev_chapter_title: "Chapter 26: The τ-Higgs Mechanism"
 next_chapter_url: "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-28-electroweak-synthesis/"
 next_chapter_title: "Chapter 28: Electroweak Synthesis"
-summary_short: "the relevant chapter derived the Weinberg angle from inter-sector coupling: sin²θ_W = ι_τ(1-ι_τ) ≈ 0.2249. This chapter develops the arithmetic of…"
+summary_short: "the relevant chapter derived the Weinberg angle from inter-sector coupling: sin²θ_W = ι<sub>τ</sub>(1-ι<sub>τ</sub>) ≈ 0.2249. This chapter develops the arithmetic of…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-03-the-electroweak-arc/"
@@ -39,14 +39,14 @@ right_rail:
 
 
 the relevant chapter derived the Weinberg angle from
-inter-sector coupling: sin²θ_W = ι_τ(1-ι_τ)
+inter-sector coupling: sin²θ_W = ι<sub>τ</sub>(1-ι<sub>τ</sub>)
 ≈ 0.2249. This chapter develops the arithmetic of that
 number. We compute its continued-fraction (CF) expansion, the CF
 of the W/Z mass ratio cosθ_W, and relate both to the CF
-structure of the master constant ι_τ itself.
+structure of the master constant ι<sub>τ</sub> itself.
 Continued fractions reveal the *rational approximation
 hierarchy* of a real number—its intrinsic arithmetic skeleton.
 That the Weinberg angle inherits clean CF structure from
-ι_τ is evidence that the electroweak mixing angle is
+ι<sub>τ</sub> is evidence that the electroweak mixing angle is
 not a contingent parameter but a structural consequence of
 Category τ.

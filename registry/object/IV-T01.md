@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.Sectors.CouplingFormulas
 lean_name: Tau.BookIV.Sectors.temporal_complement
 summary: 'κ(A;1) + κ(D;1) = 1: the temporal pair (Weak + Gravity) exhausts the depth-1
-  coupling budget. Gravity and Weak are complements. Proof: ι_τ + (1−ι_τ) = 1.'
+  coupling budget. Gravity and Weak are complements. Proof: ι<sub>τ</sub> + (1−ι<sub>τ</sub>) = 1.'
 depends_on:
 - IV.D05
 - IV.D06

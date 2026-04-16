@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIII.Sectors.ParityBridge
 lean_name: no_knobs_5_3
-summary: 'All inter-sector couplings are canonically determined by ι_τ = 2/(π+e).
-  The framework has no free parameters: (i) every coupling is a function of ι_τ and
+summary: 'All inter-sector couplings are canonically determined by ι<sub>τ</sub> = 2/(π+e).
+  The framework has no free parameters: (i) every coupling is a function of ι<sub>τ</sub> and
   primorial depth, (ii) the 10-entry ledger is complete, (iii) perturbation of any
   coupling breaks sector preservation.'
 depends_on:

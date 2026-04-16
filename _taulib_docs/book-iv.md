@@ -39,7 +39,7 @@ quantum mechanics, particles, forces, atoms, chemistry, fluids.
 
 - `SectorParameters`: 5 sector instantiations with 4 defining parameters each
 
-- `CouplingFormulas`: 10 coupling formulas as rational functions of ι_τ
+- `CouplingFormulas`: 10 coupling formulas as rational functions of ι<sub>τ</sub>
 
 - `FineStructure`: Fine structure constant α derivation
 
@@ -49,7 +49,7 @@ quantum mechanics, particles, forces, atoms, chemistry, fluids.
 
 - `QuantityFramework`: 5 primary invariants, carrier types, particle ontology
 
-- `PlanckCharacter`: ℏ_τ as sector lift of ι_τ, uncertainty products
+- `PlanckCharacter`: ℏ_τ as sector lift of ι<sub>τ</sub>, uncertainty products
 
 - `DefectFunctional`: 4-component defect tuple, 8 fluid regimes
 
@@ -117,7 +117,7 @@ quantum mechanics, particles, forces, atoms, chemistry, fluids.
 ### Calibration (Mass Ratio & Epstein Zeta)
 
 
-- `EpsteinZeta`: Epstein zeta function Z(s; iι_τ) on T², Chowla-Selberg structure
+- `EpsteinZeta`: Epstein zeta function Z(s; iι<sub>τ</sub>) on T², Chowla-Selberg structure
 
 - `MassRatioFormula`: R = m_n/m_e derivation, 10-link chain, range proofs
 

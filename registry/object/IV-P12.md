@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.QuantumMechanics.QuantumCharacters
 lean_name: Tau.BookIV.QuantumMechanics.AutomaticQuantization
 summary: Admissible quantum addresses are restricted to Λ_CR by CR-compatibility,
-  parity constraint, and ι_τ coupling lock. Discrete spectrum is automatic — derived
+  parity constraint, and ι<sub>τ</sub> coupling lock. Discrete spectrum is automatic — derived
   from topology, not postulated.
 depends_on:
 - IV.D56

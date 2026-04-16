@@ -557,8 +557,8 @@ Tau.BookIV.Electroweak.NeutrinoRecurrence :Type**
 [IV.D127] σ-Polarity Neutrino Recurrence Model.
 The three neutrino mass modes arise from a σ-equivariant 3×3 matrix
 M = [[a, b, 0], [b, c, b], [0, b, a]]
-where a = ι_τ^p (lobe self-coupling), b = ι_τ^q (lobe-mediator coupling),
-c = ι_τ^r (mediator self-coupling).
+where a = ι<sub>τ</sub>^p (lobe self-coupling), b = ι<sub>τ</sub>^q (lobe-mediator coupling),
+c = ι<sub>τ</sub>^r (mediator self-coupling).
 
 The eigenvalues of M give three mass modes:
 λ₁ = a (σ-odd mode: past-shifted vs future-shifted)
@@ -576,13 +576,13 @@ This supersedes the equal-spacing model (exponents 13,14,15) which
 gave Σ = 0.635 eV (5× too heavy) and ratio ≈ 9.58 (wrong).
 
 - p_lobe : ℕ
-Lobe self-coupling exponent: a = ι_τ^p.
+Lobe self-coupling exponent: a = ι<sub>τ</sub>^p.
 
 - q_coupling : ℕ
-Lobe-mediator coupling exponent: b = ι_τ^q.
+Lobe-mediator coupling exponent: b = ι<sub>τ</sub>^q.
 
 - r_mediator : ℕ
-Mediator self-coupling exponent: c = ι_τ^r.
+Mediator self-coupling exponent: c = ι<sub>τ</sub>^r.
 
 - sigma_equivariant : Bool
 σ-equivariance: matrix is [[a,b,0],[b,c,b],[0,b,a]].
@@ -695,8 +695,8 @@ Tau.BookIV.Electroweak.SigmaPolarityMatrix :Type**
 
 [V.D233] The sigma-equivariant 3×3 neutrino mass matrix.
 M = [[a, b, 0], [b, c, b], [0, b, a]]
-with a = ι_τ^p (lobe self-coupling), b = ι_τ^q (lobe-mediator,
-most suppressed), c = ι_τ^r (crossing self-coupling).
+with a = ι<sub>τ</sub>^p (lobe self-coupling), b = ι<sub>τ</sub>^q (lobe-mediator,
+most suppressed), c = ι<sub>τ</sub>^r (crossing self-coupling).
 
 The (1,3) and (3,1) entries vanish structurally: winding classes
 (1,0) and (0,1) on T² have no direct off-diagonal coupling because
@@ -708,13 +708,13 @@ Ratio Δm²₃₁/Δm²₂₁ = 32.82 (PDG: 32.58, 0.75%).
 Σmν = 0.089 eV < 0.12 eV (Planck 2018).
 
 - p : Float
-Diagonal lobe exponent: a = ι_τ^p.
+Diagonal lobe exponent: a = ι<sub>τ</sub>^p.
 
 - q : Float
-Off-diagonal mediator exponent: b = ι_τ^q (most suppressed).
+Off-diagonal mediator exponent: b = ι<sub>τ</sub>^q (most suppressed).
 
 - r : Float
-Central crossing exponent: c = ι_τ^r (strongest).
+Central crossing exponent: c = ι<sub>τ</sub>^r (strongest).
 
 Instances For
 
@@ -778,7 +778,7 @@ Tau.BookIV.Electroweak.three_distinct_eigenvalues
 Eigenvalue structure (Sprint 3):
 
 
-- λ₂ = a = ι_τ^p (sigma-odd, [1,0,-1]/√2, Majorana candidate)
+- λ₂ = a = ι<sub>τ</sub>^p (sigma-odd, [1,0,-1]/√2, Majorana candidate)
 
 - λ₁ < a < λ₃ (two sigma-even modes, lighter and heavier)
 The sigma-odd eigenvalue equals a EXACTLY for all (p,q,r).
@@ -809,8 +809,8 @@ Tau.BookIV.Electroweak.remark_normal_ordering :String**
 
 
 [IV.R395] Normal ordering is predicted structurally from σ-equivariance.
-Since ι_τ < 1: larger exponent → smaller value.
-r = 2.8 < p = 3.7 => c = ι_τ^2.8 ≈ 0.049 > ι_τ^3.7 ≈ 0.019 = a
+Since ι<sub>τ</sub> < 1: larger exponent → smaller value.
+r = 2.8 < p = 3.7 => c = ι<sub>τ</sub>^2.8 ≈ 0.049 > ι<sub>τ</sub>^3.7 ≈ 0.019 = a
 => crossing self-coupling c > lobe self-coupling a
 => σ-odd eigenvalue λ₂ = a lies between two σ-even eigenvalues
 => normal ordering m₁ < m₂ < m₃.
@@ -986,7 +986,7 @@ Tau.BookIV.Electroweak.neutrino_winding_strategy :String**
 
 
 Strategy A: exponents (p,q,r) from T² fiber winding census.
-ν₁ (1,0), ν₂ (0,1), ν₃ ~ (1,1) with A-sector compression κ(A;1) = ι_τ.
+ν₁ (1,0), ν₂ (0,1), ν₃ ~ (1,1) with A-sector compression κ(A;1) = ι<sub>τ</sub>.
 Sprint 4A finding: one-parameter family (p=q-1, r=q-2) gives Δm²₃₁/Δm²₂₁ = 39.45
 for ALL q (scale-invariant). PDG target 32.58 requires asymmetric offsets
 Δpq = 1.1 ≠ Δpr = 0.9. Second structural constraint needed for Sprint 5.
@@ -1038,13 +1038,13 @@ Tau.BookIV.Electroweak.normal_mass_ordering_from_sigma_polarity :True**
 
 
 With r < p in the σ-polarity matrix:
-ι_τ^r > ι_τ^p (since ι_τ < 1 and r < p)
+ι<sub>τ</sub>^r > ι<sub>τ</sub>^p (since ι<sub>τ</sub> < 1 and r < p)
 ⟹ c > a
-⟹ σ-odd eigenvalue = ι_τ^p = a is the MIDDLE eigenvalue (rank #2)
+⟹ σ-odd eigenvalue = ι<sub>τ</sub>^p = a is the MIDDLE eigenvalue (rank #2)
 ⟹ m₁ < m₂(σ-odd) < m₃ → NORMAL HIERARCHY
 
 Wave 2 best-fit r=2.8 < p=3.7 satisfies this condition.
-Eigenvalues: m₁=0.016710 (σ-even), m₂=0.018734=ι_τ^p (σ-odd, exact), m₃=0.051318.
+Eigenvalues: m₁=0.016710 (σ-even), m₂=0.018734=ι<sub>τ</sub>^p (σ-odd, exact), m₃=0.051318.
 Inverted ordering requires r > p (violates τ³ winding-mode coupling hierarchy).
 
 ---
@@ -1058,11 +1058,11 @@ Tau.BookIV.Electroweak.sprint4a_oqc3_status :String**
 
 OQ-C3 status after Sprint 4A:
 (1) Normal ordering proven analytically from r < p (τ-effective).
-(2) σ-odd eigenvalue = ι_τ^p is exact (not numerical).
+(2) σ-odd eigenvalue = ι<sub>τ</sub>^p is exact (not numerical).
 (3) One-parameter family gives 39.45 (not 32.58): pure integer steps insufficient.
 (4) Key open: why Δpq=1.1 ≠ Δpr=0.9?
 (5) PMNS requires A-sector rotation (Sprint 5).
-CF candidate: q ≈ 5 - 1/a₃ where a₃=13 from CF[ι_τ⁻¹]=[2;1,1,1,13,...].
+CF candidate: q ≈ 5 - 1/a₃ where a₃=13 from CF[ι<sub>τ</sub>⁻¹]=[2;1,1,1,13,...].
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -1077,7 +1077,7 @@ Tau.BookIV.Electroweak.neutrino_cf_asymmetry :String**
 
 
 CF-motivated asymmetry in σ-polarity exponents.
-a₂=13 in CF(ι_τ⁻¹)=[2;1,13,3,...] → Δpq=14/13, Δpr=12/13.
+a₂=13 in CF(ι<sub>τ</sub>⁻¹)=[2;1,13,3,...] → Δpq=14/13, Δpr=12/13.
 CF candidate gives ratio 34.28 (+52356 ppm) — conjectural.
 Grid optimum: (Δpq=1.16, Δpr=0.87) at +7.4 ppm (V.T175).
 Equations
@@ -1233,7 +1233,7 @@ Tau.BookIV.Electroweak.SigmaExponentAsymmetry :Type**
 CF candidate: δ_CF = 2/a₂ = 2/13 ≈ 0.154 (underestimates by ×2, conjectural).
 
 - cf_coefficient : ℕ
-CF coefficient a₂ = 13 from CF(ι_τ⁻¹) = [2;1,13,3,...].
+CF coefficient a₂ = 13 from CF(ι<sub>τ</sub>⁻¹) = [2;1,13,3,...].
 
 - asymmetry_numerator : ℕ
 Numerator of CF candidate: 2/a₂.

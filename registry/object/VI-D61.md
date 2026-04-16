@@ -14,7 +14,7 @@ formalization: planned
 lean_module: TauLib.BookVI.CosmicLife.CrossLimit
 lean_name: Tau.BookVI.CrossLimit.LiftConstructor
 summary: Teichmüller-style recursive builder from bipolar scalar seed through primorial
-  ladder P_k to profinite ω-germ code converging to ι_τ.
+  ladder P_k to profinite ω-germ code converging to ι<sub>τ</sub>.
 depends_on:
 - VI.D60
 - I.D19c

@@ -91,7 +91,7 @@ via T² fiber suppression, and complete BBN abundance table.
 ### Deuterium from τ-native η_B [Sprint 25A]
 
 
-η_B(τ) = (121/270)·ι_τ¹⁹ ≈ 6.041 × 10⁻¹⁰ (−1.03% from Planck).
+η_B(τ) = (121/270)·ι<sub>τ</sub>¹⁹ ≈ 6.041 × 10⁻¹⁰ (−1.03% from Planck).
 BBN sensitivity d(ln(D/H))/d(ln η_B) ≈ −1.6 gives D/H(τ) ≈ 2.60 × 10⁻⁵.
 Observed (Cooke 2018): (2.527 ± 0.030) × 10⁻⁵ → +2.3σ.
 

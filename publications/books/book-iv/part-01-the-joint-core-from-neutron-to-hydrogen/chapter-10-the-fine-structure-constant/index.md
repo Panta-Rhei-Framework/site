@@ -42,7 +42,7 @@ The fine-structure constant α ≈ 1/137.036 has puzzled
 physicists for a century. Why this value? Why dimensionless?
 Why unmotivated in every mainstream theory? In Category τ,
 α is **derived**—not fitted—from three convergent
-routes, all anchored in ι_τ = 2/(π + e) ≈ 0.341304.
+routes, all anchored in ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304.
 The breakthrough result:
-α = (11/15)^2 · ι_τ⁴, matching CODATA to
+α = (11/15)^2 · ι<sub>τ</sub>⁴, matching CODATA to
 **9.8 ppm**.

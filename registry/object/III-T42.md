@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIII.Hinge.HingeTheorem
 lean_name: no_knobs_check
-summary: Every inter-sector coupling is a rational function of ι_τ = 2/(π+e) evaluated
+summary: Every inter-sector coupling is a rational function of ι<sub>τ</sub> = 2/(π+e) evaluated
   at specific primorial depth. All 10 entries (6 inter-sector + 4 self-couplings)
   are canonically determined. No free parameters exist in the framework.
 depends_on:

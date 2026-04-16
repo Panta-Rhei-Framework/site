@@ -46,7 +46,7 @@ The **Hinge Theorem** (Chapter 61) states that every result in Books IV–VII is
 instantiation of Book III's enrichment structure. The seven-book architecture is *derived*,
 not postulated. Export contracts to all four downstream books are formalised (Chapter 62),
 and the **No Knobs Ledger** (Chapter 63) exhibits that every inter-sector coupling is
-canonically determined by ι_τ.
+canonically determined by ι<sub>τ</sub>.
 
 Scope throughout: **τ-effective**. No philosophy, no bridges—pure τ-internal
 mathematics closing the arc.

@@ -15,7 +15,7 @@ page_in_book: 131
 prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-32-the-profinite-boundary-ring-z/"
 prev_chapter_title: "Chapter 32: The Profinite Boundary Ring Z"
 next_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/"
-next_chapter_title: "Chapter 34: The Master Constant ι_τ = 2/(π + e)"
+next_chapter_title: "Chapter 34: The Master Constant ι<sub>τ</sub> = 2/(π + e)"
 summary_short: "the relevant chapter proved that bipolar polarization forces j² = +1 (the relevant theorem, I.T10). This chapter formalizes the…"
 canonical_book_url: "/publications/books/book-i/"
 canonical_book_title: "Book I: Categorical Foundations"

@@ -39,8 +39,8 @@ right_rail:
 ≈ 8.57$iota-tau-inv-2 approx 8.57.
 
 Echo time doublet:
-$t_± = 4GMι_τ^± 1/c^3$;
-ratio $t_+/t_- = ι_τ^-2$ (V.T185).
+$t_± = 4GMι<sub>τ</sub>^± 1/c^3$;
+ratio $t_+/t_- = ι<sub>τ</sub>^-2$ (V.T185).
 Echoes arise from $T^2$ winding;
 $S^2$ produces no echoes.
 *Experiment:* Einstein Telescope, Cosmic Explorer, LISA.

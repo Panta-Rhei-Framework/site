@@ -54,7 +54,7 @@ needed to represent any natural number
 as a sum of $3$-bounded summands.
 The number $19 = W_5(3)$
 appears in the continued-fraction expansion
-of $ι_τ^-1$
+of $ι<sub>τ</sub>^-1$
 as the $[5,3]$ window:
 the 5th-order CF coefficient
 evaluated at the 3rd structural depth.

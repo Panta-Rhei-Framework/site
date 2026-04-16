@@ -48,10 +48,10 @@ right_rail:
 
 The bottom quark mass as a standalone $τ$-prediction:
 
-m_b = m_t(τ) · ι_τ^45/13
+m_b = m_t(τ) · ι<sub>τ</sub>^45/13
 = W_3(3)|lobes|^2 · W_3(4)
-· ι_τ^-20/13 · m_n
-= 1720\,ι_τ^-20/13\,m_n
+· ι<sub>τ</sub>^-20/13 · m_n
+= 1720\,ι<sub>τ</sub>^-20/13\,m_n
 = 4,174.4\;MeV
 
 at $-1,351$ ppm from PDG $m_b(MS, m_b)
@@ -65,7 +65,7 @@ The exponent $-20/13 = -5 + 45/13 = (-65+45)/13$ decomposes as:
 = -4 × 513,
 \]
 the negative of the denominator prefactor of the top mass divided by
-$a_3$. Equivalently, $m_b/m_n = (17/20)\,ι_τ^-20/13
+$a_3$. Equivalently, $m_b/m_n = (17/20)\,ι<sub>τ</sub>^-20/13
 = 4.443$, a dimensionless ratio governed entirely by CF arithmetic.
 
 ## Source

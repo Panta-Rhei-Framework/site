@@ -34,9 +34,9 @@ Neutrino masses and their ordering are among the most important open questions i
 
 The τ-framework establishes neutrino mass predictions through two related results:
 
-V.T189 (Wave 5A/7B) derives the CF-asymmetric grid (Δpq, Δpr) = (1.16, 0.87) from the CF structure of ι_τ. The key observation is that CF(ι_τ) = [0; 2, 1, 13, 3, ...] is asymmetric (13 ≠ 3 ≠ 2), and this asymmetry is inherited by the neutrino mass exponent ratios. The grid optimum is at (203/175, 609/700) = (1.16, 0.87) at +7.4 ppm — the most precise neutrino prediction in the framework.
+V.T189 (Wave 5A/7B) derives the CF-asymmetric grid (Δpq, Δpr) = (1.16, 0.87) from the CF structure of ι<sub>τ</sub>. The key observation is that CF(ι<sub>τ</sub>) = [0; 2, 1, 13, 3, ...] is asymmetric (13 ≠ 3 ≠ 2), and this asymmetry is inherited by the neutrino mass exponent ratios. The grid optimum is at (203/175, 609/700) = (1.16, 0.87) at +7.4 ppm — the most precise neutrino prediction in the framework.
 
-V.T165/T225 establish Σm_ν = 0.089 eV from the σ-polarity matrix parameters. The three exponents (p, q, r) = (3.7, 4.8, 2.8) give individual masses m_i ∝ ι_τ^{p_i}; summing gives Σm_ν = 0.089 eV. The normal ordering (IV.R395) follows from p < q (since p = 3.7 < q = 4.8 implies m_1 < m_2 which is necessary for normal hierarchy).
+V.T165/T225 establish Σm_ν = 0.089 eV from the σ-polarity matrix parameters. The three exponents (p, q, r) = (3.7, 4.8, 2.8) give individual masses m_i ∝ ι<sub>τ</sub>^{p_i}; summing gives Σm_ν = 0.089 eV. The normal ordering (IV.R395) follows from p < q (since p = 3.7 < q = 4.8 implies m_1 < m_2 which is necessary for normal hierarchy).
 
 The completion status is partial because the individual mass splittings (Δm²₂₁ and Δm²₃₂) are off: Δm²₂₁ is 6.2× from measured; Δm²₃₂ is +22.9% off. The sum Σm_ν and normal ordering are τ-effective; the individual splittings are conjectural.
 

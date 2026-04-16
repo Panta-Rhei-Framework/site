@@ -86,7 +86,7 @@ Six regime transitions in monotone order of refinement depth:
 
 
 At L_N, the strong-sector (η) character drops below the confinement
-coupling κ(C;3) = ι_τ³/(1−ι_τ). This establishes:
+coupling κ(C;3) = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>). This establishes:
 m_n > m_p > m_e with m_p = m_n − δ_A, m_e = m_n/R
 
 ### Nucleosynthesis
@@ -339,7 +339,7 @@ Tau.BookV.Cosmology.NeutronThreshold :Type**
 
 [V.D160] Neutron threshold L_N: the refinement depth at which
 the strong-sector (η) character drops below the confinement
-coupling κ(C;3) = ι_τ³/(1−ι_τ).
+coupling κ(C;3) = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>).
 
 At L_N, the mass hierarchy is established:
 m_n > m_p > m_e

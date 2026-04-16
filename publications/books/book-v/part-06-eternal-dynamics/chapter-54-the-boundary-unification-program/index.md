@@ -80,7 +80,7 @@ from which all four forces emerge.
 Cross-sector couplings are shown to be
 instances of naturality
 in the categorical sense.
-And ι_τ = 2/(π + e)
+And ι<sub>τ</sub> = 2/(π + e)
 is identified as the universal mediator:
 the single number that governs
 all cross-sector interactions.

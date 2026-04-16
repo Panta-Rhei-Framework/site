@@ -56,7 +56,7 @@ _D
 \;=\;
 _1 × κ_Dκ_B
 \;=\;
-_1 × 1 - ι_τι_τ^2
+_1 × 1 - ι<sub>τ</sub>ι<sub>τ</sub>^2
 \;≈\;
 220 × 5.655
 \;=\;
@@ -68,7 +68,7 @@ fitting formula $_D ≈ 1244$.
 
 The structural content.
 The ratio $κ_D/κ_B
-= (1 - ι_τ)/ι_τ^2$
+= (1 - ι<sub>τ</sub>)/ι<sub>τ</sub>^2$
 is the holonomy-to-baryon coupling ratio—the
 same ratio that gives
 $ω_m/ω_b - 1$

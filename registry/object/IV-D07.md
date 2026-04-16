@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Sectors.CouplingFormulas
 lean_name: Tau.BookIV.Sectors.coupling_formula
-summary: 'All 10 inter-sector couplings as rational functions of ι_τ. 4 self-couplings:
-  κ(D)=1−ι_τ, κ(A)=ι_τ, κ(B)=ι_τ², κ(C)=ι_τ³/(1−ι_τ). 6 cross-couplings: electroweak,
+summary: 'All 10 inter-sector couplings as rational functions of ι<sub>τ</sub>. 4 self-couplings:
+  κ(D)=1−ι<sub>τ</sub>, κ(A)=ι<sub>τ</sub>, κ(B)=ι<sub>τ</sub>², κ(C)=ι<sub>τ</sub>³/(1−ι<sub>τ</sub>). 6 cross-couplings: electroweak,
   weak-strong, weak-gravity, EM-strong, EM-gravity, strong-gravity. Complete 10-entry
   coupling ledger.'
 depends_on:

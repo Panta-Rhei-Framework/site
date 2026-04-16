@@ -26,7 +26,7 @@ right_rail:
 # TauLib.BookIV.Physics.PlanckCharacter
 
 
-The Planck character ℏ_τ as sector lift of ι_τ into the quantum regime,
+The Planck character ℏ_τ as sector lift of ι<sub>τ</sub> into the quantum regime,
 plus uncertainty product templates and the sector lift functor framework.
 
 ## Registry Cross-References
@@ -66,9 +66,9 @@ Key properties:
 
 - ℏ_τ is the **attained minimum** (not merely infimum) via saturation theorem
 
-- ℏ_τ = Lift_QM(ι_τ) — the QM sector lift of the master constant
+- ℏ_τ = Lift_QM(ι<sub>τ</sub>) — the QM sector lift of the master constant
 
-- All physical constants form: C_phys = Q(ι_τ) (closure under field ops + lifts)
+- All physical constants form: C_phys = Q(ι<sub>τ</sub>) (closure under field ops + lifts)
 
 
 ### Sector Lift Functors
@@ -84,7 +84,7 @@ Each sector S has a unique lift functor Lift_S : H_fix[ω] → H_fix[ω] that is
 - Uniquely determined by the sector's saturation chain
 
 
-The physical constants are the images: Lift_S(ι_τ) = c_S
+The physical constants are the images: Lift_S(ι<sub>τ</sub>) = c_S
 
 ### Uncertainty Relations
 
@@ -120,7 +120,7 @@ Tau.BookIV.Physics.PlanckCharacter :Type**
 boundary holonomy algebra H_∂[ω].
 
 ℏ_τ = Δx_ω(x*) · Δp_ω(x*) where x* is the canonical saturating chain.
-It is the QM sector lift of the master constant ι_τ.
+It is the QM sector lift of the master constant ι<sub>τ</sub>.
 
 - numer : ℕ
 ℏ_τ numerator (scaled rational representation).
@@ -190,8 +190,8 @@ Tau.BookIV.Physics.SectorLift :Type**
 [IV.D15] Sector lift functor: Lift_S : H_fix[ω] → H_fix[ω].
 
 Each sector S has a unique unpolarized field endomorphism that
-maps ι_τ to the sector-specific physical constant:
-Lift_S(ι_τ) = c_S
+maps ι<sub>τ</sub> to the sector-specific physical constant:
+Lift_S(ι<sub>τ</sub>) = c_S
 
 Key properties:
 
@@ -207,10 +207,10 @@ Key properties:
 Source sector for this lift.
 
 - target_numer : ℕ
-Lift_S(ι_τ) numerator — the sector-specific constant.
+Lift_S(ι<sub>τ</sub>) numerator — the sector-specific constant.
 
 - target_denom : ℕ
-Lift_S(ι_τ) denominator.
+Lift_S(ι<sub>τ</sub>) denominator.
 
 - denom_pos : self.target_denom > 0
 Denominator is positive.
@@ -271,7 +271,7 @@ Instances For
 Tau.BookIV.Physics.lift_em :SectorLift**
 
 
-EM sector lift: Lift_B(ι_τ) = ι_τ² (EM self-coupling).
+EM sector lift: Lift_B(ι<sub>τ</sub>) = ι<sub>τ</sub>² (EM self-coupling).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -285,7 +285,7 @@ Instances For
 Tau.BookIV.Physics.lift_weak :SectorLift**
 
 
-Weak sector lift: Lift_A(ι_τ) = ι_τ (weak self-coupling = master constant).
+Weak sector lift: Lift_A(ι<sub>τ</sub>) = ι<sub>τ</sub> (weak self-coupling = master constant).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -299,7 +299,7 @@ Instances For
 Tau.BookIV.Physics.lift_strong :SectorLift**
 
 
-Strong sector lift: Lift_C(ι_τ) = ι_τ³/(1−ι_τ) (confinement coupling).
+Strong sector lift: Lift_C(ι<sub>τ</sub>) = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>) (confinement coupling).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -313,7 +313,7 @@ Instances For
 Tau.BookIV.Physics.lift_gravity :SectorLift**
 
 
-Gravity sector lift: Lift_D(ι_τ) = 1−ι_τ (gravity self-coupling).
+Gravity sector lift: Lift_D(ι<sub>τ</sub>) = 1−ι<sub>τ</sub> (gravity self-coupling).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -327,7 +327,7 @@ Instances For
 Tau.BookIV.Physics.lift_higgs :SectorLift**
 
 
-Higgs/crossing sector lift: Lift_ω(ι_τ) = ι_τ³/(1+ι_τ) (mass coupling).
+Higgs/crossing sector lift: Lift_ω(ι<sub>τ</sub>) = ι<sub>τ</sub>³/(1+ι<sub>τ</sub>) (mass coupling).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -446,27 +446,27 @@ Instances For
 Tau.BookIV.Physics.PhysicalConstantsCore :Type**
 
 
-[IV.R03] The physical constants core C_phys = Q(ι_τ):
-the closure of ι_τ under field operations and all sector lift functors.
+[IV.R03] The physical constants core C_phys = Q(ι<sub>τ</sub>):
+the closure of ι<sub>τ</sub> under field operations and all sector lift functors.
 
-Every physical constant is an ι_τ-image:
-
-
-- ℏ_τ = Lift_QM(ι_τ)
-
-- κ_τ = Lift_GR(ι_τ)
-
-- α_EM = (8/15) · ι_τ⁴
-
-- All sector vacua Ω*_S = F_S(ι_τ)
-
-- All excitation quanta q_S[ω] = G_S(ι_τ)
+Every physical constant is an ι<sub>τ</sub>-image:
 
 
-C_phys is **countably generated** by a single element (ι_τ).
+- ℏ_τ = Lift_QM(ι<sub>τ</sub>)
+
+- κ_τ = Lift_GR(ι<sub>τ</sub>)
+
+- α_EM = (8/15) · ι<sub>τ</sub>⁴
+
+- All sector vacua Ω*_S = F_S(ι<sub>τ</sub>)
+
+- All excitation quanta q_S[ω] = G_S(ι<sub>τ</sub>)
+
+
+C_phys is **countably generated** by a single element (ι<sub>τ</sub>).
 
 - master_numer : ℕ
-The master constant ι_τ = 2/(π+e) numerator.
+The master constant ι<sub>τ</sub> = 2/(π+e) numerator.
 
 - master_denom : ℕ
 The master constant denominator.
@@ -586,7 +586,7 @@ The uncertainty product has positive denominator.
 Tau.BookIV.Physics.weak_lift_is_master :lift_weak.target_numer = Sectors.iota ∧ lift_weak.target_denom = Sectors.iotaD**
 
 
-The weak sector lift IS the master constant (ι_τ itself).
+The weak sector lift IS the master constant (ι<sub>τ</sub> itself).
 
 ---
 
@@ -597,4 +597,4 @@ The weak sector lift IS the master constant (ι_τ itself).
 Tau.BookIV.Physics.em_lift_is_iota_squared :lift_em.target_numer = Sectors.iota_sq_numer ∧ lift_em.target_denom = Sectors.iota_sq_denom**
 
 
-The EM sector lift is ι_τ² (weak squared).
+The EM sector lift is ι<sub>τ</sub>² (weak squared).

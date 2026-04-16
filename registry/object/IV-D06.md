@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Sectors.SectorParameters
 lean_name: Tau.BookIV.Sectors.weak_sector
-summary: 'A-sector instantiation: π-generator, self-coupling κ(A;1) = ι_τ, balanced
-  polarity (unique), depth 1. The master constant ι_τ itself IS the weak self-coupling.
+summary: 'A-sector instantiation: π-generator, self-coupling κ(A;1) = ι<sub>τ</sub>, balanced
+  polarity (unique), depth 1. The master constant ι<sub>τ</sub> itself IS the weak self-coupling.
   Physical: temporal arrow, parity violation, beta decay.'
 depends_on:
 - IV.D01

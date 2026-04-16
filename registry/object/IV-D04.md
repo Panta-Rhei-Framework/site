@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Sectors.SectorParameters
 lean_name: Tau.BookIV.Sectors.higgs_sector
-summary: 'ω-sector instantiation: γ∩η crossing generator, self-coupling κ(B,C) = ι_τ³/(1+ι_τ),
+summary: 'ω-sector instantiation: γ∩η crossing generator, self-coupling κ(B,C) = ι<sub>τ</sub>³/(1+ι<sub>τ</sub>),
   crossing polarity, depth 3. Unique +1 derived sector from the lemniscate crossing
   point. Physical: mass generation.'
 depends_on:

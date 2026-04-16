@@ -28,7 +28,7 @@ right_rail:
 
 Three generations of fermions from lemniscate topology: the three topologically
 distinct mode classes on L = S¹ ∨ S¹, lepton families (e, μ, τ), quark families
-(u/d, c/s, t/b), mass hierarchy by generation, ι_τ² spectral gap, and the
+(u/d, c/s, t/b), mass hierarchy by generation, ι<sub>τ</sub>² spectral gap, and the
 Koide relation Q = 2/3.
 
 ## Registry Cross-References
@@ -79,7 +79,7 @@ Koide relation Q = 2/3.
 The lemniscate L = S¹ ∨ S¹ has exactly three structurally distinct regions:
 crossing point, single lobe, and full figure. Character modes on T² restricted
 to L fall into three topological mode classes corresponding to three fermion
-generations. Mass hierarchy follows from breathing eigenvalues scaled by ι_τ².
+generations. Mass hierarchy follows from breathing eigenvalues scaled by ι<sub>τ</sub>².
 
 The Koide relation Q = (m_e + m_μ + m_τ)/(√m_e + √m_μ + √m_τ)² = 2/3 is
 a consequence of ℤ/3ℤ symmetry of L's three sectors with democratic matrix
@@ -386,15 +386,15 @@ Tau.BookIV.Particles.lobes_plus_crossing :fourth_generation_excluded.num_lobes +
 Tau.BookIV.Particles.QuarkWindingClass :Type**
 
 
-[IV.D197] Quark winding classes on T² with shape ratio ι_τ.
+[IV.D197] Quark winding classes on T² with shape ratio ι<sub>τ</sub>.
 The six quarks are assigned to three winding classes:
 
 
 - Class (1,0): Gen 1 (u, d), eigenvalue β = 1
 
-- Class (0,1): Gen 2 (c, s), eigenvalue β = ι_τ⁻¹
+- Class (0,1): Gen 2 (c, s), eigenvalue β = ι<sub>τ</sub>⁻¹
 
-- Class (1,1): Gen 3 (t, b), eigenvalue β = ι_τ⁻²
+- Class (1,1): Gen 3 (t, b), eigenvalue β = ι<sub>τ</sub>⁻²
 
 
 - winding_m : ℕ
@@ -413,7 +413,7 @@ Up-type quark name.
 Down-type quark name.
 
 - eigenvalue_exp : ℕ
-Eigenvalue exponent: β = ι_τ^(-exponent).
+Eigenvalue exponent: β = ι<sub>τ</sub>^(-exponent).
 
 Instances For
 
@@ -506,9 +506,9 @@ Tau.BookIV.Particles.three_quark_generations :quark_winding_classes.length = 3**
 Tau.BookIV.Particles.MuonExponent :Type**
 
 
-[IV.P122] m_μ/m_e = ι_τ^(-5)(1 + δ_μ) where δ_μ ≈ −0.04 is O(α).
+[IV.P122] m_μ/m_e = ι<sub>τ</sub>^(-5)(1 + δ_μ) where δ_μ ≈ −0.04 is O(α).
 Bare topological exponent: 5.
-Corrected prediction: m_e·ι_τ^(-4.96) ≈ 106.1 MeV (experiment: 105.66 MeV, 0.4%).
+Corrected prediction: m_e·ι<sub>τ</sub>^(-4.96) ≈ 106.1 MeV (experiment: 105.66 MeV, 0.4%).
 
 Mass values in MeV (scaled ×1000):
 
@@ -599,7 +599,7 @@ Predicted within 1% of experiment.
 Tau.BookIV.Particles.TauLeptonExponent :Type**
 
 
-[IV.P123] m_τ/m_e = ι_τ^(-15/2)(1 + δ_τ) where δ_τ ≈ +0.09 is O(α).
+[IV.P123] m_τ/m_e = ι<sub>τ</sub>^(-15/2)(1 + δ_τ) where δ_τ ≈ +0.09 is O(α).
 Bare topological exponent: 15/2 = 7.5.
 The full-lemniscate winding mode produces the heaviest charged lepton.
 
@@ -821,7 +821,7 @@ Tau.BookIV.Particles.koide_z3_symmetry :koide_relation.symmetry_order = 3**
 Tau.BookIV.Particles.QuarkMassPattern :Type**
 
 
-[IV.P121] Six quark masses follow approximate ι_τ power laws.
+[IV.P121] Six quark masses follow approximate ι<sub>τ</sub> power laws.
 Scope: conjectural — reproduces ordering and scale, not high-precision.
 
 Exponents (×10, for integer representation):
@@ -897,7 +897,7 @@ Instances For
 Tau.BookIV.Particles.NeutrinoMassScale :Type**
 
 
-[IV.P124] m₃(ν) ≈ m_e · ι_τ¹⁵ ≈ 50.7 meV.
+[IV.P124] m₃(ν) ≈ m_e · ι<sub>τ</sub>¹⁵ ≈ 50.7 meV.
 Exponent 15 = 7 + 8, where 7 is the electron's level and 8 = 2×4
 is the fiber spectral dimension gap.
 
@@ -905,7 +905,7 @@ Experimental: ≈ 49.5 meV (cosmological bounds).
 Scope: conjectural.
 
 - exponent : ℕ
-Exponent in ι_τ power.
+Exponent in ι<sub>τ</sub> power.
 
 - electron_level : ℕ
 Electron level.
@@ -1193,7 +1193,7 @@ Tau.BookIV.Particles.OneConstantOneAnchor :Type**
 [IV.R120] Every fundamental particle mass is determined by:
 
 
-- 1 dimensionless constant: ι_τ = 2/(π+e)
+- 1 dimensionless constant: ι<sub>τ</sub> = 2/(π+e)
 
 - 1 dimensional anchor: m_n = 939.565421 MeV
 
@@ -1279,18 +1279,18 @@ Tau.BookIV.Particles.LeptonSigmaMatrix :Type**
 
 
 [IV.D344] The sigma-equivariant lepton mass matrix M_ℓ = [[a,b,0],[b,c,b],[0,b,a]].
-Parameterized by effective exponents (p, q, r) such that a≈ι_τ⁻ᵖ, b≈ι_τ⁻ᵍ, c≈ι_τ⁻ʳ.
+Parameterized by effective exponents (p, q, r) such that a≈ι<sub>τ</sub>⁻ᵖ, b≈ι<sub>τ</sub>⁻ᵍ, c≈ι<sub>τ</sub>⁻ʳ.
 Sigma-equivariance (rows 1 and 3 are reflections) follows from the chi_+/crossing/chi_-
 decomposition of L = S¹ ∨ S¹.
 
 - p : Float
-Diagonal (lobe) exponent: a ≈ ι_τ^{-p}, close to m_μ/m_e.
+Diagonal (lobe) exponent: a ≈ ι<sub>τ</sub>^{-p}, close to m_μ/m_e.
 
 - q : Float
-Off-diagonal (mediator) exponent: b ≈ ι_τ^{-q}.
+Off-diagonal (mediator) exponent: b ≈ ι<sub>τ</sub>^{-q}.
 
 - r : Float
-Central (crossing) exponent: c ≈ ι_τ^{-r}.
+Central (crossing) exponent: c ≈ ι<sub>τ</sub>^{-r}.
 
 Instances For
 
@@ -1327,7 +1327,7 @@ Tau.BookIV.Particles.leptonSigmaObs :LeptonSigmaMatrix**
 
 
 The observed lepton sigma-matrix parameters from PDG 2024 data.
-a = 206.768 ≈ ι_τ^{-4.960}, b = 580.068 ≈ ι_τ^{-5.919}, c = 3271.460 ≈ ι_τ^{-7.529}.
+a = 206.768 ≈ ι<sub>τ</sub>^{-4.960}, b = 580.068 ≈ ι<sub>τ</sub>^{-5.919}, c = 3271.460 ≈ ι<sub>τ</sub>^{-7.529}.
 Equations
 - Tau.BookIV.Particles.leptonSigmaObs = { p := 4.960, q := 5.919, r := 7.529 }
 Instances For
@@ -1342,7 +1342,7 @@ Tau.BookIV.Particles.leptonSigmaInt :LeptonSigmaMatrix**
 
 
 Leading-order integer/half-integer approximation:
-a ≈ ι_τ^{-5}, b ≈ ι_τ^{-6}, c ≈ ι_τ^{-15/2}.
+a ≈ ι<sub>τ</sub>^{-5}, b ≈ ι<sub>τ</sub>^{-6}, c ≈ ι<sub>τ</sub>^{-15/2}.
 Equations
 - Tau.BookIV.Particles.leptonSigmaInt = { p := 5.0, q := 6.0, r := 7.5 }
 Instances For
@@ -1478,8 +1478,8 @@ The Koide relation has predicted numerator 2 and denominator 3.
 Tau.BookIV.Particles.muon_mass_leading :String**
 
 
-[IV.T144] m_μ/m_e leading-order formula: ι_τ^{-5}.
-Leading order: m_μ/m_e ≈ ι_τ^{-5} at 44,258 ppm (4.4% gap).
+[IV.T144] m_μ/m_e leading-order formula: ι<sub>τ</sub>^{-5}.
+Leading order: m_μ/m_e ≈ ι<sub>τ</sub>^{-5} at 44,258 ppm (4.4% gap).
 Exponent 5 = N_generators = W_3(4) = NLO modulus (same as EW corrections).
 NLO correction c_μ = 0.9576 requires first-principles derivation (OQ-C5a).
 Scope: tau-effective.
@@ -1496,7 +1496,7 @@ Instances For
 Tau.BookIV.Particles.muon_ratio_leading_lower :200 * Sectors.iota ^ 5 < Sectors.iotaD ^ 5**
 
 
-m_μ/m_e leading order: ι_τ^{-5} > 200, i.e., iotaD^5 > 200 * iota^5.
+m_μ/m_e leading order: ι<sub>τ</sub>^{-5} > 200, i.e., iotaD^5 > 200 * iota^5.
 Numerically: 1000000^5 > 200 * 341304^5, i.e., 10^30 > 200 * 4.63e27 9.26e29.
 
 ---
@@ -1508,7 +1508,7 @@ Numerically: 1000000^5 > 200 * 341304^5, i.e., 10^30 > 200 * 4.63e27 9.26e29.
 Tau.BookIV.Particles.muon_ratio_leading_upper :Sectors.iotaD ^ 5 < 220 * Sectors.iota ^ 5**
 
 
-m_μ/m_e leading order: ι_τ^{-5} < 220, i.e., 220 * iota^5 > iotaD^5.
+m_μ/m_e leading order: ι<sub>τ</sub>^{-5} < 220, i.e., 220 * iota^5 > iotaD^5.
 Numerically: 220 * 341304^5 ~ 1.019e30 > 1000000^5 = 10^30.
 
 ---
@@ -1538,8 +1538,8 @@ Tau.BookIV.Particles.three_gen_closure :String**
 
 [IV.P185] Three primitive winding classes on T² host particle families.
 Classes: (1,0), (0,1), (1,1). Composite classes (2,0), (2,1) etc. are
-suppressed by additional ι_τ² spectral gap factor, producing masses
-≥ ι_τ^{-2} × m_τ ≈ 29,850 m_e, exceeding the dark-matter mass tower cutoff.
+suppressed by additional ι<sub>τ</sub>² spectral gap factor, producing masses
+≥ ι<sub>τ</sub>^{-2} × m_τ ≈ 29,850 m_e, exceeding the dark-matter mass tower cutoff.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -1633,8 +1633,8 @@ Tau.BookIV.Particles.primitive_winding_classes :List (ℤ × ℤ)**
 
 The three primitive winding classes on T²: modes with the three
 lowest positive Laplacian eigenvalues among primitive (gcd=1) modes,
-given r/R = ι_τ. Eigenvalues (in 1/R²): (1,0)→1, (0,1)→ι_τ⁻²≈8.585,
-(1,1)→1+ι_τ⁻²≈9.585. Non-primitive (2,0) at λ=4 is excluded. [IV.D347]
+given r/R = ι<sub>τ</sub>. Eigenvalues (in 1/R²): (1,0)→1, (0,1)→ι<sub>τ</sub>⁻²≈8.585,
+(1,1)→1+ι<sub>τ</sub>⁻²≈9.585. Non-primitive (2,0) at λ=4 is excluded. [IV.D347]
 Equations
 - Tau.BookIV.Particles.primitive_winding_classes = [(1, 0), (0, 1), (1, 1)]
 Instances For
@@ -1649,8 +1649,8 @@ Tau.BookIV.Particles.composite_winding_suppressed :primitive_winding_classes.len
 
 
 Exactly three primitive winding classes exist below the first composite
-primitive mode (2,1) at λ=4+ι_τ⁻²≈12.58. Spectral gap ratio
-λ_(2,0)/λ_(1,1) = 4/(1+ι_τ⁻²) ≈ 0.4173 isolates the three light
+primitive mode (2,1) at λ=4+ι<sub>τ</sub>⁻²≈12.58. Spectral gap ratio
+λ_(2,0)/λ_(1,1) = 4/(1+ι<sub>τ</sub>⁻²) ≈ 0.4173 isolates the three light
 generations. No fourth light generation below the dark-sector cutoff.
 [IV.T147]
 
@@ -1676,17 +1676,17 @@ Tau.BookIV.Particles.LeptonSigmaExponents :Type**
 
 Lepton σ-matrix back-solve: M eigenvalues = (m_e, m_μ, m_τ) MeV.
 Setting a = m_μ (σ-odd eigenvalue): c = m_e + m_τ - m_μ = 1671.713 MeV,
-b = √((m_μ·c - m_e·m_τ)/2) = 296.414 MeV. In ι_τ-units (relative to m_n):
+b = √((m_μ·c - m_e·m_τ)/2) = 296.414 MeV. In ι<sub>τ</sub>-units (relative to m_n):
 p_l = 2.033, q_l = 1.073, r_l = −0.536. [IV.T149]
 
 - p_l : Float
-σ-odd diagonal entry exponent: a = m_n·ι_τ^p_l ≈ m_μ.
+σ-odd diagonal entry exponent: a = m_n·ι<sub>τ</sub>^p_l ≈ m_μ.
 
 - q_l : Float
-Off-diagonal entry exponent: b = m_n·ι_τ^q_l ≈ 296.4 MeV.
+Off-diagonal entry exponent: b = m_n·ι<sub>τ</sub>^q_l ≈ 296.4 MeV.
 
 - r_l : Float
-Central crossing entry exponent: c = m_n·ι_τ^r_l ≈ 1671.7 MeV.
+Central crossing entry exponent: c = m_n·ι<sub>τ</sub>^r_l ≈ 1671.7 MeV.
 
 Instances For
 
@@ -1737,7 +1737,7 @@ Tau.BookIV.Particles.muon_mass_ratio_nlo_candidate :String**
 
 
 The NLO approximation for m_μ/m_e from Wave 3A 14-formula scan.
-Best: ι_τ^(-4.96) = 206.832 at +307 ppm from PDG 206.768.
+Best: ι<sub>τ</sub>^(-4.96) = 206.832 at +307 ppm from PDG 206.768.
 Effective exponent 4.96 = 5 - 0.04; gap 0.04 ≈ 1/25 open as OQ-C5a.
 [IV.T148]
 Equations
@@ -1894,13 +1894,13 @@ Tau.BookIV.Particles.quark_lepton_universality_hint :quark_lepton_universality_d
 Tau.BookIV.Particles.cabibbo_formula :String**
 
 
-The Wolfenstein parameter λ_C = sin(θ_C) is identified with ι_τ·κ_D = ι_τ·(1−ι_τ).
+The Wolfenstein parameter λ_C = sin(θ_C) is identified with ι<sub>τ</sub>·κ_D = ι<sub>τ</sub>·(1−ι<sub>τ</sub>).
 This is the amplitude for a (1,0)-winding to transition to a (0,1)-winding via ω,
-with survival factor κ_D = 1 − ι_τ.
-Numerical (50-digit mpmath, 2026-03-02): ι_τ·(1−ι_τ) = 0.224816 vs PDG 0.22534
+with survival factor κ_D = 1 − ι<sub>τ</sub>.
+Numerical (50-digit mpmath, 2026-03-02): ι<sub>τ</sub>·(1−ι<sub>τ</sub>) = 0.224816 vs PDG 0.22534
 at −2327 ppm. Best τ-formula among all tested CKM candidates.
 Equations
-- Tau.BookIV.Particles.cabibbo_formula = "sin(θ_C) = ι_τ · (1 - ι_τ) = ι_τ · κ_D = 0.22482 (PDG: 0.22534, -2327 ppm)"
+- Tau.BookIV.Particles.cabibbo_formula = "sin(θ_C) = ι<sub>τ</sub> · (1 - ι<sub>τ</sub>) = ι<sub>τ</sub> · κ_D = 0.22482 (PDG: 0.22534, -2327 ppm)"
 Instances For
 
 ---
@@ -1915,7 +1915,7 @@ Tau.BookIV.Particles.CabibboFormula :Type**
 [IV.D349] Cabibbo angle formula structure (formalized).
 
 - n_holonomy_factors : ℕ
-Number of factors in holonomy product: ι_τ × κ_D.
+Number of factors in holonomy product: ι<sub>τ</sub> × κ_D.
 
 - fiber_dim : ℕ
 Fiber dimension (T² holonomy).
@@ -1978,11 +1978,11 @@ Tau.BookIV.Particles.cabibbo_formula_conj :cabibbo_formula_data.n_holonomy_facto
 Tau.BookIV.Particles.CabibboAngle :Type**
 
 
-sin(θ_C) = ι_τ·(1−ι_τ) at −2327 ppm from PDG (2.3 per mil).
+sin(θ_C) = ι<sub>τ</sub>·(1−ι<sub>τ</sub>) at −2327 ppm from PDG (2.3 per mil).
 Structural motivation: T² holonomy product for (1,0)→(0,1) generation transition.
 
 - n_coupling_factors : ℕ
-Number of coupling factors: ι_τ · κ_D = 2.
+Number of coupling factors: ι<sub>τ</sub> · κ_D = 2.
 
 - deviation_ppm : ℕ
 Deviation from PDG in ppm.
@@ -2049,7 +2049,7 @@ The σ-polarity mass matrices for charged leptons and neutrinos share the same
 eigenvector structure (σ-equivariance → all [[a,b,0],[b,c,b],[0,b,a]] matrices
 diagonalize in the same basis). Therefore bare PMNS ≈ identity (θ₁₂≈θ₂₃≈0°).
 Physical PMNS large mixing requires A-sector (π-generator) flavor rotation on τ¹.
-Structural candidate: sin²θ₂₃ ≈ κ_D² = (1−ι_τ)² ≈ 0.434 (PDG 0.45).
+Structural candidate: sin²θ₂₃ ≈ κ_D² = (1−ι<sub>τ</sub>)² ≈ 0.434 (PDG 0.45).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -2072,7 +2072,7 @@ Number of shared eigenvectors from σ-polarity (→ PMNS bare = identity).
 Number of A-sector (π-generator) rotations needed.
 
 - n_coupling_scales : ℕ
-Number of candidate coupling scales (κ_D = 1−ι_τ).
+Number of candidate coupling scales (κ_D = 1−ι<sub>τ</sub>).
 
 Instances For
 
@@ -2133,8 +2133,8 @@ Tau.BookIV.Particles.pmns_a_sector_requirement_conj :pmns_a_sector_requirement.n
 Tau.BookIV.Particles.GIMAnalog :Type**
 
 
-Uniform off-diagonal b = ι_τ^q in all three generations → Σ_gen b² = constant → FCNC suppressed.
-Numerical: neutrino sector b = ι_τ^4.8 = 0.005742, b² = 3.297e-5, 3b² = 9.892e-5 = const.
+Uniform off-diagonal b = ι<sub>τ</sub>^q in all three generations → Σ_gen b² = constant → FCNC suppressed.
+Numerical: neutrino sector b = ι<sub>τ</sub>^4.8 = 0.005742, b² = 3.297e-5, 3b² = 9.892e-5 = const.
 
 - n_uniform_generations : ℕ
 Number of generations with uniform off-diagonal b.
@@ -2299,7 +2299,7 @@ Tau.BookIV.Particles.wolfenstein_rho_bar :String**
 
 Key finding: ρ̄ = 1/(2π) = 0.15915 vs PDG 0.159 at +974 ppm (τ-effective!).
 The factor 2π connects to the period of ω ∈ ∂(τ³), same ω as Cabibbo holonomy.
-Registered as OQ-C6. Wolfenstein A: √(1−ι_τ) at −17433 ppm (conjectural).
+Registered as OQ-C6. Wolfenstein A: √(1−ι<sub>τ</sub>) at −17433 ppm (conjectural).
 Equations
 - Tau.BookIV.Particles.wolfenstein_rho_bar = "ρ̄ = 1/(2π) = 0.15915 at +974 ppm from PDG 0.159 (τ-effective). OQ-C6."
 Instances For
@@ -2464,7 +2464,7 @@ Tau.BookIV.Particles.sprint4b_oq_conj :sprint4b_oq_data.n_questions = 3 ∧ spri
 Tau.BookIV.Particles.MuonNNLOCorrection :Type**
 
 
-m_μ/m_e = ι_τ^(-124/25) = ι_τ^(-5+1/25) at +307.1 ppm from PDG 206.768.
+m_μ/m_e = ι<sub>τ</sub>^(-124/25) = ι<sub>τ</sub>^(-5+1/25) at +307.1 ppm from PDG 206.768.
 Correction exponent δ = 1/25 = 1/W₃(4)² — NNLO Window Rule.
 Key: -124/25 = -4.96 exactly, matching Wave 3A numerical fit.
 NLO: W₃(4)=5; NNLO correction: W₃(4)²=25. [IV.T156]
@@ -2550,7 +2550,7 @@ W₃(4)² = 5 × 5 = 25 (NNLO denominator).
 Tau.BookIV.Particles.muon_mass_nnlo_formula :String**
 
 Equations
-- Tau.BookIV.Particles.muon_mass_nnlo_formula = "m_μ/m_e = ι_τ^(-124/25): δ=1/25=1/W₃(4)², NNLO Window Rule, +307.1 ppm from PDG 206.768"
+- Tau.BookIV.Particles.muon_mass_nnlo_formula = "m_μ/m_e = ι<sub>τ</sub>^(-124/25): δ=1/25=1/W₃(4)², NNLO Window Rule, +307.1 ppm from PDG 206.768"
 Instances For
 
 ---
@@ -2793,11 +2793,11 @@ Tau.BookIV.Particles.nnlo_cross_check_conj :nnlo_cross_check_data.pn_coefficient
 Tau.BookIV.Particles.a_sector_pmns_rotation :String**
 
 
-A-sector PMNS rotation: sin(θ_A) = 1/(1+ι_τ) ≈ 0.7455 → θ_A ≈ 48.2°.
+A-sector PMNS rotation: sin(θ_A) = 1/(1+ι<sub>τ</sub>) ≈ 0.7455 → θ_A ≈ 48.2°.
 Applied to atmospheric mixing: θ₂₃ ≈ 48.2° (PDG 49.1°, -18213 ppm).
-The denominator (1+ι_τ) is the π-sector crossing amplitude on τ¹.
+The denominator (1+ι<sub>τ</sub>) is the π-sector crossing amplitude on τ¹.
 Equations
-- Tau.BookIV.Particles.a_sector_pmns_rotation = "A-sector: sin(θ₂₃)=1/(1+ι_τ)=0.7455 → 48.2° (PDG 49.1°, -18213 ppm). " ++ "QLC: θ₁₂=π/4-θ_C → 31.9° (PDG 33.4°, -41965 ppm). Both conjectural."
+- Tau.BookIV.Particles.a_sector_pmns_rotation = "A-sector: sin(θ₂₃)=1/(1+ι<sub>τ</sub>)=0.7455 → 48.2° (PDG 49.1°, -18213 ppm). " ++ "QLC: θ₁₂=π/4-θ_C → 31.9° (PDG 33.4°, -41965 ppm). Both conjectural."
 Instances For
 
 ---
@@ -2815,7 +2815,7 @@ Tau.BookIV.Particles.ASectorPMNSRotation :Type**
 Generator index: π is 2nd of {α,π,γ,η,ω}.
 
 - crossing_denom_terms : ℕ
-Crossing denominator terms: (1+ι_τ) has 2 terms.
+Crossing denominator terms: (1+ι<sub>τ</sub>) has 2 terms.
 
 - theta_angle_index : ℕ
 Candidate PMNS angle index: θ₂₃ is angle 2 of 3.
@@ -2875,11 +2875,11 @@ Tau.BookIV.Particles.a_sector_pmns_conj :a_sector_pmns_data.pi_generator_index =
 Tau.BookIV.Particles.AtmosphericAngle :Type**
 
 
-sin(θ₂₃) = 1/(1+ι_τ) ≈ 0.7455, θ₂₃ ≈ 48.2° (PDG 49.1°, -18213 ppm).
+sin(θ₂₃) = 1/(1+ι<sub>τ</sub>) ≈ 0.7455, θ₂₃ ≈ 48.2° (PDG 49.1°, -18213 ppm).
 Better than κ_D alone; structural derivation from crossing denominator.
 
 - n_denom_terms : ℕ
-Number of denominator terms: (1+ι_τ) has 2 terms.
+Number of denominator terms: (1+ι<sub>τ</sub>) has 2 terms.
 
 - deviation_ppm : ℕ
 Deviation from PDG in ppm (best available).
@@ -2939,7 +2939,7 @@ Tau.BookIV.Particles.atmospheric_angle_a_sector :atmospheric_data.n_denom_terms 
 Tau.BookIV.Particles.QLCComplementarity :Type**
 
 
-QLC-exact: sin(θ₁₂) = (√(1-λ_C²)-λ_C)/√2 where λ_C=ι_τ·(1-ι_τ).
+QLC-exact: sin(θ₁₂) = (√(1-λ_C²)-λ_C)/√2 where λ_C=ι<sub>τ</sub>·(1-ι<sub>τ</sub>).
 = 0.5290 → θ₁₂=31.9° (PDG 33.4°, -41965 ppm). Predicts within 1.5°.
 
 - sum_degrees : ℕ
@@ -3172,7 +3172,7 @@ Tau.BookIV.Particles.wolfenstein_omega_derivation :String**
 
 
 ω-period 2π → rho_bar = 1/(2π) (tau-effective, +974.5 ppm).
-A = 1-(3/2)ι_τ² (tau-effective, -887 ppm).
+A = 1-(3/2)ι<sub>τ</sub>² (tau-effective, -887 ppm).
 eta_bar: best sqrt(5)/(2π) at +22647 ppm (conjectural).
 Equations
 - One or more equations did not get rendered due to their size.
@@ -3337,8 +3337,8 @@ Tau.BookIV.Particles.wolfenstein_rho_formula_conj :wolfenstein_rho_formula_data.
 Tau.BookIV.Particles.WolfensteinA :Type**
 
 
-A = 1-(3/2)ι_τ² = 0.82527 at -887.3 ppm from PDG A=0.826.
-Improved from sqrt(1-ι_τ) at -17433 ppm (Wave 4B) by factor ~20.
+A = 1-(3/2)ι<sub>τ</sub>² = 0.82527 at -887.3 ppm from PDG A=0.826.
+Improved from sqrt(1-ι<sub>τ</sub>) at -17433 ppm (Wave 4B) by factor ~20.
 
 - coeff_numer : ℕ
 Coefficient numerator: 3 in 3/2.
@@ -3347,7 +3347,7 @@ Coefficient numerator: 3 in 3/2.
 Coefficient denominator: 2 in 3/2.
 
 - iota_power : ℕ
-Power of ι_τ in formula A = 1−(3/2)ι_τ².
+Power of ι<sub>τ</sub> in formula A = 1−(3/2)ι<sub>τ</sub>².
 
 - deviation_ppm : ℕ
 Deviation from PDG in ppm.
@@ -3733,7 +3733,7 @@ Tau.BookIV.Particles.wolfenstein_eta_pentagon :String**
 
 
 Wolfenstein η̄ from 5-generator pentagon: ω-period 2π / 5 generators = 72°/step.
-Best τ-candidate: ι_τ^(-1/4)·κ_D^(5/4)/√5 = 0.3472 at -2285 ppm (τ-effective).
+Best τ-candidate: ι<sub>τ</sub>^(-1/4)·κ_D^(5/4)/√5 = 0.3472 at -2285 ppm (τ-effective).
 Improvement: 10× over √5/(2π) baseline (+22647 ppm). OQ-CKM1 resolved.
 Equations
 - One or more equations did not get rendered due to their size.
@@ -3898,7 +3898,7 @@ Tau.BookIV.Particles.jarlskog_invariant_tau_conj :jarlskog_invariant_tau_data.n_
 Tau.BookIV.Particles.EtaBarSprint6B :Type**
 
 
-Best η̄: ι_τ^(-1/4)·κ_D^(5/4)/√5 = 0.347205 at -2285 ppm. τ-effective (< 5000 ppm).
+Best η̄: ι<sub>τ</sub>^(-1/4)·κ_D^(5/4)/√5 = 0.347205 at -2285 ppm. τ-effective (< 5000 ppm).
 
 - n_pentagon_generators : ℕ
 Pentagon generator count.
@@ -4144,11 +4144,11 @@ Tau.BookIV.Particles.oqckm1_6b_conj :oqckm1_6b_data.n_tau_effective = 4 ∧ oqck
 Tau.BookIV.Particles.muon_mass_nnlo_k23 :String**
 
 
-m_μ/m_e = ι_τ^(-124/25)·(1-ι_τ^(23/3)) at +43 ppm. k=23/3.
+m_μ/m_e = ι<sub>τ</sub>^(-124/25)·(1-ι<sub>τ</sub>^(23/3)) at +43 ppm. k=23/3.
 Structural: 23=W₃(4)+W₃(3)+1=5+17+1 (first Window-algebra NNLO exponent).
 Best rational: k=45/6=7.5=(3×W₃(4))/2 at -8.2 ppm.
 Equations
-- Tau.BookIV.Particles.muon_mass_nnlo_k23 = "m_μ/m_e = ι_τ^(-124/25)·(1-ι_τ^(23/3)) at +43 ppm. " ++ "23=W₃(4)+W₃(3)+1=5+17+1. Best: k=7.5=(3W₃(4))/2 at -8.2 ppm."
+- Tau.BookIV.Particles.muon_mass_nnlo_k23 = "m_μ/m_e = ι<sub>τ</sub>^(-124/25)·(1-ι<sub>τ</sub>^(23/3)) at +43 ppm. " ++ "23=W₃(4)+W₃(3)+1=5+17+1. Best: k=7.5=(3W₃(4))/2 at -8.2 ppm."
 Instances For
 
 ---
@@ -4229,7 +4229,7 @@ Tau.BookIV.Particles.muon_nnlo_k23_conj :muon_nnlo_k23_data.k_numer = 23 ∧ muo
 Tau.BookIV.Particles.k23_window_sum :5 + 17 + 1 = 23**
 
 
-ι_τ^(-124/25)·(1-ι_τ^(23/3)) = 206.777 at +43 ppm from PDG 206.768.
+ι<sub>τ</sub>^(-124/25)·(1-ι<sub>τ</sub>^(23/3)) = 206.777 at +43 ppm from PDG 206.768.
 23 = W₃(4)+W₃(3)+1 = 5+17+1: first Window-algebra NNLO exponent.
 
 ---
@@ -4241,7 +4241,7 @@ Tau.BookIV.Particles.k23_window_sum :5 + 17 + 1 = 23**
 Tau.BookIV.Particles.c5_em_coefficient :4 * 5 = 20**
 
 
-C.5: (3/16)·√3·ι_τ^5 − (3/20)·α·ι_τ^2 at +28 ppm. C.3 NLO at +5 ppm.
+C.5: (3/16)·√3·ι<sub>τ</sub>^5 − (3/20)·α·ι<sub>τ</sub>^2 at +28 ppm. C.3 NLO at +5 ppm.
 3/16 = N_c/2⁴; 3/20 = N_c/(4·W₃(4)) = 3/20. Both structurally derived.
 
 ---
@@ -4689,7 +4689,7 @@ Tau.BookIV.Particles.gen_mass_hierarchy_eigenvalue :String**
 
 
 Mass hierarchy from T² Laplacian eigenvalues:
-λ₁ = 1 (gen 1) < λ₂ = ι_τ⁻² ≈ 8.6 (gen 2) < λ₃ = 1+ι_τ⁻² ≈ 9.6 (gen 3).
+λ₁ = 1 (gen 1) < λ₂ = ι<sub>τ</sub>⁻² ≈ 8.6 (gen 2) < λ₃ = 1+ι<sub>τ</sub>⁻² ≈ 9.6 (gen 3).
 Leading exponents: gen 2 → 5 = N_generators, gen 3 → 15/2 = N_gen·dim/lobes.
 Equations
 - One or more equations did not get rendered due to their size.
@@ -4772,7 +4772,7 @@ Tau.BookIV.Particles.boundary_mode_15_decomposition :3 * 5 = 15**
 
 15 boundary modes = 3 generations × 5 modes/generation = 3 × N_generators.
 Per generation: 1 charged lepton + 1 neutrino + 3 color-quarks = 5.
-The 11/4 split gives α = (11/15)²·ι_τ⁴ at 9.8 ppm.
+The 11/4 split gives α = (11/15)²·ι<sub>τ</sub>⁴ at 9.8 ppm.
 
 ---
 
@@ -4881,9 +4881,9 @@ Tau.BookIV.Particles.a_sector_nlo_pmns :String**
 [IV.D365] A-Sector NLO PMNS Rotation.
 The σ-polarity matrix is shared by M_ℓ and M_ν (same eigenvectors),
 so bare PMNS ≈ identity. All mixing from A-sector (π-generator) rotation.
-NLO: sin(θ₂₃) = (1−ι_τ⁵)/(1+ι_τ), with W₃(4)=5.
+NLO: sin(θ₂₃) = (1−ι<sub>τ</sub>⁵)/(1+ι<sub>τ</sub>), with W₃(4)=5.
 Equations
-- Tau.BookIV.Particles.a_sector_nlo_pmns = "A-sector NLO PMNS rotation: sin(θ₂₃)_NLO = (1-ι_τ^5)/(1+ι_τ). " ++ "Bare PMNS ≈ identity from shared σ-matrix eigenvectors."
+- Tau.BookIV.Particles.a_sector_nlo_pmns = "A-sector NLO PMNS rotation: sin(θ₂₃)_NLO = (1-ι<sub>τ</sub>^5)/(1+ι<sub>τ</sub>). " ++ "Bare PMNS ≈ identity from shared σ-matrix eigenvectors."
 Instances For
 
 ---
@@ -4964,7 +4964,7 @@ Tau.BookIV.Particles.theta23_nlo_window :String**
 [IV.T174] θ₂₃ NLO via Window Algebra at +8604 ppm.
 sin²θ₂₃ = 0.5507, PDG 0.546. Halves LO deviation (+18012 → +8604 ppm).
 Equations
-- Tau.BookIV.Particles.theta23_nlo_window = "sin(θ₂₃) = (1-ι_τ^5)/(1+ι_τ), sin²θ₂₃ = 0.5507, " ++ "PDG 0.546, deviation +8604 ppm. NLO factor (1-ι_τ^5) halves LO error."
+- Tau.BookIV.Particles.theta23_nlo_window = "sin(θ₂₃) = (1-ι<sub>τ</sub>^5)/(1+ι<sub>τ</sub>), sin²θ₂₃ = 0.5507, " ++ "PDG 0.546, deviation +8604 ppm. NLO factor (1-ι<sub>τ</sub>^5) halves LO error."
 Instances For
 
 ---
@@ -5072,9 +5072,9 @@ Tau.BookIV.Particles.theta12_qlc_higgs_nlo :String**
 
 
 [IV.T175] θ₁₂ from QLC + Higgs NLO at +3106 ppm.
-θ₁₂ = π/4 − θ_C + ι_τ²κ_ω. Major improvement over bare QLC (−84888 ppm).
+θ₁₂ = π/4 − θ_C + ι<sub>τ</sub>²κ_ω. Major improvement over bare QLC (−84888 ppm).
 Equations
-- Tau.BookIV.Particles.theta12_qlc_higgs_nlo = "θ₁₂ = π/4 − θ_C + ι_τ²κ_ω, sin²θ₁₂ = 0.3080, " ++ "PDG 0.307, deviation +3106 ppm. Approaches τ-effective threshold."
+- Tau.BookIV.Particles.theta12_qlc_higgs_nlo = "θ₁₂ = π/4 − θ_C + ι<sub>τ</sub>²κ_ω, sin²θ₁₂ = 0.3080, " ++ "PDG 0.307, deviation +3106 ppm. Approaches τ-effective threshold."
 Instances For
 
 ---
@@ -5089,13 +5089,13 @@ Tau.BookIV.Particles.Theta12NLO :Type**
 [IV.T175] θ₁₂ NLO from QLC + Higgs correction structure.
 
 - higgs_correction_power : ℕ
-Higgs correction power: ι_τ² in δ = ι_τ²κ_ω.
+Higgs correction power: ι<sub>τ</sub>² in δ = ι<sub>τ</sub>²κ_ω.
 
 - deviation_ppm : ℕ
 Deviation from PDG in ppm (+3106).
 
 - free_params : ℕ
-Number of free parameters (zero: all from ι_τ).
+Number of free parameters (zero: all from ι<sub>τ</sub>).
 
 Instances For
 
@@ -5181,10 +5181,10 @@ Instances For
 Tau.BookIV.Particles.delta_cp_arctan :String**
 
 
-[IV.P204] δ_CP = π + arctan(ι_τ) at +9365 ppm.
+[IV.P204] δ_CP = π + arctan(ι<sub>τ</sub>) at +9365 ppm.
 π radians (half-period on L) plus small τ-rotation. PDG 197°.
 Equations
-- Tau.BookIV.Particles.delta_cp_arctan = "δ_CP = π + arctan(ι_τ) = 198.84°, PDG 197°, deviation +9365 ppm. " ++ "Half-period on L plus master-constant rotation."
+- Tau.BookIV.Particles.delta_cp_arctan = "δ_CP = π + arctan(ι<sub>τ</sub>) = 198.84°, PDG 197°, deviation +9365 ppm. " ++ "Half-period on L plus master-constant rotation."
 Instances For
 
 ---
@@ -5202,7 +5202,7 @@ Tau.BookIV.Particles.DeltaCPPrediction :Type**
 Base angle: π in radians (half-period on L), degrees = 180.
 
 - predicted_deg_x100 : ℕ
-Predicted angle (degrees × 100): π + arctan(ι_τ) ≈ 198.84°.
+Predicted angle (degrees × 100): π + arctan(ι<sub>τ</sub>) ≈ 198.84°.
 
 - pdg_deg_x100 : ℕ
 PDG value (degrees × 100): ≈ 197°.
@@ -5286,7 +5286,7 @@ Tau.BookIV.Particles.quarter_lobe_holonomy :String**
 [IV.D363] Quarter-Lobe Holonomy.
 Exponent −1/4 = −1/(2·|lobes|). Quarter-revolution of lobe holonomy for CP.
 Equations
-- Tau.BookIV.Particles.quarter_lobe_holonomy = "−1/4 = −1/(2·|lobes|) = −1/(2·2). " ++ "CP violation requires partial traversal: (ι_τ⁻¹)^{1/4}."
+- Tau.BookIV.Particles.quarter_lobe_holonomy = "−1/4 = −1/(2·|lobes|) = −1/(2·2). " ++ "CP violation requires partial traversal: (ι<sub>τ</sub>⁻¹)^{1/4}."
 Instances For
 
 ---
@@ -5460,9 +5460,9 @@ Tau.BookIV.Particles.eta_bar_exponent_derivation :String**
 
 
 [IV.T173] η̄ Exponent Derivation.
-η̄ = ι_τ^{−1/4}·κ_D^{5/4}/√5 at −2285 ppm from PDG.
+η̄ = ι<sub>τ</sub>^{−1/4}·κ_D^{5/4}/√5 at −2285 ppm from PDG.
 Equations
-- Tau.BookIV.Particles.eta_bar_exponent_derivation = "η̄ = ι_τ^{−1/4}·κ_D^{5/4}/√5 = 0.34720, PDG 0.349±0.013, " ++ "deviation −2285 ppm (within 1σ). Three topological factors."
+- Tau.BookIV.Particles.eta_bar_exponent_derivation = "η̄ = ι<sub>τ</sub>^{−1/4}·κ_D^{5/4}/√5 = 0.34720, PDG 0.349±0.013, " ++ "deviation −2285 ppm (within 1σ). Three topological factors."
 Instances For
 
 ---
@@ -5477,10 +5477,10 @@ Tau.BookIV.Particles.EtaBarExponentData :Type**
 [IV.T173] η̄ exponent derivation structure (formalized).
 
 - iota_exp_numer : ℕ
-ι_τ exponent numerator: 1.
+ι<sub>τ</sub> exponent numerator: 1.
 
 - iota_exp_denom : ℕ
-ι_τ exponent denominator: 4.
+ι<sub>τ</sub> exponent denominator: 4.
 
 - kappa_d_exp_numer : ℕ
 κ_D exponent numerator: 5.
@@ -5552,7 +5552,7 @@ Tau.BookIV.Particles.jarlskog_full_tau_consistency :String**
 [IV.P203] Jarlskog J Full-τ Consistency.
 All 4 Wolfenstein params now τ-effective. J = A²λ_C⁶η̄.
 Equations
-- Tau.BookIV.Particles.jarlskog_full_tau_consistency = "All 4 Wolfenstein: λ_C=ι_τ(1−ι_τ) at −2327, A=1−(3/2)ι_τ² at −887, " ++ "ρ̄=1/(2π) at +975, η̄=ι_τ^{−1/4}κ_D^{5/4}/√5 at −2285 ppm."
+- Tau.BookIV.Particles.jarlskog_full_tau_consistency = "All 4 Wolfenstein: λ_C=ι<sub>τ</sub>(1−ι<sub>τ</sub>) at −2327, A=1−(3/2)ι<sub>τ</sub>² at −887, " ++ "ρ̄=1/(2π) at +975, η̄=ι<sub>τ</sub>^{−1/4}κ_D^{5/4}/√5 at −2285 ppm."
 Instances For
 
 ---
@@ -5811,10 +5811,10 @@ Tau.BookIV.Particles.muon_nnlo_k15_2 :String**
 
 
 [IV.T176] m_μ/m_e NNLO at −8.2 ppm via k=15/2.
-m_μ/m_e = ι_τ^{−124/25}·(1−ι_τ^{15/2}) = 206.767.
+m_μ/m_e = ι<sub>τ</sub>^{−124/25}·(1−ι<sub>τ</sub>^{15/2}) = 206.767.
 37.5× improvement over LO.
 Equations
-- Tau.BookIV.Particles.muon_nnlo_k15_2 = "m_μ/m_e = ι_τ^{−124/25}·(1−ι_τ^{15/2}) = 206.767, " ++ "PDG 206.768, deviation −8.2 ppm. 37.5× improvement over LO."
+- Tau.BookIV.Particles.muon_nnlo_k15_2 = "m_μ/m_e = ι<sub>τ</sub>^{−124/25}·(1−ι<sub>τ</sub>^{15/2}) = 206.767, " ++ "PDG 206.768, deviation −8.2 ppm. 37.5× improvement over LO."
 Instances For
 
 ---
@@ -5982,14 +5982,14 @@ Tau.BookIV.Particles.CabibboHolonomyDerivation :Type**
 [IV.T152 upgrade] Cabibbo angle from T² holonomy transition.
 
 The T² fiber has two fundamental cycles γ₁, γ₂ with holonomies
-ι_τ (γ-generator, EM) and (1−ι_τ) (η-generator, Strong).
+ι<sub>τ</sub> (γ-generator, EM) and (1−ι<sub>τ</sub>) (η-generator, Strong).
 
 The transition amplitude from winding class (1,0) to (0,1)
 on T² with the τ-metric is the inner product:
-⟨e^{iγ₁}, e^{iγ₂}⟩_τ = ι_τ · (1−ι_τ) = ι_τ · κ_D
+⟨e^{iγ₁}, e^{iγ₂}⟩_τ = ι<sub>τ</sub> · (1−ι<sub>τ</sub>) = ι<sub>τ</sub> · κ_D
 
-This equals the Cabibbo angle: λ_C = ι_τ · κ_D.
-sin(θ_C) = λ_C = ι_τ · (1−ι_τ) ≈ 0.2249
+This equals the Cabibbo angle: λ_C = ι<sub>τ</sub> · κ_D.
+sin(θ_C) = λ_C = ι<sub>τ</sub> · (1−ι<sub>τ</sub>) ≈ 0.2249
 PDG: 0.22500 ± 0.00067 → deviation −2327 ppm.
 
 Physical interpretation: quark mixing between generations 1
@@ -6001,7 +6001,7 @@ entirely by the fiber holonomy.
 Number of T² cycles with holonomies (γ₁, γ₂).
 
 - n_holonomy_factors : ℕ
-Number of holonomy factors in product: ι_τ · κ_D.
+Number of holonomy factors in product: ι<sub>τ</sub> · κ_D.
 
 - deviation_ppm : ℕ
 Deviation from PDG in ppm.
@@ -6073,17 +6073,17 @@ Tau.BookIV.Particles.ASectorRotationMechanism :Type**
 
 The π-generator (A-sector, weak force) acts on the 3-generation
 structure via the polarity matrix. The rotation angle on the
-base cycle g₃ is determined by κ(A;1) = ι_τ.
+base cycle g₃ is determined by κ(A;1) = ι<sub>τ</sub>.
 
-Key equation: sin(θ_A) = κ_ω = ι_τ/(1+ι_τ)
+Key equation: sin(θ_A) = κ_ω = ι<sub>τ</sub>/(1+ι<sub>τ</sub>)
 This is the A-sector crossing amplitude normalized by
 the full holonomy.
 
-Physical: sin(θ₂₃)_LO = 1/(1+ι_τ) is "one full A-sector
+Physical: sin(θ₂₃)_LO = 1/(1+ι<sub>τ</sub>) is "one full A-sector
 traversal" — the natural output of the π-generator rotation.
 
-NLO: sin(θ₂₃) = (1−ι_τ⁵)/(1+ι_τ) at +8604 ppm.
-The ι_τ⁵ correction is the W₃(4)-order Window correction.
+NLO: sin(θ₂₃) = (1−ι<sub>τ</sub>⁵)/(1+ι<sub>τ</sub>) at +8604 ppm.
+The ι<sub>τ</sub>⁵ correction is the W₃(4)-order Window correction.
 
 - pi_generator_index : ℕ
 π-generator index in {α,π,γ,η,ω}: 2nd generator.
@@ -6162,19 +6162,19 @@ Tau.BookIV.Particles.QLCFiberBaseDuality :Type**
 
 [IV.P189/T175 upgrade] QLC from fiber-base duality.
 
-θ₁₂^{PMNS} + θ_C^{CKM} ≈ π/4 + O(ι_τ²)
+θ₁₂^{PMNS} + θ_C^{CKM} ≈ π/4 + O(ι<sub>τ</sub>²)
 
 Proof structure:
 
 
 - On T² (fiber): quark mixing is small:
-θ_C = arcsin(ι_τ·κ_D) ≈ 0.222 rad
+θ_C = arcsin(ι<sub>τ</sub>·κ_D) ≈ 0.222 rad
 
 - On τ¹ (base): the complementary angle is π/4 − θ_C
 because T² × τ¹ → τ³ imposes that the total mixing
 angle in the product is π/4 (quarter-turn on combined space)
 
-- Correction: ι_τ²·κ_ω arises from ω-sector (Higgs) coupling
+- Correction: ι<sub>τ</sub>²·κ_ω arises from ω-sector (Higgs) coupling
 between fiber and base
 
 
@@ -6192,7 +6192,7 @@ Base dimension: τ¹ (leptons).
 Total quarter-turn angle (degrees): π/4 = 45°.
 
 - higgs_correction_power : ℕ
-Higgs correction power: ι_τ² order.
+Higgs correction power: ι<sub>τ</sub>² order.
 
 - deviation_deg_x10 : ℕ
 QLC deviation in degrees (×10): 1.4° → 14.
@@ -6243,7 +6243,7 @@ Instances For
 Tau.BookIV.Particles.qlc_fiber_base_structural :qlc_fiber_base.quarter_turn_degrees = 45 ∧ qlc_fiber_base.higgs_correction_power = 2 ∧ qlc_fiber_base.fiber_dim = 2 ∧ qlc_fiber_base.base_dim = 1**
 
 
-QLC from fiber-base duality: θ₁₂ + θ_C = π/4 + O(ι_τ²).
+QLC from fiber-base duality: θ₁₂ + θ_C = π/4 + O(ι<sub>τ</sub>²).
 
 ---
 
@@ -6259,9 +6259,9 @@ Tau.BookIV.Particles.Theta13OpenFrontier :Type**
 Best candidates explored:
 
 
-- sin²θ₁₃ = λ_C²·(ι_τ/2) ≈ 0.00432 (too small, PDG 0.02224)
+- sin²θ₁₃ = λ_C²·(ι<sub>τ</sub>/2) ≈ 0.00432 (too small, PDG 0.02224)
 
-- sin²θ₁₃ = ι_τ⁴·κ_D ≈ 0.00893 (still 2.5× too small)
+- sin²θ₁₃ = ι<sub>τ</sub>⁴·κ_D ≈ 0.00893 (still 2.5× too small)
 
 - Double winding-class crossing amplitude: gen1→gen3 skipping gen2
 
@@ -6339,9 +6339,9 @@ Tau.BookIV.Particles.QLCDerivationChain :Type**
 The fiber-base duality T²×τ¹→τ³ imposes a quarter-turn
 constraint on the sum of solar and Cabibbo angles.
 
-Chain: λ_C = ι_τ·(1−ι_τ) (IV.T152, τ-effective)
+Chain: λ_C = ι<sub>τ</sub>·(1−ι<sub>τ</sub>) (IV.T152, τ-effective)
 → θ_C = arcsin(λ_C)
-→ θ₁₂ = π/4 − θ_C + ι_τ²κ_ω (NLO correction)
+→ θ₁₂ = π/4 − θ_C + ι<sub>τ</sub>²κ_ω (NLO correction)
 → θ₁₂ at +3106 ppm from PDG
 
 - cabibbo_deviation_ppm : ℕ
@@ -6351,13 +6351,13 @@ Cabibbo λ_C deviation from PDG in ppm (−2327).
 Quarter-turn constraint from T²×τ¹ fiber-base duality (π/4 radians × 10000).
 
 - nlo_power : ℕ
-NLO correction power (ι_τ²).
+NLO correction power (ι<sub>τ</sub>²).
 
 - theta12_deviation_ppm : ℕ
 θ₁₂ deviation from PDG in ppm (+3106).
 
 - free_params : ℕ
-Number of free parameters (zero: all from ι_τ).
+Number of free parameters (zero: all from ι<sub>τ</sub>).
 
 - scope : String
 Scope.
@@ -6441,7 +6441,7 @@ Zero free parameters in the derivation chain.
 Tau.BookIV.Particles.qlc_nlo_second_order :qlc_derivation.nlo_power = 2**
 
 
-NLO correction is second order in ι_τ.
+NLO correction is second order in ι<sub>τ</sub>.
 
 ---
 
@@ -6454,7 +6454,7 @@ Tau.BookIV.Particles.CharmMassRatio :Type**
 
 [IV.T191] Charm quark mass from τ-chain.
 
-m_c = m_t(τ) × ι_τ^(105/23) = 172440 × 0.007391 = 1274.5 MeV.
+m_c = m_t(τ) × ι<sub>τ</sub>^(105/23) = 172440 × 0.007391 = 1274.5 MeV.
 Exponent: 105/23 = dim·W₃(4)·n_H / (a₃ + 2·W₃(4))
 = 3 × 5 × 7 / (13 + 10).
 At +1150 ppm from PDG 1273 ± 4 MeV (0.4σ).
@@ -6529,7 +6529,7 @@ Tau.BookIV.Particles.StrangeMassRatio :Type**
 
 [IV.T192] Strange quark mass from τ-chain.
 
-m_s = m_b(τ) × ι_τ^(53/15) = 4174.4 × 0.02241 = 93.55 MeV.
+m_s = m_b(τ) × ι<sub>τ</sub>^(53/15) = 4174.4 × 0.02241 = 93.55 MeV.
 Exponent: 53/15 = (4·a₃ + 1) / (dim·W₃(4))
 = (4×13 + 1) / (3×5).
 At +1559 ppm from PDG 93.4 ± 0.8 MeV (0.2σ).
@@ -6604,7 +6604,7 @@ Tau.BookIV.Particles.BottomMass :Type**
 
 [IV.T193] Bottom quark mass from τ-chain.
 
-m_b = (17/20)·ι_τ^(-20/13)·m_n = 4174.4 MeV.
+m_b = (17/20)·ι<sub>τ</sub>^(-20/13)·m_n = 4174.4 MeV.
 Combined exponent: -20/13 = -lobes²·W₃(4)/a₃ = -4×5/13.
 At -1351 ppm from PDG 4180 ± 7 MeV (0.8σ).
 
@@ -6738,7 +6738,7 @@ Tau.BookIV.Particles.DownStrangeRatio :Type**
 
 
 [IV.P219] m_d/m_s prediction.
-m_d/m_s = ι_τ^(64/23) = 0.05022.
+m_d/m_s = ι<sub>τ</sub>^(64/23) = 0.05022.
 Exponent: 64/23 = lobes^6 / (a₃ + 2·W₃(4)) = 2⁶/23.
 At -1921 ppm from PDG 0.05032.
 
@@ -6933,17 +6933,17 @@ Tau.BookIV.Particles.GenerationEigenvalueSpectrum :Type**
 
 
 [IV.D379] Generation eigenvalue spectrum on anisotropic T².
-λ_{(n,m)} = n² + m²·ι_τ⁻². Three primitive winding classes
-give eigenvalues 1, ι_τ⁻² ≈ 8.585, 1+ι_τ⁻² ≈ 9.585.
+λ_{(n,m)} = n² + m²·ι<sub>τ</sub>⁻². Three primitive winding classes
+give eigenvalues 1, ι<sub>τ</sub>⁻² ≈ 8.585, 1+ι<sub>τ</sub>⁻² ≈ 9.585.
 
 - lam_10_x1000 : ℕ
 λ(1,0) = 1 (×1000).
 
 - lam_01_x1000 : ℕ
-λ(0,1) = ι_τ⁻² (×1000).
+λ(0,1) = ι<sub>τ</sub>⁻² (×1000).
 
 - lam_11_x1000 : ℕ
-λ(1,1) = 1 + ι_τ⁻² (×1000).
+λ(1,1) = 1 + ι<sub>τ</sub>⁻² (×1000).
 
 - lam_11_sum : self.lam_11_x1000 = self.lam_10_x1000 + self.lam_01_x1000
 λ(1,1) = λ(1,0) + λ(0,1).
@@ -7339,7 +7339,7 @@ Tau.BookIV.Particles.UpQuarkDirect :Type**
 
 
 [IV.T197] Up quark direct mass from exponent duality.
-m_u = (17/20)·ι_τ^(11/2)·m_n = 2.161 MeV at +395 ppm.
+m_u = (17/20)·ι<sub>τ</sub>^(11/2)·m_n = 2.161 MeV at +395 ppm.
 
 - exp_num : ℕ
 Exponent numerator.
@@ -7542,7 +7542,7 @@ Tau.BookIV.Particles.WolfensteinANLO :Type**
 
 
 [IV.D381] Wolfenstein A NLO: confinement correction.
-A_NLO = A_LO·(1-ι_τ³) = 0.7925 at +3109 ppm.
+A_NLO = A_LO·(1-ι<sub>τ</sub>³) = 0.7925 at +3109 ppm.
 
 - a_lo_x10000 : ℕ
 A_LO (×10000).
@@ -7563,7 +7563,7 @@ NLO deviation ppm.
 Improvement factor.
 
 - correction_exponent : ℕ
-Correction is ι_τ^dim(τ³).
+Correction is ι<sub>τ</sub>^dim(τ³).
 
 Instances For
 
@@ -7612,7 +7612,7 @@ Tau.BookIV.Particles.JarlskogNLO :Type**
 
 
 [IV.T198] Jarlskog NLO at +2624 ppm.
-J_NLO = J_LO·(1+ι_τ³) = 3.088×10⁻⁵.
+J_NLO = J_LO·(1+ι<sub>τ</sub>³) = 3.088×10⁻⁵.
 
 - j_nlo_x1e7 : ℕ
 J_NLO (×10⁷).
@@ -8275,8 +8275,8 @@ Tau.BookIV.Particles.Theta23NNLO :Type**
 
 
 [IV.T206] θ₂₃ NNLO from holonomy-at-window-squared.
-sin(θ₂₃) = (1−ι_τ⁵)/(1+ι_τ) × (1−ι_τ²/W₃(4)²)
-= (1−ι_τ⁵)/(1+ι_τ) × (1−ι_τ²/25)
+sin(θ₂₃) = (1−ι<sub>τ</sub>⁵)/(1+ι<sub>τ</sub>) × (1−ι<sub>τ</sub>²/W₃(4)²)
+= (1−ι<sub>τ</sub>⁵)/(1+ι<sub>τ</sub>) × (1−ι<sub>τ</sub>²/25)
 sin²θ₂₃ = 0.5457 at −494 ppm from PDG 0.546.
 94% improvement from NLO (+8604 ppm).
 Universal NNLO pattern: W₃(4)²=25 denominator shared with m_μ/m_e.
@@ -8285,7 +8285,7 @@ Universal NNLO pattern: W₃(4)²=25 denominator shared with m_μ/m_e.
 NNLO correction denominator = W₃(4)².
 
 - holonomy_power : ℕ
-Holonomy power in correction (ι_τ²).
+Holonomy power in correction (ι<sub>τ</sub>²).
 
 - sin2_x10000 : ℕ
 sin²θ₂₃ × 10000.
@@ -8360,8 +8360,8 @@ Tau.BookIV.Particles.DeltaCPNLO :Type**
 
 
 [IV.T207] δ_CP NLO from fiber correction.
-δ_CP = π + arctan(ι_τ·(1−ι_τ³)) = 198.11°
-Fiber correction (1−ι_τ³) = confinement screening at ι_τ^dim(τ³).
+δ_CP = π + arctan(ι<sub>τ</sub>·(1−ι<sub>τ</sub>³)) = 198.11°
+Fiber correction (1−ι<sub>τ</sub>³) = confinement screening at ι<sub>τ</sub>^dim(τ³).
 Same correction as CKM Jarlskog NLO (IV.T198).
 PDG: 197° ± 25°. Deviation: +5645 ppm (was +9365), 40% improvement.
 

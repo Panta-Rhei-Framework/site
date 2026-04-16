@@ -58,21 +58,21 @@ the entire τ-to-SI calibration.
 
 
 The five relational quantities (M, L, H, Q, R) in the paper reduce
-to one free parameter plus ι_τ:
+to one free parameter plus ι<sub>τ</sub>:
 
 
 - M = m_n (the single anchor)
 
-- R = f(ι_τ) (mass ratio, determined by depth ordering)
+- R = f(ι<sub>τ</sub>) (mass ratio, determined by depth ordering)
 
-- L = g(ι_τ, m_n) (length scale)
+- L = g(ι<sub>τ</sub>, m_n) (length scale)
 
-- H = h(ι_τ, m_n) (frequency scale)
+- H = h(ι<sub>τ</sub>, m_n) (frequency scale)
 
 - Q = e (elementary charge, exact SI value)
 
 
-The exact formulas for R(ι_τ) and the torus shape → r_n derivation
+The exact formulas for R(ι<sub>τ</sub>) and the torus shape → r_n derivation
 are established in Parts III–IV of Book IV.
 
 ### Ontological Priority
@@ -184,14 +184,14 @@ Tau.BookIV.Calibration.TauToSIConversion :Type**
 In τ-native units: m_n = 1 (neutron mass defines the unit).
 The conversion factor Λ_M = m_n(SI) / m_n(τ) = m_n(SI).
 
-All masses: m_x(SI) = Λ_M × r_x(ι_τ)
+All masses: m_x(SI) = Λ_M × r_x(ι<sub>τ</sub>)
 where r_x is the τ-native mass ratio for particle x.
 
 - name : String
 Name of the dimensional quantity.
 
 - lambda_numer : ℕ
-Conversion factor numerator: Λ × f(ι_τ).
+Conversion factor numerator: Λ × f(ι<sub>τ</sub>).
 
 - lambda_denom : ℕ
 Conversion factor denominator.
@@ -251,8 +251,8 @@ Tau.BookIV.Calibration.DimensionalFactorization :Type**
 
 
 Every dimensional constant in the τ-framework factors as:
-constant(SI) = Λ_M^a × f(ι_τ) × (geometric factors)
-where a is the mass dimension and f(ι_τ) is a rational function.
+constant(SI) = Λ_M^a × f(ι<sub>τ</sub>) × (geometric factors)
+where a is the mass dimension and f(ι<sub>τ</sub>) is a rational function.
 
 - name : String
 Name of the constant.
@@ -261,10 +261,10 @@ Name of the constant.
 Mass dimension (power of Λ_M).
 
 - iota_factor_numer : ℕ
-ι_τ-dependent factor numerator.
+ι<sub>τ</sub>-dependent factor numerator.
 
 - iota_factor_denom : ℕ
-ι_τ-dependent factor denominator.
+ι<sub>τ</sub>-dependent factor denominator.
 
 - denom_pos : self.iota_factor_denom > 0
 Denominator is positive.
@@ -304,7 +304,7 @@ Tau.BookIV.Calibration.parameter_count :0 = 0 ∧ neutron_anchor.is_sole_anchor 
 
 
 [IV.T05] Parameter count: exactly ONE free parameter (the neutron mass).
-All dimensionless quantities are fixed by ι_τ = 2/(π+e).
+All dimensionless quantities are fixed by ι<sub>τ</sub> = 2/(π+e).
 All dimensional quantities factor through the single anchor Λ_M = m_n(SI).
 
 ---
@@ -428,7 +428,7 @@ Tau.BookIV.Calibration.tau_collapse :relational_quantities.length = 5 ∧ (List.
 
 
 [IV.T06] 5→1 collapse: of 5 relational quantities,
-exactly 1 is the anchor and 3 are ι_τ-derived
+exactly 1 is the anchor and 3 are ι<sub>τ</sub>-derived
 (plus 1 SI-exact).
 
 ---

@@ -310,7 +310,7 @@ Tau.BookV.Temporal.RefinementRate :Type**
 [V.D26] Refinement progression rate H(n): how fast the tower advances.
 
 H(n) := 1 / Δt(n) where Δt(n) is the proper-time increment of tick n.
-Since Δt(n) ι_τ^n, H(n) ι_τ^(-n): the progression rate is
+Since Δt(n) ι<sub>τ</sub>^n, H(n) ι<sub>τ</sub>^(-n): the progression rate is
 exponentially large at early depths and decays with tower depth.
 
 This is the τ-native Hubble parameter:
@@ -330,7 +330,7 @@ Depth at which this rate is evaluated.
 Depth is positive.
 
 - rate_numer : ℕ
-Rate numerator (proportional to ι_τ^(-n)).
+Rate numerator (proportional to ι<sub>τ</sub>^(-n)).
 
 - rate_denom : ℕ
 Rate denominator.
@@ -405,7 +405,7 @@ Tau.BookV.Temporal.InflationaryInterpretation :Type**
 
 [V.R33] The inflationary epoch corresponds to rapid early progression.
 
-In the opening regime, H(n) is exponentially large (ι_τ^(-n) with
+In the opening regime, H(n) is exponentially large (ι<sub>τ</sub>^(-n) with
 small n). This maps to the inflationary epoch in orthodox cosmology:
 
 

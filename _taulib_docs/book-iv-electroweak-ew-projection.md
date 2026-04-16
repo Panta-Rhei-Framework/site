@@ -83,7 +83,7 @@ gravity + Z⁰ + Higgs
 This is the EW analogue of the OQ.11/OQ-A1 resolution:
 
 
-- OQ.11: 11/15 = EM-active / total → α = (11/15)²·ι_τ⁴
+- OQ.11: 11/15 = EM-active / total → α = (11/15)²·ι<sub>τ</sub>⁴
 
 - OQ-B2: 5/7 = EW-active / complement → NLO coefficient
 
@@ -323,7 +323,7 @@ Tau.BookIV.Electroweak.EWProjection.ew_density_equals_window_ratio :ewActiveMode
 
 [IV.T138] Bridge theorem: the EW mode density equals the CF window ratio.
 |V_EW| = W₃(4) = 5 and |V_complement| = W₃(3) − 2·W₃(4) = 7.
-This links the structural partition to the CF algebra of ι_τ.
+This links the structural partition to the CF algebra of ι<sub>τ</sub>.
 
 ---
 
@@ -360,7 +360,7 @@ Derivation chain:
 - NLO: sin²θ_W = ι(1−ι) · (1 + (5/7)·ι³) at 86 ppm
 
 
-Residual open: WHY does CF[ι_τ] match the mode census?
+Residual open: WHY does CF[ι<sub>τ</sub>] match the mode census?
 (CF Compression Thesis — foundational, beyond series scope)
 Equations
 - Tau.BookIV.Electroweak.EWProjection.remark_oq_b2_resolved = "OQ-B2 RESOLVED: 5/7 = EW projection density on A_spec(L). " ++ "V_EW (5) / V_complement (7) from carrier + polarity + mixing rules."

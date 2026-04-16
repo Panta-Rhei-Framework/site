@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.Electroweak.EWSynthesis
 lean_name: Tau.BookIV.Electroweak.FrameworkComparison
 summary: 'Free parameter count: Standard Model ~19, MSSM ~105+, Category τ = 0. All
-  SM parameters derived from ι_τ = 2/(π+e). Einstein''s dream of no arbitrary constants
+  SM parameters derived from ι<sub>τ</sub> = 2/(π+e). Einstein''s dream of no arbitrary constants
   realized.'
 depends_on:
 - IV.T67

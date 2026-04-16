@@ -11,8 +11,8 @@ observable: "Bz / B_φ (jet)"
 observable_mathml: "fiber vs. base"
 formula_plain: "fiber vs. base"
 formula_mathml: "fiber vs. base"
-formula_display: "B_z/B_φ = fiber/base ≈ ι_τ ≈ 0.3"
-tau_value: "ι_τ"
+formula_display: "B_z/B_φ = fiber/base ≈ ι<sub>τ</sub> ≈ 0.3"
+tau_value: "ι<sub>τ</sub>"
 observed_value: "≈!0.3"
 deviation: "∼ 10%"
 precision_tier: "structural"
@@ -22,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "V"
-summary_short: "Jet Magnetic Field Ratio B_z/B_φ: τ-value ι_τ, observed ≈!0.3, deviation ∼ 10%."
+summary_short: "Jet Magnetic Field Ratio B_z/B_φ: τ-value ι<sub>τ</sub>, observed ≈!0.3, deviation ∼ 10%."
 right_rail:
   toc: false
   related:
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**B_z/B_φ = fiber/base ≈ ι_τ ≈ 0.3**
+**B_z/B_φ = fiber/base ≈ ι<sub>τ</sub> ≈ 0.3**
 
 ## Derivation
 
@@ -56,7 +56,7 @@ that collimates the jet,
 while the axial component $B_z$
 originates from the topologically protected $Φ_pol$.
 The equilibrium condition
-$θ_jet ≤ B_z/B_ = ι_τ$
+$θ_jet ≤ B_z/B_ = ι<sub>τ</sub>$
 independently recovers the jet collimation angle
 $θ_jet ≤ 20^$
 (Theorem (thm:ch40-jet-hoop-stress)).
@@ -65,7 +65,7 @@ VLBI observations of AGN jets
 at sub-parsec scales
 measure $B_z/B_ ∼ 0.2$–$0.5$,
 consistent with the $τ$-prediction
-$ι_τ ≈ 0.341$.
+$ι<sub>τ</sub> ≈ 0.341$.
 The ratio is a zero-parameter prediction,
 testable with improved VLBI polarimetry.
 

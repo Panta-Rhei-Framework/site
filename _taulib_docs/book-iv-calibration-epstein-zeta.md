@@ -26,7 +26,7 @@ right_rail:
 # TauLib.BookIV.Calibration.EpsteinZeta
 
 
-The Epstein zeta function Z(s; iι_τ) on the torus T² with shape parameter ι_τ.
+The Epstein zeta function Z(s; iι<sub>τ</sub>) on the torus T² with shape parameter ι<sub>τ</sub>.
 
 ## Registry Cross-References
 
@@ -55,17 +55,17 @@ Z(s; iτ) = Σ'_{(m,n) ∈ ℤ²} (m² + τ²n²)^{-s}
 
 where the prime denotes omission of (m,n) = (0,0).
 
-For our torus T² with shape ι_τ = 2/(π+e):
+For our torus T² with shape ι<sub>τ</sub> = 2/(π+e):
 
 ```
-Z(s; iι_τ) = Σ'_{(m,n)} (m² + ι_τ²n²)^{-s}
+Z(s; iι<sub>τ</sub>) = Σ'_{(m,n)} (m² + ι<sub>τ</sub>²n²)^{-s}
 ```
 
 
 ### Chowla-Selberg Formula at s = 4
 
 
-Z(4; iι_τ) = 2ζ(8) + C(4)·ι_τ^(-7) + Bessel_sum
+Z(4; iι<sub>τ</sub>) = 2ζ(8) + C(4)·ι<sub>τ</sub>^(-7) + Bessel_sum
 
 where:
 
@@ -74,7 +74,7 @@ where:
 
 - C(4) = (5π/8)·ζ(7) ≈ 1.985 (the leading coefficient)
 
-- Leading term: C(4)·ι_τ^(-7) ≈ 1985 × (1/ι_τ)^7 dominates
+- Leading term: C(4)·ι<sub>τ</sub>^(-7) ≈ 1985 × (1/ι<sub>τ</sub>)^7 dominates
 
 - Bessel sum: exponentially suppressed corrections
 
@@ -83,19 +83,19 @@ where:
 
 
 At s = 4, the Chowla-Selberg leading term has exponent 1 - 2s = 1 - 8 = -7.
-This is why ι_τ^(-7) appears as the bulk term in the mass ratio formula.
+This is why ι<sub>τ</sub>^(-7) appears as the bulk term in the mass ratio formula.
 
 ### Numerical Result (from holonomy_correction_lab.py)
 
 
-Z(4; iι_τ) ≈ 10911.756 (lattice sum, N_max = 300)
+Z(4; iι<sub>τ</sub>) ≈ 10911.756 (lattice sum, N_max = 300)
 N = Z(4)/R ≈ 5.935 (normalization factor, NOT algebraic)
 
 ## Scope
 
 
 All claims in this module are **tau-effective**: they follow from the
-τ-framework's identification of the torus T² with shape ι_τ.
+τ-framework's identification of the torus T² with shape ι<sub>τ</sub>.
 
 ## Ground Truth Sources
 
@@ -121,7 +121,7 @@ Tau.BookIV.Calibration.EpsteinZetaStructure :Type**
 Z(s; iτ) = Σ'_{(m,n) ∈ ℤ²} (m² + τ²n²)^{-s}
 
 The lattice is determined by the shape parameter τ (aspect ratio).
-For the τ-framework torus, τ = ι_τ = 2/(π+e).
+For the τ-framework torus, τ = ι<sub>τ</sub> = 2/(π+e).
 
 - shape_numer : ℕ
 Shape parameter numerator (rational approximation).
@@ -172,7 +172,7 @@ Instances For
 Tau.BookIV.Calibration.epstein_at_T2 :EpsteinZetaStructure**
 
 
-The Epstein zeta function for T² with shape ι_τ at s = 4.
+The Epstein zeta function for T² with shape ι<sub>τ</sub> at s = 4.
 Equations
 - Tau.BookIV.Calibration.epstein_at_T2 = { shape_numer := Tau.Boundary.iota_tau_numer, shape_denom := Tau.Boundary.iota_tau_denom,
  denom_pos := Tau.Boundary.iota_tau_denom_pos, eval_point := 4 }
@@ -189,10 +189,10 @@ Tau.BookIV.Calibration.ChowlaSelbergTerms :Type**
 
 [IV.D41] The three terms of the Chowla-Selberg decomposition.
 
-Z(s; iι_τ) = Term1 + Term2 + Term3
+Z(s; iι<sub>τ</sub>) = Term1 + Term2 + Term3
 
 Term1 = 2ζ(2s) (constant, negligible at large s)
-Term2 = C(s)·ι_τ^(1-2s) (leading power-law term)
+Term2 = C(s)·ι<sub>τ</sub>^(1-2s) (leading power-law term)
 Term3 = Bessel_sum (exponentially suppressed)
 
 - s : ℕ
@@ -257,9 +257,9 @@ Tau.BookIV.Calibration.leading_exponent_is_neg7 :chowla_selberg_s4.leading_exp =
 
 [IV.T10] The Chowla-Selberg leading exponent at s = 4 is -7.
 
-This is the origin of ι_τ^(-7) in the mass ratio formula:
-the Epstein zeta function Z(4; iι_τ) has its leading term
-proportional to ι_τ^(1-2×4) = ι_τ^(-7).
+This is the origin of ι<sub>τ</sub>^(-7) in the mass ratio formula:
+the Epstein zeta function Z(4; iι<sub>τ</sub>) has its leading term
+proportional to ι<sub>τ</sub>^(1-2×4) = ι<sub>τ</sub>^(-7).
 
 ---
 
@@ -343,9 +343,9 @@ Equations
 Tau.BookIV.Calibration.NAxisDominance :Type**
 
 
-The n-axis modes dominate Z(4; iι_τ).
+The n-axis modes dominate Z(4; iι<sub>τ</sub>).
 Numerical result: Z_{n-axis} / Z(4) ≈ 99.95%.
-This is because ι_τ < 1 amplifies the n-axis contribution
+This is because ι<sub>τ</sub> < 1 amplifies the n-axis contribution
 (small shape parameter = elongated torus).
 
 - dominance_lower_bound : ℕ
@@ -402,9 +402,9 @@ Instances For
 Tau.BookIV.Calibration.NormalizationRemark :Type**
 
 
-[IV.R10] The normalization N = Z(4; iι_τ)/R ≈ 5.935 is NOT algebraic.
+[IV.R10] The normalization N = Z(4; iι<sub>τ</sub>)/R ≈ 5.935 is NOT algebraic.
 
-Z(4; iι_τ) ≈ 10912 (total zeta value)
+Z(4; iι<sub>τ</sub>) ≈ 10912 (total zeta value)
 R ≈ 1838.68 (mass ratio)
 N = Z(4)/R ≈ 5.935 (not a simple ratio)
 
@@ -417,7 +417,7 @@ is dissolved once we recognize R as the ratio of Hilbert-space
 norms, not as Z(4) divided by something.
 
 - z4_approx_scaled : ℕ
-Z(4; iι_τ) approximate value (scaled ×1000).
+Z(4; iι<sub>τ</sub>) approximate value (scaled ×1000).
 
 - r_approx_scaled : ℕ
 R approximate value (scaled ×1000).
@@ -459,7 +459,7 @@ Instances For
 Tau.BookIV.Calibration.shape_is_iota :epstein_at_T2.shape_numer = Boundary.iota_tau_numer ∧ epstein_at_T2.shape_denom = Boundary.iota_tau_denom**
 
 
-The shape parameter matches ι_τ.
+The shape parameter matches ι<sub>τ</sub>.
 
 ---
 

@@ -860,7 +860,7 @@ applied to the NeuralDefectTower (VI.D88).
 H_i = R_max(i) / r_i, where R_max(i) is the repair budget
 allocated to Level i and r_i is the defect accumulation rate.
 Overall cognitive Hayflick bound: H_neural = min(H₁,H₂,H₃,H₄).
-Connects to Book V: the geometric decay rate (1−ι_τ)^n (V.T62)
+Connects to Book V: the geometric decay rate (1−ι<sub>τ</sub>)^n (V.T62)
 governs the baseline defect accumulation at each level.
 Scope: τ-effective.
 
@@ -938,7 +938,7 @@ Alzheimer's: H₁ exhausted first (molecular repair depleted).
 Parkinson's: H₃ exhausted first (circuit repair depleted).
 Normal aging: all H_i > organismal limit (no level crosses first).
 The neural Hayflick bound is a sector-specific instance of the
-universal defect exhaustion (V.T62/VI.P16), with (1−ι_τ)^n
+universal defect exhaustion (V.T62/VI.P16), with (1−ι<sub>τ</sub>)^n
 governing the baseline.
 Scope: τ-effective.
 

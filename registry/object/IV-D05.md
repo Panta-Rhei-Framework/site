@@ -13,9 +13,9 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Sectors.SectorParameters
 lean_name: Tau.BookIV.Sectors.gravity_sector
-summary: 'D-sector instantiation: α-generator, self-coupling κ(D;1) = 1−ι_τ, χ₊-dominant
+summary: 'D-sector instantiation: α-generator, self-coupling κ(D;1) = 1−ι<sub>τ</sub>, χ₊-dominant
   polarity, depth 1. Temporal sector on base τ¹. Physical: frame holonomy, gravitational
-  constant G = (c³/ℏ)·ι_τ².'
+  constant G = (c³/ℏ)·ι<sub>τ</sub>².'
 depends_on:
 - IV.D01
 - III.D13

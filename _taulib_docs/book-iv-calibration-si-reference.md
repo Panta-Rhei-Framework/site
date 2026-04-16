@@ -305,7 +305,7 @@ Tau.BookIV.Calibration.si_alpha_inverse :SIConstant**
 
 
 Fine-structure constant inverse: 1/α = 137.035 999 084(21).
-τ-spectral approximation: (8/15)·ι_τ⁴ → 1/α ≈ 137.9.
+τ-spectral approximation: (8/15)·ι<sub>τ</sub>⁴ → 1/α ≈ 137.9.
 Stored as 137035999084 / 10⁹.
 Equations
 - One or more equations did not get rendered due to their size.
@@ -321,7 +321,7 @@ Tau.BookIV.Calibration.si_weinberg_sin2 :SIConstant**
 
 
 Weinberg angle: sin²θ_W = 0.23121(4) (on-shell, CODATA 2022).
-τ-candidate: κ(A,D) = ι_τ(1−ι_τ) ≈ 0.2249.
+τ-candidate: κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>) ≈ 0.2249.
 Stored as 23121 / 100000.
 Equations
 - Tau.BookIV.Calibration.si_weinberg_sin2 = { name := "Weinberg angle sin²θ_W", numer := 23121, denom := 100000,
@@ -338,7 +338,7 @@ Tau.BookIV.Calibration.si_strong_coupling :SIConstant**
 
 
 Strong coupling: α_s(M_Z) = 0.1180(9).
-τ-candidate: 2·κ(C) = 2·ι_τ³/(1−ι_τ) ≈ 0.1208.
+τ-candidate: 2·κ(C) = 2·ι<sub>τ</sub>³/(1−ι<sub>τ</sub>) ≈ 0.1208.
 Stored as 1180 / 10000.
 Equations
 - One or more equations did not get rendered due to their size.
@@ -354,7 +354,7 @@ Tau.BookIV.Calibration.si_mass_ratio :SIConstant**
 
 
 Neutron-to-electron mass ratio: R = m_n/m_e = 1838.683 661 73(89).
-Dimensionless — determined by ι_τ via depth ordering in the τ-framework.
+Dimensionless — determined by ι<sub>τ</sub> via depth ordering in the τ-framework.
 Stored as 183868366173 / 10⁸.
 Equations
 - One or more equations did not get rendered due to their size.
@@ -418,7 +418,7 @@ Tau.BookIV.Calibration.si_tau_length :SIConstant**
 
 τ length scale: L = (π/2)·r_n ≈ 1.32 × 10⁻¹⁵ m.
 From the paper's measured neutron charge radius r_n ≈ 0.84 fm.
-In the τ-framework: determined by torus shape ratio r/R = ι_τ.
+In the τ-framework: determined by torus shape ratio r/R = ι<sub>τ</sub>.
 Stored as 132 / 10¹⁷.
 Equations
 - Tau.BookIV.Calibration.si_tau_length = { name := "τ length scale L", numer := 132, denom := 100000000000000000,

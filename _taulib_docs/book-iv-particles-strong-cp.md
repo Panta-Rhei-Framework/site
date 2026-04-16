@@ -139,7 +139,7 @@ Tau.BookIV.Particles.neutron_edm_zero :True**
 
 The neutron electric dipole moment d_n = 0 exactly because
 d_n ∝ θ_QCD × α_s/(2π) = 0.
-Here α_s = 2κ(C;3) = 2·ι_τ³/(1−ι_τ) ≈ 0.1207 (PDG: 0.1179).
+Here α_s = 2κ(C;3) = 2·ι<sub>τ</sub>³/(1−ι<sub>τ</sub>) ≈ 0.1207 (PDG: 0.1179).
 Consistent with the experimental bound |d_n| < 1.8×10⁻²⁶ e·cm (PDG).
 Note: this is not a suppressed value but exactly zero.
 Scope: tau-effective (follows from IV.T160 which is tau-effective).

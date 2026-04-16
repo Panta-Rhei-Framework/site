@@ -8,10 +8,10 @@ prediction_id: "pred-033"
 domain: "cosmology"
 domain_display: "Cosmology"
 observable: "r"
-observable_mathml: "<math><mi>ι_τ⁴</mi></math>"
-formula_plain: "ι_τ⁴"
-formula_mathml: "<math><mi>ι_τ⁴</mi></math>"
-formula_display: "r = ι_τ^(2·dim(T²)) = ι_τ⁴ ≈ 0.0136"
+observable_mathml: "<math><mi>ι<sub>τ</sub>⁴</mi></math>"
+formula_plain: "ι<sub>τ</sub>⁴"
+formula_mathml: "<math><mi>ι<sub>τ</sub>⁴</mi></math>"
+formula_display: "r = ι<sub>τ</sub>^(2·dim(T²)) = ι<sub>τ</sub>⁴ ≈ 0.0136"
 tau_value: "0.0136"
 observed_value: "< 0.036"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**r = ι_τ^(2·dim(T²)) = ι_τ⁴ ≈ 0.0136**
+**r = ι<sub>τ</sub>^(2·dim(T²)) = ι<sub>τ</sub>⁴ ≈ 0.0136**
 
 ## Derivation
 
@@ -53,11 +53,11 @@ $τ^3 = τ^1 ×_f T^2$:
 
 r
 \;=\;
-ι_τ^\,2 · (T^2)
+ι<sub>τ</sub>^\,2 · (T^2)
 \;=\;
-ι_τ^2 × 2
+ι<sub>τ</sub>^2 × 2
 \;=\;
-ι_τ^4
+ι<sub>τ</sub>^4
 \;≈\;
 0.01357.
 
@@ -73,7 +73,7 @@ are boundary-character fluctuations
 of the full arena $τ^3$,
 coupling to both fiber circles of $T^2$.
 - Each fiber dimension contributes
-a breathing-fraction suppression $ι_τ$
+a breathing-fraction suppression $ι<sub>τ</sub>$
 to the scalar amplitude
 relative to the tensor amplitude.
 - The power spectrum

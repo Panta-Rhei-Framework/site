@@ -14,8 +14,8 @@ formalization: formalized
 lean_module: TauLib.BookIII.Sectors.ParityBridge
 lean_name: coupling_ledger
 summary: 'The No Knobs Ledger: systematic inventory of all inter-sector couplings.
-  10 entries (4 self-couplings + 6 cross-couplings). Each entry κ(S_i, S_j) = f_{ij}(ι_τ,
-  M_d) is a specific rational function of ι_τ evaluated at a specific primorial depth.'
+  10 entries (4 self-couplings + 6 cross-couplings). Each entry κ(S_i, S_j) = f_{ij}(ι<sub>τ</sub>,
+  M_d) is a specific rational function of ι<sub>τ</sub> evaluated at a specific primorial depth.'
 depends_on:
 - III.D13
 - III.T08

@@ -82,11 +82,11 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 
 - [ABC Conjecture](/results/problem/abc-conjecture/) — Not Addressed
 - [Arrow of Time from Orbit Direction: Unique and Irreversible](/results/problem/arrow-of-time-orbit/) — Resolved
-- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι_τ with CF Window NLO](/results/problem/axial-coupling-g-a-5pt5-ppm/) — Resolved
-- [Baryogenesis: η_B = α·ι_τ¹⁵·(5/6) at −1%](/results/problem/baryogenesis-eta-b/) — Resolved
+- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO](/results/problem/axial-coupling-g-a-5pt5-ppm/) — Resolved
+- [Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%](/results/problem/baryogenesis-eta-b/) — Resolved
 - [Black Holes Across E1–E3](/results/problem/black-holes-across-e1-e3/) — Resolved
 - [BSD Conjecture Approach](/results/problem/bsd-conjecture-approach/) — Partial
-- [Cabibbo Angle: sin θ_C = ι_τ(1 − ι_τ) at −2327 ppm](/results/problem/cabibbo-angle/) — Resolved
+- [Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm](/results/problem/cabibbo-angle/) — Resolved
 - [Canonical Ladder: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ Is the Unique Maximal Enrichment Chain](/results/problem/canonical-ladder-theorem/) — Resolved
 - [Cantor Diagonal Inapplicability](/results/problem/cantor-diagonal-inapplicability/) — Resolved
 - [Categoricity of Tau](/results/problem/categoricity-of-tau/) — Resolved
@@ -99,18 +99,18 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Ethics / Normativity Across E2–E3](/results/problem/ethics-normativity-across-e2-e3/) — Resolved
 - [Exactly Three Colors: N_c = 3 from Primorial Depth](/results/problem/three-colors-derived/) — Resolved
 - [Fibration Structure τ³ = τ¹ ×_f T²](/results/problem/fibration-structure-f-t/) — Resolved
-- [Fine-Structure Constant α⁻¹ = 137.036 from ι_τ](/results/problem/fine-structure-constant-alpha-inverse-137/) — Resolved
+- [Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>](/results/problem/fine-structure-constant-alpha-inverse-137/) — Resolved
 - [Fourth Quadrant Resolution: QM and GR Unified in τ](/results/problem/fourth-quadrant-resolution/) — Resolved
 - [Fundamental Theorem of Arithmetic](/results/problem/fundamental-theorem-of-arithmetic/) — Resolved
 - [Global Hartogs Extension: Boundary Determines Interior](/results/problem/global-hartogs-extension/) — Resolved
 - [Goldbach Conjecture](/results/problem/goldbach-conjecture/) — Not Addressed
 - [Grand GRH Approach](/results/problem/grand-grh-approach/) — Partial
-- [Gravitational Constant from ι_τ: α_G at 3 ppm](/results/problem/gravitational-constant-from-iota-tau/) — Resolved
+- [Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm](/results/problem/gravitational-constant-from-iota-tau/) — Resolved
 - [Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ](/results/problem/goedel-avoidance/) — Resolved
 - [Helium-4 Primordial Abundance Y_p = 20/81 at 0.43σ from Planck](/results/problem/helium-4-abundance-y-p-20-over-81/) — Resolved
 - [Hinge Theorem: Books IV–VII Are Sector Instantiations of Book III](/results/problem/hinge-theorem-no-knobs/) — Resolved
 - [Hodge Conjecture Approach](/results/problem/hodge-conjecture-approach/) — Partial
-- [Hubble Tension Resolved: h = 2/3 + ι_τ²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — Resolved
+- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — Resolved
 - [Hyperfactorization](/results/problem/hyperfactorization/) — Resolved
 - [Hyperfactorization: Every Object Has a Unique Canonical Normal Form](/results/problem/hyperfactorization-theorem/) — Resolved
 - [Identity as NF-Address Persistence: Personal Identity Across Change](/results/problem/identity-as-nf-address-persistence/) — Resolved
@@ -213,7 +213,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [CKM Unitarity and Cabibbo Anomaly](/results/problem/ckm-unitarity-and-cabibbo-anomaly/) — Partial
 - [CMB First Peak ℓ₁: LO at +2840 ppm, NLO at +69 ppm](/results/problem/cmb-first-peak/) — Resolved
 - [Cosmological Flatness Ω_k = 0 Exact from τ³ Compactness](/results/problem/cosmological-flatness-omega-k-zero/) — Resolved
-- [Crossing-Limit Theorem: Merger Networks Converge to ι_τ](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — Resolved
+- [Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — Resolved
 - [Dark Energy Equation of State](/results/problem/dark-energy-equation-of-state/) — Resolved
 - [Dark Sector Closure](/results/problem/dark-sector-closure/) — Resolved
 - [DESI BAO](/results/problem/desi-bao/) — Resolved
@@ -257,7 +257,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Silk Damping Scale](/results/problem/silk-damping-scale/) — Resolved
 - [Spectral Index n_s = 1 – 2/N_e Derived from N_e = 57](/results/problem/spectral-index-ns-from-inflation/) — Partial
 - [Strong Coupling α_s at the Z Pole](/results/problem/strong-coupling-s-at-the-z-pole/) — Resolved
-- [Tensor-to-Scalar Ratio r = ι_τ⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — Resolved
+- [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — Resolved
 - [Theta_QCD = 0 / Strong CP Problem](/results/problem/theta-qcd-0-strong-cp-problem/) — Resolved
 - [Tully-Fisher Relation](/results/problem/tully-fisher-relation/) — Resolved
 - [Vacuum Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) — Resolved

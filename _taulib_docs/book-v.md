@@ -37,7 +37,7 @@ gravity, cosmology, black holes, thermodynamics, life.
 ### Gravity (Part I: Gravitational Foundation)
 
 
-- `GravitationalConstant`: G_τ from torus vacuum geometry, shape ratio r/R = ι_τ
+- `GravitationalConstant`: G_τ from torus vacuum geometry, shape ratio r/R = ι<sub>τ</sub>
 
 - `EinsteinEquation`: τ-Einstein as boundary-character identity, κ_τ coupling
 
@@ -169,7 +169,7 @@ gravity, cosmology, black holes, thermodynamics, life.
 
 - `ThresholdLadder`: Six canonical thresholds EW→B→N→nuc→H→γ, nucleosynthesis, CMB
 
-- `BaryogenesisAsymmetry`: η_B = α·ι_τ¹⁵·(5/6) = (121/270)·ι_τ¹⁹ upgrade to τ-effective; exponent 15 = dim(τ³)×|gen|
+- `BaryogenesisAsymmetry`: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) = (121/270)·ι<sub>τ</sub>¹⁹ upgrade to τ-effective; exponent 15 = dim(τ³)×|gen|
 
 - `BHBirthTopology`: BH birth as topology crossing S²→T², linking class, information preservation
 
@@ -185,7 +185,7 @@ gravity, cosmology, black holes, thermodynamics, life.
 
 - `FalsificationPack`: 10 testable predictions across 3 falsification levels
 
-- `BoundaryUnification`: 6 Hartogs squares, cross-coupling naturality, ι_τ mediates all 10
+- `BoundaryUnification`: 6 Hartogs squares, cross-coupling naturality, ι<sub>τ</sub> mediates all 10
 
 
 ### Orthodox (Part VII: Orthodox Correspondence, ch58-66)

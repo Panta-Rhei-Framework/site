@@ -45,8 +45,8 @@ Neutrino background origin and density gradient monotonicity from the
 
 The cosmic neutrino background (CνB) originates from neutrino decoupling
 at T_dec ≈ 1.37 MeV (z_ν ≈ 5.8 × 10⁹). In the τ-framework, this is
-governed by the A-sector coupling κ(A;1) = ι_τ: when the thermal energy
-drops below the weak interaction scale set by ι_τ, neutrinos decouple.
+governed by the A-sector coupling κ(A;1) = ι<sub>τ</sub>: when the thermal energy
+drops below the weak interaction scale set by ι<sub>τ</sub>, neutrinos decouple.
 
 ### Density Gradient Monotonicity [V.T152]
 
@@ -74,7 +74,7 @@ Tau.BookV.Cosmology.NeutrinoBackgroundOrigin :Type**
 decoupling at T_dec ≈ 1.37 MeV.
 
 
-- Decoupling governed by A-sector coupling κ(A;1) = ι_τ
+- Decoupling governed by A-sector coupling κ(A;1) = ι<sub>τ</sub>
 
 - 3 neutrino species (from N_eff = 3, sector exhaustion V.T151)
 

@@ -8,10 +8,10 @@ prediction_id: "pred-026"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
 observable: "G"
-observable_mathml: "<math><mi>(c³/ℏ),ι_τ²</mi></math>"
-formula_plain: "(c³/ℏ),ι_τ²"
-formula_mathml: "<math><mi>(c³/ℏ),ι_τ²</mi></math>"
-formula_display: "G = (c³/ℏ) · ι_τ² ≈ 6.674 × 10⁻¹¹"
+observable_mathml: "<math><mi>(c³/ℏ),ι<sub>τ</sub>²</mi></math>"
+formula_plain: "(c³/ℏ),ι<sub>τ</sub>²"
+formula_mathml: "<math><mi>(c³/ℏ),ι<sub>τ</sub>²</mi></math>"
+formula_display: "G = (c³/ℏ) · ι<sub>τ</sub>² ≈ 6.674 × 10⁻¹¹"
 tau_value: "6.674!×!10⁻¹¹"
 observed_value: "CODATA"
 deviation: "∼ 3~ppm"
@@ -42,13 +42,13 @@ right_rail:
 
 ## τ-Formula
 
-**G = (c³/ℏ) · ι_τ² ≈ 6.674 × 10⁻¹¹**
+**G = (c³/ℏ) · ι<sub>τ</sub>² ≈ 6.674 × 10⁻¹¹**
 
 ## Derivation
 
 The gravitational constant G is derived in Book V, Chapter 6 (*High Energy and High Entropy at the Beginning*), as part of the Opening Regime Theorem (V.T11). In the τ-framework, G is not a free parameter — it is read out from the D-sector coupling structure of the boundary holonomy algebra.
 
-The τ-native expression for G follows from the identification of the D-sector (gravitational sector) coupling at depth 1: the gravitational coupling κ(D;1) = 1 − ι_τ = κ_D, combined with the dimensional calibration set by the neutron mass anchor (IV.D59). The gravitational constant emerges as G = (c³/ℏ) · ι_τ² in natural units, yielding G ≈ 6.674 × 10⁻¹¹ m³ kg⁻¹ s⁻² at approximately 3 ppm from the CODATA 2018 value.
+The τ-native expression for G follows from the identification of the D-sector (gravitational sector) coupling at depth 1: the gravitational coupling κ(D;1) = 1 − ι<sub>τ</sub> = κ_D, combined with the dimensional calibration set by the neutron mass anchor (IV.D59). The gravitational constant emerges as G = (c³/ℏ) · ι<sub>τ</sub>² in natural units, yielding G ≈ 6.674 × 10⁻¹¹ m³ kg⁻¹ s⁻² at approximately 3 ppm from the CODATA 2018 value.
 
 The derivation depends on the Opening Regime Theorem (V.T11), which establishes that at the ignition depth the gravitational character is at its maximum — the boundary holonomy algebra first supports stable oscillating modes, and the gravitational coupling is structurally fixed by the sector template.
 

@@ -42,12 +42,12 @@ and the base τ¹ (macrocosm, Book V)
 are two aspects of the single structure
 τ³ = τ¹ ×_f T²,
 governed by one master constant
-ι_τ = 2/(π + e).
+ι<sub>τ</sub> = 2/(π + e).
 Seventy-three chapters later,
 the Principle has been verified.
 Every coupling constant, every mass ratio,
 every gravitational constant
-is a function of ι_τ and nothing else.
+is a function of ι<sub>τ</sub> and nothing else.
 Unification is not an event at some high energy;
 it is a structural fact at all energies.
 

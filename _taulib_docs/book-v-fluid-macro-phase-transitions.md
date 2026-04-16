@@ -681,7 +681,7 @@ Tau.BookV.FluidMacro.no_fine_tuning :Prop**
 [V.R159] No fine-tuning: in the τ-framework, the hierarchy problem
 (why is the Higgs mass so much lighter than the Planck mass?) is
 dissolved because the Higgs VEV is a boundary readout determined
-by ι_τ and sector couplings — there is no free parameter to tune.
+by ι<sub>τ</sub> and sector couplings — there is no free parameter to tune.
 Equations
 - Tau.BookV.FluidMacro.no_fine_tuning = ("Higgs VEV = boundary readout of iota_tau, no free parameter to tune" = "Higgs VEV = boundary readout of iota_tau, no free parameter to tune")
 Instances For
@@ -956,10 +956,10 @@ Scope: conjectural (crust fraction overshoots without metric corrections).
 Nuclear saturation density in 10¹⁴ g/cm³ (≈ 2.8).
 
 - kappa_D_permille : ℕ
-κ_D = 1 − ι_τ ≈ 0.659 (in permille: 659).
+κ_D = 1 − ι<sub>τ</sub> ≈ 0.659 (in permille: 659).
 
 - transition_fraction_permille : ℕ
-Transition fraction: 1 − κ_D ≈ 0.341 ≈ ι_τ.
+Transition fraction: 1 − κ_D ≈ 0.341 ≈ ι<sub>τ</sub>.
 
 - transition_half : self.transition_fraction_permille < 500
 Transition is at ≈ 0.5ρ₀ (rounded).
@@ -976,7 +976,7 @@ Tau.BookV.FluidMacro.crust_fraction_permille :ℕ**
 
 
 [V.P190] Crust fraction from defect-tuple crossing.
-ΔR_crust/R_NS ≈ ι_τ ≈ 0.34 (overshoots observed 0.08–0.17).
+ΔR_crust/R_NS ≈ ι<sub>τ</sub> ≈ 0.34 (overshoots observed 0.08–0.17).
 Scope: conjectural.
 Equations
 - Tau.BookV.FluidMacro.crust_fraction_permille = 341

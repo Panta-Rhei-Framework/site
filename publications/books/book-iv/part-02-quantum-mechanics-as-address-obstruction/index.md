@@ -45,7 +45,7 @@ space, quantization, the address-obstruction theorem (Heisenberg),
 measurement, the Schrödinger equation, and energy/entropy, culminating
 in the first quantitative prediction of the framework: the
 neutron-to-electron mass ratio
-R₀ = ι_τ⁻⁷ - √3 ι_τ⁻² ≈ 1838.7,
+R₀ = ι<sub>τ</sub>⁻⁷ - √3 ι<sub>τ</sub>⁻² ≈ 1838.7,
 derived from the breathing mode spectrum, the Epstein zeta function, the
 lemniscate capacity, and the holonomy correction π³α²—at
 {∼} 0.001% (8 ppm) agreement with the CODATA value, with no free parameters.

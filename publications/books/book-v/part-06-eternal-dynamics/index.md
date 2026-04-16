@@ -92,7 +92,7 @@ the universe has a *biography* —
 origin, structure, dynamics, and fate —
 all derived from the kernel axioms
 K0–K6
-and the master constant ι_τ = 2/(π + e).
+and the master constant ι<sub>τ</sub> = 2/(π + e).
 
 ## Chapters
 

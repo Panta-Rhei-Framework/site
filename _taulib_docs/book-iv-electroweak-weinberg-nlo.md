@@ -120,7 +120,7 @@ Tau.BookIV.Electroweak.nlo_from_windows :weinbergNLO.nlo_num = 5 ∧ weinbergNLO
 
 [IV.T134] The 5/7 coefficient arises from the W₃ window algebra:
 both numerator and denominator are determined by two adjacent
-width-3 windows on the CF head of ι_τ.
+width-3 windows on the CF head of ι<sub>τ</sub>.
 
 ---
 

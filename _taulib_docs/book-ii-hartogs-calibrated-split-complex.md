@@ -27,7 +27,7 @@ right_rail:
 
 
 Calibrated split-complex codomain H_τ^cal: the split-complex algebra
-H_τ equipped with the four earned transcendental constants (π, e, j, ι_τ).
+H_τ equipped with the four earned transcendental constants (π, e, j, ι<sub>τ</sub>).
 
 ## Registry Cross-References
 
@@ -40,7 +40,7 @@ H_τ equipped with the four earned transcendental constants (π, e, j, ι_τ).
 ## Mathematical Content
 
 
-H_τ^cal is H_τ with the four constants (π, e, j, ι_τ) installed as
+H_τ^cal is H_τ with the four constants (π, e, j, ι<sub>τ</sub>) installed as
 calibration data. The calibration gives the idempotents e₊, e₋
 geometric meaning:
 
@@ -58,7 +58,7 @@ its characteristic growth rate is the factorial eigenvalue ~ e.
 
 
 - 
-ι_τ = 2/(π+e) couples the two channels: it is the unique constant
+ι<sub>τ</sub> = 2/(π+e) couples the two channels: it is the unique constant
 that balances the B-channel (π-calibrated) against the C-channel
 (e-calibrated).
 
@@ -107,7 +107,7 @@ e scaled by 10^6: e * 10^6 ≈ 2718281.
 j² = +1 indicator: 1 means j² = +1 (split-complex), 0 would mean i² = -1.
 
 - iota_cal : ℕ
-ι_τ scaled by 10^6: ι_τ * 10^6 ≈ 341304.
+ι<sub>τ</sub> scaled by 10^6: ι<sub>τ</sub> * 10^6 ≈ 341304.
 
 Instances For
 
@@ -211,7 +211,7 @@ Instances For
 Tau.BookII.Hartogs.iota_cal_range_check :Bool**
 
 
-ι_τ calibration in expected range: ι_τ * 10^6 ∈ [335000, 350000].
+ι<sub>τ</sub> calibration in expected range: ι<sub>τ</sub> * 10^6 ∈ [335000, 350000].
 Equations
 - Tau.BookII.Hartogs.iota_cal_range_check = (decide (Tau.BookII.Hartogs.calibrated_htau.iota_cal > 335000) && decide (Tau.BookII.Hartogs.calibrated_htau.iota_cal < 350000))
 Instances For
@@ -285,9 +285,9 @@ Instances For
 Tau.BookII.Hartogs.coupling_check :Bool**
 
 
-[II.D35, coupling axiom] ι_τ couples the two channels:
-ι_τ = 2 / (π + e).
-In scaled arithmetic: ι_τ * SCALE ≈ 2 * SCALE² / (π_cal + e_cal).
+[II.D35, coupling axiom] ι<sub>τ</sub> couples the two channels:
+ι<sub>τ</sub> = 2 / (π + e).
+In scaled arithmetic: ι<sub>τ</sub> * SCALE ≈ 2 * SCALE² / (π_cal + e_cal).
 Verify consistency to within 2%.
 Equations
 - One or more equations did not get rendered due to their size.
@@ -434,13 +434,13 @@ Tau.BookII.Hartogs.calibration_consistency_check :Bool**
 [II.D35] Full calibration consistency: all four constants are
 mutually consistent and the idempotents have correct geometric meaning.
 
-- π, e, ι_τ in correct ranges
+- π, e, ι<sub>τ</sub> in correct ranges
 
 - j² = +1
 
 - Idempotents: orthogonal, complete, idempotent
 
-- Coupling: ι_τ = 2/(π+e)
+- Coupling: ι<sub>τ</sub> = 2/(π+e)
 
 - Geometric meaning: e₊ → B-channel, e₋ → C-channel
 

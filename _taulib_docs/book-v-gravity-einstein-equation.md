@@ -294,10 +294,10 @@ Properties:
 
 - Unique by field cancellation at canonical carrier x*
 
-- Determined entirely by ι_τ (No Knobs)
+- Determined entirely by ι<sub>τ</sub> (No Knobs)
 
 
-The gravity sector self-coupling κ(D;1) = 1 − ι_τ is the
+The gravity sector self-coupling κ(D;1) = 1 − ι<sub>τ</sub> is the
 sector-level expression. The Einstein coupling κ_τ relates
 curvature to total matter character.
 
@@ -366,7 +366,7 @@ Instances For
 Tau.BookV.Gravity.canonical_gr_coupling :GRCoupling**
 
 
-The canonical GR coupling: κ_τ = κ(D;1) = 1 − ι_τ.
+The canonical GR coupling: κ_τ = κ(D;1) = 1 − ι<sub>τ</sub>.
 This is the gravity sector self-coupling from Book IV Part I.
 Equations
 - One or more equations did not get rendered due to their size.

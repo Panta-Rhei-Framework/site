@@ -36,7 +36,7 @@ Upgrades V.R324 (conjectural) to V.T172 (τ-effective).
 
 - [V.T171] (5/6) threshold factor shared with Y_p -- `yp_baryogenesis_shared_factor`
 
-- [V.T172] Primary baryogenesis formula η_B = α·ι_τ¹⁵·(5/6) -- `eta_B_formula_string`, `eta_B_algebraic_identity`
+- [V.T172] Primary baryogenesis formula η_B = α·ι<sub>τ</sub>¹⁵·(5/6) -- `eta_B_formula_string`, `eta_B_algebraic_identity`
 
 - [V.P126] Sakharov CP source -- `sakharov_cp_source`
 
@@ -46,7 +46,7 @@ Upgrades V.R324 (conjectural) to V.T172 (τ-effective).
 ## Mathematical Content
 
 
-The baryon-to-photon ratio η_B = (121/270)·ι_τ¹⁹ follows from:
+The baryon-to-photon ratio η_B = (121/270)·ι<sub>τ</sub>¹⁹ follows from:
 
 
 - Exponent 15 = dim(τ³) × |generators| = 3 × 5 (V.T170)
@@ -54,16 +54,16 @@ The baryon-to-photon ratio η_B = (121/270)·ι_τ¹⁹ follows from:
 - Factor (5/6) = 5 non-resonant / 6 total threshold channels,
 shared with Y_p = 20/81 = (8/27)·(5/6) (V.T171, V.T149)
 
-- Factor α = (121/225)·ι_τ⁴ (fine structure constant in τ-framework)
+- Factor α = (121/225)·ι<sub>τ</sub>⁴ (fine structure constant in τ-framework)
 
-- Combined: η_B = (121/225)·ι_τ⁴ · ι_τ¹⁵ · (5/6) = (121/270)·ι_τ¹⁹
+- Combined: η_B = (121/225)·ι<sub>τ</sub>⁴ · ι<sub>τ</sub>¹⁵ · (5/6) = (121/270)·ι<sub>τ</sub>¹⁹
 
 
 ## Numerical result (50-digit mpmath precision)
 
 
-η_B = α·ι_τ¹⁵·(5/6) = 6.04101 × 10⁻¹⁰
-η_B = (121/270)·ι_τ¹⁹ = 6.04107 × 10⁻¹⁰
+η_B = α·ι<sub>τ</sub>¹⁵·(5/6) = 6.04101 × 10⁻¹⁰
+η_B = (121/270)·ι<sub>τ</sub>¹⁹ = 6.04107 × 10⁻¹⁰
 Planck 2018: 6.104 × 10⁻¹⁰ ± 0.058 × 10⁻¹⁰
 Deviation: −1.03% (−1.09σ)
 
@@ -263,7 +263,7 @@ Tau.BookV.Cosmology.five_sixths_is_universal_threshold_factor :domain_correction
 
 
 Both Y_p and η_B share factor 5/6:
-Y_p = (8/27) · (5/6), η_B = α · ι_τ¹⁵ · (5/6).
+Y_p = (8/27) · (5/6), η_B = α · ι<sub>τ</sub>¹⁵ · (5/6).
 The (5/6) is verified for Y_p via rational arithmetic.
 
 ---
@@ -277,7 +277,7 @@ Tau.BookV.Cosmology.eta_B_formula_string :String**
 
 Documentation of the primary baryogenesis formula [V.T172].
 
-η_B = α·ι_τ¹⁵·(5/6) = (121/270)·ι_τ¹⁹ ≈ 6.041 × 10⁻¹⁰
+η_B = α·ι<sub>τ</sub>¹⁵·(5/6) = (121/270)·ι<sub>τ</sub>¹⁹ ≈ 6.041 × 10⁻¹⁰
 Planck 2018: (6.104 ± 0.058) × 10⁻¹⁰
 Deviation: −1.03% (−1.09σ) — within observational uncertainty.
 
@@ -297,8 +297,8 @@ Tau.BookV.Cosmology.eta_B_algebraic_identity :121 / 270 = 121 / 225 * (5 / 6)**
 
 Algebraic identity: (121/270) = (121/225) × (5/6). [V.T172]
 
-This verifies that α_τ·ι_τ¹⁵·(5/6) = (121/270)·ι_τ¹⁹:
-the α_τ factor (= (121/225)·ι_τ⁴) absorbs into the ι_τ tower
+This verifies that α_τ·ι<sub>τ</sub>¹⁵·(5/6) = (121/270)·ι<sub>τ</sub>¹⁹:
+the α_τ factor (= (121/225)·ι<sub>τ</sub>⁴) absorbs into the ι<sub>τ</sub> tower
 to give a purely algebraic expression.
 
 ---
@@ -328,13 +328,13 @@ All three Sakharov conditions are structurally met in τ. [V.P126]
 
 - B-violation: baryogenesis window [L_B, L_N] (V.D198, pre-confinement)
 
-- CP violation: A-sector balanced polarity κ(A;1) = ι_τ (this proposition)
+- CP violation: A-sector balanced polarity κ(A;1) = ι<sub>τ</sub> (this proposition)
 
 - Out-of-equilibrium: directed α-orbit (V.T06)
 
 
-The CP asymmetry scale is ι_τ. The baryon suppression relative to
-this scale is η_B/ι_τ = α·ι_τ¹⁴·(5/6) ≈ 1.770 × 10⁻⁹.
+The CP asymmetry scale is ι<sub>τ</sub>. The baryon suppression relative to
+this scale is η_B/ι<sub>τ</sub> = α·ι<sub>τ</sub>¹⁴·(5/6) ≈ 1.770 × 10⁻⁹.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -350,7 +350,7 @@ Tau.BookV.Cosmology.sakharov_reduction :threshold_admissibility.above_confinemen
 
 The three Sakharov conditions reduce the baryogenesis mystery from
 'three unknown mechanisms' to a single open sub-problem
-(the precise ι_τ¹⁵ derivation from holonomy algebra).
+(the precise ι<sub>τ</sub>¹⁵ derivation from holonomy algebra).
 
 ---
 
@@ -381,8 +381,8 @@ Tau.BookV.Cosmology.sai_mod5_generator_count :ℕ**
 
 
 [V.D245] SA-i mod-5 Formal Proof.
-Geometric series S₅ = Σ_{k=0}^{4} ι_τ^{3k} = (1−ι_τ¹⁵)/(1−ι_τ³).
-Each generator contributes ι_τ^{dim(τ³)} = ι_τ³.
+Geometric series S₅ = Σ_{k=0}^{4} ι<sub>τ</sub>^{3k} = (1−ι<sub>τ</sub>¹⁵)/(1−ι<sub>τ</sub>³).
+Each generator contributes ι<sub>τ</sub>^{dim(τ³)} = ι<sub>τ</sub>³.
 Equations
 - Tau.BookV.Cosmology.sai_mod5_generator_count = 5
 Instances For
@@ -484,10 +484,10 @@ Tau.BookV.Cosmology.EtaBFormalDerivation :Type**
 
 
 [V.T188] η_B Formal Derivation at −10320 ppm.
-η_B = α·ι_τ¹⁵·(5/6) = 6.080×10⁻¹⁰, Planck 6.104±0.058.
+η_B = α·ι<sub>τ</sub>¹⁵·(5/6) = 6.080×10⁻¹⁰, Planck 6.104±0.058.
 
 - exponent : ℕ
-Exponent in ι_τ^k: k = dim(τ³) × |generators|.
+Exponent in ι<sub>τ</sub>^k: k = dim(τ³) × |generators|.
 
 - exponent_eq : self.exponent = 3 * 5
 Exponent decomposition proof.
@@ -561,9 +561,9 @@ Tau.BookV.Cosmology.baryogenesis_threshold_placement :String**
 
 
 [V.P133] Baryogenesis Threshold Placement.
-n_EW < n_B=15 < n_BBN. E_B m_Pl·ι_τ¹⁵ 10¹² GeV.
+n_EW < n_B=15 < n_BBN. E_B m_Pl·ι<sub>τ</sub>¹⁵ 10¹² GeV.
 Equations
-- Tau.BookV.Cosmology.baryogenesis_threshold_placement = "n_EW < n_B=15 < n_BBN. SA-i hierarchy: " ++ "mod-3 → ι_τ⁹ → θ_QCD=0 (exact); mod-5 → ι_τ¹⁵ → η_B (τ-effective)."
+- Tau.BookV.Cosmology.baryogenesis_threshold_placement = "n_EW < n_B=15 < n_BBN. SA-i hierarchy: " ++ "mod-3 → ι<sub>τ</sub>⁹ → θ_QCD=0 (exact); mod-5 → ι<sub>τ</sub>¹⁵ → η_B (τ-effective)."
 Instances For
 
 ---
@@ -635,7 +635,7 @@ Tau.BookV.Cosmology.BaryogenesisNLO :Type**
 
 
 [V.T270] Baryogenesis NLO from fiber EM correction.
-η_B(NLO) = α·ι_τ¹⁵·(5/6)·(1 + (4/3)α).
+η_B(NLO) = α·ι<sub>τ</sub>¹⁵·(5/6)·(1 + (4/3)α).
 NLO correction factor = (4/3)α ≈ 0.00973.
 Result: 6.100 × 10⁻¹⁰, deviation −655 ppm (0.12σ).
 15.8× improvement over LO (−10,320 ppm).

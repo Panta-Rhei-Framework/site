@@ -26,7 +26,7 @@ right_rail:
 # TauLib.BookIII.Spectral.ConfinementBridge
 
 
-The Confinement Bridge: E₆(iι_τ) · κ(C;3)² = −1/(1−ι_τ)².
+The Confinement Bridge: E₆(iι<sub>τ</sub>) · κ(C;3)² = −1/(1−ι<sub>τ</sub>)².
 
 This theorem closes OQ.07 (C-sector/SU(3) bridge) and OQ.09 (E₄/E₆ fixed point)
 simultaneously by showing they are the SAME identity.
@@ -47,18 +47,18 @@ simultaneously by showing they are the SAME identity.
 ### The Confinement Bridge (OQ.07)
 
 
-The C-sector (strong force) self-coupling is κ(C;3) = ι_τ³/(1−ι_τ).
+The C-sector (strong force) self-coupling is κ(C;3) = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>).
 The claim (OQ.07) was:
 
-E₆(iι_τ) · κ(C;3)² ≈ −1/(1−ι_τ)²
+E₆(iι<sub>τ</sub>) · κ(C;3)² ≈ −1/(1−ι<sub>τ</sub>)²
 
-at ~5 ppm. Since κ(C;3)² = ι_τ⁶/(1−ι_τ)², this becomes:
+at ~5 ppm. Since κ(C;3)² = ι<sub>τ</sub>⁶/(1−ι<sub>τ</sub>)², this becomes:
 
-E₆(iι_τ) · ι_τ⁶/(1−ι_τ)² ≈ −1/(1−ι_τ)²
+E₆(iι<sub>τ</sub>) · ι<sub>τ</sub>⁶/(1−ι<sub>τ</sub>)² ≈ −1/(1−ι<sub>τ</sub>)²
 
-Cancelling (1−ι_τ)², this is EXACTLY:
+Cancelling (1−ι<sub>τ</sub>)², this is EXACTLY:
 
-E₆(iι_τ) · ι_τ⁶ ≈ −1
+E₆(iι<sub>τ</sub>) · ι<sub>τ</sub>⁶ ≈ −1
 
 which is OQ.09 (the E₆ near-identity, III.T51 in ModularForms.lean).
 One proof closes both open questions.
@@ -70,25 +70,25 @@ The modular S-duality transformation for weight-2k Eisenstein series:
 
 E_{2k}(−1/τ) = τ^{2k} · E_{2k}(τ)
 
-At τ = i/ι_τ (the S-dual point), τ' = −1/τ = iι_τ (the physical point):
+At τ = i/ι<sub>τ</sub> (the S-dual point), τ' = −1/τ = iι<sub>τ</sub> (the physical point):
 
-E_{2k}(iι_τ) = (i/ι_τ)^{2k} · E_{2k}(i/ι_τ)
+E_{2k}(iι<sub>τ</sub>) = (i/ι<sub>τ</sub>)^{2k} · E_{2k}(i/ι<sub>τ</sub>)
 
 Key observations:
 
 
-- i⁴ = 1, so (i/ι_τ)⁴ = ι_τ⁻⁴ → E₄(iι_τ)·ι_τ⁴ = E₄(i/ι_τ)
+- i⁴ = 1, so (i/ι<sub>τ</sub>)⁴ = ι<sub>τ</sub>⁻⁴ → E₄(iι<sub>τ</sub>)·ι<sub>τ</sub>⁴ = E₄(i/ι<sub>τ</sub>)
 
-- i⁶ = −1, so (i/ι_τ)⁶ = −ι_τ⁻⁶ → E₆(iι_τ)·ι_τ⁶ = −E₆(i/ι_τ)
+- i⁶ = −1, so (i/ι<sub>τ</sub>)⁶ = −ι<sub>τ</sub>⁻⁶ → E₆(iι<sub>τ</sub>)·ι<sub>τ</sub>⁶ = −E₆(i/ι<sub>τ</sub>)
 
 
-At the S-dual point, q' = e^{−2π/ι_τ} ≈ 10⁻⁸, so:
-E₄(i/ι_τ) = 1 + 240q' + O(q'²) ≈ 1 + 2.4×10⁻⁶
-E₆(i/ι_τ) = 1 − 504q' + O(q'²) ≈ 1 − 5.1×10⁻⁶
+At the S-dual point, q' = e^{−2π/ι<sub>τ</sub>} ≈ 10⁻⁸, so:
+E₄(i/ι<sub>τ</sub>) = 1 + 240q' + O(q'²) ≈ 1 + 2.4×10⁻⁶
+E₆(i/ι<sub>τ</sub>) = 1 − 504q' + O(q'²) ≈ 1 − 5.1×10⁻⁶
 
 Therefore:
-E₄(iι_τ)·ι_τ⁴ = 1 + 240q' ≈ 1 (2.4 ppm from unity)
-E₆(iι_τ)·ι_τ⁶ = −(1 − 504q') ≈ −1 (5.1 ppm from −1)
+E₄(iι<sub>τ</sub>)·ι<sub>τ</sub>⁴ = 1 + 240q' ≈ 1 (2.4 ppm from unity)
+E₆(iι<sub>τ</sub>)·ι<sub>τ</sub>⁶ = −(1 − 504q') ≈ −1 (5.1 ppm from −1)
 
 The residuals are EXACTLY the q-expansion coefficients (240, −504) times the
 exponentially suppressed S-dual nome q' ≈ 10⁻⁸. This is a structural proof,
@@ -97,8 +97,8 @@ not a numerical coincidence.
 ### The 744 Connection
 
 
-The ratio identity E₄/E₆ ≈ −ι_τ² has residual 744q' where 744 = 240 + 504:
-E₄(iι_τ)/E₆(iι_τ) = −ι_τ² · (1 + 240q')/(1 − 504q') ≈ −ι_τ² · (1 + 744q')
+The ratio identity E₄/E₆ ≈ −ι<sub>τ</sub>² has residual 744q' where 744 = 240 + 504:
+E₄(iι<sub>τ</sub>)/E₆(iι<sub>τ</sub>) = −ι<sub>τ</sub>² · (1 + 240q')/(1 − 504q') ≈ −ι<sub>τ</sub>² · (1 + 744q')
 
 The number 744 appears as the constant term of the j-invariant:
 j(τ) = q⁻¹ + 744 + 196884q + ...
@@ -186,7 +186,7 @@ within ±10 ppm.
 Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge_lower :Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_N✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_D✝ * 1000000 > 999990 * Tau.BookIII.Spectral.ConfinementBridge.bridge_lhs_D✝ * Tau.BookIII.Spectral.ConfinementBridge.bridge_rhs_N✝**
 
 
-[III.T54] Confinement Bridge: |E₆| · κ(C;3)² ≈ 1/(1−ι_τ)² within ±10 ppm.
+[III.T54] Confinement Bridge: |E₆| · κ(C;3)² ≈ 1/(1−ι<sub>τ</sub>)² within ±10 ppm.
 
 This is the DIRECT form of the bridge, verified by cross-multiplication.
 By bridge_algebraic_identity, this is equivalent to E6_iota6_near_one.
@@ -212,12 +212,12 @@ Tau.BookIII.Spectral.ConfinementBridge.confinement_bridge :Tau.BookIII.Spectral.
 The S-duality transport explains WHY the near-identities hold.
 
 ```
-Key quantity: the S-dual nome q' = e^{−2π/ι_τ} ≈ 10⁻⁸.
+Key quantity: the S-dual nome q' = e^{−2π/ι<sub>τ</sub>} ≈ 10⁻⁸.
 
-Since ι_τ = 341304/10⁶ < 1, the S-dual point i/ι_τ has large
+Since ι<sub>τ</sub> = 341304/10⁶ < 1, the S-dual point i/ι<sub>τ</sub> has large
 imaginary part (≈ 2.93), making q' exponentially small.
 
-We verify: 2π/ι_τ > 18 (so q' < e^{−18} < 1.6×10⁻⁸). 
+We verify: 2π/ι<sub>τ</sub> > 18 (so q' < e^{−18} < 1.6×10⁻⁸). 
 ```
 
 
@@ -230,9 +230,9 @@ We verify: 2π/ι_τ > 18 (so q' < e^{−18} < 1.6×10⁻⁸).
 Tau.BookIII.Spectral.ConfinementBridge.sdual_exponent_large :18 * BookIV.Sectors.iota < 6283185**
 
 
-The S-dual imaginary part 1/ι_τ is large.
-2π/ι_τ > 18 because 2π > 6.28 and 1/ι_τ > 2.93, product > 18.
-Cross-multiplied: 18 · ι_τ < 2π, i.e., 18 · 341304 < 2π · 10⁶.
+The S-dual imaginary part 1/ι<sub>τ</sub> is large.
+2π/ι<sub>τ</sub> > 18 because 2π > 6.28 and 1/ι<sub>τ</sub> > 2.93, product > 18.
+Cross-multiplied: 18 · ι<sub>τ</sub> < 2π, i.e., 18 · 341304 < 2π · 10⁶.
 We use 2π > 6283185/10⁶ (conservative).
 
 2π · 10⁶ > 6283185 and 18 · 341304 = 6143472.
@@ -248,7 +248,7 @@ Tau.BookIII.Spectral.ConfinementBridge.sduality_E4_sign_positive :4 % 4 = 0**
 
 
 S-duality transport for E₄: the sign is positive (i⁴ = 1).
-E₄(iι_τ) · ι_τ⁴ = E₄(i/ι_τ) = 1 + 240q' + O(q'²).
+E₄(iι<sub>τ</sub>) · ι<sub>τ</sub>⁴ = E₄(i/ι<sub>τ</sub>) = 1 + 240q' + O(q'²).
 Since q' < 10⁻⁸, the residual 240q' < 2.4 × 10⁻⁶ = 2.4 ppm.
 
 ---
@@ -261,7 +261,7 @@ Tau.BookIII.Spectral.ConfinementBridge.sduality_E6_sign_negative :6 % 4 = 2**
 
 
 S-duality transport for E₆: the sign is NEGATIVE (i⁶ = −1).
-E₆(iι_τ) · ι_τ⁶ = −E₆(i/ι_τ) = −(1 − 504q' + O(q'²)).
+E₆(iι<sub>τ</sub>) · ι<sub>τ</sub>⁶ = −E₆(i/ι<sub>τ</sub>) = −(1 − 504q' + O(q'²)).
 The negative sign comes from i⁶ = (i⁴)(i²) = 1·(−1) = −1.
 
 ---

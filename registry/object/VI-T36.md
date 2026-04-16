@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: planned
 lean_module: TauLib.BookVI.CosmicLife.CrossLimit
 lean_name: Tau.BookVI.CrossLimit.UniversalBhFullyAliveState
-summary: B_∞ has code exactly ι_τ, all defect functionals vanish, all 7 hallmarks
+summary: B_∞ has code exactly ι<sub>τ</sub>, all defect functionals vanish, all 7 hallmarks
   at terminal values. The maximally alive carrier as cosmological endstate.
 depends_on:
 - VI.T35

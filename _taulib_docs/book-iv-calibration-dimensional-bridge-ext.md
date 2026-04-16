@@ -92,7 +92,7 @@ carries the formula label, dimensional exponents, and prefactor label.
 
 
 The Planck character is the σ-fixed (lobe-swap-invariant) sector lift
-of ι_τ into the QM regime. It is the unique attained minimum of the
+of ι<sub>τ</sub> into the QM regime. It is the unique attained minimum of the
 sector lift functional (not merely an infimum).
 
 ### Closing Identity
@@ -353,7 +353,7 @@ Tau.BookIV.Calibration.PlanckCharacterExt :Type**
 
 
 [IV.D298] The Planck character ℏ_τ in the ch13 dimensional-bridge context.
-This is the σ-fixed sector lift of ι_τ into the QM regime,
+This is the σ-fixed sector lift of ι<sub>τ</sub> into the QM regime,
 re-recorded here with its ch13 registry label.
 
 Key properties:
@@ -381,7 +381,7 @@ Source sector.
 Attained minimum of the sector lift functional.
 
 - numer : ℕ
-ℏ_τ numerator (scaled rational: ℏ_τ ≈ ι_τ/4).
+ℏ_τ numerator (scaled rational: ℏ_τ ≈ ι<sub>τ</sub>/4).
 
 - denom : ℕ
 ℏ_τ denominator.
@@ -501,7 +501,7 @@ Combined: the Planck character is both σ-fixed and an attained minimum.
 Tau.BookIV.Calibration.BridgeParameterCount :Type**
 
 
-The τ-framework has zero free parameters: all constants from ι_τ + anchor.
+The τ-framework has zero free parameters: all constants from ι<sub>τ</sub> + anchor.
 
 - free_parameters : ℕ
 Number of free (tunable) parameters.
@@ -510,7 +510,7 @@ Number of free (tunable) parameters.
 Number of calibration anchors.
 
 - iota_derived : ℕ
-Number of ι_τ-derived quantities.
+Number of ι<sub>τ</sub>-derived quantities.
 
 Instances For
 

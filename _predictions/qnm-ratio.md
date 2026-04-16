@@ -8,10 +8,10 @@ prediction_id: "pred-054"
 domain: "astrophysics"
 domain_display: "Astrophysics"
 observable: "QNM ratio"
-observable_mathml: "<math><mi>ι_τ⁻¹</mi></math>"
-formula_plain: "ι_τ⁻¹"
-formula_mathml: "<math><mi>ι_τ⁻¹</mi></math>"
-formula_display: "f₍₀,₁₎/f₍₁,₀₎ = ι_τ⁻¹ = (π+e)/2 ≈ 2.929"
+observable_mathml: "<math><mi>ι<sub>τ</sub>⁻¹</mi></math>"
+formula_plain: "ι<sub>τ</sub>⁻¹"
+formula_mathml: "<math><mi>ι<sub>τ</sub>⁻¹</mi></math>"
+formula_display: "f₍₀,₁₎/f₍₁,₀₎ = ι<sub>τ</sub>⁻¹ = (π+e)/2 ≈ 2.929"
 tau_value: "2.929"
 observed_value: "(pending)"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**f₍₀,₁₎/f₍₁,₀₎ = ι_τ⁻¹ = (π+e)/2 ≈ 2.929**
+**f₍₀,₁₎/f₍₁,₀₎ = ι<sub>τ</sub>⁻¹ = (π+e)/2 ≈ 2.929**
 
 ## Derivation
 
@@ -54,7 +54,7 @@ CP violation in the quark sector
 is governed by the geometry
 of the lemniscate boundary.
 
-where $κ_D = 1 - ι_τ$.
+where $κ_D = 1 - ι<sub>τ</sub>$.
 The PDG 2024 value is
 $η = 0.349^+0.012_-0.011$,
 giving a deviation of $-2\,285$ ppm ($-0.23%$, $0.7σ$).

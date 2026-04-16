@@ -57,7 +57,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 *Finite Readouts of Infinity* · E₀ Mathematics
 
 - [Central Theorem: O(τ³) ≅ A_spec(L)]({{ '/results/problem/central-theorem/' | relative_url }}) — *Foundational Math* · Resolved
-- [Crossing-Limit Theorem: Merger Networks Converge to ι_τ]({{ '/results/problem/crossing-limit-theorem-merger-networks-iota-tau/' | relative_url }}) — *Frontier Problem* · Resolved
+- [Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>]({{ '/results/problem/crossing-limit-theorem-merger-networks-iota-tau/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Fibration Structure τ³ = τ¹ ×_f T²]({{ '/results/problem/fibration-structure-f-t/' | relative_url }}) — *Foundational Math* · Resolved
 - [Global Hartogs Extension: Boundary Determines Interior]({{ '/results/problem/global-hartogs-extension/' | relative_url }}) — *Foundational Math* · Resolved
 - [Identity Theorem]({{ '/results/problem/identity-theorem/' | relative_url }}) — *Foundational Math* · Resolved
@@ -102,16 +102,16 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 *The Self-Describing Universe* · E₁ Physics (Microcosm)
 
 - [0νββ / Majorana Neutrinos]({{ '/results/problem/0-majorana-neutrinos/' | relative_url }}) — *Frontier Problem* · Resolved
-- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι_τ with CF Window NLO]({{ '/results/problem/axial-coupling-g-a-5pt5-ppm/' | relative_url }}) — *Foundational Math* · Resolved
-- [Baryogenesis: η_B = α·ι_τ¹⁵·(5/6) at −1%]({{ '/results/problem/baryogenesis-eta-b/' | relative_url }}) — *Foundational Math* · Resolved
+- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO]({{ '/results/problem/axial-coupling-g-a-5pt5-ppm/' | relative_url }}) — *Foundational Math* · Resolved
+- [Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%]({{ '/results/problem/baryogenesis-eta-b/' | relative_url }}) — *Foundational Math* · Resolved
 - [Baryon Asymmetry]({{ '/results/problem/baryon-asymmetry/' | relative_url }}) — *Frontier Problem* · Resolved
-- [Cabibbo Angle: sin θ_C = ι_τ(1 − ι_τ) at −2327 ppm]({{ '/results/problem/cabibbo-angle/' | relative_url }}) — *Foundational Math* · Resolved
+- [Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm]({{ '/results/problem/cabibbo-angle/' | relative_url }}) — *Foundational Math* · Resolved
 - [CKM Unitarity and Cabibbo Anomaly]({{ '/results/problem/ckm-unitarity-and-cabibbo-anomaly/' | relative_url }}) — *Frontier Problem* · Partial
 - [Dark Sector Closure]({{ '/results/problem/dark-sector-closure/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Electron Mass at 0.025 ppm: 10-Link Derivation from K0–K6]({{ '/results/problem/electron-mass-0025-ppm/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Electron Mass Precision]({{ '/results/problem/electron-mass-precision/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Exactly Three Colors: N_c = 3 from Primorial Depth]({{ '/results/problem/three-colors-derived/' | relative_url }}) — *Foundational Math* · Resolved
-- [Fine-Structure Constant α⁻¹ = 137.036 from ι_τ]({{ '/results/problem/fine-structure-constant-alpha-inverse-137/' | relative_url }}) — *Foundational Math* · Resolved
+- [Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>]({{ '/results/problem/fine-structure-constant-alpha-inverse-137/' | relative_url }}) — *Foundational Math* · Resolved
 - [Fine-Tuning Dissolved]({{ '/results/problem/fine-tuning-dissolved/' | relative_url }}) — *Consequence* · Resolved
 - [Hierarchy Problem]({{ '/results/problem/hierarchy-problem/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Higgs Boson Mass Prediction at +8.0 ppm]({{ '/results/problem/higgs-mass-prediction/' | relative_url }}) — *Frontier Problem* · Resolved
@@ -152,7 +152,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 *The Biography of the Universe* · E₁ Physics (Macrocosm)
 
 - [Arrow of Time from Orbit Direction: Unique and Irreversible]({{ '/results/problem/arrow-of-time-orbit/' | relative_url }}) — *Foundational Math* · Resolved
-- [Baryogenesis: η_B = α·ι_τ¹⁵·(5/6) at −1%]({{ '/results/problem/baryogenesis-eta-b/' | relative_url }}) — *Foundational Math* · Resolved
+- [Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%]({{ '/results/problem/baryogenesis-eta-b/' | relative_url }}) — *Foundational Math* · Resolved
 - [Baryon Asymmetry]({{ '/results/problem/baryon-asymmetry/' | relative_url }}) — *Frontier Problem* · Resolved
 - [BH Information Paradox]({{ '/results/problem/bh-information-paradox/' | relative_url }}) — *Frontier Problem* · Resolved
 - [BH Quasi-Normal Modes]({{ '/results/problem/bh-quasi-normal-modes/' | relative_url }}) — *Frontier Problem* · Resolved
@@ -167,10 +167,10 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Equivalence Principle from τ]({{ '/results/problem/equivalence-principle-from/' | relative_url }}) — *Foundational Math* · Resolved
 - [Flat Galaxy Rotation Curves from Capacity Gradient]({{ '/results/problem/flat-rotation-curves/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Galaxy Rotation Curves without Dark Matter]({{ '/results/problem/galaxy-rotation-curves-without-dark-matter/' | relative_url }}) — *Frontier Problem* · Resolved
-- [Gravitational Constant from ι_τ: α_G at 3 ppm]({{ '/results/problem/gravitational-constant-from-iota-tau/' | relative_url }}) — *Foundational Math* · Resolved
+- [Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm]({{ '/results/problem/gravitational-constant-from-iota-tau/' | relative_url }}) — *Foundational Math* · Resolved
 - [Helium-4 Primordial Abundance Y_p = 20/81 at 0.43σ from Planck]({{ '/results/problem/helium-4-abundance-y-p-20-over-81/' | relative_url }}) — *Foundational Math* · Resolved
 - [Hubble Tension]({{ '/results/problem/hubble-tension/' | relative_url }}) — *Frontier Problem* · Resolved
-- [Hubble Tension Resolved: h = 2/3 + ι_τ²/17 at –120 ppm]({{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}) — *Frontier Problem* · Resolved
+- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm]({{ '/results/problem/hubble-tension-resolved-h-formula/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Inflation Mechanism]({{ '/results/problem/inflation-mechanism/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Kolmogorov Constant C_K = 3/2 Exact from dim(τ³)/dim(T²)]({{ '/results/problem/kolmogorov-constant-c-k-exact/' | relative_url }}) — *Foundational Math* · Resolved
 - [Li-7 Problem Resolved: ⁷Li/H via Fiber Suppression S = 1/3]({{ '/results/problem/lithium-7-problem-resolved/' | relative_url }}) — *Frontier Problem* · Resolved
@@ -186,7 +186,7 @@ Before browsing individual results, the [Results Introduction]({{ '/results/prol
 - [Silk Damping Scale]({{ '/results/problem/silk-damping-scale/' | relative_url }}) — *Foundational Math* · Resolved
 - [Spectral Index n_s = 1 – 2/N_e Derived from N_e = 57]({{ '/results/problem/spectral-index-ns-from-inflation/' | relative_url }}) — *Frontier Problem* · Partial
 - [S₈ Tension Resolved: S₈ = 0.783 from f_supp × f_growth × f_ν]({{ '/results/problem/s8-tension-resolved-0pt783/' | relative_url }}) — *Foundational Math* · Resolved
-- [Tensor-to-Scalar Ratio r = ι_τ⁴ = 0.0136]({{ '/results/problem/tensor-to-scalar-ratio/' | relative_url }}) — *Frontier Problem* · Resolved
+- [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136]({{ '/results/problem/tensor-to-scalar-ratio/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Time Derivation Theorem: Proper Time from K0–K6]({{ '/results/problem/time-derivation-theorem/' | relative_url }}) — *Foundational Math* · Resolved
 - [Tully-Fisher Relation]({{ '/results/problem/tully-fisher-relation/' | relative_url }}) — *Frontier Problem* · Resolved
 - [Vacuum Catastrophe Resolution]({{ '/results/problem/vacuum-catastrophe-resolution/' | relative_url }}) — *Frontier Problem* · Resolved

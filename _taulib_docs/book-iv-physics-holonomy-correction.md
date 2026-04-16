@@ -84,10 +84,10 @@ calibration cascade parameters.
 ### The Correction Term
 
 
-The Level 1+ correction to the mass ratio is π³α²·ι_τ^(-2):
+The Level 1+ correction to the mass ratio is π³α²·ι<sub>τ</sub>^(-2):
 
 ```
-R₁ = ι_τ^(-7) − (√3 + π³α²)·ι_τ^(-2)
+R₁ = ι<sub>τ</sub>^(-7) − (√3 + π³α²)·ι<sub>τ</sub>^(-2)
 ```
 
 
@@ -281,8 +281,8 @@ Tau.BookIV.Physics.alpha_sq_numer :ℕ**
 
 
 α² using the spectral approximation.
-α_spectral = 8·ι_τ⁴/(15·10²⁴)
-α² = 64·ι_τ⁸/(225·10⁴⁸)
+α_spectral = 8·ι<sub>τ</sub>⁴/(15·10²⁴)
+α² = 64·ι<sub>τ</sub>⁸/(225·10⁴⁸)
 
 We store α² as (alpha_sq_numer, alpha_sq_denom) where:
 alpha_sq_numer = 64 · (341304)⁸

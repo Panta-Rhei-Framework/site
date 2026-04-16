@@ -30,7 +30,7 @@ cited_in:
     part: "Part 1"
     chapter_file: "ch06-high-energy-beginning"
     chapter_title: "High Energy and High Entropy at the Beginning"
-    excerpt: "The τ-Einstein equation (V.D06) applies at all depths, but in the opening regime its readout is extreme: boundary characters carry maximal energy, the coupling constant κ_τ = 1 - ι_τ is at full strength, and the resulting chart-level readout is what orthodox physics calls the ``hot Big Bang''"
+    excerpt: "The τ-Einstein equation (V.D06) applies at all depths, but in the opening regime its readout is extreme: boundary characters carry maximal energy, the coupling constant κ_τ = 1 - ι<sub>τ</sub> is at full strength, and the resulting chart-level readout is what orthodox physics calls the ``hot Big Bang''"
   - book: "V"
     book_title: "Categorical Macrocosm"
     part: "Part 7"

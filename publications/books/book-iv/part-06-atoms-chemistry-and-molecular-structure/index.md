@@ -48,7 +48,7 @@ it is τ² mode physics at molecular scale.
 
 - **[Chapter 45: The Hydrogen Atom: Bohr Radius and Rydberg Constant]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-45-the-hydrogen-atom-bohr-radius-and-rydberg-constant/' | relative_url }})**
 - **[Chapter 46: The Hydrogen Spectrum]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-46-the-hydrogen-spectrum/' | relative_url }})**
-- **[Chapter 47: Hyperfine Structure and the Role of ι_τ]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-47-hyperfine-structure-and-the-role-of-iota-tau/' | relative_url }})**
+- **[Chapter 47: Hyperfine Structure and the Role of ι<sub>τ</sub>]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-47-hyperfine-structure-and-the-role-of-iota-tau/' | relative_url }})**
 - **[Chapter 48: Multi-Electron Atoms and Shell Structure]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-48-multi-electron-atoms-and-shell-structure/' | relative_url }})**
 - **[Chapter 49: The Chemical Bond as Graph Transformation]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-49-the-chemical-bond-as-graph-transformation/' | relative_url }})**
 - **[Chapter 50: Molecular Orbitals and Hybridization]({{ '/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-50-molecular-orbitals-and-hybridization/' | relative_url }})**

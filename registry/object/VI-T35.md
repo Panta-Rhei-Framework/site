@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: planned
 lean_module: TauLib.BookVI.CosmicLife.CrossLimit
 lean_name: Tau.BookVI.CrossLimit.CrossinglimitTheorem
-summary: 'Merger-directed net of ω-codes converges to ι_τ = 2/(π+e): monotone by fusion,
+summary: 'Merger-directed net of ω-codes converges to ι<sub>τ</sub> = 2/(π+e): monotone by fusion,
   strictly contracting along primorial ladder. Universe converges to maximal aliveness.'
 depends_on:
 - VI.T31

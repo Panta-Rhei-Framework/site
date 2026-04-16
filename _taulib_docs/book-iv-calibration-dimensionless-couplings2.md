@@ -73,7 +73,7 @@ closure, and power hierarchy — all wrapping existing CouplingFormulas proofs.
 Tau.BookIV.Calibration.ew_cross :Sectors.CouplingFormula**
 
 
-[IV.D281] Electroweak cross-coupling κ(A,B) = ι_τ³ ≈ 0.03982.
+[IV.D281] Electroweak cross-coupling κ(A,B) = ι<sub>τ</sub>³ ≈ 0.03982.
 Connects weak (base) to EM (fiber).
 Equations
 - Tau.BookIV.Calibration.ew_cross = Tau.BookIV.Sectors.kappa_AB
@@ -89,8 +89,8 @@ Instances For
 Tau.BookIV.Calibration.weak_strong_cross :Sectors.CouplingFormula**
 
 
-[IV.D282] Weak-strong cross-coupling κ(A,C) = ι_τ⁴/(1−ι_τ) ≈ 0.02063.
-Note: kappa_AC is ι_τ⁴/(1−ι_τ) = κ(A)·κ(C), the Weak-Strong = beta decay channel.
+[IV.D282] Weak-strong cross-coupling κ(A,C) = ι<sub>τ</sub>⁴/(1−ι<sub>τ</sub>) ≈ 0.02063.
+Note: kappa_AC is ι<sub>τ</sub>⁴/(1−ι<sub>τ</sub>) = κ(A)·κ(C), the Weak-Strong = beta decay channel.
 Equations
 - Tau.BookIV.Calibration.weak_strong_cross = Tau.BookIV.Sectors.kappa_AC
 Instances For
@@ -105,7 +105,7 @@ Instances For
 Tau.BookIV.Calibration.em_strong_cross :Sectors.CouplingFormula**
 
 
-[IV.D283] EM-strong cross-coupling κ(B,C) = ι_τ³/(1+ι_τ) ≈ 0.02968.
+[IV.D283] EM-strong cross-coupling κ(B,C) = ι<sub>τ</sub>³/(1+ι<sub>τ</sub>) ≈ 0.02968.
 The weakest primitive cross-coupling.
 Equations
 - Tau.BookIV.Calibration.em_strong_cross = Tau.BookIV.Sectors.kappa_BC
@@ -121,7 +121,7 @@ Instances For
 Tau.BookIV.Calibration.em_grav_cross :Sectors.CouplingFormula**
 
 
-[IV.D284] EM-gravity cross-coupling κ(B,D) = ι_τ²(1−ι_τ)² ≈ 0.05061.
+[IV.D284] EM-gravity cross-coupling κ(B,D) = ι<sub>τ</sub>²(1−ι<sub>τ</sub>)² ≈ 0.05061.
 Gravitational lensing channel.
 Equations
 - Tau.BookIV.Calibration.em_grav_cross = Tau.BookIV.Sectors.kappa_BD
@@ -137,7 +137,7 @@ Instances For
 Tau.BookIV.Calibration.strong_grav_cross :Sectors.CouplingFormula**
 
 
-[IV.D285] Strong-gravity cross-coupling κ(C,D) = ι_τ³(1−ι_τ) ≈ 0.02623.
+[IV.D285] Strong-gravity cross-coupling κ(C,D) = ι<sub>τ</sub>³(1−ι<sub>τ</sub>) ≈ 0.02623.
 Mass curves time.
 Equations
 - Tau.BookIV.Calibration.strong_grav_cross = Tau.BookIV.Sectors.kappa_CD
@@ -189,6 +189,6 @@ the multiplicative closure of weak × strong.
 Tau.BookIV.Calibration.hierarchy_resolution :Sectors.kappa_DD.numer > Sectors.kappa_AA.numer**
 
 
-[IV.P165] The gravitational self-coupling κ(D;1) = 1−ι_τ is the
+[IV.P165] The gravitational self-coupling κ(D;1) = 1−ι<sub>τ</sub> is the
 LARGEST primitive coupling. The apparent weakness of gravity
-is a readout artifact: G involves ι_τ² from the torus vacuum.
+is a readout artifact: G involves ι<sub>τ</sub>² from the torus vacuum.

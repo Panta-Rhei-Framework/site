@@ -358,7 +358,7 @@ Tau.BookV.Temporal.CepheidCalibrator :Type**
 period-luminosity relation arises from the (γ, D)-sector overlap.
 
 Period P and luminosity L are both determined by
-κ(D;1)/κ(B;1) = (1−ι_τ)/ι_τ².
+κ(D;1)/κ(B;1) = (1−ι<sub>τ</sub>)/ι<sub>τ</sub>².
 
 - period_numer : ℕ
 Period index (τ-native pulsation frequency readout).
@@ -415,8 +415,8 @@ recombination orbit depth n_rec.
 
 r_s(n_rec) = R_d[∫ c_s(n) dℓ/dn dn]
 
-Inputs (baryon-to-photon ratio, photon density, κ(D;1) = 1−ι_τ)
-are all derived from ι_τ.
+Inputs (baryon-to-photon ratio, photon density, κ(D;1) = 1−ι<sub>τ</sub>)
+are all derived from ι<sub>τ</sub>.
 
 - sound_horizon_numer : ℕ
 Sound horizon numerator (comoving Mpc, scaled).

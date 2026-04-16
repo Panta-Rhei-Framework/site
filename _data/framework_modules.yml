@@ -333,7 +333,7 @@
   layer: E1
   strand: microcosm
   summary_short: "The neutron is the first stable ontic particle — all others derive from it."
-  thesis: "The neutron emerges as the minimal stable defect on T²; bi-rotation at speed c with phase-lock ι_τ gives E = mc²."
+  thesis: "The neutron emerges as the minimal stable defect on T²; bi-rotation at speed c with phase-lock ι<sub>τ</sub> gives E = mc²."
   canonical_books: [IV]
   source_parts: [IV.1]
   key_registry: [IV.D14, IV.D17, IV.T01, IV.T02]
@@ -358,7 +358,7 @@
   slug: fine-structure
   layer: E1
   strand: microcosm
-  summary_short: "α = (121/225)·ι_τ⁴ at 9.8 ppm — zero free parameters."
+  summary_short: "α = (121/225)·ι<sub>τ</sub>⁴ at 9.8 ppm — zero free parameters."
   thesis: "The fine-structure constant is derived from the EM-active fraction (11/15) of boundary modes; m_n is the single calibration anchor."
   canonical_books: [IV]
   source_parts: [IV.1, IV.2]
@@ -371,7 +371,7 @@
   slug: electron-mass
   layer: E1
   strand: microcosm
-  summary_short: "R₀ = ι_τ⁻⁷ − √3·ι_τ⁻² ≈ 1838.7 — mass ratio at 0.025 ppm."
+  summary_short: "R₀ = ι<sub>τ</sub>⁻⁷ − √3·ι<sub>τ</sub>⁻² ≈ 1838.7 — mass ratio at 0.025 ppm."
   thesis: "The Epstein zeta at s=4 gives the bulk exponent -7; the lemniscate capacity √3 provides the correction."
   canonical_books: [IV]
   source_parts: [IV.2]
@@ -504,7 +504,7 @@
   layer: E1
   strand: macrocosm
   summary_short: "Flat rotation curves from boundary holonomy correction — no exotic particles needed."
-  thesis: "Galaxy dynamics follow from τ-Einstein geometry with coupling κ(D;1) = 1-ι_τ; MOND scale derived from ι_τ."
+  thesis: "Galaxy dynamics follow from τ-Einstein geometry with coupling κ(D;1) = 1-ι<sub>τ</sub>; MOND scale derived from ι<sub>τ</sub>."
   canonical_books: [V]
   source_parts: [V.5]
   key_registry: [V.T85]
@@ -516,7 +516,7 @@
   slug: black-holes
   layer: E1
   strand: macrocosm
-  summary_short: "Horizon = T², no singularity, no evaporation. QNM ratio = ι_τ⁻¹."
+  summary_short: "Horizon = T², no singularity, no evaporation. QNM ratio = ι<sub>τ</sub>⁻¹."
   thesis: "Black holes are topological events with torus horizons; profinite structure prevents divergences."
   canonical_books: [V]
   source_parts: [V.6]
@@ -529,8 +529,8 @@
   slug: cmb-pipeline
   layer: E1
   strand: macrocosm
-  summary_short: "r = ι_τ⁴, n_s = 0.9649, ℓ₁ = 220.6 — all from one constant."
-  thesis: "The CMB power spectrum is derived from ι_τ alone; tensor-to-scalar ratio pre-registered for CMB-S4."
+  summary_short: "r = ι<sub>τ</sub>⁴, n_s = 0.9649, ℓ₁ = 220.6 — all from one constant."
+  thesis: "The CMB power spectrum is derived from ι<sub>τ</sub> alone; tensor-to-scalar ratio pre-registered for CMB-S4."
   canonical_books: [V]
   source_parts: [V.1, V.6]
   key_registry: [V.T190, V.P136, V.T197]
@@ -555,7 +555,7 @@
   slug: falsification-predictions
   layer: E1
   strand: macrocosm
-  summary_short: "Seven pre-registered observational domains — if CMB-S4 rules out r = ι_τ⁴, the framework falls."
+  summary_short: "Seven pre-registered observational domains — if CMB-S4 rules out r = ι<sub>τ</sub>⁴, the framework falls."
   thesis: "Specific falsifiable tests across CMB, rotation curves, BH mergers, BBN, and gravitational waves."
   canonical_books: [V]
   source_parts: [V.6]
@@ -650,7 +650,7 @@
   slug: crossing-limit
   layer: E2
   strand: cosmic-life
-  summary_short: "The BH merger net converges to ι_τ — the universe tends toward maximal aliveness."
+  summary_short: "The BH merger net converges to ι<sub>τ</sub> — the universe tends toward maximal aliveness."
   thesis: "Black holes satisfy all seven hallmarks of life formally; the merger-directed net converges to the master constant."
   canonical_books: [VI]
   source_parts: [VI.7]

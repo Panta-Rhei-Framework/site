@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: not_applicable
 lean_module: null
 lean_name: null
-summary: 'ι_τ calibrates biological scales: membrane ~5nm (established), ATP 30.5
+summary: 'ι<sub>τ</sub> calibrates biological scales: membrane ~5nm (established), ATP 30.5
   kJ/mol (established), 20 amino acids (conjectural), circadian period (conjectural).'
 depends_on: []
 depended_by: []

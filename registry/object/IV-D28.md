@@ -13,7 +13,7 @@ scope: established
 formalization: formalized
 lean_module: TauLib.BookIV.Calibration.DimensionlessNearMatch
 lean_name: Tau.BookIV.Calibration.WeinbergNearMatch
-summary: 'Weinberg angle near-match: κ(A,D) = ι_τ(1−ι_τ) ≈ 0.2249 vs sin²θ_W = 0.23121
+summary: 'Weinberg angle near-match: κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>) ≈ 0.2249 vs sin²θ_W = 0.23121
   (CODATA 2022). Deviation ~2.7%. τ-approximation undershoots. Range proof: κ(A,D)
   ∈ (0.224, 0.226).'
 depends_on:

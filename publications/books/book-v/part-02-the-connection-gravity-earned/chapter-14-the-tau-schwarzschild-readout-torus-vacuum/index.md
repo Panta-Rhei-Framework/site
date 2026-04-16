@@ -64,7 +64,7 @@ but the torus vacuum geometry of τ³:
 the fibered product τ¹ ×_f T²,
 when the D-sector saturates,
 settles into a stabilized torus
-with shape ratio r/R = ι_τ
+with shape ratio r/R = ι<sub>τ</sub>
 (§).
 The gravitational constant G_τ
 emerges as the coherence conversion invariant

@@ -518,7 +518,7 @@ Tau.BookV.Astrophysics.t2_shadow_correction_factor :Float**
 
 
 [V.D241] T² Quadrupole Shadow Correction Factor.
-f(ι_τ) = 1+ι_τ²/4 = 1.02912. Shadow radius enlarged by 2.91% over GR S².
+f(ι<sub>τ</sub>) = 1+ι<sub>τ</sub>²/4 = 1.02912. Shadow radius enlarged by 2.91% over GR S².
 Equations
 - Tau.BookV.Astrophysics.t2_shadow_correction_factor = 1.0 + Tau.BookV.Astrophysics.iota_float✝ * Tau.BookV.Astrophysics.iota_float✝¹ / 4.0
 Instances For
@@ -533,7 +533,7 @@ Tau.BookV.Astrophysics.T2ShadowCorrection :Type**
 
 
 [V.D241] Structure capturing the T² quadrupole shadow correction.
-Quadrupole order ℓ=2 gives denominator ℓ²=4 in correction f = 1+ι_τ²/4.
+Quadrupole order ℓ=2 gives denominator ℓ²=4 in correction f = 1+ι<sub>τ</sub>²/4.
 
 - quadrupole_order : ℕ
 Quadrupole order ℓ = 2.
@@ -619,7 +619,7 @@ Tau.BookV.Astrophysics.eht_shadow_t2_pct_over_gr :Float**
 
 
 [V.T184] EHT Shadow T² Correction (+2.91% over GR).
-R_shadow(T²) = 3√3·(GM/c²)·(1+ι_τ²/4). M87*: 40.86 μas (−2.7% from EHT 42).
+R_shadow(T²) = 3√3·(GM/c²)·(1+ι<sub>τ</sub>²/4). M87*: 40.86 μas (−2.7% from EHT 42).
 Equations
 - Tau.BookV.Astrophysics.eht_shadow_t2_pct_over_gr = (Tau.BookV.Astrophysics.t2_shadow_correction_factor - 1.0) * 100.0
 Instances For
@@ -719,7 +719,7 @@ Tau.BookV.Astrophysics.BiRotationalDynamics :Type**
 
 
 Bi-rotational dynamics on T² — V.D277
-Two angular velocities from torus geometry: ω_minor = ω_major / ι_τ
+Two angular velocities from torus geometry: ω_minor = ω_major / ι<sub>τ</sub>
 
 - omega_major_description : String
 - omega_minor_description : String
@@ -840,7 +840,7 @@ Instances For
 Tau.BookV.Astrophysics.synchrotron_ratio_universal :m87_synchrotron.spectral_index_x100 = sgra_synchrotron.spectral_index_x100**
 
 
-Frequency ratio is ι_τ⁻¹ for both sources
+Frequency ratio is ι<sub>τ</sub>⁻¹ for both sources
 
 ---
 
@@ -905,7 +905,7 @@ Tau.BookV.Astrophysics.harmonic_frequency_ratio_x1000 :ℕ**
 
 
 Harmonic eigenfrequency ratio — V.T219
-f_{0,1}/f_{1,0} = √(ι_τ⁻²) = ι_τ⁻¹ ≈ 2.930
+f_{0,1}/f_{1,0} = √(ι<sub>τ</sub>⁻²) = ι<sub>τ</sub>⁻¹ ≈ 2.930
 Equations
 - Tau.BookV.Astrophysics.harmonic_frequency_ratio_x1000 = 2930
 Instances For
@@ -1022,7 +1022,7 @@ Instances For
 Tau.BookV.Astrophysics.variability_ratio_matches_synchrotron :sgra_variability.ratio_x1000 = birotational_synchrotron_ratio_x1000**
 
 
-Variability ratio matches synchrotron ratio (both = ι_τ⁻¹)
+Variability ratio matches synchrotron ratio (both = ι<sub>τ</sub>⁻¹)
 
 ---
 
@@ -1035,13 +1035,13 @@ Tau.BookV.Astrophysics.brightness_eigenvalue_eq_qnm :harmonic_frequency_ratio_x1
 
 [Sprint 22A] The brightness harmonic eigenvalue formula (V.D279) is identical to
 the QNM eigenvalue structure (V.D242). Both are eigenvalues of the Laplacian on
-the flat torus T² = (R·S¹)×(r·S¹) with r/R = ι_τ.
+the flat torus T² = (R·S¹)×(r·S¹) with r/R = ι<sub>τ</sub>.
 
 This is the Peter-Weyl theorem for U(1)×U(1): the characters ψ_{nm} = exp(i(nφ+mθ))
-form a complete orthonormal basis for L²(T²), with eigenvalues λ_{nm} = n² + m²ι_τ⁻².
+form a complete orthonormal basis for L²(T²), with eigenvalues λ_{nm} = n² + m²ι<sub>τ</sub>⁻².
 
 The link is structural: both V.D279 and V.D242 use the same eigenvalue formula,
-and the fundamental frequency ratio f_{0,1}/f_{1,0} = ι_τ⁻¹ ≈ 2.930 is identical
+and the fundamental frequency ratio f_{0,1}/f_{1,0} = ι<sub>τ</sub>⁻¹ ≈ 2.930 is identical
 to V.T185 (τ-effective QNM frequency ratio discriminator).
 
 ---
@@ -1053,7 +1053,7 @@ to V.T185 (τ-effective QNM frequency ratio discriminator).
 Tau.BookV.Astrophysics.brightness_ratio_is_iota_inv_x1000 :harmonic_frequency_ratio_x1000 = 2930**
 
 
-The brightness frequency ratio (V.T219) equals 2930 (= ι_τ⁻¹ × 1000),
+The brightness frequency ratio (V.T219) equals 2930 (= ι<sub>τ</sub>⁻¹ × 1000),
 which is the same constant as the QNM frequency ratio discriminator (V.T185).
 This structural identity establishes that brightness harmonics
 and QNM modes share the same spectral basis on T².
@@ -1068,7 +1068,7 @@ Tau.BookV.Astrophysics.birotation_ratio_eq_qnm_ratio :birotational_synchrotron_r
 
 
 [Sprint 22B] The bi-rotational frequency ratio (V.D277/V.T218) is identical to
-the QNM frequency ratio (V.T185, τ-effective). Both equal ι_τ⁻¹ × 1000 = 2930.
+the QNM frequency ratio (V.T185, τ-effective). Both equal ι<sub>τ</sub>⁻¹ × 1000 = 2930.
 This structural identity confirms that bi-rotational synchrotron modes are
 boundary-character oscillations read through the B-sector (EM), not accretion dynamics.
 
@@ -1082,7 +1082,7 @@ Tau.BookV.Astrophysics.all_ratios_unified :birotational_synchrotron_ratio_x1000 
 
 
 All three ratio constants (synchrotron, harmonic, variability) are identical:
-they are all ι_τ⁻¹ × 1000 = 2930.
+they are all ι<sub>τ</sub>⁻¹ × 1000 = 2930.
 
 ---
 
@@ -1212,7 +1212,7 @@ Tau.BookV.Astrophysics.ToroidalBFieldConfig :Type**
 
 
 [V.D284] Toroidal B-Field Configuration: magnetic field geometry
-on T² black hole. Toroidal component dominates by factor ι_τ⁻¹ ≈ 2.93.
+on T² black hole. Toroidal component dominates by factor ι<sub>τ</sub>⁻¹ ≈ 2.93.
 Field ratio is mass-independent, set by torus aspect ratio.
 
 - b_tor_x100 : ℕ
@@ -1387,7 +1387,7 @@ Tau.BookV.Astrophysics.NearHorizonBField :Type**
 
 
 [V.D288] Near-Horizon B-Field: equipartition magnetic field at photon sphere.
-B_tor/B_pol = ι_τ⁻¹ ≈ 2.93, mass-independent zero-parameter prediction.
+B_tor/B_pol = ι<sub>τ</sub>⁻¹ ≈ 2.93, mass-independent zero-parameter prediction.
 
 - source : String
 Source name.
@@ -1435,10 +1435,10 @@ Equations
 
 [source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/EHTReread.lean#L598-L601)
 **theorem
-Tau.BookV.Astrophysics.magnetic_ratio_is_iota_inv :"B_tor/B_pol = ι_τ⁻¹ ≈ 2.93 (mass-independent, zero-parameter)" = "B_tor/B_pol = ι_τ⁻¹ ≈ 2.93 (mass-independent, zero-parameter)"**
+Tau.BookV.Astrophysics.magnetic_ratio_is_iota_inv :"B_tor/B_pol = ι<sub>τ</sub>⁻¹ ≈ 2.93 (mass-independent, zero-parameter)" = "B_tor/B_pol = ι<sub>τ</sub>⁻¹ ≈ 2.93 (mass-independent, zero-parameter)"**
 
 
-[V.T230] Magnetic Field Ratio Theorem: B_tor/B_pol = ι_τ⁻¹ ≈ 2.93.
+[V.T230] Magnetic Field Ratio Theorem: B_tor/B_pol = ι<sub>τ</sub>⁻¹ ≈ 2.93.
 
 ---
 
@@ -1450,7 +1450,7 @@ Tau.BookV.Astrophysics.MagneticPredictionSuite :Type**
 
 
 [V.R412] Complete T² vs S² Magnetic Prediction Suite.
-9 observables, all derived from genus(T²) = 1 and ι_τ.
+9 observables, all derived from genus(T²) = 1 and ι<sub>τ</sub>.
 
 - w_evpa : ℕ
 EVPA winding number (T²).

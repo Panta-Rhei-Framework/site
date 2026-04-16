@@ -8,10 +8,10 @@ prediction_id: "pred-065"
 domain: "collective-dynamics"
 domain_display: "Collective Dynamics"
 observable: "vᵣₘ ᵣₑc"
-observable_mathml: "<math><mi>ι_τ²,vA</mi></math>"
-formula_plain: "ι_τ²,vA"
-formula_mathml: "<math><mi>ι_τ²,vA</mi></math>"
-formula_display: "v_rec = ι_τ² · v_A ≈ 0.117 v_A"
+observable_mathml: "<math><mi>ι<sub>τ</sub>²,vA</mi></math>"
+formula_plain: "ι<sub>τ</sub>²,vA"
+formula_mathml: "<math><mi>ι<sub>τ</sub>²,vA</mi></math>"
+formula_display: "v_rec = ι<sub>τ</sub>² · v_A ≈ 0.117 v_A"
 tau_value: "0.117,vA"
 observed_value: "0.01–0.1,vA"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**v_rec = ι_τ² · v_A ≈ 0.117 v_A**
+**v_rec = ι<sub>τ</sub>² · v_A ≈ 0.117 v_A**
 
 ## Derivation
 

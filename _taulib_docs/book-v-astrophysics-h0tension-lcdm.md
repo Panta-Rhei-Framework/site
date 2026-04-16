@@ -656,7 +656,7 @@ energy.
 The "120 orders of magnitude problem" is a category error:
 comparing boundary readout (Λ_obs) to bulk quantity (Λ_QFT).
 
-In the τ-framework, Λ is determined by ι_τ and the boundary
+In the τ-framework, Λ is determined by ι<sub>τ</sub> and the boundary
 geometry, naturally at the observed scale. No cancellation needed.
 
 ---
@@ -670,13 +670,13 @@ Tau.BookV.Astrophysics.CPLMapping :Type**
 
 [V.D295] CPL mapping of τ-EoS:
 w(z) = w₀ + wₐ · z/(1+z).
-w₀ = ι_τ³ − 1 ≈ −0.960, wₐ > 0 (defects deplete → w approaches −1).
+w₀ = ι<sub>τ</sub>³ − 1 ≈ −0.960, wₐ > 0 (defects deplete → w approaches −1).
 
 DESI DR2 (2025): w₀ = −0.75 ± 0.11, wₐ = −0.99 ± 0.48.
 τ-tension with DESI: ~2σ. τ is closer to DESI than ΛCDM on w₀.
 
 - w0_offset_x1000 : ℕ
-w₀ offset from −1 (×1000): ι_τ³ ≈ 0.040 → 40.
+w₀ offset from −1 (×1000): ι<sub>τ</sub>³ ≈ 0.040 → 40.
 
 - wa_positive : Bool
 wₐ sign: positive (defect depletion).
@@ -825,14 +825,14 @@ Tau.BookV.Astrophysics.HolonomySuppression :Type**
 
 
 [V.D296] Holonomy suppression factor:
-f_supp = 1 − κ_ω · ι_τ = 1 − ι_τ²/(1+ι_τ) ≈ 0.913.
+f_supp = 1 − κ_ω · ι<sub>τ</sub> = 1 − ι<sub>τ</sub>²/(1+ι<sub>τ</sub>) ≈ 0.913.
 Suppresses late-time structure growth via boundary holonomy correction.
 
 - f_supp_x1000 : ℕ
 f_supp (×1000): 0.913 → 913.
 
 - kappa_omega_iota_x10000 : ℕ
-κ_ω · ι_τ (×10000): 0.0868 → 868.
+κ_ω · ι<sub>τ</sub> (×10000): 0.0868 → 868.
 
 - suppression_active : Bool
 Suppression: f_supp < 1.
@@ -1033,7 +1033,7 @@ Instances For
 Tau.BookV.Astrophysics.GrowthIndex :Type**
 
 
-[V.T238] Growth index: γ_τ = 0.55 + 0.05·ι_τ³ ≈ 0.552.
+[V.T238] Growth index: γ_τ = 0.55 + 0.05·ι<sub>τ</sub>³ ≈ 0.552.
 
 - gamma_tau_x1000 : ℕ
 γ_τ (×1000): 0.552 → 552.
@@ -1218,8 +1218,8 @@ Tau.BookV.Astrophysics.HubbleDerivationChain :Type**
 
 
 [V.D319] Hubble Derivation Chain.
-h = 2/3 + ι_τ²/W₃(3) = 0.67352 at −120 ppm from Planck.
-Two-step: EdS base (2/3) + holonomy correction (ι_τ²/17).
+h = 2/3 + ι<sub>τ</sub>²/W₃(3) = 0.67352 at −120 ppm from Planck.
+Two-step: EdS base (2/3) + holonomy correction (ι<sub>τ</sub>²/17).
 Scope: τ-effective (Wave 38C).
 
 - eds_base_x100000 : ℕ
@@ -1292,7 +1292,7 @@ Instances For
 Tau.BookV.Astrophysics.hubble_uniqueness :hubble_derivation_data.free_params = 0 ∧ hubble_derivation_data.derivation_steps = 2**
 
 
-[V.T259] Uniqueness: h = 2/3 + ι_τ²/17 is unique first-order correction.
+[V.T259] Uniqueness: h = 2/3 + ι<sub>τ</sub>²/17 is unique first-order correction.
 
 ---
 

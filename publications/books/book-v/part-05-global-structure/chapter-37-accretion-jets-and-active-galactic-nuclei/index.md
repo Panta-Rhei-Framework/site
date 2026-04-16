@@ -87,7 +87,7 @@ proves that the topological index
 of the torus axis
 forces jet opening angles
 below a critical bound
-determined by the shape ratio ι_τ.
+determined by the shape ratio ι<sub>τ</sub>.
 AGN are then classified
 not by ad hoc orientation angles
 but by the **lifecycle phase**

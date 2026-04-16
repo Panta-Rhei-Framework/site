@@ -11,7 +11,7 @@ observable: "w₀"
 observable_mathml: "defect depletion"
 formula_plain: "defect depletion"
 formula_mathml: "defect depletion"
-formula_display: "w₀ = ι_τ³ − 1 ≈ −0.960 (not −1)"
+formula_display: "w₀ = ι<sub>τ</sub>³ − 1 ≈ −0.960 (not −1)"
 tau_value: "-0.960"
 observed_value: "-1.0 ± 0.05"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**w₀ = ι_τ³ − 1 ≈ −0.960 (not −1)**
+**w₀ = ι<sub>τ</sub>³ − 1 ≈ −0.960 (not −1)**
 
 ## Derivation
 
@@ -71,7 +71,7 @@ within Category $τ$.
 The dissolution is not speculative:
 it rests on five quantitative results,
 each derived from the master constant
-$ι_τ = 2/(π + e)$
+$ι<sub>τ</sub> = 2/(π + e)$
 with zero free parameters.
 
 - **Flat rotation curves**:
@@ -83,7 +83,7 @@ at $0.067$ dex RMS
 (V.T85, V.D258).
 
 - **Dark energy density**:
-$Ω_Λ = κ_D(1 + ι_τ^3) = 0.6849$,
+$Ω_Λ = κ_D(1 + ι<sub>τ</sub>^3) = 0.6849$,
 matching Planck at $+269$ ppm
 (V.T234).
 

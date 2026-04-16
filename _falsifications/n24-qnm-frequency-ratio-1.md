@@ -39,7 +39,7 @@ right_rail:
 ≈ 2.929$iota-tau-inv approx 2.929.
 
 $T^2$ winding modes give
-$ω_(1,0)/ω_(0,1) = ι_τ^-1$
+$ω_(1,0)/ω_(0,1) = ι<sub>τ</sub>^-1$
 (V.T168).
 Orthodox $S^2$: $ω_3/ω_2 ≈ 1.5$.
 *Experiment:* LIGO/Virgo A+, LISA, Einstein Telescope.
@@ -56,7 +56,7 @@ CP violation in the quark sector
 is governed by the geometry
 of the lemniscate boundary.
 
-where $κ_D = 1 - ι_τ$.
+where $κ_D = 1 - ι<sub>τ</sub>$.
 The PDG 2024 value is
 $η = 0.349^+0.012_-0.011$,
 giving a deviation of $-2\,285$ ppm ($-0.23%$, $0.7σ$).

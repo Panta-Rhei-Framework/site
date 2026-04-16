@@ -45,7 +45,7 @@ well, so that all four readout functors produce the same answer on
 S_L-admissible content. The Logos sector is then characterised as a
 fixed point of the register-crossing dynamics, with a basin of
 attraction containing exactly those contents stable under all four
-readout functors. The master constant ι_τ factors through
+readout functors. The master constant ι<sub>τ</sub> factors through
 S_L; its ubiquity across seven books is a structural shadow of this
 factorization. The chapter closes by connecting the E_3
 instantiation to the abstract mediator-sector template of Book III.

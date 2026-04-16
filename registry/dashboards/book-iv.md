@@ -383,7 +383,7 @@ Generated: 2026-03-10
 | IV.R44 | remark | Alpha Formula Correction | tau-e | — |
 | IV.R45 | remark | Part IV Reflection Summary | tau-e | — |
 | IV.D144 | definition | The C-sector | tau-e | form |
-| IV.R46 | remark | The (1 + ι_τ) contrast | tau-e | — |
+| IV.R46 | remark | The (1 + ι<sub>τ</sub>) contrast | tau-e | — |
 | IV.P80 | proposition | Spectral tightening in the C-sector | tau-e | form |
 | IV.R47 | remark | Comparison with the B-sector | tau-e | — |
 | IV.R48 | remark | Why two types of holonomy | tau-e | — |
@@ -1128,7 +1128,7 @@ Generated: 2026-03-10
 | IV.P186 | proposition | beta-Decay nu/nu-bar as Helicity Labels (not particle/antiparticle) | tau-e | form |
 | IV.D347 | definition | Three Primitive Winding Classes on T² | estab | form |
 | IV.T147 | theorem | Three-Generation Closure: Spectral Gap on T² | tau-e | form |
-| IV.T148 | theorem | m_μ/m_e Best NLO Formula: ι_τ⁻⁴·⁹⁶ at +307 ppm | tau-e | form |
+| IV.T148 | theorem | m_μ/m_e Best NLO Formula: ι<sub>τ</sub>⁻⁴·⁹⁶ at +307 ppm | tau-e | form |
 | IV.T149 | theorem | Lepton σ-Matrix Exponents from PDG Back-Solve | tau-e | form |
 | IV.P187 | proposition | Quark-Lepton Universality: Exponent Step ≈ −2.7 | tau-e | form |
 | IV.R397 | remark | 0vbb Prediction: must exist; rate proportional to |<m_bb>|^2 | tau-e | form |
@@ -1138,8 +1138,8 @@ Generated: 2026-03-10
 | IV.T151 | theorem | Higgs Mass Sub-1000 ppm Formula via Window Universality | tau-e | form |
 | IV.P188 | proposition | m_H/m_W Ratio [auto-upgrades with IV.P199] | tau-e | form |
 | IV.R399 | remark | Open: omega Self-Energy Correction and Coefficient-6 Identification | conje | form |
-| IV.D349 | definition | Cabibbo Angle from T² Holonomy: λ_C = ι_τ·κ_D | tau-e | form |
-| IV.T152 | theorem | Cabibbo Angle: sin(θ_C) = ι_τ·(1−ι_τ) at −2327 ppm | tau-e | form |
+| IV.D349 | definition | Cabibbo Angle from T² Holonomy: λ_C = ι<sub>τ</sub>·κ_D | tau-e | form |
+| IV.T152 | theorem | Cabibbo Angle: sin(θ_C) = ι<sub>τ</sub>·(1−ι<sub>τ</sub>) at −2327 ppm | tau-e | form |
 | IV.T153 | theorem | PMNS Large Mixing Requires A-Sector Flavor Rotation Beyond σ-Matrix | tau-e | form |
 | IV.T154 | theorem | GIM-Analog Cancelation from σ-Equivariance | tau-e | form |
 | IV.P189 | proposition | Quark-Lepton Complementarity: θ₁₂+θ_C ≈ π/4 from Fiber-Base Duality | tau-e | form |
@@ -1171,7 +1171,7 @@ Generated: 2026-03-10
 | IV.R408 | remark | m_mu/m_e Sub-100 ppm NNLO Status and Higgs n Comparison Table | tau-e | skel |
 | IV.D359 | definition | Wolfenstein η̄ from 5-Generator Pentagon: CP Violation from ω-Period | tau-e | form |
 | IV.T167 | theorem | Jarlskog Invariant J from τ-Parameters | tau-e | form |
-| IV.T168 | theorem | η̄ Best τ-Candidate: ι_τ^(−1/4)·κ_D^(5/4)/√5 at −2285 ppm | tau-e | form |
+| IV.T168 | theorem | η̄ Best τ-Candidate: ι<sub>τ</sub>^(−1/4)·κ_D^(5/4)/√5 at −2285 ppm | tau-e | form |
 | IV.P200 | proposition | CP Violation from ω-Period Pentagon: Pentagon-Angle Derivation | tau-e | form |
 | IV.R409 | remark | OQ-CKM1 Status after Sprint 6B: All Four Wolfenstein τ-Effective | tau-e | form |
 | IV.D360 | definition | m_μ/m_e NNLO k=23/3: W₃(4)+W₃(3)+1 Window-Algebra Exponent | tau-e | form |
@@ -1185,7 +1185,7 @@ Generated: 2026-03-10
 | IV.T172 | theorem | Generation Mass Hierarchy from Eigenvalue Ordering | tau-e | form |
 | IV.P202 | proposition | 15 = 3 × 5 Boundary Mode Decomposition | tau-e | form |
 | IV.R411 | remark | IV.OP3 Status: SOLVED (τ-effective) after Sprint 7A | tau-e | not_ |
-| IV.D363 | definition | Quarter-Lobe Holonomy: ι_τ Exponent -1/4 = -1/(2·|lobes|) | tau-e | form |
+| IV.D363 | definition | Quarter-Lobe Holonomy: ι<sub>τ</sub> Exponent -1/4 = -1/(2·|lobes|) | tau-e | form |
 | IV.D364 | definition | Pentagon Dark Coupling: κ_D Exponent 5/4 = |gen|/(2·|lobes|) | tau-e | form |
 | IV.T173 | theorem | η̄ Exponent Derivation: All from |lobes|=2, |gen|=5 (τ-effective) | tau-e | form |
 | IV.P203 | proposition | Jarlskog J Full-τ Consistency: J_τ = A_τ²·λ_τ⁶·η̄_τ | tau-e | form |
@@ -1193,7 +1193,7 @@ Generated: 2026-03-10
 | IV.D365 | definition | A-Sector NLO PMNS Rotation | tau-e | form |
 | IV.T174 | theorem | θ₂₃ NLO via Window Algebra at +8604 ppm | tau-e | form |
 | IV.T175 | theorem | θ₁₂ from QLC + Higgs NLO at +3106 ppm | tau-e | form |
-| IV.P204 | proposition | δ_CP = π + arctan(ι_τ) at +9365 ppm | tau-e | form |
+| IV.P204 | proposition | δ_CP = π + arctan(ι<sub>τ</sub>) at +9365 ppm | tau-e | form |
 | IV.R413 | remark | OQ-C7 Status: PARTIAL-IMPROVED after Sprint 7C | tau-e | not_ |
 | IV.D366 | definition | k=15/2 Baryogenesis-Lepton Duality: Shared Exponent 15 = dim(τ³)·W₃(4) | tau-e | form |
 | IV.D367 | definition | NNLO Exponent Catalog: 7 Window-Universal Corrections | tau-e | form |
@@ -1217,7 +1217,7 @@ Generated: 2026-03-10
 | IV.P210 | proposition | First-Row CKM Unitarity (Cabibbo Anomaly Test) | tau-e | skel |
 | IV.R419 | remark | Jarlskog Invariant from Wolfenstein at −8750 ppm | tau-e | not_ |
 | IV.T182 | theorem | Axial Coupling g_A from CF Window Algebra at 5.5 ppm | tau-e | skel |
-| IV.R420 | remark | Physical Meaning of g_A = κ_D²/ι_τ | tau-e | not_ |
+| IV.R420 | remark | Physical Meaning of g_A = κ_D²/ι<sub>τ</sub> | tau-e | not_ |
 | IV.D369 | definition | Quark Mass Winding Exponents | tau-e | skel |
 | IV.T183 | theorem | Top Quark Mass from Fiber Amplitude at +7200 ppm | tau-e | skel |
 | IV.P211 | proposition | Quark-Lepton Exponent Symmetry | tau-e | skel |
@@ -1233,7 +1233,7 @@ Generated: 2026-03-10
 | IV.D370 | definition | Quark Triplet σ-Matrix Parameters | estab | skel |
 | IV.T187 | theorem | Koide Deviation for Quark Triplets | tau-e | skel |
 | IV.R425 | remark | Why σ-Equivariance Fails for Current Masses | tau-e | not_ |
-| IV.T189 | theorem | m_t/m_b Ratio from ι_τ at +99 ppm | tau-e | skel |
+| IV.T189 | theorem | m_t/m_b Ratio from ι<sub>τ</sub> at +99 ppm | tau-e | skel |
 | IV.P215 | proposition | Intra-Triplet Ratio Exponents | tau-e | skel |
 | IV.P216 | proposition | Step-Exponent Confinement Correction | tau-e | skel |
 | IV.D371 | definition | Confinement-Corrected Mass Scale | estab | skel |

@@ -55,26 +55,26 @@ The proton-neutron mass difference δm = m_n − m_p = 1.2933 MeV is
 explained by two-sector boundary character coupling on L = S¹ ∨ S¹:
 
 ```
-δm/m_n = (3/16)·√3·ι_τ⁵ − (3/20)·α·ι_τ² at 33 ppm from PDG
+δm/m_n = (3/16)·√3·ι<sub>τ</sub>⁵ − (3/20)·α·ι<sub>τ</sub>² at 33 ppm from PDG
 ```
 
 
 Physical decomposition:
 
 
-- C-sector (QCD): (3/16)·√3·ι_τ⁵ ≈ 1.413 MeV (quark-mass mode, χ₋)
+- C-sector (QCD): (3/16)·√3·ι<sub>τ</sub>⁵ ≈ 1.413 MeV (quark-mass mode, χ₋)
 
-- B-sector (EM): (3/20)·α·ι_τ² ≈ 0.120 MeV (Coulomb mode, χ₊)
+- B-sector (EM): (3/20)·α·ι<sub>τ</sub>² ≈ 0.120 MeV (Coulomb mode, χ₊)
 
 
 NLO structural candidate (10.5 ppm):
-δm/m_n = (√3/2)·ι_τ⁶·(1 + (6/5)·ι_τ⁵)
+δm/m_n = (√3/2)·ι<sub>τ</sub>⁶·(1 + (6/5)·ι<sub>τ</sub>⁵)
 where 6/5 = (N_ell · N_c)/N_gen = (2·3)/5.
 
 ## Precision Note
 
 
-All rational arithmetic uses ι_τ ≈ 341304/1000000 (6-digit approximation).
+All rational arithmetic uses ι<sub>τ</sub> ≈ 341304/1000000 (6-digit approximation).
 Range proofs via native_decide on Nat. Exact ppm values require 50-digit mpmath
 (see scripts/pn_mass_diff_lab.py). The range theorems verify structural correctness.
 
@@ -181,14 +181,14 @@ We work in the same Nat-rational framework as LemniscateCapacity.lean
 and MassRatioFormula.lean.
 
 ```
-ι_τ ≈ 341304/1000000 (iota / iotaD from SectorParameters)
+ι<sub>τ</sub> ≈ 341304/1000000 (iota / iotaD from SectorParameters)
 
-ι_τ⁵: numer = 341304⁵ = iota⁵, denom = 1000000⁵ = iotaD⁵
-ι_τ²: numer = 341304² = iota², denom = 1000000² = iotaD²
+ι<sub>τ</sub>⁵: numer = 341304⁵ = iota⁵, denom = 1000000⁵ = iotaD⁵
+ι<sub>τ</sub>²: numer = 341304² = iota², denom = 1000000² = iotaD²
 
 √3 ≈ 17320508/10000000 (from LemniscateCapacity.lean: sqrt3_numer/sqrt3_denom)
 
-α = (121/225)·ι_τ⁴: numer = 121·iota⁴, denom = 225·iotaD⁴
+α = (121/225)·ι<sub>τ</sub>⁴: numer = 121·iota⁴, denom = 225·iotaD⁴
 ```
 
 
@@ -315,7 +315,7 @@ Tau.BookIV.Physics.iota2_denom_pos :iota2_denom > 0**
 Tau.BookIV.Physics.iota6_denom_pos :iota6_denom > 0**
 
 
-[IV.D341] QCD Contribution = (3/16) · √3 · ι_τ⁵
+[IV.D341] QCD Contribution = (3/16) · √3 · ι<sub>τ</sub>⁵
 
 ```
 Cross-multiplied form for Nat arithmetic:
@@ -336,7 +336,7 @@ Python lab confirms: ≈ 1.50408 × 10⁻³ in units of m_n
 Tau.BookIV.Physics.qcd_numer :ℕ**
 
 
-[IV.D341] QCD contribution numerator: 3 · √3_numer · ι_τ⁵_numer.
+[IV.D341] QCD contribution numerator: 3 · √3_numer · ι<sub>τ</sub>⁵_numer.
 Equations
 - Tau.BookIV.Physics.qcd_numer = 3 * Tau.BookIV.Physics.sqrt3_numer * Tau.BookIV.Physics.iota5_numer
 Instances For
@@ -350,7 +350,7 @@ Instances For
 Tau.BookIV.Physics.qcd_denom :ℕ**
 
 
-[IV.D341] QCD contribution denominator: 16 · √3_denom · ι_τ⁵_denom.
+[IV.D341] QCD contribution denominator: 16 · √3_denom · ι<sub>τ</sub>⁵_denom.
 Equations
 - Tau.BookIV.Physics.qcd_denom = 16 * Tau.BookIV.Physics.sqrt3_denom * Tau.BookIV.Physics.iota5_denom
 Instances For
@@ -390,15 +390,15 @@ Tau.BookIV.Physics.qcd_in_range :qcd_numer * 1000000 > 1490 * qcd_denom ∧ qcd_
 
 
 [IV.D341] QCD contribution is in range (1.49, 1.51) × 10⁻³.
-Python lab: (3/16)·√3·ι_τ⁵ ≈ 1.50408 × 10⁻³
-Proof: (3/16)·√3·ι_τ⁵ ≈ 1.504e-3 confirmed by #eval above.
+Python lab: (3/16)·√3·ι<sub>τ</sub>⁵ ≈ 1.50408 × 10⁻³
+Proof: (3/16)·√3·ι<sub>τ</sub>⁵ ≈ 1.504e-3 confirmed by #eval above.
 
-[IV.D342] EM Contribution = (3/20) · α · ι_τ²
+[IV.D342] EM Contribution = (3/20) · α · ι<sub>τ</sub>²
 
 ```
-α = (121/225)·ι_τ⁴, so:
-(3/20) · α · ι_τ² = (3 · 121 / (20 · 225)) · ι_τ⁶
- = (363/4500) · ι_τ⁶
+α = (121/225)·ι<sub>τ</sub>⁴, so:
+(3/20) · α · ι<sub>τ</sub>² = (3 · 121 / (20 · 225)) · ι<sub>τ</sub>⁶
+ = (363/4500) · ι<sub>τ</sub>⁶
 
 Cross-multiplied form:
  numer = 363 · iota⁶ = 3 · 121 · iota⁶
@@ -418,7 +418,7 @@ Python lab confirms: ≈ 1.27510 × 10⁻⁴ in units of m_n
 Tau.BookIV.Physics.em_numer :ℕ**
 
 
-[IV.D342] EM contribution numerator: 363 · ι_τ⁶_numer.
+[IV.D342] EM contribution numerator: 363 · ι<sub>τ</sub>⁶_numer.
 363 = 3 × 121 = N_c × α_tower_coeff_numer
 Equations
 - Tau.BookIV.Physics.em_numer = 363 * Tau.BookIV.Physics.iota6_numer
@@ -433,7 +433,7 @@ Instances For
 Tau.BookIV.Physics.em_denom :ℕ**
 
 
-[IV.D342] EM contribution denominator: 4500 · ι_τ⁶_denom.
+[IV.D342] EM contribution denominator: 4500 · ι<sub>τ</sub>⁶_denom.
 4500 = 20 × 225 = (4 × N_gen) × α_tower_coeff_denom
 Equations
 - Tau.BookIV.Physics.em_denom = 4500 * Tau.BookIV.Physics.iota6_denom
@@ -474,10 +474,10 @@ Tau.BookIV.Physics.em_in_range :em_numer * 10000000 > 1260 * em_denom ∧ em_num
 
 
 [IV.D342] EM contribution is in range (1.26, 1.29) × 10⁻⁴.
-Python lab: (3/20)·α·ι_τ² ≈ 1.27510 × 10⁻⁴
+Python lab: (3/20)·α·ι<sub>τ</sub>² ≈ 1.27510 × 10⁻⁴
 Proof: #eval confirms em_float ≈ 1.275e-4 ∈ (1.26e-4, 1.29e-4).
 
-[IV.T141] Tree-level: δm/m_n = (√3/2) · ι_τ⁶
+[IV.T141] Tree-level: δm/m_n = (√3/2) · ι<sub>τ</sub>⁶
 
 ```
 Cross-multiplied form:
@@ -497,7 +497,7 @@ Python lab: −5516 ppm (conjectural scope)
 Tau.BookIV.Physics.tree_numer :ℕ**
 
 
-[IV.T141] Tree-level numerator: √3_numer · ι_τ⁶_numer.
+[IV.T141] Tree-level numerator: √3_numer · ι<sub>τ</sub>⁶_numer.
 Equations
 - Tau.BookIV.Physics.tree_numer = Tau.BookIV.Physics.sqrt3_numer * Tau.BookIV.Physics.iota6_numer
 Instances For
@@ -511,7 +511,7 @@ Instances For
 Tau.BookIV.Physics.tree_denom :ℕ**
 
 
-[IV.T141] Tree-level denominator: 2 · √3_denom · ι_τ⁶_denom.
+[IV.T141] Tree-level denominator: 2 · √3_denom · ι<sub>τ</sub>⁶_denom.
 Equations
 - Tau.BookIV.Physics.tree_denom = 2 * Tau.BookIV.Physics.sqrt3_denom * Tau.BookIV.Physics.iota6_denom
 Instances For
@@ -537,11 +537,11 @@ Tau.BookIV.Physics.deltaMassTree_range :tree_numer * 1000000 > 1350 * tree_denom
 
 
 [IV.T141] Tree-level formula lies in (1.35, 1.40) × 10⁻³.
-Python lab: (√3/2)·ι_τ⁶ ≈ 1.36893 × 10⁻³ (−5516 ppm from PDG)
+Python lab: (√3/2)·ι<sub>τ</sub>⁶ ≈ 1.36893 × 10⁻³ (−5516 ppm from PDG)
 Proof: #eval confirms tree_numer/tree_denom ≈ 1.369e-3 ∈ (1.35e-3, 1.40e-3).
 
 [IV.T142] Two-sector: δm/m_n = QCD − EM
-= (3/16)·√3·ι_τ⁵ − (363/4500)·ι_τ⁶
+= (3/16)·√3·ι<sub>τ</sub>⁵ − (363/4500)·ι<sub>τ</sub>⁶
 
 ```
 To compare QCD > EM (sign proposition), we cross-multiply:

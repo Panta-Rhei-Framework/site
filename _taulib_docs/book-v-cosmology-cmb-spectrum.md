@@ -28,7 +28,7 @@ right_rail:
 
 CMB power spectrum pipeline from Category τ. Derives principal CMB
 observables (ω_b, ω_m, r_s, ℓ₁, r, A_s, h) from the single input
-ι_τ = 2/(π + e). Covers Wave 8 sprints 8A, 8B, 8E.
+ι<sub>τ</sub> = 2/(π + e). Covers Wave 8 sprints 8A, 8B, 8E.
 
 ## Registry Cross-References
 
@@ -46,9 +46,9 @@ observables (ω_b, ω_m, r_s, ℓ₁, r, A_s, h) from the single input
 
 - [V.T192] First Peak from Holonomy Matter Fraction
 
-- [V.P135] Structural Acoustic Scale ι_τ⁻⁵ Cross-Check
+- [V.P135] Structural Acoustic Scale ι<sub>τ</sub>⁻⁵ Cross-Check
 
-- [V.P136] CMB Tensor-to-Scalar Ratio r = ι_τ⁴
+- [V.P136] CMB Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴
 
 - [V.R384] V.OP3 Status: PARTIAL-IMPROVED after Sprint 8A
 
@@ -64,7 +64,7 @@ observables (ω_b, ω_m, r_s, ℓ₁, r, A_s, h) from the single input
 
 - [V.T194] Neutrino Phase Shift on CMB Peaks
 
-- [V.T195] Two-Horizon Consistency from ι_τ
+- [V.T195] Two-Horizon Consistency from ι<sub>τ</sub>
 
 - [V.P137] Free-Streaming Suppression from τ-Native Masses
 
@@ -76,7 +76,7 @@ observables (ω_b, ω_m, r_s, ℓ₁, r, A_s, h) from the single input
 ### Sprint 8E (Hubble Pipeline Verification)
 
 
-- [V.D251] Structural Hubble Parameter h = 2/3 + ι_τ²/W₃(3)
+- [V.D251] Structural Hubble Parameter h = 2/3 + ι<sub>τ</sub>²/W₃(3)
 
 - [V.D252] DE-Closure Matter Density
 
@@ -183,7 +183,7 @@ Tau.BookV.Cosmology.HolonomyMatterFraction :Type**
 
 
 [V.D248] Boundary Holonomy Matter Fraction.
-ω_m/ω_b = 1 + (1−ι_τ)/ι_τ² = 6.655.
+ω_m/ω_b = 1 + (1−ι<sub>τ</sub>)/ι<sub>τ</sub>² = 6.655.
 Boundary holonomy mass is topological, gravitates like CDM.
 
 - origin_type : ℕ
@@ -263,8 +263,8 @@ Tau.BookV.Cosmology.BaryonDensityFromIota :Type**
 
 
 [V.T190] Baryon Density from Master Constant.
-ι_τ → α_τ → η_B → ω_b = 0.02209. Zero free parameters.
-Chain: ι_τ → α_τ = (121/225)·ι_τ⁴ → η_B = α·ι_τ¹⁵·(5/6) →
+ι<sub>τ</sub> → α_τ → η_B → ω_b = 0.02209. Zero free parameters.
+Chain: ι<sub>τ</sub> → α_τ = (121/225)·ι<sub>τ</sub>⁴ → η_B = α·ι<sub>τ</sub>¹⁵·(5/6) →
 ρ_b = m_p·η_B·n_γ → ω_b = ρ_b/ρ_crit.
 
 - chain_links : ℕ
@@ -486,8 +486,8 @@ Tau.BookV.Cosmology.first_peak_holonomy_thm :first_peak_data.free_params = 0 ∧
 Tau.BookV.Cosmology.AcousticScaleCrosscheck :Type**
 
 
-[V.P135] Structural Acoustic Scale ι_τ⁻⁵ Cross-Check.
-ι_τ⁻⁵ = ((π+e)/2)⁵ = 215.92. Exponent −5 = −(dim+lobes) = −(3+2).
+[V.P135] Structural Acoustic Scale ι<sub>τ</sub>⁻⁵ Cross-Check.
+ι<sub>τ</sub>⁻⁵ = ((π+e)/2)⁵ = 215.92. Exponent −5 = −(dim+lobes) = −(3+2).
 
 - exponent : ℕ
 Exponent: dim + lobes.
@@ -562,12 +562,12 @@ Tau.BookV.Cosmology.acoustic_scale_crosscheck_thm :acoustic_check.exponent = 5**
 Tau.BookV.Cosmology.TensorScalarRatio :Type**
 
 
-[V.P136] CMB Tensor-to-Scalar Ratio r = ι_τ⁴.
+[V.P136] CMB Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴.
 r = 0.01357. Below BICEP/Keck bound r < 0.036.
 CMB-S4 detection at ~14σ. Falsifiable.
 
 Wave 13 upgrade: DERIVED from fiber dimensional suppression.
-r = ι_τ^{2·dim(T²)} = ι_τ⁴ where:
+r = ι<sub>τ</sub>^{2·dim(T²)} = ι<sub>τ</sub>⁴ where:
 
 
 - dim(T²) = 2: fiber dimension (two circles)
@@ -579,7 +579,7 @@ Scope: conjectural → τ-effective.
 
 
 - iota_power : ℕ
-Power of ι_τ.
+Power of ι<sub>τ</sub>.
 
 - power_eq : self.iota_power = 4
 Power is 4.
@@ -600,7 +600,7 @@ r × 10^6 for high precision.
 CMB-S4 detection significance in σ.
 
 - free_params : ℕ
-Free parameters beyond ι_τ.
+Free parameters beyond ι<sub>τ</sub>.
 
 Instances For
 
@@ -728,10 +728,10 @@ Tau.BookV.Cosmology.HolonomyNLOScan :Type**
 
 
 [V.T193] Holonomy Matter NLO Correction Scan.
-Best: δ = ι_τ³ at −386 ppm on ratio, but ℓ₁ worsens to +8655 ppm.
+Best: δ = ι<sub>τ</sub>³ at −386 ppm on ratio, but ℓ₁ worsens to +8655 ppm.
 
 - best_exponent : ℕ
-Best NLO exponent (ι_τ³ → 3).
+Best NLO exponent (ι<sub>τ</sub>³ → 3).
 
 - nlo_deviation_ppm : ℕ
 NLO deviation in ppm (cancellation broken).
@@ -855,7 +855,7 @@ Tau.BookV.Cosmology.neutrino_phase_shift :neutrino_phase_data.n_eff = 3 ∧ neut
 Tau.BookV.Cosmology.TwoHorizonConsistency :Type**
 
 
-[V.T195] Two-Horizon Consistency from ι_τ.
+[V.T195] Two-Horizon Consistency from ι<sub>τ</sub>.
 CMB (z_rec~1093), CνB (z_ν~5.8×10⁹), Mass (f_ν→ΔP/P).
 Three chains, zero free parameters.
 
@@ -869,7 +869,7 @@ Three horizons.
 Number of free parameters.
 
 - n_inputs : ℕ
-Number of independent inputs (single ι_τ).
+Number of independent inputs (single ι<sub>τ</sub>).
 
 Instances For
 
@@ -1087,8 +1087,8 @@ Instances For
 Tau.BookV.Cosmology.structural_hubble :Float**
 
 
-[V.D251] Structural Hubble Parameter h = 2/3 + ι_τ²/W₃(3).
-h = 2/3 + ι_τ²/17 = 0.67352 at −120 ppm from Planck 0.6736.
+[V.D251] Structural Hubble Parameter h = 2/3 + ι<sub>τ</sub>²/W₃(3).
+h = 2/3 + ι<sub>τ</sub>²/17 = 0.67352 at −120 ppm from Planck 0.6736.
 Base: 2/3 = EdS exponent. Correction: κ_B/17.
 Equations
 - Tau.BookV.Cosmology.structural_hubble = 2.0 / 3.0 + Tau.BookV.Cosmology.kappa_B✝ / 17.0
@@ -1104,7 +1104,7 @@ Tau.BookV.Cosmology.de_closure_omega_lambda :Float**
 
 
 [V.D252] DE-Closure Matter Density.
-Ω_Λ = κ_D·(1+ι_τ³) = 0.6849.
+Ω_Λ = κ_D·(1+ι<sub>τ</sub>³) = 0.6849.
 ω_m = (1−Ω_Λ−Ω_r)·h² = 0.1429. Planck: 0.1430 (−674 ppm).
 Equations
 - Tau.BookV.Cosmology.de_closure_omega_lambda = Tau.BookV.Cosmology.kappa_D✝ * (1.0 + Tau.BookV.Cosmology.iota_float✝ * Tau.BookV.Cosmology.iota_float✝¹ * Tau.BookV.Cosmology.iota_float✝²)
@@ -1132,10 +1132,10 @@ Tau.BookV.Cosmology.scalar_amplitude_nlo_desc :String**
 
 
 [V.D253] Scalar Amplitude NLO.
-A_s = (121/225)·ι_τ¹⁸·(1−ι_τ³/3) = 2.096×10⁻⁹.
+A_s = (121/225)·ι<sub>τ</sub>¹⁸·(1−ι<sub>τ</sub>³/3) = 2.096×10⁻⁹.
 10× improvement over baseline +11425 ppm.
 Equations
-- Tau.BookV.Cosmology.scalar_amplitude_nlo_desc = "A_s = (121/225)·ι_τ¹⁸·(1−ι_τ³/3) = 2.096×10⁻⁹. " ++ "NLO factor is structural (τ³ volume averaging), not slow-roll running."
+- Tau.BookV.Cosmology.scalar_amplitude_nlo_desc = "A_s = (121/225)·ι<sub>τ</sub>¹⁸·(1−ι<sub>τ</sub>³/3) = 2.096×10⁻⁹. " ++ "NLO factor is structural (τ³ volume averaging), not slow-roll running."
 Instances For
 
 ---
@@ -1148,9 +1148,9 @@ Tau.BookV.Cosmology.hubble_from_tau :String**
 
 
 [V.T196] Hubble Parameter from τ: h at −120 ppm.
-h = 2/3 + ι_τ²/17 = 0.67352. Planck h = 0.6736.
+h = 2/3 + ι<sub>τ</sub>²/17 = 0.67352. Planck h = 0.6736.
 Equations
-- Tau.BookV.Cosmology.hubble_from_tau = "h = 2/3 + ι_τ²/17 = 0.67352, Planck 0.6736, deviation −120 ppm. " ++ "2/3 = EdS exponent; ι_τ²/17 = EM correction / dominant CF window."
+- Tau.BookV.Cosmology.hubble_from_tau = "h = 2/3 + ι<sub>τ</sub>²/17 = 0.67352, Planck 0.6736, deviation −120 ppm. " ++ "2/3 = EdS exponent; ι<sub>τ</sub>²/17 = EM correction / dominant CF window."
 Instances For
 
 ---
@@ -1164,7 +1164,7 @@ Tau.BookV.Cosmology.full_pipeline_h :String**
 
 [V.T197] Full CMB Pipeline with Structural h.
 M3h+h_τ: ℓ₁=220.63 (+2863 ppm). DE+h_τ: ℓ₁=221.52 (+6925 ppm).
-Zero free parameters beyond ι_τ and T_CMB.
+Zero free parameters beyond ι<sub>τ</sub> and T_CMB.
 Equations
 - Tau.BookV.Cosmology.full_pipeline_h = "Full pipeline (M3h+h_τ): ℓ₁=220.63 (+2863), ℓ₂=529.75, ℓ₃=796.74. " ++ "Peak ratios ℓ₂/ℓ₁=2.401, ℓ₃/ℓ₁=3.611 are universal (phase-shift determined)."
 Instances For
@@ -1179,7 +1179,7 @@ Tau.BookV.Cosmology.as_inflation_consistency :String**
 
 
 [V.T198] Scalar Amplitude NLO: Inflationary Consistency.
-NLO factor (1−ι_τ³/3) is structural, not slow-roll.
+NLO factor (1−ι<sub>τ</sub>³/3) is structural, not slow-roll.
 ε = r/16 8.5×10⁻⁴, running 10⁻³ ≪ required 10⁻² (156× gap).
 Equations
 - One or more equations did not get rendered due to their size.
@@ -1239,19 +1239,19 @@ The boundary holonomy mass M_∂ contributes to the Friedmann
 energy budget in ratio κ_D/κ_B to baryonic matter:
 
 ρ = ρ_baryon + ρ_holonomy
-ρ_holonomy/ρ_baryon = κ_D/κ_B = (1−ι_τ)/ι_τ² ≈ 5.655
+ρ_holonomy/ρ_baryon = κ_D/κ_B = (1−ι<sub>τ</sub>)/ι<sub>τ</sub>² ≈ 5.655
 
 Physical basis:
 
 
-- Baryons couple through EM (κ_B = ι_τ²)
+- Baryons couple through EM (κ_B = ι<sub>τ</sub>²)
 
-- Holonomy mass couples through gravity (κ_D = 1−ι_τ)
+- Holonomy mass couples through gravity (κ_D = 1−ι<sub>τ</sub>)
 
 - The ratio is the "holonomy-to-baryon" ratio
 
 
-Therefore ω_m/ω_b = 1 + κ_D/κ_B = 1 + (1−ι_τ)/ι_τ² = 6.655.
+Therefore ω_m/ω_b = 1 + κ_D/κ_B = 1 + (1−ι<sub>τ</sub>)/ι<sub>τ</sub>² = 6.655.
 
 - n_baryon_coupling : ℕ
 Number of baryon coupling channels (EM: κ_B).
@@ -1332,7 +1332,7 @@ The number of e-folds is determined by:
 
 - dim(τ³) = 3: independent directions in the fiber
 
-- W₅(3) = 19: the [5,3] Window modulus from CF(ι_τ⁻¹)
+- W₅(3) = 19: the [5,3] Window modulus from CF(ι<sub>τ</sub>⁻¹)
 
 - Each dimension traverses W₅(3) independent winding modes
 before the first complex structure (hadronic threshold)
@@ -1365,10 +1365,10 @@ n_s deviation from Planck in ppm (+13).
 Exit condition: 1 = threshold crossing (ch48).
 
 - cf_a3 : ℕ
-a₃ = 13 from CF(ι_τ⁻¹), source of W₅(3).
+a₃ = 13 from CF(ι<sub>τ</sub>⁻¹), source of W₅(3).
 
 - cf_a4 : ℕ
-a₄ = 3 from CF(ι_τ⁻¹).
+a₄ = 3 from CF(ι<sub>τ</sub>⁻¹).
 
 - window_decomp : self.w53 = self.cf_a3 + 5 + 1
 W₅(3) = a₃ + a₄ + 1 = 13 + 5 + 1 = 19.
@@ -1521,14 +1521,14 @@ Tau.BookV.Cosmology.HubbleParameter :Type**
 
 
 [V.T196] Hubble Parameter from τ at −120 ppm.
-h = 2/3 + ι_τ²/W₃(3) = 2/3 + ι_τ²/17 = 0.67352.
+h = 2/3 + ι<sub>τ</sub>²/W₃(3) = 2/3 + ι<sub>τ</sub>²/17 = 0.67352.
 Base: 2/3 = EdS exponent. Correction: κ_B/17.
 
 - w33 : ℕ
 W₃(3) = 17 from CF window.
 
 - correction_power : ℕ
-Correction power (ι_τ² → 2).
+Correction power (ι<sub>τ</sub>² → 2).
 
 - free_params : ℕ
 Number of free parameters.
@@ -1595,10 +1595,10 @@ M3h + h_τ: ℓ₁ = 220.63 (+2863 ppm). Zero free parameters.
 Number of pipeline stages.
 
 - free_params : ℕ
-Number of free parameters beyond ι_τ and T_CMB.
+Number of free parameters beyond ι<sub>τ</sub> and T_CMB.
 
 - n_inputs : ℕ
-Number of independent inputs (single ι_τ).
+Number of independent inputs (single ι<sub>τ</sub>).
 
 Instances For
 
@@ -1656,16 +1656,16 @@ Tau.BookV.Cosmology.ScalarAmplitudeNLO :Type**
 
 
 [V.T198] Scalar Amplitude NLO.
-A_s = (121/225)·ι_τ¹⁸·(1−ι_τ³/3) = 2.096×10⁻⁹.
+A_s = (121/225)·ι<sub>τ</sub>¹⁸·(1−ι<sub>τ</sub>³/3) = 2.096×10⁻⁹.
 NLO factor is structural (τ³ volume averaging).
 
 Wave 14A upgrade: coefficient origin and derivation chain formalized.
-(121/225) = (11/15)² inherited from α_τ = (121/225)·ι_τ⁴.
-NLO factor (1−ι_τ³/3) = cubic coupling / dim(τ³) dimensions.
+(121/225) = (11/15)² inherited from α_τ = (121/225)·ι<sub>τ</sub>⁴.
+NLO factor (1−ι<sub>τ</sub>³/3) = cubic coupling / dim(τ³) dimensions.
 Scope: conjectural → τ-effective.
 
 - nlo_power : ℕ
-NLO power (ι_τ³ averaging → 3).
+NLO power (ι<sub>τ</sub>³ averaging → 3).
 
 - gap_factor : ℕ
 Slow-roll gap factor (156× gap → not slow-roll).
@@ -1680,7 +1680,7 @@ Coefficient denominator (225 = 15²).
 Coefficient is (11/15)².
 
 - base_exponent : ℕ
-Base exponent (ι_τ¹⁸ = ι_τ^{W₄(3)}).
+Base exponent (ι<sub>τ</sub>¹⁸ = ι<sub>τ</sub>^{W₄(3)}).
 
 - nlo_dim : ℕ
 NLO dimension (dim(τ³) = 3).
@@ -1751,23 +1751,23 @@ Tau.BookV.Cosmology.ScalarAmplitudeDerivation :Type**
 
 
 [V.D253 upgrade] Scalar Amplitude Derivation Chain.
-A_s = α_τ · ι_τ¹⁴ · (1 − ι_τ³/3).
+A_s = α_τ · ι<sub>τ</sub>¹⁴ · (1 − ι<sub>τ</sub>³/3).
 The coefficient (121/225) is inherited from the fine-structure
-constant chain: α_τ = (121/225)·ι_τ⁴. No new free parameter.
-The NLO factor (1 − ι_τ³/3) is τ³ volume averaging:
-cubic coupling ι_τ³ averaged over dim(τ³) = 3 dimensions.
+constant chain: α_τ = (121/225)·ι<sub>τ</sub>⁴. No new free parameter.
+The NLO factor (1 − ι<sub>τ</sub>³/3) is τ³ volume averaging:
+cubic coupling ι<sub>τ</sub>³ averaged over dim(τ³) = 3 dimensions.
 
 - alpha_tau_remaining_power : ℕ
-α_τ power of ι_τ in A_s (14 = W₄(3) − 4).
+α_τ power of ι<sub>τ</sub> in A_s (14 = W₄(3) − 4).
 
 - total_iota_power : ℕ
-Total ι_τ power (18 = 4 + 14).
+Total ι<sub>τ</sub> power (18 = 4 + 14).
 
 - power_is_w43 : self.total_iota_power = 18
 Power decomposition: 18 = W₄(3).
 
 - chain_links : ℕ
-Chain links: ι_τ → α_τ → A_s.
+Chain links: ι<sub>τ</sub> → α_τ → A_s.
 
 - coefficient_source : ℕ
 Source: 1 = α_τ inheritance (not new fit).
@@ -1776,7 +1776,7 @@ Source: 1 = α_τ inheritance (not new fit).
 NLO: 1 = volume averaging (not slow-roll).
 
 - free_params : ℕ
-Free parameters beyond ι_τ.
+Free parameters beyond ι<sub>τ</sub>.
 
 Instances For
 
@@ -1908,7 +1908,7 @@ Tau.BookV.Cosmology.SilkDampingScale :Type**
 
 
 [V.D254] Silk Damping Scale from Holonomy Ratio.
-ℓ_D = ℓ₁ × κ_D/κ_B = ℓ₁ × (1−ι_τ)/ι_τ² = 220 × 5.6546 = 1244.0.
+ℓ_D = ℓ₁ × κ_D/κ_B = ℓ₁ × (1−ι<sub>τ</sub>)/ι<sub>τ</sub>² = 220 × 5.6546 = 1244.0.
 Eisenstein-Hu (1998): ℓ_D ≈ 1244. Match: +9 ppm.
 
 Physical interpretation: photon diffusion reaches the scale where
@@ -2002,12 +2002,12 @@ Tau.BookV.Cosmology.EtaBExponentResolution :Type**
 
 [V.R387] η_B Exponent Resolution: 15 vs 20.
 
-2nd Ed: η_B = α_τ · ι_τ¹⁵ · (5/6)
-1st Ed: η_B = q_B · ι_τ²⁰ where q_B ≈ 1.313
+2nd Ed: η_B = α_τ · ι<sub>τ</sub>¹⁵ · (5/6)
+1st Ed: η_B = q_B · ι<sub>τ</sub>²⁰ where q_B ≈ 1.313
 
-Resolution: expanding α_τ = (121/225)·ι_τ⁴ gives
-η_B = (121/270) · ι_τ¹⁹. The effective exponent is 19.
-The 1st Ed absorbed one factor ι_τ into q_B = (121/270)/ι_τ.
+Resolution: expanding α_τ = (121/225)·ι<sub>τ</sub>⁴ gives
+η_B = (121/270) · ι<sub>τ</sub>¹⁹. The effective exponent is 19.
+The 1st Ed absorbed one factor ι<sub>τ</sub> into q_B = (121/270)/ι<sub>τ</sub>.
 
 Key coincidence: 19 = W₅(3), the same window number that
 determines N_e/dim(τ³) = 57/3 = 19. Both the inflationary
@@ -2243,7 +2243,7 @@ Tau.BookV.Cosmology.DEClosureMatterDensity :Type**
 
 [V.T199] DE-Closure Matter Density at −675 ppm.
 ω_m = (1 − Ω_Λ − Ω_r) × h² where
-Ω_Λ = κ_D·(1+ι_τ³) = 0.6849, h = 2/3+ι_τ²/17 = 0.6735.
+Ω_Λ = κ_D·(1+ι<sub>τ</sub>³) = 0.6849, h = 2/3+ι<sub>τ</sub>²/17 = 0.6735.
 Result: ω_m = 0.1429 at −675 ppm from Planck 0.1430.
 This is 41× better than M3h holonomy path (+27972 ppm).
 
@@ -2317,7 +2317,7 @@ Tau.BookV.Cosmology.de_closure_matter_thm :de_closure_matter.omega_m_x10000 = 14
 Tau.BookV.Cosmology.PrimordialBModeAmplitude :Type**
 
 
-[V.D256] Primordial B-Mode Amplitude from r = ι_τ⁴.
+[V.D256] Primordial B-Mode Amplitude from r = ι<sub>τ</sub>⁴.
 D_80^BB = ℓ(ℓ+1)C_ℓ^BB/(2π) ≈ 0.025 × r = 339 nK² at ℓ ~ 80
 (recombination bump). Tensor amplitude A_t = r × A_s = 2.844×10⁻¹¹.
 
@@ -2331,7 +2331,7 @@ D^BB in nK² (339 → 339).
 r × 10⁶ (0.01357 → 13570).
 
 - r_source : ℕ
-Source: 1 = from r = ι_τ⁴ derivation.
+Source: 1 = from r = ι<sub>τ</sub>⁴ derivation.
 
 - free_params : ℕ
 Free parameters.
@@ -2468,7 +2468,7 @@ Tau.BookV.Cosmology.TauLuminosityDistance :Type**
 [V.D269] τ-Native Luminosity Distance d_L(z).
 d_L(z) = (1+z)·(c/H₀)·∫₀ᶻ dz'/E(z').
 E²(z) = Ω_m(1+z)³ + Ω_r(1+z)⁴ + Ω_Λ.
-Ω_Λ = κ_D(1+ι_τ³) = 0.6849.
+Ω_Λ = κ_D(1+ι<sub>τ</sub>³) = 0.6849.
 Matches Planck-ΛCDM to ≤310 ppm.
 
 - omega_lambda_x10000 : ℕ
@@ -2809,7 +2809,7 @@ Tau.BookV.Cosmology.WeakLensingConvergence :Type**
 
 
 [V.D273] Weak Lensing Convergence with Boundary Holonomy.
-κ(θ) = Σ_eff(θ)/Σ_cr where Σ_eff = Σ_b·(1+κ_D/ι_τ²) = Σ_b·6.65.
+κ(θ) = Σ_eff(θ)/Σ_cr where Σ_eff = Σ_b·(1+κ_D/ι<sub>τ</sub>²) = Σ_b·6.65.
 Σ_cr = (c²/4πG)·D_S/(D_L·D_LS).
 
 - sigma_enhancement_x100 : ℕ
@@ -3141,8 +3141,8 @@ Tau.BookV.Cosmology.DarkSectorConsistency :Type**
 
 [V.T215] Dark Sector Consistency Theorem.
 The τ-framework explains rotation curves + lensing + Hubble diagram +
-CMB + BAO with ONE parameter set from ι_τ = 2/(π+e):
-Ω_Λ=0.6849, Ω_m=0.3151, h=0.6735, r=ι_τ⁴=0.014,
+CMB + BAO with ONE parameter set from ι<sub>τ</sub> = 2/(π+e):
+Ω_Λ=0.6849, Ω_m=0.3151, h=0.6735, r=ι<sub>τ</sub>⁴=0.014,
 Σm_ν=0.089 eV, M_eff/M_p=6.65. No free parameters.
 
 - pillars : ℕ
@@ -3158,7 +3158,7 @@ Number of decisive discriminators vs ΛCDM.
 M_eff/M_p × 100 = 665.
 
 - r_tensor_x10000 : ℕ
-r × 10000 = 140 (= ι_τ⁴).
+r × 10000 = 140 (= ι<sub>τ</sub>⁴).
 
 - sum_mnu_x1000 : ℕ
 Σm_ν × 1000 in eV = 89.
@@ -3219,7 +3219,7 @@ Tau.BookV.Cosmology.DiscriminatorTable :Type**
 
 
 [V.R401] τ-vs-ΛCDM Discriminator Table.
-D1: r=ι_τ⁴=0.014 at 14σ (CMB-S4).
+D1: r=ι<sub>τ</sub>⁴=0.014 at 14σ (CMB-S4).
 D2: Σm_ν=0.089 eV at 4.5σ (DESI).
 D3: Null DM direct detection.
 D4: Structural H₀ tension resolution.
@@ -3324,7 +3324,7 @@ DE-closure improvement factor over M3h (on ω_m).
 Free parameters.
 
 - cancellation_structural : ℕ
-Error cancellation is structural (both from ι_τ).
+Error cancellation is structural (both from ι<sub>τ</sub>).
 
 Instances For
 
@@ -3578,7 +3578,7 @@ Tau.BookV.Cosmology.CoupledNLOScan :Type**
 
 
 [V.D317] Coupled NLO Correction Space.
-δ_h = ι_τ/W₅(3) = ι_τ/19.
+δ_h = ι<sub>τ</sub>/W₅(3) = ι<sub>τ</sub>/19.
 Holonomy ratio: 6.655 → 6.774. ω_m: 0.14700 → 0.14964.
 Scope: τ-effective (Wave 38A).
 
@@ -3995,7 +3995,7 @@ Tau.BookV.Cosmology.PeakRatioNLO :Type**
 
 [V.D322] Peak-Ratio Phase-Shift Space.
 Bashinsky-Seljak phase correction δφ_n = −δφ₀·(n−1)^α
-with δφ₀ = ι_τ/(2·W₃(4)) = ι_τ/10 ≈ 0.0341.
+with δφ₀ = ι<sub>τ</sub>/(2·W₃(4)) = ι<sub>τ</sub>/10 ≈ 0.0341.
 Root cause: z_eq(τ) = 3583 vs z_eq(Planck) = 3427 (+4.5%).
 Scope: conjectural (Wave 39A).
 
@@ -4138,7 +4138,7 @@ Tau.BookV.Cosmology.BaryonDensityNLO :Type**
 
 
 [V.D323] Baryon Density NLO Correction.
-δ_η = ι_τ²/sectors² = ι_τ²/9 ≈ 0.01294.
+δ_η = ι<sub>τ</sub>²/sectors² = ι<sub>τ</sub>²/9 ≈ 0.01294.
 ω_b: 0.02209 → 0.02238 (+264 ppm from Planck).
 Scope: conjectural (Wave 39B).
 
@@ -4152,7 +4152,7 @@ Scope: conjectural (Wave 39B).
 ω_b Planck × 100000.
 
 - delta_eta_x100000 : ℕ
-δ_η × 100000 = ι_τ²/9 × 100000.
+δ_η × 100000 = ι<sub>τ</sub>²/9 × 100000.
 
 - sectors_sq : ℕ
 sectors² = 9.
@@ -4252,13 +4252,13 @@ Tau.BookV.Cosmology.CoupledNLO :Type**
 
 
 [V.D326] Coupled NLO Correction Space.
-(δ_η, δ_h) = (ι_τ²/9, κ_D/57) acting simultaneously
+(δ_η, δ_h) = (ι<sub>τ</sub>²/9, κ_D/57) acting simultaneously
 on baryon asymmetry and holonomy ratio.
 57 = N_e = dim(τ³)·W₅(3) connects to inflationary e-folds.
 Scope: τ-effective (Wave 40A).
 
 - delta_eta_x100000 : ℕ
-δ_η × 100000 = ι_τ²/9 × 100000.
+δ_η × 100000 = ι<sub>τ</sub>²/9 × 100000.
 
 - delta_h_x100000 : ℕ
 δ_h × 100000 = κ_D/57 × 100000.
@@ -4416,7 +4416,7 @@ Best-fit α × 1000 (minimizing |ℓ₃|).
 ℓ₃ sensitivity band in [0.80, 0.84].
 
 - closest_structural_x1000 : ℕ
-Closest structural to 0.82: 1−ι_τ/2 × 1000.
+Closest structural to 0.82: 1−ι<sub>τ</sub>/2 × 1000.
 
 Instances For
 

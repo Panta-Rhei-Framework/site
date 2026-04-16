@@ -42,7 +42,7 @@ All Lean 4 modules corresponding to Book II (Parts 0–XI).
 
 - **Geometry** (Part IV): Betweenness, congruence, parallel, causal structure
 
-- **Transcendentals** (Part V): Lines, circles, π, e, j, ι_τ
+- **Transcendentals** (Part V): Lines, circles, π, e, j, ι<sub>τ</sub>
 
 - **Hartogs** (Part VI): Mutual Determination, evolution, sheaf coherence
 

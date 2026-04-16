@@ -60,7 +60,7 @@ the relevant chapter assembles the main result.
 <div class="math-display">O(τ³) ≅ A_spec(𝕃).</div>
 Boundary determines interior; interior encodes boundary.
 Exact holographic principle.
-Spectral coefficients are numerically calibrated via ι_τ (Part V).
+Spectral coefficients are numerically calibrated via ι<sub>τ</sub> (Part V).
 
 the relevant chapter resolves the classical Liouville
 theorem in the τ setting.

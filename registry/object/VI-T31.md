@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: planned
 lean_module: TauLib.BookVI.CosmicLife.CrossLimit
 lean_name: Tau.BookVI.CrossLimit.BhRepresentativeFusionConvergence
-summary: BH merger fuses codes monotonically (never increases ι_τ-distance); distinct
-  mergers strictly improve at infinitely many stages; net converges to ι_τ.
+summary: BH merger fuses codes monotonically (never increases ι<sub>τ</sub>-distance); distinct
+  mergers strictly improve at infinitely many stages; net converges to ι<sub>τ</sub>.
 depends_on:
 - VI.T29
 - VI.T30

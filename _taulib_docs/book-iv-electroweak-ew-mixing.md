@@ -71,7 +71,7 @@ The Weinberg angle θ_W parametrizes the mixing of the neutral W³ boson
 and Z boson. In the τ-framework, sin²(θ_W) is NOT a free parameter but
 is determined by the inter-sector coupling:
 
-sin²(θ_W) = κ(A,D) = ι_τ(1 − ι_τ) ≈ 0.2249
+sin²(θ_W) = κ(A,D) = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) ≈ 0.2249
 
 The experimental value at the Z pole is sin²(θ_W)_exp ≈ 0.2312,
 giving a 2.7% tree-level deviation — expected to be resolved by
@@ -356,7 +356,7 @@ Tau.BookIV.Electroweak.WeinbergAngleTau :Type**
 
 
 [IV.D130] The Weinberg angle (weak mixing angle) θ_W.
-In the τ-framework: sin²(θ_W) = κ(A,D) = ι_τ(1−ι_τ).
+In the τ-framework: sin²(θ_W) = κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>).
 
 τ-prediction: sin²(θ_W) ≈ 0.2249
 Experimental (Z pole, MS-bar): sin²(θ_W) ≈ 0.2312
@@ -466,8 +466,8 @@ Tau.BookIV.Electroweak.MaximalMixing :Type**
 
 [IV.D132] Maximal mixing: the condition sin²(θ_W) = 1/4, which
 would mean equal W³ and B content in both γ and Z.
-In τ: sin²(θ_W) = ι_τ(1−ι_τ), which equals 1/4 iff ι_τ = 1/2.
-Since ι_τ ≈ 0.3415, mixing is SUB-maximal.
+In τ: sin²(θ_W) = ι<sub>τ</sub>(1−ι<sub>τ</sub>), which equals 1/4 iff ι<sub>τ</sub> = 1/2.
+Since ι<sub>τ</sub> ≈ 0.3415, mixing is SUB-maximal.
 
 - maximal_numer : ℕ
 sin²(θ_W) at maximal mixing: 1/4.
@@ -683,12 +683,12 @@ Tau.BookIV.Electroweak.weinberg_equals_kappaAD :weinberg_angle_tau.sin2_numer = 
 
 
 [IV.T61] The Weinberg angle is determined by the (A,D) cross-coupling:
-sin²(θ_W) = κ(A,D) = ι_τ(1−ι_τ) ≈ 0.2249.
+sin²(θ_W) = κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>) ≈ 0.2249.
 
 This is NOT a fit — it is a structural consequence of the
 temporal complement theorem: A and D exhaust the depth-1
 coupling budget (κ_A + κ_D = 1), so their cross-coupling
-κ(A,D) = ι_τ(1−ι_τ) is the natural mixing parameter.
+κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>) is the natural mixing parameter.
 
 ---
 
@@ -752,8 +752,8 @@ Tau.BookIV.Electroweak.EMCouplingRelation :Type**
 coupling g by e = g · sin(θ_W).
 In the τ-framework, this structural relationship means the EM
 coupling factors through the weak sector via the Weinberg angle.
-The EM self-coupling κ(B;2) = ι_τ² relates to κ(A;1) = ι_τ and
-the electroweak cross-coupling κ(A,B) = ι_τ²(1−ι_τ).
+The EM self-coupling κ(B;2) = ι<sub>τ</sub>² relates to κ(A;1) = ι<sub>τ</sub> and
+the electroweak cross-coupling κ(A,B) = ι<sub>τ</sub>²(1−ι<sub>τ</sub>).
 
 - em : BookIII.Sectors.Sector
 EM self-coupling sector.
@@ -926,7 +926,7 @@ Tau.BookIV.Electroweak.DualRoleBalanced :Type**
 
 [IV.P71] The weak sector A plays a dual role:
 
-- As the temporal arrow (κ_A = ι_τ, the master constant itself).
+- As the temporal arrow (κ_A = ι<sub>τ</sub>, the master constant itself).
 
 - As the unique balanced-polarity sector enabling EW mixing.
 

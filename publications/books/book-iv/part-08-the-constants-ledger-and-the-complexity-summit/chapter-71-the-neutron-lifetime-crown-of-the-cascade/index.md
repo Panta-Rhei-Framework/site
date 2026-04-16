@@ -49,7 +49,7 @@ that counts the kinematically allowed decay products.
 No other derived quantity in the microcosm touches
 as many layers of the framework.
 The neutron lifetime is the **crown of the cascade**:
-the most complex readout from the single input ι_τ.
+the most complex readout from the single input ι<sub>τ</sub>.
 This chapter derives τ_n within τ³,
 confronts the "bottle vs. beam" experimental discrepancy,
 and explains why τ_n closes the calibration programme

@@ -47,7 +47,7 @@ Prime Polarity (I.T05)
 → continuity
 → topology
 → geometry
-→ transcendentals (π, e, j, ι_τ)
+→ transcendentals (π, e, j, ι<sub>τ</sub>)
 → Local Hartogs + Mutual Determination
 → Idempotent Decomposition
 → Yoneda
@@ -62,7 +62,7 @@ but the full BSD proof requires the enrichment ladder E₂.
 
 the relevant chapter previews Book III's mission.
 The eight spectral forces will operate in H_τ (not ℂ).
-ι_τ calibration carries to all forces.
+ι<sub>τ</sub> calibration carries to all forces.
 Riemann Hypothesis, Navier-Stokes, Yang-Mills: all in split-complex regime.
 The enrichment ladder E₀ → E₁ → E₂ → E₃ is explicit.
 Book III tackles the Millennium Problems in layer E₁ → E₂.

@@ -79,7 +79,7 @@ Frame holonomy sector coupling (GR sector)
 Base τ¹
 
 
-All five are determined by ι_τ = 2/(π+e) via sector lift functors.
+All five are determined by ι<sub>τ</sub> = 2/(π+e) via sector lift functors.
 
 ## Ground Truth Sources
 

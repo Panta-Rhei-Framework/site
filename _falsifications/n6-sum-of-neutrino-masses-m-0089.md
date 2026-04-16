@@ -59,8 +59,8 @@ $θ_23$
 is the probability amplitude
 for a neutrino to traverse
 one lobe of $$
-through the $ι_τ$-coupling gate.
-The factor $(1+ι_τ)^-1$
+through the $ι<sub>τ</sub>$-coupling gate.
+The factor $(1+ι<sub>τ</sub>)^-1$
 is the inverse of the effective junction width.
 
 The atmospheric angle is *near-maximal*
@@ -68,10 +68,10 @@ but not exactly maximal:
 $^2θ_23 ≠ 1/2$.
 In $τ$,
 exact maximality
-would require $ι_τ = 0$,
+would require $ι<sub>τ</sub> = 0$,
 which is excluded by the Central Theorem.
 The deviation from maximality
-is a direct measure of $ι_τ$:
+is a direct measure of $ι<sub>τ</sub>$:
 
 This is a genuine prediction:
 if future experiments determine

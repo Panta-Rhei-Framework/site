@@ -72,8 +72,8 @@ mode repulsion, hybrid modes, and the five-rung donut ladder.
 
 The periodic table is a topological invariant of T²: shell capacities 2n²
 follow from winding mode counting, and period pairing from the Madelung
-energy ordering E_{n,l} ≈ −1/(n + l·ι_τ)² determined by the fiber shape
-ratio ι_τ. The sequence 2, 8, 8, 18, 18, 32, 32,... is fixed by geometry.
+energy ordering E_{n,l} ≈ −1/(n + l·ι<sub>τ</sub>)² determined by the fiber shape
+ratio ι<sub>τ</sub>. The sequence 2, 8, 8, 18, 18, 32, 32,... is fixed by geometry.
 
 Chemical bonds (covalent, ionic, metallic) are different patterns of
 B-sector winding modes on T². Molecular geometry follows from mode
@@ -331,8 +331,8 @@ Tau.BookIV.Particles.MadelungRule :Type**
 [IV.R140] The Madelung rule (subshells fill in order of increasing n+l)
 has no first-principles derivation in orthodox physics.
 
-In Category τ, the breathing eigenvalue on T² with shape ratio ι_τ is
-E_{n,l} ≈ −1/(n + l·ι_τ)², and since ι_τ ≈ 0.34, the n+l ordering
+In Category τ, the breathing eigenvalue on T² with shape ratio ι<sub>τ</sub> is
+E_{n,l} ≈ −1/(n + l·ι<sub>τ</sub>)², and since ι<sub>τ</sub> ≈ 0.34, the n+l ordering
 emerges naturally from the fiber geometry.
 
 The subshell filling order is:
@@ -342,7 +342,7 @@ The subshell filling order is:
 Ordering parameter: n + l.
 
 - origin : String
-Origin: breathing eigenvalue on T² with shape ι_τ.
+Origin: breathing eigenvalue on T² with shape ι<sub>τ</sub>.
 
 - no_orthodox_derivation : Bool
 No orthodox first-principles derivation.
@@ -823,7 +823,7 @@ octahedral
 90°
 
 
-Symmetry depends only on k, not on ι_τ.
+Symmetry depends only on k, not on ι<sub>τ</sub>.
 
 - k : ℕ
 Number of mode pairs.

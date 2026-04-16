@@ -13,8 +13,8 @@ scope: established
 formalization: formalized
 lean_module: TauLib.BookIII.Spectral.ConfinementBridge
 lean_name: Tau.BookIII.Spectral.ConfinementBridge.bridge_algebraic_identity
-summary: 'κ(C;3)²·(1−ι_τ)² = ι_τ⁶ exactly (algebraic identity). This reduces OQ.07
-  (confinement bridge) to OQ.09 (E₆ near-identity) by pure algebra: the (1−ι_τ)² factors
+summary: 'κ(C;3)²·(1−ι<sub>τ</sub>)² = ι<sub>τ</sub>⁶ exactly (algebraic identity). This reduces OQ.07
+  (confinement bridge) to OQ.09 (E₆ near-identity) by pure algebra: the (1−ι<sub>τ</sub>)² factors
   cancel, leaving E₆·ι⁶ ≈ −1.'
 depends_on:
 - IV.D03

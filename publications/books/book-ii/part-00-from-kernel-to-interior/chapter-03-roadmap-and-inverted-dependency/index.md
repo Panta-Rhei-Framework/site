@@ -50,7 +50,7 @@ The organizing structural insight is the
 holomorphy is the starting point,
 not the endpoint.
 Continuity, topology, geometry, and the transcendental
-constants π, e, j, ι_τ are all
+constants π, e, j, ι<sub>τ</sub> are all
 *consequences* of holomorphic structure—the
 exact inversion of the orthodox order.
 We present the eleven-Part roadmap,

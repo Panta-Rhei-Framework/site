@@ -30,7 +30,7 @@ cited_in:
     part: "Part 1"
     chapter_file: "ch07-beta-decay-rosetta"
     chapter_title: "β-Decay: The Rosetta Stone"
-    excerpt: "Chapter will derive the neutron lifetime from Fermi's golden rule , with all eight ingredients (R, α, ^2θ_W, |V_ud|^2, g_A, Δ_A, Δ_r, phase space integral f) expressed as functions of ι_τ"
+    excerpt: "Chapter will derive the neutron lifetime from Fermi's golden rule , with all eight ingredients (R, α, ^2θ_W, |V_ud|^2, g_A, Δ_A, Δ_r, phase space integral f) expressed as functions of ι<sub>τ</sub>"
   - book: "IV"
     book_title: "Categorical Microcosm"
     part: "Part 3"

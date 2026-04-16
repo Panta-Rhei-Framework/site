@@ -8,10 +8,10 @@ prediction_id: "pred-056"
 domain: "astrophysics"
 domain_display: "Astrophysics"
 observable: "GW echo time"
-observable_mathml: "<math><mi>t_± = 4GMι_τ± ¹/c³</mi></math>"
-formula_plain: "t_± = 4GMι_τ± ¹/c³"
-formula_mathml: "<math><mi>t_± = 4GMι_τ± ¹/c³</mi></math>"
-formula_display: "t± = 4GM·ι_τ±¹/c³"
+observable_mathml: "<math><mi>t_± = 4GMι<sub>τ</sub>± ¹/c³</mi></math>"
+formula_plain: "t_± = 4GMι<sub>τ</sub>± ¹/c³"
+formula_mathml: "<math><mi>t_± = 4GMι<sub>τ</sub>± ¹/c³</mi></math>"
+formula_display: "t± = 4GM·ι<sub>τ</sub>±¹/c³"
 tau_value: "see text"
 observed_value: "(pending)"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**t± = 4GM·ι_τ±¹/c³**
+**t± = 4GM·ι<sub>τ</sub>±¹/c³**
 
 ## Derivation
 
@@ -51,7 +51,7 @@ for a $T^2$-topology black hole of mass $M$ are
 
 The echo separation
 $Δ t = t_- - t_+
-= 4GM(ι_τ^-1 - ι_τ)/c^3$
+= 4GM(ι<sub>τ</sub>^-1 - ι<sub>τ</sub>)/c^3$
 places both echoes in the sensitive frequency band
 of current and next-generation detectors:
 

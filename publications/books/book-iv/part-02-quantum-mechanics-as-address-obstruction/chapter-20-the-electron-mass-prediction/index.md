@@ -44,8 +44,8 @@ modes on T², the Epstein zeta function of the torus lattice, and the
 holonomy correction π³α²—combine into a single formula with no
 free parameters:
 equation*
-R_0 = ι_τ^{-7} - √3 ι_τ^{-2}.
+R_0 = ι<sub>τ</sub>^{-7} - √3 ι<sub>τ</sub>^{-2}.
 equation*
-With ι_τ = 2/(π + e) ≈ 0.341304, this gives
+With ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304, this gives
 R₀ ≈ 1838.7, in striking agreement with the CODATA value
 m_n/m_e = 1838.684….

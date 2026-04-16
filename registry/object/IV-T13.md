@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Calibration.MassRatioFormula
 lean_name: Tau.BookIV.Calibration.bulk_overshoots_codata
-summary: ι_τ^(-7) > R_CODATA even at 6-digit precision (1847.7 > 1838.68). Correction
+summary: ι<sub>τ</sub>^(-7) > R_CODATA even at 6-digit precision (1847.7 > 1838.68). Correction
   must be subtracted. Proved by native_decide on 50-digit Nat comparison.
 depends_on:
 - IV.D46

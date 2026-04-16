@@ -573,10 +573,10 @@ Tau.BookVI.Persistence.ComplexityMonotone :Type**
 [VI.L15] Complexity Monotone Lemma: C(n) ≤ C(n+1).
 Defects decrease geometrically (V.T62), so freed capacity
 C(n) = N − |D_n| increases monotonically.
-Proof: |D_{n+1}| ≤ (1−ι_τ)|D_n| < |D_n| ⟹ C(n+1) > C(n).
+Proof: |D_{n+1}| ≤ (1−ι<sub>τ</sub>)|D_n| < |D_n| ⟹ C(n+1) > C(n).
 
 - decay_rate_factor : String
-Defect decay rate per step: (1−ι_τ).
+Defect decay rate per step: (1−ι<sub>τ</sub>).
 
 - monotone_increasing : Bool
 C(n) ≤ C(n+1) for all n.
@@ -927,8 +927,8 @@ Tau.BookVI.Persistence.TimescaleFromHalfLife :Type**
 
 [VI.T45] Timescale From Half-Life Theorem:
 T_abio ≤ n₁/₂ · ⌈ln(N/threshold)⌉.
-Proof: geometric decay rate (1−ι_τ)^n with half-life n₁/₂ gives
-|D_n| = N·(1−ι_τ)^n. Threshold crossing at C(n₀) = N − |D_{n₀}| ≥ 8
+Proof: geometric decay rate (1−ι<sub>τ</sub>)^n with half-life n₁/₂ gives
+|D_n| = N·(1−ι<sub>τ</sub>)^n. Threshold crossing at C(n₀) = N − |D_{n₀}| ≥ 8
 requires |D_{n₀}| ≤ N − 8, giving n₀ ≤ n₁/₂ · ⌈log₂(N/8)⌉.
 
 - decay_factor : String

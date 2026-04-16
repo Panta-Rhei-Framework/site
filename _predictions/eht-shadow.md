@@ -11,7 +11,7 @@ observable: "EHT shadow"
 observable_mathml: "<math><msup><mi>T</mi><mn>2</mn></msup></math> correction <math><mi>+2.91%</mi></math>"
 formula_plain: "T² correction +2.91%"
 formula_mathml: "<math><msup><mi>T</mi><mn>2</mn></msup></math> correction <math><mi>+2.91%</mi></math>"
-formula_display: "f_τ = 1 + ι_τ²/4 = 1.02912 (+2.91% universal)"
+formula_display: "f_τ = 1 + ι<sub>τ</sub>²/4 = 1.02912 (+2.91% universal)"
 tau_value: "5.25,GM/c²"
 observed_value: "5.1 ± 0.3"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**f_τ = 1 + ι_τ²/4 = 1.02912 (+2.91% universal)**
+**f_τ = 1 + ι<sub>τ</sub>²/4 = 1.02912 (+2.91% universal)**
 
 ## Derivation
 
@@ -51,7 +51,7 @@ $θ_τ = 40.85\,μas$.
 - **EHT observation:**
 $42 ± 3\,μas$.
 - **Deviation:** $0.4σ$.
-- **QNM ratio:** $ι_τ^-1 ≈ 2.930$.
+- **QNM ratio:** $ι<sub>τ</sub>^-1 ≈ 2.930$.
 - **Modulation periods:**
 $4.66$ d (outer $S^1$),
 $1.59$ d (inner $S^1$).

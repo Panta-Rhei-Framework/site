@@ -8,10 +8,10 @@ prediction_id: "pred-031"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
 observable: "κ(ω)"
-observable_mathml: "<math><mi>ι_τ³/(1 + ι_τ)</mi></math>"
-formula_plain: "ι_τ³/(1 + ι_τ)"
-formula_mathml: "<math><mi>ι_τ³/(1 + ι_τ)</mi></math>"
-formula_display: "κ(ω) = ι_τ³ / (1 + ι_τ) ≈ 0.0297"
+observable_mathml: "<math><mi>ι<sub>τ</sub>³/(1 + ι<sub>τ</sub>)</mi></math>"
+formula_plain: "ι<sub>τ</sub>³/(1 + ι<sub>τ</sub>)"
+formula_mathml: "<math><mi>ι<sub>τ</sub>³/(1 + ι<sub>τ</sub>)</mi></math>"
+formula_display: "κ(ω) = ι<sub>τ</sub>³ / (1 + ι<sub>τ</sub>) ≈ 0.0297"
 tau_value: "0.0297"
 observed_value: "–"
 deviation: "–"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**κ(ω) = ι_τ³ / (1 + ι_τ) ≈ 0.0297**
+**κ(ω) = ι<sub>τ</sub>³ / (1 + ι<sub>τ</sub>) ≈ 0.0297**
 
 
 κ(ω): τ-value 0.0297, observed –, deviation –.

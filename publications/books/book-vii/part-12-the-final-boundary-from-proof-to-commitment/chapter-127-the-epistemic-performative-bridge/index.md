@@ -48,6 +48,6 @@ by any proposition about commitment. This chapter analyses the
 epistemic→performative distinction as the most important structural
 boundary of the series, shows why the bridge from ℝeg_D to ℝeg_C
 delivers content to the threshold but cannot cross it, and traces the
-master constant ι_τ from its mathematical origin in Book I to
+master constant ι<sub>τ</sub> from its mathematical origin in Book I to
 its final appearance at the boundary of ω. The step from
 pointing to inhabiting is the reader's own.

@@ -39,7 +39,7 @@ Category τ begins with five generators (α, π, γ, η, ω), seven axioms (K0�
 This extreme constraint is precisely what makes breadth possible:
 
 - **Every orbit is forced.** The four orbit rays O_α, O_π, O_γ, O_η are the only objects that exist. Their properties are determined by the axioms.
-- **Every constant is derived.** The master constant ι_τ = 2/(π+e) is not chosen — it is the unique value compatible with the kernel's spectral structure.
+- **Every constant is derived.** The master constant ι<sub>τ</sub> = 2/(π+e) is not chosen — it is the unique value compatible with the kernel's spectral structure.
 - **Every layer is earned.** The enrichment ladder E₀ → E₁ → E₂ → E₃ is the unique maximal chain. It terminates at E₃. There is no E₄.
 
 ## One Prediction Failing Falsifies Everything

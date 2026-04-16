@@ -38,7 +38,7 @@ and the 4-dimensional physical reading.
 
 - [IV.D254] Fibered product arena τ³ — `Tau3Arena`
 
-- [IV.D255] Master constant ι_τ — `master_constant`
+- [IV.D255] Master constant ι<sub>τ</sub> — `master_constant`
 
 - [IV.P149] Quasi-ergodicity — `quasi_ergodic`
 
@@ -270,7 +270,7 @@ Instances For
 Tau.BookIV.Arena.MasterConstant :Type**
 
 
-[IV.D255] The master constant ι_τ = 2/(π+e) ≈ 0.341304.
+[IV.D255] The master constant ι<sub>τ</sub> = 2/(π+e) ≈ 0.341304.
 Represented as the Nat pair (341304, 1000000) from TauLib.Boundary.Iota.
 All couplings, masses, and constants derive from this single number.
 

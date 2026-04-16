@@ -27,7 +27,7 @@ right_rail:
 
 
 Flat rotation curves from boundary holonomy corrections to the
-D-sector coupling. MOND-like phenomenology emerges from ι_τ at
+D-sector coupling. MOND-like phenomenology emerges from ι<sub>τ</sub> at
 galactic acceleration scales. Dark matter is unnecessary.
 
 ## Registry Cross-References
@@ -37,11 +37,11 @@ galactic acceleration scales. Dark matter is unnecessary.
 
 - [V.T85] Flat Rotation Curve Theorem -- `flat_rotation_theorem`
 
-- [V.C13] MOND Acceleration Scale from ι_τ -- `mond_scale_from_iota`
+- [V.C13] MOND Acceleration Scale from ι<sub>τ</sub> -- `mond_scale_from_iota`
 
 - [V.P67] Newtonian Regime Recovery -- `newtonian_recovery`
 
-- [V.R174] a₀ from ι_τ and H₀ -- structural remark
+- [V.R174] a₀ from ι<sub>τ</sub> and H₀ -- structural remark
 
 - [V.P68] RAR from Single Coupling -- `rar_from_single_coupling`
 
@@ -73,25 +73,25 @@ where:
 
 - g_N = GM/r² is the Newtonian acceleration
 
-- a₀ ~ cH₀ · f(ι_τ) is the MOND acceleration scale
+- a₀ ~ cH₀ · f(ι<sub>τ</sub>) is the MOND acceleration scale
 
 - μ(x) → 1 for x >> 1 (Newtonian regime)
 
 - μ(x) → x for x << 1 (deep MOND regime → flat curves)
 
 
-### MOND Scale from ι_τ
+### MOND Scale from ι<sub>τ</sub>
 
 
 The critical acceleration a₀ ≈ 1.2 × 10⁻¹⁰ m/s² is NOT a free
 parameter but derives from:
 
 ```
-a₀ ~ c · H₀ · ι_τ^k
+a₀ ~ c · H₀ · ι<sub>τ</sub>^k
 ```
 
 
-for an appropriate power k of ι_τ. This connects the galactic
+for an appropriate power k of ι<sub>τ</sub>. This connects the galactic
 acceleration scale to the cosmic expansion rate and the master constant.
 
 ### Radial Acceleration Relation (RAR)
@@ -296,12 +296,12 @@ without invoking dark matter.
 Tau.BookV.Astrophysics.mond_scale_from_iota :"a0 derives from iota_tau via a0 ~ c*H0*f(iota_tau), not a free parameter" = "a0 derives from iota_tau via a0 ~ c*H0*f(iota_tau), not a free parameter"**
 
 
-[V.C13] MOND acceleration scale from ι_τ: a₀ is not a free
+[V.C13] MOND acceleration scale from ι<sub>τ</sub>: a₀ is not a free
 parameter but derives from the τ-master constant.
 
-a₀ ~ c · H₀ · f(ι_τ)
+a₀ ~ c · H₀ · f(ι<sub>τ</sub>)
 
-where f(ι_τ) is a function of the master constant that connects
+where f(ι<sub>τ</sub>) is a function of the master constant that connects
 the galactic acceleration scale to cosmological parameters.
 
 The numerical coincidence a₀ ≈ cH₀/6 is structural in
@@ -384,7 +384,7 @@ Tau.BookV.Astrophysics.milgromConstantTau :String**
 
 
 [V.D232] The Milgrom constant a₀ from the master constant and Hubble rate.
-a₀ = c · H₀ · ι_τ / 2.
+a₀ = c · H₀ · ι<sub>τ</sub> / 2.
 
 Numerical results (from rotation_curves_lab.py, 50-digit precision):
 
@@ -394,8 +394,8 @@ Numerical results (from rotation_curves_lab.py, 50-digit precision):
 - H₀ = 73.0 km/s/Mpc (local/SH0ES): a₀ = 1.211×10⁻¹⁰ m/s² (+0.9% from MOND)
 
 
-The factor ι_τ/2 reflects the two-lobe structure of the τ-boundary L = S¹∨S¹.
-Each lobe contributes c·H₀·ι_τ/4 to the effective acceleration scale.
+The factor ι<sub>τ</sub>/2 reflects the two-lobe structure of the τ-boundary L = S¹∨S¹.
+Each lobe contributes c·H₀·ι<sub>τ</sub>/4 to the effective acceleration scale.
 Equations
 - Tau.BookV.Astrophysics.milgromConstantTau = "a_0 = c * H_0 * iota_tau / 2 (connects galactic and cosmic scales, " ++ "0.9% from MOND with local H_0=73.0 km/s/Mpc)"
 Instances For
@@ -409,7 +409,7 @@ Instances For
 Tau.BookV.Astrophysics.a0_h0_tension :String**
 
 
-[V.P122] The H₀ tension propagates structurally into a₀ = c·H₀·ι_τ/2.
+[V.P122] The H₀ tension propagates structurally into a₀ = c·H₀·ι<sub>τ</sub>/2.
 
 Rotation curve galaxies (z < 0.05) probe local H₀ = 73.0 km/s/Mpc:
 a₀(local) = 1.211×10⁻¹⁰ m/s² (+0.9% from MOND)
@@ -434,8 +434,8 @@ Tau.BookV.Astrophysics.btfr_normalization :String**
 [V.T163] Baryonic Tully-Fisher Relation normalization from V.T85.
 M_b = A · v_∞⁴ where A = 2·ℓ_τ/(G·c²) from the Flat Rotation Curve Theorem.
 
-A is determined entirely by ι_τ and H₀:
-A = 2/(G·H₀·c·√(1−ι_τ))
+A is determined entirely by ι<sub>τ</sub> and H₀:
+A = 2/(G·H₀·c·√(1−ι<sub>τ</sub>))
 
 Lab values:
 
@@ -447,7 +447,7 @@ Lab values:
 - Observed BTFR: A_obs ≈ 47 M_☉/(km/s)⁴
 
 
-The factor √ι_τ ≈ 0.584 between A_T85 and A_obs is an open question.
+The factor √ι<sub>τ</sub> ≈ 0.584 between A_T85 and A_obs is an open question.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -464,12 +464,12 @@ Tau.BookV.Astrophysics.ngc3198_velocity :String**
 [V.T164] NGC 3198 zero-parameter prediction from the Flat Rotation Curve Theorem.
 
 M_b = 1.4×10¹⁰ M_☉, H₀ = 67.4 km/s/Mpc (Planck):
-ℓ_τ = c/(H₀·√(1−ι_τ)) = 1.691×10²⁶ m
+ℓ_τ = c/(H₀·√(1−ι<sub>τ</sub>)) = 1.691×10²⁶ m
 v_∞ = (G·M_b·c²/(2·ℓ_τ))^{1/4} = 149.1 km/s
 
 Observed: ~150 km/s. Accuracy: 0.6%. Zero free parameters.
 
-Note: The V.D232 formula (v⁴ = G·M_b·a₀, a₀ = c·H₀·ι_τ/2) gives
+Note: The V.D232 formula (v⁴ = G·M_b·a₀, a₀ = c·H₀·ι<sub>τ</sub>/2) gives
 v_∞ = 122.5 km/s with local H₀=73.0 — V.T85 is the better velocity predictor
 for large spirals; V.D232 is the better a₀ formula.
 Equations
@@ -513,7 +513,7 @@ Instances For
 Tau.BookV.Astrophysics.milgrom_uses_master_constant :True**
 
 
-The τ-framework Milgrom constant uses the SAME ι_τ as all other sector couplings.
+The τ-framework Milgrom constant uses the SAME ι<sub>τ</sub> as all other sector couplings.
 This is the key non-trivial feature: a₀ is not a new parameter but is
 determined by the same master constant that fixes α, κ_D, and all couplings.
 
@@ -530,10 +530,10 @@ Tau.BookV.Astrophysics.holonomy_ratio_acceleration :"a0_T85/a0_D232 = sqrt(kappa
 bare capacity acceleration (V.T85) and the dressed MOND acceleration
 (V.D232) is exactly √(κ_D/κ_B), the holonomy-to-baryon coupling ratio.
 
-a₀(T85)/a₀(D232) = √(κ_D/κ_B) = √((1−ι_τ)/ι_τ²) ≈ 2.378
+a₀(T85)/a₀(D232) = √(κ_D/κ_B) = √((1−ι<sub>τ</sub>)/ι<sub>τ</sub>²) ≈ 2.378
 
-V.T85 (bare): a₀^bare = c·H₀·√(1−ι_τ)/2 (PDE restoring term)
-V.D232 (dressed): a₀^dress = c·H₀·ι_τ/2 (MOND observational)
+V.T85 (bare): a₀^bare = c·H₀·√(1−ι<sub>τ</sub>)/2 (PDE restoring term)
+V.D232 (dressed): a₀^dress = c·H₀·ι<sub>τ</sub>/2 (MOND observational)
 
 The same ratio governs:
 
@@ -555,9 +555,9 @@ Tau.BookV.Astrophysics.bareVsDressedAcceleration :String**
 [V.D257] Bare vs Dressed Acceleration Scales.
 
 BARE (V.T85): a₀^bare = c²/(2·ℓ_τ) = c·H₀·√κ_D/2 ≈ 2.66×10⁻¹⁰ m/s²
-DRESSED (V.D232): a₀^dress = c·H₀·ι_τ/2 ≈ 1.12×10⁻¹⁰ m/s²
+DRESSED (V.D232): a₀^dress = c·H₀·ι<sub>τ</sub>/2 ≈ 1.12×10⁻¹⁰ m/s²
 
-The "dressing factor" ι_τ/√κ_D ≈ 0.421 encodes fiber coherence / base coupling.
+The "dressing factor" ι<sub>τ</sub>/√κ_D ≈ 0.421 encodes fiber coherence / base coupling.
 V.T85 is the superior velocity predictor (0.067 dex RMS across 20 galaxies).
 V.D232 is the superior a₀ predictor (+0.9% from MOND with local H₀).
 Equations
@@ -573,14 +573,14 @@ Instances For
 Tau.BookV.Astrophysics.btfr_bridge :String**
 
 
-[V.R389] √ι_τ Bridge for BTFR normalization.
+[V.R389] √ι<sub>τ</sub> Bridge for BTFR normalization.
 
 A_T85(Planck) = 28.35 M☉/(km/s)⁴ — raw V.T85 normalization
-A_T85/√ι_τ = 48.52 M☉/(km/s)⁴ — bridge normalization
+A_T85/√ι<sub>τ</sub> = 48.52 M☉/(km/s)⁴ — bridge normalization
 A_obs = 47 M☉/(km/s)⁴ — observed BTFR (McGaugh+2012)
 
 Agreement: +3.2% (Planck), geometric mean ≈ 46.6 M☉/(km/s)⁴.
-The √ι_τ factor corrects for the fiber coherence contribution
+The √ι<sub>τ</sub> factor corrects for the fiber coherence contribution
 to the effective gravitational coupling at galactic scales.
 Equations
 - One or more equations did not get rendered due to their size.
@@ -906,7 +906,7 @@ Tau.BookV.Astrophysics.clusterScreeningEnhancement :String**
 [V.D261] Cluster-Scale Screening Enhancement.
 
 For a point mass M at radius r, the screening enhancement is:
-1 + r/ℓ_τ where ℓ_τ = c/(H₀·√(1−ι_τ)) ≈ 5.5 Mpc.
+1 + r/ℓ_τ where ℓ_τ = c/(H₀·√(1−ι<sub>τ</sub>)) ≈ 5.5 Mpc.
 
 At cluster scales (r_c 200 kpc):
 Enhancement = 1 + 200 kpc / 5.5 Mpc ≈ 1.00004
@@ -932,7 +932,7 @@ Tau.BookV.Astrophysics.redshift_acceleration_scale :"a_0(z) = c*H(z)*iota/2 evol
 [V.T204] Redshift-Dependent Acceleration Scale.
 
 UNIQUE falsifiable prediction of the τ-framework:
-a₀(z) = c · H(z) · ι_τ / 2
+a₀(z) = c · H(z) · ι<sub>τ</sub> / 2
 
 where H(z) = H₀ · √(Ω_m(1+z)³ + Ω_Λ) is the Hubble rate.
 This predicts a₀ EVOLVES with redshift:
@@ -1152,7 +1152,7 @@ v_∞ = (GM_b · c²/(2ℓ_τ))^{1/4}
 = algebraic consequence of τ-axioms + BTFR definition
 
 The algebraic chain:
-τ-axioms → ι_τ = 2/(π+e) → κ_D = 1−ι_τ → ℓ_τ = c/(H₀√κ_D) → a₀ = c²/(2ℓ_τ)
+τ-axioms → ι<sub>τ</sub> = 2/(π+e) → κ_D = 1−ι<sub>τ</sub> → ℓ_τ = c/(H₀√κ_D) → a₀ = c²/(2ℓ_τ)
 BTFR: v⁴ = GM_b · a₀ → V.T85
 
 The c² enters through a₀ = c²/(2ℓ_τ), NOT through PDE solving.
@@ -1174,15 +1174,15 @@ Tau.BookV.Astrophysics.algebraicDerivationChain :String**
 [V.D265] Algebraic Derivation Chain for a₀.
 
 τ-axioms K0–K6
-→ ι_τ = 2/(π+e) ≈ 0.3413
-→ κ_D = 1 − ι_τ ≈ 0.6587
+→ ι<sub>τ</sub> = 2/(π+e) ≈ 0.3413
+→ κ_D = 1 − ι<sub>τ</sub> ≈ 0.6587
 → ℓ_τ = c/(H₀√κ_D) ≈ 5480 Mpc
 → a₀ = c²/(2ℓ_τ) = cH₀√κ_D/2 ≈ 2.66×10⁻¹⁰ m/s²
 
 This chain has:
 • Zero free parameters (beyond H₀)
 • One cosmological input (H₀)
-• One structural constant (ι_τ from axioms K0–K6)
+• One structural constant (ι<sub>τ</sub> from axioms K0–K6)
 Equations
 - Tau.BookV.Astrophysics.algebraicDerivationChain = "tau-axioms -> iota=2/(pi+e) -> kD=1-iota -> ell=c/(H0*sqrt(kD)) " ++ "-> a_0=c^2/(2*ell). Zero free params + H_0."
 Instances For
@@ -1412,7 +1412,7 @@ Tau.BookV.Astrophysics.PhotonCapacityDeflection :Type**
 The τ-Einstein equation is a metric theory: photons follow
 null geodesics of g_∂[χ]. The capacity gradient modifies T,
 hence R^H, hence the metric. Photons are deflected by M_eff
-= M_p + M_∂ = M_p · (1 + κ_τ/ι_τ²).
+= M_p + M_∂ = M_p · (1 + κ_τ/ι<sub>τ</sub>²).
 
 mass_ratio_x1000 = 6650 encodes M_eff/M_p = 6.65.
 is_metric_theory = 1 (YES: null geodesics of same metric).

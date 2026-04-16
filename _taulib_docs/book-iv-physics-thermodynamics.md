@@ -284,7 +284,7 @@ Orthodox "running couplings" (α_s(Q²), α_EM(Q²), etc.) are NOT ontic.
 The τ-kernel coupling constants are **boundary fixed-point invariants**:
 
 
-- Fixed ontic value (determined by ι_τ alone)
+- Fixed ontic value (determined by ι<sub>τ</sub> alone)
 
 - Regime-dependent readout functor
 
@@ -342,7 +342,7 @@ Equations
 Tau.BookIV.Physics.no_running_em :NoRunningPrinciple**
 
 
-No-Running for EM sector: α_EM is fixed at ι_τ².
+No-Running for EM sector: α_EM is fixed at ι<sub>τ</sub>².
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -356,7 +356,7 @@ Instances For
 Tau.BookIV.Physics.no_running_weak :NoRunningPrinciple**
 
 
-No-Running for Weak sector: g_w is fixed at ι_τ.
+No-Running for Weak sector: g_w is fixed at ι<sub>τ</sub>.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -370,7 +370,7 @@ Instances For
 Tau.BookIV.Physics.no_running_strong :NoRunningPrinciple**
 
 
-No-Running for Strong sector: α_s is fixed at ι_τ³/(1−ι_τ).
+No-Running for Strong sector: α_s is fixed at ι<sub>τ</sub>³/(1−ι<sub>τ</sub>).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -384,7 +384,7 @@ Instances For
 Tau.BookIV.Physics.no_running_gravity :NoRunningPrinciple**
 
 
-No-Running for Gravity sector: κ_GR is fixed at 1−ι_τ.
+No-Running for Gravity sector: κ_GR is fixed at 1−ι<sub>τ</sub>.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -398,7 +398,7 @@ Instances For
 Tau.BookIV.Physics.no_running_higgs :NoRunningPrinciple**
 
 
-No-Running for Higgs/crossing sector: coupling fixed at ι_τ³/(1+ι_τ).
+No-Running for Higgs/crossing sector: coupling fixed at ι<sub>τ</sub>³/(1+ι<sub>τ</sub>).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For

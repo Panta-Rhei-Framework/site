@@ -233,7 +233,7 @@ Tau.BookIV.Electroweak.PhysicalVacuum :Type**
 functional V_n. The vacuum expectation value (VEV) v_EW ≈ 246 GeV
 sets the electroweak scale.
 
-In the τ-framework, v_EW is determined by ι_τ and the
+In the τ-framework, v_EW is determined by ι<sub>τ</sub> and the
 neutron mass anchor m_n, NOT as a free parameter.
 
 - vev_MeV : ℕ

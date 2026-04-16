@@ -47,7 +47,7 @@ Observed: $(2.53 ± 0.04) × 10^-5$.
 
 ## Derivation Context
 
-Using $η_B = (121/270)\,ι_τ^19
+Using $η_B = (121/270)\,ι<sub>τ</sub>^19
 ≈ 6.041 × 10^-10$
 as the sole input
 to the standard BBN nuclear network:

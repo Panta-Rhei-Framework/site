@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapt
 prev_chapter_title: "Chapter 23: The Lemniscate Operator"
 next_chapter_url: "/publications/books/book-iii/part-04-the-spectral-doors/chapter-25-spectral-purity-and-the-critical-line/"
 next_chapter_title: "Chapter 25: Spectral Purity and the Critical Line"
-summary_short: "We establish the Hilbert–Pólya realization of the Riemann Hypothesis within the τ-framework. The spectral parameter Λ(s) = ι_τ²(s(1-s) - ¼)…"
+summary_short: "We establish the Hilbert–Pólya realization of the Riemann Hypothesis within the τ-framework. The spectral parameter Λ(s) = ι<sub>τ</sub>²(s(1-s) - ¼)…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-04-the-spectral-doors/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-We establish the Hilbert–Pólya realization of the Riemann Hypothesis within the τ-framework. The spectral parameter Λ(s) = ι_τ²(s(1-s) - ¼) transforms the critical strip into the spectral domain. If the completed τ-zeta function ζ_τ(s) admits a determinant representation over the lemniscate operator H_L, then every non-trivial zero of ζ_τ corresponds to an eigenvalue of H_L. The determinant representation is the single conjectural step; all consequences are τ-effective. This chapter completes the algebraic-geometric bridge from number theory to spectral geometry.
+We establish the Hilbert–Pólya realization of the Riemann Hypothesis within the τ-framework. The spectral parameter Λ(s) = ι<sub>τ</sub>²(s(1-s) - ¼) transforms the critical strip into the spectral domain. If the completed τ-zeta function ζ_τ(s) admits a determinant representation over the lemniscate operator H_L, then every non-trivial zero of ζ_τ corresponds to an eigenvalue of H_L. The determinant representation is the single conjectural step; all consequences are τ-effective. This chapter completes the algebraic-geometric bridge from number theory to spectral geometry.

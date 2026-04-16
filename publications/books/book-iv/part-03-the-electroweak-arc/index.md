@@ -44,7 +44,7 @@ Chapters – develop the
 weak force: parity violation from junction orientation, the W/Z bosons
 as junction modes, and the neutrino as a τ¹ time eigenmode.
 Chapters – earn the
-Weinberg angle sin²θ_W = ι_τ(1 - ι_τ) at tree level
+Weinberg angle sin²θ_W = ι<sub>τ</sub>(1 - ι<sub>τ</sub>) at tree level
 and the τ-Higgs mechanism at the ω-crossing.
 the relevant chapter unpacks the continued-fraction structure
 of the derived constants,

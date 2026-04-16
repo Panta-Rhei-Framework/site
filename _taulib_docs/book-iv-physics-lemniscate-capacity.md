@@ -79,9 +79,9 @@ The distance √3 arises from the cube roots of unity:
 
 The same √3 appears in three independent formulas:
 
-- **R correction**: R₀ = ι_τ^(-7) − √3·ι_τ^(-2) (mass ratio)
+- **R correction**: R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2) (mass ratio)
 
-- **δ_A**: δ_A/m_n = (√3/2)·ι_τ⁶ (proton-neutron mass difference)
+- **δ_A**: δ_A/m_n = (√3/2)·ι<sub>τ</sub>⁶ (proton-neutron mass difference)
 
 - **α_G**: α_G = α¹⁸·√3·κ (gravity-EM hierarchy, if κ_n = 2√3)
 
@@ -431,9 +431,9 @@ Tau.BookIV.Physics.Sqrt3Triad :Type**
 [IV.R11] The √3 triad: three independent physical formulas
 sharing the same √3 from the lemniscate three-fold.
 
-- R correction: R₀ = ι_τ^(-7) − √3·ι_τ^(-2)
+- R correction: R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2)
 
-- δ_A: δ_A/m_n = (√3/2)·ι_τ⁶
+- δ_A: δ_A/m_n = (√3/2)·ι<sub>τ</sub>⁶
 
 - α_G: α_G = α¹⁸·√3·κ (if κ_n = 2√3)
 
@@ -509,9 +509,9 @@ Three triad members.
 Tau.BookIV.Physics.CapacityIdentity :Type**
 
 
-The capacity identity: √3·ι_τ^(-2) = 4π√3 × X_E^(nat)
-where X_E^(nat) = 1/(4π·ι_τ²) is the natural electrostatic capacity
-of the torus T² with shape ι_τ.
+The capacity identity: √3·ι<sub>τ</sub>^(-2) = 4π√3 × X_E^(nat)
+where X_E^(nat) = 1/(4π·ι<sub>τ</sub>²) is the natural electrostatic capacity
+of the torus T² with shape ι<sub>τ</sub>.
 
 This gives the correction term a clean physical interpretation:
 it is the lemniscate-corrected universal capacity of T².
@@ -521,7 +521,7 @@ The correction coefficient.
 
 - coeff_denom : ℕ
 - iota_power : ℕ
-The ι_τ power in the denominator.
+The ι<sub>τ</sub> power in the denominator.
 
 - interpretation : String
 Physical interpretation.

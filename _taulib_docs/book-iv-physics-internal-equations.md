@@ -51,7 +51,7 @@ functor R_μ reads out, not what the equations ARE.
 In Layer 1, a physical equation is a **morphism** (or natural transformation)
 between internal categorical objects, not an equality between ℝ-numbers.
 
-Example: The mass ratio R₀ = ι_τ⁻⁷ − √3·ι_τ⁻² is ontologically:
+Example: The mass ratio R₀ = ι<sub>τ</sub>⁻⁷ − √3·ι<sub>τ</sub>⁻² is ontologically:
 
 ```
 R₀ : Hom_C(m_n, m_e) → ℕ
@@ -226,7 +226,7 @@ Target sector (codomain of the morphism).
 Whether the identity is dimensionless (same-sector ratio).
 
 - from_iota_alone : Bool
-Whether this identity is derivable from ι_τ alone (no free parameters).
+Whether this identity is derivable from ι<sub>τ</sub> alone (no free parameters).
 
 Instances For
 
@@ -262,7 +262,7 @@ Instances For
 Tau.BookIV.Physics.mass_ratio_identity :InternalIdentity**
 
 
-The mass ratio R₀ = ι_τ⁻⁷ − √3·ι_τ⁻² as an internal identity.
+The mass ratio R₀ = ι<sub>τ</sub>⁻⁷ − √3·ι<sub>τ</sub>⁻² as an internal identity.
 Ontologically: a morphism in the C-sector (strong) that counts how many
 η-steps separate the neutron and electron confinement invariants.
 Equations
@@ -278,7 +278,7 @@ Instances For
 Tau.BookIV.Physics.alpha_identity :InternalIdentity**
 
 
-The fine-structure constant α = (121/225)·ι_τ⁴ as an internal identity.
+The fine-structure constant α = (121/225)·ι<sub>τ</sub>⁴ as an internal identity.
 Ontologically: the self-coupling strength of the B-sector (EM).
 It is the γ-oscillation amplitude ratio for one full EM cycle.
 Equations
@@ -294,10 +294,10 @@ Instances For
 Tau.BookIV.Physics.gravity_coupling_identity :InternalIdentity**
 
 
-Gravitational coupling κ_D = 1 − ι_τ as an internal identity.
+Gravitational coupling κ_D = 1 − ι<sub>τ</sub> as an internal identity.
 Ontologically: the temporal self-coupling of the D-sector (gravity).
 It is the α-tick deficit: the fraction of base-time NOT absorbed
-by the master constant ι_τ.
+by the master constant ι<sub>τ</sub>.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -327,9 +327,9 @@ Instances For
 Tau.BookIV.Physics.confinement_identity :InternalIdentity**
 
 
-The confinement coupling κ_C = ι_τ³/(1−ι_τ) as an internal identity.
+The confinement coupling κ_C = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>) as an internal identity.
 Ontologically: the C-sector (strong) self-coupling, determined by
-the ratio of third-order to first-order ι_τ effects.
+the ratio of third-order to first-order ι<sub>τ</sub> effects.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -367,7 +367,7 @@ not Layer 0 (math) or Layer 2 (SI bridge).
 Tau.BookIV.Physics.all_from_iota :mass_ratio_identity.from_iota_alone = true ∧ alpha_identity.from_iota_alone = true ∧ gravity_coupling_identity.from_iota_alone = true ∧ temporal_complement_identity.from_iota_alone = true ∧ confinement_identity.from_iota_alone = true**
 
 
-All canonical internal identities are derivable from ι_τ alone.
+All canonical internal identities are derivable from ι<sub>τ</sub> alone.
 
 ---
 

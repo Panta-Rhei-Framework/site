@@ -74,12 +74,12 @@ Same trap, different ion
 
 
 α (fine structure)
-(121/225)·ι_τ⁴ → number
+(121/225)·ι<sub>τ</sub>⁴ → number
 Quantum Hall + von Klitzing
 
 
 G (gravitational constant)
-ι_τ² × torus vacuum → number
+ι<sub>τ</sub>² × torus vacuum → number
 Torsion balance protocol
 
 

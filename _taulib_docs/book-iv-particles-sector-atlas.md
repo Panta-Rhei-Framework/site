@@ -63,7 +63,7 @@ sector to its force carriers, matter content, and coupling constants. The
 boundary holonomy algebra H_∂[ω] admits exactly 4 primitive sector characters
 (D/Gravity, A/Weak, B/EM, C/Strong) and exactly 1 derived sector
 (ω = B ∩ C = Higgs). The 9 canonical generators (4 vacuum idempotents +
-4 gap quanta + 1 crossing generator ι_τ) generate the entire algebra,
+4 gap quanta + 1 crossing generator ι<sub>τ</sub>) generate the entire algebra,
 and no proper subset suffices. The τ-Yukawa couplings are readouts of
 winding-mode geometry, not free parameters.
 
@@ -271,7 +271,7 @@ Vacuum idempotent (one per primitive sector).
 Gap quantum (one per primitive sector).
 
 - crossingGenerator : GeneratorGroup
-Crossing generator (unique, ι_τ).
+Crossing generator (unique, ι<sub>τ</sub>).
 
 Instances For
 
@@ -349,7 +349,7 @@ The 9 generators come in three groups:
 
 - 4 gap quanta (one per sector)
 
-- 1 crossing generator ι_τ coupling χ₊ and χ₋
+- 1 crossing generator ι<sub>τ</sub> coupling χ₊ and χ₋
 
 
 - label : String
@@ -511,7 +511,7 @@ Tau.BookIV.Particles.TauYukawaCoupling :Type**
 [IV.D195] τ-Yukawa coupling: the coupling of a fermion mode χ_{m,n}
 in sector X to the Higgs sector ω.
 
-y_f = κ(ω) / √(m² + n²·ι_τ²) × Γ_gen(f)
+y_f = κ(ω) / √(m² + n²·ι<sub>τ</sub>²) × Γ_gen(f)
 
 Determined by winding-mode overlap with the ω-sector crossing character.
 NOT a free parameter — a readout of fiber geometry.
@@ -574,7 +574,7 @@ Tau.BookIV.Particles.YukawaReadout :Type**
 [IV.R108] The Yukawa hierarchy spanning six orders of magnitude
 (y_e ≈ 3×10⁻⁶ to y_t ≈ 1) is a readout of winding-mode geometry
 on T², not a set of independent parameters. It arises from compounding
-three geometric factors, each determined by ι_τ alone.
+three geometric factors, each determined by ι<sub>τ</sub> alone.
 
 - span_orders : ℕ
 Orders of magnitude span.
@@ -583,7 +583,7 @@ Orders of magnitude span.
 Number of geometric factors.
 
 - iota_determined : Bool
-All determined by ι_τ.
+All determined by ι<sub>τ</sub>.
 
 - not_free : Bool
 Not free parameters.
@@ -657,7 +657,7 @@ Tau.BookIV.Particles.ParameterComparison :Type**
 
 - Standard Model: ~19 free parameters
 
-- Category τ: 9 canonical generators, of which only 1 (ι_τ) is
+- Category τ: 9 canonical generators, of which only 1 (ι<sub>τ</sub>) is
 a numerical constant; the remaining 8 are structural objects
 uniquely determined by the boundary algebra.
 

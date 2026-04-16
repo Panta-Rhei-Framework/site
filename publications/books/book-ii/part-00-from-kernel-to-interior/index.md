@@ -77,7 +77,7 @@ From here, the ten Parts of the book deploy the interior engine.
 Parts I–IV earn the topological and geometric scaffolding
 (interior points, cylinders, topology, Tarski geometry).
 Part V earns the transcendental constants
-π, e, j, ι_τ from countable discrete structure.
+π, e, j, ι<sub>τ</sub> from countable discrete structure.
 Part VI makes split-complex holomorphy load-bearing
 (Mutual Determination, the five-way equivalence).
 Part VII proves holomorphic = idempotent-supported

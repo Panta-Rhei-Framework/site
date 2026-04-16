@@ -11,7 +11,7 @@ result_kind: frontier-problem
 importance_class: high-impact-frontier-problem
 status_code: R
 domain_group: "COSMO"
-summary_short: "Primordial gravitational waves from inflation would produce B-mode polarization in the CMB. The τ-framework predicts tensor-to-scalar ratio r = ι_τ⁴ ≈ 0.01…"
+summary_short: "Primordial gravitational waves from inflation would produce B-mode polarization in the CMB. The τ-framework predicts tensor-to-scalar ratio r = ι<sub>τ</sub>⁴ ≈ 0.01…"
 canonical_books: ["V"]
 right_rail:
   meta:
@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-Primordial gravitational waves from inflation would produce B-mode polarization in the CMB. The τ-framework predicts tensor-to-scalar ratio r = ι_τ⁴ ≈ 0.014, testable by CMB-S4.
+Primordial gravitational waves from inflation would produce B-mode polarization in the CMB. The τ-framework predicts tensor-to-scalar ratio r = ι<sub>τ</sub>⁴ ≈ 0.014, testable by CMB-S4.
 
 ## Result Statement
 
-Primordial gravitational waves: r = ι_τ⁴ ≈ 0.014. Testable by CMB-S4. Status: Resolved.
+Primordial gravitational waves: r = ι<sub>τ</sub>⁴ ≈ 0.014. Testable by CMB-S4. Status: Resolved.

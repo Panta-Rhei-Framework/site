@@ -3,7 +3,7 @@ title: Crossing-Limit Theorem
 module_id: E2-007
 layer: E2
 strand: cosmic-life
-summary_short: The BH merger net converges to ι_τ — the universe tends toward maximal
+summary_short: The BH merger net converges to ι<sub>τ</sub> — the universe tends toward maximal
   aliveness.
 diagrams:
 - src: /assets/diagrams/framework/book-vi/life-crossing-limit-distinction-matrix.svg

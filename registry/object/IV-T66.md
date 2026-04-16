@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Electroweak.EWSynthesis
 lean_name: Tau.BookIV.Electroweak.ElectroweakPredictionTable
-summary: 'Nine electroweak quantities derived from ι_τ and m_n with zero free parameters:
+summary: 'Nine electroweak quantities derived from ι<sub>τ</sub> and m_n with zero free parameters:
   α_em (0.8%), sin²θ_W (2.7%), M_W (0.03%), M_Z (0.1%), M_H (0.2%), m_e (0.025 ppm),
   R (0.025 ppm), m_ν₃ (2.5%), G_F (0.1%).'
 depends_on:

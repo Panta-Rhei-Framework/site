@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Electroweak.EWMixing
 lean_name: Tau.BookIV.Electroweak.WeinbergAnglePrediction
-summary: 'Tree-level τ-prediction: sin²θ_W = κ(A,D) = ι_τ(1−ι_τ) ≈ 0.2249, identified
+summary: 'Tree-level τ-prediction: sin²θ_W = κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>) ≈ 0.2249, identified
   with the temporal-sector cross-coupling between Weak and Gravity sectors.'
 depends_on:
 - IV.D130

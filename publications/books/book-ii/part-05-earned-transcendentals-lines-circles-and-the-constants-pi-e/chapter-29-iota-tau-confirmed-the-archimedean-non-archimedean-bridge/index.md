@@ -1,6 +1,6 @@
 ---
 layout: publication-chapter
-title: "Chapter 29: ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge"
+title: "Chapter 29: ι<sub>τ</sub> Confirmed — The Archimedean-Non-Archimedean Bridge"
 permalink: /publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/
 lane: publications
 publication_type: chapter
@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-li
 prev_chapter_title: "Chapter 28: Replaces i — Polarity, Not Rotation"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-30-split-complex-codomain-with-calibration/"
 next_chapter_title: "Chapter 30: Split-Complex Codomain with Calibration"
-summary_short: "Book I introduced the master constant ι_τ = 2/(π + e) ≈ 0.341304 as a structural mediator between the B and C channels (I.D24, Book I). At that stage,…"
+summary_short: "Book I introduced the master constant ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304 as a structural mediator between the B and C channels (I.D24, Book I). At that stage,…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 canonical_part_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/"
@@ -39,18 +39,18 @@ right_rail:
 
 
 Book I introduced the master constant
-ι_τ = 2/(π + e) ≈ 0.341304
+ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304
 as a structural mediator between the B and C channels
 (I.D24, Book I).
 At that stage, neither π nor e was earned:
-ι_τ was a formal ratio
+ι<sub>τ</sub> was a formal ratio
 awaiting numerical content.
 Chapters  and 
 earned π and e from the τ-framework itself,
 and the relevant chapter
 established the bipolar unit j.
 This chapter closes the circle.
-We confirm ι_τ = 2/(π + e)
+We confirm ι<sub>τ</sub> = 2/(π + e)
 with **earned** π and e,
 establish the **Archimedean-Non-Archimedean Bridge**
 between ultrametric refinement (D-depth)

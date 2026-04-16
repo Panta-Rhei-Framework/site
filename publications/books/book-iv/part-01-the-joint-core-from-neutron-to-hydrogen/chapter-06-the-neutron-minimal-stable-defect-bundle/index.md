@@ -43,5 +43,5 @@ at the structurally determined speed c_τ = 1
 . Now the first massive actor appears: the **neutron**.
 It is not postulated—it emerges as the minimal quasi-stable defect bundle
 on T², the simplest configuration whose breathing amplitude is
-nonzero and whose bi-rotation is locked by ι_τ = 2/(π + e).
+nonzero and whose bi-rotation is locked by ι<sub>τ</sub> = 2/(π + e).
 Everything else in particle physics will follow from it.

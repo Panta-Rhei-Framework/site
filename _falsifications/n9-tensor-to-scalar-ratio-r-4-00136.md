@@ -39,9 +39,9 @@ right_rail:
 r = iota-tau-4 approx 0.014.
 
 Fiber dimensional suppression (V.P136):
-$r = ι_τ^2(T^2) = ι_τ^4$.
+$r = ι<sub>τ</sub>^2(T^2) = ι<sub>τ</sub>^4$.
 Not slow-roll: $r ≠ 8/N_e$.
-The 156$×$ gap between $ι_τ^4$ and $8/57$
+The 156$×$ gap between $ι<sub>τ</sub>^4$ and $8/57$
 is the sharpest inflation discriminant.
 *Decisive at* $14σ$ by CMB-S4.
 *Experiment:* BICEP Array, CMB-S4, LiteBIRD.
@@ -57,11 +57,11 @@ $τ^3 = τ^1 ×_f T^2$:
 
 r
 \;=\;
-ι_τ^\,2 · (T^2)
+ι<sub>τ</sub>^\,2 · (T^2)
 \;=\;
-ι_τ^2 × 2
+ι<sub>τ</sub>^2 × 2
 \;=\;
-ι_τ^4
+ι<sub>τ</sub>^4
 \;≈\;
 0.01357.
 
@@ -77,7 +77,7 @@ are boundary-character fluctuations
 of the full arena $τ^3$,
 coupling to both fiber circles of $T^2$.
 - Each fiber dimension contributes
-a breathing-fraction suppression $ι_τ$
+a breathing-fraction suppression $ι<sub>τ</sub>$
 to the scalar amplitude
 relative to the tensor amplitude.
 - The power spectrum

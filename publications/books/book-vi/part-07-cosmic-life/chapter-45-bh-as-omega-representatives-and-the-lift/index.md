@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Black holes are established as ω-representatives of Life: finite carriers whose ω-germ codes nearly completely determine basin behavior, paralleling ω's boundary position within the kernel. The Lift_ω Teichm\"uller-style constructor builds recursively from bipolar scalars to ω-germ codes via the primorial ladder, with convergence to ι_τ. BH merger is reinterpreted as blueprint fusion, bringing merged codes closer to ι_τ.
+Black holes are established as ω-representatives of Life: finite carriers whose ω-germ codes nearly completely determine basin behavior, paralleling ω's boundary position within the kernel. The Lift_ω Teichm\"uller-style constructor builds recursively from bipolar scalars to ω-germ codes via the primorial ladder, with convergence to ι<sub>τ</sub>. BH merger is reinterpreted as blueprint fusion, bringing merged codes closer to ι<sub>τ</sub>.

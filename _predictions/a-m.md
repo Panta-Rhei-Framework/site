@@ -8,10 +8,10 @@ prediction_id: "pred-006"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 observable: "δA / mₙ"
-observable_mathml: "<math><mi>(tfrac316)sqrt3,ι_τ⁵</mi></math>"
-formula_plain: "(tfrac316)sqrt3,ι_τ⁵"
-formula_mathml: "<math><mi>(tfrac316)sqrt3,ι_τ⁵</mi></math>"
-formula_display: "Δm / mₙ = (3/16)√3 · ι_τ⁵ − (3/20)α · ι_τ²"
+observable_mathml: "<math><mi>(tfrac316)sqrt3,ι<sub>τ</sub>⁵</mi></math>"
+formula_plain: "(tfrac316)sqrt3,ι<sub>τ</sub>⁵"
+formula_mathml: "<math><mi>(tfrac316)sqrt3,ι<sub>τ</sub>⁵</mi></math>"
+formula_display: "Δm / mₙ = (3/16)√3 · ι<sub>τ</sub>⁵ − (3/20)α · ι<sub>τ</sub>²"
 tau_value: "1.38!×!10⁻³"
 observed_value: "1.378!×!10⁻³"
 deviation: "+33~ppm"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**Δm / mₙ = (3/16)√3 · ι_τ⁵ − (3/20)α · ι_τ²**
+**Δm / mₙ = (3/16)√3 · ι<sub>τ</sub>⁵ − (3/20)α · ι<sub>τ</sub>²**
 
 ## Derivation
 
@@ -51,7 +51,7 @@ is given by the **two-sector formula**:
 
 where $α ≈ 1/137.036$
 is the fine-structure constant
-and $ι_τ = 2/(π + e)$.
+and $ι<sub>τ</sub> = 2/(π + e)$.
 The first term is the strong-sector (C-sector) contribution;
 the second is the electromagnetic correction (B-sector).
 Numerically:

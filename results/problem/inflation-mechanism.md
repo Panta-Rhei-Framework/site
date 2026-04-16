@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-Cosmic inflation explains the flatness, horizon, and monopole problems but its mechanism remains unknown. The τ-framework derives the inflation mechanism from the base sector τ¹ with spectral index n_s and tensor-to-scalar ratio r = ι_τ⁴.
+Cosmic inflation explains the flatness, horizon, and monopole problems but its mechanism remains unknown. The τ-framework derives the inflation mechanism from the base sector τ¹ with spectral index n_s and tensor-to-scalar ratio r = ι<sub>τ</sub>⁴.
 
 ## Result Statement
 
-Inflation derived from τ¹ base sector: n_s and r = ι_τ⁴ as structural predictions. Status: Resolved.
+Inflation derived from τ¹ base sector: n_s and r = ι<sub>τ</sub>⁴ as structural predictions. Status: Resolved.

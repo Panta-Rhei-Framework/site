@@ -65,7 +65,7 @@ Key values:
 
 
 The fine-structure constant is expressed entirely in tower values:
-α = (ω₁ / (γ₁ · γ₂))² · ι_τ⁴ = (11/15)² · ι_τ⁴
+α = (ω₁ / (γ₁ · γ₂))² · ι<sub>τ</sub>⁴ = (11/15)² · ι<sub>τ</sub>⁴
 
 The Euler sieve factor:
 8/15 = (1 - 1/γ₁)(1 - 1/η₁) = (2/3)(4/5)

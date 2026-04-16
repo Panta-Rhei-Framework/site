@@ -44,7 +44,7 @@ Maps τ-derived dimensionless couplings to physical constants with range proofs.
 ### Dimensionless Near-Matches
 
 
-The τ-framework produces dimensionless couplings from ι_τ alone.
+The τ-framework produces dimensionless couplings from ι<sub>τ</sub> alone.
 Three such couplings can be compared to measured physical constants:
 
 
@@ -56,28 +56,28 @@ Deviation
 
 
 α_EM
-(8/15)·ι_τ⁴
+(8/15)·ι<sub>τ</sub>⁴
 ~1/137.9
 1/137.036
 0.6%
 
 
 sin²θ_W
-ι_τ(1−ι_τ)
+ι<sub>τ</sub>(1−ι<sub>τ</sub>)
 ~0.2249
 0.23121
 2.7%
 
 
 α_s(M_Z)
-2·ι_τ³/(1−ι_τ)
+2·ι<sub>τ</sub>³/(1−ι<sub>τ</sub>)
 ~0.1208
 0.1180
 2.4%
 
 
 All three are CONJECTURAL: the numerical near-matches are observed but
-the exact mechanism connecting ι_τ formulas to measured values requires
+the exact mechanism connecting ι<sub>τ</sub> formulas to measured values requires
 the full calibration cascade (Parts III–X).
 
 ## Ground Truth Sources
@@ -97,7 +97,7 @@ the full calibration cascade (Parts III–X).
 Tau.BookIV.Calibration.WeinbergNearMatch :Type**
 
 
-[IV.D28] Weinberg angle near-match: κ(A,D) = ι_τ(1−ι_τ) vs sin²θ_W.
+[IV.D28] Weinberg angle near-match: κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>) vs sin²θ_W.
 
 τ-derived: κ(A,D) ≈ 0.2249
 Experimental: sin²θ_W = 0.23121(4) (on-shell, CODATA 2022)
@@ -160,7 +160,7 @@ Tau.BookIV.Calibration.StrongNearMatch :Type**
 
 [IV.D29] Strong coupling near-match: 2·κ(C,C) vs α_s(M_Z).
 
-τ-derived: 2·κ(C) = 2·ι_τ³/(1−ι_τ) ≈ 0.1208
+τ-derived: 2·κ(C) = 2·ι<sub>τ</sub>³/(1−ι<sub>τ</sub>) ≈ 0.1208
 Experimental: α_s(M_Z) = 0.1180(9)
 Deviation: ~2.4%
 

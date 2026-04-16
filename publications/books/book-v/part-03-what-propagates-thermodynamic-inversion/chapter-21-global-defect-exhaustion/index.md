@@ -44,7 +44,7 @@ and the entropy splitting
 S = S_def + S_ref.
 Defect entropy decreases monotonically,
 and the contraction factor
-(1 - ι_τ) ≈ 0.6587
+(1 - ι<sub>τ</sub>) ≈ 0.6587
 controls the rate.
 But a monotonically decreasing sequence
 might never reach zero—it

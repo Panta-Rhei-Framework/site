@@ -688,7 +688,7 @@ Tau.BookVI.TempLem.HomochiralityScopeUpgrade :Type**
 
 [VI.R26] Homochirality Scope Upgrade: documents the complete derivation
 chain that upgrades homochirality from conjectural to τ-effective.
-Chain: K0-K6 → ι_τ → holonomy sectors → σ_A-admissibility (IV.D112)
+Chain: K0-K6 → ι<sub>τ</sub> → holonomy sectors → σ_A-admissibility (IV.D112)
 → σ = C_τ Majorana (IV.T146) → Parity Bridge (VI.T01)
 → Polarity Propagation (VI.D71) → Chirality Seed (VI.D72)
 → Propagation Preserves Chirality (VI.T41)

@@ -66,4 +66,4 @@ SI units are *readout conventions*—the
 is a well-defined ω-germ
 whose value is determined entirely
 by the axioms K0–K6
-and the master constant ι_τ.
+and the master constant ι<sub>τ</sub>.

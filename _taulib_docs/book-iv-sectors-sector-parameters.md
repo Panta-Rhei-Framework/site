@@ -51,7 +51,7 @@ at the E₁ (physics) enrichment level.
 Book III established the abstract 4+1 sector template (III.D13) via character-lattice
 counting. Book IV instantiates each sector with its **four defining parameters**:
 
-- **Self-coupling κ(S;d)** — rational function of ι_τ at primorial depth d
+- **Self-coupling κ(S;d)** — rational function of ι<sub>τ</sub> at primorial depth d
 
 - **Polarity signature** — χ₊-dominant, balanced, χ₋-dominant, or crossing
 
@@ -76,7 +76,7 @@ B (EM)
 γ
 B
 Fiber T²
-ι_τ²
+ι<sub>τ</sub>²
 χ₊-dom
 2
 
@@ -85,7 +85,7 @@ C (Strong)
 η
 C
 Fiber T²
-ι_τ³/(1−ι_τ)
+ι<sub>τ</sub>³/(1−ι<sub>τ</sub>)
 χ₋-dom
 3
 
@@ -94,7 +94,7 @@ Fiber T²
 γ∩η
 B∩C
 Fiber T²
-ι_τ³/(1+ι_τ)
+ι<sub>τ</sub>³/(1+ι<sub>τ</sub>)
 crossing
 3
 
@@ -103,7 +103,7 @@ D (Gravity)
 α
 D
 Base τ¹
-1−ι_τ
+1−ι<sub>τ</sub>
 χ₊-dom
 1
 
@@ -112,12 +112,12 @@ A (Weak)
 π
 A
 Base τ¹
-ι_τ
+ι<sub>τ</sub>
 balanced
 1
 
 
-All couplings are determined by ι_τ = 2/(π+e) ≈ 0.341304 (No Knobs, III.T08).
+All couplings are determined by ι<sub>τ</sub> = 2/(π+e) ≈ 0.341304 (No Knobs, III.T08).
 
 ## Ground Truth Sources
 
@@ -223,7 +223,7 @@ Tau.BookIV.Sectors.SectorPhysics :Type**
 
 [IV.D01] The four defining parameters of a sector at E₁.
 Every sector is completely characterized by these four values.
-All couplings are rational functions of ι_τ.
+All couplings are rational functions of ι<sub>τ</sub>.
 
 - sector : BookIII.Sectors.Sector
 The abstract sector (from Book III Decomposition).
@@ -297,7 +297,7 @@ Instances For
 Tau.BookIV.Sectors.iota :ℕ**
 
 
-ι_τ numerator at scale 10⁶ (from Iota.lean).
+ι<sub>τ</sub> numerator at scale 10⁶ (from Iota.lean).
 Equations
 - Tau.BookIV.Sectors.iota = Tau.Boundary.iota_tau_numer
 Instances For
@@ -312,7 +312,7 @@ Instances For
 Tau.BookIV.Sectors.iotaD :ℕ**
 
 
-ι_τ denominator at scale 10⁶ (from Iota.lean).
+ι<sub>τ</sub> denominator at scale 10⁶ (from Iota.lean).
 Equations
 - Tau.BookIV.Sectors.iotaD = Tau.Boundary.iota_tau_denom
 Instances For
@@ -326,7 +326,7 @@ Instances For
 Tau.BookIV.Sectors.iota_sq_numer :ℕ**
 
 
-ι_τ² numerator: iota² = 341304² = 116,594,274,681.
+ι<sub>τ</sub>² numerator: iota² = 341304² = 116,594,274,681.
 Equations
 - Tau.BookIV.Sectors.iota_sq_numer = Tau.BookIV.Sectors.iota * Tau.BookIV.Sectors.iota
 Instances For
@@ -340,7 +340,7 @@ Instances For
 Tau.BookIV.Sectors.iota_sq_denom :ℕ**
 
 
-ι_τ² denominator: 10¹².
+ι<sub>τ</sub>² denominator: 10¹².
 Equations
 - Tau.BookIV.Sectors.iota_sq_denom = Tau.BookIV.Sectors.iotaD * Tau.BookIV.Sectors.iotaD
 Instances For
@@ -354,7 +354,7 @@ Instances For
 Tau.BookIV.Sectors.iota_cu_numer :ℕ**
 
 
-ι_τ³ numerator: iota³.
+ι<sub>τ</sub>³ numerator: iota³.
 Equations
 - Tau.BookIV.Sectors.iota_cu_numer = Tau.BookIV.Sectors.iota * Tau.BookIV.Sectors.iota * Tau.BookIV.Sectors.iota
 Instances For
@@ -368,7 +368,7 @@ Instances For
 Tau.BookIV.Sectors.iota_cu_denom :ℕ**
 
 
-ι_τ³ denominator: 10¹⁸.
+ι<sub>τ</sub>³ denominator: 10¹⁸.
 Equations
 - Tau.BookIV.Sectors.iota_cu_denom = Tau.BookIV.Sectors.iotaD * Tau.BookIV.Sectors.iotaD * Tau.BookIV.Sectors.iotaD
 Instances For
@@ -383,7 +383,7 @@ Tau.BookIV.Sectors.em_sector :SectorPhysics**
 
 
 [IV.D02] **EM Sector (B)**: γ-generator, electromagnetic force.
-Self-coupling κ(B;2) = ι_τ².
+Self-coupling κ(B;2) = ι<sub>τ</sub>².
 Polarity: χ₊-dominant (spreading/multiplicative).
 Depth: 2 (second primorial level).
 Physical: photon transport, Maxwell equations, fine structure.
@@ -401,11 +401,11 @@ Tau.BookIV.Sectors.strong_sector :SectorPhysics**
 
 
 [IV.D03] **Strong Sector (C)**: η-generator, strong force.
-Self-coupling κ(C;3) = ι_τ³/(1−ι_τ).
+Self-coupling κ(C;3) = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>).
 Polarity: χ₋-dominant (tightening/additive).
 Depth: 3 (third primorial level).
 Physical: color holonomy, confinement, mass gap.
-The (1−ι_τ) denominator is the structural signature of confinement.
+The (1−ι<sub>τ</sub>) denominator is the structural signature of confinement.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -420,7 +420,7 @@ Tau.BookIV.Sectors.higgs_sector :SectorPhysics**
 
 
 [IV.D04] **Higgs Sector (ω)**: γ∩η crossing, Higgs/mass mechanism.
-Self-coupling κ(B,C) = ι_τ³/(1+ι_τ).
+Self-coupling κ(B,C) = ι<sub>τ</sub>³/(1+ι<sub>τ</sub>).
 Polarity: crossing (both lobes active simultaneously).
 Depth: 3 (third primorial level).
 Physical: mass generation, dense spatial occupancy.
@@ -439,10 +439,10 @@ Tau.BookIV.Sectors.gravity_sector :SectorPhysics**
 
 
 [IV.D05] **Gravity Sector (D)**: α-generator, gravitational force.
-Self-coupling κ(D;1) = 1−ι_τ.
+Self-coupling κ(D;1) = 1−ι<sub>τ</sub>.
 Polarity: χ₊-dominant.
 Depth: 1 (first primorial level).
-Physical: frame holonomy, temporal flow, G = (c³/ℏ)·ι_τ².
+Physical: frame holonomy, temporal flow, G = (c³/ℏ)·ι<sub>τ</sub>².
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -457,11 +457,11 @@ Tau.BookIV.Sectors.weak_sector :SectorPhysics**
 
 
 [IV.D06] **Weak Sector (A)**: π-generator, weak force.
-Self-coupling κ(A;1) = ι_τ.
+Self-coupling κ(A;1) = ι<sub>τ</sub>.
 Polarity: balanced (unique sector with pol = 1).
 Depth: 1 (first primorial level).
 Physical: temporal arrow, parity violation, beta decay.
-The master constant ι_τ itself IS the weak self-coupling.
+The master constant ι<sub>τ</sub> itself IS the weak self-coupling.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For

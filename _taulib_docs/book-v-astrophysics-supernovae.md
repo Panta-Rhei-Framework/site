@@ -428,7 +428,7 @@ triggered when the white dwarf accretes mass to reach M_Ch.
 
 The standardizable-candle property follows from the FIXED
 trigger mass (M_Ch is determined by fundamental constants
-→ by ι_τ in the τ-framework).
+→ by ι<sub>τ</sub> in the τ-framework).
 
 ---
 
@@ -601,7 +601,7 @@ Tau.BookV.Astrophysics.standardizable_candle :"Type Ia standardizable because M_
 
 [V.P75] Standardizable candle from fixed physics: Type Ia SNe
 are standardizable candles because the trigger mass (M_Ch) is
-fixed by fundamental physics (ultimately by ι_τ).
+fixed by fundamental physics (ultimately by ι<sub>τ</sub>).
 
 The Phillips relation (brighter → slower decline) provides
 the standardization correction.

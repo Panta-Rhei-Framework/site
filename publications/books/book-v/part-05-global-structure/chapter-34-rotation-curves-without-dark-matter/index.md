@@ -60,7 +60,7 @@ is tuned to produce the observed curve.
 This chapter provides
 the τ-native explanation.
 The D-sector coupling
-κ(D;1) = 1 - ι_τ
+κ(D;1) = 1 - ι<sub>τ</sub>
 produces a capacity gradient
 ∇ C_D
 at galactic scales

@@ -16,8 +16,8 @@ diagrams:
   alt: "Sector exhaustion budget: the five spectral sectors of Category τ partition the total coupling budget of τ³. No sixth sector exists by the No-Fifth-Sector…"
   source: "Book V, Chapter 44"
   label: "fig:bookV-ch44-sector-budget"
-thesis: Galaxy dynamics follow from τ-Einstein geometry with coupling κ(D;1) = 1-ι_τ;
-  MOND scale derived from ι_τ.
+thesis: Galaxy dynamics follow from τ-Einstein geometry with coupling κ(D;1) = 1-ι<sub>τ</sub>;
+  MOND scale derived from ι<sub>τ</sub>.
 canonical_books:
 - V
 source_parts:

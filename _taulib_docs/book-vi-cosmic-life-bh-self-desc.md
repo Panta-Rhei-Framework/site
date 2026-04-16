@@ -48,7 +48,7 @@ Imports BookV.Gravity.BHTopoModes for QNM evaluator mechanism.
 
 - [V.D234] T² QNM Mode Structure: ringdown as evaluator mechanism
 
-- [V.T168] QNM Frequency Ratio ι_τ⁻¹: carrier-internal frequencies
+- [V.T168] QNM Frequency Ratio ι<sub>τ</sub>⁻¹: carrier-internal frequencies
 
 - [V.T114] No-Shrink Theorem: code integrity guarantee
 
@@ -210,7 +210,7 @@ Tau.BookVI.BHSelfDesc.BHEvaluator :Type**
 
 The BH evaluator is physically realized by T² torus ringdown.
 QNM frequencies from V.D234 determine the evaluation timescale.
-Fundamental ratio f(0,1)/f(1,0) = ι_τ⁻¹ (V.T168).
+Fundamental ratio f(0,1)/f(1,0) = ι<sub>τ</sub>⁻¹ (V.T168).
 
 - mechanism : String
 Evaluator mechanism: torus QNM ringdown.
@@ -219,7 +219,7 @@ Evaluator mechanism: torus QNM ringdown.
 Number of primitive torus modes (from BookV).
 
 - ratio_exceeds_one : Bool
-QNM ratio is ι_τ⁻¹ > 1 (from BookV).
+QNM ratio is ι<sub>τ</sub>⁻¹ > 1 (from BookV).
 
 Instances For
 

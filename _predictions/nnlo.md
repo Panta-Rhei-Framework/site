@@ -60,9 +60,9 @@ At the $τ$-native NNLO level,
 the mass ratio formula becomes
 
 m_μm_e
-= ι_τ^-(W_3(4) - 1/W_3(4)^2)
-= ι_τ^-(5 - 1/25)
-= ι_τ^-4.96.
+= ι<sub>τ</sub>^-(W_3(4) - 1/W_3(4)^2)
+= ι<sub>τ</sub>^-(5 - 1/25)
+= ι<sub>τ</sub>^-4.96.
 
 ## Source
 

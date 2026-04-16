@@ -65,7 +65,7 @@ Each entry carries an explicit scope label from the 4-tier system:
 ### Categories
 
 
-- **Couplings** (10 entries): The complete coupling ledger from ι_τ
+- **Couplings** (10 entries): The complete coupling ledger from ι<sub>τ</sub>
 
 - **Dimensional formulas** (5 entries): c, h, k_e, ε₀, μ₀ derivation chain
 
@@ -202,7 +202,7 @@ Equations
 Tau.BookIV.Calibration.coupling_ledger :List LedgerEntry**
 
 
-The 10 coupling constants from ι_τ.
+The 10 coupling constants from ι<sub>τ</sub>.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For

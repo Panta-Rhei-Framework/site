@@ -48,14 +48,14 @@ right_rail:
 
 a_0^barea_0^dress
 \;=\;
-1 - ι_τι_τ
+1 - ι<sub>τ</sub>ι<sub>τ</sub>
 \;=\;
 κ_Dκ_B
 \;≈\;
 2.378,
 
-where $κ_D = 1 - ι_τ$ is the gravitational coupling
-and $κ_B = ι_τ^2$ is the baryonic coupling.
+where $κ_D = 1 - ι<sub>τ</sub>$ is the gravitational coupling
+and $κ_B = ι<sub>τ</sub>^2$ is the baryonic coupling.
 The ratio is the square root
 of the holonomy-to-baryon coupling ratio—the
 same ratio that governs

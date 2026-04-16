@@ -704,7 +704,7 @@ Tau.BookIV.Particles.NuclearSaturation :Type**
 
 
 [IV.P129] Each nucleon's defect bundle has finite angular extent
-Δθ ≈ ι_τ on the η-circle, so only ~12 nearest neighbors interact.
+Δθ ≈ ι<sub>τ</sub> on the η-circle, so only ~12 nearest neighbors interact.
 Binding energy per nucleon B/A plateaus near 8.8 MeV for large A.
 
 - max_neighbors : ℕ

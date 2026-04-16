@@ -34,13 +34,13 @@ GW echo times, entropy comparison, and no-Hawking argument.
 
 - [V.D234] T² QNM Mode Structure -- `TorusMode`
 
-- [V.T168] QNM Fundamental Frequency Ratio = ι_τ⁻¹ -- `qnm_ratio_is_iota_inv`
+- [V.T168] QNM Fundamental Frequency Ratio = ι<sub>τ</sub>⁻¹ -- `qnm_ratio_is_iota_inv`
 
-- [V.T169] GW Echo Times t± = 4GM·ι_τ^{±1}/c³ -- `echo_time_outer`, `echo_time_inner`
+- [V.T169] GW Echo Times t± = 4GM·ι<sub>τ</sub>^{±1}/c³ -- `echo_time_outer`, `echo_time_inner`
 
 - [V.P124] T² Shadow Radius vs EHT -- `m87_shadow_tau_outer_uas`
 
-- [V.P125] T² Entropy = π·ι_τ × S² Entropy -- `torus_entropy_ratio`
+- [V.P125] T² Entropy = π·ι<sub>τ</sub> × S² Entropy -- `torus_entropy_ratio`
 
 - [V.R373] LIGO Echo Window -- `echo_separation`
 
@@ -51,22 +51,22 @@ GW echo times, entropy comparison, and no-Hawking argument.
 
 
 The τ-black hole has T² topology (not S²). The two fundamental torus cycles give
-QNM frequency ratio ι_τ⁻¹ ≈ 2.9299, distinct from Schwarzschild overtone ratio ≈ 0.928.
+QNM frequency ratio ι<sub>τ</sub>⁻¹ ≈ 2.9299, distinct from Schwarzschild overtone ratio ≈ 0.928.
 
 ## Numerical Ground Truth (from scripts/bh_topology_lab.py, mpmath 50 dps)
 
 
-- ι_τ = 0.34130423887521951564
+- ι<sub>τ</sub> = 0.34130423887521951564
 
-- ι_τ⁻¹ = 2.9299372410244192369
+- ι<sub>τ</sub>⁻¹ = 2.9299372410244192369
 
-- f(0,1)/f(1,0) = ι_τ⁻¹ ≈ 2.9299
+- f(0,1)/f(1,0) = ι<sub>τ</sub>⁻¹ ≈ 2.9299
 
 - For M=30 M_☉: Δt = 1.5303 ms
 
 - For M=62 M_☉ (GW150914): Δt = 3.1626 ms
 
-- π·ι_τ = 1.07223889 (entropy ratio)
+- π·ι<sub>τ</sub> = 1.07223889 (entropy ratio)
 
 
 ---
@@ -81,14 +81,14 @@ Tau.BookV.Gravity.TorusMode :Type**
 A torus quasi-normal mode labeled by integer winding numbers (n, m)
 for the outer and inner S¹ cycles respectively. [V.D234]
 
-Laplacian eigenvalue (in units 1/R²): λ_{n,m} = n² + m²·ι_τ⁻²
+Laplacian eigenvalue (in units 1/R²): λ_{n,m} = n² + m²·ι<sub>τ</sub>⁻²
 QNM frequency: f_{n,m} ∝ √λ_{n,m}
 
 - n : ℤ
 Outer S¹ winding number (outer horizon cycle).
 
 - m : ℤ
-Inner S¹ winding number (inner horizon cycle, r = R·ι_τ).
+Inner S¹ winding number (inner horizon cycle, r = R·ι<sub>τ</sub>).
 
 Instances For
 
@@ -140,7 +140,7 @@ Tau.BookV.Gravity.torusEigenvalue
  :Float**
 
 
-Laplacian eigenvalue of mode (n,m) in units of 1/R², using Float ι_τ.
+Laplacian eigenvalue of mode (n,m) in units of 1/R², using Float ι<sub>τ</sub>.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -170,15 +170,15 @@ Instances For
 Tau.BookV.Gravity.qnm_ratio_is_iota_inv :Boundary.iota_tau_numer < Boundary.iota_tau_denom**
 
 
-The QNM frequency ratio f(0,1)/f(1,0) = R/r = ι_τ⁻¹ ≈ 2.9299. [V.T168]
-Inner cycle is faster than outer cycle by factor ι_τ⁻¹.
+The QNM frequency ratio f(0,1)/f(1,0) = R/r = ι<sub>τ</sub>⁻¹ ≈ 2.9299. [V.T168]
+Inner cycle is faster than outer cycle by factor ι<sub>τ</sub>⁻¹.
 Proof: f_{(n,m)} ∝ √(n²/R² + m²/r²)
-f(0,1)/f(1,0) = (1/r)/(1/R) = R/r = 1/ι_τ
-This follows from V.T01: r/R = ι_τ
+f(0,1)/f(1,0) = (1/r)/(1/R) = R/r = 1/ι<sub>τ</sub>
+This follows from V.T01: r/R = ι<sub>τ</sub>
 
-Nat-level proof: ι_τ = iota_tau_numer/iota_tau_denom = 341304/1000000,
-so ι_τ⁻¹ = iota_tau_denom/iota_tau_numer. The ratio exceeds 1 because
-iota_tau_numer < iota_tau_denom (equivalently, ι_τ < 1).
+Nat-level proof: ι<sub>τ</sub> = iota_tau_numer/iota_tau_denom = 341304/1000000,
+so ι<sub>τ</sub>⁻¹ = iota_tau_denom/iota_tau_numer. The ratio exceeds 1 because
+iota_tau_numer < iota_tau_denom (equivalently, ι<sub>τ</sub> < 1).
 
 ---
 
@@ -189,7 +189,7 @@ iota_tau_numer < iota_tau_denom (equivalently, ι_τ < 1).
 Tau.BookV.Gravity.qnm_frequency_ratio :Float**
 
 
-Numerical value: QNM inner/outer frequency ratio = ι_τ⁻¹.
+Numerical value: QNM inner/outer frequency ratio = ι<sub>τ</sub>⁻¹.
 Equations
 - Tau.BookV.Gravity.qnm_frequency_ratio = 1.0 / Tau.BookV.Gravity.iota_float✝
 Instances For
@@ -261,7 +261,7 @@ Tau.BookV.Gravity.echo_time_outer
  :Float**
 
 
-Outer echo time: t_outer = 4GM·ι_τ⁻¹/c³ [seconds].
+Outer echo time: t_outer = 4GM·ι<sub>τ</sub>⁻¹/c³ [seconds].
 Corresponds to outer S¹ round-trip on the torus horizon. [V.T169]
 Equations
 - Tau.BookV.Gravity.echo_time_outer M_kg = 4.0 * Tau.BookV.Gravity.G_Newton * M_kg / (Tau.BookV.Gravity.iota_float✝ * Tau.BookV.Gravity.c_light ^ 3)
@@ -278,7 +278,7 @@ Tau.BookV.Gravity.echo_time_inner
  :Float**
 
 
-Inner echo time: t_inner = 4GM·ι_τ/c³ [seconds].
+Inner echo time: t_inner = 4GM·ι<sub>τ</sub>/c³ [seconds].
 Corresponds to inner S¹ round-trip on the torus horizon. [V.T169]
 Equations
 - Tau.BookV.Gravity.echo_time_inner M_kg = 4.0 * Tau.BookV.Gravity.G_Newton * M_kg * Tau.BookV.Gravity.iota_float✝ / Tau.BookV.Gravity.c_light ^ 3
@@ -295,7 +295,7 @@ Tau.BookV.Gravity.echo_separation
  :Float**
 
 
-Echo separation: Δt = t_outer - t_inner = 4GM(ι_τ⁻¹ - ι_τ)/c³ [seconds].
+Echo separation: Δt = t_outer - t_inner = 4GM(ι<sub>τ</sub>⁻¹ - ι<sub>τ</sub>)/c³ [seconds].
 Lab values: M=30 M_☉ → 1.5303 ms; M=62 M_☉ → 3.1626 ms. [V.R373]
 Equations
 - Tau.BookV.Gravity.echo_separation M_kg = Tau.BookV.Gravity.echo_time_outer M_kg - Tau.BookV.Gravity.echo_time_inner M_kg
@@ -358,9 +358,9 @@ Instances For
 Tau.BookV.Gravity.torus_entropy_ratio :Float**
 
 
-T² / S² Bekenstein-Hawking entropy ratio = π · ι_τ.
-Derivation: A_{T²} = 4π²R_S²ι_τ, A_{S²} = 4πR_S²
-S_{T²}/S_{S²} = A_{T²}/A_{S²} = πι_τ ≈ 1.0722.
+T² / S² Bekenstein-Hawking entropy ratio = π · ι<sub>τ</sub>.
+Derivation: A_{T²} = 4π²R_S²ι<sub>τ</sub>, A_{S²} = 4πR_S²
+S_{T²}/S_{S²} = A_{T²}/A_{S²} = πι<sub>τ</sub> ≈ 1.0722.
 [V.P125]
 Equations
 - Tau.BookV.Gravity.torus_entropy_ratio = 3.14159265358979 * Tau.BookV.Gravity.iota_float✝
@@ -425,7 +425,7 @@ Tau.BookV.Gravity.qnm_ratio_gt_one :qnm_frequency_ratio > 1.0**
 
 
 QNM frequency ratio exceeds 1 (inner faster than outer).
-This holds because ι_τ < 1, so ι_τ⁻¹ > 1.
+This holds because ι<sub>τ</sub> < 1, so ι<sub>τ</sub>⁻¹ > 1.
 
 ---
 
@@ -448,7 +448,7 @@ Tau.BookV.Gravity.outer_echo_longer_than_inner :Boundary.iota_tau_denom * Bounda
 
 
 Outer echo time exceeds inner echo time.
-Structural: t_outer/t_inner = ι_τ⁻² > 1 because ι_τ < 1.
+Structural: t_outer/t_inner = ι<sub>τ</sub>⁻² > 1 because ι<sub>τ</sub> < 1.
 Nat-level proof: iota_tau_denom² > iota_tau_numer²
 (1000000² = 10¹² > 341304² ≈ 1.165 × 10¹¹).
 
@@ -462,8 +462,8 @@ Tau.BookV.Gravity.echo_separation_pos :Boundary.iota_tau_denom > Boundary.iota_t
 
 
 Echo separation Δt > 0 for positive mass.
-Structural: Δt ∝ (ι_τ⁻¹ − ι_τ) > 0 because ι_τ⁻¹ > 1 > ι_τ.
-Nat-level proof: iota_tau_denom > iota_tau_numer (i.e., ι_τ < 1).
+Structural: Δt ∝ (ι<sub>τ</sub>⁻¹ − ι<sub>τ</sub>) > 0 because ι<sub>τ</sub>⁻¹ > 1 > ι<sub>τ</sub>.
+Nat-level proof: iota_tau_denom > iota_tau_numer (i.e., ι<sub>τ</sub> < 1).
 
 ---
 
@@ -475,10 +475,10 @@ Tau.BookV.Gravity.t2_qnm_eigenvalue_structure :String**
 
 
 [V.D242] T² QNM Eigenvalue Structure.
-ω_{n,m} = √(n²+m²·ι_τ⁻²)/(2π·r_s). First 3 overtones:
-(1,0): 1.000, (0,1): ι_τ⁻¹=2.930, (1,1): √(1+ι_τ⁻²)=3.096.
+ω_{n,m} = √(n²+m²·ι<sub>τ</sub>⁻²)/(2π·r_s). First 3 overtones:
+(1,0): 1.000, (0,1): ι<sub>τ</sub>⁻¹=2.930, (1,1): √(1+ι<sub>τ</sub>⁻²)=3.096.
 Equations
-- Tau.BookV.Gravity.t2_qnm_eigenvalue_structure = "T² QNM: ω_{n,m} = √(n²+m²·ι_τ⁻²)/(2πr_s). " ++ "Overtones: (1,0)→1.000, (0,1)→2.930, (1,1)→3.096."
+- Tau.BookV.Gravity.t2_qnm_eigenvalue_structure = "T² QNM: ω_{n,m} = √(n²+m²·ι<sub>τ</sub>⁻²)/(2πr_s). " ++ "Overtones: (1,0)→1.000, (0,1)→2.930, (1,1)→3.096."
 Instances For
 
 ---
@@ -492,7 +492,7 @@ Tau.BookV.Gravity.T2QNMEigenvalues :Type**
 
 [V.D242] Structure capturing the T² QNM eigenvalue structure.
 3 primitive modes from 2 S¹ cycles (outer winding n, inner winding m).
-Spectrum is anisotropic because r ≠ R (aspect ratio = ι_τ).
+Spectrum is anisotropic because r ≠ R (aspect ratio = ι<sub>τ</sub>).
 
 - n_primitive_modes : ℕ
 Number of primitive torus modes with lowest non-zero frequency.
@@ -577,9 +577,9 @@ Tau.BookV.Gravity.t2_echo_time_formulas :String**
 
 
 [V.D243] T² GW Echo Time Formulas.
-t₊=4GMι_τ/c³ (inner), t₋=4GMι_τ⁻¹/c³ (outer), t₋/t₊=ι_τ⁻²=8.585.
+t₊=4GMι<sub>τ</sub>/c³ (inner), t₋=4GMι<sub>τ</sub>⁻¹/c³ (outer), t₋/t₊=ι<sub>τ</sub>⁻²=8.585.
 Equations
-- Tau.BookV.Gravity.t2_echo_time_formulas = "GW echoes: t₊=4GMι_τ/c³, t₋=4GMι_τ⁻¹/c³, ratio t₋/t₊=ι_τ⁻²=8.585. " ++ "GW150914: t₊=0.417 ms, t₋=3.580 ms, both in LIGO band."
+- Tau.BookV.Gravity.t2_echo_time_formulas = "GW echoes: t₊=4GMι<sub>τ</sub>/c³, t₋=4GMι<sub>τ</sub>⁻¹/c³, ratio t₋/t₊=ι<sub>τ</sub>⁻²=8.585. " ++ "GW150914: t₊=0.417 ms, t₋=3.580 ms, both in LIGO band."
 Instances For
 
 ---
@@ -592,11 +592,11 @@ Tau.BookV.Gravity.T2EchoFormulas :Type**
 
 
 [V.D243] Structure capturing T² GW echo time formulas.
-t₋/t₊ = ι_τ⁻² ≈ 8.585. Both echoes fall in LIGO band for stellar-mass BHs.
+t₋/t₊ = ι<sub>τ</sub>⁻² ≈ 8.585. Both echoes fall in LIGO band for stellar-mass BHs.
 Ratio stored ×1000 for Nat arithmetic.
 
 - ratio_x1000 : ℕ
-Echo time ratio ×1000 (ι_τ⁻² ≈ 8.585 → 8585).
+Echo time ratio ×1000 (ι<sub>τ</sub>⁻² ≈ 8.585 → 8585).
 
 - n_ligo_band : ℕ
 Number of echo times in LIGO band (inner + outer).
@@ -605,7 +605,7 @@ Number of echo times in LIGO band (inner + outer).
 Number of reference events tested (GW150914).
 
 - ratio_gt_1000 : self.ratio_x1000 > 1000
-Ratio exceeds 1000 (i.e., ι_τ⁻² > 1, inner is shorter).
+Ratio exceeds 1000 (i.e., ι<sub>τ</sub>⁻² > 1, inner is shorter).
 
 Instances For
 
@@ -688,11 +688,11 @@ Echo time ratio ×1000 = 8585.
 Tau.BookV.Gravity.qnm_frequency_ratio_discriminator :String**
 
 
-[V.T185] QNM Frequency Ratio = ι_τ⁻¹ as Clean Discriminator.
-ω(0,1)/ω(1,0) = ι_τ⁻¹ = (π+e)/2 = 2.930.
+[V.T185] QNM Frequency Ratio = ι<sub>τ</sub>⁻¹ as Clean Discriminator.
+ω(0,1)/ω(1,0) = ι<sub>τ</sub>⁻¹ = (π+e)/2 = 2.930.
 T² range [2.5,3.4] vs S² range [0.8,1.1]: no overlap.
 Equations
-- Tau.BookV.Gravity.qnm_frequency_ratio_discriminator = "QNM ratio ω(0,1)/ω(1,0) = ι_τ⁻¹ = 2.930. " ++ "T² prediction [2.5,3.4] vs S² [0.8,1.1]: zero-parameter discriminator."
+- Tau.BookV.Gravity.qnm_frequency_ratio_discriminator = "QNM ratio ω(0,1)/ω(1,0) = ι<sub>τ</sub>⁻¹ = 2.930. " ++ "T² prediction [2.5,3.4] vs S² [0.8,1.1]: zero-parameter discriminator."
 Instances For
 
 ---
@@ -811,8 +811,8 @@ Tau.BookV.Gravity.bh_t2_falsification :String**
 
 
 [V.P131] Three falsifiable T² BH predictions with explicit error bars.
-(1) QNM ratio = ι_τ⁻¹ (discriminator), (2) shadow correction +2.91%,
-(3) GW echoes at t₊ = 4GM·ι_τ/c³. All zero-free-parameter predictions.
+(1) QNM ratio = ι<sub>τ</sub>⁻¹ (discriminator), (2) shadow correction +2.91%,
+(3) GW echoes at t₊ = 4GM·ι<sub>τ</sub>/c³. All zero-free-parameter predictions.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -923,7 +923,7 @@ Tau.BookV.Gravity.vop5_sprint7e_status :String**
 
 [V.R380] V.OP5 SOLVED: Sprint 7E provides complete observational
 signature suite for T² BH topology. Three channels (EHT, QNM, GW echo)
-all derived from ι_τ with zero free parameters.
+all derived from ι<sub>τ</sub> with zero free parameters.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -943,7 +943,7 @@ Tau.BookV.Gravity.VOP5Status :Type**
 Number of independent observational channels.
 
 - n_input_constants : ℕ
-Number of input constants (just ι_τ).
+Number of input constants (just ι<sub>τ</sub>).
 
 - n_cross_checks : ℕ
 Number of independent cross-checks (entropy ratio).
@@ -1033,7 +1033,7 @@ Tau.BookV.Gravity.BHEntropyCatalog :Type**
 
 
 Black hole entropy catalog entry — V.T216
-S_τ = πι_τ · k_B · A/(4ℓ_P²) for T² horizon topology
+S_τ = πι<sub>τ</sub> · k_B · A/(4ℓ_P²) for T² horizon topology
 
 - name : String
 - mass_solar : ℕ
@@ -1073,7 +1073,7 @@ Instances For
 Tau.BookV.Gravity.t2_entropy_excess_x10000 :ℕ**
 
 
-The T² entropy excess factor: πι_τ ≈ 1.0722
+The T² entropy excess factor: πι<sub>τ</sub> ≈ 1.0722
 Equations
 - Tau.BookV.Gravity.t2_entropy_excess_x10000 = 10722
 Instances For
@@ -1116,7 +1116,7 @@ Tau.BookV.Gravity.entropy_catalog_remark :String**
 
 Entropy catalog remark — V.R402
 Equations
-- Tau.BookV.Gravity.entropy_catalog_remark = "S_BH ranges from ~10⁷⁹ k_B (stellar) to ~10⁹⁸ k_B (TON 618). " ++ "The T² excess factor πι_τ ≈ 1.0722 is universal, independent of mass."
+- Tau.BookV.Gravity.entropy_catalog_remark = "S_BH ranges from ~10⁷⁹ k_B (stellar) to ~10⁹⁸ k_B (TON 618). " ++ "The T² excess factor πι<sub>τ</sub> ≈ 1.0722 is universal, independent of mass."
 Instances For
 
 ---
@@ -1594,8 +1594,8 @@ Tau.BookV.Gravity.t2_lyapunov_correction_x10000 :ℕ**
 
 
 [Sprint 22D] T²-corrected Lyapunov exponent × 10000.
-γ_τ = π(1+ι_τ²/2) ≈ 3.324 → 33240 × 10000.
-The T² correction factor is 1+ι_τ²/2 ≈ 1.0583 (from V.P83, τ-effective).
+γ_τ = π(1+ι<sub>τ</sub>²/2) ≈ 3.324 → 33240 × 10000.
+The T² correction factor is 1+ι<sub>τ</sub>²/2 ≈ 1.0583 (from V.P83, τ-effective).
 Equations
 - Tau.BookV.Gravity.t2_lyapunov_correction_x10000 = 10583
 Instances For

@@ -35,7 +35,7 @@ corrections, and spectral transitions as mode-switching events.
 
 - [IV.P125] Beta-Decay Q-Value — `beta_decay_q_value`
 
-- [IV.P126] Bohr Radius from ι_τ — `bohr_radius`
+- [IV.P126] Bohr Radius from ι<sub>τ</sub> — `bohr_radius`
 
 - [IV.P127] Spectral Transition as Mode-Switching — `spectral_mode_switching`
 
@@ -71,7 +71,7 @@ modes. Q_β = (δ_A − m_e)c² ≈ 0.782 MeV.
 
 The hydrogen atom combines the electron mass prediction (0.025 ppm) with
 the fine structure constant to give: Bohr radius a₀, energy levels
-E_n = −13.6/n² eV, and the Rydberg constant R_∞ — all from ι_τ and m_n.
+E_n = −13.6/n² eV, and the Rydberg constant R_∞ — all from ι<sub>τ</sub> and m_n.
 Fine structure splitting is a 4th-order holonomy correction.
 
 ## Ground Truth Sources
@@ -170,7 +170,7 @@ Tau.BookIV.Particles.BetaDecayQValue :Type**
 
 
 [IV.P125] Q_β = (δ_A − m_e)c² where both δ_A and m_e are determined
-by ι_τ through the mass ratio chain.
+by ι<sub>τ</sub> through the mass ratio chain.
 
 Values in keV:
 
@@ -256,7 +256,7 @@ Q_β = δ_A − m_e.
 Tau.BookIV.Particles.LifetimeStructural :Type**
 
 
-[IV.R122] Neutron lifetime involves G_F, m_e, Q_β (all ι_τ-determined)
+[IV.R122] Neutron lifetime involves G_F, m_e, Q_β (all ι<sub>τ</sub>-determined)
 but the axial coupling g_A ≈ 1.276 requires detailed quark-level
 T² breathing mode structure — conjectural scope.
 
@@ -315,8 +315,8 @@ Instances For
 Tau.BookIV.Particles.BohrRadius :Type**
 
 
-[IV.P126] a₀ = R/(α_em · m_n) × (ℏ/c) is fully determined by ι_τ and m_n.
-Both R = m_n/m_e and α_em ≈ (8/15)·ι_τ⁴ are rational functions of ι_τ.
+[IV.P126] a₀ = R/(α_em · m_n) × (ℏ/c) is fully determined by ι<sub>τ</sub> and m_n.
+Both R = m_n/m_e and α_em ≈ (8/15)·ι<sub>τ</sub>⁴ are rational functions of ι<sub>τ</sub>.
 
 CODATA: a₀ ≈ 5.29177210544 × 10⁻¹¹ m.
 Precision limited by m_e at 0.025 ppm.
@@ -325,7 +325,7 @@ Precision limited by m_e at 0.025 ppm.
 Prediction matches CODATA.
 
 - iota_and_mn_only : Bool
-Derived from ι_τ and m_n only.
+Derived from ι<sub>τ</sub> and m_n only.
 
 - codata_pm_x1000 : ℕ
 CODATA value (pm, ×1000 for integer).
@@ -391,7 +391,7 @@ Tau.BookIV.Particles.HydrogenLevels :Type**
 [IV.T85] E_n = −α_em² · m_e · c² / (2n²) = −13.6 eV/n²
 for n = 1, 2, 3, ...
 
-Both α_em and m_e determined by ι_τ.
+Both α_em and m_e determined by ι<sub>τ</sub>.
 Ground state: E₁ ≈ −13.606 eV.
 
 Energy in meV (×1000 for ground state = 13606).
@@ -400,7 +400,7 @@ Energy in meV (×1000 for ground state = 13606).
 Ground state energy magnitude (meV).
 
 - iota_determined : Bool
-Fully determined by ι_τ.
+Fully determined by ι<sub>τ</sub>.
 
 - scaling : String
 Scaling: 1/n² for principal quantum number n.
@@ -464,7 +464,7 @@ Tau.BookIV.Particles.RydbergConstant :Type**
 encodes hydrogen levels: E_n = −hcR_∞/n².
 
 A derived quantity in Category τ since both α_em and m_e are
-ι_τ-determined. Parameter-free prediction.
+ι<sub>τ</sub>-determined. Parameter-free prediction.
 
 CODATA: R_∞ = 10,973,731.568157(12) m⁻¹.
 
@@ -732,9 +732,9 @@ Tau.BookIV.Particles.FineStructureHolonomy :Type**
 [IV.T87] Fine-structure splitting is a higher-order B-sector
 holonomy correction on T² of order α_em⁴ · m_e · c² ≈ 1.8×10⁻⁴ eV.
 
-Entirely determined by ι_τ. The n=2 level splits into j=3/2 and j=1/2
+Entirely determined by ι<sub>τ</sub>. The n=2 level splits into j=3/2 and j=1/2
 components from the formula:
-α_em ≈ (8/15)·ι_τ⁴ and m_e = m_n/R(ι_τ).
+α_em ≈ (8/15)·ι<sub>τ</sub>⁴ and m_e = m_n/R(ι<sub>τ</sub>).
 
 - alpha_order : ℕ
 Order of correction: α⁴.
@@ -743,7 +743,7 @@ Order of correction: α⁴.
 Splitting at n=2 (μeV, approx).
 
 - iota_determined : Bool
-Determined by ι_τ.
+Determined by ι<sub>τ</sub>.
 
 - split_quantum : String
 Quantum numbers that split.
@@ -863,7 +863,7 @@ Tau.BookIV.Particles.AllRoadsME :Type**
 
 
 [IV.R127] Every atomic-scale prediction factors through
-m_e = m_n/R(ι_τ):
+m_e = m_n/R(ι<sub>τ</sub>):
 
 
 - a₀ ∝ 1/m_e
@@ -942,7 +942,7 @@ Tau.BookIV.Particles.four_quantities_depend :all_roads_m_e.dependent_quantities 
 Tau.BookIV.Particles.ProtonChargeRadiusNLO :Type**
 
 
-[IV.T202] r_p(NLO) = 4λ̄_p(1 − ι_τ²·α/|lobes|) = 0.84088 fm.
+[IV.T202] r_p(NLO) = 4λ̄_p(1 − ι<sub>τ</sub>²·α/|lobes|) = 0.84088 fm.
 NLO correction from EM dressing: holonomy² × α / lobes.
 CREMA = 0.84087 fm → +12 ppm (36× improvement from LO +440 ppm).
 
@@ -1023,7 +1023,7 @@ Tau.BookIV.Particles.NeutronLifetimeInputs :Type**
 
 
 [IV.D383] Complete input table for neutron lifetime precision prediction.
-All inputs ι_τ-derived except PDG prefactor K.
+All inputs ι<sub>τ</sub>-derived except PDG prefactor K.
 
 - ga_ppm_x10 : ℕ
 g_A deviation (ppm ×10).
@@ -1038,7 +1038,7 @@ g_A deviation (ppm ×10).
 PDG prefactor K (s ×10).
 
 - iota_derived_count : ℕ
-Number of ι_τ-derived inputs.
+Number of ι<sub>τ</sub>-derived inputs.
 
 Instances For
 

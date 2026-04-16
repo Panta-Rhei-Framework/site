@@ -1,7 +1,7 @@
 ---
 
 layout: result-page
-title: 'Gravitational Constant from ι_τ: α_G at 3 ppm'
+title: 'Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm'
 permalink: /results/problem/gravitational-constant-from-iota-tau/
 result_id: result-038
 topic: mathematics
@@ -30,7 +30,7 @@ V.T154 derives the gravitational coupling constant (gravitational fine structure
 
 ## Detail
 
-Newton's gravitational constant G (equivalently, the gravitational fine structure constant α_G = G·m_p²/(ℏc) ≈ 5.9 × 10⁻³⁹) is one of the least understood constants of nature. Its value is 36 orders of magnitude smaller than the electromagnetic coupling α ≈ 1/137. The hierarchy problem of gravity asks why G is so small. Book V derives α_G from ι_τ and α through the τ-sector structure. The D-sector (gravity) is assigned to the α-generator, which occupies the first ρ-orbit position in the τ-ABCD chart. The sector depth (ρ-orbit level) determines the coupling power: the D-sector at depth 1 couples through α¹, but the full sector coupling to matter at depth 18 (the number of ρ-orbit traversals to close the sector loop) gives α¹⁸. The correction term (1 − (3/π)α) is the NLO contribution from the B-sector (EM, π-generator) boundary interaction. The formula α_G = α¹⁸√3(1 − (3/π)α) gives 3 ppm agreement. This provides a structural explanation for the gravitational hierarchy problem: G is small because it involves the 18th power of α, not because of fine-tuning.
+Newton's gravitational constant G (equivalently, the gravitational fine structure constant α_G = G·m_p²/(ℏc) ≈ 5.9 × 10⁻³⁹) is one of the least understood constants of nature. Its value is 36 orders of magnitude smaller than the electromagnetic coupling α ≈ 1/137. The hierarchy problem of gravity asks why G is so small. Book V derives α_G from ι<sub>τ</sub> and α through the τ-sector structure. The D-sector (gravity) is assigned to the α-generator, which occupies the first ρ-orbit position in the τ-ABCD chart. The sector depth (ρ-orbit level) determines the coupling power: the D-sector at depth 1 couples through α¹, but the full sector coupling to matter at depth 18 (the number of ρ-orbit traversals to close the sector loop) gives α¹⁸. The correction term (1 − (3/π)α) is the NLO contribution from the B-sector (EM, π-generator) boundary interaction. The formula α_G = α¹⁸√3(1 − (3/π)α) gives 3 ppm agreement. This provides a structural explanation for the gravitational hierarchy problem: G is small because it involves the 18th power of α, not because of fine-tuning.
 
 ## Result Statement
 

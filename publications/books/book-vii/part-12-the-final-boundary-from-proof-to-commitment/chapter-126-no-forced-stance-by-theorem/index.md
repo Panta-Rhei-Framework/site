@@ -48,6 +48,6 @@ nor agnosticism is structurally mandated. The symmetry of the collapse
 ensures that no direction is privileged, no stance is compelled, and no
 default position is silently installed. The framework delivers the
 landscape—the 4+1 sectors, the enrichment ladder, the kernel
-invariants, the Logos sector, the convergence of ι_τ toward
+invariants, the Logos sector, the convergence of ι<sub>τ</sub> toward
 ω—and the landscape has shape. But shape is ℝeg_D-content;
 stance is ℝeg_C-content. The distinction is irreducible.

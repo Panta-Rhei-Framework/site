@@ -13,7 +13,7 @@ chapter_number: 30
 chapter_slug: "chapter-30-split-complex-codomain-with-calibration"
 page_in_book: 147
 prev_chapter_url: "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/"
-prev_chapter_title: "Chapter 29: ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge"
+prev_chapter_title: "Chapter 29: ι<sub>τ</sub> Confirmed — The Archimedean-Non-Archimedean Bridge"
 next_chapter_url: "/publications/books/book-ii/part-06-local-hartogs-and-the-holomorphic-interior/chapter-31-the-bndlift/"
 next_chapter_title: "Chapter 31: The BndLift"
 summary_short: "Parts I–V built the infrastructure of Book II without making the split-complex codomain H_τ load-bearing. The bipolar scalars (I.D20, Book I) were present…"
@@ -53,7 +53,7 @@ e calibrates radial growth
 (II.T23, the relevant chapter),
 j replaces i as the bipolar unit
 (II.T24, the relevant chapter),
-and ι_τ = 2/(π + e)
+and ι<sub>τ</sub> = 2/(π + e)
 couples the two measurement systems
 (II.T25, the relevant chapter).
 This chapter restates the split-complex codomain
@@ -68,5 +68,5 @@ that carries numerical content.
 Part VI builds on this calibrated codomain;
 every subsequent construction
 in Chapters –
-uses the constants π, e, j, ι_τ
+uses the constants π, e, j, ι<sub>τ</sub>
 through the lens of H_τ^cal.

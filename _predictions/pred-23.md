@@ -8,10 +8,10 @@ prediction_id: "pred-023"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
 observable: "α"
-observable_mathml: "<math><mi>(11/15)²,ι_τ⁴</mi></math>"
-formula_plain: "(11/15)²,ι_τ⁴"
-formula_mathml: "<math><mi>(11/15)²,ι_τ⁴</mi></math>"
-formula_display: "α = (11/15)² · ι_τ⁴ → α⁻¹ ≈ 137.035"
+observable_mathml: "<math><mi>(11/15)²,ι<sub>τ</sub>⁴</mi></math>"
+formula_plain: "(11/15)²,ι<sub>τ</sub>⁴"
+formula_mathml: "<math><mi>(11/15)²,ι<sub>τ</sub>⁴</mi></math>"
+formula_display: "α = (11/15)² · ι<sub>τ</sub>⁴ → α⁻¹ ≈ 137.035"
 tau_value: "1/137.035"
 observed_value: "1/137.036"
 deviation: "9.8~ppm"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**α = (11/15)² · ι_τ⁴ → α⁻¹ ≈ 137.035**
+**α = (11/15)² · ι<sub>τ</sub>⁴ → α⁻¹ ≈ 137.035**
 
 ## Derivation
 
@@ -50,7 +50,7 @@ The fine-structure constant α ≈ 1/137.036 is derived in Book IV, Chapter 10 (
 
 Three independent derivation routes converge to the same value:
 
-**Route A** (sector coupling): α = (11/15)² · ι_τ⁴, where the rational prefactor 11/15 arises from the ratio of active sector modes to the total spectral dimension, and the exponent 4 = 2 × lobes counts the two lobes of the lemniscate boundary at quadratic order. This yields α⁻¹ ≈ 137.035, matching CODATA to 9.8 ppm.
+**Route A** (sector coupling): α = (11/15)² · ι<sub>τ</sub>⁴, where the rational prefactor 11/15 arises from the ratio of active sector modes to the total spectral dimension, and the exponent 4 = 2 × lobes counts the two lobes of the lemniscate boundary at quadratic order. This yields α⁻¹ ≈ 137.035, matching CODATA to 9.8 ppm.
 
 **Route B** (calibration chain): The same value emerges from the 10-link spectral chain that derives the electron mass. The fine-structure constant and the electron mass are two readings of the same chain — one is a ratio (dimensionless), the other is a mass (dimensionful, set by the neutron anchor).
 

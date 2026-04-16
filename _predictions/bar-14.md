@@ -8,10 +8,10 @@ prediction_id: "pred-014"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 observable: "barη"
-observable_mathml: "<math><mi>ι_τ⁻¹/⁴ κD⁵/⁴/sqrt5</mi></math>"
-formula_plain: "ι_τ⁻¹/⁴ κD⁵/⁴/sqrt5"
-formula_mathml: "<math><mi>ι_τ⁻¹/⁴ κD⁵/⁴/sqrt5</mi></math>"
-formula_display: "η̄ = ι_τ⁻¹ᐟ⁴ · κ_D⁵ᐟ⁴ / √5 ≈ 0.345"
+observable_mathml: "<math><mi>ι<sub>τ</sub>⁻¹/⁴ κD⁵/⁴/sqrt5</mi></math>"
+formula_plain: "ι<sub>τ</sub>⁻¹/⁴ κD⁵/⁴/sqrt5"
+formula_mathml: "<math><mi>ι<sub>τ</sub>⁻¹/⁴ κD⁵/⁴/sqrt5</mi></math>"
+formula_display: "η̄ = ι<sub>τ</sub>⁻¹ᐟ⁴ · κ_D⁵ᐟ⁴ / √5 ≈ 0.345"
 tau_value: "0.345"
 observed_value: "0.348"
 deviation: "-2285~ppm"
@@ -42,11 +42,11 @@ right_rail:
 
 ## τ-Formula
 
-**η̄ = ι_τ⁻¹ᐟ⁴ · κ_D⁵ᐟ⁴ / √5 ≈ 0.345**
+**η̄ = ι<sub>τ</sub>⁻¹ᐟ⁴ · κ_D⁵ᐟ⁴ / √5 ≈ 0.345**
 
 ## Derivation
 
-where $κ_D = 1 - ι_τ$.
+where $κ_D = 1 - ι<sub>τ</sub>$.
 The PDG 2024 value is
 $η = 0.349^+0.012_-0.011$,
 giving a deviation of $-2\,285$ ppm ($-0.23%$, $0.7σ$).
@@ -71,7 +71,7 @@ They have a topological reading
 (normalization factor).
 
 η
-= ι_τ^-1/(2·lobes)_holonomy
+= ι<sub>τ</sub>^-1/(2·lobes)_holonomy
 \;·\;
 κ_D^|gen|/(2·lobes)+1/lobes_coupling
 \;·\;

@@ -52,10 +52,10 @@ This chapter derives gravity
 as the canonical gap
 in the D-sector of H_∂[ω],
 proves the gravitational constant formula
-G = (c³/ℏ) ι_τ²
+G = (c³/ℏ) ι<sub>τ</sub>²
 from the torus vacuum shape ratio
-r/R = ι_τ,
+r/R = ι<sub>τ</sub>,
 and establishes the σ-equivariance
-of the gravitational coupling κ_τ = 1 - ι_τ:
+of the gravitational coupling κ_τ = 1 - ι<sub>τ</sub>:
 gravity is unpolarized,
 treating both lobes of the lemniscate symmetrically.

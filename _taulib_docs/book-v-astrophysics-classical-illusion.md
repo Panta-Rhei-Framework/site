@@ -94,7 +94,7 @@ There are no fundamental forces in Category τ. What appears as
 "force" in classical mechanics is a sector coupling readout:
 
 
-- Gravity = D-sector coupling κ(D;1) = 1 − ι_τ
+- Gravity = D-sector coupling κ(D;1) = 1 − ι<sub>τ</sub>
 
 - Electromagnetism = B-sector coupling
 

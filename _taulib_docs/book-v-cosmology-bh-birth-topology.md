@@ -61,7 +61,7 @@ No interior singularity — the interior is a compact subset of T².
 ### Gravitational Tension
 
 
-G(U) = κ(D;1) · ||T[χ]|_U||, where κ(D;1) = 1 − ι_τ is the
+G(U) = κ(D;1) · ||T[χ]|_U||, where κ(D;1) = 1 − ι<sub>τ</sub> is the
 D-sector self-coupling. Measures how strongly the D-sector boundary
 character acts on a region U.
 
@@ -101,7 +101,7 @@ Tau.BookV.Cosmology.GravitationalTension :Type**
 [V.D163] Gravitational tension at region U in τ³:
 G(U) = κ(D;1) · ||T[χ]|_U||
 
-κ(D;1) = 1 − ι_τ ≈ 0.6585 (D-sector self-coupling).
+κ(D;1) = 1 − ι<sub>τ</sub> ≈ 0.6585 (D-sector self-coupling).
 T[χ] = boundary character stress-energy.
 
 - tension_numer : ℕ
@@ -553,7 +553,7 @@ Instances For
 Tau.BookV.Cosmology.FiberShapeRatio :Type**
 
 
-[V.P131 upgrade] T² shape ratio r/R = ι_τ from fiber structure.
+[V.P131 upgrade] T² shape ratio r/R = ι<sub>τ</sub> from fiber structure.
 
 The two T² circles correspond to:
 
@@ -563,16 +563,16 @@ The two T² circles correspond to:
 - η-generator (Strong sector): radius r
 
 
-The fiber parameter ι_τ controls the "breathing fraction"
+The fiber parameter ι<sub>τ</sub> controls the "breathing fraction"
 of the τ³ fibration τ¹ ×_f T². By definition of the fiber
-structure, R = ℓ_τ and r = ι_τ·ℓ_τ, so r/R = ι_τ.
+structure, R = ℓ_τ and r = ι<sub>τ</sub>·ℓ_τ, so r/R = ι<sub>τ</sub>.
 
 This makes the shape ratio tautological from the fibration:
 it is the master constant's geometric meaning as the
 fiber breathing fraction.
 
 - ratio_is_iota : Bool
-r/R = ι_τ from fibration.
+r/R = ι<sub>τ</sub> from fibration.
 
 - r_big_is_gamma : Bool
 R corresponds to γ-generator (EM).
@@ -581,10 +581,10 @@ R corresponds to γ-generator (EM).
 r corresponds to η-generator (Strong).
 
 - breathing_fraction : Bool
-ι_τ is the fiber breathing fraction.
+ι<sub>τ</sub> is the fiber breathing fraction.
 
 - qnm_ratio_inverse : Bool
-QNM ratio = ι_τ⁻¹ ≈ 2.93.
+QNM ratio = ι<sub>τ</sub>⁻¹ ≈ 2.93.
 
 Instances For
 
@@ -632,7 +632,7 @@ Instances For
 Tau.BookV.Cosmology.fiber_shape_ratio_structural :fiber_shape_ratio.ratio_is_iota = true ∧ fiber_shape_ratio.breathing_fraction = true ∧ fiber_shape_ratio.qnm_ratio_inverse = true**
 
 
-r/R = ι_τ from fiber structure: QNM ratio = ι_τ⁻¹.
+r/R = ι<sub>τ</sub> from fiber structure: QNM ratio = ι<sub>τ</sub>⁻¹.
 
 ---
 

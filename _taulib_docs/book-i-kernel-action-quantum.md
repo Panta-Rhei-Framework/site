@@ -333,6 +333,6 @@ Tau.Kernel.fifteen_is_three_times_five :15 = 3 * 5**
 Tau.Kernel.alpha_from_charge_cross :11 * 11 = 121 ∧ 15 * 15 = 225**
 
 
-The fine structure constant satisfies α = e_nat² where e_nat = (11/15)·ι_τ².
-This is α = (11/15)²·ι_τ⁴ = (121/225)·ι_τ⁴.
+The fine structure constant satisfies α = e_nat² where e_nat = (11/15)·ι<sub>τ</sub>².
+This is α = (11/15)²·ι<sub>τ</sub>⁴ = (121/225)·ι<sub>τ</sub>⁴.
 Cross-check: 11² = 121 and 15² = 225.

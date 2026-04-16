@@ -72,14 +72,14 @@ unpolarized defect bundle, and tau-to-SI conversion.
 
 The Springer Nature paper (Dec 2024) used five independent relational
 quantities (M, L, H, Q, R) to parameterise fundamental constants.
-In the τ-framework, four of these are determined by ι_τ = 2/(π+e),
+In the τ-framework, four of these are determined by ι<sub>τ</sub> = 2/(π+e),
 leaving only one free parameter: the neutron mass M = m_n.
 
 ### Mass Ratio Formula Summaries
 
 
-Level 0: R₀ = ι_τ^(-7) − √3·ι_τ^(-2) (7.7 ppm at exact ι_τ)
-Level 1+: R₁ = ι_τ^(-7) − (√3 + π³α²)·ι_τ^(-2) (0.025 ppm)
+Level 0: R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2) (7.7 ppm at exact ι<sub>τ</sub>)
+Level 1+: R₁ = ι<sub>τ</sub>^(-7) − (√3 + π³α²)·ι<sub>τ</sub>^(-2) (0.025 ppm)
 
 These are STRUCTURAL summaries referencing the full derivation in
 MassRatioFormula.lean.
@@ -301,7 +301,7 @@ Tau.BookIV.Calibration.tau_collapse_five_to_one :collapsed_units.length = 5 ∧ 
 
 [IV.T108] τ-Collapse: Five to One.
 
-Of 5 relational units, 4 are determined (3 by ι_τ + 1 SI-exact),
+Of 5 relational units, 4 are determined (3 by ι<sub>τ</sub> + 1 SI-exact),
 leaving exactly 1 free parameter (the neutron mass).
 
 ---
@@ -315,19 +315,19 @@ Tau.BookIV.Calibration.Level0FormulaSummary :Type**
 
 [IV.T109] Structural summary of the Level 0 mass ratio formula.
 
-R₀ = ι_τ^(-7) − √3·ι_τ^(-2)
+R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2)
 
 The full derivation with range proofs is in MassRatioFormula.lean.
 This structure records the key structural parameters.
 
 - bulk_exponent : ℕ
-Bulk exponent: ι_τ raised to this (negative) power.
+Bulk exponent: ι<sub>τ</sub> raised to this (negative) power.
 
 - correction_factor_label : String
 Label for the correction factor coefficient.
 
 - correction_exponent : ℕ
-Correction exponent: ι_τ raised to this (negative) power.
+Correction exponent: ι<sub>τ</sub> raised to this (negative) power.
 
 - result_range_lo : ℕ
 Result range lower bound (inclusive).
@@ -336,7 +336,7 @@ Result range lower bound (inclusive).
 Result range upper bound (exclusive).
 
 - accuracy_ppm_exact : String
-Accuracy at exact ι_τ (in ppm).
+Accuracy at exact ι<sub>τ</sub> (in ppm).
 
 Instances For
 
@@ -397,7 +397,7 @@ The bulk exponent is 7.
 Tau.BookIV.Calibration.level0_range_valid :level0_summary.result_range_lo = 1838 ∧ level0_summary.result_range_hi = 1839 ∧ level0_summary.result_range_lo < level0_summary.result_range_hi**
 
 
-The Level 0 result range is (1838, 1839) at exact ι_τ.
+The Level 0 result range is (1838, 1839) at exact ι<sub>τ</sub>.
 
 ---
 
@@ -410,10 +410,10 @@ Tau.BookIV.Calibration.Level1PlusFormulaSummary :Type**
 
 [IV.T110] Structural summary of the Level 1+ mass ratio formula.
 
-R₁ = ι_τ^(-7) − (√3 + π³α²)·ι_τ^(-2)
+R₁ = ι<sub>τ</sub>^(-7) − (√3 + π³α²)·ι<sub>τ</sub>^(-2)
 
 Adds the holonomy correction π³α² (three U(1) circles in τ³,
-second-order EM). At exact ι_τ, this achieves 0.025 ppm.
+second-order EM). At exact ι<sub>τ</sub>, this achieves 0.025 ppm.
 
 - holonomy_correction_label : String
 Label for the holonomy correction.
@@ -782,7 +782,7 @@ Tau.BookIV.Calibration.parameter_count_ext :(List.filter (fun (x : CollapsedUnit
 
 [IV.T111] The τ-framework has exactly ONE free parameter.
 
-All dimensionless quantities are fixed by ι_τ = 2/(π+e).
+All dimensionless quantities are fixed by ι<sub>τ</sub> = 2/(π+e).
 The single free parameter is the neutron mass m_n
 (the calibration anchor).
 
@@ -799,7 +799,7 @@ Tau.BookIV.Calibration.TauToSIConversionExt :Type**
 
 In τ-native units, m_n = 1. The conversion to SI requires
 exactly one anchor measurement (the neutron mass in kg).
-All other SI values follow from ι_τ-determined ratios.
+All other SI values follow from ι<sub>τ</sub>-determined ratios.
 
 - conversion_type : String
 Type of conversion: "mass_anchor".
@@ -811,7 +811,7 @@ Number of independent anchors needed.
 The anchor constant name.
 
 - all_ratios_determined : Bool
-Whether all dimensionless ratios are ι_τ-determined.
+Whether all dimensionless ratios are ι<sub>τ</sub>-determined.
 
 Instances For
 

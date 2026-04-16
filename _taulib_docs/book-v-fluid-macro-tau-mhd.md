@@ -50,7 +50,7 @@ dynamo action, reconnection, and force-free configurations.
 
 - [V.D311] Fast reconnection rate — `FastReconnectionRate`
 
-- [V.T252] v_rec = ι_τ² v_A — `fast_reconnection_is_iota_sq`
+- [V.T252] v_rec = ι<sub>τ</sub>² v_A — `fast_reconnection_is_iota_sq`
 
 - [V.P172] Solar flare consistency — `SolarFlareConsistency`
 
@@ -756,15 +756,15 @@ Tau.BookV.FluidMacro.FastReconnectionRate :Type**
 
 [V.D311] Fast reconnection rate from B-sector coupling.
 
-v_rec = κ(B;2) · v_A = ι_τ² · v_A ≈ 0.117 v_A
+v_rec = κ(B;2) · v_A = ι<sub>τ</sub>² · v_A ≈ 0.117 v_A
 
-The rate is governed by the B-sector self-coupling κ(B;2) = ι_τ².
+The rate is governed by the B-sector self-coupling κ(B;2) = ι<sub>τ</sub>².
 Reconnection is a topological transition in which θ_B changes
 discretely; the rate is set by the sector coupling, not by
 diffusivity. Zero free parameters.
 
 - iota_sq_x100000 : ℕ
-ι_τ² × 100000 (≈ 11649).
+ι<sub>τ</sub>² × 100000 (≈ 11649).
 
 - rate_x1000 : ℕ
 v_rec / v_A × 1000 (≈ 117).
@@ -829,10 +829,10 @@ Instances For
 Tau.BookV.FluidMacro.fast_reconnection_is_iota_sq :fast_reconnection_rate_tau.free_params = 0**
 
 
-[V.T252] The fast reconnection rate is ι_τ² v_A.
+[V.T252] The fast reconnection rate is ι<sub>τ</sub>² v_A.
 
 In τ-MHD, reconnection is a B-sector topological transition.
-The rate v_rec = κ(B;2) · v_A = ι_τ² · v_A with zero free
+The rate v_rec = κ(B;2) · v_A = ι<sub>τ</sub>² · v_A with zero free
 parameters. Matches observed ~0.1 v_A to within 0.6σ.
 
 ---

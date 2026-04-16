@@ -46,13 +46,13 @@ right_rail:
 
 ## Derivation
 
-m_s = m_b(τ) × ι_τ^53/15
+m_s = m_b(τ) × ι<sub>τ</sub>^53/15
 = 4,174.4 × 0.02241
 = 93.55\;MeV
 
 at $+1,559$ ppm from PDG $m_s(MS, 2\;GeV)
 = 93.4 ± 0.8$ MeV (within $0.2σ$),
-where $m_b(τ) = m_t(τ) · ι_τ^45/13 = 4,174.4$ MeV.
+where $m_b(τ) = m_t(τ) · ι<sub>τ</sub>^45/13 = 4,174.4$ MeV.
 
 The denominator $15 = (τ^3) · W_3(4)$ is the same product
 governing the $m_t/m_b$ fiber correction (Eq. (eq:iv-mt-mb-exponent)).

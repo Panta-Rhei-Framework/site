@@ -440,7 +440,7 @@ D-sector coupling at galactic scales.
 
 The exponent 4 is structural: it comes from the boundary
 character's large-r behavior combined with the D-sector
-coupling constant κ(D;1) = 1−ι_τ.
+coupling constant κ(D;1) = 1−ι<sub>τ</sub>.
 
 ---
 
@@ -526,7 +526,7 @@ Tau.BookV.Astrophysics.HighZAccelerationEnhancement :Type**
 [V.D299] High-z acceleration enhancement:
 E(z) = a₀(z)/a₀(0) = H(z)/H₀ ≈ Ω_m^(1/2) · (1+z)^(3/2).
 At z=10: E ≈ 20.5, at z=13: E ≈ 29.4.
-τ-effective: uses V.T204 (a₀(z) = cH(z)ι_τ/2) + standard Friedmann.
+τ-effective: uses V.T204 (a₀(z) = cH(z)ι<sub>τ</sub>/2) + standard Friedmann.
 
 - z_x10 : ℕ
 Redshift.

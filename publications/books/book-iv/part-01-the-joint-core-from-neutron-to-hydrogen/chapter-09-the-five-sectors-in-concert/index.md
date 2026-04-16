@@ -42,7 +42,7 @@ right_rail:
 . This chapter systematises the
 observation. Each sector contributes a specific structural role, and
 all sector couplings are rational functions of a single constant:
-ι_τ = 2/(π + e) ≈ 0.341304.
+ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304.
 The sectors are not independent forces bolted together—they are
 **aspects** of the single E₁ spectral template established
 in Book III.

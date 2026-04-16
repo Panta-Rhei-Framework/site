@@ -28,7 +28,7 @@ right_rail:
 
 A guided tour showing how the 7 axioms (K0-K6) and 5 generators
 produce real, quantitative physics predictions — with zero free parameters
-beyond the single master constant ι_τ = 2/(π + e) and one dimensional
+beyond the single master constant ι<sub>τ</sub> = 2/(π + e) and one dimensional
 anchor (the neutron mass).
 
 Step through this file in VS Code with the Lean 4 extension.
@@ -37,7 +37,7 @@ Hover over `#check` to see types and `#eval` to see computed values.
 ## What this tour covers
 
 
-- **Electroweak synthesis** — 9 EW quantities from ι_τ alone (Book IV)
+- **Electroweak synthesis** — 9 EW quantities from ι<sub>τ</sub> alone (Book IV)
 
 - **Three generations** — why exactly 3 fermion families (Book IV)
 
@@ -54,4 +54,4 @@ Hover over `#check` to see types and `#eval` to see computed values.
 - **Axiom and sorry transparency**
 
 
-**Prerequisites:** Tour 01 (Foundations). Familiarity with ι_τ and σ.
+**Prerequisites:** Tour 01 (Foundations). Familiarity with ι<sub>τ</sub> and σ.

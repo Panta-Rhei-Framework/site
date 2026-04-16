@@ -644,7 +644,7 @@ Instances For
 Tau.BookV.Astrophysics.t2_ringdown_ratio_x1000 :ℕ**
 
 
-T² ringdown ratio: f_{0,1}/f_{1,0} = ι_τ⁻¹ — V.T223
+T² ringdown ratio: f_{0,1}/f_{1,0} = ι<sub>τ</sub>⁻¹ — V.T223
 Equations
 - Tau.BookV.Astrophysics.t2_ringdown_ratio_x1000 = 2930
 Instances For
@@ -700,5 +700,5 @@ Tau.BookV.Astrophysics.ligo_comparison_remark :String**
 
 LIGO comparison table — V.R406
 Equations
-- Tau.BookV.Astrophysics.ligo_comparison_remark = "For each BBH event, the T² QNM ratio f_{0,1}/f_{1,0} = ι_τ⁻¹ ≈ 2.930 " ++ "is mass-independent. Echo windows scale linearly with M_final."
+- Tau.BookV.Astrophysics.ligo_comparison_remark = "For each BBH event, the T² QNM ratio f_{0,1}/f_{1,0} = ι<sub>τ</sub>⁻¹ ≈ 2.930 " ++ "is mass-independent. Echo windows scale linearly with M_final."
 Instances For

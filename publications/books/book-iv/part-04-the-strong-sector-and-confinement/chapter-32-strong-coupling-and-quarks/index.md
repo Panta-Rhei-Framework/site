@@ -41,7 +41,7 @@ right_rail:
 The strong coupling constant α_s ≈ 0.118 is the largest gauge
 coupling at the Z boson mass. In Category τ, it is a boundary
 fixed-point invariant: the structural self-coupling
-κ(C;3) = ι_τ³/(1 - ι_τ) ≈ 0.0604, with
+κ(C;3) = ι<sub>τ</sub>³/(1 - ι<sub>τ</sub>) ≈ 0.0604, with
 2κ(C) ≈ 0.1208 matching the measured α_s(M_Z) = 0.1180
 to 2.4%. What orthodox physics calls "running" is readout drift.
 Quarks are not fundamental particles but **confined character modes**

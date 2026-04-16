@@ -65,7 +65,7 @@ Tau.BookIV.Calibration.CouplingTable :Type**
 
 
 [IV.D305] The complete coupling constants table:
-10 entries (5 self + 5 cross), all rational functions of ι_τ.
+10 entries (5 self + 5 cross), all rational functions of ι<sub>τ</sub>.
 
 - self_count : ℕ
 Self-coupling count.
@@ -128,7 +128,7 @@ Tau.BookIV.Calibration.FundamentalScalesTable :Type**
 
 
 [IV.D306] Fundamental scales table: dimensional constants as products
-of relational units M, L, H, Q and ι_τ.
+of relational units M, L, H, Q and ι<sub>τ</sub>.
 
 - entry_count : ℕ
 Number of fundamental scale entries.
@@ -189,7 +189,7 @@ Tau.BookIV.Calibration.ParticleMassTable :Type**
 
 
 [IV.D307] Particle mass table: predicted masses as functions
-of ι_τ and m_n, compared to experiment.
+of ι<sub>τ</sub> and m_n, compared to experiment.
 
 - entry_count : ℕ
 Number of mass predictions.

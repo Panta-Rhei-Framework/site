@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-
 prev_chapter_title: "Chapter 69: Running vs.\ Readout"
 next_chapter_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-71-the-neutron-lifetime-crown-of-the-cascade/"
 next_chapter_title: "Chapter 71: The Neutron Lifetime: Crown of the Cascade"
-summary_short: "The neutron-to-electron mass ratio R = m_n / m_e ≈ 1838.684 is derived from ι_τ through a chain of exactly 10 links—each τ-effective, with zero…"
+summary_short: "The neutron-to-electron mass ratio R = m_n / m_e ≈ 1838.684 is derived from ι<sub>τ</sub> through a chain of exactly 10 links—each τ-effective, with zero…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"
 canonical_part_url: "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/"
@@ -39,7 +39,7 @@ right_rail:
 
 
 The neutron-to-electron mass ratio R = m_n / m_e ≈ 1838.684
-is derived from ι_τ through a chain of exactly 10
+is derived from ι<sub>τ</sub> through a chain of exactly 10
 links—each τ-effective, with zero conjectural ingredients.
 This chapter presents the complete chain from start to finish:
 from the τ³ fibration (Book I) through the Epstein zeta

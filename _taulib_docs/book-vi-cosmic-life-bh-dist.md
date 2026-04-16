@@ -50,7 +50,7 @@ Imports BookV.Gravity.BHTopoModes for T² horizon topology authority.
 
 - [V.D234] T² QNM Mode Structure: ringdown spectrum
 
-- [V.T168] QNM Frequency Ratio = ι_τ⁻¹
+- [V.T168] QNM Frequency Ratio = ι<sub>τ</sub>⁻¹
 
 
 ## Ground Truth Sources

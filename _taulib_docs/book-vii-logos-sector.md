@@ -782,7 +782,7 @@ natural isomorphism in the 4+1 sector decomposition at E₃.
 Proof:
 
 
-- Existence: ι_τ = 2/(π+e) is the canonical witness (ι_τ derivation = proof;
+- Existence: ι<sub>τ</sub> = 2/(π+e) is the canonical witness (ι<sub>τ</sub> derivation = proof;
 organizing role across 7 books = commitment).
 
 - Uniqueness: only (Reg_D, Reg_C) can coincide irreversibly — Reg_E is

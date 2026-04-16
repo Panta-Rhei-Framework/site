@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-v/part-06-eternal-dynamics/chapter-5
 prev_chapter_title: "Chapter 55: Part~VI Synthesis: Eternal Dynamics Complete"
 next_chapter_url: "/publications/books/book-v/part-07-the-closure/chapter-57-export-contracts-and-bridge-to-life/"
 next_chapter_title: "Chapter 57: Export Contracts and Bridge to Life"
-summary_short: "Two books, 180 chapters, and one master constant. This chapter assembles every physical constant derived from ι_τ = 2/(π + e) across Books IV and V into a…"
+summary_short: "Two books, 180 chapters, and one master constant. This chapter assembles every physical constant derived from ι<sub>τ</sub> = 2/(π + e) across Books IV and V into a…"
 canonical_book_url: "/publications/books/book-v/"
 canonical_book_title: "Book V: Categorical Macrocosm"
 canonical_part_url: "/publications/books/book-v/part-07-the-closure/"
@@ -40,7 +40,7 @@ right_rail:
 
 Two books, 180 chapters, and one master constant.
 This chapter assembles every physical constant derived from
-ι_τ = 2/(π + e) across Books IV and V into a single ledger,
+ι<sub>τ</sub> = 2/(π + e) across Books IV and V into a single ledger,
 demonstrates the unique G–α bridge that connects gravity
 to electromagnetism without free parameters, and presents the
 four-layer SI calibration cascade by which one algebraic constant

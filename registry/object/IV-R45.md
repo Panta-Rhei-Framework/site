@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: not_applicable
 lean_module: null
 lean_name: ''
-summary: 'Four conclusions: (1) geometry survives (τ³, ι_τ, T² unchanged), (2) grounding
+summary: 'Four conclusions: (1) geometry survives (τ³, ι<sub>τ</sub>, T² unchanged), (2) grounding
   is new (coherence kernel, address obstruction, earned constants), (3) precision
   is new (m_e at 0.025 ppm, complete EW table), (4) donut is earned (theorem, not
   intuition). Closes Part IV before strong sector opens in Part V.'

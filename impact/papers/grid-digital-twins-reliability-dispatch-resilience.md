@@ -373,7 +373,7 @@ No claim in this paper should be interpreted as asserting that τ has already be
 
 [^36]: International Energy Agency. *Electricity Grids and Secure Energy Transitions*. IEA, 2023. Comprehensive assessment of grid investment needs, digital tools, and resilience frameworks. https://www.iea.org/reports/electricity-grids-and-secure-energy-transitions
 
-[^37]: Panta Rhei Series. *Categorical Foundations* (Book I); *Categorical Microcosm* (Book IV); *Categorical Macrocosm* (Book V). 2nd Edition, 2026. τ framework axiomatics, central constant ι_τ = 2/(π+e), bounded-error coarse-graining properties, and physics-coupling framework. (In preparation for KDP publication March 2026.)
+[^37]: Panta Rhei Series. *Categorical Foundations* (Book I); *Categorical Microcosm* (Book IV); *Categorical Macrocosm* (Book V). 2nd Edition, 2026. τ framework axiomatics, central constant ι<sub>τ</sub> = 2/(π+e), bounded-error coarse-graining properties, and physics-coupling framework. (In preparation for KDP publication March 2026.)
 
 
 ---

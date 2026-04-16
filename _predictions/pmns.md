@@ -8,10 +8,10 @@ prediction_id: "pred-015"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 observable: "θ₁₂ (PMNS)"
-observable_mathml: "QLC <math><mi>+ ι_τ² κ_ω</mi></math>"
-formula_plain: "QLC + ι_τ² κ_ω"
-formula_mathml: "QLC <math><mi>+ ι_τ² κ_ω</mi></math>"
-formula_display: "θ₁₂ = QLC + ι_τ² · κ_ω ≈ 33.0°"
+observable_mathml: "QLC <math><mi>+ ι<sub>τ</sub>² κ_ω</mi></math>"
+formula_plain: "QLC + ι<sub>τ</sub>² κ_ω"
+formula_mathml: "QLC <math><mi>+ ι<sub>τ</sub>² κ_ω</mi></math>"
+formula_display: "θ₁₂ = QLC + ι<sub>τ</sub>² · κ_ω ≈ 33.0°"
 tau_value: "33.0^∘"
 observed_value: "33.4^∘"
 deviation: "+3106~ppm"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**θ₁₂ = QLC + ι_τ² · κ_ω ≈ 33.0°**
+**θ₁₂ = QLC + ι<sub>τ</sub>² · κ_ω ≈ 33.0°**
 
 ## Derivation
 
@@ -50,14 +50,14 @@ The solar mixing angle is given by
 the quark–lepton complementarity (QLC) relation
 with a $τ$-correction:
 
-where $κ_ω = ι_τ/(1+ι_τ)$
+where $κ_ω = ι<sub>τ</sub>/(1+ι<sub>τ</sub>)$
 is the $ω$-sector cross-coupling.
 The leading term $1/3$
 is the tribimaximal value
 (Harrison, Perkins, and Scott, 2002).
-The correction $ι_τ^2 κ_ω$
+The correction $ι<sub>τ</sub>^2 κ_ω$
 is a QLC shift:
-the same $ι_τ$
+the same $ι<sub>τ</sub>$
 that produces the Cabibbo angle
 produces a small correction
 to the tribimaximal pattern.

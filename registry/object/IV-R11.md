@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Physics.LemniscateCapacity
 lean_name: Tau.BookIV.Physics.Sqrt3Triad
-summary: 'Same √3 in 3 formulas: (1) R₀ correction, (2) δ_A/m_n = (√3/2)·ι_τ⁶, (3)
+summary: 'Same √3 in 3 formulas: (1) R₀ correction, (2) δ_A/m_n = (√3/2)·ι<sub>τ</sub>⁶, (3)
   α_G = α¹⁸·√3·κ. R correction is tau-effective; δ_A and α_G conjectural.'
 depends_on:
 - IV.D43

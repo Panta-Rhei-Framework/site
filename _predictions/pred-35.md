@@ -57,7 +57,7 @@ $r_s$ is the sound horizon at recombination,
 and $_1$ is the phase shift
 from the neutrino and gravitational driving.
 All quantities are computed
-from $ι_τ$ with zero free parameters.
+from $ι<sub>τ</sub>$ with zero free parameters.
 The Planck measurement gives
 $_1 = 220.0 ± 0.5$.
 The deviation is $+0.28%$ ($+2840$ ppm).
@@ -65,12 +65,12 @@ The deviation is $+0.28%$ ($+2840$ ppm).
 
 The computation of $_1$
 requires three $τ$-native inputs,
-each derived from $ι_τ$:
+each derived from $ι<sub>τ</sub>$:
 
 - **Baryon density:**
 $ω_b = 0.02209$,
 derived from
-$η_B = (121/270)\,ι_τ^19$
+$η_B = (121/270)\,ι<sub>τ</sub>^19$
 (Section (sec:ch62-baryon-density)).
 
 ## Source

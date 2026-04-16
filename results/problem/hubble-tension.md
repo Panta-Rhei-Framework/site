@@ -24,8 +24,8 @@ right_rail:
 
 ## Overview
 
-The Hubble tension (5σ discrepancy between early- and late-universe H₀ measurements) is one of the most discussed problems in cosmology. The τ-framework derives h = 2/3 + ι_τ²/17 = 0.6735 at −120 ppm.
+The Hubble tension (5σ discrepancy between early- and late-universe H₀ measurements) is one of the most discussed problems in cosmology. The τ-framework derives h = 2/3 + ι<sub>τ</sub>²/17 = 0.6735 at −120 ppm.
 
 ## Result Statement
 
-H₀ tension resolved: h = 2/3 + ι_τ²/17 = 0.6735 at −120 ppm. Zero free parameters. Status: Resolved.
+H₀ tension resolved: h = 2/3 + ι<sub>τ</sub>²/17 = 0.6735 at −120 ppm. Zero free parameters. Status: Resolved.

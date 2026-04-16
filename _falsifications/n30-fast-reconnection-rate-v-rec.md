@@ -36,9 +36,9 @@ right_rail:
 
 ## N30: Prediction
 
-= ι_τ^2\,v_A$vrec = iota-tau-2 vA.
+= ι<sub>τ</sub>^2\,v_A$vrec = iota-tau-2 vA.
 
-$v_ rec = ι_τ^2\,v_A ≈ 0.117\,v_A$ (V.T251).
+$v_ rec = ι<sub>τ</sub>^2\,v_A ≈ 0.117\,v_A$ (V.T251).
 Orthodox Sweet–Parker: $v_ rec ∼ S^-1/2\,v_A 0.1\,v_A$.
 Observed: $0.01$–$0.1\,v_A$
 (solar flares, laboratory plasmas).

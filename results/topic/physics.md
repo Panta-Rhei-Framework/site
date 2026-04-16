@@ -28,7 +28,7 @@ right_rail:
 - [CKM Unitarity and Cabibbo Anomaly](/results/problem/ckm-unitarity-and-cabibbo-anomaly/) — Partial
 - [CMB First Peak ℓ₁: LO at +2840 ppm, NLO at +69 ppm](/results/problem/cmb-first-peak/) — Resolved
 - [Cosmological Flatness Ω_k = 0 Exact from τ³ Compactness](/results/problem/cosmological-flatness-omega-k-zero/) — Resolved
-- [Crossing-Limit Theorem: Merger Networks Converge to ι_τ](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — Resolved
+- [Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — Resolved
 - [Dark Energy Equation of State](/results/problem/dark-energy-equation-of-state/) — Resolved
 - [Dark Sector Closure](/results/problem/dark-sector-closure/) — Resolved
 - [DESI BAO](/results/problem/desi-bao/) — Resolved
@@ -72,7 +72,7 @@ right_rail:
 - [Silk Damping Scale](/results/problem/silk-damping-scale/) — Resolved
 - [Spectral Index n_s = 1 – 2/N_e Derived from N_e = 57](/results/problem/spectral-index-ns-from-inflation/) — Partial
 - [Strong Coupling α_s at the Z Pole](/results/problem/strong-coupling-s-at-the-z-pole/) — Resolved
-- [Tensor-to-Scalar Ratio r = ι_τ⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — Resolved
+- [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — Resolved
 - [Theta_QCD = 0 / Strong CP Problem](/results/problem/theta-qcd-0-strong-cp-problem/) — Resolved
 - [Tully-Fisher Relation](/results/problem/tully-fisher-relation/) — Resolved
 - [Vacuum Catastrophe Resolution](/results/problem/vacuum-catastrophe-resolution/) — Resolved

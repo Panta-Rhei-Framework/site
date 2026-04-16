@@ -34,8 +34,8 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Arrow of Time from Orbit Direction: Unique and Irreversible](/results/problem/arrow-of-time-orbit/) — *Foundational Math* · Resolved
 - [ATP Currency Uniqueness: Topology and Coupling Fix the Energy Scale](/results/problem/atp-currency-uniqueness/) — *Frontier Problem* · Resolved
 - [ATP Uniqueness](/results/problem/atp-uniqueness/) — *Frontier Problem* · Resolved
-- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι_τ with CF Window NLO](/results/problem/axial-coupling-g-a-5pt5-ppm/) — *Foundational Math* · Resolved
-- [Baryogenesis: η_B = α·ι_τ¹⁵·(5/6) at −1%](/results/problem/baryogenesis-eta-b/) — *Foundational Math* · Resolved
+- [Axial Coupling g_A at +5.5 ppm via κ_D² /ι<sub>τ</sub> with CF Window NLO](/results/problem/axial-coupling-g-a-5pt5-ppm/) — *Foundational Math* · Resolved
+- [Baryogenesis: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −1%](/results/problem/baryogenesis-eta-b/) — *Foundational Math* · Resolved
 - [Baryon Asymmetry](/results/problem/baryon-asymmetry/) — *Frontier Problem* · Resolved
 - [Beauty and Truth](/results/problem/beauty-and-truth/) — *Consequence* · Resolved
 - [BH Information Paradox](/results/problem/bh-information-paradox/) — *Frontier Problem* · Resolved
@@ -45,7 +45,7 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Black Holes Across E1–E3](/results/problem/black-holes-across-e1-e3/) — *Consequence* · Resolved
 - [Black Holes Are Alive: BH Satisfies All 5+3 Conditions](/results/problem/black-holes-alive/) — *Frontier Problem* · Resolved
 - [BSD Conjecture Approach](/results/problem/bsd-conjecture-approach/) — *Frontier Problem* · Partial
-- [Cabibbo Angle: sin θ_C = ι_τ(1 − ι_τ) at −2327 ppm](/results/problem/cabibbo-angle/) — *Foundational Math* · Resolved
+- [Cabibbo Angle: sin θ_C = ι<sub>τ</sub>(1 − ι<sub>τ</sub>) at −2327 ppm](/results/problem/cabibbo-angle/) — *Foundational Math* · Resolved
 - [Canonical Ladder: E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ Is the Unique Maximal Enrichment Chain](/results/problem/canonical-ladder-theorem/) — *Foundational Math* · Resolved
 - [Cantor Diagonal Inapplicability](/results/problem/cantor-diagonal-inapplicability/) — *Consequence* · Resolved
 - [Categorical Imperative Derivation](/results/problem/categorical-imperative-derivation/) — *Frontier Problem* · Resolved
@@ -67,7 +67,7 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Consciousness Neural Correlates](/results/problem/consciousness-neural-correlates/) — *Frontier Problem* · Resolved
 - [Convergent Evolution](/results/problem/convergent-evolution/) — *Frontier Problem* · Resolved
 - [Cosmological Flatness Ω_k = 0 Exact from τ³ Compactness](/results/problem/cosmological-flatness-omega-k-zero/) — *Frontier Problem* · Resolved
-- [Crossing-Limit Theorem: Merger Networks Converge to ι_τ](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — *Frontier Problem* · Resolved
+- [Crossing-Limit Theorem: Merger Networks Converge to ι<sub>τ</sub>](/results/problem/crossing-limit-theorem-merger-networks-iota-tau/) — *Frontier Problem* · Resolved
 - [Dark Energy Equation of State](/results/problem/dark-energy-equation-of-state/) — *Frontier Problem* · Resolved
 - [Dark Sector Closure](/results/problem/dark-sector-closure/) — *Frontier Problem* · Resolved
 - [Definition of Beauty](/results/problem/definition-of-beauty/) — *Frontier Problem* · Resolved
@@ -89,7 +89,7 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Faith–Reason Bridge](/results/problem/faith-reason-bridge/) — *Consequence* · Resolved
 - [Far-Future Cosmology and Universal BH](/results/problem/far-future-cosmology-and-universal-bh/) — *Consequence* · Resolved
 - [Fibration Structure τ³ = τ¹ ×_f T²](/results/problem/fibration-structure-f-t/) — *Foundational Math* · Resolved
-- [Fine-Structure Constant α⁻¹ = 137.036 from ι_τ](/results/problem/fine-structure-constant-alpha-inverse-137/) — *Foundational Math* · Resolved
+- [Fine-Structure Constant α⁻¹ = 137.036 from ι<sub>τ</sub>](/results/problem/fine-structure-constant-alpha-inverse-137/) — *Foundational Math* · Resolved
 - [Fine-Tuning Dissolved](/results/problem/fine-tuning-dissolved/) — *Consequence* · Resolved
 - [Fitness Landscape Theory](/results/problem/fitness-landscape-theory/) — *Foundational Math* · Resolved
 - [Flat Galaxy Rotation Curves from Capacity Gradient](/results/problem/flat-rotation-curves/) — *Frontier Problem* · Resolved
@@ -105,7 +105,7 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Global Hartogs Extension: Boundary Determines Interior](/results/problem/global-hartogs-extension/) — *Foundational Math* · Resolved
 - [Goldbach Conjecture](/results/problem/goldbach-conjecture/) — *Frontier Problem* · Not Addressed
 - [Grand GRH Approach](/results/problem/grand-grh-approach/) — *Frontier Problem* · Partial
-- [Gravitational Constant from ι_τ: α_G at 3 ppm](/results/problem/gravitational-constant-from-iota-tau/) — *Foundational Math* · Resolved
+- [Gravitational Constant from ι<sub>τ</sub>: α_G at 3 ppm](/results/problem/gravitational-constant-from-iota-tau/) — *Foundational Math* · Resolved
 - [Gödel Avoidance](/results/problem/g-del-avoidance/) — *Frontier Problem* · Resolved
 - [Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ](/results/problem/goedel-avoidance/) — *Consequence* · Resolved
 - [Hard Problem of Consciousness](/results/problem/hard-problem-of-consciousness/) — *Frontier Problem* · Partial
@@ -120,7 +120,7 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Homochirality Origin](/results/problem/homochirality-origin/) — *Frontier Problem* · Resolved
 - [Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids](/results/problem/homochirality-universality-12-step-derivation/) — *Frontier Problem* · Resolved
 - [Hubble Tension](/results/problem/hubble-tension/) — *Frontier Problem* · Resolved
-- [Hubble Tension Resolved: h = 2/3 + ι_τ²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — *Frontier Problem* · Resolved
+- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — *Frontier Problem* · Resolved
 - [Hyperfactorization](/results/problem/hyperfactorization/) — *Foundational Math* · Resolved
 - [Hyperfactorization: Every Object Has a Unique Canonical Normal Form](/results/problem/hyperfactorization-theorem/) — *Foundational Math* · Resolved
 - [Identity as NF-Address Persistence: Personal Identity Across Change](/results/problem/identity-as-nf-address-persistence/) — *Foundational Math* · Resolved
@@ -227,7 +227,7 @@ For the narrative front door, see the [Results Introduction]({{ '/results/prolog
 - [Tarski Axioms for Geometry](/results/problem/tarski-axioms-for-geometry/) — *Foundational Math* · Resolved
 - [Tau-Identity Theorem: Agreement at One Depth Implies Agreement Everywhere](/results/problem/tau-identity-theorem/) — *Foundational Math* · Resolved
 - [Temporal Experience](/results/problem/temporal-experience/) — *Frontier Problem* · Resolved
-- [Tensor-to-Scalar Ratio r = ι_τ⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — *Frontier Problem* · Resolved
+- [Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ = 0.0136](/results/problem/tensor-to-scalar-ratio/) — *Frontier Problem* · Resolved
 - [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — *Frontier Problem* · Resolved
 - [The Four-Layer Architecture of Reality](/results/problem/the-four-layer-architecture-of-reality/) — *Consequence* · Resolved
 - [The Sublime](/results/problem/the-sublime/) — *Frontier Problem* · Resolved

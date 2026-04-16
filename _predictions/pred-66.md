@@ -8,10 +8,10 @@ prediction_id: "pred-066"
 domain: "collective-dynamics"
 domain_display: "Collective Dynamics"
 observable: "ℓᵣₘ ₕₑₐₜ"
-observable_mathml: "<math><mi>ι_τ²,R_⊙</mi></math>"
-formula_plain: "ι_τ²,R_⊙"
-formula_mathml: "<math><mi>ι_τ²,R_⊙</mi></math>"
-formula_display: "ℓ_heat = ι_τ² · R_☉ ≈ 0.117 R_☉"
+observable_mathml: "<math><mi>ι<sub>τ</sub>²,R_⊙</mi></math>"
+formula_plain: "ι<sub>τ</sub>²,R_⊙"
+formula_mathml: "<math><mi>ι<sub>τ</sub>²,R_⊙</mi></math>"
+formula_display: "ℓ_heat = ι<sub>τ</sub>² · R_☉ ≈ 0.117 R_☉"
 tau_value: "0.117,R_⊙"
 observed_value: "≈!0.1,R_⊙"
 deviation: "∼ 15%"
@@ -42,14 +42,14 @@ right_rail:
 
 ## τ-Formula
 
-**ℓ_heat = ι_τ² · R_☉ ≈ 0.117 R_☉**
+**ℓ_heat = ι<sub>τ</sub>² · R_☉ ≈ 0.117 R_☉**
 
 ## Derivation
 
 F_τ
 \;=\;
 ρ\,v_A\,v_conv^2
-\;(1 - e^-ι_τ^2\,L/λ_A),
+\;(1 - e^-ι<sub>τ</sub>^2\,L/λ_A),
 
 where $ρ$ is the photospheric
 mass density,
@@ -60,7 +60,7 @@ $L$ the coronal loop length,
 and $λ_A$ the dominant
 Alfv\'en wavelength.
 No free parameters enter the damping
-fraction $ι_τ^2$.
+fraction $ι<sub>τ</sub>^2$.
 
 Numerical evaluation.
 For typical active-region parameters
@@ -78,7 +78,7 @@ $F_A = ρ\,v_A\,v_conv^2
 ≈ 4.9 × 10^5
 \;erg\;cm^-2\;s^-1$.
 - The damping fraction is
-$1 - (-ι_τ^2\,L/λ_A)
+$1 - (-ι<sub>τ</sub>^2\,L/λ_A)
 = 1 - (-0.117 × 10)
 ≈ 0.69$.
 - The heating flux is

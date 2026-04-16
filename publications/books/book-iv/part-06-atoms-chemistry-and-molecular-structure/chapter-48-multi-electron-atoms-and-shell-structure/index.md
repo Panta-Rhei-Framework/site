@@ -13,7 +13,7 @@ chapter_number: 48
 chapter_slug: "chapter-48-multi-electron-atoms-and-shell-structure"
 page_in_book: 283
 prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-47-hyperfine-structure-and-the-role-of-iota-tau/"
-prev_chapter_title: "Chapter 47: Hyperfine Structure and the Role of ι_τ"
+prev_chapter_title: "Chapter 47: Hyperfine Structure and the Role of ι<sub>τ</sub>"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-49-the-chemical-bond-as-graph-transformation/"
 next_chapter_title: "Chapter 49: The Chemical Bond as Graph Transformation"
 summary_short: "Hydrogen admits an exact solution; every other atom does not. The culprit is electron–electron repulsion, which couples all fermionic modes on the fiber T².…"

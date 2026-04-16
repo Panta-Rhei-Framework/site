@@ -10,7 +10,7 @@ part_number: 5
 part_display: "Part V"
 part_slug: "part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e"
 chapter_count: 6
-summary_short: "Part V earns the transcendental constants π, e, j, and ι_τ from purely countable discrete structure. Six chapters bridge from ABCD refinement rays to…"
+summary_short: "Part V earns the transcendental constants π, e, j, and ι<sub>τ</sub> from purely countable discrete structure. Six chapters bridge from ABCD refinement rays to…"
 canonical_book_url: "/publications/books/book-ii/"
 canonical_book_title: "Book II: Categorical Holomorphy"
 right_rail:
@@ -30,7 +30,7 @@ right_rail:
 ---
 
 
-Part V earns the transcendental constants π, e, j, and ι_τ
+Part V earns the transcendental constants π, e, j, and ι<sub>τ</sub>
 from purely countable discrete structure.
 Six chapters bridge from ABCD refinement rays to the classical constants
 and the Archimedean-Non-Archimedean duality.
@@ -64,7 +64,7 @@ bipolar flip.
 Idempotents e_± = (1 ± j)/2 are canonical sector projections.
 
 the relevant chapter confirms the master constant
-ι_τ = 2/(π + e) and establishes the **Archimedean-Non-Archimedean Bridge**:
+ι<sub>τ</sub> = 2/(π + e) and establishes the **Archimedean-Non-Archimedean Bridge**:
 ultrametric refinement (D-depth) and Euclidean resolution (ABC precision)
 describe the same process from two coordinate perspectives.
 τ accesses transcendentals without importing ℝ.
@@ -80,4 +80,4 @@ setting up the split-complex holomorphy that becomes load-bearing in Part VI.
 - **[Chapter 26: Three Perspectives on π]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-26-three-perspectives-on-pi/' | relative_url }})**
 - **[Chapter 27: e Earned — The Self-Reproducing Growth Base]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-27-e-earned-the-self-reproducing-growth-base/' | relative_url }})**
 - **[Chapter 28: Replaces i — Polarity, Not Rotation]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-28-replaces-i-polarity-not-rotation/' | relative_url }})**
-- **[Chapter 29: ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/' | relative_url }})**
+- **[Chapter 29: ι<sub>τ</sub> Confirmed — The Archimedean-Non-Archimedean Bridge]({{ '/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/' | relative_url }})**

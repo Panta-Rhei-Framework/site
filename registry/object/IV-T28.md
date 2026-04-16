@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.QuantumMechanics.Measurement
 lean_name: Tau.BookIV.QuantumMechanics.SchrdingerEquation
-summary: iℏ_τ ∂ψ/∂t = H_∞ ψ, where H_∞ = ι_τ² Δ_Hodge. Derived from holomorphic flow
+summary: iℏ_τ ∂ψ/∂t = H_∞ ψ, where H_∞ = ι<sub>τ</sub>² Δ_Hodge. Derived from holomorphic flow
   along the base τ¹ via Stone's theorem + Cayley graph analysis. A theorem, not a
   postulate.
 depends_on:

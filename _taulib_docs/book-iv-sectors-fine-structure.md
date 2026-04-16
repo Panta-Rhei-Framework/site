@@ -26,7 +26,7 @@ right_rail:
 # TauLib.BookIV.Sectors.FineStructure
 
 
-Derivation of the fine structure constant α_EM from ι_τ = 2/(π+e).
+Derivation of the fine structure constant α_EM from ι<sub>τ</sub> = 2/(π+e).
 
 ## Registry Cross-References
 
@@ -51,16 +51,16 @@ The fine structure constant α_EM ≈ 1/137.036 admits two complementary derivat
 **1. Holonomy Formula (exact):**
 α = (π³/16) · Q⁴ / (M² H³ L⁶)
 where Q, M, H, L are calibration parameters from the neutron anchoring cascade
-(Book IV Part VII). All four parameters are ultimately functions of ι_τ and
+(Book IV Part VII). All four parameters are ultimately functions of ι<sub>τ</sub> and
 geometric constants (π, e). This formula is EXACT but requires the full
 calibration cascade to evaluate.
 
 **2. Spectral Formula (leading-order approximation):**
-α ≈ (8/15) · ι_τ⁴
-where ι_τ = 2/(π+e). Structural meaning:
+α ≈ (8/15) · ι<sub>τ</sub>⁴
+where ι<sub>τ</sub> = 2/(π+e). Structural meaning:
 
 
-- Exponent 4: α couples two τ² surface modes; each contributes ι_τ²
+- Exponent 4: α couples two τ² surface modes; each contributes ι<sub>τ</sub>²
 
 - Factor 8/15 = 2³/(3·5): primorial structure from Cayley(τ)
 
@@ -69,11 +69,11 @@ where ι_τ = 2/(π+e). Structural meaning:
 
 
 The spectral formula is the **leading term** of the holonomy formula when
-Q, M, H, L are expressed as functions of ι_τ. The exact relationship is:
+Q, M, H, L are expressed as functions of ι<sub>τ</sub>. The exact relationship is:
 
-α = (8/15) · ι_τ⁴ · R(ι_τ)
+α = (8/15) · ι<sub>τ</sub>⁴ · R(ι<sub>τ</sub>)
 
-where R(ι_τ) is a correction factor satisfying R ≈ 1.0065 (bringing the
+where R(ι<sub>τ</sub>) is a correction factor satisfying R ≈ 1.0065 (bringing the
 spectral approximation ~0.06% closer to the experimental value).
 R depends on the detailed calibration cascade and is derived in Book IV Part VII.
 
@@ -82,18 +82,18 @@ The holonomy formula resolves to the spectral formula as follows:
 
 - (π³/16) is the geometric prefactor from three-circle integration
 
-- Q⁴/(M²H³L⁶) encodes the dynamical content via ι_τ
+- Q⁴/(M²H³L⁶) encodes the dynamical content via ι<sub>τ</sub>
 
-- The leading behavior is (8/15)·ι_τ⁴ because Q ∝ ι_τ, M ∝ ι_τ⁻½,
-H ∝ ι_τ⁻¹, L ∝ ι_τ⁻¹ at zeroth order in the calibration cascade
+- The leading behavior is (8/15)·ι<sub>τ</sub>⁴ because Q ∝ ι<sub>τ</sub>, M ∝ ι<sub>τ</sub>⁻½,
+H ∝ ι<sub>τ</sub>⁻¹, L ∝ ι<sub>τ</sub>⁻¹ at zeroth order in the calibration cascade
 
 
 ### The Wrong Formula
 
 
-The 1st Edition reference sheet incorrectly states α = (ι_τ/2)⁴.
+The 1st Edition reference sheet incorrectly states α = (ι<sub>τ</sub>/2)⁴.
 This gives (0.341304/2)⁴ ≈ (0.17073)⁴ ≈ 0.000849 — **off by a factor of ~8.6**.
-The correct spectral formula is (8/15)·ι_τ⁴, NOT (ι_τ/2)⁴.
+The correct spectral formula is (8/15)·ι<sub>τ</sub>⁴, NOT (ι<sub>τ</sub>/2)⁴.
 
 ## Ground Truth Sources
 
@@ -103,13 +103,13 @@ The correct spectral formula is (8/15)·ι_τ⁴, NOT (ι_τ/2)⁴.
 - physics_layer_sector_instantiation.md §3: α as fixed-point readout
 
 
-We compute α_spectral = (8/15) · ι_τ⁴ using exact rational arithmetic.
+We compute α_spectral = (8/15) · ι<sub>τ</sub>⁴ using exact rational arithmetic.
 
-ι_τ = 341304/1000000
+ι<sub>τ</sub> = 341304/1000000
 
-ι_τ⁴ = 341304⁴ / 1000000⁴
+ι<sub>τ</sub>⁴ = 341304⁴ / 1000000⁴
 
-(8/15) · ι_τ⁴ = 8 · 341304⁴ / (15 · 1000000⁴)
+(8/15) · ι<sub>τ</sub>⁴ = 8 · 341304⁴ / (15 · 1000000⁴)
 
 We compute 341304⁴ step by step:
 341304² = 116,594,274,681
@@ -125,7 +125,7 @@ We compute 341304⁴ step by step:
 Tau.BookIV.Sectors.iota_fourth_numer :ℕ**
 
 
-ι_τ⁴ numerator: 341304⁴.
+ι<sub>τ</sub>⁴ numerator: 341304⁴.
 Equations
 - Tau.BookIV.Sectors.iota_fourth_numer = Tau.BookIV.Sectors.iota * Tau.BookIV.Sectors.iota * Tau.BookIV.Sectors.iota * Tau.BookIV.Sectors.iota
 Instances For
@@ -139,7 +139,7 @@ Instances For
 Tau.BookIV.Sectors.iota_fourth_denom :ℕ**
 
 
-ι_τ⁴ denominator: 10²⁴.
+ι<sub>τ</sub>⁴ denominator: 10²⁴.
 Equations
 - Tau.BookIV.Sectors.iota_fourth_denom = Tau.BookIV.Sectors.iotaD * Tau.BookIV.Sectors.iotaD * Tau.BookIV.Sectors.iotaD * Tau.BookIV.Sectors.iotaD
 Instances For
@@ -153,7 +153,7 @@ Instances For
 Tau.BookIV.Sectors.alpha_spectral_numer :ℕ**
 
 
-[IV.D08] α_spectral numerator: 8 · ι_τ⁴.
+[IV.D08] α_spectral numerator: 8 · ι<sub>τ</sub>⁴.
 Equations
 - Tau.BookIV.Sectors.alpha_spectral_numer = 8 * Tau.BookIV.Sectors.iota_fourth_numer
 Instances For
@@ -235,16 +235,16 @@ Tau.BookIV.Sectors.alpha_inverse_in_range :alpha_spectral_denom > 135 * alpha_sp
 
 1/α is between 135 and 139 (brackets the experimental 137.036).
 
-The wrong formula (ι_τ/2)⁴ = ι_τ⁴/16, NOT (8/15)·ι_τ⁴.
+The wrong formula (ι<sub>τ</sub>/2)⁴ = ι<sub>τ</sub>⁴/16, NOT (8/15)·ι<sub>τ</sub>⁴.
 
 ```
-(ι_τ/2)⁴ = 341304⁴ / (2⁴ · 10²⁴) = ι_τ⁴ / 16
+(ι<sub>τ</sub>/2)⁴ = 341304⁴ / (2⁴ · 10²⁴) = ι<sub>τ</sub>⁴ / 16
 
 The ratio of the correct formula to the wrong formula is:
 (8/15) / (1/16) = 128/15 ≈ 8.533...
 
 The wrong formula gives α ≈ 0.000850, which is off by a factor of ~8.5.
-The 1st Edition reference sheet formula α = (ι_τ/2)⁴ is INCORRECT. 
+The 1st Edition reference sheet formula α = (ι<sub>τ</sub>/2)⁴ is INCORRECT. 
 ```
 
 
@@ -257,7 +257,7 @@ The 1st Edition reference sheet formula α = (ι_τ/2)⁴ is INCORRECT.
 Tau.BookIV.Sectors.wrong_alpha_numer :ℕ**
 
 
-Numerator of the wrong formula: ι_τ⁴.
+Numerator of the wrong formula: ι<sub>τ</sub>⁴.
 Equations
 - Tau.BookIV.Sectors.wrong_alpha_numer = Tau.BookIV.Sectors.iota_fourth_numer
 Instances For
@@ -316,8 +316,8 @@ Tau.BookIV.Sectors.alpha_from_em_coupling :alpha_spectral_numer = 8 * (kappa_BB.
 is the EM self-coupling SQUARED, scaled by the primorial
 factor 8/15 = 2³/(3·5).
 
-Since κ(B;2) = ι_τ², we have:
-α = (8/15) · (ι_τ²)² = (8/15) · ι_τ⁴.
+Since κ(B;2) = ι<sub>τ</sub>², we have:
+α = (8/15) · (ι<sub>τ</sub>²)² = (8/15) · ι<sub>τ</sub>⁴.
 
 ---
 
@@ -328,7 +328,7 @@ Since κ(B;2) = ι_τ², we have:
 Tau.BookIV.Sectors.alpha_tower_numer :ℕ**
 
 
-The tower fine-structure constant numerator: 121 · ι_τ⁴.
+The tower fine-structure constant numerator: 121 · ι<sub>τ</sub>⁴.
 121 = ω₁² = 11² from the iterated prime tower.
 Equations
 - Tau.BookIV.Sectors.alpha_tower_numer = 121 * Tau.BookIV.Sectors.iota_fourth_numer
@@ -450,7 +450,7 @@ Tau.BookIV.Sectors.alpha_solenoidal_numerator :(2 * 11) ^ 2 = 4 * 121**
 
 The solenoidal balance decomposition of α:
 Replacing ω₁ = η₂ = 11 and introducing π₁ = 2, the α formula
-becomes α = (1/2 · (π₁ · η₂)/(γ₁ · γ₂))² · ι_τ⁴, making all
+becomes α = (1/2 · (π₁ · η₂)/(γ₁ · γ₂))² · ι<sub>τ</sub>⁴, making all
 three solenoidal generators {π, γ, η} simultaneously visible.
 
 Numerically: (π₁ · η₂)² / 4 = (2 · 11)² / 4 = 484/4 = 121 = ω₁².
@@ -466,8 +466,8 @@ Tau.BookIV.Sectors.alpha_solenoidal_form :4 * alpha_tower_numer = (2 * 11) ^ 2 *
 
 
 The solenoidal balance form produces the same α_tower:
-α_tower_numer = (π₁ · η₂)² / 4 · ι_τ⁴.
-Cross-multiplied: 4 · α_tower_numer = (2 · 11)² · ι_τ⁴.
+α_tower_numer = (π₁ · η₂)² / 4 · ι<sub>τ</sub>⁴.
+Cross-multiplied: 4 · α_tower_numer = (2 · 11)² · ι<sub>τ</sub>⁴.
 
 ---
 
@@ -479,16 +479,16 @@ Tau.BookIV.Sectors.HolonomyFormula :Type**
 
 
 [IV.R01] The holonomy formula for α involves four calibration
-parameters Q, M, H, L (all determined by ι_τ via the neutron
+parameters Q, M, H, L (all determined by ι<sub>τ</sub> via the neutron
 anchoring cascade, Book IV Part VII). At this stage we record
 the structural relationship:
 
 α_holonomy = (π³/16) · Q⁴/(M² H³ L⁶)
 
 For the holonomy formula to match the spectral formula, we need:
-(π³/16) · Q⁴/(M² H³ L⁶) = (8/15) · ι_τ⁴ · R(ι_τ)
+(π³/16) · Q⁴/(M² H³ L⁶) = (8/15) · ι<sub>τ</sub>⁴ · R(ι<sub>τ</sub>)
 
-where R(ι_τ) ≈ 1.0065... is the calibration correction factor.
+where R(ι<sub>τ</sub>) ≈ 1.0065... is the calibration correction factor.
 
 This structure records that the holonomy formula EXISTS and
 has the correct form; the numerical evaluation requires the
@@ -529,10 +529,10 @@ Instances For
 Tau.BookIV.Sectors.alpha_is_fourth_power :alpha_spectral_numer = 8 * iota_fourth_numer ∧ alpha_spectral_denom = 15 * iota_fourth_denom**
 
 
-α is fundamentally a FOURTH-power phenomenon in ι_τ.
+α is fundamentally a FOURTH-power phenomenon in ι<sub>τ</sub>.
 This is structural: electromagnetic coupling involves two τ² modes
-(emission + absorption), each contributing ι_τ² (torus area factor).
-α ∝ (ι_τ²)² = ι_τ⁴.
+(emission + absorption), each contributing ι<sub>τ</sub>² (torus area factor).
+α ∝ (ι<sub>τ</sub>²)² = ι<sub>τ</sub>⁴.
 
 ---
 

@@ -297,7 +297,7 @@ Tau.BookIV.MassDerivation.chain_tau_effective_count :(List.filter (fun (x : Chai
 Tau.BookIV.MassDerivation.BulkTerm :Type**
 
 
-[IV.D316] Bulk term R_bulk = ι_τ^{-7}. Wraps MassRatioFormula.
+[IV.D316] Bulk term R_bulk = ι<sub>τ</sub>^{-7}. Wraps MassRatioFormula.
 
 - numer : ℕ
 - denom : ℕ
@@ -368,7 +368,7 @@ Tau.BookIV.MassDerivation.bulk_denom_match :bulk_term.denom = Calibration.bulk_d
 Tau.BookIV.MassDerivation.bulk_overshoots :Calibration.bulk_numer * Calibration.si_mass_ratio.denom > Calibration.si_mass_ratio.numer * Calibration.bulk_denom**
 
 
-[IV.T118] ι_τ^{-7} overshoots R_CODATA (correction sign is correct).
+[IV.T118] ι<sub>τ</sub>^{-7} overshoots R_CODATA (correction sign is correct).
 
 ---
 
@@ -388,7 +388,7 @@ Tau.BookIV.MassDerivation.bulk_range :Calibration.bulk_numer > 1853 * Calibratio
 Tau.BookIV.MassDerivation.Level0Formula :Type**
 
 
-[IV.D317] Level 0: R₀ = ι_τ^{-7} − √3·ι_τ^{-2}.
+[IV.D317] Level 0: R₀ = ι<sub>τ</sub>^{-7} − √3·ι<sub>τ</sub>^{-2}.
 
 - bulk_exp : ℤ
 - correction_exp : ℤ
@@ -439,7 +439,7 @@ Instances For
 Tau.BookIV.MassDerivation.level0_range :Calibration.bulk_numer * Calibration.correction0_denom > Calibration.correction0_numer * Calibration.bulk_denom + 1837 * Calibration.bulk_denom * Calibration.correction0_denom ∧ Calibration.bulk_numer * Calibration.correction0_denom < Calibration.correction0_numer * Calibration.bulk_denom + 1840 * Calibration.bulk_denom * Calibration.correction0_denom**
 
 
-[IV.T119] R₀ ∈ (1837, 1840) with 6-digit ι_τ.
+[IV.T119] R₀ ∈ (1837, 1840) with 6-digit ι<sub>τ</sub>.
 
 ---
 
@@ -459,8 +459,8 @@ Tau.BookIV.MassDerivation.level0_deviation_small :Calibration.bulk_numer * Calib
 Tau.BookIV.MassDerivation.Level1PlusDetail :Type**
 
 
-[IV.D318] Level 1+: R₁ = ι_τ^{-7} − (√3 + π³α²)·ι_τ^{-2}.
-At exact ι_τ: 0.025 ppm, m_e = 0.510998937 MeV, zero free params.
+[IV.D318] Level 1+: R₁ = ι<sub>τ</sub>^{-7} − (√3 + π³α²)·ι<sub>τ</sub>^{-2}.
+At exact ι<sub>τ</sub>: 0.025 ppm, m_e = 0.510998937 MeV, zero free params.
 
 - bulk_exp : ℤ
 - correction_exp : ℤ

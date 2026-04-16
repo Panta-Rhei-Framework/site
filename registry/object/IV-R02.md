@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Sectors.FineStructure
 lean_name: Tau.BookIV.Sectors.wrong_formula_refutation
-summary: 'The 1st Edition reference sheet formula α = (ι_τ/2)⁴ is INCORRECT. It gives
-  α ≈ 0.000849 (off by factor ~8.5). The correct spectral formula is (8/15)·ι_τ⁴.
+summary: 'The 1st Edition reference sheet formula α = (ι<sub>τ</sub>/2)⁴ is INCORRECT. It gives
+  α ≈ 0.000849 (off by factor ~8.5). The correct spectral formula is (8/15)·ι<sub>τ</sub>⁴.
   Ratio: correct/wrong = 128/15 ≈ 8.533. Lean-verified refutation.'
 depends_on:
 - IV.D08

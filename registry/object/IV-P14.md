@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.QuantumMechanics.QuantumCharacters
 lean_name: Tau.BookIV.QuantumMechanics.EnergyDuality
 summary: E = mc² (fiber stiffness) and E = ℏω (base frequency) are the same eigenvalue
-  of H_∞ = ι_τ²·Δ_Hodge, viewed from fiber and base decompositions respectively.
+  of H_∞ = ι<sub>τ</sub>²·Δ_Hodge, viewed from fiber and base decompositions respectively.
 depends_on:
 - IV.D57
 - IV.D51

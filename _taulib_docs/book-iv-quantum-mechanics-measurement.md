@@ -73,7 +73,7 @@ squared projection coefficient. This is NOT a postulate.
 ### Schrodinger Equation
 
 
-iℏ_τ ∂ψ/∂t = H_∞ ψ where H_∞ = ι_τ² Δ_Hodge is the breathing operator
+iℏ_τ ∂ψ/∂t = H_∞ ψ where H_∞ = ι<sub>τ</sub>² Δ_Hodge is the breathing operator
 restricted to the torus T². This is DERIVED from holomorphic flow on the
 CR-address lattice, not postulated.
 
@@ -373,10 +373,10 @@ Tau.BookIV.QuantumMechanics.SchrodingerEquation :Type**
 
 [IV.T28] Schrodinger equation: iℏ_τ ∂ψ/∂t = H_∞ ψ.
 
-H_∞ = ι_τ² Δ_Hodge is the breathing operator on T².
+H_∞ = ι<sub>τ</sub>² Δ_Hodge is the breathing operator on T².
 This equation is DERIVED from holomorphic flow on the CR-address
-lattice, not postulated. The ι_τ² prefactor is the inverse of
-the breathing operator B = (1/ι_τ²)·Δ⁻¹|_{T²}.
+lattice, not postulated. The ι<sub>τ</sub>² prefactor is the inverse of
+the breathing operator B = (1/ι<sub>τ</sub>²)·Δ⁻¹|_{T²}.
 
 The iota-squared coefficient:
 
@@ -387,7 +387,7 @@ The iota-squared coefficient:
 
 
 - hamiltonian_coeff_numer : ℕ
-H_∞ coefficient numerator: ι_τ².
+H_∞ coefficient numerator: ι<sub>τ</sub>².
 
 - hamiltonian_coeff_denom : ℕ
 H_∞ coefficient denominator.
@@ -399,7 +399,7 @@ Denominator positive.
 The equation is derived (not postulated).
 
 - operator_name : String
-The Hamiltonian is H_∞ = ι_τ² Δ_Hodge.
+The Hamiltonian is H_∞ = ι<sub>τ</sub>² Δ_Hodge.
 
 Instances For
 
@@ -435,7 +435,7 @@ Equations
 Tau.BookIV.QuantumMechanics.schrodinger_canonical :SchrodingerEquation**
 
 
-The canonical Schrodinger equation with H_∞ = ι_τ² Δ.
+The canonical Schrodinger equation with H_∞ = ι<sub>τ</sub>² Δ.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -594,7 +594,7 @@ Tau.BookIV.QuantumMechanics.determinism_probability
 Tau.BookIV.QuantumMechanics.schrodinger_is_iota_sq :schrodinger_canonical.hamiltonian_coeff_numer = Sectors.iota_sq_numer ∧ schrodinger_canonical.hamiltonian_coeff_denom = Sectors.iota_sq_denom**
 
 
-The Schrodinger Hamiltonian coefficient matches ι_τ².
+The Schrodinger Hamiltonian coefficient matches ι<sub>τ</sub>².
 
 ---
 

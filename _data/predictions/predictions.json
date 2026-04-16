@@ -1224,7 +1224,7 @@
     "title_plain": "Jet Magnetic Field Ratio B_z/B_φ",
     "domain": "astrophysics",
     "domain_display": "Astrophysics",
-    "tau_value": "ι_τ",
+    "tau_value": "ι<sub>τ</sub>",
     "observed": "≈!0.3",
     "deviation": "∼ 10%",
     "precision_tier": "structural",
@@ -1235,7 +1235,7 @@
     "canonical_books": [
       "V"
     ],
-    "summary_short": "Bz / B_φ (jet): τ-value ι_τ, observed ≈!0.3, deviation ∼ 10%.",
+    "summary_short": "Bz / B_φ (jet): τ-value ι<sub>τ</sub>, observed ≈!0.3, deviation ∼ 10%.",
     "url": "/predictions/bz-b-jet/"
   },
   {

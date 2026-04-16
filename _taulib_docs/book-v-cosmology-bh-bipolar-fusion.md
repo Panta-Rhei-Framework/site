@@ -70,7 +70,7 @@ because the lemniscate L = S¹ ∨ S¹ has two lobes by construction.
 
 
 I_BH = (||χ⁺|| − ||χ⁻||)/(||χ⁺|| + ||χ⁻||) ∈ (−1, 1).
-As the BH evolves, I_BH → 1 − 2ι_τ (fixed point from ι_τ).
+As the BH evolves, I_BH → 1 − 2ι<sub>τ</sub> (fixed point from ι<sub>τ</sub>).
 
 ### Blueprint Monoid
 
@@ -233,10 +233,10 @@ Tau.BookV.Cosmology.PolarityFixedPoint :Type**
 
 
 [V.P94] Polarity convergence: as a BH evolves, its polarity
-imbalance converges to the fixed point 1 − 2ι_τ.
+imbalance converges to the fixed point 1 − 2ι<sub>τ</sub>.
 
 The fixed-point imbalance value:
-1 − 2ι_τ ≈ 1 − 2(0.341304) ≈ 0.317082
+1 − 2ι<sub>τ</sub> ≈ 1 − 2(0.341304) ≈ 0.317082
 
 Encoded as 317082 / 1000000.
 
@@ -466,10 +466,10 @@ Fusion mass is sum of input masses.
 Tau.BookV.Cosmology.BHEntropyRemark :Type**
 
 
-[V.R224] BH entropy formula: S_BH = k_B · A / (4 · ι_τ²).
+[V.R224] BH entropy formula: S_BH = k_B · A / (4 · ι<sub>τ</sub>²).
 
-Replaces Planck length ℓ_P² with ι_τ² in the Bekenstein-Hawking
-formula. The ι_τ² factor is structural (area of T² quantum).
+Replaces Planck length ℓ_P² with ι<sub>τ</sub>² in the Bekenstein-Hawking
+formula. The ι<sub>τ</sub>² factor is structural (area of T² quantum).
 
 - area_quantum_numer : ℕ
 Area scale numerator.
@@ -481,7 +481,7 @@ Area scale denominator.
 Denominator positive.
 
 - iota_sq_consistent : self.area_quantum_numer > 116000 ∧ self.area_quantum_numer < 117000
-ι_τ² ≈ 0.116594 encoded as 116594/1000000.
+ι<sub>τ</sub>² ≈ 0.116594 encoded as 116594/1000000.
 
 Instances For
 
@@ -517,7 +517,7 @@ Equations
 Tau.BookV.Cosmology.bh_entropy_data :BHEntropyRemark**
 
 
-BH entropy uses ι_τ².
+BH entropy uses ι<sub>τ</sub>².
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -576,33 +576,33 @@ Tau.BookV.Cosmology.PolarityContractionMap :Type**
 [V.P94 upgrade] Polarity convergence: contraction mapping proof.
 
 Define the evolution map F on polarity imbalance I ∈ (−1, 1):
-F(I) = (1−ι_τ)·I + ι_τ·(1−2ι_τ)
+F(I) = (1−ι<sub>τ</sub>)·I + ι<sub>τ</sub>·(1−2ι<sub>τ</sub>)
 
 This is an affine contraction with:
 
 
-- Slope = (1−ι_τ) ≈ 0.659 < 1 (contraction)
+- Slope = (1−ι<sub>τ</sub>) ≈ 0.659 < 1 (contraction)
 
-- Fixed point: I* = 1−2ι_τ ≈ 0.317
+- Fixed point: I* = 1−2ι<sub>τ</sub> ≈ 0.317
 
-- F(I*) = (1−ι_τ)·(1−2ι_τ) + ι_τ·(1−2ι_τ) = (1−2ι_τ) = I*
+- F(I*) = (1−ι<sub>τ</sub>)·(1−2ι<sub>τ</sub>) + ι<sub>τ</sub>·(1−2ι<sub>τ</sub>) = (1−2ι<sub>τ</sub>) = I*
 
 
 By the Banach fixed-point theorem, every initial I₀ ∈ (−1,1)
-converges to I* = 1−2ι_τ under iteration of F.
+converges to I* = 1−2ι<sub>τ</sub> under iteration of F.
 
 Physical interpretation: at each step, the larger lobe
-(say χ⁺) grows by factor (1−ι_τ) while the smaller lobe
-gains by ι_τ, approaching the ratio set by ι_τ.
+(say χ⁺) grows by factor (1−ι<sub>τ</sub>) while the smaller lobe
+gains by ι<sub>τ</sub>, approaching the ratio set by ι<sub>τ</sub>.
 
 - contraction_factor_is_kappa_D : Bool
-Contraction factor = 1−ι_τ.
+Contraction factor = 1−ι<sub>τ</sub>.
 
 - contraction_strict : Bool
 Contraction factor < 1.
 
 - fixed_point_is_1_minus_2iota : Bool
-Fixed point = 1−2ι_τ.
+Fixed point = 1−2ι<sub>τ</sub>.
 
 - banach_applies : Bool
 Banach fixed-point theorem applies.
@@ -611,7 +611,7 @@ Banach fixed-point theorem applies.
 Fixed point is unique.
 
 - lobe_ratio_converges : Bool
-Physical: lobe ratio → ι_τ/(1−ι_τ).
+Physical: lobe ratio → ι<sub>τ</sub>/(1−ι<sub>τ</sub>).
 
 Instances For
 
@@ -659,7 +659,7 @@ Instances For
 Tau.BookV.Cosmology.polarity_contraction_strict :polarity_contraction.contraction_strict = true ∧ polarity_contraction.contraction_factor_is_kappa_D = true**
 
 
-Polarity evolution is a contraction: κ_D = 1−ι_τ < 1.
+Polarity evolution is a contraction: κ_D = 1−ι<sub>τ</sub> < 1.
 
 ---
 
@@ -670,7 +670,7 @@ Polarity evolution is a contraction: κ_D = 1−ι_τ < 1.
 Tau.BookV.Cosmology.polarity_fixed_point_unique :polarity_contraction.fixed_point_unique = true ∧ polarity_contraction.banach_applies = true ∧ polarity_contraction.fixed_point_is_1_minus_2iota = true**
 
 
-Fixed point 1−2ι_τ is unique by Banach theorem.
+Fixed point 1−2ι<sub>τ</sub> is unique by Banach theorem.
 
 ---
 

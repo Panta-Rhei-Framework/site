@@ -40,7 +40,7 @@ The gravitational constant G
 is not a fitted parameter:
 it is a coherence conversion invariant
 derived from the torus vacuum shape ratio
-r/R = ι_τ.
+r/R = ι<sub>τ</sub>.
 The τ-Einstein equation is not a partial
 differential equation on a background manifold:
 it is a boundary-character identity
@@ -53,7 +53,7 @@ Ten chapters trace the complete gravitational arc:
 **Chapter 11** (*Frame Holonomy Sector*)
 earns gravity as the canonical gap
 in the D-sector of H_∂[ω],
-derives G = (c³/ℏ) ι_τ²,
+derives G = (c³/ℏ) ι<sub>τ</sub>²,
 and establishes the σ-equivariance of κ_τ.
 
 **Chapter 12** (*Lorentz Without Minkowski*)
@@ -80,7 +80,7 @@ calibration, and the gravitational closing identity
 When Part II is complete,
 gravitational dynamics has been *earned*—not
 postulated—from the base τ¹
-and the master constant ι_τ.
+and the master constant ι<sub>τ</sub>.
 
 ## Chapters
 

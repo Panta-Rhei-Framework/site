@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.Calibration.CalibrationAnchor
 lean_name: Tau.BookIV.Calibration.tau_collapse
 summary: '5→1 collapse: of 5 relational quantities (M,L,H,Q,R), exactly 1 is anchor
-  (M=m_n), 3 are ι_τ-derived (R,L,H), 1 is SI-exact (Q=e). Lean-verified list filter
+  (M=m_n), 3 are ι<sub>τ</sub>-derived (R,L,H), 1 is SI-exact (Q=e). Lean-verified list filter
   counts.'
 depends_on:
 - IV.D30

@@ -65,7 +65,7 @@ one positive eigenvalue in the radial direction (the Higgs mass squared)
 and three zero eigenvalues in the angular directions (Goldstone modes
 eaten by W± and Z).
 
-The τ-Higgs mass M_H ≈ 125.1 GeV is determined by ι_τ and the
+The τ-Higgs mass M_H ≈ 125.1 GeV is determined by ι<sub>τ</sub> and the
 neutron mass anchor through the coherence functional curvature.
 There is NO hierarchy problem because the Higgs is NOT a fundamental
 scalar — it is a collective excitation of the ω-sector coherence.
@@ -166,7 +166,7 @@ eigenvalue of the coherence Hessian.
 M_H ≈ 125100 MeV (125.1 GeV).
 Experimental: 125100 ± 140 MeV (ATLAS+CMS combined, 2024).
 
-In the τ-framework, M_H is a DERIVED quantity from ι_τ and m_n,
+In the τ-framework, M_H is a DERIVED quantity from ι<sub>τ</sub> and m_n,
 not a free parameter.
 
 - mass_MeV : ℕ
@@ -248,7 +248,7 @@ to the ω-sector VEV, determining the fermion's mass via
 m_f = y_f · v_EW / √2.
 
 In the τ-framework, Yukawa couplings are NOT free parameters —
-they are determined by the sector hierarchy and ι_τ.
+they are determined by the sector hierarchy and ι<sub>τ</sub>.
 
 - fermion : String
 Fermion label.
@@ -419,7 +419,7 @@ Tau.BookIV.Electroweak.HessianConvergence :Type**
 [IV.L07] The positive eigenvalue of the Hessian converges as the
 tower level n → ∞. The limit is the physical Higgs mass squared.
 
-At each finite level n, the eigenvalue is a rational function of ι_τ.
+At each finite level n, the eigenvalue is a rational function of ι<sub>τ</sub>.
 The convergence is exponentially fast in n, so level-1 already
 gives a good approximation.
 
@@ -658,7 +658,7 @@ Instances For
 Tau.BookIV.Electroweak.DecayBranching :Type**
 
 
-[IV.P77] Higgs decay branching ratios are determined by ι_τ
+[IV.P77] Higgs decay branching ratios are determined by ι<sub>τ</sub>
 through the Yukawa couplings and gauge couplings.
 
 Dominant channels (SM values for comparison):
@@ -677,7 +677,7 @@ Dominant channels (SM values for comparison):
 - H → ZZ*: ≈ 3%
 
 
-The τ-framework predicts these from ι_τ and sector couplings
+The τ-framework predicts these from ι<sub>τ</sub> and sector couplings
 with no free parameters.
 
 - channel : String
@@ -822,7 +822,7 @@ arise in the τ-framework because:
 
 - The Higgs is emergent, not fundamental → no UV sensitivity.
 
-- M_Planck is NOT a fundamental scale — it is derived from ι_τ.
+- M_Planck is NOT a fundamental scale — it is derived from ι<sub>τ</sub>.
 
 - The ratio M_H/M_Planck ≈ 10⁻¹⁷ is a CONSEQUENCE of the
 sector coupling hierarchy, not a fine-tuning accident.
@@ -843,7 +843,7 @@ Tau.BookIV.Electroweak.remark_deviation_signatures :String**
 [IV.R36] The τ-framework predicts small deviations from SM
 Higgs properties at the percent level, arising from:
 
-- Tree-level coupling shifts from ι_τ corrections.
+- Tree-level coupling shifts from ι<sub>τ</sub> corrections.
 
 - Modified loop structure (no BSM particles in loops).
 
@@ -956,7 +956,7 @@ Tau.BookIV.Electroweak.higgs_mass_nlo_formula_n5 :String**
 
 
 [IV.D348] The Higgs NLO mass formula using n=5 = W₃(4) window correction.
-m_H/m_n = (4 − ι_τ³/(1 − 5κ_ω))/κ_ω ≈ 133.372, deviation +493 ppm from PDG.
+m_H/m_n = (4 − ι<sub>τ</sub>³/(1 − 5κ_ω))/κ_ω ≈ 133.372, deviation +493 ppm from PDG.
 Structural motivation: W₃(4)=5 is the Window Universality modulus (IV.T140)
 governing all three EW NLO corrections.
 Equations
@@ -973,7 +973,7 @@ Tau.BookIV.Electroweak.higgs_mass_nlo_formula_n6 :String**
 
 
 [IV.R399] Bonus formula with n=6 coefficient (68 ppm, structural meaning open).
-(4 − ι_τ³/(1 − 6κ_ω))/κ_ω = 133.315 vs PDG 133.306 → +68 ppm.
+(4 − ι<sub>τ</sub>³/(1 − 6κ_ω))/κ_ω = 133.315 vs PDG 133.306 → +68 ppm.
 Coefficient 6 not yet identified structurally.
 Equations
 - Tau.BookIV.Electroweak.higgs_mass_nlo_formula_n6 = "m_H/m_n = (4 - iota_tau^3 / (1 - 6*kappa_omega)) / kappa_omega = 133.315 [+68 ppm, conjectural]"
@@ -1006,7 +1006,7 @@ Tau.BookIV.Electroweak.remark_omega_self_energy_open :String**
 
 
 [IV.R399] Open remark: structural identification of coefficient 6 in the
-bonus formula (4 − ι_τ³/(1−6κ_ω))/κ_ω = 133.315 at +68 ppm.
+bonus formula (4 − ι<sub>τ</sub>³/(1−6κ_ω))/κ_ω = 133.315 at +68 ppm.
 Equations
 - Tau.BookIV.Electroweak.remark_omega_self_energy_open = "Open: coefficient 6 in n=6 formula (+68 ppm) — possible: 6=W_3(4)+1, 6=2*b1(tau^3), or higher CF-window value"
 Instances For
@@ -1020,11 +1020,11 @@ Instances For
 Tau.BookIV.Electroweak.higgs_n6_cf_sum :True**
 
 
-The coefficient n=6 in the improved Higgs formula (4−ι_τ³/(1−6κ_ω))/κ_ω × m_n
+The coefficient n=6 in the improved Higgs formula (4−ι<sub>τ</sub>³/(1−6κ_ω))/κ_ω × m_n
 ≈ 125.26 GeV (+68 ppm from PDG 125.25 GeV). Structural candidates:
 (A) n=6 = |generators|+1 = 5+1; (B) n=6 = 2×|sectors| = 2×3 = 6;
 (C) n=6 = 2·b₁(τ³) = 2×3 = 6.
-CF-sum candidate REJECTED: CF(ι_τ⁻¹) = [2;1,13,3,...] → sum of 5 = 20 ≠ 6.
+CF-sum candidate REJECTED: CF(ι<sub>τ</sub>⁻¹) = [2;1,13,3,...] → sum of 5 = 20 ≠ 6.
 Sprint 4C discovery: with PDG 125.20 GeV, n=7 gives +8.0 ppm.
 
 ---
@@ -1036,7 +1036,7 @@ Sprint 4C discovery: with PDG 125.20 GeV, n=7 gives +8.0 ppm.
 Tau.BookIV.Electroweak.higgs_n6_formula :String**
 
 Equations
-- Tau.BookIV.Electroweak.higgs_n6_formula = "m_H = (4 - ι_τ³/(1 - 6κ_ω))/κ_ω × m_n ≈ 125.26 GeV (+68 ppm, PDG 125.25; n=7 gives +8 ppm with PDG 125.20)"
+- Tau.BookIV.Electroweak.higgs_n6_formula = "m_H = (4 - ι<sub>τ</sub>³/(1 - 6κ_ω))/κ_ω × m_n ≈ 125.26 GeV (+68 ppm, PDG 125.25; n=7 gives +8 ppm with PDG 125.20)"
 Instances For
 
 ---
@@ -1048,7 +1048,7 @@ Instances For
 Tau.BookIV.Electroweak.iota_inv_cf_expansion :List ℕ**
 
 
-CF expansion of ι_τ⁻¹ for structural checks: [2;1,13,3,1,1,1,42,...].
+CF expansion of ι<sub>τ</sub>⁻¹ for structural checks: [2;1,13,3,1,1,1,42,...].
 Sum of first 5 partial quotients = 2+1+13+3+1 = 20 (NOT 6).
 Equations
 - Tau.BookIV.Electroweak.iota_inv_cf_expansion = [2, 1, 13, 3, 1, 1, 1, 42, 1, 2]
@@ -1076,7 +1076,7 @@ n=7 = 2×|lobes| + |force sectors| = 2×2+3 = 7 (best structural ID).
 Lemniscate L=S¹∨S¹ has 2 lobes × 2 polarities + 3 non-ω sectors {A,B,C}.
 Alternative: n=7 = b₁(τ³)+b₂(τ³)+1 = 3+3+1. CF analysis: n=7 NOT a CF convergent.
 Equations
-- Tau.BookIV.Electroweak.higgs_n7_formula = "m_H = (4 - ι_τ³/(1-7κ_ω))/κ_ω × m_n ≈ 125.20 GeV (+8.0 ppm, PDG 125.20 GeV, tau-effective). " ++ "n=7 = 2×lobes+sectors = 2×2+3 (best structural ID)."
+- Tau.BookIV.Electroweak.higgs_n7_formula = "m_H = (4 - ι<sub>τ</sub>³/(1-7κ_ω))/κ_ω × m_n ≈ 125.20 GeV (+8.0 ppm, PDG 125.20 GeV, tau-effective). " ++ "n=7 = 2×lobes+sectors = 2×2+3 (best structural ID)."
 Instances For
 
 ---
@@ -1088,7 +1088,7 @@ Instances For
 Tau.BookIV.Electroweak.HiggsN7 :Type**
 
 
-(4 - ι_τ³/(1-7κ_ω))/κ_ω × m_n = 125.2010 GeV at +8.0 ppm from PDG 125.20 GeV.
+(4 - ι<sub>τ</sub>³/(1-7κ_ω))/κ_ω × m_n = 125.2010 GeV at +8.0 ppm from PDG 125.20 GeV.
 n-scan: n=5: +892 ppm, n=6: +466 ppm, n=7: +8.0 ppm ***, n=8: -486 ppm.
 n=7 = 2×lobes + sectors = 2×2+3 (structural decomposition).
 
@@ -1160,8 +1160,8 @@ Tau.BookIV.Electroweak.higgs_n7_tau_effective :higgs_n7_data.n_value = 7 ∧ hig
 Tau.BookIV.Electroweak.muon_mass_nnlo_open :String**
 
 
-m_μ/m_e = ι_τ^(-124/25) at +307.1 ppm (IV.T156, tau-effective).
-Correction ×(1-ι_τ^7.67) gives +44.5 ppm but k=7.67 has no structural ID.
+m_μ/m_e = ι<sub>τ</sub>^(-124/25) at +307.1 ppm (IV.T156, tau-effective).
+Correction ×(1-ι<sub>τ</sub>^7.67) gives +44.5 ppm but k=7.67 has no structural ID.
 Sub-100 ppm NNLO derivation remains open.
 Equations
 - Tau.BookIV.Electroweak.muon_mass_nnlo_open = "m_μ/m_e NNLO: iota^(-124/25) at +307 ppm. Correction x(1-iota^7.67) gives +44.5 ppm. " ++ "k=7.67 structural ID open. Sub-100 ppm target: OPEN."

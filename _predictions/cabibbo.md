@@ -8,10 +8,10 @@ prediction_id: "pred-011"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 observable: "Cabibbo λ"
-observable_mathml: "<math><mi>ι_τ(1 - ι_τ)</mi></math>"
-formula_plain: "ι_τ(1 - ι_τ)"
-formula_mathml: "<math><mi>ι_τ(1 - ι_τ)</mi></math>"
-formula_display: "λ_C = ι_τ · (1 − ι_τ) = ι_τ · κ_D ≈ 0.2248"
+observable_mathml: "<math><mi>ι<sub>τ</sub>(1 - ι<sub>τ</sub>)</mi></math>"
+formula_plain: "ι<sub>τ</sub>(1 - ι<sub>τ</sub>)"
+formula_mathml: "<math><mi>ι<sub>τ</sub>(1 - ι<sub>τ</sub>)</mi></math>"
+formula_display: "λ_C = ι<sub>τ</sub> · (1 − ι<sub>τ</sub>) = ι<sub>τ</sub> · κ_D ≈ 0.2248"
 tau_value: "0.2248"
 observed_value: "0.2253"
 deviation: "-2327~ppm"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**λ_C = ι_τ · (1 − ι_τ) = ι_τ · κ_D ≈ 0.2248**
+**λ_C = ι<sub>τ</sub> · (1 − ι<sub>τ</sub>) = ι<sub>τ</sub> · κ_D ≈ 0.2248**
 
 ## Derivation
 
@@ -51,11 +51,11 @@ $λ_C = θ_C = |V_us|$
 satisfies:
 
 λ_C
-\;=\; ι_τ · (1 - ι_τ)
-\;=\; ι_τ · κ_D
+\;=\; ι<sub>τ</sub> · (1 - ι<sub>τ</sub>)
+\;=\; ι<sub>τ</sub> · κ_D
 \;≈\; 0.22495,
 
-where $κ_D = 1 - ι_τ$
+where $κ_D = 1 - ι<sub>τ</sub>$
 is the D-sector coupling.
 The PDG 2024 value is
 $λ = 0.22500 ± 0.00067$,
@@ -64,7 +64,7 @@ giving a deviation of $-2\,327$ ppm
 
 The formula has a transparent structural meaning:
 $λ_C$ is the product of the two basic couplings —
-the A-sector coupling $ι_τ$
+the A-sector coupling $ι<sub>τ</sub>$
 and the D-sector coupling $κ_D$.
 The Cabibbo rotation
 is the cross-coupling between the sectors

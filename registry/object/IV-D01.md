@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.Sectors.SectorParameters
 lean_name: Tau.BookIV.Sectors.SectorPhysics
 summary: 'Four defining parameters for each sector at E₁: self-coupling κ(S;d) as
-  rational function of ι_τ, polarity signature (χ₊-dom/balanced/χ₋-dom/crossing),
+  rational function of ι<sub>τ</sub>, polarity signature (χ₊-dom/balanced/χ₋-dom/crossing),
   primorial depth d ∈ {1,2,3}, and kernel generator. Also defines PolaritySign inductive
   type.'
 depends_on:

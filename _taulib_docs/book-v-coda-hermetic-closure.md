@@ -56,7 +56,7 @@ distinction.
 
 
 H_∂[ω] = H_∂^base[α,π] ⊗*{cross} H*∂^fiber[γ,η,ω] is exact.
-ι_τ appears identically in both factors.
+ι<sub>τ</sub> appears identically in both factors.
 
 ### Physics as Self-Description [V.T160]
 
@@ -116,7 +116,7 @@ Tau.BookV.Coda.HermeticIdentity :Type**
 [V.T159] The Hermetic Identity:
 H_∂[ω] = H_∂^base[α,π] ⊗*{cross} H*∂^fiber[γ,η,ω]
 
-ι_τ appears identically in both factors. The crossing sector ω
+ι<sub>τ</sub> appears identically in both factors. The crossing sector ω
 mediates between base and fiber. The identity is exact: no
 information is lost in the tensor decomposition.
 
@@ -133,7 +133,7 @@ Fiber generators (γ, η, ω).
 Three fiber generators.
 
 - iota_in_both : Bool
-ι_τ appears in both factors.
+ι<sub>τ</sub> appears in both factors.
 
 - decomp_exact : Bool
 Tensor decomposition is exact.
@@ -187,7 +187,7 @@ Instances For
 Tau.BookV.Coda.hermetic_identity_thm :hermetic_identity.base_gens + hermetic_identity.fiber_gens = 5 ∧ hermetic_identity.iota_in_both = true ∧ hermetic_identity.decomp_exact = true**
 
 
-Hermetic Identity: 2 base + 3 fiber, ι_τ in both, exact.
+Hermetic Identity: 2 base + 3 fiber, ι<sub>τ</sub> in both, exact.
 
 ---
 
@@ -301,7 +301,7 @@ Physics is self-describing: Yoneda restriction, all observables boundary.
 Tau.BookV.Coda.HermeticClosureThm :Type**
 
 
-[V.T161] The Hermetic Closure: the 5-sector structure from ι_τ
+[V.T161] The Hermetic Closure: the 5-sector structure from ι<sub>τ</sub>
 produces necessary conditions for observers.
 
 From 5 sectors → periodic table, nuclei, chemistry, planets, mass.
@@ -573,9 +573,9 @@ No continuous variation is possible.
 
 - K0-K6 → unique boundary algebra on L
 
-- Unique boundary → unique ι_τ = 2/(π+e)
+- Unique boundary → unique ι<sub>τ</sub> = 2/(π+e)
 
-- Unique ι_τ → unique coupling budget
+- Unique ι<sub>τ</sub> → unique coupling budget
 
 - No free parameters → no continuous deformation
 
@@ -596,7 +596,7 @@ All constants derived.
 No continuous variation.
 
 - n_derived_constants : ℕ
-Number of derived constants (all from ι_τ).
+Number of derived constants (all from ι<sub>τ</sub>).
 
 - n_free : ℕ
 Number of free parameters.

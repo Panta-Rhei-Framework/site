@@ -35,7 +35,7 @@ A perennial challenge in origin-of-life research is the 'abiogenesis paradox': t
 VI.T45 resolves this paradox through a timescale bound. The key definitions (VI.D74–D77):
 - Complexity budget C(n) = N – |D_n|: the number of available self-assembly steps minus the number of defects at step n.
 - Distinction threshold T = 8: the minimum complexity required to satisfy all five τ-Distinction conditions.
-- Half-life n_{1/2}: the number of steps for the defect budget to halve (from the geometric decay rate (1–ι_τ)^n of defect absorption, V part 3).
+- Half-life n_{1/2}: the number of steps for the defect budget to halve (from the geometric decay rate (1–ι<sub>τ</sub>)^n of defect absorption, V part 3).
 
 VI.L15 and VI.L16 prove that C(n) is monotone (non-decreasing) and the attractor basin is absorbing: once C(n) > T, the system cannot leave the basin without an external perturbation. VI.T44 proves the basin is entered under finite defect budget.
 

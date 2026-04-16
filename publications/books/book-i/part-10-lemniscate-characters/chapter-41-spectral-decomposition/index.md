@@ -51,7 +51,7 @@ The decomposition x = χ_+(x) · e_+ + χ_-(x) · e_-
 is canonical —
 it requires no choice of basis, no approximation,
 and no topology.
-The master constant ι_τ = 2/(π + e)
+The master constant ι<sub>τ</sub> = 2/(π + e)
 governs the relative spectral weight of the two sectors,
 and the profinite topology on ℤ_τ
 provides the convergence framework

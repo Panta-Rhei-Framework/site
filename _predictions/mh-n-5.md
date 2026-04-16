@@ -8,10 +8,10 @@ prediction_id: "pred-025"
 domain: "electroweak-qcd"
 domain_display: "Electroweak & QCD"
 observable: "mH (n=5)"
-observable_mathml: "<math><mi>(4 - ι_τ³/(1-5κ_ω))/κ_ω</mi></math>"
-formula_plain: "(4 - ι_τ³/(1-5κ_ω))/κ_ω"
-formula_mathml: "<math><mi>(4 - ι_τ³/(1-5κ_ω))/κ_ω</mi></math>"
-formula_display: "m_H = (4 − ι_τ³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV"
+observable_mathml: "<math><mi>(4 - ι<sub>τ</sub>³/(1-5κ_ω))/κ_ω</mi></math>"
+formula_plain: "(4 - ι<sub>τ</sub>³/(1-5κ_ω))/κ_ω"
+formula_mathml: "<math><mi>(4 - ι<sub>τ</sub>³/(1-5κ_ω))/κ_ω</mi></math>"
+formula_display: "m_H = (4 − ι<sub>τ</sub>³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV"
 tau_value: "125.26"
 observed_value: "125.20"
 deviation: "+493~ppm"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**m_H = (4 − ι_τ³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV**
+**m_H = (4 − ι<sub>τ</sub>³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV**
 
 ## Derivation
 
@@ -52,10 +52,10 @@ the third Waring number at four terms.
 The formula
 
 m_H^(n=5)
-= 4 - ι_τ^3 / (1 - 5κ_ω)κ_ω
+= 4 - ι<sub>τ</sub>^3 / (1 - 5κ_ω)κ_ω
 · (scale factor),
 
-where $κ_ω = ι_τ / (1 + ι_τ)$,
+where $κ_ω = ι<sub>τ</sub> / (1 + ι<sub>τ</sub>)$,
 gave $m_H ≈ 125.26$ GeV
 at $+493$ ppm.
 The $n = 7$ result
@@ -68,7 +68,7 @@ not from a Waring function).
 The shift from $n = 5$ to $n = 7$
 illustrates the research programme's self-correction.
 Wave 3 identified the correct structural form
-(a rational function of $ι_τ$
+(a rational function of $ι<sub>τ</sub>$
 and sector couplings)
 but assigned $n = W_3(4) = 5$.
 Wave 5 recognized that $n = 7$

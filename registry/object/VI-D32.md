@@ -14,7 +14,7 @@ formalization: planned
 lean_module: null
 lean_name: null
 summary: 'Two-state energy cycle: hydrolysis releases ~30.5 kJ/mol, phosphorylation
-  stores it; ι_τ² calibration within 4% of observed ratio.'
+  stores it; ι<sub>τ</sub>² calibration within 4% of observed ratio.'
 depends_on: []
 depended_by:
 - VI.T19

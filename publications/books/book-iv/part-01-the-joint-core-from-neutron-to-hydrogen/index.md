@@ -40,7 +40,7 @@ and let β-decay produce the proton, the electron,
 and the antineutrino.
 All five sectors are displayed in concert,
 the fine-structure constant is derived
-(α = (121/225) ι_τ⁴ at 9.8 ppm),
+(α = (121/225) ι<sub>τ</sub>⁴ at 9.8 ppm),
 the neutron mass anchors calibration,
 and hydrogen closes the sequence
 as the first composite atom.

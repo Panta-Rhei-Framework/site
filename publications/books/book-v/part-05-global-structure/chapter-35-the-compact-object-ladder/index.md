@@ -74,7 +74,7 @@ and the result is a **black hole**
 Each rung of the ladder
 is a readout of the competition
 between the D-sector gravitational coupling
-κ(D;1) = 1 - ι_τ
+κ(D;1) = 1 - ι<sub>τ</sub>
 and the fiber-sector pressure
 encoded in the defect functional
 of Book IV.

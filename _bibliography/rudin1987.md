@@ -36,7 +36,7 @@ cited_in:
     part: "Part 0"
     chapter_file: "ch03-roadmap-inverted-dependency"
     chapter_title: "Roadmap and Inverted Dependency"
-    excerpt: "cylinder compat.) , continuity & topology & (Part III: unique topology making NF continuous) , topology & geometry & (Part IV: ultrametric ⇒ Tarski axioms) , geometry & transcendentals & (Part V: π, e, j, ι_τ from earned geometry) , In orthodox analysis the arrows run in the opposite direction: transcendentals (ℝ assumed) ⇒ geometry (ℝ^n) ⇒ topology (open sets) ⇒ continuity (-δ) ⇒ holomorphy (Cauchy–Riemann )"
+    excerpt: "cylinder compat.) , continuity & topology & (Part III: unique topology making NF continuous) , topology & geometry & (Part IV: ultrametric ⇒ Tarski axioms) , geometry & transcendentals & (Part V: π, e, j, ι<sub>τ</sub> from earned geometry) , In orthodox analysis the arrows run in the opposite direction: transcendentals (ℝ assumed) ⇒ geometry (ℝ^n) ⇒ topology (open sets) ⇒ continuity (-δ) ⇒ holomorphy (Cauchy–Riemann )"
   - book: "II"
     book_title: "Categorical Holomorphy"
     part: "Part 6"

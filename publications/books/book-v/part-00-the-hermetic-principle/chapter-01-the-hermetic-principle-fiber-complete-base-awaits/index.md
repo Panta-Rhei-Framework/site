@@ -52,7 +52,7 @@ must deliver time, gravitational dynamics,
 thermodynamic inversion, black hole structure,
 cosmological architecture, and the closing identity
 that links the gravitational constant
-to the master constant ι_τ.
+to the master constant ι<sub>τ</sub>.
 The Hermetic Principle states that the union
 fiber + base is *exact*:
 τ³ exhausts all physics at enrichment layer E₁,

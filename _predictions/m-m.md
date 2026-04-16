@@ -8,10 +8,10 @@ prediction_id: "pred-003"
 domain: "particle-physics"
 domain_display: "Particle Physics"
 observable: "m_μ / mₑ"
-observable_mathml: "<math><mi>ι_τ⁻⁴.⁹⁶</mi></math>"
-formula_plain: "ι_τ⁻⁴.⁹⁶"
-formula_mathml: "<math><mi>ι_τ⁻⁴.⁹⁶</mi></math>"
-formula_display: "mμ / mₑ = ι_τ⁻⁴·⁹⁶ ≈ 206.1"
+observable_mathml: "<math><mi>ι<sub>τ</sub>⁻⁴.⁹⁶</mi></math>"
+formula_plain: "ι<sub>τ</sub>⁻⁴.⁹⁶"
+formula_mathml: "<math><mi>ι<sub>τ</sub>⁻⁴.⁹⁶</mi></math>"
+formula_display: "mμ / mₑ = ι<sub>τ</sub>⁻⁴·⁹⁶ ≈ 206.1"
 tau_value: "≈!206.1"
 observed_value: "206.768"
 deviation: "+307~ppm"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**mμ / mₑ = ι_τ⁻⁴·⁹⁶ ≈ 206.1**
+**mμ / mₑ = ι<sub>τ</sub>⁻⁴·⁹⁶ ≈ 206.1**
 
 ## Derivation
 

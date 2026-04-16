@@ -100,7 +100,7 @@ coarse-grain thermal READOUT but mass cannot decrease.
 - **Bekenstein area-law entropy**: Emerges as readout, not implication
 of mass loss.
 
-- **Chandrasekhar limit** = first major radius where ι_τ shape ratio
+- **Chandrasekhar limit** = first major radius where ι<sub>τ</sub> shape ratio
 can be refinement-invariantly realized = minimal maturity scale.
 
 
@@ -489,7 +489,7 @@ Tau.BookV.Gravity.ChandrasekharLimit :Type**
 
 [V.R02] The Chandrasekhar limit reinterpreted in the τ-framework.
 
-M_Chandrasekhar = first major radius where the ι_τ shape ratio
+M_Chandrasekhar = first major radius where the ι<sub>τ</sub> shape ratio
 can be refinement-invariantly realized = **minimal maturity scale**.
 
 This is NOT a PDE equilibrium (TOV solution) but a threshold

@@ -48,6 +48,6 @@ irrationality selects for a single proportion. As a kernel shadow,
 fixed point of the recursion x ↦ 1 + 1/x, and its
 continued-fraction expansion [1; 1, 1, 1, …] makes it the
 "most irrational" real number. The master constant
-ι_τ ≈ 0.3413 plays an analogous role within
+ι<sub>τ</sub> ≈ 0.3413 plays an analogous role within
 Category τ: it is τ's own aesthetic ratio, selected not
 by taste but by the axioms.

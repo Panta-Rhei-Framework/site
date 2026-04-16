@@ -34,11 +34,11 @@ right_rail:
 
 ## About This Volume (First Edition)
 
-Book I constructed Category τ from five generators (α, π, π', π'', ω) and four operators (ρ, σ, ×, ∧) governed by nine axioms. It established internal set theory, the Cayley graph, metric geometry, a canonical total order with decidability, the Tarski program, topos structure, internal arithmetic, the master invariant ι_τ = 2/(π + e), topological foundations, and a foundational research program.
+Book I constructed Category τ from five generators (α, π, π', π'', ω) and four operators (ρ, σ, ×, ∧) governed by nine axioms. It established internal set theory, the Cayley graph, metric geometry, a canonical total order with decidability, the Tarski program, topos structure, internal arithmetic, the master invariant ι<sub>τ</sub> = 2/(π + e), topological foundations, and a foundational research program.
 
 ## What Changed in the Second Edition
 
-The Second Edition substantially rewrites this volume. The nine-axiom formulation is replaced by the Coherence Kernel — seven axioms (K0–K6), five generators in strict total order (α, π, γ, η, ω), and one operator (ρ). The master constant is corrected to ι_τ = 0.341304238875. The full Lean 4 formalization (87% registry coverage for Book I) provides machine-checked verification of the foundational results.
+The Second Edition substantially rewrites this volume. The nine-axiom formulation is replaced by the Coherence Kernel — seven axioms (K0–K6), five generators in strict total order (α, π, γ, η, ω), and one operator (ρ). The master constant is corrected to ι<sub>τ</sub> = 0.341304238875. The full Lean 4 formalization (87% registry coverage for Book I) provides machine-checked verification of the foundational results.
 
 ## Archival Note
 

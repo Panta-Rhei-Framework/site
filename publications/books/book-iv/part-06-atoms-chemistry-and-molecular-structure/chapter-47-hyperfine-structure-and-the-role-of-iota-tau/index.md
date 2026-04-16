@@ -1,6 +1,6 @@
 ---
 layout: publication-chapter
-title: "Chapter 47: Hyperfine Structure and the Role of ι_τ"
+title: "Chapter 47: Hyperfine Structure and the Role of ι<sub>τ</sub>"
 permalink: /publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-47-hyperfine-structure-and-the-role-of-iota-tau/
 lane: publications
 publication_type: chapter
@@ -47,5 +47,5 @@ hyperfine splitting. The resulting 21 cm radio line maps the
 large-scale structure of the universe. This chapter derives the
 splitting, surveys its observational significance, and clarifies
 where the master constant
-ι_τ = 2/(π + e) ≈ 0.341304 enters the physics
+ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304 enters the physics
 and—equally important—where it does not.

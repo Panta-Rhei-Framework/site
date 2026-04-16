@@ -34,7 +34,7 @@ Parts VI–VII proved that the primes carry a canonical
 bipolar polarity (B-dominant vs. C-dominant),
 and Parts IX–X developed the split-complex scalars,
 the spectral decomposition,
-and the master constant ι_τ
+and the master constant ι<sub>τ</sub>
 that governs the B/C asymmetry.
 
 This Part harvests a {logic} from polarity.

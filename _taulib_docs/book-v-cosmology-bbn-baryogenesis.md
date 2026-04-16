@@ -480,13 +480,13 @@ Tau.BookV.Cosmology.BaryogenesisSAIMechanism :Type**
 
 
 [V.D238] SA-i mod-W₃(4) baryogenesis mechanism.
-η_B = α·ι_τ^15·(5/6): ι_τ^15=(ι_τ³)^W₃(4) from SA-i mod-5.
+η_B = α·ι<sub>τ</sub>^15·(5/6): ι<sub>τ</sub>^15=(ι<sub>τ</sub>³)^W₃(4) from SA-i mod-5.
 (5/6)=W₃(4)/(2·sectors)=5/6.
 
 
-- Geometric sum: S₅ = Σ_{k=0}^{4} ι_τ^{3k} = (1−ι_τ¹⁵)/(1−ι_τ³)
+- Geometric sum: S₅ = Σ_{k=0}^{4} ι<sub>τ</sub>^{3k} = (1−ι<sub>τ</sub>¹⁵)/(1−ι<sub>τ</sub>³)
 
-- Each generator contributes ι_τ^{dim(τ³)} = ι_τ³
+- Each generator contributes ι<sub>τ</sub>^{dim(τ³)} = ι<sub>τ</sub>³
 
 - Parallel: SA-i mod-3 → θ_QCD=0 (IV.T160); SA-i mod-5 → baryogenesis
 
@@ -590,7 +590,7 @@ Tau.BookV.Cosmology.BaryogenesisFirstPrinciples :Type**
 
 
 [V.P130] Baryogenesis first principles: SA-i mod-W₃(4) yields
-η_B = α·ι_τ¹⁵·(5/6) at −10320 ppm (within 1σ Planck ±9502 ppm).
+η_B = α·ι<sub>τ</sub>¹⁵·(5/6) at −10320 ppm (within 1σ Planck ±9502 ppm).
 
 Structure:
 
@@ -701,19 +701,19 @@ Tau.BookV.Cosmology.GeneratorOrbitSuppression :Type**
 
 
 [V.P130 upgrade] SA-i mod-5 generator orbit: the 5-generator orbit
-of σ-involution on H_∂[ω] produces exactly ι_τ¹⁵ suppression.
+of σ-involution on H_∂[ω] produces exactly ι<sub>τ</sub>¹⁵ suppression.
 
 Proof structure:
 
 - Each generator g_k ∈ {α,π,γ,η,ω} contributes one holonomy factor
-ι_τ^{dim(τ³)} = ι_τ³ from the 3-dimensional τ³
+ι<sub>τ</sub>^{dim(τ³)} = ι<sub>τ</sub>³ from the 3-dimensional τ³
 
 - The generators act cyclically (ℤ/5ℤ) on the boundary character
 
 - The full orbit traverses all 5 generators: total suppression
-ι_τ^{3×5} = ι_τ¹⁵
+ι<sub>τ</sub>^{3×5} = ι<sub>τ</sub>¹⁵
 
-- Geometric series S₅ = Σ_{k=0}^{4} ι_τ^{3k} = (1−ι_τ¹⁵)/(1−ι_τ³)
+- Geometric series S₅ = Σ_{k=0}^{4} ι<sub>τ</sub>^{3k} = (1−ι<sub>τ</sub>¹⁵)/(1−ι<sub>τ</sub>³)
 
 - Parallel: SA-i mod-3 (3 colors) → θ_QCD=0; SA-i mod-5 → η_B
 
@@ -725,7 +725,7 @@ Number of generators in the orbit.
 Dimension of τ³.
 
 - per_generator_power : ℕ
-Each generator contributes ι_τ^{dim(τ³)}.
+Each generator contributes ι<sub>τ</sub>^{dim(τ³)}.
 
 - total_exponent : ℕ
 Total suppression exponent.
@@ -782,7 +782,7 @@ Instances For
 Tau.BookV.Cosmology.generator_orbit_produces_15 :generator_orbit_suppression.total_exponent = 15 ∧ generator_orbit_suppression.n_generators = 5 ∧ generator_orbit_suppression.tau3_dim = 3 ∧ generator_orbit_suppression.cyclic_orbit = true**
 
 
-Generator orbit produces exactly ι_τ¹⁵: 5 × 3 = 15.
+Generator orbit produces exactly ι<sub>τ</sub>¹⁵: 5 × 3 = 15.
 
 ---
 
@@ -805,8 +805,8 @@ Tau.BookV.Cosmology.sai_mod_hierarchy :3 * 3 = 9 ∧ 3 * 5 = 15**
 
 
 SA-i mod-N hierarchy: same mechanism, different modulus.
-mod-3: 3 colors → ι_τ⁹ → θ_QCD = 0 (exact, IV.T160)
-mod-5: 5 generators → ι_τ¹⁵ → η_B (τ-effective)
+mod-3: 3 colors → ι<sub>τ</sub>⁹ → θ_QCD = 0 (exact, IV.T160)
+mod-5: 5 generators → ι<sub>τ</sub>¹⁵ → η_B (τ-effective)
 
 ---
 
@@ -934,29 +934,29 @@ Tau.BookV.Cosmology.CPAsymmetryFromPolarity :Type**
 
 CP asymmetry from A-sector (π-generator) polarity structure.
 
-The A-sector polarity matrix [[1, ι_τ],[ι_τ, 1]] gives
-B-violation asymmetry ε = ι_τ per generator cycle.
+The A-sector polarity matrix [[1, ι<sub>τ</sub>],[ι<sub>τ</sub>, 1]] gives
+B-violation asymmetry ε = ι<sub>τ</sub> per generator cycle.
 
 Over the full 5-generator orbit × dim(τ³):
-ε_total ∝ ι_τ¹⁵ (matching SA-i mod-5 suppression)
+ε_total ∝ ι<sub>τ</sub>¹⁵ (matching SA-i mod-5 suppression)
 
-ε_CP = κ(A;1) = ι_τ: the A-sector self-coupling is
+ε_CP = κ(A;1) = ι<sub>τ</sub>: the A-sector self-coupling is
 the CP asymmetry scale.
 
 This connects baryogenesis CP violation to the same A-sector
 polarity that drives PMNS mixing angles (Campaign A).
 
 - cp_scale_is_iota : Bool
-CP asymmetry scale = ι_τ = κ(A;1).
+CP asymmetry scale = ι<sub>τ</sub> = κ(A;1).
 
 - polarity_matrix_form : Bool
-A-sector polarity matrix [[1,ι_τ],[ι_τ,1]].
+A-sector polarity matrix [[1,ι<sub>τ</sub>],[ι<sub>τ</sub>,1]].
 
 - per_generator_asymmetry : Bool
-Per-generator asymmetry = ι_τ.
+Per-generator asymmetry = ι<sub>τ</sub>.
 
 - total_matches_sai_mod5 : Bool
-Total = ι_τ¹⁵ from 5-gen × dim 3.
+Total = ι<sub>τ</sub>¹⁵ from 5-gen × dim 3.
 
 - connects_to_pmns : Bool
 Connects to PMNS (Campaign A).
@@ -1007,4 +1007,4 @@ Instances For
 Tau.BookV.Cosmology.cp_asymmetry_structural :cp_asymmetry_polarity.cp_scale_is_iota = true ∧ cp_asymmetry_polarity.total_matches_sai_mod5 = true ∧ cp_asymmetry_polarity.connects_to_pmns = true**
 
 
-CP asymmetry structural: ε_CP = ι_τ, total = ι_τ¹⁵.
+CP asymmetry structural: ε_CP = ι<sub>τ</sub>, total = ι<sub>τ</sub>¹⁵.

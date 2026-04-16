@@ -161,7 +161,7 @@ Tau.BookIV.Arena.CouplingLedger :Type**
 
 
 [IV.D265] The complete coupling ledger: 5 self + 10 cross = 15 entries.
-All determined by ι_τ alone (No Knobs, III.T08).
+All determined by ι<sub>τ</sub> alone (No Knobs, III.T08).
 
 - self_entries : List CouplingEntry
 Self-coupling entries (5).
@@ -341,4 +341,4 @@ Tau.BookIV.Arena.generator_adequacy :holonomy_generators.length = 5 ∧ (List.ma
 
 [IV.T101] Generator Adequacy: the 5 generators span the full
 coupling ledger. Every coupling in the ledger is expressible
-as a function of sector couplings, which are functions of ι_τ.
+as a function of sector couplings, which are functions of ι<sub>τ</sub>.

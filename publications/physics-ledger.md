@@ -4,7 +4,7 @@ title: "The Physics Ledger"
 permalink: /publications/physics-ledger/
 lane: publications
 section: "Publications · Companion"
-summary_short: "67 zero-parameter predictions, 30 falsification tests, 7 seams — the complete numerical scorecard derived from ι_τ = 2/(π+e). Free PDF download."
+summary_short: "67 zero-parameter predictions, 30 falsification tests, 7 seams — the complete numerical scorecard derived from ι<sub>τ</sub> = 2/(π+e). Free PDF download."
 right_rail:
   related:
   - title: Predictions Browse
@@ -33,7 +33,7 @@ right_rail:
   </a>
 </div>
 
-The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **67 quantitative predictions** derived from the single master constant ι_τ = 2/(π+e), with **zero free parameters**. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), it is published here as a free companion document for self-contained access.
+The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **67 quantitative predictions** derived from the single master constant ι<sub>τ</sub> = 2/(π+e), with **zero free parameters**. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), it is published here as a free companion document for self-contained access.
 
 The predictions are **bridge-independent**: they can be compared directly to experimental measurement without accepting the program's deeper ontological claims. The number either agrees with experiment or it doesn't.
 
@@ -77,7 +77,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
   <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 8px;">Chapter 4</span>
   <h3 style="font-size: 0.95rem; margin: 0 0 6px;">Inflation, the CMB, and BBN</h3>
-  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">r = ι_τ⁴ ≈ 0.0136, spectral index, acoustic peaks, primordial light elements</p>
+  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">r = ι<sub>τ</sub>⁴ ≈ 0.0136, spectral index, acoustic peaks, primordial light elements</p>
 </div>
 
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
@@ -89,7 +89,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
   <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 8px;">Chapter 6</span>
   <h3 style="font-size: 0.95rem; margin: 0 0 6px;">Black Hole Topology</h3>
-  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">T² horizons, QNM ratio ι_τ⁻¹ ≈ 2.929, EHT shadow +2.91%, GW echoes</p>
+  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">T² horizons, QNM ratio ι<sub>τ</sub>⁻¹ ≈ 2.929, EHT shadow +2.91%, GW echoes</p>
 </div>
 
 <div class="content-card" style="padding: 18px 20px; margin: 0;">

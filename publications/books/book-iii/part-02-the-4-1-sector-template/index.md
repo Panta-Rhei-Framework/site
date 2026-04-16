@@ -41,7 +41,7 @@ the template instantiates as electromagnetism, weak, strong, gravity, plus Higgs
 the derivation of physical content is strictly deferred to Books IV and V.
 The **Parity Bridge Theorem** identifies the weak sector as the canonical carrier
 for the computational bootstrap (bridge to Book VI), and the **No Knobs Principle** establishes
-that all sector couplings are determined by ι_τ, not free parameters.
+that all sector couplings are determined by ι<sub>τ</sub>, not free parameters.
 
 ## Chapters
 

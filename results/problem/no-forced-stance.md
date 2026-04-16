@@ -35,7 +35,7 @@ Book VII, Chapter 126 proves the **No Forced Stance theorem**: the Boundary Coll
 
 The proof works by showing symmetry: neither inhabitation nor non-inhabitation is diagrammatically demonstrable. Since the diagrammatic register cannot deliver the answer, it cannot force a commitment-register stance. Neither theism nor atheism nor agnosticism is structurally mandated.
 
-The distinction is between **shape** (Reg_D content — what the framework proves) and **stance** (Reg_C content — what one commits to). The framework delivers the landscape — the 4+1 sectors, the enrichment ladder, the convergence of ι_τ toward ω — but the landscape's shape is categorically different from one's stance toward it.
+The distinction is between **shape** (Reg_D content — what the framework proves) and **stance** (Reg_C content — what one commits to). The framework delivers the landscape — the 4+1 sectors, the enrichment ladder, the convergence of ι<sub>τ</sub> toward ω — but the landscape's shape is categorically different from one's stance toward it.
 
 ## Result Statement
 

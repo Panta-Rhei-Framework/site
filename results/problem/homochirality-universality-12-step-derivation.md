@@ -27,7 +27,7 @@ right_rail:
 
 ## Overview
 
-VI.T43 proves homochirality universality: all persistence-sector carriers (i.e., all life) inherit the same chirality from the unique polarity path through the weak sector. The 12-step derivation chain runs from K0–K6 through the τ-generators → ι_τ → weak sector (A-sector, π-generator) → Parity Bridge (VI.T01) → chirality seed → enantiomeric excess amplification (VI.T42) → homochirality universality. The result was upgraded from conjectural to τ-effective in Wave R7-A as open problem VI.OP9 was solved.
+VI.T43 proves homochirality universality: all persistence-sector carriers (i.e., all life) inherit the same chirality from the unique polarity path through the weak sector. The 12-step derivation chain runs from K0–K6 through the τ-generators → ι<sub>τ</sub> → weak sector (A-sector, π-generator) → Parity Bridge (VI.T01) → chirality seed → enantiomeric excess amplification (VI.T42) → homochirality universality. The result was upgraded from conjectural to τ-effective in Wave R7-A as open problem VI.OP9 was solved.
 
 ## Detail
 

@@ -915,15 +915,15 @@ Generated: 2026-03-10
 | V.R372 | remark | Sprint 4 Findings and OQ-C3 Status | tau-e | form |
 | V.T167 | theorem | Effective Majorana Mass <m_bb> from sigma-matrix | conje | form |
 | V.D234 | definition | T² QNM Mode Structure | estab | form |
-| V.T168 | theorem | QNM Fundamental Frequency Ratio = ι_τ⁻¹ | tau-e | form |
-| V.T169 | theorem | GW Echo Times t± = 4GM·ι_τ^{±1}/c³ | tau-e | form |
+| V.T168 | theorem | QNM Fundamental Frequency Ratio = ι<sub>τ</sub>⁻¹ | tau-e | form |
+| V.T169 | theorem | GW Echo Times t± = 4GM·ι<sub>τ</sub>^{±1}/c³ | tau-e | form |
 | V.P124 | proposition | T² Shadow Radius vs EHT | tau-e | form |
-| V.P125 | proposition | T² Entropy = π·ι_τ × S² Entropy | tau-e | form |
-| V.R373 | remark | LIGO Echo Window: Δt = 4GM(1-ι_τ²)/(c³·ι_τ) | tau-e | form |
+| V.P125 | proposition | T² Entropy = π·ι<sub>τ</sub> × S² Entropy | tau-e | form |
+| V.R373 | remark | LIGO Echo Window: Δt = 4GM(1-ι<sub>τ</sub>²)/(c³·ι<sub>τ</sub>) | tau-e | form |
 | V.R374 | remark | No-Hawking from τ-vacuum: SA-i Forbids Bogoliubov Modes | tau-e | form |
 | V.T170 | theorem | Baryogenesis Exponent 15 = dim(τ³) × |generators| | tau-e | form |
 | V.T171 | theorem | (5/6) Threshold Factor Shared with Y_p = 20/81 | tau-e | form |
-| V.T172 | theorem | Primary Baryogenesis Formula: η_B = α·ι_τ¹⁵·(5/6) | tau-e | form |
+| V.T172 | theorem | Primary Baryogenesis Formula: η_B = α·ι<sub>τ</sub>¹⁵·(5/6) | tau-e | form |
 | V.P126 | proposition | Sakharov CP Source: A-Sector Balanced Polarity via Parity Bridge | tau-e | form |
 | V.R375 | remark | Leptogenesis Pathway: Majorana Neutrinos Enable L→B Conversion | conje | form |
 | V.D235 | definition | Neutrino Exponent Derivation: Torus Winding Strategy | conje | form |
@@ -941,24 +941,24 @@ Generated: 2026-03-10
 | V.T178 | theorem | Structural Derivation: Δpq/Δpr = 4/3 from Lemniscate Counting | tau-e | form |
 | V.P129 | proposition | Neutrino Span=2=|lobes|; Ratio=4/3 from n=7 Decomposition | conje | form |
 | V.R378 | remark | OQ-C3 Status after Sprint 6A: 4/3 Hypothesis | conje | skel |
-| V.D238 | definition | SA-i mod-W₃(4) Baryogenesis Mechanism: ι_τ¹⁵ = (ι_τ³)^W₃(4) | tau-e | form |
-| V.T179 | theorem | ι_τ¹⁵ from Generator Orbit: 15 = dim(τ³) × |generators| | tau-e | form |
+| V.D238 | definition | SA-i mod-W₃(4) Baryogenesis Mechanism: ι<sub>τ</sub>¹⁵ = (ι<sub>τ</sub>³)^W₃(4) | tau-e | form |
+| V.T179 | theorem | ι<sub>τ</sub>¹⁵ from Generator Orbit: 15 = dim(τ³) × |generators| | tau-e | form |
 | V.T180 | theorem | (5/6) Uniquely Forced from Threshold Topology | tau-e | form |
 | V.P130 | proposition | Baryogenesis First Principles: Generator Orbit + Threshold Uniqueness | tau-e | form |
 | V.R379 | remark | V.OP2 Status after Sprint 6C: SA-i mod-5 Mechanism Proposed | tau-e | skel |
 | V.D244 | definition | Sector-Collapse Signature at the BH Threshold | tau-e | skel |
 | V.P132 | proposition | Truncation-Pipeline Coherence | tau-e | skel |
 | V.R381 | remark | QA Harmonization Status (Sprint 7H) | frame | not_ |
-| V.D241 | definition | T² Quadrupole Shadow Correction Factor: f = 1 + ι_τ²/4 | tau-e | form |
-| V.D242 | definition | T² QNM Eigenvalue Structure: ω_{n,m} = √(n²+m²ι_τ⁻²)/(2πr_s) | tau-e | form |
+| V.D241 | definition | T² Quadrupole Shadow Correction Factor: f = 1 + ι<sub>τ</sub>²/4 | tau-e | form |
+| V.D242 | definition | T² QNM Eigenvalue Structure: ω_{n,m} = √(n²+m²ι<sub>τ</sub>⁻²)/(2πr_s) | tau-e | form |
 | V.D243 | definition | T² GW Echo Time Formulas with Frequency Bands | tau-e | form |
-| V.T184 | theorem | EHT Shadow T² Correction: f = 1 + ι_τ²/4 at 2.91% over GR | tau-e | form |
-| V.T185 | theorem | QNM Frequency Ratio = ι_τ⁻¹ ≈ 2.930 as Clean S²/T² Discriminator | tau-e | form |
+| V.T184 | theorem | EHT Shadow T² Correction: f = 1 + ι<sub>τ</sub>²/4 at 2.91% over GR | tau-e | form |
+| V.T185 | theorem | QNM Frequency Ratio = ι<sub>τ</sub>⁻¹ ≈ 2.930 as Clean S²/T² Discriminator | tau-e | form |
 | V.P131 | proposition | Three Falsifiable BH T² Predictions with Fiber Structure Derivation | tau-e | form |
 | V.R380 | remark | V.OP5 Status: SOLVED via Sprint 7E Observational Suite | tau-e | form |
 | V.D245 | definition | SA-i mod-5 Formal Proof: Geometric Series Mechanism | tau-e | skel |
 | V.T187 | theorem | Sakharov Conditions from τ³ σ-Involution | tau-e | form |
-| V.T188 | theorem | η_B Formal Derivation: α·ι_τ¹⁵·(5/6) at −10320 ppm | tau-e | form |
+| V.T188 | theorem | η_B Formal Derivation: α·ι<sub>τ</sub>¹⁵·(5/6) at −10320 ppm | tau-e | form |
 | V.P133 | proposition | Baryogenesis Threshold Placement: n_EW < n_B < n_N | tau-e | skel |
 | V.R382 | remark | V.OP2 Status: SOLVED (τ-effective) via Sprint 7D SA-i mod-5 Proof | tau-e | skel |
 | V.D246 | definition | Self-Similar NNLO Correction: δ₁=3/175, δ₂=9/700 | tau-e | skel |
@@ -970,20 +970,20 @@ Generated: 2026-03-10
 | V.T190 | theorem | Baryon Density from Master Constant | tau-e | form |
 | V.T191 | theorem | Sound Horizon from τ-Native Inputs | tau-e | form |
 | V.T192 | theorem | First Peak from Holonomy Matter Fraction | tau-e | form |
-| V.P135 | proposition | Structural Acoustic Scale ι_τ⁻⁵ Cross-Check | conje | form |
-| V.P136 | proposition | CMB Tensor-to-Scalar Ratio r = ι_τ⁴ | tau-e | form |
+| V.P135 | proposition | Structural Acoustic Scale ι<sub>τ</sub>⁻⁵ Cross-Check | conje | form |
+| V.P136 | proposition | CMB Tensor-to-Scalar Ratio r = ι<sub>τ</sub>⁴ | tau-e | form |
 | V.R384 | remark | V.OP3 Status: PARTIAL-IMPROVED after Sprint 8A | conje | not_ |
 | V.D249 | definition | Neutrino Free-Streaming Scale from σ-Polarity Masses | tau-e | skel |
 | V.D250 | definition | CνB Temperature Chain | estab | skel |
 | V.T193 | theorem | Holonomy Matter NLO Correction Scan | conje | form |
 | V.T194 | theorem | Neutrino Phase Shift on CMB Peaks | tau-e | form |
-| V.T195 | theorem | Two-Horizon Consistency from ι_τ | tau-e | form |
+| V.T195 | theorem | Two-Horizon Consistency from ι<sub>τ</sub> | tau-e | form |
 | V.P137 | proposition | Free-Streaming Suppression from τ-Native Masses | tau-e | form |
 | V.P138 | proposition | CMB-S4/PTOLEMY/DESI Falsification Suite | tau-e | form |
 | V.R385 | remark | V.OP3 Status After Sprint 8B | conje | not_ |
-| V.D251 | definition | Structural Hubble Parameter h = 2/3 + ι_τ²/W₃(3) | tau-e | skel |
+| V.D251 | definition | Structural Hubble Parameter h = 2/3 + ι<sub>τ</sub>²/W₃(3) | tau-e | skel |
 | V.D252 | definition | DE-Closure Matter Density ω_m from Ω_Λ and h | conje | skel |
-| V.D253 | definition | Scalar Amplitude NLO: A_s = α_τ·ι_τ¹⁴·(1−ι_τ³/3) | tau-e | skel |
+| V.D253 | definition | Scalar Amplitude NLO: A_s = α_τ·ι<sub>τ</sub>¹⁴·(1−ι<sub>τ</sub>³/3) | tau-e | skel |
 | V.T196 | theorem | Hubble Parameter from τ: h at −120 ppm | tau-e | form |
 | V.T197 | theorem | Full CMB Pipeline with Structural h | tau-e | form |
 | V.T198 | theorem | Scalar Amplitude NLO: Inflationary Consistency | tau-e | form |
@@ -999,7 +999,7 @@ Generated: 2026-03-10
 | V.P141 | proposition | B-Mode Detection Forecast: CMB-S4 at 14 sigma | tau-e | form |
 | V.T200 | theorem | Holonomy Ratio Acceleration Theorem | tau-e | form |
 | V.D257 | definition | Bare vs Dressed Acceleration Scales | tau-e | form |
-| V.R389 | remark | √ι_τ Bridge for BTFR Normalization | tau-e | form |
+| V.R389 | remark | √ι<sub>τ</sub> Bridge for BTFR Normalization | tau-e | form |
 | V.D258 | definition | 20-Galaxy Benchmark Table | tau-e | form |
 | V.R390 | remark | Multi-Galaxy Statistical Summary | tau-e | form |
 | V.T201 | theorem | Capacity Equation Numerical Solution | conje | form |
@@ -1187,13 +1187,13 @@ Generated: 2026-03-10
 | V.R441 | remark | Two-Thirds Law | tau-e | — |
 | V.R442 | remark | 5=|gen|+dim(T²) Interpretation | tau-e | — |
 | V.D311 | definition | Fast Reconnection Rate | tau-e | form |
-| V.T252 | theorem | v_rec = ι_τ² v_A | tau-e | form |
+| V.T252 | theorem | v_rec = ι<sub>τ</sub>² v_A | tau-e | form |
 | V.P172 | proposition | Solar Flare Consistency | tau-e | form |
 | V.R443 | remark | Sweet-Parker vs τ-Rate | tau-e | — |
 | V.R444 | remark | B-Sector Topological Transition | tau-e | — |
 | V.D312 | definition | Alfvén Damping Rate | tau-e | form |
 | V.D313 | definition | Coronal Heating Flux | tau-e | form |
-| V.T253 | theorem | τ-Alfvén Damping = ι_τ² ω | tau-e | form |
+| V.T253 | theorem | τ-Alfvén Damping = ι<sub>τ</sub>² ω | tau-e | form |
 | V.P173 | proposition | Coronal Flux Consistency | tau-e | form |
 | V.R445 | remark | Parker Solar Probe Testability | tau-e | — |
 | V.D314 | definition | Decompactification Bound | conje | form |

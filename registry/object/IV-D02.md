@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Sectors.SectorParameters
 lean_name: Tau.BookIV.Sectors.em_sector
-summary: 'B-sector instantiation: γ-generator, self-coupling κ(B;2) = ι_τ², χ₊-dominant
+summary: 'B-sector instantiation: γ-generator, self-coupling κ(B;2) = ι<sub>τ</sub>², χ₊-dominant
   polarity, depth 2. Physical: photon transport, Maxwell equations, fine structure
   constant.'
 depends_on:

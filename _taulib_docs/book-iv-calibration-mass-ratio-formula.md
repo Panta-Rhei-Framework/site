@@ -26,7 +26,7 @@ right_rail:
 # TauLib.BookIV.Calibration.MassRatioFormula
 
 
-The mass ratio R = m_n/m_e derivation from ι_τ = 2/(π+e).
+The mass ratio R = m_n/m_e derivation from ι<sub>τ</sub> = 2/(π+e).
 
 ## Registry Cross-References
 
@@ -52,19 +52,19 @@ The mass ratio R = m_n/m_e derivation from ι_τ = 2/(π+e).
 ### The Mass Ratio Formula
 
 
-R = m_n/m_e is derived from the spectral geometry of T² with shape ι_τ.
+R = m_n/m_e is derived from the spectral geometry of T² with shape ι<sub>τ</sub>.
 The derivation proceeds through 10 links, each tau-effective:
 
-**Level 0** (7.7 ppm with exact ι_τ):
-R₀ = ι_τ^(-7) − √3·ι_τ^(-2)
+**Level 0** (7.7 ppm with exact ι<sub>τ</sub>):
+R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2)
 
-**Level 1+** (0.025 ppm with exact ι_τ):
-R₁ = ι_τ^(-7) − (√3 + π³α²)·ι_τ^(-2)
+**Level 1+** (0.025 ppm with exact ι<sub>τ</sub>):
+R₁ = ι<sub>τ</sub>^(-7) − (√3 + π³α²)·ι<sub>τ</sub>^(-2)
 
 where:
 
 
-- ι_τ^(-7): bulk breathing mode count from Epstein zeta Z(4; iι_τ)
+- ι<sub>τ</sub>^(-7): bulk breathing mode count from Epstein zeta Z(4; iι<sub>τ</sub>)
 (exponent = 1 − 2×4 = −7, from Chowla-Selberg leading term)
 
 - √3: lemniscate spectral distance |1−ω| where ω = e^{2πi/3}
@@ -79,7 +79,7 @@ where:
 
 
 The Lean formalization uses the 6-digit rational approximation
-ι_τ ≈ 341304/1000000. At this precision:
+ι<sub>τ</sub> ≈ 341304/1000000. At this precision:
 
 
 - Bulk ≈ 1847.5 (vs exact 1853.6)
@@ -88,7 +88,7 @@ The Lean formalization uses the 6-digit rational approximation
 
 
 The high-precision results (7.7 ppm, 0.025 ppm) require the exact
-ι_τ = 2/(π+e). The Lean proofs verify:
+ι<sub>τ</sub> = 2/(π+e). The Lean proofs verify:
 
 - The formula STRUCTURE (right terms, signs, exponents)
 
@@ -114,7 +114,7 @@ Book I Axiom K5
 
 
 2
-Hodge Laplacian on T² with shape ι_τ
+Hodge Laplacian on T² with shape ι<sub>τ</sub>
 Spectral geometry
 
 
@@ -129,7 +129,7 @@ Torus eigenvalues
 
 
 5
-Epstein zeta Z(s; iι_τ) at s=4
+Epstein zeta Z(s; iι<sub>τ</sub>) at s=4
 Lattice sum
 
 
@@ -138,7 +138,7 @@ Lattice sum
 
 
 7
-R₀ = ι_τ^(-7) − √3·ι_τ^(-2)
+R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2)
 Level 0 assembly
 
 
@@ -148,7 +148,7 @@ Triple U(1)
 
 
 9
-R₁ = ι_τ^(-7) − (√3+π³α²)·ι_τ^(-2)
+R₁ = ι<sub>τ</sub>^(-7) − (√3+π³α²)·ι<sub>τ</sub>^(-2)
 Level 1+
 
 
@@ -181,7 +181,7 @@ All claims: **tau-effective**. The R formula has zero conjectural ingredients.
 Tau.BookIV.Calibration.bulk_numer :ℕ**
 
 
-[IV.D46] ι_τ^(-7) numerator: (10⁶)⁷ = 10⁴².
+[IV.D46] ι<sub>τ</sub>^(-7) numerator: (10⁶)⁷ = 10⁴².
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -195,7 +195,7 @@ Instances For
 Tau.BookIV.Calibration.bulk_denom :ℕ**
 
 
-ι_τ^(-7) denominator: (341304)⁷.
+ι<sub>τ</sub>^(-7) denominator: (341304)⁷.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -234,7 +234,7 @@ Instances For
 Tau.BookIV.Calibration.bulk_gt_1853 :bulk_numer > 1853 * bulk_denom**
 
 
-ι_τ^(-7) > 1853 (lower bound with 6-digit approximation).
+ι<sub>τ</sub>^(-7) > 1853 (lower bound with 6-digit approximation).
 
 ---
 
@@ -245,7 +245,7 @@ Tau.BookIV.Calibration.bulk_gt_1853 :bulk_numer > 1853 * bulk_denom**
 Tau.BookIV.Calibration.bulk_lt_1855 :bulk_numer < 1855 * bulk_denom**
 
 
-ι_τ^(-7) < 1855 (upper bound with 6-digit approximation).
+ι<sub>τ</sub>^(-7) < 1855 (upper bound with 6-digit approximation).
 
 ---
 
@@ -256,7 +256,7 @@ Tau.BookIV.Calibration.bulk_lt_1855 :bulk_numer < 1855 * bulk_denom**
 Tau.BookIV.Calibration.bulk_in_range :bulk_numer > 1853 * bulk_denom ∧ bulk_numer < 1855 * bulk_denom**
 
 
-Combined: ι_τ^(-7) ∈ (1853, 1855).
+Combined: ι<sub>τ</sub>^(-7) ∈ (1853, 1855).
 
 ---
 
@@ -267,7 +267,7 @@ Combined: ι_τ^(-7) ∈ (1853, 1855).
 Tau.BookIV.Calibration.iota_neg2_numer :ℕ**
 
 
-ι_τ^(-2) numerator: (10⁶)² = 10¹².
+ι<sub>τ</sub>^(-2) numerator: (10⁶)² = 10¹².
 Equations
 - Tau.BookIV.Calibration.iota_neg2_numer = Tau.BookIV.Sectors.iotaD * Tau.BookIV.Sectors.iotaD
 Instances For
@@ -281,7 +281,7 @@ Instances For
 Tau.BookIV.Calibration.iota_neg2_denom :ℕ**
 
 
-ι_τ^(-2) denominator: (341304)².
+ι<sub>τ</sub>^(-2) denominator: (341304)².
 Equations
 - Tau.BookIV.Calibration.iota_neg2_denom = Tau.BookIV.Sectors.iota * Tau.BookIV.Sectors.iota
 Instances For
@@ -295,7 +295,7 @@ Instances For
 Tau.BookIV.Calibration.iota_neg2_gt_8 :iota_neg2_numer > 8 * iota_neg2_denom**
 
 
-ι_τ^(-2) > 8 (since 1/0.341304 ≈ 2.929 and 2.929² ≈ 8.58).
+ι<sub>τ</sub>^(-2) > 8 (since 1/0.341304 ≈ 2.929 and 2.929² ≈ 8.58).
 
 ---
 
@@ -306,7 +306,7 @@ Tau.BookIV.Calibration.iota_neg2_gt_8 :iota_neg2_numer > 8 * iota_neg2_denom**
 Tau.BookIV.Calibration.iota_neg2_lt_9 :iota_neg2_numer < 9 * iota_neg2_denom**
 
 
-ι_τ^(-2) < 9.
+ι<sub>τ</sub>^(-2) < 9.
 
 ---
 
@@ -317,7 +317,7 @@ Tau.BookIV.Calibration.iota_neg2_lt_9 :iota_neg2_numer < 9 * iota_neg2_denom**
 Tau.BookIV.Calibration.correction0_numer :ℕ**
 
 
-Level 0 correction numerator: √3_numer × ι_τ^(-2)_numer.
+Level 0 correction numerator: √3_numer × ι<sub>τ</sub>^(-2)_numer.
 Equations
 - Tau.BookIV.Calibration.correction0_numer = Tau.BookIV.Calibration.sqrt3N✝ * Tau.BookIV.Calibration.iota_neg2_numer
 Instances For
@@ -331,7 +331,7 @@ Instances For
 Tau.BookIV.Calibration.correction0_denom :ℕ**
 
 
-Level 0 correction denominator: √3_denom × ι_τ^(-2)_denom.
+Level 0 correction denominator: √3_denom × ι<sub>τ</sub>^(-2)_denom.
 Equations
 - Tau.BookIV.Calibration.correction0_denom = Tau.BookIV.Calibration.sqrt3D✝ * Tau.BookIV.Calibration.iota_neg2_denom
 Instances For
@@ -356,7 +356,7 @@ Correction denominator is positive.
 Tau.BookIV.Calibration.correction0_gt_14 :correction0_numer > 14 * correction0_denom**
 
 
-√3·ι_τ^(-2) > 14 (since √3 × 8.58 ≈ 14.86).
+√3·ι<sub>τ</sub>^(-2) > 14 (since √3 × 8.58 ≈ 14.86).
 
 ---
 
@@ -367,7 +367,7 @@ Tau.BookIV.Calibration.correction0_gt_14 :correction0_numer > 14 * correction0_d
 Tau.BookIV.Calibration.correction0_lt_16 :correction0_numer < 16 * correction0_denom**
 
 
-√3·ι_τ^(-2) < 16.
+√3·ι<sub>τ</sub>^(-2) < 16.
 
 ---
 
@@ -378,9 +378,9 @@ Tau.BookIV.Calibration.correction0_lt_16 :correction0_numer < 16 * correction0_d
 Tau.BookIV.Calibration.bulk_overshoots_codata :bulk_numer * si_mass_ratio.denom > si_mass_ratio.numer * bulk_denom**
 
 
-[IV.T13] The bulk term ι_τ^(-7) overshoots R_CODATA.
+[IV.T13] The bulk term ι<sub>τ</sub>^(-7) overshoots R_CODATA.
 
-Even with the 6-digit approximation, ι_τ^(-7) ≈ 1847.5 > 1838.68 = R.
+Even with the 6-digit approximation, ι<sub>τ</sub>^(-7) ≈ 1847.5 > 1838.68 = R.
 This proves the correction term has the right SIGN (must be subtracted).
 
 ---
@@ -392,7 +392,7 @@ This proves the correction term has the right SIGN (must be subtracted).
 Tau.BookIV.Calibration.r0_gt_1837 :bulk_numer * correction0_denom > correction0_numer * bulk_denom + 1837 * bulk_denom * correction0_denom**
 
 
-[IV.T14] The Level 0 formula R₀ = ι_τ^(-7) − √3·ι_τ^(-2) is in range.
+[IV.T14] The Level 0 formula R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2) is in range.
 
 R₀ > 1837: the formula gives a value > 1837.
 Proof strategy: bulk > correction + 1837, which avoids Nat subtraction.
@@ -419,7 +419,7 @@ bulk_numer × correction0_denom < correction0_numer × bulk_denom + 1840 × bulk
 Tau.BookIV.Calibration.r0_in_range :bulk_numer * correction0_denom > correction0_numer * bulk_denom + 1837 * bulk_denom * correction0_denom ∧ bulk_numer * correction0_denom < correction0_numer * bulk_denom + 1840 * bulk_denom * correction0_denom**
 
 
-Combined: R₀ ∈ (1837, 1840) with the 6-digit ι_τ approximation.
+Combined: R₀ ∈ (1837, 1840) with the 6-digit ι<sub>τ</sub> approximation.
 
 ---
 
@@ -456,26 +456,26 @@ Tau.BookIV.Calibration.Level1PlusFormula :Type**
 
 [IV.D48] Level 1+ mass ratio formula structure.
 
-R₁ = ι_τ^(-7) − (√3 + π³α²)·ι_τ^(-2)
+R₁ = ι<sub>τ</sub>^(-7) − (√3 + π³α²)·ι<sub>τ</sub>^(-2)
 
-At exact ι_τ = 2/(π+e), this gives R₁ = 1838.683709(46),
+At exact ι<sub>τ</sub> = 2/(π+e), this gives R₁ = 1838.683709(46),
 matching CODATA R = 1838.68366173(89) to 0.025 ppm.
 
 The Level 1+ formula is recorded here as a STRUCTURE:
-the numerical evaluation requires the exact ι_τ (not the
+the numerical evaluation requires the exact ι<sub>τ</sub> (not the
 6-digit rational approximation).
 
 - bulk_exp : ℤ
-Bulk exponent: ι_τ^(-7).
+Bulk exponent: ι<sub>τ</sub>^(-7).
 
 - correction_coeff : String
 Correction coefficient: √3 + π³α².
 
 - correction_exp : ℤ
-Correction ι_τ power: ι_τ^(-2).
+Correction ι<sub>τ</sub> power: ι<sub>τ</sub>^(-2).
 
 - accuracy_ppm : String
-Accuracy at exact ι_τ (in ppm).
+Accuracy at exact ι<sub>τ</sub> (in ppm).
 
 - scope : String
 Scope.
@@ -528,17 +528,17 @@ Instances For
 Tau.BookIV.Calibration.perturbative_terms :List String**
 
 
-Perturbative hierarchy: π³α² << √3 << ι_τ^(-7).
+Perturbative hierarchy: π³α² << √3 << ι<sub>τ</sub>^(-7).
 
-Term magnitudes (at exact ι_τ):
-T0 = ι_τ^(-7) ≈ 1854
-T1 = √3·ι_τ^(-2) ≈ 14.9
-T2 = π³α²·ι_τ^(-2) ≈ 0.014
+Term magnitudes (at exact ι<sub>τ</sub>):
+T0 = ι<sub>τ</sub>^(-7) ≈ 1854
+T1 = √3·ι<sub>τ</sub>^(-2) ≈ 14.9
+T2 = π³α²·ι<sub>τ</sub>^(-2) ≈ 0.014
 T3 = residual ≈ 0.000046
 
 Ratio: T0/T1 ≈ 124, T1/T2 ≈ 1050, T2/T3 ≈ 300
 Equations
-- Tau.BookIV.Calibration.perturbative_terms = ["T0: ι_τ^(-7) ≈ 1854", "T1: √3·ι_τ^(-2) ≈ 14.9", "T2: π³α²·ι_τ^(-2) ≈ 0.014", "T3: residual ≈ 0.000046"]
+- Tau.BookIV.Calibration.perturbative_terms = ["T0: ι<sub>τ</sub>^(-7) ≈ 1854", "T1: √3·ι<sub>τ</sub>^(-2) ≈ 14.9", "T2: π³α²·ι<sub>τ</sub>^(-2) ≈ 0.014", "T3: residual ≈ 0.000046"]
 Instances For
 
 ---
@@ -729,10 +729,10 @@ Level name.
 The formula.
 
 - accuracy : String
-Accuracy (ppm) at exact ι_τ.
+Accuracy (ppm) at exact ι<sub>τ</sub>.
 
 - approx_accuracy : String
-Accuracy at 6-digit ι_τ.
+Accuracy at 6-digit ι<sub>τ</sub>.
 
 Instances For
 

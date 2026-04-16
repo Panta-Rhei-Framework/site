@@ -50,7 +50,7 @@ The co-rotor coupling distance κ_n on T² at the lemniscate crossing.
 ### The Co-Rotor Coupling Distance
 
 
-On T² with shape ratio r/R = ι_τ, two co-rotating loops (toroidal and
+On T² with shape ratio r/R = ι<sub>τ</sub>, two co-rotating loops (toroidal and
 poloidal circles) interact at the lemniscate crossing L = S¹ ∨ S¹.
 The spectral coupling distance combines:
 

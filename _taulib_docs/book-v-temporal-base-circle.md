@@ -80,11 +80,11 @@ time emerges as accumulated arc length of the tick sequence.
 
 
 Proper time t(n) is the accumulated arc length along the α-orbit up to
-depth n. Each tick contributes a decrement proportional to ι_τ^n (deeper
+depth n. Each tick contributes a decrement proportional to ι<sub>τ</sub>^n (deeper
 ticks are shorter), making the total finite:
 
 ```
-t_∞ = Σ_n ι_τ^n = ι_τ/(1 − ι_τ) < ∞
+t_∞ = Σ_n ι<sub>τ</sub>^n = ι<sub>τ</sub>/(1 − ι<sub>τ</sub>) < ∞
 ```
 
 
@@ -250,9 +250,9 @@ Tau.BookV.Temporal.ProperTimeSeries :Type**
 
 Each tick contributes a decrement proportional to the depth:
 the deeper the tick, the shorter the time increment. At the
-rational-approximation level, tick n contributes ι_τ^n.
+rational-approximation level, tick n contributes ι<sub>τ</sub>^n.
 
-The total proper time is finite: Σ ι_τ^n = ι_τ/(1−ι_τ) < ∞.
+The total proper time is finite: Σ ι<sub>τ</sub>^n = ι<sub>τ</sub>/(1−ι<sub>τ</sub>) < ∞.
 
 We store the accumulated time as a Nat pair (numer, denom).
 
@@ -501,10 +501,10 @@ Tau.BookV.Temporal.total_proper_time_bounded :BookIV.Sectors.iota < BookIV.Secto
 [V.T10] Total proper time t_∞ is finite.
 
 The proper time series is a geometric sum:
-t_∞ = Σ_{n≥1} ι_τ^n = ι_τ/(1−ι_τ) < ∞
+t_∞ = Σ_{n≥1} ι<sub>τ</sub>^n = ι<sub>τ</sub>/(1−ι<sub>τ</sub>) < ∞
 
-Since ι_τ ≈ 0.341304 < 1, the series converges.
-Limit = ι_τ/(1−ι_τ) ≈ 0.518441.
+Since ι<sub>τ</sub> ≈ 0.341304 < 1, the series converges.
+Limit = ι<sub>τ</sub>/(1−ι<sub>τ</sub>) ≈ 0.518441.
 
-We prove the bound: iota < iotaD (i.e. ι_τ < 1), which is
+We prove the bound: iota < iotaD (i.e. ι<sub>τ</sub> < 1), which is
 the convergence condition for the geometric series.

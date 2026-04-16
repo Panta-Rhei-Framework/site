@@ -17,7 +17,7 @@ diagrams:
   source: "Book IV, Chapter 3"
   label: "fig:bookIV-ch03-torus-arena"
 thesis: The neutron emerges as the minimal stable defect on T²; bi-rotation at speed
-  c with phase-lock ι_τ gives E = mc².
+  c with phase-lock ι<sub>τ</sub> gives E = mc².
 canonical_books:
 - IV
 source_parts:

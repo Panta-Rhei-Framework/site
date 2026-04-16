@@ -49,7 +49,7 @@ A mode pair (m₁, m₂) is jointly EM-active when both m₁ and m₂ are EM-act
 
 The EM-active count in the tensor square is 11² = 121 (since each factor
 contributes independently). The density 121/225 = (11/15)² is the coefficient
-in α = (121/225)·ι_τ⁴.
+in α = (121/225)·ι<sub>τ</sub>⁴.
 
 **Physical interpretation:** α is a coupling constant for emission-absorption.
 Each vertex (source, sink) contributes one factor of 11/15. The product

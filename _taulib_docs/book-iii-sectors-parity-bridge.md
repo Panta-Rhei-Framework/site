@@ -45,7 +45,7 @@ Parity Bridge Theorem, No Knobs Principle, and Coupling Ledger.
 sector whose balanced spectral polarity permits the E₁→E₂ transition.
 
 **III.T08 (No Knobs):** All inter-sector couplings are canonically determined
-by ι_τ = 2/(π+e). The framework has no free parameters.
+by ι<sub>τ</sub> = 2/(π+e). The framework has no free parameters.
 
 **III.D18 (Coupling Ledger):** The 10-entry inventory of all inter-sector
 couplings: 4 self-couplings + 6 cross-couplings.

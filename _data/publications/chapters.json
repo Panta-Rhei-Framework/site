@@ -435,7 +435,7 @@
     "part_number": 8,
     "part_slug": "part-08-the-spectral-ring",
     "chapter_number": 34,
-    "title": "The Master Constant ι_τ = 2/(π + e)",
+    "title": "The Master Constant ι<sub>τ</sub> = 2/(π + e)",
     "slug": "chapter-34-the-master-constant-iota-tau-2-pi-e",
     "url": "/publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/",
     "page_in_book": 135,
@@ -1180,7 +1180,7 @@
     "slug": "chapter-12-split-complex-structure-not-yet-load-bearing",
     "url": "/publications/books/book-ii/part-02-local-domains-cylinders-as-prefix-predicates/chapter-12-split-complex-structure-not-yet-load-bearing/",
     "page_in_book": 57,
-    "summary_short": "Book I earned the split-complex algebra H_τ, the bipolar idempotents e_± = (1 ± j)/2, the spectral characters χ_±, and the master constant ι_τ = 2/(π…"
+    "summary_short": "Book I earned the split-complex algebra H_τ, the bipolar idempotents e_± = (1 ± j)/2, the spectral characters χ_±, and the master constant ι<sub>τ</sub> = 2/(π…"
   },
   {
     "id": "book-ii-ch-13",
@@ -1397,11 +1397,11 @@
     "part_number": 5,
     "part_slug": "part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e",
     "chapter_number": 29,
-    "title": "ι_τ Confirmed — The Archimedean-Non-Archimedean Bridge",
+    "title": "ι<sub>τ</sub> Confirmed — The Archimedean-Non-Archimedean Bridge",
     "slug": "chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge",
     "url": "/publications/books/book-ii/part-05-earned-transcendentals-lines-circles-and-the-constants-pi-e/chapter-29-iota-tau-confirmed-the-archimedean-non-archimedean-bridge/",
     "page_in_book": 139,
-    "summary_short": "Book I introduced the master constant ι_τ = 2/(π + e) ≈ 0.341304 as a structural mediator between the B and C channels (I.D24, Book I). At that stage,…"
+    "summary_short": "Book I introduced the master constant ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304 as a structural mediator between the B and C channels (I.D24, Book I). At that stage,…"
   },
   {
     "id": "book-ii-ch-30",
@@ -2090,7 +2090,7 @@
     "slug": "chapter-14-the-primorial-ladder",
     "url": "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-14-the-primorial-ladder/",
     "page_in_book": 81,
-    "summary_short": "Part II closed with the No Knobs Principle (Chapter [ch:no-knobs-principle]), asserting that every sector coupling is a rational function of ι_τ evaluated at…"
+    "summary_short": "Part II closed with the No Knobs Principle (Chapter [ch:no-knobs-principle]), asserting that every sector coupling is a rational function of ι<sub>τ</sub> evaluated at…"
   },
   {
     "id": "book-iii-ch-15",
@@ -2220,7 +2220,7 @@
     "slug": "chapter-24-the-spectral-correspondence",
     "url": "/publications/books/book-iii/part-04-the-spectral-doors/chapter-24-the-spectral-correspondence/",
     "page_in_book": 135,
-    "summary_short": "We establish the Hilbert–Pólya realization of the Riemann Hypothesis within the τ-framework. The spectral parameter Λ(s) = ι_τ²(s(1-s) - ¼)…"
+    "summary_short": "We establish the Hilbert–Pólya realization of the Riemann Hypothesis within the τ-framework. The spectral parameter Λ(s) = ι<sub>τ</sub>²(s(1-s) - ¼)…"
   },
   {
     "id": "book-iii-ch-25",
@@ -3247,7 +3247,7 @@
     "slug": "chapter-27-the-weinberg-angle-and-cf-encodings",
     "url": "/publications/books/book-iv/part-03-the-electroweak-arc/chapter-27-the-weinberg-angle-and-cf-encodings/",
     "page_in_book": 141,
-    "summary_short": "Chapter [ch:iv-ew-mixing] derived the Weinberg angle from inter-sector coupling: sin²θ_W = ι_τ(1-ι_τ) ≈ 0.2249. This chapter develops the arithmetic of…"
+    "summary_short": "Chapter [ch:iv-ew-mixing] derived the Weinberg angle from inter-sector coupling: sin²θ_W = ι<sub>τ</sub>(1-ι<sub>τ</sub>) ≈ 0.2249. This chapter develops the arithmetic of…"
   },
   {
     "id": "book-iv-ch-28",
@@ -3503,7 +3503,7 @@
     "part_number": 6,
     "part_slug": "part-06-atoms-chemistry-and-molecular-structure",
     "chapter_number": 47,
-    "title": "Hyperfine Structure and the Role of ι_τ",
+    "title": "Hyperfine Structure and the Role of ι<sub>τ</sub>",
     "slug": "chapter-47-hyperfine-structure-and-the-role-of-iota-tau",
     "url": "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-47-hyperfine-structure-and-the-role-of-iota-tau/",
     "page_in_book": 277,
@@ -3767,7 +3767,7 @@
     "slug": "chapter-67-the-complete-coupling-ledger",
     "url": "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-67-the-complete-coupling-ledger/",
     "page_in_book": 361,
-    "summary_short": "Every inter-sector coupling in the microcosm is a rational function of a single constant: ι_τ = 2/(π + e) ≈ 0.341304. There are exactly four self-couplings…"
+    "summary_short": "Every inter-sector coupling in the microcosm is a rational function of a single constant: ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304. There are exactly four self-couplings…"
   },
   {
     "id": "book-iv-ch-68",
@@ -3806,7 +3806,7 @@
     "slug": "chapter-70-the-mass-ratio-r-and-the-10-link-chain",
     "url": "/publications/books/book-iv/part-08-the-constants-ledger-and-the-complexity-summit/chapter-70-the-mass-ratio-r-and-the-10-link-chain/",
     "page_in_book": 375,
-    "summary_short": "The neutron-to-electron mass ratio R = m_n / m_e ≈ 1838.684 is derived from ι_τ through a chain of exactly 10 links—each τ-effective, with zero…"
+    "summary_short": "The neutron-to-electron mass ratio R = m_n / m_e ≈ 1838.684 is derived from ι<sub>τ</sub> through a chain of exactly 10 links—each τ-effective, with zero…"
   },
   {
     "id": "book-iv-ch-71",
@@ -4079,7 +4079,7 @@
     "slug": "chapter-18-the-gravitational-closing-identity",
     "url": "/publications/books/book-v/part-02-the-connection-gravity-earned/chapter-18-the-gravitational-closing-identity/",
     "page_in_book": 123,
-    "summary_short": "Two independent routes lead from the axioms K0–K6 to the gravitational constant. Route 1 passes through the torus vacuum geometry: G = (c³/ℏ) ι_τ².…"
+    "summary_short": "Two independent routes lead from the axioms K0–K6 to the gravitational constant. Route 1 passes through the torus vacuum geometry: G = (c³/ℏ) ι<sub>τ</sub>².…"
   },
   {
     "id": "book-v-ch-19",
@@ -4573,7 +4573,7 @@
     "slug": "chapter-56-the-complete-constants-ledger-and-the-g-alpha-bridge",
     "url": "/publications/books/book-v/part-07-the-closure/chapter-56-the-complete-constants-ledger-and-the-g-alpha-bridge/",
     "page_in_book": 441,
-    "summary_short": "Two books, 180 chapters, and one master constant. This chapter assembles every physical constant derived from ι_τ = 2/(π + e) across Books IV and V into a…"
+    "summary_short": "Two books, 180 chapters, and one master constant. This chapter assembles every physical constant derived from ι<sub>τ</sub> = 2/(π + e) across Books IV and V into a…"
   },
   {
     "id": "book-v-ch-57",
@@ -4742,7 +4742,7 @@
     "slug": "chapter-11-the-seven-forces-and-the-tau-domain",
     "url": "/publications/books/book-vi/part-01-the-life-definition/chapter-11-the-seven-forces-and-the-tau-domain/",
     "page_in_book": 59,
-    "summary_short": "Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι_τ set biological…"
+    "summary_short": "Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι<sub>τ</sub> set biological…"
   },
   {
     "id": "book-vi-ch-12",
@@ -5236,7 +5236,7 @@
     "slug": "chapter-49-the-crossing-limit-theorem-and-the-omega-point",
     "url": "/publications/books/book-vi/part-07-cosmic-life/chapter-49-the-crossing-limit-theorem-and-the-omega-point/",
     "page_in_book": 293,
-    "summary_short": "The Crossing-Limit Theorem establishes that the merger-directed net of BH ω-codes converges to ι_τ: as black holes merge across cosmic time, their…"
+    "summary_short": "The Crossing-Limit Theorem establishes that the merger-directed net of BH ω-codes converges to ι<sub>τ</sub>: as black holes merge across cosmic time, their…"
   },
   {
     "id": "book-vi-ch-50",

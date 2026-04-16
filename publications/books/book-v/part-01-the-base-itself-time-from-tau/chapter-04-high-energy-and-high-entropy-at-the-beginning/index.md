@@ -61,7 +61,7 @@ applies at all depths,
 but in the opening regime
 its readout is extreme:
 boundary characters carry maximal energy,
-the coupling constant κ_τ = 1 - ι_τ
+the coupling constant κ_τ = 1 - ι<sub>τ</sub>
 is at full strength,
 and the resulting chart-level readout
 is what orthodox physics calls

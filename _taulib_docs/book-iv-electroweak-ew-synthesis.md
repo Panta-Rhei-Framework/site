@@ -35,9 +35,9 @@ iota_tau and m_n alone, zero free parameters.
 
 - [IV.D143] τ-Yukawa Coupling (Full Definition) — `YukawaCouplingFull`
 
-- [IV.T66] Nine EW Quantities from ι_τ and m_n — `nine_ew_quantities`
+- [IV.T66] Nine EW Quantities from ι<sub>τ</sub> and m_n — `nine_ew_quantities`
 
-- [IV.T67] Every EW Prediction Traces to ι_τ + K0-K6 — `ew_traces_to_axioms`
+- [IV.T67] Every EW Prediction Traces to ι<sub>τ</sub> + K0-K6 — `ew_traces_to_axioms`
 
 - [IV.T124] √3 Triad Theorem — `Sqrt3Triad`, `sqrt3_triad_count`
 
@@ -63,7 +63,7 @@ This module synthesizes the electroweak sector of Book IV. The key result
 (IV.T66) is that ALL nine electroweak quantities — three boson masses
 (W, Z, H), the VEV, the Weinberg angle, three Yukawa couplings
 (top, bottom, electron), and the fine structure constant — are determined
-by exactly two inputs: ι_τ = 2/(π+e) and the neutron mass anchor m_n.
+by exactly two inputs: ι<sub>τ</sub> = 2/(π+e) and the neutron mass anchor m_n.
 
 The SM requires 19 free parameters for the same predictions. The τ-framework
 achieves zero free parameters by deriving everything from the 7 axioms K0-K6.
@@ -99,14 +99,14 @@ determines it, and the generation index.
 The coupling is determined by the sector hierarchy:
 
 
-- 3rd gen (top): coupling ≈ 1 (O(ι_τ⁰))
+- 3rd gen (top): coupling ≈ 1 (O(ι<sub>τ</sub>⁰))
 
-- 2nd gen (charm, muon): coupling ≈ ι_τ² (O(ι_τ²))
+- 2nd gen (charm, muon): coupling ≈ ι<sub>τ</sub>² (O(ι<sub>τ</sub>²))
 
-- 1st gen (up, electron): coupling ≈ ι_τ⁴ (O(ι_τ⁴))
+- 1st gen (up, electron): coupling ≈ ι<sub>τ</sub>⁴ (O(ι<sub>τ</sub>⁴))
 
 
-Each step down in generation multiplies by ι_τ².
+Each step down in generation multiplies by ι<sub>τ</sub>².
 
 - flavor : String
 Fermion flavor label.
@@ -318,7 +318,7 @@ Instances For
 Tau.BookIV.Electroweak.ew_prediction_table :List EWSynthesisPrediction**
 
 
-[IV.T66] The nine EW quantities determined by ι_τ and m_n.
+[IV.T66] The nine EW quantities determined by ι<sub>τ</sub> and m_n.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -346,13 +346,13 @@ Tau.BookIV.Electroweak.EWAxiomTrace :Type**
 [IV.T67] The derivation chain for every EW quantity passes
 through at most two fundamental inputs:
 
-- ι_τ = 2/(π+e) — the master constant from K0-K6.
+- ι<sub>τ</sub> = 2/(π+e) — the master constant from K0-K6.
 
 - m_n — the neutron mass anchor (a single measured input).
 
 
 All coupling constants, mixing angles, and masses are
-rational functions of ι_τ evaluated at the neutron anchor.
+rational functions of ι<sub>τ</sub> evaluated at the neutron anchor.
 
 - input_count : ℕ
 Number of fundamental inputs.
@@ -425,9 +425,9 @@ Tau.BookIV.Electroweak.Sqrt3Triad :Type**
 (where ω = e^{2πi/3} is a primitive cube root of unity) appears
 in three independent physical contexts:
 
-- R mass ratio correction: √3 · ι_τ^{-2} (spectral distance on L)
+- R mass ratio correction: √3 · ι<sub>τ</sub>^{-2} (spectral distance on L)
 
-- Proton-neutron mass splitting: δ_A/m_n ≈ (√3/2) · ι_τ⁶ (isospin)
+- Proton-neutron mass splitting: δ_A/m_n ≈ (√3/2) · ι<sub>τ</sub>⁶ (isospin)
 
 - Gravitational closing identity: α_G = α¹⁸ · √3 (bi-rotation)
 
@@ -511,7 +511,7 @@ ordering follows the sector coupling hierarchy:
 y_top > y_bottom > y_charm > y_electron.
 
 Each generation step down multiplies the coupling by approximately
-ι_τ², reflecting the spectral gap of the torus T².
+ι<sub>τ</sub>², reflecting the spectral gap of the torus T².
 
 ---
 
@@ -529,7 +529,7 @@ SM free parameters include: 3 gauge couplings, 6 quark masses,
 3 lepton masses, 4 CKM parameters, 1 QCD vacuum angle, 1 Higgs
 mass, 1 Higgs VEV = 19 total.
 
-The τ-framework replaces all 19 with derivations from ι_τ.
+The τ-framework replaces all 19 with derivations from ι<sub>τ</sub>.
 
 - tau_params : ℕ
 τ free parameters.

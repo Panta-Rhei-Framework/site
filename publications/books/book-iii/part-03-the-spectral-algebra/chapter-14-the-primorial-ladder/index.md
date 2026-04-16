@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-iii/part-02-the-4-1-sector-template/
 prev_chapter_title: "Chapter 13: The No Knobs Principle"
 next_chapter_url: "/publications/books/book-iii/part-03-the-spectral-algebra/chapter-15-the-crt-decomposition-theorem/"
 next_chapter_title: "Chapter 15: The CRT Decomposition Theorem"
-summary_short: "Part II closed with the No Knobs Principle , asserting that every sector coupling is a rational function of ι_τ evaluated at…"
+summary_short: "Part II closed with the No Knobs Principle , asserting that every sector coupling is a rational function of ι<sub>τ</sub> evaluated at…"
 canonical_book_url: "/publications/books/book-iii/"
 canonical_book_title: "Book III: Categorical Spectrum"
 canonical_part_url: "/publications/books/book-iii/part-03-the-spectral-algebra/"
@@ -41,7 +41,7 @@ right_rail:
 Part II closed with the No Knobs Principle
 ,
 asserting that every sector coupling
-is a rational function of ι_τ
+is a rational function of ι<sub>τ</sub>
 evaluated at a specific primorial depth.
 The word *primorial* appeared throughout Parts I and II
 as a background assumption:

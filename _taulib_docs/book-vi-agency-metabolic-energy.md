@@ -45,7 +45,7 @@ Metabolic energy: ATP structure, membrane topology, and metabolism.
 ## Cross-Book Authority
 
 
-- Book I, Part IX: ι_τ = 2/(π+e) calibration constant
+- Book I, Part IX: ι<sub>τ</sub> = 2/(π+e) calibration constant
 
 - Book II, Part III: L = S¹ ∨ S¹ (lemniscate boundary)
 
@@ -76,7 +76,7 @@ Tau.BookVI.MetabolicEnergy.ATPOscillation :Type**
 [VI.D32] ATP/ADP Oscillation: discrete energy currency.
 ΔG ≈ 30.5 kJ/mol. Set by Riemann force at E₂
 (Book III, Part III: energy quantization).
-Calibrated by ι_τ (Book I, Part IX).
+Calibrated by ι<sub>τ</sub> (Book I, Part IX).
 
 - delta_g_x10 : ℕ
 Free energy in kJ/mol (×10 for integer representation).
@@ -88,7 +88,7 @@ Free energy in kJ/mol (×10 for integer representation).
 Governed by Riemann force (Book III, Part III).
 
 - iota_tau_calibrated : Bool
-Calibrated by ι_τ (Book I, Part IX).
+Calibrated by ι<sub>τ</sub> (Book I, Part IX).
 
 - universal : Bool
 Universal across all terrestrial life.

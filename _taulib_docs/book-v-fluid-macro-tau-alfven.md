@@ -46,7 +46,7 @@ shear vs compressional modes.
 
 - [V.D313] Coronal heating flux — `CoronalHeatingFlux`
 
-- [V.T253] τ-Alfvén damping = ι_τ² ω — `tau_alfven_damping_rate`
+- [V.T253] τ-Alfvén damping = ι<sub>τ</sub>² ω — `tau_alfven_damping_rate`
 
 - [V.P173] Coronal flux consistency — `CoronalFluxConsistency`
 
@@ -677,13 +677,13 @@ Tau.BookV.FluidMacro.AlfvenDampingRate :Type**
 
 [V.D312] Alfvén damping rate from B-sector coupling.
 
-γ_A = κ(B;2) · ω_A = ι_τ² · v_A k
+γ_A = κ(B;2) · ω_A = ι<sub>τ</sub>² · v_A k
 
 The B-sector coupling governs Alfvén wave dissipation.
-Damping length: L_d = v_A / γ_A = 1/(ι_τ² k).
+Damping length: L_d = v_A / γ_A = 1/(ι<sub>τ</sub>² k).
 
 - iota_sq_x100000 : ℕ
-ι_τ² × 100000 (≈ 11649).
+ι<sub>τ</sub>² × 100000 (≈ 11649).
 
 - sector : ℕ
 Coupling sector (B = 2).
@@ -741,7 +741,7 @@ Tau.BookV.FluidMacro.CoronalHeatingFlux :Type**
 
 [V.D313] Coronal heating flux from τ-Alfvén damping.
 
-F_τ = ρ · v_A · v_conv² · (1 - exp(-ι_τ² · L/λ_A))
+F_τ = ρ · v_A · v_conv² · (1 - exp(-ι<sub>τ</sub>² · L/λ_A))
 
 For L/λ_A ~ 10: damping fraction ≈ 0.688.
 Predicted F_τ ≈ 2.1 × 10⁵ erg cm⁻² s⁻¹.
@@ -807,11 +807,11 @@ Instances For
 Tau.BookV.FluidMacro.tau_alfven_damping_rate :alfven_damping_rate_tau.free_params = 0 ∧ alfven_damping_rate_tau.sector = 2**
 
 
-[V.T253] τ-Alfvén damping rate is ι_τ² · ω_A.
+[V.T253] τ-Alfvén damping rate is ι<sub>τ</sub>² · ω_A.
 
 The Alfvén damping rate is controlled by the B-sector coupling
-κ(B;2) = ι_τ². As waves propagate along the base τ¹, the T²
-fiber introduces dissipation proportional to ι_τ².
+κ(B;2) = ι<sub>τ</sub>². As waves propagate along the base τ¹, the T²
+fiber introduces dissipation proportional to ι<sub>τ</sub>².
 Zero free parameters.
 
 ---

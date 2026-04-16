@@ -72,7 +72,7 @@ The coherence kernel: five generators, seven axioms, one operator. From this, th
 
 ### [E₁ Physics]({{ '/framework/physics/' | relative_url }}) — 18 modules
 
-The self-describing universe: quantum mechanics, the particle spectrum, four forces, gravity, cosmology, and black holes — all from one constant ι_τ = 2/(π + e) with zero free parameters. Books IV–V.
+The self-describing universe: quantum mechanics, the particle spectrum, four forces, gravity, cosmology, and black holes — all from one constant ι<sub>τ</sub> = 2/(π + e) with zero free parameters. Books IV–V.
 
 ### [E₂ Life]({{ '/framework/life/' | relative_url }}) — 8 modules
 

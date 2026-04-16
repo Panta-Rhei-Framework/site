@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: planned
 lean_module: TauLib.BookVI.CosmicLife.CrossLimit
 lean_name: Tau.BookVI.CrossLimit.PrimorialLadderConvergence
-summary: Lift_ω approximations c_k/P_k converge superexponentially to ι_τ; bound |c_k/P_k
-  − ι_τ| ≤ 1/(2p_{k+1}). Coherent projective system.
+summary: Lift_ω approximations c_k/P_k converge superexponentially to ι<sub>τ</sub>; bound |c_k/P_k
+  − ι<sub>τ</sub>| ≤ 1/(2p_{k+1}). Coherent projective system.
 depends_on:
 - VI.D61
 depended_by: []

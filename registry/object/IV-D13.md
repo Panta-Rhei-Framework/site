@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Physics.PlanckCharacter
 lean_name: Tau.BookIV.Physics.PlanckCharacter
-summary: 'ℏ_τ = Lift_QM(ι_τ): universal lower bound in H_∂[ω]. σ-fixed (crossing point),
+summary: 'ℏ_τ = Lift_QM(ι<sub>τ</sub>): universal lower bound in H_∂[ω]. σ-fixed (crossing point),
   attained minimum (not infimum). The QM sector lift of the master constant.'
 depends_on:
 - IV.D15

@@ -38,7 +38,7 @@ Book V treated gravity, cosmology, and condensed matter from the categorical fra
 
 ## What Changed in the Second Edition
 
-The Second Edition sharpens the Hubble tension resolution (h = 2/3 + ι_τ²/17 at -120 ppm), strengthens the dark sector closure argument, and restructures the cosmological pipeline around the corrected master constant ι_τ = 0.341304238875. The subtitle changes from "From Time to Eternity" to "The Biography of the Universe." Lean 4 formalization reaches 62% registry coverage.
+The Second Edition sharpens the Hubble tension resolution (h = 2/3 + ι<sub>τ</sub>²/17 at -120 ppm), strengthens the dark sector closure argument, and restructures the cosmological pipeline around the corrected master constant ι<sub>τ</sub> = 0.341304238875. The subtitle changes from "From Time to Eternity" to "The Biography of the Universe." Lean 4 formalization reaches 62% registry coverage.
 
 ## Archival Note
 

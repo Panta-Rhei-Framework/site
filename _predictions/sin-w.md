@@ -78,11 +78,11 @@ is $^2θ_W^(0) = 1/4$
 $κ(A;1)/κ(B;2)$
 at zeroth order).
 - The NLO correction
-involves $ι_τ^W_3(4) = ι_τ^5$,
+involves $ι<sub>τ</sub>^W_3(4) = ι<sub>τ</sub>^5$,
 which shifts $^2θ_W$
 from $1/4 = 0.2500$
 to $0.2312$.
-- The same $ι_τ^5$ correction
+- The same $ι<sub>τ</sub>^5$ correction
 enters $M_W$ and $α_s$,
 producing the correlated triple agreement.
 

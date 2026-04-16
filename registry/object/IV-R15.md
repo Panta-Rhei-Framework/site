@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.QuantumMechanics.QuantumCharacters
 lean_name: Tau.BookIV.QuantumMechanics.QuasiergodicCoverage
-summary: 'Bi-rotation on T² with angular-rate ratio ι_τ (transcendental) is quasi-ergodic:
+summary: 'Bi-rotation on T² with angular-rate ratio ι<sub>τ</sub> (transcendental) is quasi-ergodic:
   orbit dense, never repeating. Explains neutron substructurelessness, particle diversity,
   and decay via Diophantine resonance.'
 depends_on:

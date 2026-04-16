@@ -402,10 +402,10 @@ Instances For
 Tau.BookV.Cosmology.BHEntropyFormula :Type**
 
 
-[V.P96] BH entropy: S_BH = k_B · A / (4 · ι_τ²).
+[V.P96] BH entropy: S_BH = k_B · A / (4 · ι<sub>τ</sub>²).
 
 Derived from boundary counting: the torus horizon T² with area A
-has boundary character degrees of freedom proportional to A/ι_τ².
+has boundary character degrees of freedom proportional to A/ι<sub>τ</sub>².
 The factor 4 comes from the bipolar splitting (2 lobes × 2 sectors).
 
 - num_lobes : ℕ
@@ -415,10 +415,10 @@ Number of lobes (always 2).
 Number of sectors in bipolar split (always 2).
 
 - area_quantum_label : String
-Area quantum is ι_τ².
+Area quantum is ι<sub>τ</sub>².
 
 - prefactor_denom : ℕ
-Prefactor is 1/(4·ι_τ²) = num_lobes × num_bipolar denominator.
+Prefactor is 1/(4·ι<sub>τ</sub>²) = num_lobes × num_bipolar denominator.
 
 Instances For
 

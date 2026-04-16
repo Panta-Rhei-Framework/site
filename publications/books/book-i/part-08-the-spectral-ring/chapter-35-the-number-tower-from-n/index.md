@@ -13,7 +13,7 @@ chapter_number: 35
 chapter_slug: "chapter-35-the-number-tower-from-n"
 page_in_book: 141
 prev_chapter_url: "/publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/"
-prev_chapter_title: "Chapter 34: The Master Constant ι_τ = 2/(π + e)"
+prev_chapter_title: "Chapter 34: The Master Constant ι<sub>τ</sub> = 2/(π + e)"
 next_chapter_url: "/publications/books/book-i/part-09-earned-number-systems/chapter-36-the-constructive-reals-ordered-field-and-completeness/"
 next_chapter_title: "Chapter 36: The Constructive Reals: Ordered Field and Completeness"
 summary_short: "The boundary ring ℤ_τ  is the *profinite completion* of τ-Idx — a compact, non-Archimedean structure encoding…"

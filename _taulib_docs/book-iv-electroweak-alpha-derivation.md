@@ -63,14 +63,14 @@ AB holonomy lemma, photon phase quantum, and structural independence.
 
 
 **Spectral formula (leading order):**
-α_spec = (8/15) · ι_τ⁴ ≈ 1/137.9 (0.6% off)
+α_spec = (8/15) · ι<sub>τ</sub>⁴ ≈ 1/137.9 (0.6% off)
 
 **Holonomy formula (exact):**
 α = (π³/16) · Q⁴ / (M² H³ L⁶)
 
 where Q, M, H, L are the relational units from the calibration cascade.
 The holonomy formula resolves to the spectral formula at leading order
-with a correction factor R(ι_τ) ≈ 1.0065.
+with a correction factor R(ι<sub>τ</sub>) ≈ 1.0065.
 
 ### Origin of π³
 
@@ -81,9 +81,9 @@ The factor π³ arises from three independent U(1) holonomy circles in
 ### α as Ontic Invariant
 
 
-α is an ontic invariant: it depends only on ι_τ = 2/(π+e) and
+α is an ontic invariant: it depends only on ι<sub>τ</sub> = 2/(π+e) and
 geometric constants (π, e). It is not a free parameter. The spectral
-formula makes this manifest: α ∝ ι_τ⁴.
+formula makes this manifest: α ∝ ι<sub>τ</sub>⁴.
 
 ## Ground Truth Sources
 
@@ -104,14 +104,14 @@ Tau.BookIV.Electroweak.AlphaTau :Type**
 Two equivalent formulas:
 
 
-- Spectral: α_spec = (8/15)·ι_τ⁴ (leading order, 0.6% off)
+- Spectral: α_spec = (8/15)·ι<sub>τ</sub>⁴ (leading order, 0.6% off)
 
 - Holonomy: α = (π³/16)·Q⁴/(M²H³L⁶) (exact)
-Both are fully determined by ι_τ = 2/(π+e).
+Both are fully determined by ι<sub>τ</sub> = 2/(π+e).
 
 
 - spectral_numer : ℕ
-Spectral formula numerator (8·ι_τ⁴).
+Spectral formula numerator (8·ι<sub>τ</sub>⁴).
 
 - spectral_denom : ℕ
 Spectral formula denominator (15·D⁴).
@@ -269,8 +269,8 @@ Instances For
 Tau.BookIV.Electroweak.HolonomyCorrectionR :Type**
 
 
-[IV.D106] Holonomy correction factor R(ι_τ) relating the spectral
-and holonomy formulas: α = (8/15)·ι_τ⁴ · R(ι_τ).
+[IV.D106] Holonomy correction factor R(ι<sub>τ</sub>) relating the spectral
+and holonomy formulas: α = (8/15)·ι<sub>τ</sub>⁴ · R(ι<sub>τ</sub>).
 R ≈ 1.0065: the spectral formula is a 0.6% approximation.
 R encodes the detailed calibration cascade.
 
@@ -350,7 +350,7 @@ Tau.BookIV.Electroweak.HolonomyFormulaExact :Type**
 [IV.T49] The holonomy formula α = (π³/16)·Q⁴/(M²H³L⁶) is exact.
 The π³ factor arises from three independent U(1) circles in τ³.
 The denominator encodes the relational units from the calibration
-cascade, all determined by ι_τ.
+cascade, all determined by ι<sub>τ</sub>.
 
 - is_exact : Bool
 The formula is exact (not approximate).
@@ -424,12 +424,12 @@ Tau.BookIV.Electroweak.holonomy_formula_exact :holonomy_formula.is_exact = true*
 Tau.BookIV.Electroweak.OnticInvariant :Type**
 
 
-[IV.T50] α_τ is an ontic invariant: it depends only on ι_τ and
+[IV.T50] α_τ is an ontic invariant: it depends only on ι<sub>τ</sub> and
 geometric constants (π, e). It is NOT a free parameter of the
 theory. The value 1/137.036... is structurally determined.
 
 - depends_on_iota : Bool
-Depends only on ι_τ.
+Depends only on ι<sub>τ</sub>.
 
 - free_parameters : ℕ
 No free parameters.
@@ -494,19 +494,19 @@ Tau.BookIV.Electroweak.ABHolonomyLemma :Type**
 
 
 [IV.L02] AB holonomy around the minimal EM loop on T² equals
-the B-sector self-coupling κ(B;2) = ι_τ².
+the B-sector self-coupling κ(B;2) = ι<sub>τ</sub>².
 This connects the gauge-theory holonomy to the sector coupling.
 
 - equals_kappa_b : Bool
 The holonomy equals κ(B;2).
 
 - kappa_b_numer : ℕ
-κ(B;2) = ι_τ².
+κ(B;2) = ι<sub>τ</sub>².
 
 - kappa_b_denom : ℕ
 - denom_pos : self.kappa_b_denom > 0
 - numer_eq : self.kappa_b_numer = Boundary.iota_tau_numer * Boundary.iota_tau_numer
-Check: numer/denom ≈ 0.1166 (ι_τ²).
+Check: numer/denom ≈ 0.1166 (ι<sub>τ</sub>²).
 
 - denom_eq : self.kappa_b_denom = Boundary.iota_tau_denom * Boundary.iota_tau_denom
 Instances For
@@ -543,7 +543,7 @@ Instances For
 Tau.BookIV.Electroweak.ab_holonomy :ABHolonomyLemma**
 
 
-AB holonomy = ι_τ² around minimal loop.
+AB holonomy = ι<sub>τ</sub>² around minimal loop.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -782,16 +782,16 @@ Tau.BookIV.Electroweak.unique_massless_transport :unique_massless_instance.uniqu
 Tau.BookIV.Electroweak.StructuralIndependence :Type**
 
 
-[IV.P51] α and ι_τ are structurally independent constants:
-α depends on ι_τ via (8/15)·ι_τ⁴·R, but ι_τ is the master
+[IV.P51] α and ι<sub>τ</sub> are structurally independent constants:
+α depends on ι<sub>τ</sub> via (8/15)·ι<sub>τ</sub>⁴·R, but ι<sub>τ</sub> is the master
 constant from which α is derived (not vice versa).
 Their ratio is not a simple number.
 
 - alpha_from_iota : Bool
-α is derived from ι_τ.
+α is derived from ι<sub>τ</sub>.
 
 - iota_is_master : Bool
-ι_τ is the master constant.
+ι<sub>τ</sub> is the master constant.
 
 - via_spectral : Bool
 The derivation goes through spectral formula.
@@ -948,7 +948,7 @@ Tau.BookIV.Electroweak.c2_alpha_sub_1_ppm :two_loop_window.c2_denom = 18 ∧ two
 
 
 [IV.P225] Two-loop α correction is sub-1 ppm:
-α·c₂·ι_τ² ≈ (1/137)·(1/18)·0.1165 ≈ 4.7×10⁻⁵ ≈ 0.5 ppm.
+α·c₂·ι<sub>τ</sub>² ≈ (1/137)·(1/18)·0.1165 ≈ 4.7×10⁻⁵ ≈ 0.5 ppm.
 
 ---
 
@@ -961,10 +961,10 @@ Tau.BookIV.Electroweak.AlphaNLOCatalog :Type**
 
 [IV.D385] α NLO Correction Candidate Catalog.
 Four candidates, none improves 9.8 ppm:
-A: +ι_τ⁶/(5·2) = +158 ppm (wrong direction)
-B: +ι_τ⁴/25 = +543 ppm (wrong direction)
-C: −ι_τ²/50 = −2330 ppm (too large)
-D: +ι_τ²/18 = +6470 ppm (too large)
+A: +ι<sub>τ</sub>⁶/(5·2) = +158 ppm (wrong direction)
+B: +ι<sub>τ</sub>⁴/25 = +543 ppm (wrong direction)
+C: −ι<sub>τ</sub>²/50 = −2330 ppm (too large)
+D: +ι<sub>τ</sub>²/18 = +6470 ppm (too large)
 All overshoot or wrong sign vs the +9.8 ppm residual.
 
 - n_candidates : ℕ

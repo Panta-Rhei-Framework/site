@@ -75,7 +75,7 @@ coupling at refinement depth 1:
 
 - Equal areas: angular momentum conservation from D-sector isotropy
 
-- Period-semimajor axis relation: T² ∝ a³ from κ(D;1) = 1−ι_τ
+- Period-semimajor axis relation: T² ∝ a³ from κ(D;1) = 1−ι<sub>τ</sub>
 
 
 ### Perihelion Precession
@@ -311,7 +311,7 @@ Tau.BookV.Astrophysics.kepler_third_law :"T^2 / a^3 = 4pi^2 / (G*M) = readout of
 
 [V.T83] Kepler third law: T^2 proportional to a^3.
 This follows from the specific form of the D-sector coupling
-κ(D;1) = 1−ι_τ in the Newtonian readout.
+κ(D;1) = 1−ι<sub>τ</sub> in the Newtonian readout.
 
 ---
 

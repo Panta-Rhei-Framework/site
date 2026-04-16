@@ -51,14 +51,14 @@ From m_n and Layer 1 (the G-α bridge):
 
 - m_P = m_n / √α_G, where α_G comes from the bridge
 
-- G = (c³/ℏ) · ι_τ², linking gravitational constant to the master constant
+- G = (c³/ℏ) · ι<sub>τ</sub>², linking gravitational constant to the master constant
 
 
 ### Calibration Sufficiency [V.T157]
 
 
 The SI calibration cascade is sufficient: every constant in the ledger
-is determined by ι_τ and m_n with zero additional free parameters.
+is determined by ι<sub>τ</sub> and m_n with zero additional free parameters.
 The calibration triangle (G, κ_n, α_G) closes exactly.
 
 ## Ground Truth Sources
@@ -84,11 +84,11 @@ Derives m_e, m_P, and G from m_n and Layer 1 outputs:
 
 - m_P = m_n / √α_G (α_G from G-α bridge)
 
-- G = (c³/ℏ) · ι_τ² (direct from master constant)
+- G = (c³/ℏ) · ι<sub>τ</sub>² (direct from master constant)
 
 
 The layer structure:
-Layer 0: ι_τ = 2/(π+e) (master constant, from axioms)
+Layer 0: ι<sub>τ</sub> = 2/(π+e) (master constant, from axioms)
 Layer 1: α_G = α¹⁸ · √3 · (1 − (3/π)α) (G-α bridge)
 Layer 2: m_e, m_P, G (this theorem)
 Anchor: m_n (single dimensionful input)
@@ -183,11 +183,11 @@ Tau.BookV.Coda.CalibrationSufficiency :Type**
 
 
 [V.T157] Calibration sufficiency: the SI calibration cascade is
-sufficient. Every constant in the ledger is determined by ι_τ and m_n
+sufficient. Every constant in the ledger is determined by ι<sub>τ</sub> and m_n
 with zero additional free parameters.
 
 
-- Inputs: ι_τ (dimensionless, from axioms) + m_n (dimensionful anchor)
+- Inputs: ι<sub>τ</sub> (dimensionless, from axioms) + m_n (dimensionful anchor)
 
 - Outputs: G, α, α_G, m_e, m_P, c, ℏ, k_B, ...
 
@@ -200,7 +200,7 @@ with zero additional free parameters.
 Number of dimensionless inputs.
 
 - dimless_eq : self.n_dimensionless = 1
-One dimensionless input (ι_τ).
+One dimensionless input (ι<sub>τ</sub>).
 
 - n_anchors : ℕ
 Number of dimensionful anchors.
@@ -215,7 +215,7 @@ Number of free parameters.
 Zero free parameters.
 
 - total_inputs_count : ℕ
-Total inputs count (ι_τ + m_n).
+Total inputs count (ι<sub>τ</sub> + m_n).
 
 - triangle_closes : Bool
 Calibration triangle closes.
@@ -279,7 +279,7 @@ Calibration is sufficient: 1 dimensionless + 1 anchor + 0 free params.
 Tau.BookV.Coda.total_inputs :calibration.n_dimensionless + calibration.n_anchors = 2**
 
 
-Total input count: 1 + 1 = 2 (ι_τ + m_n).
+Total input count: 1 + 1 = 2 (ι<sub>τ</sub> + m_n).
 
 ---
 
@@ -290,7 +290,7 @@ Total input count: 1 + 1 = 2 (ι_τ + m_n).
 Tau.BookV.Coda.iota_tau_anchor :Float**
 
 
-Master constant ι_τ = 2/(π+e).
+Master constant ι<sub>τ</sub> = 2/(π+e).
 Equations
 - Tau.BookV.Coda.iota_tau_anchor = 0.341304238875
 Instances For

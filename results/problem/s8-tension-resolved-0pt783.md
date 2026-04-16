@@ -41,7 +41,7 @@ V.T263 resolves the S₈ tension via three structural suppressions in the τ-fra
 
 3. f_ν: The neutrino free-streaming suppression. With Σm_ν = 0.089 eV (V.T165/T225), the neutrinos suppress small-scale power, reducing σ₈ by the neutrino fraction contribution.
 
-The product S₈(τ) = f_supp × f_growth × f_ν × S₈(Planck ΛCDM) = 0.783, sitting between the Planck and weak-lensing values. Zero free parameters enter: all three factors are determined by ι_τ and the calibration anchor m_n.
+The product S₈(τ) = f_supp × f_growth × f_ν × S₈(Planck ΛCDM) = 0.783, sitting between the Planck and weak-lensing values. Zero free parameters enter: all three factors are determined by ι<sub>τ</sub> and the calibration anchor m_n.
 
 At the NNLO level (Wave 42A), S₈(NNLO) = 0.757, providing a lower bracket on the tension. Together [0.757, 0.783] brackets all current weak-lensing measurements.
 

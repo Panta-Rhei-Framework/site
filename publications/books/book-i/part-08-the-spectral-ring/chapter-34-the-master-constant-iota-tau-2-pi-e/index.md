@@ -1,6 +1,6 @@
 ---
 layout: publication-chapter
-title: "Chapter 34: The Master Constant ι_τ = 2/(π + e)"
+title: "Chapter 34: The Master Constant ι<sub>τ</sub> = 2/(π + e)"
 permalink: /publications/books/book-i/part-08-the-spectral-ring/chapter-34-the-master-constant-iota-tau-2-pi-e/
 lane: publications
 publication_type: chapter
@@ -47,7 +47,7 @@ the *ratio* of B-dominant to C-dominant primes
 converges to a fixed number as we range over all primes.
 This chapter introduces that number,
 the **master constant**
-ι_τ = 2/(π + e) ≈ 0.341304,
+ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304,
 and explains its structural role
 as a parametrization of the asymmetry
 between the two lemniscate lobes.

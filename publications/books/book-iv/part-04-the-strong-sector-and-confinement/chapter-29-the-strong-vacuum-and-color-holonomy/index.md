@@ -44,7 +44,7 @@ regions of the spectral page. The strong sector is different: it is
 *non-trivial*. Where the photon propagates through a structureless void,
 the strong vacuum seethes with topological content. This chapter introduces
 the C-sector—the third force sector on the E₁ page—derives its
-vacuum coupling κ(C;3) = ι_τ³/(1 - ι_τ), and then
+vacuum coupling κ(C;3) = ι<sub>τ</sub>³/(1 - ι<sub>τ</sub>), and then
 unpacks the internal geometry of SU(3): colour as branch index on T²,
 the eight gluons as the SU(3) connection, and colour holonomy as
 path-ordered parallel transport on the τ³ fiber bundle.

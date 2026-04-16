@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.QuantumMechanics.QuantumCharacters
 lean_name: Tau.BookIV.QuantumMechanics.FractionalChargesAndConfinement
 summary: 'Quark fractional charges (1/3, 2/3) correspond to a finer sublattice of
-  Λ_CR accessible only within confined systems. Confinement denominator (1−ι_τ) never
+  Λ_CR accessible only within confined systems. Confinement denominator (1−ι<sub>τ</sub>) never
   truncates: fractional-charge addresses are permanently unresolvable.'
 depends_on:
 - IV.P13

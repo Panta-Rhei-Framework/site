@@ -46,7 +46,7 @@ No de-lensing needed: $S/N = 1131$.
 
 ## Derivation Context
 
-With $r = ι_τ^4$
+With $r = ι<sub>τ</sub>^4$
 and $A_s = 2.096 × 10^-9$,
 the primordial B-mode power spectrum
 is fully determined.

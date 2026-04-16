@@ -43,7 +43,7 @@ energy scale: α ≈ 1/137 at low energy becomes α
 ≈ 1/128 at the Z-boson mass. In τ³, the coupling
 ledger  is scale-invariant:
 every entry is a boundary fixed-point invariant determined by
-ι_τ. This chapter explains the apparent contradiction.
+ι<sub>τ</sub>. This chapter explains the apparent contradiction.
 What looks like running is **readout drift**: measuring the
 same invariant with different probes gives different apparent values.
 The coupling IS the boundary value; the "running" is a projection

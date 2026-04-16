@@ -355,12 +355,12 @@ Tau.BookV.GravityField.ExponentDerivation.cf_anatomy :4 * 18 = 72 ∧ 72 = 8 * 9
 
 
 The total iota-power 4 × 18 = 72 = 8 × 9 = a₁³ × a₄².
-The same CF quotients (a₁ = 2, a₄ = 3) of ι_τ appear in the
+The same CF quotients (a₁ = 2, a₄ = 3) of ι<sub>τ</sub> appear in the
 Δr leading coefficient 8/9.
 
 This is a structural echo, not a coincidence:
 2³ = b₁(T²)³ and 3² = dim(τ³) × |solenoidal|/dim(τ³) · dim(τ³).
-(The CF quotients of ι_τ reflect the same geometric invariants.)
+(The CF quotients of ι<sub>τ</sub> reflect the same geometric invariants.)
 
 ---
 

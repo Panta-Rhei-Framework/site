@@ -60,7 +60,7 @@ Convection is not kinetic mass transfer;
 it is EM-driven coherent displacement
 of the defect-functional profile.
 The fine-structure constant
-α ≈ (11/15)^2 ι_τ⁴The factor (11/15)^2 = (8/15)·(121/120) decomposes into the spectral weight 8/15 and the twin-prime residue 121/120 = 1 + 1/(s · n) from the (p,q)=(3,5) pair; see Book IV, Chapter 29.
+α ≈ (11/15)^2 ι<sub>τ</sub>⁴The factor (11/15)^2 = (8/15)·(121/120) decomposes into the spectral weight 8/15 and the twin-prime residue 121/120 = 1 + 1/(s · n) from the (p,q)=(3,5) pair; see Book IV, Chapter 29.
 controls all three modes:
 it sets the coupling strength
 between the radiating configuration

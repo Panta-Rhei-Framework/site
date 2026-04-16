@@ -1,6 +1,6 @@
 ---
 layout: program-doc
-title: "From Ratio to Measurement: ι_τ and the Calibration of Physics"
+title: "From Ratio to Measurement: ι<sub>τ</sub> and the Calibration of Physics"
 permalink: /results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/
 lane: results
 section: "Results · Physics World Readout"
@@ -41,23 +41,23 @@ The substrate already carries primitive discreteness. There is a real notion of 
 
 So Tau needs an internal principle that yields a non-trivial ratio world without importing a free parameter from outside.
 
-## `ι_τ` as the master calibration constant
+## `ι<sub>τ</sub>` as the master calibration constant
 
-This is the role of `ι_τ`.
+This is the role of `ι<sub>τ</sub>`.
 
-`ι_τ` is not an externally fitted constant. It is an internally arising fixed-point / omega-germ structure rooted in prime polarity. In the E1 physical readout, it becomes the governing ratio principle through which stable physical entities and their measurable relations are scaled relative to one another.
+`ι<sub>τ</sub>` is not an externally fitted constant. It is an internally arising fixed-point / omega-germ structure rooted in prime polarity. In the E1 physical readout, it becomes the governing ratio principle through which stable physical entities and their measurable relations are scaled relative to one another.
 
-This is why `ι_τ` matters so much. It is not one more parameter in a list of constants. It is the reason the world avoids trivial commensurability in the first place.
+This is why `ι<sub>τ</sub>` matters so much. It is not one more parameter in a list of constants. It is the reason the world avoids trivial commensurability in the first place.
 
 ## Incommensurability without arbitrariness
 
-The crucial function of `ι_τ` is that it yields an incommensurable calibration principle from within the world. That makes it possible for Tau to generate a hierarchy of non-trivial quantitative ratios.
+The crucial function of `ι<sub>τ</sub>` is that it yields an incommensurable calibration principle from within the world. That makes it possible for Tau to generate a hierarchy of non-trivial quantitative ratios.
 
 The world therefore does not fall into bare integer arithmetic. It becomes quantitatively rich without ceasing to be parameter-free in its foundations.
 
 ## Constants as expressions, not inputs
 
-Once `ι_τ` is in place, physical constants can be read as algebraic combinations or structured expressions in `ι_τ`. That is a decisive inversion of the usual picture. Constants are not inserted to make the world work. They are read out from the ratio hierarchy that the world itself already carries.
+Once `ι<sub>τ</sub>` is in place, physical constants can be read as algebraic combinations or structured expressions in `ι<sub>τ</sub>`. That is a decisive inversion of the usual picture. Constants are not inserted to make the world work. They are read out from the ratio hierarchy that the world itself already carries.
 
 This is one of the strongest claims of Tau-physics.
 
@@ -81,14 +81,14 @@ This page therefore answers one of the deepest questions about the framework:
 Where do non-trivial numerical values come from in a parameter-free world?
 
 Tau’s answer is:
-- from the internally generated ratio hierarchy governed by `ι_τ`,
+- from the internally generated ratio hierarchy governed by `ι<sub>τ</sub>`,
 - then from a minimal calibration bridge into ordinary measurement.
 
 That is a much stronger and cleaner claim than simply assuming constants by hand.
 
 ## Conclusion
 
-In Tau, quantitative physics does not arise from externally imposed free parameters, but from an internally generated ratio hierarchy governed by `ι_τ`, which then becomes calibratable to ordinary measurement through a minimal SI bridge. This is why Tau can propose a world of real observables without starting from arbitrary constants.
+In Tau, quantitative physics does not arise from externally imposed free parameters, but from an internally generated ratio hierarchy governed by `ι<sub>τ</sub>`, which then becomes calibratable to ordinary measurement through a minimal SI bridge. This is why Tau can propose a world of real observables without starting from arbitrary constants.
 
 
 ## Canonical References

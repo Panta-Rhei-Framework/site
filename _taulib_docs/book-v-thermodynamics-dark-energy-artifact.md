@@ -681,17 +681,17 @@ Tau.BookV.Thermodynamics.OmegaLambdaStandalone :Type**
 
 
 [V.T234] Standalone Ω_Λ structural theorem:
-Ω_Λ = κ_D · (1 + ι_τ³) = (1 − ι_τ)(1 + ι_τ³) ≈ 0.6849.
-Zero-parameter prediction from master constant ι_τ.
+Ω_Λ = κ_D · (1 + ι<sub>τ</sub>³) = (1 − ι<sub>τ</sub>)(1 + ι<sub>τ</sub>³) ≈ 0.6849.
+Zero-parameter prediction from master constant ι<sub>τ</sub>.
 
-κ_D = D-sector coupling (gravity), ι_τ³ = fiber volume correction.
+κ_D = D-sector coupling (gravity), ι<sub>τ</sub>³ = fiber volume correction.
 Planck 2018: 0.6847 ± 0.0073. Deviation: +269 ppm (+0.03σ).
 
 - kappa_D_x10000 : ℕ
-κ_D numerator (scaled ×10000): (1 − ι_τ) ≈ 0.6587 → 6587.
+κ_D numerator (scaled ×10000): (1 − ι<sub>τ</sub>) ≈ 0.6587 → 6587.
 
 - iota_tau_cubed_x100000 : ℕ
-ι_τ³ numerator (scaled ×100000): ι_τ³ ≈ 0.03979 → 3979.
+ι<sub>τ</sub>³ numerator (scaled ×100000): ι<sub>τ</sub>³ ≈ 0.03979 → 3979.
 
 - omega_lambda_x10000 : ℕ
 Ω_Λ (scaled ×10000): ≈ 0.6849 → 6849.
@@ -703,7 +703,7 @@ Planck 2018 value (scaled ×10000): 0.6847 → 6847.
 Deviation in ppm (positive = τ exceeds Planck).
 
 - scope_tau_effective : Bool
-τ-effective scope: derived from κ_D and ι_τ only.
+τ-effective scope: derived from κ_D and ι<sub>τ</sub> only.
 
 Instances For
 
@@ -777,17 +777,17 @@ Tau.BookV.Thermodynamics.DefectFractionEoS :Type**
 
 [V.D293] Defect fraction function:
 f_def(z) = S_def(z) / (S_def(z) + S_ref(z)).
-At z → ∞: f_def → 1. At z = 0: f_def → ι_τ³ ≈ 0.040.
+At z → ∞: f_def → 1. At z = 0: f_def → ι<sub>τ</sub>³ ≈ 0.040.
 
 [V.P159] Effective equation of state:
 w(z) = −1 + (2/3) · f_def(z)/(1 − f_def(z)).
-At z = 0: w₀ = ι_τ³ − 1 ≈ −0.960 (quintessence-like).
+At z = 0: w₀ = ι<sub>τ</sub>³ − 1 ≈ −0.960 (quintessence-like).
 
 - f_def_present_x10000 : ℕ
-Present defect fraction f_def(0) (scaled ×10000): ι_τ³ ≈ 0.0398 → 398.
+Present defect fraction f_def(0) (scaled ×10000): ι<sub>τ</sub>³ ≈ 0.0398 → 398.
 
 - w0_offset_x1000 : ℕ
-w₀ (scaled ×1000, offset from −1): ι_τ³ ≈ 0.040 → 40 means w₀ = −0.960.
+w₀ (scaled ×1000, offset from −1): ι<sub>τ</sub>³ ≈ 0.040 → 40 means w₀ = −0.960.
 
 - w0_gt_minus_one : Bool
 w₀ > −1 (quintessence-like, no phantom).

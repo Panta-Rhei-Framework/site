@@ -68,17 +68,17 @@ giving the prefactor π³ ≈ 31.006 in the holonomy correction.
 ### The Correction π³α²
 
 
-The full holonomy correction to the mass ratio is π³α²·ι_τ^(-2), where:
+The full holonomy correction to the mass ratio is π³α²·ι<sub>τ</sub>^(-2), where:
 
 
 - π³ ≈ 31.006: from the three circles (triple holonomy)
 
 - α² ≈ 5.3×10⁻⁵: from charge conjugation (kills first-order α)
 
-- ι_τ^(-2) ≈ 8.58: from the breathing operator scale
+- ι<sub>τ</sub>^(-2) ≈ 8.58: from the breathing operator scale
 
 
-Combined: π³α²·ι_τ^(-2) ≈ 0.014 (Level 1+ correction to R).
+Combined: π³α²·ι<sub>τ</sub>^(-2) ≈ 0.014 (Level 1+ correction to R).
 
 This module wraps the HolonomyCorrection module from Physics and
 connects it to the breathing modes framework from BreathingModes.
@@ -263,16 +263,16 @@ Tau.BookIV.MassDerivation.HolonomyCorrectionDetail :Type**
 
 
 [IV.D315] Holonomy correction data: the three components that
-make up the Level 1+ correction π³α²·ι_τ^(-2).
+make up the Level 1+ correction π³α²·ι<sub>τ</sub>^(-2).
 
 - π³ from triple holonomy (31.006)
 
 - α² from charge conjugation (5.3 × 10⁻⁵)
 
-- ι_τ^(-2) from breathing operator scale (8.58)
+- ι<sub>τ</sub>^(-2) from breathing operator scale (8.58)
 
 
-The combined correction π³α²·ι_τ^(-2) ≈ 0.014 refines the mass
+The combined correction π³α²·ι<sub>τ</sub>^(-2) ≈ 0.014 refines the mass
 ratio from Level 0 (7.7 ppm) to Level 1+ (0.025 ppm).
 
 - pi3_numer : ℕ
@@ -288,10 +288,10 @@ ratio from Level 0 (7.7 ppm) to Level 1+ (0.025 ppm).
 α² denominator.
 
 - iota_neg2_n : ℕ
-ι_τ^(-2) numerator.
+ι<sub>τ</sub>^(-2) numerator.
 
 - iota_neg2_d : ℕ
-ι_τ^(-2) denominator.
+ι<sub>τ</sub>^(-2) denominator.
 
 - pi3_denom_pos : self.pi3_denom > 0
 All denominators positive.
@@ -368,7 +368,7 @@ Tau.BookIV.MassDerivation.alpha2_matches :holonomy_detail.alpha2_numer = Physics
 Tau.BookIV.MassDerivation.holonomy_correction_float :Float**
 
 
-The combined correction as Float (π³ × α² × ι_τ^(-2)).
+The combined correction as Float (π³ × α² × ι<sub>τ</sub>^(-2)).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For

@@ -97,7 +97,7 @@ The [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relat
 
 ## Physics Predictions Ledger
 
-The [Physics Predictions]({{ '/results/predictions/browse/' | relative_url }}) collection compiles **67 zero-parameter numerical predictions** derived from the single master constant ι_τ = 2/(π+e). Each prediction compares a τ-derived value directly to experimental measurement — no ontological bridge claims needed. Fifteen predictions achieve sub-10 ppm precision.
+The [Physics Predictions]({{ '/results/predictions/browse/' | relative_url }}) collection compiles **67 zero-parameter numerical predictions** derived from the single master constant ι<sub>τ</sub> = 2/(π+e). Each prediction compares a τ-derived value directly to experimental measurement — no ontological bridge claims needed. Fifteen predictions achieve sub-10 ppm precision.
 
 The [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relative_url }}) identifies **30 sharp predictions** where the framework makes specific claims that named experiments can test on a 2025–2035 timeline, including 7 falsifiable seams where τ and orthodox physics make structurally incompatible predictions.
 
@@ -106,7 +106,7 @@ The complete typeset document (~150 pages) with full derivations, tables, and ex
 ## Featured Results
 
 - [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior f
-- [Hubble Tension Resolved: h = 2/3 + ι_τ²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — The Hubble constant h = 0.6735 is derived as h = 2/3 + ι_τ²/17 at –120 ppm from SH0ES/JWST, resolving the Hubble tension
+- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — The Hubble constant h = 0.6735 is derived as h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm from SH0ES/JWST, resolving the Hubble tension
 - [No Dark Matter Particle: Sector Exhaustion Theorem](/results/problem/no-dark-matter-particle/) — The Sector Exhaustion Theorem proves no additional sector can be added, therefore no dark matter particle exists.
 - [Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids](/results/problem/homochirality-universality-12-step-derivation/) — The universal chirality of life — L-amino acids and D-sugars — is derived in a 12-step chain from K0–K6 through the Pari
 - [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — Kant's Categorical Imperative is proven to be the unique j-closed fixed point of the τ-digestion operator — ethics deriv

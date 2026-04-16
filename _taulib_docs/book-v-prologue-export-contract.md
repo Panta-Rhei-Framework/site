@@ -55,7 +55,7 @@ Book IV delivers 10 structural items to Book V:
 
 - **5 Sectors** {D, A, B, C, Omega} — generator-sector correspondence
 
-- **5 Couplings** κ(S;d) — all rational functions of ι_τ
+- **5 Couplings** κ(S;d) — all rational functions of ι<sub>τ</sub>
 
 - **Carrier Types** {Fiber, Base, Crossing} — spatial/temporal/crossing
 
@@ -69,7 +69,7 @@ Book IV delivers 10 structural items to Book V:
 
 - **Defect Functional** D(φ) = (μ, ν, κ, θ) — 4-component
 
-- **Mass Ratio** R = ι_τ^(-7) − (√3 + π³α²)·ι_τ^(-2) — 0.025 ppm
+- **Mass Ratio** R = ι<sub>τ</sub>^(-7) − (√3 + π³α²)·ι<sub>τ</sub>^(-2) — 0.025 ppm
 
 
 ### Ontic Particle Export [V.D13]
@@ -305,11 +305,11 @@ The defect total is the sum of all 4 components.
 Tau.BookV.Prologue.mass_ratio_export :BookIV.Calibration.bulk_numer * BookIV.Calibration.correction0_denom > BookIV.Calibration.correction0_numer * BookIV.Calibration.bulk_denom + 1837 * BookIV.Calibration.bulk_denom * BookIV.Calibration.correction0_denom ∧ BookIV.Calibration.bulk_numer * BookIV.Calibration.correction0_denom < BookIV.Calibration.correction0_numer * BookIV.Calibration.bulk_denom + 1840 * BookIV.Calibration.bulk_denom * BookIV.Calibration.correction0_denom**
 
 
-[V.T07] Mass ratio R = ι_τ^(-7) − (√3 + π³α²)·ι_τ^(-2), 0.025 ppm.
+[V.T07] Mass ratio R = ι<sub>τ</sub>^(-7) − (√3 + π³α²)·ι<sub>τ</sub>^(-2), 0.025 ppm.
 
 The 10-link derivation chain has zero conjectural ingredients.
 Wraps the Level 0 range proof from MassRatioFormula (at 6-digit
-precision, R₀ is in (1837, 1840); at exact ι_τ, R₁ ≈ 1838.684).
+precision, R₀ is in (1837, 1840); at exact ι<sub>τ</sub>, R₁ ≈ 1838.684).
 
 ---
 

@@ -251,8 +251,8 @@ Tau.BookV.Temporal.RefinementDrift :Type**
 
 
 [V.D29] Refinement drift (cosmological redshift):
-z(n_s, n_r) := Δt(n_s)/Δt(n_r) − 1. Since Δt(n) ~ ι_τ^n
-and ι_τ < 1, source earlier (n_s < n_r) gives z > 0 (redshift).
+z(n_s, n_r) := Δt(n_s)/Δt(n_r) − 1. Since Δt(n) ~ ι<sub>τ</sub>^n
+and ι<sub>τ</sub> < 1, source earlier (n_s < n_r) gives z > 0 (redshift).
 The τ-framework predicts redshift WITHOUT metric expansion.
 
 - n_source : ℕ
@@ -326,7 +326,7 @@ observations (source earlier than receiver).
 Tau.BookV.Temporal.ReadoutExpansion :Type**
 
 
-[V.D30] Readout expansion a(n) ~ ι_τ^(-n): cumulative proper-time
+[V.D30] Readout expansion a(n) ~ ι<sub>τ</sub>^(-n): cumulative proper-time
 scaling. The universe "expands" because the tower deepens and
 proper-time increments shrink — not because space stretches.
 
@@ -387,7 +387,7 @@ Tau.BookV.Temporal.HubbleReadout :Type**
 
 [V.D31] Hubble readout H(n) := Δa/a per tick. NOT constant: decays
 with depth. Early (opening) H is large (inflation), late H is small.
-H(n) ~ 1 − ι_τ to leading order.
+H(n) ~ 1 − ι<sub>τ</sub> to leading order.
 
 - depth : ℕ
 - depth_pos : self.depth > 0
@@ -457,7 +457,7 @@ Null intertwiner is always massless and base-carried.
 Tau.BookV.Temporal.null_transport_scale :BookIV.Sectors.em_sector.coupling_numer = BookIV.Sectors.iota_sq_numer ∧ BookIV.Sectors.em_sector.coupling_denom = BookIV.Sectors.iota_sq_denom**
 
 
-The EM sector coupling ι_τ² is the null-transport scale.
+The EM sector coupling ι<sub>τ</sub>² is the null-transport scale.
 
 ---
 

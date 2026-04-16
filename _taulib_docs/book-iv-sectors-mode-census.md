@@ -480,7 +480,7 @@ Tau.BookIV.Sectors.ModeCensus.charge_fraction_square :11 * 11 = 121 ∧ 15 * 15 
 
 
 [IV.P08] The charge fraction 11/15 satisfies (11/15)² = 121/225.
-This is the coefficient in the tower formula α = (121/225)·ι_τ⁴.
+This is the coefficient in the tower formula α = (121/225)·ι<sub>τ</sub>⁴.
 
 ---
 

@@ -44,7 +44,7 @@ connection to the Epstein zeta function and √3 spectral distance.
 
 - [IV.D311] Chowla-Selberg — wraps `ChowlaSelbergTerms`
 
-- [IV.T114] Leading term ∝ ι_τ^{-7} — `leading_exponent_seven`
+- [IV.T114] Leading term ∝ ι<sub>τ</sub>^{-7} — `leading_exponent_seven`
 
 - [IV.R338] s=4 forced — `s4_forced`
 
@@ -75,8 +75,8 @@ Tau.BookIV.MassDerivation.MassHierarchy :Type**
 
 
 [IV.R336] Three-tier mass hierarchy:
-bulk ι_τ^(-7) ≈ 1848, surface √3·ι_τ^(-2) ≈ 14.9,
-coupling π³α²·ι_τ^(-2) ≈ 0.014.
+bulk ι<sub>τ</sub>^(-7) ≈ 1848, surface √3·ι<sub>τ</sub>^(-2) ≈ 14.9,
+coupling π³α²·ι<sub>τ</sub>^(-2) ≈ 0.014.
 
 - bulk_approx : ℕ
 - surface_approx : ℕ
@@ -130,7 +130,7 @@ Instances For
 Tau.BookIV.MassDerivation.BreathingOperator :Type**
 
 
-[IV.D309] Breathing operator B = (1/ι_τ²)·Δ_Hodge⁻¹ on fiber T².
+[IV.D309] Breathing operator B = (1/ι<sub>τ</sub>²)·Δ_Hodge⁻¹ on fiber T².
 
 - inv_coeff_numer : ℕ
 - inv_coeff_denom : ℕ
@@ -253,7 +253,7 @@ Tau.BookIV.MassDerivation.breathing_spectrum_discrete :breathing_spectrum.is_dis
 Tau.BookIV.MassDerivation.EpsteinZetaOnT2 :Type**
 
 
-[IV.D310] Epstein zeta Z(s; iι_τ) as spectral zeta of B on T².
+[IV.D310] Epstein zeta Z(s; iι<sub>τ</sub>) as spectral zeta of B on T².
 
 - zeta : Calibration.EpsteinZetaStructure
 - interpretation : String
@@ -337,7 +337,7 @@ Instances For
 Tau.BookIV.MassDerivation.leading_exponent_seven :Calibration.chowla_selberg_s4.leading_exp = -7**
 
 
-[IV.T114] Leading term ∝ ι_τ^{-7} (exponent = 1−2×4 = −7).
+[IV.T114] Leading term ∝ ι<sub>τ</sub>^{-7} (exponent = 1−2×4 = −7).
 
 ---
 

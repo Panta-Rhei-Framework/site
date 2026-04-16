@@ -727,7 +727,7 @@ Tau.BookIV.Electroweak.EmissionAmplitude :Type**
 
 
 [IV.P36] Emission/absorption amplitude proportional to √α.
-The coupling constant α = (8/15)·ι_τ⁴ enters as amplitude squared.
+The coupling constant α = (8/15)·ι<sub>τ</sub>⁴ enters as amplitude squared.
 
 - amplitude_sq_numer : ℕ
 Amplitude squared = α (fine structure constant).
@@ -782,7 +782,7 @@ Instances For
 Tau.BookIV.Electroweak.emission_alpha :EmissionAmplitude**
 
 
-Canonical emission amplitude: α_spec = (8/15)·ι_τ⁴.
+Canonical emission amplitude: α_spec = (8/15)·ι<sub>τ</sub>⁴.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For

@@ -26,7 +26,7 @@ right_rail:
 # TauLib.BookVI.CosmicLife.CrossLimit
 
 
-Crossing-Limit Theorem: merger-directed net converges to ι_τ = 2/(π+e).
+Crossing-Limit Theorem: merger-directed net converges to ι<sub>τ</sub> = 2/(π+e).
 Includes ω-representative, Lift_ω constructor, primorial ladder convergence,
 fusion convergence, and universal BH.
 
@@ -142,7 +142,7 @@ Tau.BookVI.CrossLimit.LiftOmegaConstructor :Type**
 
 [VI.D61] Lift_ω constructor: recursive builder from bipolar seed
 through primorial ladder P_k = 2, 6, 30, 210, 2310, ...
-Converges superexponentially to ι_τ.
+Converges superexponentially to ι<sub>τ</sub>.
 
 - recursive : Bool
 Recursive construction.
@@ -151,13 +151,13 @@ Recursive construction.
 Uses primorial ladder.
 
 - converges_to_iota : Bool
-Converges to ι_τ = 2/(π+e).
+Converges to ι<sub>τ</sub> = 2/(π+e).
 
 - superexponential : Bool
 Convergence rate is superexponential.
 
 - iota_irrational : Bool
-Well-definedness requires ι_τ irrational.
+Well-definedness requires ι<sub>τ</sub> irrational.
 
 Instances For
 
@@ -205,7 +205,7 @@ Instances For
 Tau.BookVI.CrossLimit.primorial_approx :List (ℕ × ℕ)**
 
 
-First few primorial approximations to ι_τ.
+First few primorial approximations to ι<sub>τ</sub>.
 P_0=2: c_0/P_0 = 1/2 = 0.500
 P_1=6: c_1/P_1 = 2/6 = 0.333
 P_3=210: c_3/P_3 = 72/210 = 0.342857
@@ -224,7 +224,7 @@ Tau.BookVI.CrossLimit.primorial_stage4_numer :primorial_approx[4]!.1 = 789**
 
 
 Primorial approximation at stage 4 (c₄=789, P₄=2310).
-789/2310 ≈ 0.341558, within 10⁻⁴ of ι_τ.
+789/2310 ≈ 0.341558, within 10⁻⁴ of ι<sub>τ</sub>.
 
 ---
 
@@ -244,8 +244,8 @@ Tau.BookVI.CrossLimit.primorial_stage4_denom :primorial_approx[4]!.2 = 2310**
 Tau.BookVI.CrossLimit.primorial_convergence :lift_omega.superexponential = true ∧ lift_omega.converges_to_iota = true ∧ lift_omega.iota_irrational = true**
 
 
-[VI.L11] Primorial ladder converges superexponentially to ι_τ.
-Error bound: |c_k/P_k - ι_τ| ≤ 1/(2·p_{k+1}).
+[VI.L11] Primorial ladder converges superexponentially to ι<sub>τ</sub>.
+Error bound: |c_k/P_k - ι<sub>τ</sub>| ≤ 1/(2·p_{k+1}).
 Coherence: c_{k+1} ≡ c_k (mod P_k) for all k.
 
 ---
@@ -260,17 +260,17 @@ Tau.BookVI.CrossLimit.FusionConvergence :Type**
 [VI.T31] Fusion Convergence: BH merger monotonically converges codes.
 (i) Monotone: d_k(code_f) ≤ max{d_k(code_1), d_k(code_2)}
 (ii) Strict improvement for distinct codes at ∞-many levels
-(iii) Limit: merger net → ι_τ
+(iii) Limit: merger net → ι<sub>τ</sub>
 Authority: V.D171 (Blueprint Fusion), V.T112 (Monoid Closure).
 
 - monotone : Bool
-Fusion never increases ι_τ-distance.
+Fusion never increases ι<sub>τ</sub>-distance.
 
 - strict_improvement : Bool
 Distinct codes yield strict improvement.
 
 - converges_to_iota : Bool
-Net converges to ι_τ.
+Net converges to ι<sub>τ</sub>.
 
 - no_inverses : Bool
 Blueprint monoid has no inverses (irreversibility).
@@ -330,13 +330,13 @@ Tau.BookVI.CrossLimit.fusion_convergence :fusion_conv.monotone = true ∧ fusion
 Tau.BookVI.CrossLimit.CrossingLimitTheorem :Type**
 
 
-[VI.T35] Crossing-Limit Theorem: merger-directed net → ι_τ.
+[VI.T35] Crossing-Limit Theorem: merger-directed net → ι<sub>τ</sub>.
 Three-step proof: (1) monotonicity from VI.T31, (2) strict improvement
 from primorial ladder, (3) standard net convergence.
 Cofinal sequence authority: V.T116 (Finite Motif), V.T117 (Saturation Radius).
 
 - target : String
-Target value is ι_τ = 2/(π+e).
+Target value is ι<sub>τ</sub> = 2/(π+e).
 
 - monotone_fusion : Bool
 Monotone fusion (from VI.T31).
@@ -406,13 +406,13 @@ Tau.BookVI.CrossLimit.UniversalBH :Type**
 
 
 [VI.T36] Universal BH: colimit of merger net.
-(i) code = ι_τ exactly
+(i) code = ι<sub>τ</sub> exactly
 (ii) All defect functionals vanish
 (iii) 7/7 hallmarks at terminal values
 Colimit existence: V.T117 (Saturation Radius Theorem).
 
 - code_is_iota : Bool
-ω-germ code equals ι_τ exactly.
+ω-germ code equals ι<sub>τ</sub> exactly.
 
 - all_defects_zero : Bool
 All defect functionals (frame + strong) vanish.

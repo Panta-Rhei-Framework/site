@@ -37,7 +37,7 @@ This cluster therefore does three things.
 
 First, it describes the **fabric of physical reality** in Tau: what the underlying substrate is, how it is structured, and why quantization, geometry, and lawfulness are not bolted on from outside.
 
-Second, it describes the **world-picture** of Tau physics: the global shape of reality, the status of time and becoming, the closure of the sector architecture, and the emergence of a quantitative hierarchy through `ι_τ`.
+Second, it describes the **world-picture** of Tau physics: the global shape of reality, the status of time and becoming, the closure of the sector architecture, and the emergence of a quantitative hierarchy through `ι<sub>τ</sub>`.
 
 Third, it prepares the transition into the detailed results collection by showing how that collection should be read: not as a disconnected list of strong claims, but as the many readouts of one already-specified physical world.
 

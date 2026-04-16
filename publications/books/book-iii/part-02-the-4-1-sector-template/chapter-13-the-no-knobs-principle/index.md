@@ -48,7 +48,7 @@ One structural question remains:
 The answer, established in this chapter, is that
 there is no freedom in the coupling strengths at all.
 Every coupling is a canonical rational function of the master constant
-ι_τ = 2/(π + e)
+ι<sub>τ</sub> = 2/(π + e)
 evaluated at a specific primorial depth.
 The theory has no adjustable parameters—no knobs to turn.
 This is the **No Knobs Principle**,

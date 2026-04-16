@@ -63,7 +63,7 @@ Level 2 (Quantitative): precise numerical predictions:
 
 - G to 3 ppm (from closing identity with c₁ = 3/π)
 
-- r ι_τ⁴ 0.014 (tensor-to-scalar ratio)
+- r ι<sub>τ</sub>⁴ 0.014 (tensor-to-scalar ratio)
 
 - sin²θ_W from sector coupling ratios
 

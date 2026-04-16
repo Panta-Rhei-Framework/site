@@ -28,7 +28,7 @@ right_rail:
 
 Boundary unification. All physics from boundary data. Complete
 synthesis of the five sectors via commuting Hartogs squares.
-Cross-coupling as naturality. ι_τ mediates all ten couplings.
+Cross-coupling as naturality. ι<sub>τ</sub> mediates all ten couplings.
 
 ## Registry Cross-References
 
@@ -43,7 +43,7 @@ Cross-coupling as naturality. ι_τ mediates all ten couplings.
 
 - [V.R246] Naturality replaces gauge invariance -- structural remark
 
-- [V.P104] ι_τ mediates all ten couplings -- `iota_mediates_all`
+- [V.P104] ι<sub>τ</sub> mediates all ten couplings -- `iota_mediates_all`
 
 - [V.R247] Scope note: implementation roadmap -- structural remark
 
@@ -56,11 +56,11 @@ Cross-coupling as naturality. ι_τ mediates all ten couplings.
 
 All C(4,2) = 6 pairs of primitive sectors {D, A, B, C} satisfy
 commuting Hartogs squares in H_∂[ω]. Each pair has a well-defined
-cross-coupling κ(X,Y) that is a rational function of ι_τ.
+cross-coupling κ(X,Y) that is a rational function of ι<sub>τ</sub>.
 
 The 6 pairs: DA, DB, DC, AB, AC, BC.
 Together with 4 self-couplings and the closing identity, all 10+1
-coupling relations are determined by ι_τ alone.
+coupling relations are determined by ι<sub>τ</sub> alone.
 
 ### Cross-Coupling as Naturality
 
@@ -70,16 +70,16 @@ spectral weight of a natural transformation η_{X,Y} between the
 two sector functors. Naturality (= functorial coherence) replaces
 gauge invariance as the organizing principle.
 
-### ι_τ Mediates All Ten Couplings
+### ι<sub>τ</sub> Mediates All Ten Couplings
 
 
 Every coupling constant in τ (self-couplings, cross-couplings, α, G,
 and the closing identity) is a rational function of the single
-master constant ι_τ = 2/(π+e).
+master constant ι<sub>τ</sub> = 2/(π+e).
 
 4 self-couplings: κ(D;1), κ(A;2), κ(B;1), κ(C;3)
 6 cross-couplings: κ(D,A), κ(D,B), κ(D,C), κ(A,B), κ(A,C), κ(B,C)
-Total: 10 couplings, ALL from ι_τ.
+Total: 10 couplings, ALL from ι<sub>τ</sub>.
 
 ### Boundary Unification Principle
 
@@ -272,7 +272,7 @@ Tau.BookV.Cosmology.BoundaryCompleteness :Type**
 of primitive sectors satisfy commuting Hartogs squares in H_∂[ω].
 
 Each pair has a well-defined cross-coupling κ(X,Y) that is a
-rational function of ι_τ. No pair is "missing" or "decoupled."
+rational function of ι<sub>τ</sub>. No pair is "missing" or "decoupled."
 
 This is the culminating theorem of Book V: the τ-framework
 provides a complete, self-consistent description of all
@@ -288,7 +288,7 @@ All 6 pairs present.
 Whether all Hartogs squares commute.
 
 - all_iota_rational : Bool
-Whether all cross-couplings are ι_τ-rational.
+Whether all cross-couplings are ι<sub>τ</sub>-rational.
 
 Instances For
 
@@ -555,8 +555,8 @@ Equations
 Tau.BookV.Cosmology.all_couplings :List CouplingEntry**
 
 
-[V.P104] ι_τ mediates all ten couplings: every coupling constant
-in τ is a rational function of ι_τ = 2/(π+e).
+[V.P104] ι<sub>τ</sub> mediates all ten couplings: every coupling constant
+in τ is a rational function of ι<sub>τ</sub> = 2/(π+e).
 
 4 self-couplings + 6 cross-couplings = 10 total.
 Plus the closing identity (α_G from α¹⁸) = 11th relation.

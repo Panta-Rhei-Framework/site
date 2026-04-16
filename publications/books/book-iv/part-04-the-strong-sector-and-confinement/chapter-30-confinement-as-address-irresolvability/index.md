@@ -45,5 +45,5 @@ In Category τ, confinement is *not* dynamical at all.
 It is **address irresolvability**: an isolated colour charge
 cannot be given a consistent CR address on T².
 The confinement phenomenon is a structural impossibility, not an
-energetic one. The denominator (1 - ι_τ) in
-κ(C;3) = ι_τ³/(1 - ι_τ) is its algebraic signature.
+energetic one. The denominator (1 - ι<sub>τ</sub>) in
+κ(C;3) = ι<sub>τ</sub>³/(1 - ι<sub>τ</sub>) is its algebraic signature.

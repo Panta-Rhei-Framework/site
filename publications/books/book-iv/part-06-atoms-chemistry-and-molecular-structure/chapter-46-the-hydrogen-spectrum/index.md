@@ -15,7 +15,7 @@ page_in_book: 273
 prev_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-45-the-hydrogen-atom-bohr-radius-and-rydberg-constant/"
 prev_chapter_title: "Chapter 45: The Hydrogen Atom: Bohr Radius and Rydberg Constant"
 next_chapter_url: "/publications/books/book-iv/part-06-atoms-chemistry-and-molecular-structure/chapter-47-hyperfine-structure-and-the-role-of-iota-tau/"
-next_chapter_title: "Chapter 47: Hyperfine Structure and the Role of ι_τ"
+next_chapter_title: "Chapter 47: Hyperfine Structure and the Role of ι<sub>τ</sub>"
 summary_short: "The hydrogen atom emits and absorbs light at discrete wavelengths, not a continuum. In Category τ, these spectral lines are the direct fingerprint of…"
 canonical_book_url: "/publications/books/book-iv/"
 canonical_book_title: "Book IV: Categorical Microcosm"

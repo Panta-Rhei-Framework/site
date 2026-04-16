@@ -27,7 +27,7 @@ right_rail:
 
 
 Gravitational reference frames, frame holonomy, and the gravitational
-coupling κ_τ = 1 − ι_τ from D-sector loop transport.
+coupling κ_τ = 1 − ι<sub>τ</sub> from D-sector loop transport.
 
 ## Registry Cross-References
 
@@ -48,9 +48,9 @@ coupling κ_τ = 1 − ι_τ from D-sector loop transport.
 
 - [V.T20] D-sector Holonomy — `d_sector_holonomy_gap`
 
-- [V.T21] Shape Ratio = ι_τ — `shape_ratio_is_iota`
+- [V.T21] Shape Ratio = ι<sub>τ</sub> — `shape_ratio_is_iota`
 
-- [V.T22] G = (c³/ℏ)·ι_τ² — `g_from_iota_squared`
+- [V.T22] G = (c³/ℏ)·ι<sub>τ</sub>² — `g_from_iota_squared`
 
 - [V.T23] κ_τ is σ-fixed — `kappa_sigma_fixed_thm`
 
@@ -83,7 +83,7 @@ holonomy group at depth n.
 ### Gravitational Coupling
 
 
-κ_τ = 1 − ι_τ is the D-sector self-coupling. The temporal complement
+κ_τ = 1 − ι<sub>τ</sub> is the D-sector self-coupling. The temporal complement
 identity κ_τ + κ_A = 1 partitions the base circle into gravity (D) and
 weak (A) sectors. κ_τ is σ-fixed (unpolarized).
 
@@ -341,7 +341,7 @@ Tau.BookV.GravityField.TorusVacuumRestated :Type**
 [V.D44] Torus vacuum restated in the gravitational field context.
 
 The torus vacuum from ch16 (V.D01) is restated here to emphasize
-that the shape ratio r/R = ι_τ determines the gravitational
+that the shape ratio r/R = ι<sub>τ</sub> determines the gravitational
 coupling strength.
 
 This is a lightweight wrapper referencing the original TorusVacuum.
@@ -401,19 +401,19 @@ Tau.BookV.GravityField.GTauFromShape :Type**
 
 
 [V.D45] G_τ from shape ratio: the gravitational constant derived
-from the torus vacuum shape ratio r/R = ι_τ.
+from the torus vacuum shape ratio r/R = ι<sub>τ</sub>.
 
-In orthodox units: G = (c³/ℏ) · ι_τ²
+In orthodox units: G = (c³/ℏ) · ι<sub>τ</sub>²
 
-The ι_τ² factor is the structural core.
+The ι<sub>τ</sub>² factor is the structural core.
 Numerator = iota² = 341304² = 116594274681
 Denominator = iotaD² = 10¹²
 
 - iota_sq_num : ℕ
-ι_τ² numerator.
+ι<sub>τ</sub>² numerator.
 
 - iota_sq_den : ℕ
-ι_τ² denominator.
+ι<sub>τ</sub>² denominator.
 
 - denom_pos : self.iota_sq_den > 0
 Denominator positive.
@@ -471,7 +471,7 @@ Tau.BookV.GravityField.GTauFromShape.toFloat
  :Float**
 
 
-G_τ shape factor as Float (≈ 0.116594, i.e., ι_τ²).
+G_τ shape factor as Float (≈ 0.116594, i.e., ι<sub>τ</sub>²).
 Equations
 - g.toFloat = Float.ofNat g.iota_sq_num / Float.ofNat g.iota_sq_den
 Instances For
@@ -485,7 +485,7 @@ Instances For
 Tau.BookV.GravityField.GravitationalCoupling :Type**
 
 
-[V.D46] Gravitational coupling κ_τ = 1 − ι_τ.
+[V.D46] Gravitational coupling κ_τ = 1 − ι<sub>τ</sub>.
 
 The D-sector self-coupling at primorial depth 1.
 Numerically: κ_τ = 658541/1000000 ≈ 0.658541.
@@ -510,7 +510,7 @@ Properties:
 Denominator positive.
 
 - is_one_minus_iota : self.kappa_numer = BookIV.Sectors.iotaD - BookIV.Sectors.iota ∧ self.kappa_denom = BookIV.Sectors.iotaD
-The value equals 1 − ι_τ.
+The value equals 1 − ι<sub>τ</sub>.
 
 - sigma_fixed : Bool
 σ-fixed (unpolarized).
@@ -581,8 +581,8 @@ Tau.BookV.GravityField.temporal_complement :BookIV.Sectors.iotaD - BookIV.Sector
 
 [V.C01] Temporal complement: κ_τ + κ_A = 1.
 
-The gravity coupling (D-sector, 1 − ι_τ) and the weak coupling
-(A-sector, ι_τ) sum to 1, partitioning the base circle τ¹.
+The gravity coupling (D-sector, 1 − ι<sub>τ</sub>) and the weak coupling
+(A-sector, ι<sub>τ</sub>) sum to 1, partitioning the base circle τ¹.
 
 Cross-multiplied: (iotaD − iota) + iota = iotaD.
 
@@ -623,7 +623,7 @@ non-trivial holonomy element: gap_numer = 1 (in normalized units).
 Tau.BookV.GravityField.shape_ratio_is_iota :g_tau_from_shape.iota_sq_num = BookIV.Sectors.iota * BookIV.Sectors.iota ∧ g_tau_from_shape.iota_sq_den = BookIV.Sectors.iotaD * BookIV.Sectors.iotaD**
 
 
-[V.T21] The torus vacuum shape ratio r/R = ι_τ.
+[V.T21] The torus vacuum shape ratio r/R = ι<sub>τ</sub>.
 Restated from V.T01 in the gravitational field context.
 
 ---
@@ -635,8 +635,8 @@ Restated from V.T01 in the gravitational field context.
 Tau.BookV.GravityField.g_from_iota_squared :g_tau_from_shape.iota_sq_num > 0 ∧ g_tau_from_shape.iota_sq_den > 0**
 
 
-[V.T22] G_τ = (c³/ℏ) · ι_τ²: the gravitational constant is
-proportional to ι_τ² with the Planck-unit prefactor.
+[V.T22] G_τ = (c³/ℏ) · ι<sub>τ</sub>²: the gravitational constant is
+proportional to ι<sub>τ</sub>² with the Planck-unit prefactor.
 Verified: iota * iota > 0 (positive coupling).
 
 ---
@@ -677,7 +677,7 @@ Tau.BookV.GravityField.gap_refinement_invariant :canonical_grav_coupling.kappa_n
 
 
 [V.P11] Total gap refinement invariance: the total holonomy
-around a full loop is κ_τ = 1 − ι_τ, independent of depth n.
+around a full loop is κ_τ = 1 − ι<sub>τ</sub>, independent of depth n.
 Only the resolution (gap size) changes, not the total phase.
 
 ---

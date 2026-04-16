@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Calibration.EpsteinZeta
 lean_name: Tau.BookIV.Calibration.EpsteinZetaStructure
-summary: Epstein zeta function Z(s; iι_τ) on rectangular lattice with shape parameter
-  ι_τ. Structure records shape numer/denom, evaluation point s, scope label.
+summary: Epstein zeta function Z(s; iι<sub>τ</sub>) on rectangular lattice with shape parameter
+  ι<sub>τ</sub>. Structure records shape numer/denom, evaluation point s, scope label.
 depends_on:
 - I.D01
 depended_by:

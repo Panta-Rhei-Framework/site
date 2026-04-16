@@ -70,16 +70,16 @@ This is the most direct proof:
 the topological structure of $τ^3$
 forces exactly three independent one-cycles.
 
-The fiber $T^2 = (R · S^1) × (ι_τ R · S^1)$
-with aspect ratio $r/R = ι_τ$
+The fiber $T^2 = (R · S^1) × (ι<sub>τ</sub> R · S^1)$
+with aspect ratio $r/R = ι<sub>τ</sub>$
 carries a Laplacian
 whose primitive eigenvalue spectrum
 (modes $(n,m)$ with $(n,m) = 1$)
 supports exactly three stable generation modes
 below the first composite-mode threshold:
 $λ_(1,0) = 1$,
-$λ_(0,1) = ι_τ^-2 ≈ 8.585$,
-$λ_(1,1) = 1 + ι_τ^-2 ≈ 9.585$.
+$λ_(0,1) = ι<sub>τ</sub>^-2 ≈ 8.585$,
+$λ_(1,1) = 1 + ι<sub>τ</sub>^-2 ≈ 9.585$.
 The next primitive mode $(2,1)$
 has $λ_(2,1) ≈ 12.58$,
 exceeding the composite threshold $λ_(2,0) = 4$.

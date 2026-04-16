@@ -46,7 +46,7 @@ scale analysis.
 
 The τ-Schwarzschild geometry has exactly one free scale parameter: the
 linking mass M. All other quantities (R, r, G_τ, torus frequencies) are
-determined by M through ι_τ. This is because the shape ratio r/R = ι_τ
+determined by M through ι<sub>τ</sub>. This is because the shape ratio r/R = ι<sub>τ</sub>
 is fixed by the axioms, reducing the two-parameter torus (R, r) to a
 one-parameter family indexed by M.
 
@@ -74,14 +74,14 @@ Tau.BookV.GravityField.SingleScaleDOF :Type**
 
 [V.L4] Single scale degree of freedom: τ-Schwarzschild has exactly
 one free scale parameter (linking mass M). All other quantities are
-determined by M through ι_τ.
+determined by M through ι<sub>τ</sub>.
 
 
-- Shape ratio r/R = ι_τ (fixed by axioms K0-K6)
+- Shape ratio r/R = ι<sub>τ</sub> (fixed by axioms K0-K6)
 
 - Schwarzschild radius R = 2G_τ M
 
-- Inner radius r = ι_τ · R
+- Inner radius r = ι<sub>τ</sub> · R
 
 - QNM frequencies ∝ 1/R (outer) and 1/r (inner)
 
@@ -100,7 +100,7 @@ Exactly one free parameter (M).
 Torus parameters (R, r).
 
 - shape_constraints : ℕ
-Shape constraints (r/R = ι_τ).
+Shape constraints (r/R = ι<sub>τ</sub>).
 
 - shape_fixed : Bool
 Shape ratio is fixed (not free).
@@ -196,7 +196,7 @@ of the mature BH population.
 
 - Below M_min: linking topology relaxes → no stable T² vacuum
 
-- Above M_min: torus vacuum stabilizes → mature BH with r/R = ι_τ
+- Above M_min: torus vacuum stabilizes → mature BH with r/R = ι<sub>τ</sub>
 
 - M_min sets the Chandrasekhar-scale threshold for τ-BH formation
 

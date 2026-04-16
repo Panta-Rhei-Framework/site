@@ -35,7 +35,7 @@ every structural theorem developed throughout Book IV.
 
 The complete coupling ledger 
 tabulates all ten inter-sector couplings as rational functions
-of a single number ι_τ.
+of a single number ι<sub>τ</sub>.
 The ontological layer stack
 
 organizes the derivations into a strict hierarchy:
@@ -46,7 +46,7 @@ explains why τ³ has no renormalization group flow:
 constants are read out, not run.
 The 10-link mass ratio chain
 
-derives R = m_n / m_e from ι_τ alone,
+derives R = m_n / m_e from ι<sub>τ</sub> alone,
 matching CODATA to sub-ppm precision.
 The neutron lifetime
 

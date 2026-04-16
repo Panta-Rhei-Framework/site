@@ -737,7 +737,7 @@ H_1(T²) ≅ Z² (rank 2 homology), H_1(S²) = 0 (rank 0).
 Tau.BookV.Astrophysics.FluxRatio :Type**
 
 
-[V.P153] Flux Ratio: Φ_pol/Φ_tor ~ ι_τ ≈ 0.341 from area ratio.
+[V.P153] Flux Ratio: Φ_pol/Φ_tor ~ ι<sub>τ</sub> ≈ 0.341 from area ratio.
 
 - phi_pol_x1000 : ℕ
 Poloidal flux (units × 1000).
@@ -894,11 +894,11 @@ at the jet base and conserved along the jet (frozen flux + Taylor).
 
 [source](https://github.com/ThorFuchs/PantaRhei-2ndEd/blob/87ff63f4499acab4176a3022155d2ef1751f3e06/lean4/TauLib/TauLib/BookV/Astrophysics/AccretionJets.lean#L406-L410)
 **theorem
-Tau.BookV.Astrophysics.jet_collimation_from_hoop_stress :"sin(θ_jet) ≤ B_z/B_φ = ι_τ ≈ 0.341 → θ_jet ≤ 20°" = "sin(θ_jet) ≤ B_z/B_φ = ι_τ ≈ 0.341 → θ_jet ≤ 20°"**
+Tau.BookV.Astrophysics.jet_collimation_from_hoop_stress :"sin(θ_jet) ≤ B_z/B_φ = ι<sub>τ</sub> ≈ 0.341 → θ_jet ≤ 20°" = "sin(θ_jet) ≤ B_z/B_φ = ι<sub>τ</sub> ≈ 0.341 → θ_jet ≤ 20°"**
 
 
 [V.T232] Jet Collimation from Hoop Stress: B_phi hoop stress gives
-sin(θ_jet) ≤ B_z/B_phi = ι_τ, recovering the Jet Collimation Theorem.
+sin(θ_jet) ≤ B_z/B_phi = ι<sub>τ</sub>, recovering the Jet Collimation Theorem.
 
 ---
 

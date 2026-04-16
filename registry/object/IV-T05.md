@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIV.Calibration.CalibrationAnchor
 lean_name: Tau.BookIV.Calibration.parameter_count
 summary: 'Exactly ONE free parameter: the neutron mass. Zero free dimensionless parameters
-  (all fixed by ι_τ = 2/(π+e)). All dimensional quantities factor through the single
+  (all fixed by ι<sub>τ</sub> = 2/(π+e)). All dimensional quantities factor through the single
   anchor Λ_M.'
 depends_on:
 - IV.D30

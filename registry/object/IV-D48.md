@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Calibration.MassRatioFormula
 lean_name: Tau.BookIV.Calibration.Level1PlusFormula
-summary: 'R₁ = ι_τ^(-7) − (√3+π³α²)·ι_τ^(-2). Level 1+ formula with holonomy correction.
-  At exact ι_τ: 0.025 ppm accuracy. Structure records exponents and accuracy.'
+summary: 'R₁ = ι<sub>τ</sub>^(-7) − (√3+π³α²)·ι<sub>τ</sub>^(-2). Level 1+ formula with holonomy correction.
+  At exact ι<sub>τ</sub>: 0.025 ppm accuracy. Structure records exponents and accuracy.'
 depends_on:
 - IV.D47
 - IV.D45

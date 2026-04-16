@@ -56,7 +56,7 @@ each governed by its own calibration constant
 (π for B, e for C).
 The coupling between the two channels
 is controlled by the master constant
-ι_τ = 2/(π + e)
+ι<sub>τ</sub> = 2/(π + e)
 (I.D24, Book I; II.T25, the relevant chapter).
 The main results are:
 the lift *exists* ,

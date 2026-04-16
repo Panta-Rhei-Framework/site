@@ -8,10 +8,10 @@ prediction_id: "pred-046"
 domain: "cosmology"
 domain_display: "Cosmology"
 observable: "Ω_Λ"
-observable_mathml: "<math><mi>κD(1 + ι_τ³)</mi></math>"
-formula_plain: "κD(1 + ι_τ³)"
-formula_mathml: "<math><mi>κD(1 + ι_τ³)</mi></math>"
-formula_display: "Ω_Λ = κ_D · (1 + ι_τ³) = 0.6849"
+observable_mathml: "<math><mi>κD(1 + ι<sub>τ</sub>³)</mi></math>"
+formula_plain: "κD(1 + ι<sub>τ</sub>³)"
+formula_mathml: "<math><mi>κD(1 + ι<sub>τ</sub>³)</mi></math>"
+formula_display: "Ω_Λ = κ_D · (1 + ι<sub>τ</sub>³) = 0.6849"
 tau_value: "0.6849"
 observed_value: "0.685 ± 0.007"
 deviation: "-433~ppm"
@@ -42,7 +42,7 @@ right_rail:
 
 ## τ-Formula
 
-**Ω_Λ = κ_D · (1 + ι_τ³) = 0.6849**
+**Ω_Λ = κ_D · (1 + ι<sub>τ</sub>³) = 0.6849**
 
 ## Derivation
 
@@ -71,7 +71,7 @@ within Category $τ$.
 The dissolution is not speculative:
 it rests on five quantitative results,
 each derived from the master constant
-$ι_τ = 2/(π + e)$
+$ι<sub>τ</sub> = 2/(π + e)$
 with zero free parameters.
 
 - **Flat rotation curves**:
@@ -83,7 +83,7 @@ at $0.067$ dex RMS
 (V.T85, V.D258).
 
 - **Dark energy density**:
-$Ω_Λ = κ_D(1 + ι_τ^3) = 0.6849$,
+$Ω_Λ = κ_D(1 + ι<sub>τ</sub>^3) = 0.6849$,
 matching Planck at $+269$ ppm
 (V.T234).
 

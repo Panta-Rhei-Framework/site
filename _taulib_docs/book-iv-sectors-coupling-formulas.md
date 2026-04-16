@@ -27,7 +27,7 @@ right_rail:
 
 
 The 10-entry coupling ledger: all inter-sector couplings as rational functions
-of ι_τ = 2/(π+e), with structural theorems.
+of ι<sub>τ</sub> = 2/(π+e), with structural theorems.
 
 ## Registry Cross-References
 
@@ -47,7 +47,7 @@ of ι_τ = 2/(π+e), with structural theorems.
 
 
 The No Knobs Principle (III.T08) determines all 10 inter-sector couplings
-from ι_τ alone. This module gives the explicit rational function formulas:
+from ι<sub>τ</sub> alone. This module gives the explicit rational function formulas:
 
 ### Self-couplings (4)
 
@@ -58,22 +58,22 @@ Physical meaning
 
 
 D (Gravity)
-1 − ι_τ
+1 − ι<sub>τ</sub>
 Temporal flow magnitude
 
 
 A (Weak)
-ι_τ
+ι<sub>τ</sub>
 Temporal arrow (= master constant)
 
 
 B (EM)
-ι_τ²
+ι<sub>τ</sub>²
 Spatial distance scale
 
 
 C (Strong)
-ι_τ³/(1−ι_τ)
+ι<sub>τ</sub>³/(1−ι<sub>τ</sub>)
 Confinement coupling
 
 
@@ -86,32 +86,32 @@ Physical meaning
 
 
 (A,B)
-ι_τ³
+ι<sub>τ</sub>³
 Electroweak (multiplicative closure κ(A)·κ(B))
 
 
 (A,C)
-ι_τ⁴/(1−ι_τ)
+ι<sub>τ</sub>⁴/(1−ι<sub>τ</sub>)
 Weak-Strong (multiplicative closure κ(A)·κ(C))
 
 
 (A,D)
-ι_τ(1−ι_τ)
+ι<sub>τ</sub>(1−ι<sub>τ</sub>)
 Weak-Gravity (temporal consistency)
 
 
 (B,C)
-ι_τ³/(1+ι_τ)
+ι<sub>τ</sub>³/(1+ι<sub>τ</sub>)
 EM-Strong = Higgs/mass crossing
 
 
 (B,D)
-ι_τ²(1−ι_τ)
+ι<sub>τ</sub>²(1−ι<sub>τ</sub>)
 EM-Gravity (lensing)
 
 
 (C,D)
-ι_τ³(1−ι_τ)
+ι<sub>τ</sub>³(1−ι<sub>τ</sub>)
 Strong-Gravity (mass curves time)
 
 
@@ -144,7 +144,7 @@ Strong-Gravity (mass curves time)
 Tau.BookIV.Sectors.CouplingFormula :Type**
 
 
-[IV.D07] A coupling formula: rational expression of ι_τ between
+[IV.D07] A coupling formula: rational expression of ι<sub>τ</sub> between
 two sectors, evaluated at the rational approximation.
 
 - sector_i : BookIII.Sectors.Sector
@@ -212,7 +212,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_DD :CouplingFormula**
 
 
-κ(D,D) = 1 − ι_τ: Gravity self-coupling.
+κ(D,D) = 1 − ι<sub>τ</sub>: Gravity self-coupling.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -226,7 +226,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_AA :CouplingFormula**
 
 
-κ(A,A) = ι_τ: Weak self-coupling.
+κ(A,A) = ι<sub>τ</sub>: Weak self-coupling.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -240,7 +240,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_BB :CouplingFormula**
 
 
-κ(B,B) = ι_τ²: EM self-coupling.
+κ(B,B) = ι<sub>τ</sub>²: EM self-coupling.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -254,7 +254,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_CC :CouplingFormula**
 
 
-κ(C,C) = ι_τ³/(1−ι_τ): Strong self-coupling (confinement).
+κ(C,C) = ι<sub>τ</sub>³/(1−ι<sub>τ</sub>): Strong self-coupling (confinement).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -268,7 +268,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_AB :CouplingFormula**
 
 
-κ(A,B) = ι_τ³: Electroweak coupling (multiplicative closure κ(A)·κ(B)).
+κ(A,B) = ι<sub>τ</sub>³: Electroweak coupling (multiplicative closure κ(A)·κ(B)).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -282,7 +282,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_AC :CouplingFormula**
 
 
-κ(A,C) = ι_τ⁴/(1−ι_τ): Weak-Strong coupling (multiplicative closure κ(A)·κ(C)).
+κ(A,C) = ι<sub>τ</sub>⁴/(1−ι<sub>τ</sub>): Weak-Strong coupling (multiplicative closure κ(A)·κ(C)).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -296,7 +296,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_AD :CouplingFormula**
 
 
-κ(A,D) = ι_τ(1−ι_τ): Weak-Gravity coupling (temporal consistency).
+κ(A,D) = ι<sub>τ</sub>(1−ι<sub>τ</sub>): Weak-Gravity coupling (temporal consistency).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -310,7 +310,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_BC :CouplingFormula**
 
 
-κ(B,C) = ι_τ³/(1+ι_τ): EM-Strong = Higgs/mass crossing.
+κ(B,C) = ι<sub>τ</sub>³/(1+ι<sub>τ</sub>): EM-Strong = Higgs/mass crossing.
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -324,7 +324,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_BD :CouplingFormula**
 
 
-κ(B,D) = ι_τ²(1−ι_τ): EM-Gravity (gravitational lensing).
+κ(B,D) = ι<sub>τ</sub>²(1−ι<sub>τ</sub>): EM-Gravity (gravitational lensing).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For
@@ -338,7 +338,7 @@ Instances For
 Tau.BookIV.Sectors.kappa_CD :CouplingFormula**
 
 
-κ(C,D) = ι_τ³(1−ι_τ): Strong-Gravity (mass curves time).
+κ(C,D) = ι<sub>τ</sub>³(1−ι<sub>τ</sub>): Strong-Gravity (mass curves time).
 Equations
 - One or more equations did not get rendered due to their size.
 Instances For

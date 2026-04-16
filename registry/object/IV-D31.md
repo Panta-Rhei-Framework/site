@@ -13,7 +13,7 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Calibration.CalibrationAnchor
 lean_name: Tau.BookIV.Calibration.TauToSIConversion
-summary: 'τ-to-SI conversion factor Λ_M = m_n(SI). All masses: m_x(SI) = Λ_M × r_x(ι_τ)
+summary: 'τ-to-SI conversion factor Λ_M = m_n(SI). All masses: m_x(SI) = Λ_M × r_x(ι<sub>τ</sub>)
   where r_x is the τ-native mass ratio. Structure records name, conversion numerator/denominator,
   anchor flag.'
 depends_on:

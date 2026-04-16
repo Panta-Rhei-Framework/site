@@ -38,7 +38,7 @@ series: the framework locates its own boundary with surgical precision.
 "No forced stance by theorem."
 Part XII then builds the **epistemic→performative bridge**: three registers—empirical,
 practical, diagrammatic—*tell*; they deliver propositional content. The fourth register—commitment—*demands doing*; it is constituted by the act itself.
-The master constant ι_τ has been the thread through all seven books. At the final
+The master constant ι<sub>τ</sub> has been the thread through all seven books. At the final
 boundary, it points toward ω. The step from *pointing* to *inhabiting* is the
 reader's own commitment.
 *The book ends where structure ends and life begins.*

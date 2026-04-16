@@ -27,7 +27,7 @@ right_rail:
 
 
 Inflation as rapid refinement. No inflaton field needed — refinement
-rate from ι_τ. e-fold count. Horizon problem resolution. Flatness
+rate from ι<sub>τ</sub>. e-fold count. Horizon problem resolution. Flatness
 from compactness (T² is compact with zero Gaussian curvature).
 
 ## Registry Cross-References
@@ -64,7 +64,7 @@ from compactness (T² is compact with zero Gaussian curvature).
 
 A dynamical equation on τ¹ is regime-invariant if its structural form
 is unchanged across all refinement depths. The τ-Einstein equation
-is regime-invariant: κ_τ = 1 − ι_τ is the SAME at all levels.
+is regime-invariant: κ_τ = 1 − ι<sub>τ</sub> is the SAME at all levels.
 
 ### Inflaton No-Go
 
@@ -88,7 +88,7 @@ in causal contact (finite profinite circle).
 ### Falsifiable Prediction
 
 
-The tensor-to-scalar ratio r ι_τ⁴ 0.014 is specific and
+The tensor-to-scalar ratio r ι<sub>τ</sub>⁴ 0.014 is specific and
 falsifiable. It lies below current BICEP3 bounds but within reach
 of future CMB-S4 experiments.
 
@@ -112,7 +112,7 @@ regime-invariant if its algebraic form is unchanged across
 all refinement depths.
 
 The τ-Einstein equation R^H[χ_{n+1}] = κ_τ · T[χ_n] is
-regime-invariant: κ_τ = 1 − ι_τ is fixed, only χ_n varies.
+regime-invariant: κ_τ = 1 − ι<sub>τ</sub> is fixed, only χ_n varies.
 
 - coupling_fixed : ℕ
 Coupling depth-independence (1 = fixed across all depths).
@@ -121,7 +121,7 @@ Coupling depth-independence (1 = fixed across all depths).
 Equation depth-independence (1 = structural form unchanged).
 
 - coupling_numer : ℕ
-Coupling value numerator (κ_τ = 1 − ι_τ ≈ 0.6585).
+Coupling value numerator (κ_τ = 1 − ι<sub>τ</sub> ≈ 0.6585).
 
 - coupling_denom : ℕ
 Coupling value denominator.
@@ -444,12 +444,12 @@ Tau.BookV.Cosmology.TensorToScalarPrediction :Type**
 
 
 [V.R217] Falsifiable prediction: tensor-to-scalar ratio
-r ~ ι_τ⁴ ≈ 0.014.
+r ~ ι<sub>τ</sub>⁴ ≈ 0.014.
 
 Encoded as r × 1000 ≈ 14.
 Below current BICEP3 bound (r < 0.036) but within CMB-S4 reach.
 
-ι_τ ≈ 0.341304, ι_τ⁴ ≈ 0.01360 (round to 0.014).
+ι<sub>τ</sub> ≈ 0.341304, ι<sub>τ</sub>⁴ ≈ 0.01360 (round to 0.014).
 
 - r_times_1000 : ℕ
 r × 1000 (rational encoding).
@@ -518,12 +518,12 @@ In the fibered product τ³ = τ¹ ×_f T²:
 
 - Scalar modes are boundary-character fluctuations on full τ³
 
-- Each fiber dimension contributes breathing-fraction suppression ι_τ
+- Each fiber dimension contributes breathing-fraction suppression ι<sub>τ</sub>
 
 - Power spectrum is quadratic in amplitude (P ∝ |δ|²)
 
 
-Therefore: r = ι_τ^{2 · dim(T²)} = ι_τ^{2×2} = ι_τ⁴.
+Therefore: r = ι<sub>τ</sub>^{2 · dim(T²)} = ι<sub>τ</sub>^{2×2} = ι<sub>τ</sub>⁴.
 
 - base_dim : ℕ
 Base dimension (τ¹).
@@ -553,7 +553,7 @@ Number of tensor polarizations (GW has 2: +,×).
 Number of adiabatic scalar modes.
 
 - free_params : ℕ
-Free parameters beyond ι_τ.
+Free parameters beyond ι<sub>τ</sub>.
 
 Instances For
 
@@ -613,7 +613,7 @@ The exponent 4 = 2 × 2 = dim(T²) × lobes = power_order × fiber_dim.
 Tau.BookV.Cosmology.r_not_slow_roll :8 * 1000000 / 57 ≠ 13573**
 
 
-r = ι_τ⁴ is NOT standard slow-roll: 8/N_e = 8/57 ≈ 0.140 ≠ ι_τ⁴ ≈ 0.014.
+r = ι<sub>τ</sub>⁴ is NOT standard slow-roll: 8/N_e = 8/57 ≈ 0.140 ≠ ι<sub>τ</sub>⁴ ≈ 0.014.
 Encoded: 8×10⁶/57 = 140350 ≠ 13573.
 
 ---

@@ -32,16 +32,16 @@ VI.T19 proves that ATP (adenosine triphosphate) is the unique energy oscillation
 
 ATP (adenosine triphosphate) is the universal energy currency of biological life — every known living cell uses ATP to store and transfer chemical energy. The question 'why ATP and not some other molecule?' is typically answered historically: ATP evolved early and became fixed by the same 'frozen accident' logic as the genetic code.
 
-VI.T19 proves ATP uniqueness from the τ-framework. The Agency sector is governed by the π-base generator and the π-coupling κ_A = ι_τ. The membrane is identified as the lemniscate boundary L = S¹ ∨ S¹ (VI.D33). An energy oscillation mode in the Agency sector must:
+VI.T19 proves ATP uniqueness from the τ-framework. The Agency sector is governed by the π-base generator and the π-coupling κ_A = ι<sub>τ</sub>. The membrane is identified as the lemniscate boundary L = S¹ ∨ S¹ (VI.D33). An energy oscillation mode in the Agency sector must:
 (1) Be compatible with the membrane topology: oscillations on S¹ ∨ S¹ are classified by winding numbers (n,m) on the two lobes.
-(2) Couple to the π-generator with strength κ_A = ι_τ.
+(2) Couple to the π-generator with strength κ_A = ι<sub>τ</sub>.
 (3) Provide a net usable energy difference ΔG > 0.
 
-VI.T19 proves that the combination of these three constraints admits exactly one admissible oscillation mode. The energy scale calibrated by ι_τ² gives an oscillation energy ≈ 30–50 kJ/mol, consistent with the measured ATP hydrolysis free energy ΔG ≈ –30.5 kJ/mol under standard conditions (within ~4% from the reference note VI.D32).
+VI.T19 proves that the combination of these three constraints admits exactly one admissible oscillation mode. The energy scale calibrated by ι<sub>τ</sub>² gives an oscillation energy ≈ 30–50 kJ/mol, consistent with the measured ATP hydrolysis free energy ΔG ≈ –30.5 kJ/mol under standard conditions (within ~4% from the reference note VI.D32).
 
 This uniqueness is not phylogenetic contingency but mathematical necessity: any life form using the Agency sector with the π-generator and lemniscate membrane must use the energy mode identified with ATP. The theorem is the open problem VI.OP15 (Why is ATP unique?) SOLVED.
 
 ## Result Statement
 
-VI.T19: ATP is the unique energy oscillation mode in the Agency sector. Topology (L = S¹ ∨ S¹) + π-coupling + ΔG > 0 constraints admit exactly one mode. Energy scale ≈ ι_τ² calibration at ~4% from measured ΔG. VI.OP15 SOLVED.
+VI.T19: ATP is the unique energy oscillation mode in the Agency sector. Topology (L = S¹ ∨ S¹) + π-coupling + ΔG > 0 constraints admit exactly one mode. Energy scale ≈ ι<sub>τ</sub>² calibration at ~4% from measured ΔG. VI.OP15 SOLVED.
 

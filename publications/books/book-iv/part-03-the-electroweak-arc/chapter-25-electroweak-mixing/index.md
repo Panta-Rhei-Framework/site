@@ -44,6 +44,6 @@ Standard Model "unifies" them as SU(2)_L×U(1)_Y. In
 Category τ the picture is more precise: the A-sector (weak,
 π) and B-sector (EM, γ) are *distinct sectors*
 that **couple** through the inter-sector parameter
-κ(A,B) = ι_τ³ ≈ 0.0398.
+κ(A,B) = ι<sub>τ</sub>³ ≈ 0.0398.
 Electroweak "unification" is *not* identity—it is
 coupling. The Weinberg angle is derived, not input.

@@ -16,7 +16,7 @@ prev_chapter_url: "/publications/books/book-vi/part-01-the-life-definition/chapt
 prev_chapter_title: "Chapter 10: Predictions by Absence: Virus, Neutron, NS-to-BH"
 next_chapter_url: "/publications/books/book-vi/part-02-persistence-archaea-and-the-temporal-axis/chapter-12-the-persistence-sector-temporal-stability-and-homeostasis/"
 next_chapter_title: "Chapter 12: The Persistence Sector: Temporal Stability and Homeostasis"
-summary_short: "Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι_τ set biological…"
+summary_short: "Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι<sub>τ</sub> set biological…"
 canonical_book_url: "/publications/books/book-vi/"
 canonical_book_title: "Book VI: Categorical Life"
 canonical_part_url: "/publications/books/book-vi/part-01-the-life-definition/"
@@ -38,4 +38,4 @@ right_rail:
 ---
 
 
-Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι_τ set biological scales. The τ³ domain correspondence maps τ¹ to temporal rhythm, T² to spatial structure, and 𝕃 to the cell membrane. Thermodynamic necessity shows that life is structurally required, not accidental.
+Cross-sectoral foundations: the seven categorical forces are instantiated in living systems, and calibration constants derived from ι<sub>τ</sub> set biological scales. The τ³ domain correspondence maps τ¹ to temporal rhythm, T² to spatial structure, and 𝕃 to the cell membrane. Thermodynamic necessity shows that life is structurally required, not accidental.

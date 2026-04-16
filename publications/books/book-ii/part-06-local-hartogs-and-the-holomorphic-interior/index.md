@@ -37,14 +37,14 @@ holomorphic functions, and establish the canonical function representation.
 
 the relevant chapter restates the split-complex codomain
 H_τ = A_τ^(B) × A_τ^(C) (I.D20) with concrete numerical
-calibration from Part V: π, e, j, ι_τ are now known.
+calibration from Part V: π, e, j, ι<sub>τ</sub> are now known.
 Bipolar idempotents e_± have geometric meaning.
 
 the relevant chapter defines the BndLift_n operator:
 boundary datum at stage n → interior datum at stage n+1.
 The Chinese Remainder Theorem (I.T18) on primorial completions enables
 the lift; bipolar idempotents e_± split into two independent channels.
-ι_τ governs coupling strength.
+ι<sub>τ</sub> governs coupling strength.
 
 the relevant chapter proves
 **Theorem II.T27**: the *Mutual Determination Theorem*

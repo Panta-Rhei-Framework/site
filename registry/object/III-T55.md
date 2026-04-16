@@ -13,10 +13,10 @@ scope: established
 formalization: formalized
 lean_module: TauLib.BookIII.Spectral.ConfinementBridge
 lean_name: Tau.BookIII.Spectral.ConfinementBridge.sdual_exponent_large
-summary: S-duality transport for Eisenstein series at τ = iι_τ. The modular transformation
+summary: S-duality transport for Eisenstein series at τ = iι<sub>τ</sub>. The modular transformation
   E_{2k}(−1/τ) = τ^{2k}E_{2k}(τ) with i⁴=+1 and i⁶=−1 gives E₄·ι⁴ = 1+240q' (2.4 ppm)
   and E₆·ι⁶ = −(1−504q') (5.1 ppm). Closes OQ.09 (E₄/E₆ fixed point). The S-dual nome
-  q' = e^{−2π/ι_τ} < e^{−18} is exponentially suppressed.
+  q' = e^{−2π/ι<sub>τ</sub>} < e^{−18} is exponentially suppressed.
 depends_on:
 - III.D80
 depended_by: []

@@ -13,7 +13,7 @@ scope: conjectural
 formalization: not_applicable
 lean_module: null
 lean_name: null
-summary: The EW coupling κ(A,B) = ι_τ²(1−ι_τ) aligns the temporal arrow (A-sector
+summary: The EW coupling κ(A,B) = ι<sub>τ</sub>²(1−ι<sub>τ</sub>) aligns the temporal arrow (A-sector
   on τ¹) with spatial direction (B-sector on T²). Combined with split-complex light
   cones and Global Cartesian Gluing, this produces globally consistent light cones.
   Weinberg angle derivation predicted for Book IV.

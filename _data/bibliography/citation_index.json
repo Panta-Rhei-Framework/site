@@ -55,7 +55,7 @@
       "part": "Part 0",
       "chapter_file": "ch03-roadmap-inverted-dependency",
       "chapter_title": "Roadmap and Inverted Dependency",
-      "context": "cylinder compat.) , continuity & topology & (Part III: unique topology making NF continuous) , topology & geometry & (Part IV: ultrametric ⇒ Tarski axioms) , geometry & transcendentals & (Part V: π, e, j, ι_τ from earned geometry) , In orthodox analysis the arrows run in the opposite direction: transcendentals (ℝ assumed) ⇒ geometry (ℝ^n) ⇒ topology (open sets) ⇒ continuity (-δ) ⇒ holomorphy (Cauchy–Riemann )",
+      "context": "cylinder compat.) , continuity & topology & (Part III: unique topology making NF continuous) , topology & geometry & (Part IV: ultrametric ⇒ Tarski axioms) , geometry & transcendentals & (Part V: π, e, j, ι<sub>τ</sub> from earned geometry) , In orthodox analysis the arrows run in the opposite direction: transcendentals (ℝ assumed) ⇒ geometry (ℝ^n) ⇒ topology (open sets) ⇒ continuity (-δ) ⇒ holomorphy (Cauchy–Riemann )",
       "raw_excerpt": "metry ($\\mathbb{R}^n$) $\\Rightarrow$ topology (open sets) $\\Rightarrow$ continuity ($\\varepsilon$-$\\delta$) $\\Rightarrow$ holomorphy (Cauchy--Riemann \\cite{Ahlfors1979,Rudin1987}). Each inversion is a theorem of~$\\tau$, not a convention. The chain traces through Book~I's Hyperfactorization (I.T04),"
     },
     {
@@ -661,7 +661,7 @@
       "part": "Part 1",
       "chapter_file": "ch07-beta-decay-rosetta",
       "chapter_title": "β-Decay: The Rosetta Stone",
-      "context": "Chapter will derive the neutron lifetime from Fermi's golden rule , with all eight ingredients (R, α, ^2θ_W, |V_ud|^2, g_A, Δ_A, Δ_r, phase space integral f) expressed as functions of ι_τ",
+      "context": "Chapter will derive the neutron lifetime from Fermi's golden rule , with all eight ingredients (R, α, ^2θ_W, |V_ud|^2, g_A, Δ_A, Δ_r, phase space integral f) expressed as functions of ι<sub>τ</sub>",
       "raw_excerpt": "eview: The Fermi Formula] \\label{rem:iv-fermi-preview} Chapter~\\ref{ch:iv-neutron-lifetime} will derive the neutron lifetime from Fermi's golden rule \\cite{Fermi1934}, with all eight ingredients ($R$, $\\alpha$, $\\sin^2\\theta_W$, $|V_{ud}|^2$, $g_A$, $\\Delta_A$, $\\Delta_r$, phase space integral~$f$)"
     },
     {
@@ -1800,7 +1800,7 @@
       "part": "Part 0",
       "chapter_file": "ch03-roadmap-inverted-dependency",
       "chapter_title": "Roadmap and Inverted Dependency",
-      "context": "cylinder compat.) , continuity & topology & (Part III: unique topology making NF continuous) , topology & geometry & (Part IV: ultrametric ⇒ Tarski axioms) , geometry & transcendentals & (Part V: π, e, j, ι_τ from earned geometry) , In orthodox analysis the arrows run in the opposite direction: transcendentals (ℝ assumed) ⇒ geometry (ℝ^n) ⇒ topology (open sets) ⇒ continuity (-δ) ⇒ holomorphy (Cauchy–Riemann )",
+      "context": "cylinder compat.) , continuity & topology & (Part III: unique topology making NF continuous) , topology & geometry & (Part IV: ultrametric ⇒ Tarski axioms) , geometry & transcendentals & (Part V: π, e, j, ι<sub>τ</sub> from earned geometry) , In orthodox analysis the arrows run in the opposite direction: transcendentals (ℝ assumed) ⇒ geometry (ℝ^n) ⇒ topology (open sets) ⇒ continuity (-δ) ⇒ holomorphy (Cauchy–Riemann )",
       "raw_excerpt": "metry ($\\mathbb{R}^n$) $\\Rightarrow$ topology (open sets) $\\Rightarrow$ continuity ($\\varepsilon$-$\\delta$) $\\Rightarrow$ holomorphy (Cauchy--Riemann \\cite{Ahlfors1979,Rudin1987}). Each inversion is a theorem of~$\\tau$, not a convention. The chain traces through Book~I's Hyperfactorization (I.T04),"
     },
     {
@@ -1918,7 +1918,7 @@
       "part": "Part 2",
       "chapter_file": "ch20-electron-mass-prediction",
       "chapter_title": "The Electron Mass Prediction",
-      "context": "The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary L = S^1 S^1 : a_e^(2) = α2π = (121/225) ι_τ^42π ≈ 0.001 161 4. The factor 1/(2π) is the L-holonomy normalization: a single-winding mode on S^1 ⊂ L contributes a vertex correction weighted by the holonomy integral _S^1 dθ/(2π) = 1, divided by 2π for the angular phase average over the boundary",
+      "context": "The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary L = S^1 S^1 : a_e^(2) = α2π = (121/225) ι<sub>τ</sub>^42π ≈ 0.001 161 4. The factor 1/(2π) is the L-holonomy normalization: a single-winding mode on S^1 ⊂ L contributes a vertex correction weighted by the holonomy integral _S^1 dθ/(2π) = 1, divided by 2π for the angular phase average over the boundary",
       "raw_excerpt": "} The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary $\\mathbb{L} = S^1 \\vee S^1$ \\cite{Schwinger1948}: \\begin{equation}   \\boxed{a_e^{(2)} \\;=\\; \\frac{\\alpha}{2\\pi}     \\;=\\; \\frac{(121/225)\\,\\iota_\\tau^4}{2\\pi}     \\;\\approx\\; 0.0"
     }
   ],
@@ -3103,7 +3103,7 @@
       "part": "Part 1",
       "chapter_file": "ch06-high-energy-beginning",
       "chapter_title": "High Energy and High Entropy at the Beginning",
-      "context": "The τ-Einstein equation (V.D06) applies at all depths, but in the opening regime its readout is extreme: boundary characters carry maximal energy, the coupling constant κ_τ = 1 - ι_τ is at full strength, and the resulting chart-level readout is what orthodox physics calls the ``hot Big Bang''",
+      "context": "The τ-Einstein equation (V.D06) applies at all depths, but in the opening regime its readout is extreme: boundary characters carry maximal energy, the coupling constant κ_τ = 1 - ι<sub>τ</sub> is at full strength, and the resulting chart-level readout is what orthodox physics calls the ``hot Big Bang''",
       "raw_excerpt": "onstant $\\kappa_\\tau = 1 - \\iota_\\tau$ is at full strength, and the resulting chart-level readout is what orthodox physics calls the ``hot Big Bang''~\\cite{kolb1990early}.  The chapter also gives a first-pass interpretation of cosmological inflation: the rapid increase in orbit depth in the early te"
     },
     {
@@ -3399,7 +3399,7 @@
       "part": "Part 6",
       "chapter_file": "ch47-inflation-as-regime",
       "chapter_title": "Inflation-as-Regime: No Inflaton Sector",
-      "context": "The scalar amplitude of primordial perturbations is: A_s = α_τ · ι_τ^14 · (1 - ι_τ^33) = 121225 ι_τ^18 · (1 - ι_τ^(τ^3)(τ^3)) = 2.096 × 10^-9, at -1979 ppm from Planck (2.100 × 10^-9)",
+      "context": "The scalar amplitude of primordial perturbations is: A_s = α_τ · ι<sub>τ</sub>^14 · (1 - ι<sub>τ</sub>^33) = 121225 ι<sub>τ</sub>^18 · (1 - ι<sub>τ</sub>^(τ^3)(τ^3)) = 2.096 × 10^-9, at -1979 ppm from Planck (2.100 × 10^-9)",
       "raw_excerpt": "ot \\Bigl(1 - \\frac{\\iota_\\tau^{\\dim(\\tau^3)}}{\\dim(\\tau^3)}\\Bigr)   \\;=\\;   2.096 \\times 10^{-9}, \\end{equation} at $-1979\\;\\mathrm{ppm}$ from Planck~\\cite{planck2020cosmological} ($2.100 \\times 10^{-9}$).  The coefficient $(121/225) = (11/15)^2$ is \\emph{inherited} from the fine-structure constant"
     },
     {
@@ -3426,7 +3426,7 @@
       "part": "Part 6",
       "chapter_file": "ch48-threshold-ladder",
       "chapter_title": "The Threshold Ladder: From Baryogenesis to Recombination",
-      "context": "The baryon-to-photon ratio satisfies η_B = α · ι_τ^15 · 56 = 121270 ι_τ^19 ≈ 6.041 × 10^-10, in agreement with the Planck 2018 value η_B^Planck = (6.104 ± 0.058) × 10^-10 at -1.03% accuracy (-1.09σ)",
+      "context": "The baryon-to-photon ratio satisfies η_B = α · ι<sub>τ</sub>^15 · 56 = 121270 ι<sub>τ</sub>^19 ≈ 6.041 × 10^-10, in agreement with the Planck 2018 value η_B^Planck = (6.104 ± 0.058) × 10^-10 at -1.03% accuracy (-1.09σ)",
       "raw_excerpt": "cdot \\frac{5}{6}   \\;=\\; \\frac{121}{270}\\,\\iota_\\tau^{19}   \\;\\approx\\; 6.041 \\times 10^{-10}, \\end{equation} in agreement with the Planck~2018 value~\\cite{planck2020cosmological} $\\eta_B^{\\mathrm{Planck}} = (6.104 \\pm 0.058) \\times 10^{-10}$ at $-1.03\\%$ accuracy ($-1.09\\sigma$). The algebraic iden"
     },
     {

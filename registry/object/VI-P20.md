@@ -13,7 +13,7 @@ scope: metaphorical
 formalization: planned
 lean_module: null
 lean_name: null
-summary: Cosmological endstate = convergence to ι_τ (fully alive); mathematical limit,
+summary: Cosmological endstate = convergence to ι<sub>τ</sub> (fully alive); mathematical limit,
   not mysticism; directed merger, not spiritual evolution. Teilhard corrected.
 depends_on:
 - VI.T35

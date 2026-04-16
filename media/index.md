@@ -41,13 +41,13 @@ The Panta Rhei Research Program is an independent open research program developi
 
 - **Authors**: Dr. Thorsten Fuchs & Anna-Sophie Fuchs
 - **Framework**: 5 generators, 7 axioms (K0–K6), 1 operator (ρ)
-- **Master constant**: ι_τ = 2/(π+e) ≈ 0.3413
+- **Master constant**: ι<sub>τ</sub> = 2/(π+e) ≈ 0.3413
 - **Books**: {{ book_count }} volumes, {{ chapter_count }} chapters
 - **Results**: {{ result_count }} key results across 4 domains
 - **Formalization**: 125,771 lines of Lean 4, 4,332 theorems, zero sorry in Books I–VI
 - **Registry**: {{ registry_count }} mathematical objects with dependency graphs
 - **Falsification**: 220+ quantitative predictions with precision claims
-- **Decisive test**: CMB-S4 tensor-to-scalar ratio r ≈ ι_τ⁴ ≈ 0.0135
+- **Decisive test**: CMB-S4 tensor-to-scalar ratio r ≈ ι<sub>τ</sub>⁴ ≈ 0.0135
 - **Status**: Independent research — not yet peer-reviewed in traditional journals
 
 ## Downloadable Materials

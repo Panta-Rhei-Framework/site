@@ -47,5 +47,5 @@ Layer E₂ defines life through two categorical predicates: Distinction (self/no
 
 ### Cosmic Life
 
-- **E2-007**: [Crossing-Limit Theorem]({{ '/framework/life-crossing-limit/' | relative_url }}) — The BH merger net converges to ι_τ — the universe tends toward maximal aliveness.
+- **E2-007**: [Crossing-Limit Theorem]({{ '/framework/life-crossing-limit/' | relative_url }}) — The BH merger net converges to ι<sub>τ</sub> — the universe tends toward maximal aliveness.
 

@@ -70,7 +70,7 @@ and reaches zero at the coherence horizon;
 projects onto S_ref,
 which is why the classical second law
 sees entropy increase.
-The connection to the ι_τ stabilization
+The connection to the ι<sub>τ</sub> stabilization
 mechanism is established,
 linking the entropy splitting
 to the master constant.

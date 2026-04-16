@@ -265,7 +265,7 @@ Tau.BookV.Cosmology.BHMassScale :Type**
 
 
 [V.D176] BH mass scale at refinement depth n:
-M_n = m_n · κ(D;1) = m_n · (1 − ι_τ).
+M_n = m_n · κ(D;1) = m_n · (1 − ι<sub>τ</sub>).
 
 κ(D;1) ≈ 0.6585. The mass scale decreases with depth because m_n
 decreases as the refinement goes deeper (smaller structures).
@@ -562,9 +562,9 @@ Tau.BookV.Cosmology.BHABPhase :Type**
 
 
 [V.P100] BH gravitational Aharonov-Bohm phase:
-Φ_BH = G·M / ι_τ = (c³/ℏ) · ι_τ · M.
+Φ_BH = G·M / ι<sub>τ</sub> = (c³/ℏ) · ι<sub>τ</sub> · M.
 
-The phase is proportional to M and inversely proportional to ι_τ.
+The phase is proportional to M and inversely proportional to ι<sub>τ</sub>.
 It is detectable (in principle) via gravitational interference.
 
 - mass_index : ℕ
@@ -757,12 +757,12 @@ Tau.BookV.Cosmology.BlueprintFusionEnergy :Type**
 
 
 [V.D282] Blueprint fusion energy: radiated fraction
-η = ι_τ² · ν where ν = q/(1+q)² is the symmetric mass ratio.
+η = ι<sub>τ</sub>² · ν where ν = q/(1+q)² is the symmetric mass ratio.
 
 Derived from linking-class reduction during blueprint fusion
 at the lemniscate crossing point: pre-merger H₁(L₁)⊕H₁(L₂) ≅ ℤ⁴
 reduces to post-merger H₁(L_final) ≅ ℤ². The two lost classes
-release energy proportional to ι_τ² (D-sector holonomy constraint).
+release energy proportional to ι<sub>τ</sub>² (D-sector holonomy constraint).
 
 - description : String
 - formula : String
@@ -804,7 +804,7 @@ Tau.BookV.Cosmology.merger_energy_formula :BlueprintFusionEnergy**
 [V.T224] Merger energy theorem: non-spinning radiated fraction
 from blueprint fusion.
 Equations
-- Tau.BookV.Cosmology.merger_energy_formula = { description := "Non-spinning radiated fraction from blueprint fusion", formula := "η = ι_τ² · ν, ν = q/(1+q)²",
+- Tau.BookV.Cosmology.merger_energy_formula = { description := "Non-spinning radiated fraction from blueprint fusion", formula := "η = ι<sub>τ</sub>² · ν, ν = q/(1+q)²",
  iota_sq_x10000 := 1165 }
 Instances For
 
@@ -818,7 +818,7 @@ Tau.BookV.Cosmology.equal_mass_eta_ppm :ℕ**
 
 
 [V.P150] Equal-mass energy fraction:
-η(q=1) = ι_τ²/4 ≈ 0.02912, stored as parts per million.
+η(q=1) = ι<sub>τ</sub>²/4 ≈ 0.02912, stored as parts per million.
 Equations
 - Tau.BookV.Cosmology.equal_mass_eta_ppm = 29122
 Instances For

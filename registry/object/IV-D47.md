@@ -13,8 +13,8 @@ scope: tau-effective
 formalization: formalized
 lean_module: TauLib.BookIV.Calibration.MassRatioFormula
 lean_name: Tau.BookIV.Calibration.correction0_numer
-summary: 'R₀ = ι_τ^(-7) − √3·ι_τ^(-2). Level 0 mass ratio formula. Correction √3·ι_τ^(-2)
-  ∈ (14, 16). At exact ι_τ: 7.7 ppm accuracy. At 6-digit approx: R₀ ∈ (1831, 1836).'
+summary: 'R₀ = ι<sub>τ</sub>^(-7) − √3·ι<sub>τ</sub>^(-2). Level 0 mass ratio formula. Correction √3·ι<sub>τ</sub>^(-2)
+  ∈ (14, 16). At exact ι<sub>τ</sub>: 7.7 ppm accuracy. At 6-digit approx: R₀ ∈ (1831, 1836).'
 depends_on:
 - IV.D46
 - IV.D43

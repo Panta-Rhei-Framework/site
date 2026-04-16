@@ -7,8 +7,8 @@ summary_short: 9 electroweak predictions from 0 free parameters — the five sec
   in concert.
 diagrams:
 - src: /assets/diagrams/framework/book-iv/physics-electroweak-synthesis-ew-mixing.svg
-  caption: "Electroweak mixing triangle: SU(2)_L and U(1)_Y gauge fields mix via the Weinberg angle θ_W to produce Z⁰ and γ. sin²θ_W is derived from ι_τ."
-  alt: "Electroweak mixing triangle: SU(2)_L and U(1)_Y gauge fields mix via the Weinberg angle θ_W to produce Z⁰ and γ. sin²θ_W is derived from ι_τ."
+  caption: "Electroweak mixing triangle: SU(2)_L and U(1)_Y gauge fields mix via the Weinberg angle θ_W to produce Z⁰ and γ. sin²θ_W is derived from ι<sub>τ</sub>."
+  alt: "Electroweak mixing triangle: SU(2)_L and U(1)_Y gauge fields mix via the Weinberg angle θ_W to produce Z⁰ and γ. sin²θ_W is derived from ι<sub>τ</sub>."
   source: "Book IV, Chapter 25"
   label: "fig:bookIV-ch25-ew-mixing"
 - src: /assets/diagrams/framework/book-iv/physics-electroweak-synthesis-sector-atlas.svg

@@ -14,7 +14,7 @@ formalization: formalized
 lean_module: TauLib.BookIII.Enrichment.LayerTemplate
 lean_name: e1_layer_book3
 summary: 'E₁ = (H_τ-enriched objects, sector admissibility via 4+1 decomposition,
-  spectral projection onto sectors, sector couplings as canonical lifts of ι_τ). Domain:
+  spectral projection onto sectors, sector couplings as canonical lifts of ι<sub>τ</sub>). Domain:
   Books IV-V. Physics as enrichment.'
 depends_on:
 - III.D05

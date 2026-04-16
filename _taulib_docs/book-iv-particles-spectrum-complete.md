@@ -61,7 +61,7 @@ finite composite on τ³. Wave functions as independent objects, virtual
 particles, path integral measures, renormalization group flow, and
 gravitons as particles are non-ontic (computational devices, not things).
 
-The entire Part VI uses only two inputs: ι_τ = 2/(π+e) and m_n.
+The entire Part VI uses only two inputs: ι<sub>τ</sub> = 2/(π+e) and m_n.
 
 ## Ground Truth Sources
 
@@ -235,7 +235,7 @@ Tau.BookIV.Particles.ParameterCount :Type**
 [IV.R149] Across all 25+ results of Part VI:
 
 
-- 1 dimensionless constant: ι_τ = 2/(π+e), derived from K0-K6
+- 1 dimensionless constant: ι<sub>τ</sub> = 2/(π+e), derived from K0-K6
 
 - 1 dimensional anchor: m_n = 939.565421 MeV
 
@@ -633,7 +633,7 @@ Summary of the complete particle spectrum:
 
 - No BSM particles predicted
 
-- Two inputs only (ι_τ, m_n)
+- Two inputs only (ι<sub>τ</sub>, m_n)
 
 - Ontic/non-ontic line is mathematical
 

@@ -37,7 +37,7 @@ Seven LaTeX whitepapers (56 pages total), each identifying the 5-8 structural hi
 | II | 7 | 7 | Ghost function, break Mutual Determination |
 | III | 8 | 6 | Construct E₅, break sector template |
 | IV | 7 | 7 | Falsify α formula, mass ratio wrong |
-| V | 8 | 8 | CMB-S4 kills r=ι_τ⁴, direct DM detection |
+| V | 8 | 8 | CMB-S4 kills r=ι<sub>τ</sub>⁴, direct DM detection |
 | VI | 9 | 7 | Living system without SelfDesc |
 | VII | 11 | 7 | Construct E₄, cross the boundary |
 
@@ -57,7 +57,7 @@ Available as PDF downloads at [panta-rhei.site](https://panta-rhei.site).
 - **[Foundations](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Foundations.lean)** — 5 generators, 7 axioms, rigidity
 - **[CentralTheorem](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/CentralTheorem.lean)** — O(τ³) ≅ A_spec(L)
 - **[Physics](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/Physics.lean)** — 9 electroweak predictions
-- **[OneConstant](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/OneConstant.lean)** — full constants ledger from ι_τ
+- **[OneConstant](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/OneConstant.lean)** — full constants ledger from ι<sub>τ</sub>
 - **[MillenniumProblems](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/MillenniumProblems.lean)** — GRH, BSD, Poincaré
 - **[LifeFromPhysics](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/LifeFromPhysics.lean)** — 4+1 life sectors, genetic code
 - **[MindAndEthics](https://github.com/Panta-Rhei-Research/taulib/blob/main/TauLib/Tour/MindAndEthics.lean)** — CI, consciousness, free will

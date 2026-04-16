@@ -405,4 +405,4 @@ Tau.BookIV.Calibration.readout_landscape_unique :{ factor_count := 5, factor_eq 
 
 [IV.T113] The readout landscape is uniquely determined by the
 boundary holonomy algebra and the enrichment layer E₁.
-No additional input is needed beyond ι_τ.
+No additional input is needed beyond ι<sub>τ</sub>.

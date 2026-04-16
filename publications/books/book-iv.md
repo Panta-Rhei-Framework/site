@@ -59,7 +59,7 @@ the *Force Arc* (Book V) descends from gravity
 through gauge forces and cosmology.
 Both arcs share a common root—the Joint Core of Part I—and
 both are powered by a single constant:
-ι_τ = 2/(π + e).
+ι<sub>τ</sub> = 2/(π + e).
 
 Chapter 2 collects the three deliverables inherited
 from Books I–III—the five generators, the 4+1 sector template,

@@ -59,7 +59,7 @@ Geometry arrived in Part IV
 Continuity arrived in Part II
 (holomorphic implies continuous, II.T06).
 Transcendentals arrived in Part V
-(π, e, j, ι_τ).
+(π, e, j, ι<sub>τ</sub>).
 The Central Theorem arrived in Part IX
 (O(τ³) ≅ A_spec(𝕃),
 II.T40).

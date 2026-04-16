@@ -30,7 +30,7 @@ cited_in:
     part: "Part 2"
     chapter_file: "ch20-electron-mass-prediction"
     chapter_title: "The Electron Mass Prediction"
-    excerpt: "The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary L = S^1 S^1 : a_e^(2) = α2π = (121/225) ι_τ^42π ≈ 0.001 161 4. The factor 1/(2π) is the L-holonomy normalization: a single-winding mode on S^1 ⊂ L contributes a vertex correction weighted by the holonomy integral _S^1 dθ/(2π) = 1, divided by 2π for the angular phase average over the boundary"
+    excerpt: "The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary L = S^1 S^1 : a_e^(2) = α2π = (121/225) ι<sub>τ</sub>^42π ≈ 0.001 161 4. The factor 1/(2π) is the L-holonomy normalization: a single-winding mode on S^1 ⊂ L contributes a vertex correction weighted by the holonomy integral _S^1 dθ/(2π) = 1, divided by 2π for the angular phase average over the boundary"
 right_rail:
   toc: false
   related:
@@ -50,4 +50,4 @@ right_rail:
     updated: "April 2026"
 ---
 
-Schwinger's 1948 <em>On Quantum-Electrodynamics and the Magnetic Moment of the Electron</em>, published in *Physical Review*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 2, Chapter *The Electron Mass Prediction*, where the program draws on it in the context of “The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary L = S^1 S^1 : a_e^(2) = α2π = (121/225) ι_τ^42π ≈ 0.001 161….”
+Schwinger's 1948 <em>On Quantum-Electrodynamics and the Magnetic Moment of the Electron</em>, published in *Physical Review*, is one of the program's working technical references. Cited in Book IV (*Categorical Microcosm*), Part 2, Chapter *The Electron Mass Prediction*, where the program draws on it in the context of “The leading-order anomalous magnetic moment arises from the single-winding vertex correction on the lemniscate boundary L = S^1 S^1 : a_e^(2) = α2π = (121/225) ι<sub>τ</sub>^42π ≈ 0.001 161….”
