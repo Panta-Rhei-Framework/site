@@ -49,7 +49,9 @@ Use this table to fill in the template variables for the book you are assessing.
 
 ## The Prompt
 
-Fill in the six template variables marked with `{{...}}` below, then copy the entire block into a frontier model.
+Fill in the six template variables marked with `{% raw %}{{...}}{% endraw %}` below, then use the button to copy.
+
+{% include copy-prompt-button.html id="book-prompt" %}
 
 ```text
 You are conducting an AI-assisted first-pass assessment of one book within a larger

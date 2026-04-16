@@ -47,7 +47,9 @@ Additional domains that may be relevant: condensed matter physics, mathematical 
 
 ## The Prompt
 
-Fill in the template variables marked with `{{...}}` below using the domain table above, then copy the entire block into a frontier model.
+Fill in the template variables marked with `{% raw %}{{...}}{% endraw %}` below using the domain table above, then use the button to copy.
+
+{% include copy-prompt-button.html id="domain-prompt" %}
 
 ```text
 You are assisting a domain specialist with a first-pass assessment of a public

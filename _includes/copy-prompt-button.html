@@ -1,0 +1,27 @@
+{% comment %}
+  Copy-to-clipboard button for assessment prompt code blocks.
+  Usage: {% include copy-prompt-button.html id="series-prompt" %}
+  Place immediately before a ```text fenced code block.
+  The JS finds the next <pre> element after the button and copies its textContent.
+{% endcomment %}
+<div class="copy-prompt-bar">
+  <span class="copy-prompt-label">Full prompt — ready to paste into any frontier AI model</span>
+  <button class="copy-prompt-btn" id="copy-btn-{{ include.id }}" type="button" onclick="copyPrompt('{{ include.id }}')">
+    <svg width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="13" height="13" rx="2"/><path d="M5 15H4a2 2 0 0 1-2-2V4a2 2 0 0 1 2-2h9a2 2 0 0 1 2 2v1"/></svg>
+    <span class="copy-prompt-text">Copy</span>
+  </button>
+</div>
+<script>
+function copyPrompt(id) {
+  var btn = document.getElementById('copy-btn-' + id);
+  var pre = btn.closest('.copy-prompt-bar').nextElementSibling;
+  while (pre && pre.tagName !== 'PRE') pre = pre.nextElementSibling;
+  if (!pre) return;
+  navigator.clipboard.writeText(pre.textContent).then(function() {
+    var label = btn.querySelector('.copy-prompt-text');
+    label.textContent = 'Copied!';
+    btn.classList.add('copied');
+    setTimeout(function() { label.textContent = 'Copy'; btn.classList.remove('copied'); }, 2000);
+  });
+}
+</script>
