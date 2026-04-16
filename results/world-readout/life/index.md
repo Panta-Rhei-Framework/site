@@ -23,6 +23,8 @@ right_rail:
     updated: April 2026
 ---
 
+This is the **E₂ (Life)** layer of the enrichment ladder — following the [mathematics prologue]({{ '/results/prologue/' | relative_url }}) (E₀) and [Physics world readout]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), and preceding the [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readout.
+
 The pages collected here do not function as the detailed atlas of all life-related results in the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
 
 The central question is not yet which individual biological problem is resolved or how one specific life-related result should be interpreted. The central question is more prior:
@@ -44,3 +46,7 @@ Fourth, it explains **how life unfolds morphologically** through the four plus o
 Fifth, it explains **how E2 sits on E1**: life is fully grounded in physics, but not reducible without remainder to the native relations of E1 alone.
 
 Read in order, these pages form the conceptual entrance into the life-related results of the program. The larger result atlas remains indispensable, but it becomes much easier to use once the reader has first understood the form of life that Tau proposes.
+
+## Epistemic posture
+
+These pages describe what kind of life the Tau framework yields **on the program's own reading** — under the assumption that the E₁ physical world described in the [physics cluster]({{ '/results/world-readout/physics/' | relative_url }}) is granted. They do not claim that the biological community has accepted this definition of life, nor that every bridge from Tau-structural claims to empirical biology is already settled. The individual [result pages]({{ '/results/browse/' | relative_url }}) carry explicit epistemic status labels. If the framework holds, the E₂ life-world described here follows as a structural consequence. If it does not, these pages describe one candidate account of life that can be tested, challenged, and — if necessary — [falsified]({{ '/verify/' | relative_url }}).

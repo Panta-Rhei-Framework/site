@@ -127,5 +127,6 @@ right_rail:
     <li><a href="{{ '/media/' | relative_url }}"><strong>Media Kit</strong></a>&mdash;for journalists, podcast hosts, reviewers, and institutions</li>
     <li><a href="{{ '/engage/follow-the-research/' | relative_url }}"><strong>Follow the Research</strong></a>&mdash;stay connected with the program&rsquo;s ongoing work</li>
   </ul>
+  <p><strong>The enrichment ladder.</strong> For a guided reading path that follows the framework&rsquo;s own architecture&mdash;from mathematics through physics and life to metaphysics&mdash;start with the <a href="{{ '/results/prologue/' | relative_url }}">Results Prologue</a>, then continue through the <a href="{{ '/results/world-readout/physics/' | relative_url }}">Physics</a>, <a href="{{ '/results/world-readout/life/' | relative_url }}">Life</a>, and <a href="{{ '/results/world-readout/metaphysics/' | relative_url }}">Metaphysics</a> world readouts before entering the <a href="{{ '/results/browse/' | relative_url }}">detailed result atlas</a>.</p>
   <p><em>Panta Rhei&mdash;Everything Flows.</em></p>
 </div>

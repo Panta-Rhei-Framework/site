@@ -23,6 +23,8 @@ right_rail:
     updated: April 2026
 ---
 
+This is the **E₁ (Physics)** layer of the enrichment ladder — the second stage after the [mathematics prologue]({{ '/results/prologue/' | relative_url }}) (E₀), and followed by the [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂) and [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readouts.
+
 The pages collected here do not function as the detailed result atlas of the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
 
 The central question is not yet which individual problem is solved, or which quantitative prediction can be read off. The central question is more prior:
@@ -55,3 +57,7 @@ The sequence is ordered so that each page answers a different class of question:
 12. How can readers move from Tau to the world they inhabit?
 
 Read in order, these pages form the conceptual entrance into the physical results of the program. The more detailed result atlas remains indispensable, but it becomes much easier to use once the reader has first understood the kind of world from which those result pages are being read out.
+
+## Epistemic posture
+
+These pages describe what kind of physical world the Tau framework yields **on the program's own reading**. They do not claim that the wider scientific community has already accepted this world-picture, nor that every bridge from Tau-internal statements to orthodox physical formulations is already settled. The individual [result pages]({{ '/results/browse/' | relative_url }}) carry explicit epistemic status labels (Resolved, Partial, Qualitative, Contradicted, or Not Addressed) that make the strength of each specific claim transparent. If the framework holds, the physical world described here is one of its strongest consequences. If the framework does not hold, these pages describe a candidate world-picture that failed — and that is why the program insists on [public verification]({{ '/verify/' | relative_url }}).
