@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ζₚ"
-title_plain: "ζₚ"
+title: "Kolmogorov Structure Function Exponents ζ_p"
+title_plain: "Kolmogorov Structure Function Exponents ζ_p"
 permalink: /predictions/pred-63/
 lane: results
 prediction_id: "pred-063"
@@ -11,6 +11,7 @@ observable: "ζₚ"
 observable_mathml: "<math><mi>(p/9)(1 - (2/3)ᵖ/³)</mi></math>"
 formula_plain: "(p/9)(1 - (2/3)ᵖ/³)"
 formula_mathml: "<math><mi>(p/9)(1 - (2/3)ᵖ/³)</mi></math>"
+formula_display: "ζ_p = (p/9)(1 − (2/3)^(p/3))"
 tau_value: "see text"
 observed_value: "DNS data"
 deviation: "< 1%"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ζₚ: τ-value see text, observed DNS data, deviation < 1%."
+summary_short: "Kolmogorov Structure Function Exponents ζ_p: τ-value see text, observed DNS data, deviation < 1%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**ζ_p = (p/9)(1 − (2/3)^(p/3))**
 
 ## Derivation
 

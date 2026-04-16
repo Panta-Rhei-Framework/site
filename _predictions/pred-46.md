@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Ω_Λ"
-title_plain: "Ω_Λ"
+title: "Dark Energy Density Ω_Λ"
+title_plain: "Dark Energy Density Ω_Λ"
 permalink: /predictions/pred-46/
 lane: results
 prediction_id: "pred-046"
@@ -11,6 +11,7 @@ observable: "Ω_Λ"
 observable_mathml: "<math><mi>κD(1 + ι_τ³)</mi></math>"
 formula_plain: "κD(1 + ι_τ³)"
 formula_mathml: "<math><mi>κD(1 + ι_τ³)</mi></math>"
+formula_display: "Ω_Λ = κ_D · (1 + ι_τ³) = 0.6849"
 tau_value: "0.6849"
 observed_value: "0.685 ± 0.007"
 deviation: "-433~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Ω_Λ: τ-value 0.6849, observed 0.685 ± 0.007, deviation -433~ppm."
+summary_short: "Dark Energy Density Ω_Λ: τ-value 0.6849, observed 0.685 ± 0.007, deviation -433~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**Ω_Λ = κ_D · (1 + ι_τ³) = 0.6849**
 
 ## Derivation
 

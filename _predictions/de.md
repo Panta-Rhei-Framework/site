@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ωₘ (DE)"
-title_plain: "ωₘ (DE)"
+title: "Matter Density from DE Closure ω_m"
+title_plain: "Matter Density from DE Closure ω_m"
 permalink: /predictions/de/
 lane: results
 prediction_id: "pred-050"
@@ -11,6 +11,7 @@ observable: "ωₘ (DE)"
 observable_mathml: "DE closure"
 formula_plain: "DE closure"
 formula_mathml: "DE closure"
+formula_display: "ω_m = DE closure = 0.1429"
 tau_value: "0.1429"
 observed_value: "0.1430"
 deviation: "-675~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ωₘ (DE): τ-value 0.1429, observed 0.1430, deviation -675~ppm."
+summary_short: "Matter Density from DE Closure ω_m: τ-value 0.1429, observed 0.1430, deviation -675~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**ω_m = DE closure = 0.1429**
 
 ## Derivation
 

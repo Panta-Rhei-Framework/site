@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "CK"
-title_plain: "CK"
+title: "Kolmogorov Constant C_K"
+title_plain: "Kolmogorov Constant C_K"
 permalink: /predictions/ck/
 lane: results
 prediction_id: "pred-064"
@@ -11,6 +11,7 @@ observable: "CK"
 observable_mathml: "<math><mi>(3/2)(1 + ι_τ⁴/4)</mi></math>"
 formula_plain: "(3/2)(1 + ι_τ⁴/4)"
 formula_mathml: "<math><mi>(3/2)(1 + ι_τ⁴/4)</mi></math>"
+formula_display: "C_K = dim(τ³)/dim(T²) = 3/2 = 1.5"
 tau_value: "3/2"
 observed_value: "1.5 ± 0.1"
 deviation: "∼ 0%"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "CK: τ-value 3/2, observed 1.5 ± 0.1, deviation ∼ 0%."
+summary_short: "Kolmogorov Constant C_K: τ-value 3/2, observed 1.5 ± 0.1, deviation ∼ 0%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**C_K = dim(τ³)/dim(T²) = 3/2 = 1.5**
 
 ## Derivation
 

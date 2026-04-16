@@ -266,5 +266,29 @@
   "ns-regularity": {
     "title": "Navier–Stokes Regularity (No Blow-Up)",
     "formula_display": "Profinite decompactification → no finite-time blow-up"
+  },
+  "b-41": {
+    "title": "Matter-to-Baryon Ratio ω_m/ω_b",
+    "formula_display": "ω_m/ω_b = 1 + (1 − ι_τ)/ι_τ² ≈ 6.655"
+  },
+  "ck": {
+    "title": "Kolmogorov Constant C_K",
+    "formula_display": "C_K = dim(τ³)/dim(T²) = 3/2 = 1.5"
+  },
+  "de": {
+    "title": "Matter Density from DE Closure ω_m",
+    "formula_display": "ω_m = DE closure = 0.1429"
+  },
+  "ngc-3198-v-f": {
+    "title": "Galaxy Rotation Curve (NGC 3198)",
+    "formula_display": "v∞⁴ = G·M_b·c² / (2ℓ_τ) → v = 149.1 km/s"
+  },
+  "pred-46": {
+    "title": "Dark Energy Density Ω_Λ",
+    "formula_display": "Ω_Λ = κ_D · (1 + ι_τ³) = 0.6849"
+  },
+  "pred-63": {
+    "title": "Kolmogorov Structure Function Exponents ζ_p",
+    "formula_display": "ζ_p = (p/9)(1 − (2/3)^(p/3))"
   }
 }
