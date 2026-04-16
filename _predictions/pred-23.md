@@ -39,4 +39,20 @@ right_rail:
     updated: "April 2026"
 ---
 
-α: τ-value 1/137.035, observed 1/137.036, deviation 9.8~ppm.
+## Derivation
+
+The fine-structure constant α ≈ 1/137.036 is derived in Book IV, Chapter 10 (*The Fine-Structure Constant*). Feynman called it "one of the greatest damn mysteries of physics" — a pure, dimensionless number that governs all electromagnetic phenomena, measured to ~10⁻¹⁰ relative accuracy, yet treated as a free parameter in the Standard Model. In Category τ, the mystery dissolves.
+
+Three independent derivation routes converge to the same value:
+
+**Route A** (sector coupling): α = (11/15)² · ι_τ⁴, where the rational prefactor 11/15 arises from the ratio of active sector modes to the total spectral dimension, and the exponent 4 = 2 × lobes counts the two lobes of the lemniscate boundary at quadratic order. This yields α⁻¹ ≈ 137.035, matching CODATA to 9.8 ppm.
+
+**Route B** (calibration chain): The same value emerges from the 10-link spectral chain that derives the electron mass. The fine-structure constant and the electron mass are two readings of the same chain — one is a ratio (dimensionless), the other is a mass (dimensionful, set by the neutron anchor).
+
+**Route C** (G–α Bridge): The closing identity α_G = α¹⁸ · √3 · (1 − 3α/π) (V.T20) connects α directly to the gravitational constant G, providing an independent cross-check that contains no free parameters.
+
+That α is *computable at all* — rather than a free parameter — rests on the spectral purity guarantee (Book III, III.T19): the Riemann Hypothesis ensures that eigenvalues of the boundary operator are cleanly separated, which in turn fixes the B-sector coupling that becomes α at the physical readout level.
+
+## Source
+
+This prediction is derived in Book IV, Part 1, Chapter 10 (*The Fine-Structure Constant*). The three convergent routes are presented in Sections 10.2–10.4. The G–α Bridge is in Book V, Part 8, Chapter 70.
