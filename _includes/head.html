@@ -101,7 +101,7 @@ p{color:#5b6772;line-height:1.7;margin-bottom:1rem}
 a{color:#294b66;text-decoration:none}
 .skip-link{position:absolute;top:-100%;left:0;padding:8px 16px;background:#294b66;color:#fff;z-index:100;font-size:.85rem;border-radius:0 0 8px 0}
 .skip-link:focus{top:0}
-.site-header{position:sticky;top:0;z-index:55;display:flex;align-items:center;height:56px;max-width:calc(260px + 860px + 240px + 36px);margin:10px auto 0;padding:0 22px;background:rgba(255,255,255,.58);border-radius:18px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px)}
+.site-header{position:sticky;top:0;z-index:55;display:flex;align-items:center;height:56px;width:calc(100% - 44px);max-width:calc(260px + 860px + 240px + 36px);margin:10px auto 0;padding:0 22px;background:rgba(255,255,255,.58);border-radius:18px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px)}
 .header-brand{display:flex;align-items:center;gap:10px;text-decoration:none}
 .brand-title{font-family:"Inter",system-ui,sans-serif;font-size:.95rem;font-weight:700;color:#182027}
 .brand-sub{font-size:.72rem;color:#5b6772}
@@ -114,8 +114,8 @@ a{color:#294b66;text-decoration:none}
 .hero-card{background:rgba(255,255,255,.58);border:1px solid rgba(255,255,255,.72);border-radius:22px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);padding:28px 30px 22px;margin-bottom:18px}
 .content-card{background:rgba(255,255,255,.58);border:1px solid rgba(255,255,255,.72);border-radius:22px;backdrop-filter:blur(18px);-webkit-backdrop-filter:blur(18px);padding:24px 28px;margin-bottom:18px}
 .eyebrow{display:inline-block;font-family:"Inter",system-ui,sans-serif;font-size:.72rem;font-weight:650;text-transform:uppercase;letter-spacing:.08em;color:#5b6772;margin-bottom:8px}
-@media(max-width:1080px){.site-header{padding:0 16px}.page-grid{grid-template-columns:1fr;max-width:860px;padding:0 16px}.left-rail{display:none}.right-rail{position:static;order:3;max-height:none;margin-top:18px}}
-@media(max-width:760px){.site-header{padding:0 10px}.page-grid{padding:0 10px;gap:12px}.header-nav{display:none}.header-controls{order:0;margin-left:auto}.hero-card{padding:20px 16px 16px}.content-card{padding:16px}}
+@media(max-width:1080px){.site-header{width:calc(100% - 32px);padding:0 16px}.page-grid{grid-template-columns:1fr;max-width:860px;padding:0 16px}.left-rail{display:none}.right-rail{position:static;order:3;max-height:none;margin-top:18px}}
+@media(max-width:760px){.site-header{width:calc(100% - 20px);padding:0 10px}.page-grid{padding:0 10px;gap:12px}.header-nav{display:none}.header-controls{order:0;margin-left:auto}.hero-card{padding:20px 16px 16px}.content-card{padding:16px}}
 </style>
 
 <!-- Full stylesheet: async load (non-blocking — critical CSS above handles first paint) -->

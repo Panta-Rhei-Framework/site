@@ -7,6 +7,7 @@
   top: 0;
   z-index: $z-header;
   height: $header-h;
+  width: calc(100% - #{$page-px} * 2);  // ensures min side breathing room = $page-px (22px)
   max-width: calc(#{$rail-left-w} + #{$content-max} + #{$rail-right-w} + #{$shell-gap} * 2);
   margin: 10px auto 0;
   padding: 0 $page-px;
@@ -49,12 +50,14 @@
     pointer-events: none;
   }
 
-  // Sync padding with .page-grid at each breakpoint
+  // Sync padding + side breathing with .page-grid at each breakpoint
   @media (max-width: $bp-collapse) {
+    width: calc(100% - 16px * 2);
     padding: 0 16px;
   }
 
   @media (max-width: $bp-stack) {
+    width: calc(100% - 10px * 2);
     flex-direction: row;
     height: $header-h;
     padding: 0 10px;
