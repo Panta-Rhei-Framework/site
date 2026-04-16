@@ -51,6 +51,9 @@ sass:
 plugins:
   - jekyll-sitemap
 
+include:
+  - _headers
+
 exclude:
   - Gemfile
   - Gemfile.lock

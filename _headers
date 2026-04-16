@@ -1,0 +1,40 @@
+# Cache-Control headers for Cloudflare Pages / Netlify
+# GitHub Pages ignores this file; activate by:
+#   (a) migrating to Cloudflare Pages, OR
+#   (b) proxying through Cloudflare CDN (free plan, change NS to Cloudflare)
+#
+# Pagefind + main CSS use build-time cache-bust query strings (?v=epoch),
+# so 1-year max-age is safe — the URL changes on every deploy.
+
+# Immutable hashed assets (fonts, images, favicons, webmanifest)
+/assets/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# Build-output CSS/JS with cache-bust query strings
+/assets/css/*
+  Cache-Control: public, max-age=31536000, immutable
+
+/pagefind/*
+  Cache-Control: public, max-age=31536000, immutable
+
+# HTML pages: short cache + revalidate (content changes on deploy)
+/*.html
+  Cache-Control: public, max-age=3600, must-revalidate
+
+# Sitemap and feeds: moderate cache
+/sitemap.xml
+  Cache-Control: public, max-age=86400
+
+/robots.txt
+  Cache-Control: public, max-age=86400
+
+# Webmanifest
+/assets/site.webmanifest
+  Cache-Control: public, max-age=604800
+
+# Security headers (bonus — free hardening)
+/*
+  X-Content-Type-Options: nosniff
+  X-Frame-Options: DENY
+  Referrer-Policy: strict-origin-when-cross-origin
+  Permissions-Policy: camera=(), microphone=(), geolocation=()
