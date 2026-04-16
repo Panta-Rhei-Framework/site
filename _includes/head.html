@@ -88,15 +88,17 @@
 <link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 
-<!-- Fonts: Inter (UI) -->
-<link href="https://fonts.googleapis.com/css2?family=Inter:wght@380;400;500;520;580;600;650;700;800&display=swap" rel="stylesheet">
+<!-- Fonts: Inter (UI) — async load to avoid render-blocking -->
+<link rel="preload" href="https://fonts.googleapis.com/css2?family=Inter:wght@380;400;500;520;580;600;650;700;800&display=swap" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Inter:wght@380;400;500;520;580;600;650;700;800&display=swap"></noscript>
 
 <!-- Styles: preload + stylesheet for faster LCP -->
 <link rel="preload" href="{{ '/assets/css/main.css' | relative_url }}" as="style">
 <link rel="stylesheet" href="{{ '/assets/css/main.css' | relative_url }}">
 
-<!-- Pagefind search (CSS + JS loaded from post-build index) -->
-<link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}">
+<!-- Pagefind search (CSS deferred — only needed when search overlay opens; JS already deferred) -->
+<link rel="preload" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}" as="style" onload="this.onload=null;this.rel='stylesheet'">
+<noscript><link rel="stylesheet" href="{{ '/pagefind/pagefind-ui.css' | relative_url }}"></noscript>
 <script src="{{ '/pagefind/pagefind-ui.js' | relative_url }}" defer></script>
 
 <!-- Skip to content (a11y) -->
