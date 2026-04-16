@@ -19,15 +19,15 @@ right_rail:
   meta:
     type: Companion Document
     scope: "E₃ Metaphysics · Part XI"
-    pages: "55"
-    size: "340 KB"
+    pages: "84"
+    size: "357 KB"
     status: Canonical
     updated: April 2026
 ---
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/categorical-genesis.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Categorical Genesis — Free PDF (340 KB)
+    ⬇ Download Categorical Genesis — Free PDF (357 KB)
   </a>
 </div>
 
@@ -110,7 +110,7 @@ Chapters 10–12 (archetypal reading, theological kernel questions, and scriptur
 
 <div class="btn-group" style="margin-top: 28px;">
   <a href="{{ '/assets/downloads/categorical-genesis.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Categorical Genesis — Free PDF (340 KB)
+    ⬇ Download Categorical Genesis — Free PDF (357 KB)
   </a>
   <a href="{{ '/results/world-readout/metaphysics/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Metaphysics World Readout</a>
 </div>
