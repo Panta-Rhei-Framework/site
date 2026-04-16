@@ -34,4 +34,44 @@ right_rail:
     updated: "April 2026"
 ---
 
-ell-1 = 220.6. acoustic peaks!prediction pred:n11 M3h holonomy (V.T190), where $_b$ undershoot ($-1.2%$) compensates $_m$ overshoot ($+4.1%$) in the sound horizon.
+## N11: Prediction
+
+ell-1 = 220.6.
+
+M3h holonomy (V.T190),
+where $ω_b$ undershoot ($-1.2%$)
+compensates $ω_m$ overshoot ($+4.1%$)
+in the sound horizon.
+*Experiment:* Planck legacy, CMB-S4.
+*Timeline:* confirmed at $+0.28%$.
+
+
+## Derivation Context
+
+The first acoustic peak multipole
+is determined by the Friedmann pipeline
+with $τ$-native inputs:
+
+where $_A = π d_A(z_rec) / r_s(z_rec)$
+is the acoustic scale,
+$d_A$ is the angular diameter distance,
+$r_s$ is the sound horizon at recombination,
+and $_1$ is the phase shift
+from the neutrino and gravitational driving.
+All quantities are computed
+from $ι_τ$ with zero free parameters.
+The Planck measurement gives
+$_1 = 220.0 ± 0.5$.
+The deviation is $+0.28%$ ($+2840$ ppm).
+*(Registry: V.T190, $τ$-effective, Wave 8A.)*
+
+The computation of $_1$
+requires three $τ$-native inputs,
+each derived from $ι_τ$:
+
+- **Baryon density:**
+$ω_b = 0.02209$,
+derived from
+$η_B = (121/270)\,ι_τ^19$
+(Section (sec:ch62-baryon-density)).
+

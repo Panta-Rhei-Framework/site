@@ -34,4 +34,15 @@ right_rail:
     updated: "April 2026"
 ---
 
-supersymmetry!prediction pred:n2 The $a͡u$-framework produces the Standard Model particle content from the fiber $T^2$ with no supersymmetric extension. No superpartner will be observed at any energy.
+## N2: Prediction
+
+The $τ$-framework produces
+the Standard Model particle content
+from the fiber $T^2$
+with no supersymmetric extension.
+No superpartner will be observed
+at any energy.
+*Experiment:* LHC, FCC, CEPC.
+*Timeline:* ongoing–2040.
+
+

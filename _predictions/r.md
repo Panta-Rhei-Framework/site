@@ -39,4 +39,49 @@ right_rail:
     updated: "April 2026"
 ---
 
-r: τ-value 0.0136, observed < 0.036, deviation –.
+## Derivation
+
+dimensional suppression!theorem
+The tensor-to-scalar ratio $r = P_t/P_s$
+is determined by the fibration structure
+$τ^3 = τ^1 ×_f T^2$:
+
+r
+\;=\;
+ι_τ^\,2 · (T^2)
+\;=\;
+ι_τ^2 × 2
+\;=\;
+ι_τ^4
+\;≈\;
+0.01357.
+
+- *Tensor perturbations*
+(gravitational waves)
+are D-sector frame-holonomy fluctuations
+propagating on the base $τ^1$.
+They are insensitive
+to the fiber structure.
+- *Scalar perturbations*
+(curvature/density fluctuations)
+are boundary-character fluctuations
+of the full arena $τ^3$,
+coupling to both fiber circles of $T^2$.
+- Each fiber dimension contributes
+a breathing-fraction suppression $ι_τ$
+to the scalar amplitude
+relative to the tensor amplitude.
+- The power spectrum
+is quadratic in amplitude
+($P |δ|^2$).
+
+with the first factor equal
+to the number of lemniscate lobes
+and the second factor
+arising from $P |δ|^2$.
+*(Registry: V.P136, $τ$-effective, Wave 13.)*
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
+

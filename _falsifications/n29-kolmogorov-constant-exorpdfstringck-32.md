@@ -34,4 +34,47 @@ right_rail:
     updated: "April 2026"
 ---
 
-CK = 3/2. Kolmogorov constant!prediction pred:n29 $C_K = 3/2$ (V.T250), the first parameter-free derivation of the Kolmogorov constant. Observed: $C_K = 1.5 0.1$.
+## N29: Prediction
+
+CK = 3/2.
+
+$C_K = 3/2$ (V.T250),
+the first parameter-free derivation
+of the Kolmogorov constant.
+Observed: $C_K = 1.5 ± 0.1$.
+*Experiment:* atmospheric turbulence, wind tunnels.
+*Timeline:* ongoing.
+
+
+## Derivation Context
+
+The numerator $5 = (τ^3) + (T^2)
+= |gen| + (T^2)$
+counts the total number of dissipation channels:
+three generation modes
+from $H_1(τ^3;ℤ) ≅ ℤ^3$
+plus two fiber directions on $T^2$.
+The denominator is the spatial dimensionality
+of the fibered product.
+
+In the K41 derivation,
+the exponent $5/3$ emerges
+from dimensional analysis:
+$[E(k)] = L^3 T^-2$,
+$[] = L^2 T^-3$,
+$[k] = L^-1$,
+so $E(k) ^2/3 k^-5/3$
+by matching dimensions.
+This derivation gives the correct answer
+but does not explain
+*why* the dimensions work out
+to produce $5/3$.
+The $τ$-decomposition (eq:ch65-53-decomposition)
+provides the structural reason:
+$5/3$ is the ratio
+of dissipation channels
+to spatial dimensions
+in the fibered product.
+The exponent encodes
+the topology of $τ^3$.
+

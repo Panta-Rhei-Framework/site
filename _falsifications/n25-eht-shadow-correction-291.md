@@ -34,4 +34,31 @@ right_rail:
     updated: "April 2026"
 ---
 
-EHT!shadow correction prediction pred:n25 The $T^2$ fiber increases the effective shadow radius by $2.91%$ compared to Schwarzschild (V.T220). $a͡u$-value: $r_m̊ sh = 5.25 GM/c^2$.
+## N25: Prediction
+
+The $T^2$ fiber increases
+the effective shadow radius by $2.91%$
+compared to Schwarzschild (V.T220).
+$τ$-value: $r_ sh = 5.25\,GM/c^2$.
+*Experiment:* ngEHT (next-generation EHT).
+*Timeline:* 2029–2033.
+
+
+## Derivation Context
+
+- **Shadow diameter:**
+$θ_τ = 40.85\,μas$.
+- **EHT observation:**
+$42 ± 3\,μas$.
+- **Deviation:** $0.4σ$.
+- **QNM ratio:** $ι_τ^-1 ≈ 2.930$.
+- **Modulation periods:**
+$4.66$ d (outer $S^1$),
+$1.59$ d (inner $S^1$).
+
+The shadow prediction lies comfortably
+within the EHT error bar.
+The $T^2$ correction brings $τ$
+$1.15\,μas$ closer to the central value
+than pure GR.
+

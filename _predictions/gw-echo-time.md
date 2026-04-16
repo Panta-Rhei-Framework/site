@@ -39,4 +39,26 @@ right_rail:
     updated: "April 2026"
 ---
 
-GW echo time: τ-value see text, deviation –.
+## Derivation
+
+The gravitational-wave echo time delays
+for a $T^2$-topology black hole of mass $M$ are
+
+The echo separation
+$Δ t = t_- - t_+
+= 4GM(ι_τ^-1 - ι_τ)/c^3$
+places both echoes in the sensitive frequency band
+of current and next-generation detectors:
+
+**Source** &
+$M\,(M_)$ &
+$t_+\,(ms)$ &
+$t_-\,(ms)$ &
+$Δ t\,(ms)$
+Stellar BH | 10 | 0.067 | 0.577 | 0.510 GW150914 remnant | 62 | 0.417 | 3.580 | 3.163 Intermediate | 150 | 1.009 | 8.660 | 7.651 Sgr A* | $4 × 10^6$ &
+3cLISA band: $∼$4.3 mHz / $∼$37 mHz
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
+

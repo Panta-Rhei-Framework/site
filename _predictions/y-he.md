@@ -39,4 +39,37 @@ right_rail:
     updated: "April 2026"
 ---
 
-Yₚ (⁴He): τ-value 0.2469, observed 0.2449 ± 0.0040, deviation +0.8%.
+## Derivation
+
+The fiber suppression is selective:
+it affects only $A ≥ 7$ nuclei
+(those requiring EM radiative capture
+across the full $τ^3$ geometry).
+Light nuclei with $A ≤ 4$
+fit the stride-3 macrocell
+and are unaffected:
+
+- $Y_p$ ($^4He$):
+unchanged (voxel packing geometry,
+independent of $^7Be$ production).
+- $D/H$:
+unchanged (set by deuterium bottleneck,
+not by $^7Be$ channel).
+- $^3He/H$:
+unchanged ($A = (τ^3) = 3$,
+fits macrocell).
+
+No BBN products have $5 ≤ A ≤ 6$
+(the mass gaps at $A = 5$ and $A = 8$
+in nuclear physics prevent their formation).
+The $τ$ framework
+therefore resolves the lithium problem
+*selectively*—without
+disturbing the other
+successful BBN predictions.
+*(Registry: V.T245, V.T246, Wave 25.)*
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
+

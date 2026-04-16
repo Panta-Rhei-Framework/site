@@ -39,4 +39,27 @@ right_rail:
     updated: "April 2026"
 ---
 
-δA / mₙ: τ-value 1.38!×!10⁻³, observed 1.378!×!10⁻³, deviation +33~ppm.
+## Derivation
+
+The proton–neutron mass splitting
+is given by the **two-sector formula**:
+
+where $α ≈ 1/137.036$
+is the fine-structure constant
+and $ι_τ = 2/(π + e)$.
+The first term is the strong-sector (C-sector) contribution;
+the second is the electromagnetic correction (B-sector).
+Numerically:
+
+in agreement with the measured value
+at $+33$ ppm.
+*(Registry: IV.T142, Wave 1.)*
+
+Structural anatomy.
+The two-sector formula (eq:ch60-pn-formula)
+has a transparent structure:
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
+

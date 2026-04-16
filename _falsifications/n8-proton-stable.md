@@ -34,4 +34,13 @@ right_rail:
     updated: "April 2026"
 ---
 
-proton stability!prediction pred:n8 No baryon-number violation in the five-sector framework. $a͡u_p = $. Orthodox GUTs: $a͡u_p 10^34$–$10^36$~yr.
+## N8: Prediction
+
+No baryon-number violation
+in the five-sector framework.
+$τ_p = ∞$.
+Orthodox GUTs: $τ_p ∼ 10^34$–$10^36$ yr.
+*Experiment:* Hyper-Kamiokande, DUNE, JUNO.
+*Timeline:* ongoing–2040+.
+
+

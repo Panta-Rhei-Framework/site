@@ -39,4 +39,44 @@ right_rail:
     updated: "April 2026"
 ---
 
-θ₁₂ (PMNS): τ-value 33.0^∘, observed 33.4^∘, deviation +3106~ppm.
+## Derivation
+
+The solar mixing angle is given by
+the quark–lepton complementarity (QLC) relation
+with a $τ$-correction:
+
+where $κ_ω = ι_τ/(1+ι_τ)$
+is the $ω$-sector cross-coupling.
+The leading term $1/3$
+is the tribimaximal value
+(Harrison, Perkins, and Scott, 2002).
+The correction $ι_τ^2 κ_ω$
+is a QLC shift:
+the same $ι_τ$
+that produces the Cabibbo angle
+produces a small correction
+to the tribimaximal pattern.
+
+The NuFIT 5.3 global fit value is
+$^2θ_12 = 0.303 ± 0.012$,
+giving a deviation of $+3\,106$ ppm ($+0.31%$, $0.4σ$).
+
+The deviation $+3\,106$ ppm
+is at the boundary
+between conjectural and $τ$-effective.
+The quarter-turn proof
+(mapping the lemniscate winding
+to the mixing rotation)
+is nearly closed
+but the relation between the QLC shift
+and the sector coupling $κ_ω$
+has not yet been demonstrated
+at the topological level.
+The scope is therefore *conjectural*,
+pending the completion
+of the quarter-turn argument.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
+

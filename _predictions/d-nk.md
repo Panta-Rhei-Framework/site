@@ -39,4 +39,33 @@ right_rail:
     updated: "April 2026"
 ---
 
-D₈₀ᴮᴮ (nK²): τ-value 339, deviation –.
+## Derivation
+
+With $r = ι_τ^4$
+and $A_s = 2.096 × 10^-9$,
+the primordial B-mode power spectrum
+is fully determined.
+The recombination bump
+peaks at $ ≈ 80$:
+
+D_80^BB
+\;=\;
+(+1)\,C_^BB2π
+|_ ≈ 80
+\;≈\;
+0.025 × r
+\;=\;
+339\;nK^2.
+
+At $ ≈ 80$,
+the lensing B-mode foreground
+($∼ 0.3$ nK$^2$)
+is $∼ 1100×$ weaker
+than the primordial signal.
+De-lensing is not required.
+*(Registry: V.D256, Wave 14F.)*
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 62 — inflation-cmb-bbn), Books IV–V of *Panta Rhei*.
+

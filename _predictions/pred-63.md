@@ -39,4 +39,78 @@ right_rail:
     updated: "April 2026"
 ---
 
-ζₚ: τ-value see text, observed DNS data, deviation < 1%.
+## Derivation
+
+In orthodox turbulence theory,
+intermittency is a ``correction''
+to K41—something
+that spoils the self-similar picture.
+In $τ$, intermittency is primary:
+it arises because
+the fiber $T^2$ can collapse
+to a point,
+concentrating energy
+on co-dimension-2 filaments.
+Intermittency is not a perturbation;
+it is a structural feature
+of the fibered product.
+
+The collective dynamics predictions
+of Category $τ$ derive from a single
+structural fact: $(T^2) = 2$.
+
+**Prediction** &
+**$τ$-formula** &
+**$τ$-value** &
+**Obs.\ value** &
+**Registry**
+She–L\'ev\^eque $β$ &
+$(T^2)/(τ^3)$ &
+$2/3$ &
+$2/3$ (fitted) &
+V.T248 She–L\'ev\^eque $C_0$ &
+$(T^2)$ &
+$2$ &
+$2$ (fitted) &
+V.D308 Exponent $-5/3$ &
+$-(τ^3 + T^2)/τ^3$ &
+$-5/3$ &
+$-5/3$ &
+V.T250 $C_K$ &
+$(τ^3)/(T^2)$ &
+$3/2 = 1.5$ &
+$1.5 ± 0.1$ &
+V.T251 Two-thirds law &
+$(T^2)/(τ^3)$ &
+$2/3$ &
+$2/3$ &
+V.R441 $ζ_p$, $p ≤ 12$ &
+$p/9 + 2[1-(2/3)^p/3]$ &
+(see table) &
+$<1%$ err &
+V.T249 Reconnection rate &
+$ι_τ^2\,v_A$ &
+$0.117\,v_A$ &
+$0.1 ± 0.03$ &
+V.T252 Alfv\'en damping &
+$ι_τ^2\,ω_A$ &
+$0.117\,ω_A$ &
+$∼ 0.1$ &
+V.T253 NS decompact.\ &
+$α_n = 1 - 1/p_n^#$ &
+$→ 1$ &
+(open) &
+V.T254
+
+- **She–L\'ev\^eque** from fibration:
+$β$ and $C_0$ are
+structural constants
+of $τ^3 = τ^1 ×_f T^2$,
+derived from the fiber dimension
+(Theorem (thm:ch65-she-leveque)).
+Agreement $<1%$ for all $p ≤ 12$.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 65 — collective-dynamics), Books IV–V of *Panta Rhei*.
+

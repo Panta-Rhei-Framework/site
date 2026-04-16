@@ -34,4 +34,52 @@ right_rail:
     updated: "April 2026"
 ---
 
-fourth generation!prediction pred:n1 $|m̊ gen| = 3$ exactly, from $H_1(a͡u^3;ℤ) o̧ng ℤ^3$ (IV.T171). Any observation of a fourth-generation fermion at any mass scale falsifies $a͡u$'s topological generation theorem.
+## N1: Prediction
+
+$| gen| = 3$ exactly,
+from $H_1(τ^3;ℤ) ≅ ℤ^3$
+(IV.T171).
+Any observation of a fourth-generation fermion
+at any mass scale
+falsifies $τ$'s topological generation theorem.
+*Experiment:* LHC Run 3+, FCC.
+*Timeline:* ongoing–2040.
+
+
+## Derivation Context
+
+The number of fermion generations
+equals the rank
+of the first integer homology
+of the $τ^3$ fibration:
+
+The result $|gen| = 3$
+is established by three independent arguments,
+each drawing on different mathematical structures:
+
+- **$H_1$ rank = $(τ^3)$**
+(Theorem (thm:ch60-three-gen-rank)).
+The first homology group
+of $τ^3$ has rank 3
+by the K\"unneth computation
+(eq:ch60-kunneth).
+This is the most direct proof:
+the topological structure of $τ^3$
+forces exactly three independent one-cycles.
+
+The fiber $T^2 = (R · S^1) × (ι_τ R · S^1)$
+with aspect ratio $r/R = ι_τ$
+carries a Laplacian
+whose primitive eigenvalue spectrum
+(modes $(n,m)$ with $(n,m) = 1$)
+supports exactly three stable generation modes
+below the first composite-mode threshold:
+$λ_(1,0) = 1$,
+$λ_(0,1) = ι_τ^-2 ≈ 8.585$,
+$λ_(1,1) = 1 + ι_τ^-2 ≈ 9.585$.
+The next primitive mode $(2,1)$
+has $λ_(2,1) ≈ 12.58$,
+exceeding the composite threshold $λ_(2,0) = 4$.
+No fourth light generation exists.
+*(Registry: IV.T172, Wave 7.)*
+

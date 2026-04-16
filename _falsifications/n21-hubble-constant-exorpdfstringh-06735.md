@@ -34,4 +34,50 @@ right_rail:
     updated: "April 2026"
 ---
 
-h = 0.6735. Hubble constant!prediction pred:n21 $a͡u$-native $H_0 = 67.35$~km/s/Mpc (V.T196), matching Planck but not SH0ES. If future concordance settles on $H_0 > 70$, $a͡u$ is in tension.
+## N21: Prediction
+
+h = 0.6735.
+
+$τ$-native $H_0 = 67.35$ km/s/Mpc (V.T196),
+matching Planck but not SH0ES.
+If future concordance
+settles on $H_0 > 70$,
+$τ$ is in tension.
+*Experiment:* DESI, JWST, gravitational wave standard sirens.
+*Timeline:* 2025–2035.
+
+
+## Derivation Context
+
+tter particle has been found.
+After two decades
+of theoretical effort,
+the cosmological constant problem—a
+mismatch of $120$ orders of magnitude
+between the quantum vacuum prediction
+and the observed value—remains
+the worst quantitative failure
+in the history of science.
+
+This chapter demonstrates
+that the dark sector dissolves
+within Category $τ$.
+The dissolution is not speculative:
+it rests on five quantitative results,
+each derived from the master constant
+$ι_τ = 2/(π + e)$
+with zero free parameters.
+
+- **Flat rotation curves**:
+the master formula
+$v^4 = G M_b c^2/(2_τ)$
+reproduces NGC 3198 at $0.6%$
+and passes a 20-galaxy survey
+at $0.067$ dex RMS
+(V.T85, V.D258).
+
+- **Dark energy density**:
+$Ω_Λ = κ_D(1 + ι_τ^3) = 0.6849$,
+matching Planck at $+269$ ppm
+(V.T234).
+

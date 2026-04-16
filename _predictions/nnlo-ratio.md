@@ -39,4 +39,33 @@ right_rail:
     updated: "April 2026"
 ---
 
-ν NNLO ratio: τ-value (1.16,,0.87), observed –, deviation +18.5~ppm.
+## Derivation
+
+(Δ_pq,\, Δ_pr)
+\;=\;
+(87 + 3175,\;
+67 + 9700)
+\;=\;
+(1.16,\; 0.87),
+
+where the NNLO shifts are
+$δ_1 = 3/175 = 3/(7 × 25)
+= 3/(7 · W_3(4)^2)$
+and $δ_2 = 9/700 = 9/(7 × 100)$.
+Three structural properties hold:
+
+- **4/3 ratio preserved at every order:**
+$Δ_pq/Δ_pr = 4/3$,
+where $4/3 = 2 · |lobes|/|sectors|$.
+
+- **Self-similarity:**
+$δ_1/δ_0 = 3/25$,
+where $δ_0 = 1/7$
+is the leading-order unit
+and $25 = W_3(4)^2$
+is the window-squared normalization.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 61 — mixing-baryogenesis), Books IV–V of *Panta Rhei*.
+

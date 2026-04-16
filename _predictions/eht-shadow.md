@@ -39,4 +39,25 @@ right_rail:
     updated: "April 2026"
 ---
 
-EHT shadow: τ-value 5.25,GM/c², observed 5.1 ± 0.3, deviation –.
+## Derivation
+
+- **Shadow diameter:**
+$θ_τ = 40.85\,μas$.
+- **EHT observation:**
+$42 ± 3\,μas$.
+- **Deviation:** $0.4σ$.
+- **QNM ratio:** $ι_τ^-1 ≈ 2.930$.
+- **Modulation periods:**
+$4.66$ d (outer $S^1$),
+$1.59$ d (inner $S^1$).
+
+The shadow prediction lies comfortably
+within the EHT error bar.
+The $T^2$ correction brings $τ$
+$1.15\,μas$ closer to the central value
+than pure GR.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 64 — black-hole-topology), Books IV–V of *Panta Rhei*.
+

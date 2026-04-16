@@ -39,4 +39,45 @@ right_rail:
     updated: "April 2026"
 ---
 
-Koide Q: τ-value 2/3, observed 0.66661, deviation -9~ppm.
+## Derivation
+
+in agreement with the experimental value
+$Q^(exp) = 0.666\,661 ± 0.000\,007$
+at $-9$ ppm.
+The rational value $2/3$
+arises from the lemniscate structure:
+$2/3 = lobes / (τ^3)$.
+The derivation follows four steps:
+
+- Three generations correspond
+to three winding classes
+in $π_1(τ^3) ≅ ℤ^3$
+(Theorem (thm:ch60-three-gen-rank)).
+- Each class has a mass eigenvalue
+from the $T^2$ mode spectrum.
+- The constraint
+$χ_+ + χ_- = 1$
+on the two lobes of $$
+forces a democratic matrix structure.
+- The democratic matrix
+has eigenvalue ratio $2:(-1):(-1)$,
+giving $Q = 2/3$.
+
+The structurally significant parameter
+controlling the departure of the lepton mass spectrum
+from the democratic configuration
+$m_e = m_μ = m_τ$ is
+
+where lobes $= 2$
+(the two lobes of $ = S^1 S^1$)
+and $(τ^3)^2 = 9$.
+This ratio controls the Koide phase,
+setting the angular separation
+of the three mass eigenvalues
+on the unit circle
+of the democratic mass matrix.
+
+## Source
+
+This prediction is derived in the Physics Ledger (Chapter 60 — mass-spectrum), Books IV–V of *Panta Rhei*.
+
