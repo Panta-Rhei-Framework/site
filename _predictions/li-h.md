@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "⁷Li/H"
-title_plain: "⁷Li/H"
+title: "Lithium-7 Abundance (Resolved)"
+title_plain: "Lithium-7 Abundance (Resolved)"
 permalink: /predictions/li-h/
 lane: results
 prediction_id: "pred-045"
@@ -11,6 +11,7 @@ observable: "⁷Li/H"
 observable_mathml: "<math><mi>S = 1/3</mi></math> suppression"
 formula_plain: "S = 1/3 suppression"
 formula_mathml: "<math><mi>S = 1/3</mi></math> suppression"
+formula_display: "⁷Li/H = S × standard BBN, S = 1/3 → 1.6 × 10⁻¹⁰"
 tau_value: "1.6!×!10⁻¹⁰"
 observed_value: "1.6!×!10⁻¹⁰"
 deviation: "∼ 0%"
@@ -21,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "V"
-summary_short: "⁷Li/H: τ-value 1.6!×!10⁻¹⁰, observed 1.6!×!10⁻¹⁰, deviation ∼ 0%."
+summary_short: "Lithium-7 Abundance (Resolved): τ-value 1.6!×!10⁻¹⁰, observed 1.6!×!10⁻¹⁰, deviation ∼ 0%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "Conjectural"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**⁷Li/H = S × standard BBN, S = 1/3 → 1.6 × 10⁻¹⁰**
 
 ## Derivation
 

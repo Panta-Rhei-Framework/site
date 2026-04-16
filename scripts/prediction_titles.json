@@ -1,0 +1,270 @@
+{
+  "rm-gen-3": {
+    "title": "Three Generations of Fermions",
+    "formula_display": "H₁(τ³; ℤ) ≅ ℤ³ → |gen| = 3"
+  },
+  "m-mev": {
+    "title": "Electron Mass",
+    "formula_display": "mₑ = mₙ / R (10-link spectral chain) = 0.510999 MeV"
+  },
+  "m-m": {
+    "title": "Muon-to-Electron Mass Ratio",
+    "formula_display": "mμ / mₑ = ι_τ⁻⁴·⁹⁶ ≈ 206.1"
+  },
+  "koide-q": {
+    "title": "Koide Relation Q",
+    "formula_display": "Q = lobes / dim(τ³) = 2/3"
+  },
+  "nnlo": {
+    "title": "NNLO Correction Parameter δ",
+    "formula_display": "δ = 1/W₃(4)² = 1/25 = 0.04"
+  },
+  "a-m": {
+    "title": "Proton–Neutron Mass Splitting",
+    "formula_display": "Δm / mₙ = (3/16)√3 · ι_τ⁵ − (3/20)α · ι_τ²"
+  },
+  "m-ev": {
+    "title": "Sum of Neutrino Masses",
+    "formula_display": "Σmν = 0.089 eV (CF-asymmetry grid)"
+  },
+  "hierarchy": {
+    "title": "Neutrino Mass Hierarchy",
+    "formula_display": "r < p in exponent triplet → Normal ordering"
+  },
+  "c": {
+    "title": "Neutrino Majorana Signature",
+    "formula_display": "σ = C_τ (zero holonomy) → Majorana"
+  },
+  "nnlo-ratio": {
+    "title": "Neutrino NNLO Mass Ratios",
+    "formula_display": "(Δpq, Δpr) = (8/7 + 3/175, 6/7 + 9/700) ≈ (1.16, 0.87)"
+  },
+  "cabibbo": {
+    "title": "Cabibbo Angle λ",
+    "formula_display": "λ_C = ι_τ · (1 − ι_τ) = ι_τ · κ_D ≈ 0.2248"
+  },
+  "wolfenstein-a": {
+    "title": "Wolfenstein Parameter A",
+    "formula_display": "A = 1 − (3/2) · ι_τ² ≈ 0.825"
+  },
+  "bar": {
+    "title": "CKM Parameter ρ̄",
+    "formula_display": "ρ̄ = 1/(2π) ≈ 0.1592"
+  },
+  "bar-14": {
+    "title": "CKM Parameter η̄",
+    "formula_display": "η̄ = ι_τ⁻¹ᐟ⁴ · κ_D⁵ᐟ⁴ / √5 ≈ 0.345"
+  },
+  "pmns": {
+    "title": "PMNS Solar Mixing Angle θ₁₂",
+    "formula_display": "θ₁₂ = QLC + ι_τ² · κ_ω ≈ 33.0°"
+  },
+  "pmns-16": {
+    "title": "PMNS Atmospheric Mixing Angle θ₂₃",
+    "formula_display": "sin θ₂₃ = 1 − ι_τ⁵ → θ₂₃ ≈ 47.2°"
+  },
+  "qcd": {
+    "title": "Strong CP Angle θ_QCD",
+    "formula_display": "θ_QCD = 0 exactly (SA-i mod-3, no axion needed)"
+  },
+  "n-edm": {
+    "title": "Neutron Electric Dipole Moment",
+    "formula_display": "dₙ = 0 exactly (from θ_QCD = 0)"
+  },
+  "k-nnlo": {
+    "title": "NNLO Coefficient k",
+    "formula_display": "k = (15/2) = dim(τ³) · W₃(4) / lobes = 7.5"
+  },
+  "sin-w": {
+    "title": "Weak Mixing Angle sin²θ_W",
+    "formula_display": "sin²θ_W = W₃(4) NLO readout = 0.23119"
+  },
+  "mw-gev": {
+    "title": "W Boson Mass M_W",
+    "formula_display": "M_W = W₃(4) NLO readout = 80.37 GeV"
+  },
+  "mz": {
+    "title": "Strong Coupling Constant α_s(M_Z)",
+    "formula_display": "α_s(M_Z) = W₃(4) NLO readout = 0.1183"
+  },
+  "pred-23": {
+    "title": "Fine-Structure Constant α",
+    "formula_display": "α = (11/15)² · ι_τ⁴ → α⁻¹ ≈ 137.035"
+  },
+  "mh-gev": {
+    "title": "Higgs Boson Mass (n = 7)",
+    "formula_display": "n = 2 × lobes + sectors = 2 × 2 + 3 = 7 → m_H = 125.21 GeV"
+  },
+  "mh-n-5": {
+    "title": "Higgs Boson Mass (n = 5 route)",
+    "formula_display": "m_H = (4 − ι_τ³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV"
+  },
+  "g": {
+    "title": "Gravitational Constant G",
+    "formula_display": "G = (c³/ℏ) · ι_τ² ≈ 6.674 × 10⁻¹¹"
+  },
+  "closing-identity": {
+    "title": "G–α Bridge Identity",
+    "formula_display": "α_G = α¹⁸ · √3 · (1 − 3α/π)"
+  },
+  "a-1": {
+    "title": "A-Sector (Weak) Coupling κ(A;1)",
+    "formula_display": "κ(A;1) = ι_τ ≈ 0.3413"
+  },
+  "d-1": {
+    "title": "D-Sector (Gravity) Coupling κ(D;1)",
+    "formula_display": "κ(D;1) = 1 − ι_τ = κ_D ≈ 0.6587"
+  },
+  "c-3": {
+    "title": "C-Sector (Strong) Coupling κ(C;3)",
+    "formula_display": "κ(C;3) = ι_τ³ / (1 − ι_τ) ≈ 0.0604"
+  },
+  "pred-31": {
+    "title": "Mixed Sector (Higgs/EW) Coupling κ(ω)",
+    "formula_display": "κ(ω) = ι_τ³ / (1 + ι_τ) ≈ 0.0297"
+  },
+  "n": {
+    "title": "Spectral Index n_s",
+    "formula_display": "n_s = 1 − 2/N_e = 1 − 2/57 = 0.96491"
+  },
+  "r": {
+    "title": "Tensor-to-Scalar Ratio r",
+    "formula_display": "r = ι_τ^(2·dim(T²)) = ι_τ⁴ ≈ 0.0136"
+  },
+  "n-34": {
+    "title": "Inflationary E-Fold Count N_e",
+    "formula_display": "N_e = dim(τ³) × W₅(3) = 3 × 19 = 57"
+  },
+  "pred-35": {
+    "title": "First CMB Acoustic Peak ℓ₁",
+    "formula_display": "ℓ₁ = ℓ_A · (1 − φ₁) ≈ 220.6"
+  },
+  "d": {
+    "title": "Silk Damping Scale ℓ_D",
+    "formula_display": "ℓ_D = ℓ₁ · κ_D / κ_B = 1244.0"
+  },
+  "d-nk": {
+    "title": "B-Mode Polarization Amplitude D₈₀ᴮᴮ",
+    "formula_display": "D₈₀ᴮᴮ = first τ-polarization = 339 nK²"
+  },
+  "a": {
+    "title": "Scalar Perturbation Amplitude A_s",
+    "formula_display": "A_s = (121/225) · ι_τ¹⁴ ≈ 2.14 × 10⁻⁹"
+  },
+  "n-ff": {
+    "title": "Effective Neutrino Number N_eff",
+    "formula_display": "N_eff = |gen| = 3.000 (not 3.044, no QED correction)"
+  },
+  "b": {
+    "title": "Baryon Density Parameter ω_b",
+    "formula_display": "ω_b from τ-native η_B = 0.02209"
+  },
+  "m-b": {
+    "title": "Matter-to-Baryon Ratio ω_m/ω_b",
+    "formula_display": "ω_m/ω_b = 1 + (1 − ι_τ)/ι_τ² ≈ 6.655"
+  },
+  "b-42": {
+    "title": "Baryon Asymmetry η_B",
+    "formula_display": "η_B = α · ι_τ¹⁵ · (5/6) ≈ 6.09 × 10⁻¹⁰"
+  },
+  "y-he": {
+    "title": "Primordial Helium-4 Mass Fraction Y_p",
+    "formula_display": "Y_p = (8/27) × (5/6) = 20/81 = 0.2469"
+  },
+  "d-h": {
+    "title": "Primordial Deuterium Abundance D/H",
+    "formula_display": "D/H = τ-native from η_B ≈ 2.52 × 10⁻⁵"
+  },
+  "li-h": {
+    "title": "Lithium-7 Abundance (Resolved)",
+    "formula_display": "⁷Li/H = S × standard BBN, S = 1/3 → 1.6 × 10⁻¹⁰"
+  },
+  "pred-48": {
+    "title": "Dark Energy Density Ω_Λ",
+    "formula_display": "Ω_Λ = κ_D · (1 + ι_τ³) = 0.6849"
+  },
+  "w": {
+    "title": "Dark Energy Equation of State w₀",
+    "formula_display": "w₀ = ι_τ³ − 1 ≈ −0.960 (not −1)"
+  },
+  "h": {
+    "title": "Hubble Constant h",
+    "formula_display": "h = 2/3 + ι_τ²/17 = 0.6735"
+  },
+  "s": {
+    "title": "Clustering Amplitude S₈",
+    "formula_display": "S₈ = τ-native from DE-closure = 0.760"
+  },
+  "m-de": {
+    "title": "Matter Density from DE Closure ω_m",
+    "formula_display": "ω_m = DE closure = 0.1429"
+  },
+  "ngc-3198-v": {
+    "title": "Galaxy Rotation Curve (NGC 3198)",
+    "formula_display": "v∞⁴ = G·M_b·c² / (2ℓ_τ) → v = 149.1 km/s"
+  },
+  "20-galaxy-btfr": {
+    "title": "Baryonic Tully-Fisher Relation (20 Galaxies)",
+    "formula_display": "τ-BTFR slope = 3.991 (zero free parameters)"
+  },
+  "bh-topology": {
+    "title": "Black Hole Horizon Topology",
+    "formula_display": "Horizon = T² (torus fiber of τ³), not S²"
+  },
+  "qnm-ratio": {
+    "title": "Quasinormal Mode Frequency Ratio",
+    "formula_display": "f₍₀,₁₎/f₍₁,₀₎ = ι_τ⁻¹ = (π+e)/2 ≈ 2.929"
+  },
+  "eht-shadow": {
+    "title": "EHT Shadow Correction",
+    "formula_display": "f_τ = 1 + ι_τ²/4 = 1.02912 (+2.91% universal)"
+  },
+  "gw-echo-time": {
+    "title": "Gravitational Wave Echo Time",
+    "formula_display": "t± = 4GM·ι_τ±¹/c³"
+  },
+  "echo-ratio": {
+    "title": "GW Echo Time Ratio",
+    "formula_display": "t₊/t₋ = ι_τ⁻² ≈ 8.57"
+  },
+  "magnetic-winding": {
+    "title": "Magnetic Winding Number",
+    "formula_display": "w = dim(T²) = 2"
+  },
+  "bz-b-jet": {
+    "title": "Jet Magnetic Field Ratio B_z/B_φ",
+    "formula_display": "B_z/B_φ = fiber/base ≈ ι_τ ≈ 0.3"
+  },
+  "no-singularities": {
+    "title": "No Singularities (Bounded Characters)",
+    "formula_display": "All boundary characters bounded → no divergence"
+  },
+  "no-evaporation": {
+    "title": "No Black Hole Evaporation (No-Shrink Theorem)",
+    "formula_display": "Ṁ = 0 (defect monotonicity, Categorical Second Law)"
+  },
+  "she-l-v-que": {
+    "title": "She–Lévêque Intermittency Parameter β",
+    "formula_display": "β = dim(T²)/dim(τ³) = 2/3"
+  },
+  "p": {
+    "title": "Kolmogorov Structure Function Exponents ζ_p",
+    "formula_display": "ζ_p = (p/9)(1 − (2/3)^(p/3))"
+  },
+  "c-k": {
+    "title": "Kolmogorov Constant C_K",
+    "formula_display": "C_K = dim(τ³)/dim(T²) = 3/2 = 1.5"
+  },
+  "v-c": {
+    "title": "Fast Magnetic Reconnection Rate",
+    "formula_display": "v_rec = ι_τ² · v_A ≈ 0.117 v_A"
+  },
+  "pred-66": {
+    "title": "Coronal Heating Damping Scale",
+    "formula_display": "ℓ_heat = ι_τ² · R_☉ ≈ 0.117 R_☉"
+  },
+  "ns-regularity": {
+    "title": "Navier–Stokes Regularity (No Blow-Up)",
+    "formula_display": "Profinite decompactification → no finite-time blow-up"
+  }
+}

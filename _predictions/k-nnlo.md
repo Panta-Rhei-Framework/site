@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "kᵣₘ NNLO"
-title_plain: "kᵣₘ NNLO"
+title: "NNLO Coefficient k"
+title_plain: "NNLO Coefficient k"
 permalink: /predictions/k-nnlo/
 lane: results
 prediction_id: "pred-019"
@@ -11,6 +11,7 @@ observable: "kᵣₘ NNLO"
 observable_mathml: "<math><mi>tfrac152 = dim(τ³) W₃(4)/rm lobes</mi></math>"
 formula_plain: "tfrac152 = dim(τ³) W₃(4)/rm lobes"
 formula_mathml: "<math><mi>tfrac152 = dim(τ³) W₃(4)/rm lobes</mi></math>"
+formula_display: "k = (15/2) = dim(τ³) · W₃(4) / lobes = 7.5"
 tau_value: "7.5"
 observed_value: "–"
 deviation: "-8.2~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "kᵣₘ NNLO: τ-value 7.5, observed –, deviation -8.2~ppm."
+summary_short: "NNLO Coefficient k: τ-value 7.5, observed –, deviation -8.2~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**k = (15/2) = dim(τ³) · W₃(4) / lobes = 7.5**
 
 ## Derivation
 

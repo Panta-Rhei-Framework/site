@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Σ m_ν (eV)"
-title_plain: "Σ m_ν (eV)"
+title: "Sum of Neutrino Masses"
+title_plain: "Sum of Neutrino Masses"
 permalink: /predictions/m-ev/
 lane: results
 prediction_id: "pred-007"
@@ -11,6 +11,7 @@ observable: "Σ m_ν (eV)"
 observable_mathml: "CF-asymm grid"
 formula_plain: "CF-asymm grid"
 formula_mathml: "CF-asymm grid"
+formula_display: "Σmν = 0.089 eV (CF-asymmetry grid)"
 tau_value: "0.089"
 observed_value: "< 0.12"
 deviation: "+7~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Σ m_ν (eV): τ-value 0.089, observed < 0.12, deviation +7~ppm."
+summary_short: "Sum of Neutrino Masses: τ-value 0.089, observed < 0.12, deviation +7~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**Σmν = 0.089 eV (CF-asymmetry grid)**
 
 ## Derivation
 

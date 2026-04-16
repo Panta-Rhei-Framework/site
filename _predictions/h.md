@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "h"
-title_plain: "h"
+title: "Hubble Constant h"
+title_plain: "Hubble Constant h"
 permalink: /predictions/h/
 lane: results
 prediction_id: "pred-048"
@@ -11,6 +11,7 @@ observable: "h"
 observable_mathml: "<math><mi>τ</mi></math>-native <math><msub><mi>H</mi><mn>0</mn></msub></math>"
 formula_plain: "τ-native H₀"
 formula_mathml: "<math><mi>τ</mi></math>-native <math><msub><mi>H</mi><mn>0</mn></msub></math>"
+formula_display: "h = 2/3 + ι_τ²/17 = 0.6735"
 tau_value: "0.6735"
 observed_value: "0.6736"
 deviation: "-15~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "h: τ-value 0.6735, observed 0.6736, deviation -15~ppm."
+summary_short: "Hubble Constant h: τ-value 0.6735, observed 0.6736, deviation -15~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**h = 2/3 + ι_τ²/17 = 0.6735**
 
 ## Derivation
 

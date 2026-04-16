@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "nₛ"
-title_plain: "nₛ"
+title: "Spectral Index n_s"
+title_plain: "Spectral Index n_s"
 permalink: /predictions/n/
 lane: results
 prediction_id: "pred-032"
@@ -11,6 +11,7 @@ observable: "nₛ"
 observable_mathml: "<math><mi>1 - 2/Nₑ = 1 - 2/57</mi></math>"
 formula_plain: "1 - 2/Nₑ = 1 - 2/57"
 formula_mathml: "<math><mi>1 - 2/Nₑ = 1 - 2/57</mi></math>"
+formula_display: "n_s = 1 − 2/N_e = 1 − 2/57 = 0.96491"
 tau_value: "0.96491"
 observed_value: "0.9649"
 deviation: "+13~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "nₛ: τ-value 0.96491, observed 0.9649, deviation +13~ppm."
+summary_short: "Spectral Index n_s: τ-value 0.96491, observed 0.9649, deviation +13~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**n_s = 1 − 2/N_e = 1 − 2/57 = 0.96491**
 
 ## Derivation
 

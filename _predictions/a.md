@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Aₛ"
-title_plain: "Aₛ"
+title: "Scalar Perturbation Amplitude A_s"
+title_plain: "Scalar Perturbation Amplitude A_s"
 permalink: /predictions/a/
 lane: results
 prediction_id: "pred-038"
@@ -11,6 +11,7 @@ observable: "Aₛ"
 observable_mathml: "<math><mi>(121/225),ι_τ¹⁴</mi></math>"
 formula_plain: "(121/225),ι_τ¹⁴"
 formula_mathml: "<math><mi>(121/225),ι_τ¹⁴</mi></math>"
+formula_display: "A_s = (121/225) · ι_τ¹⁴ ≈ 2.14 × 10⁻⁹"
 tau_value: "2.14!×!10⁻⁹"
 observed_value: "2.10!×!10⁻⁹"
 deviation: "-1979~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Aₛ: τ-value 2.14!×!10⁻⁹, observed 2.10!×!10⁻⁹, deviation -1979~ppm."
+summary_short: "Scalar Perturbation Amplitude A_s: τ-value 2.14!×!10⁻⁹, observed 2.10!×!10⁻⁹, deviation -1979~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**A_s = (121/225) · ι_τ¹⁴ ≈ 2.14 × 10⁻⁹**
 
 ## Derivation
 

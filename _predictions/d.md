@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ℓD"
-title_plain: "ℓD"
+title: "Silk Damping Scale ℓ_D"
+title_plain: "Silk Damping Scale ℓ_D"
 permalink: /predictions/d/
 lane: results
 prediction_id: "pred-036"
@@ -11,6 +11,7 @@ observable: "ℓD"
 observable_mathml: "<math><mi>ℓ₁ κD / κB</mi></math>"
 formula_plain: "ℓ₁ κD / κB"
 formula_mathml: "<math><mi>ℓ₁ κD / κB</mi></math>"
+formula_display: "ℓ_D = ℓ₁ · κ_D / κ_B = 1244.0"
 tau_value: "1244.0"
 observed_value: "1243.9"
 deviation: "+9~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ℓD: τ-value 1244.0, observed 1243.9, deviation +9~ppm."
+summary_short: "Silk Damping Scale ℓ_D: τ-value 1244.0, observed 1243.9, deviation +9~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**ℓ_D = ℓ₁ · κ_D / κ_B = 1244.0**
 
 ## Derivation
 

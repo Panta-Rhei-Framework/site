@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "δA / mₙ"
-title_plain: "δA / mₙ"
+title: "Proton–Neutron Mass Splitting"
+title_plain: "Proton–Neutron Mass Splitting"
 permalink: /predictions/a-m/
 lane: results
 prediction_id: "pred-006"
@@ -11,6 +11,7 @@ observable: "δA / mₙ"
 observable_mathml: "<math><mi>(tfrac316)sqrt3,ι_τ⁵</mi></math>"
 formula_plain: "(tfrac316)sqrt3,ι_τ⁵"
 formula_mathml: "<math><mi>(tfrac316)sqrt3,ι_τ⁵</mi></math>"
+formula_display: "Δm / mₙ = (3/16)√3 · ι_τ⁵ − (3/20)α · ι_τ²"
 tau_value: "1.38!×!10⁻³"
 observed_value: "1.378!×!10⁻³"
 deviation: "+33~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "δA / mₙ: τ-value 1.38!×!10⁻³, observed 1.378!×!10⁻³, deviation +33~ppm."
+summary_short: "Proton–Neutron Mass Splitting: τ-value 1.38!×!10⁻³, observed 1.378!×!10⁻³, deviation +33~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**Δm / mₙ = (3/16)√3 · ι_τ⁵ − (3/20)α · ι_τ²**
 
 ## Derivation
 

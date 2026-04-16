@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "θ₂₃ (PMNS)"
-title_plain: "θ₂₃ (PMNS)"
+title: "PMNS Atmospheric Mixing Angle θ₂₃"
+title_plain: "PMNS Atmospheric Mixing Angle θ₂₃"
 permalink: /predictions/pmns-16/
 lane: results
 prediction_id: "pred-016"
@@ -11,6 +11,7 @@ observable: "θ₂₃ (PMNS)"
 observable_mathml: "<math><mi>sinθ₂₃ = 1 - ι_τ⁵</mi></math>"
 formula_plain: "sinθ₂₃ = 1 - ι_τ⁵"
 formula_mathml: "<math><mi>sinθ₂₃ = 1 - ι_τ⁵</mi></math>"
+formula_display: "sin θ₂₃ = 1 − ι_τ⁵ → θ₂₃ ≈ 47.2°"
 tau_value: "47.2^∘"
 observed_value: "49.3^∘"
 deviation: "+8604~ppm"
@@ -21,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "IV"
-summary_short: "θ₂₃ (PMNS): τ-value 47.2^∘, observed 49.3^∘, deviation +8604~ppm."
+summary_short: "PMNS Atmospheric Mixing Angle θ₂₃: τ-value 47.2^∘, observed 49.3^∘, deviation +8604~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "Conjectural"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**sin θ₂₃ = 1 − ι_τ⁵ → θ₂₃ ≈ 47.2°**
 
 ## Derivation
 

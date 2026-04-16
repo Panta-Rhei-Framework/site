@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "θᵣₘ QCD"
-title_plain: "θᵣₘ QCD"
+title: "Strong CP Angle θ_QCD"
+title_plain: "Strong CP Angle θ_QCD"
 permalink: /predictions/qcd/
 lane: results
 prediction_id: "pred-017"
@@ -11,6 +11,7 @@ observable: "θᵣₘ QCD"
 observable_mathml: "<math><mi>0</mi></math> (SA-<math><mi>i</mi></math> mod-3)"
 formula_plain: "0 (SA-i mod-3)"
 formula_mathml: "<math><mi>0</mi></math> (SA-<math><mi>i</mi></math> mod-3)"
+formula_display: "θ_QCD = 0 exactly (SA-i mod-3, no axion needed)"
 tau_value: "0"
 observed_value: "< 10⁻¹⁰"
 deviation: "exact"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "θᵣₘ QCD: τ-value 0, observed < 10⁻¹⁰, deviation exact."
+summary_short: "Strong CP Angle θ_QCD: τ-value 0, observed < 10⁻¹⁰, deviation exact."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**θ_QCD = 0 exactly (SA-i mod-3, no axion needed)**
 
 ## Derivation
 

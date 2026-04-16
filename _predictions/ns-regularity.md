@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "NS regularity"
-title_plain: "NS regularity"
+title: "Navier–Stokes Regularity (No Blow-Up)"
+title_plain: "Navier–Stokes Regularity (No Blow-Up)"
 permalink: /predictions/ns-regularity/
 lane: results
 prediction_id: "pred-067"
@@ -11,6 +11,7 @@ observable: "NS regularity"
 observable_mathml: "profinite decompactification"
 formula_plain: "profinite decompactification"
 formula_mathml: "profinite decompactification"
+formula_display: "Profinite decompactification → no finite-time blow-up"
 tau_value: "no blow-up"
 observed_value: "(open)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "V"
-summary_short: "NS regularity: τ-value no blow-up, observed (open), deviation –."
+summary_short: "Navier–Stokes Regularity (No Blow-Up): τ-value no blow-up, observed (open), deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "Conjectural"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**Profinite decompactification → no finite-time blow-up**
 
 ## Derivation
 

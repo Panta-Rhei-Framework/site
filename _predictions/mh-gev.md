@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "mH (GeV)"
-title_plain: "mH (GeV)"
+title: "Higgs Boson Mass (n = 7)"
+title_plain: "Higgs Boson Mass (n = 7)"
 permalink: /predictions/mh-gev/
 lane: results
 prediction_id: "pred-024"
@@ -11,6 +11,7 @@ observable: "mH (GeV)"
 observable_mathml: "<math><mi>n = 7 = 2!×!rm lobes+rm sectors</mi></math>"
 formula_plain: "n = 7 = 2!×!rm lobes+rm sectors"
 formula_mathml: "<math><mi>n = 7 = 2!×!rm lobes+rm sectors</mi></math>"
+formula_display: "n = 2 × lobes + sectors = 2 × 2 + 3 = 7 → m_H = 125.21 GeV"
 tau_value: "125.21"
 observed_value: "125.20"
 deviation: "+8.0~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "mH (GeV): τ-value 125.21, observed 125.20, deviation +8.0~ppm."
+summary_short: "Higgs Boson Mass (n = 7): τ-value 125.21, observed 125.20, deviation +8.0~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**n = 2 × lobes + sectors = 2 × 2 + 3 = 7 → m_H = 125.21 GeV**
 
 ## Derivation
 

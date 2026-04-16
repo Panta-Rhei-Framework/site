@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "mH (n=5)"
-title_plain: "mH (n=5)"
+title: "Higgs Boson Mass (n = 5 route)"
+title_plain: "Higgs Boson Mass (n = 5 route)"
 permalink: /predictions/mh-n-5/
 lane: results
 prediction_id: "pred-025"
@@ -11,6 +11,7 @@ observable: "mH (n=5)"
 observable_mathml: "<math><mi>(4 - ι_τ³/(1-5κ_ω))/κ_ω</mi></math>"
 formula_plain: "(4 - ι_τ³/(1-5κ_ω))/κ_ω"
 formula_mathml: "<math><mi>(4 - ι_τ³/(1-5κ_ω))/κ_ω</mi></math>"
+formula_display: "m_H = (4 − ι_τ³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV"
 tau_value: "125.26"
 observed_value: "125.20"
 deviation: "+493~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "mH (n=5): τ-value 125.26, observed 125.20, deviation +493~ppm."
+summary_short: "Higgs Boson Mass (n = 5 route): τ-value 125.26, observed 125.20, deviation +493~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**m_H = (4 − ι_τ³/(1 − 5κ_ω)) / κ_ω → 125.26 GeV**
 
 ## Derivation
 

@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "MW (GeV)"
-title_plain: "MW (GeV)"
+title: "W Boson Mass M_W"
+title_plain: "W Boson Mass M_W"
 permalink: /predictions/mw-gev/
 lane: results
 prediction_id: "pred-021"
@@ -11,6 +11,7 @@ observable: "MW (GeV)"
 observable_mathml: "<math><mi>W₃(4)</mi></math> NLO"
 formula_plain: "W₃(4) NLO"
 formula_mathml: "<math><mi>W₃(4)</mi></math> NLO"
+formula_display: "M_W = W₃(4) NLO readout = 80.37 GeV"
 tau_value: "80.37"
 observed_value: "80.37"
 deviation: "-0.42~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "MW (GeV): τ-value 80.37, observed 80.37, deviation -0.42~ppm."
+summary_short: "W Boson Mass M_W: τ-value 80.37, observed 80.37, deviation -0.42~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**M_W = W₃(4) NLO readout = 80.37 GeV**
 
 ## Derivation
 

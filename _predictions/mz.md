@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "αₛ(MZ)"
-title_plain: "αₛ(MZ)"
+title: "Strong Coupling Constant α_s(M_Z)"
+title_plain: "Strong Coupling Constant α_s(M_Z)"
 permalink: /predictions/mz/
 lane: results
 prediction_id: "pred-022"
@@ -11,6 +11,7 @@ observable: "αₛ(MZ)"
 observable_mathml: "<math><mi>W₃(4)</mi></math> NLO"
 formula_plain: "W₃(4) NLO"
 formula_mathml: "<math><mi>W₃(4)</mi></math> NLO"
+formula_display: "α_s(M_Z) = W₃(4) NLO readout = 0.1183"
 tau_value: "0.1183"
 observed_value: "0.1180"
 deviation: "+43~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "αₛ(MZ): τ-value 0.1183, observed 0.1180, deviation +43~ppm."
+summary_short: "Strong Coupling Constant α_s(M_Z): τ-value 0.1183, observed 0.1180, deviation +43~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**α_s(M_Z) = W₃(4) NLO readout = 0.1183**
 
 ## Derivation
 

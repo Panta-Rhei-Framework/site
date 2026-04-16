@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ωb"
-title_plain: "ωb"
+title: "Baryon Density Parameter ω_b"
+title_plain: "Baryon Density Parameter ω_b"
 permalink: /predictions/b/
 lane: results
 prediction_id: "pred-040"
@@ -11,6 +11,7 @@ observable: "ωb"
 observable_mathml: "from <math><mi>ηB</mi></math>"
 formula_plain: "from ηB"
 formula_mathml: "from <math><mi>ηB</mi></math>"
+formula_display: "ω_b from τ-native η_B = 0.02209"
 tau_value: "0.02209"
 observed_value: "0.02237"
 deviation: "-1.2%"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ωb: τ-value 0.02209, observed 0.02237, deviation -1.2%."
+summary_short: "Baryon Density Parameter ω_b: τ-value 0.02209, observed 0.02237, deviation -1.2%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**ω_b from τ-native η_B = 0.02209**
 
 ## Derivation
 

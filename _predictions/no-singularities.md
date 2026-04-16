@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "No singularities"
-title_plain: "No singularities"
+title: "No Singularities (Bounded Characters)"
+title_plain: "No Singularities (Bounded Characters)"
 permalink: /predictions/no-singularities/
 lane: results
 prediction_id: "pred-060"
@@ -11,6 +11,7 @@ observable: "No singularities"
 observable_mathml: "bounded characters"
 formula_plain: "bounded characters"
 formula_mathml: "bounded characters"
+formula_display: "All boundary characters bounded → no divergence"
 tau_value: "–"
 observed_value: "–"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "No singularities: τ-value –, observed –, deviation –."
+summary_short: "No Singularities (Bounded Characters): τ-value –, observed –, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**All boundary characters bounded → no divergence**
 
 ## Derivation
 

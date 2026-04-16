@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ν hierarchy"
-title_plain: "ν hierarchy"
+title: "Neutrino Mass Hierarchy"
+title_plain: "Neutrino Mass Hierarchy"
 permalink: /predictions/hierarchy/
 lane: results
 prediction_id: "pred-008"
@@ -11,6 +11,7 @@ observable: "ν hierarchy"
 observable_mathml: "<math><mi>r < p ⇒</mi></math> normal"
 formula_plain: "r < p ⇒ normal"
 formula_mathml: "<math><mi>r < p ⇒</mi></math> normal"
+formula_display: "r < p in exponent triplet → Normal ordering"
 tau_value: "Normal"
 observed_value: "(pending)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ν hierarchy: τ-value Normal, deviation –."
+summary_short: "Neutrino Mass Hierarchy: τ-value Normal, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**r < p in exponent triplet → Normal ordering**
 
 ## Derivation
 

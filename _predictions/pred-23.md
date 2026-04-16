@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "α"
-title_plain: "α"
+title: "Fine-Structure Constant α"
+title_plain: "Fine-Structure Constant α"
 permalink: /predictions/pred-23/
 lane: results
 prediction_id: "pred-023"
@@ -11,6 +11,7 @@ observable: "α"
 observable_mathml: "<math><mi>(11/15)²,ι_τ⁴</mi></math>"
 formula_plain: "(11/15)²,ι_τ⁴"
 formula_mathml: "<math><mi>(11/15)²,ι_τ⁴</mi></math>"
+formula_display: "α = (11/15)² · ι_τ⁴ → α⁻¹ ≈ 137.035"
 tau_value: "1/137.035"
 observed_value: "1/137.036"
 deviation: "9.8~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "α: τ-value 1/137.035, observed 1/137.036, deviation 9.8~ppm."
+summary_short: "Fine-Structure Constant α: τ-value 1/137.035, observed 1/137.036, deviation 9.8~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**α = (11/15)² · ι_τ⁴ → α⁻¹ ≈ 137.035**
 
 ## Derivation
 

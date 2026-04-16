@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Closing identity"
-title_plain: "Closing identity"
+title: "G–α Bridge Identity"
+title_plain: "G–α Bridge Identity"
 permalink: /predictions/closing-identity/
 lane: results
 prediction_id: "pred-027"
@@ -11,6 +11,7 @@ observable: "Closing identity"
 observable_mathml: "<math><mi>αG = α¹⁸sqrt3(1-tfrac3πα)</mi></math>"
 formula_plain: "αG = α¹⁸sqrt3(1-tfrac3πα)"
 formula_mathml: "<math><mi>αG = α¹⁸sqrt3(1-tfrac3πα)</mi></math>"
+formula_display: "α_G = α¹⁸ · √3 · (1 − 3α/π)"
 tau_value: "–"
 observed_value: "–"
 deviation: "∼ 3~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Closing identity: τ-value –, observed –, deviation ∼ 3~ppm."
+summary_short: "G–α Bridge Identity: τ-value –, observed –, deviation ∼ 3~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**α_G = α¹⁸ · √3 · (1 − 3α/π)**
 
 ## Derivation
 

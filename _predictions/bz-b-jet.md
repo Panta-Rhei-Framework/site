@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Bz / B_φ (jet)"
-title_plain: "Bz / B_φ (jet)"
+title: "Jet Magnetic Field Ratio B_z/B_φ"
+title_plain: "Jet Magnetic Field Ratio B_z/B_φ"
 permalink: /predictions/bz-b-jet/
 lane: results
 prediction_id: "pred-059"
@@ -11,6 +11,7 @@ observable: "Bz / B_φ (jet)"
 observable_mathml: "fiber vs. base"
 formula_plain: "fiber vs. base"
 formula_mathml: "fiber vs. base"
+formula_display: "B_z/B_φ = fiber/base ≈ ι_τ ≈ 0.3"
 tau_value: "ι_τ"
 observed_value: "≈!0.3"
 deviation: "∼ 10%"
@@ -21,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "V"
-summary_short: "Bz / B_φ (jet): τ-value ι_τ, observed ≈!0.3, deviation ∼ 10%."
+summary_short: "Jet Magnetic Field Ratio B_z/B_φ: τ-value ι_τ, observed ≈!0.3, deviation ∼ 10%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "Conjectural"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**B_z/B_φ = fiber/base ≈ ι_τ ≈ 0.3**
 
 ## Derivation
 

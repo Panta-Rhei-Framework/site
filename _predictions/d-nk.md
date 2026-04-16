@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "D₈₀ᴮᴮ (nK²)"
-title_plain: "D₈₀ᴮᴮ (nK²)"
+title: "B-Mode Polarization Amplitude D₈₀ᴮᴮ"
+title_plain: "B-Mode Polarization Amplitude D₈₀ᴮᴮ"
 permalink: /predictions/d-nk/
 lane: results
 prediction_id: "pred-037"
@@ -11,6 +11,7 @@ observable: "D₈₀ᴮᴮ (nK²)"
 observable_mathml: "First <math><mi>τ</mi></math>-polarization"
 formula_plain: "First τ-polarization"
 formula_mathml: "First <math><mi>τ</mi></math>-polarization"
+formula_display: "D₈₀ᴮᴮ = first τ-polarization = 339 nK²"
 tau_value: "339"
 observed_value: "(pending)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "D₈₀ᴮᴮ (nK²): τ-value 339, deviation –."
+summary_short: "B-Mode Polarization Amplitude D₈₀ᴮᴮ: τ-value 339, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**D₈₀ᴮᴮ = first τ-polarization = 339 nK²**
 
 ## Derivation
 

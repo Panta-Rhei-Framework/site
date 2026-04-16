@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "n EDM"
-title_plain: "n EDM"
+title: "Neutron Electric Dipole Moment"
+title_plain: "Neutron Electric Dipole Moment"
 permalink: /predictions/n-edm/
 lane: results
 prediction_id: "pred-018"
@@ -11,6 +11,7 @@ observable: "n EDM"
 observable_mathml: "<math><mi>dₙ = 0</mi></math>"
 formula_plain: "dₙ = 0"
 formula_mathml: "<math><mi>dₙ = 0</mi></math>"
+formula_display: "dₙ = 0 exactly (from θ_QCD = 0)"
 tau_value: "0"
 observed_value: "< 1.8!×!10⁻²⁶"
 deviation: "exact"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "n EDM: τ-value 0, observed < 1.8!×!10⁻²⁶, deviation exact."
+summary_short: "Neutron Electric Dipole Moment: τ-value 0, observed < 1.8!×!10⁻²⁶, deviation exact."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**dₙ = 0 exactly (from θ_QCD = 0)**
 
 ## Derivation
 

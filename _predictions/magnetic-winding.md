@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Magnetic winding"
-title_plain: "Magnetic winding"
+title: "Magnetic Winding Number"
+title_plain: "Magnetic Winding Number"
 permalink: /predictions/magnetic-winding/
 lane: results
 prediction_id: "pred-058"
@@ -11,6 +11,7 @@ observable: "Magnetic winding"
 observable_mathml: "<math><mi>w = dim(T²) = 2</mi></math>"
 formula_plain: "w = dim(T²) = 2"
 formula_mathml: "<math><mi>w = dim(T²) = 2</mi></math>"
+formula_display: "w = dim(T²) = 2"
 tau_value: "w = 2"
 observed_value: "(pending)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Magnetic winding: τ-value w = 2, deviation –."
+summary_short: "Magnetic Winding Number: τ-value w = 2, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**w = dim(T²) = 2**
 
 ## Derivation
 

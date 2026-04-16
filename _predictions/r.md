@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "r"
-title_plain: "r"
+title: "Tensor-to-Scalar Ratio r"
+title_plain: "Tensor-to-Scalar Ratio r"
 permalink: /predictions/r/
 lane: results
 prediction_id: "pred-033"
@@ -11,6 +11,7 @@ observable: "r"
 observable_mathml: "<math><mi>ι_τ⁴</mi></math>"
 formula_plain: "ι_τ⁴"
 formula_mathml: "<math><mi>ι_τ⁴</mi></math>"
+formula_display: "r = ι_τ^(2·dim(T²)) = ι_τ⁴ ≈ 0.0136"
 tau_value: "0.0136"
 observed_value: "< 0.036"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "r: τ-value 0.0136, observed < 0.036, deviation –."
+summary_short: "Tensor-to-Scalar Ratio r: τ-value 0.0136, observed < 0.036, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**r = ι_τ^(2·dim(T²)) = ι_τ⁴ ≈ 0.0136**
 
 ## Derivation
 

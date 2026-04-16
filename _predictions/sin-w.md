@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "sin²θW"
-title_plain: "sin²θW"
+title: "Weak Mixing Angle sin²θ_W"
+title_plain: "Weak Mixing Angle sin²θ_W"
 permalink: /predictions/sin-w/
 lane: results
 prediction_id: "pred-020"
@@ -11,6 +11,7 @@ observable: "sin²θW"
 observable_mathml: "<math><mi>W₃(4) = 5</mi></math> NLO"
 formula_plain: "W₃(4) = 5 NLO"
 formula_mathml: "<math><mi>W₃(4) = 5</mi></math> NLO"
+formula_display: "sin²θ_W = W₃(4) NLO readout = 0.23119"
 tau_value: "0.2312"
 observed_value: "0.2312"
 deviation: "-0.65~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "sin²θW: τ-value 0.2312, observed 0.2312, deviation -0.65~ppm."
+summary_short: "Weak Mixing Angle sin²θ_W: τ-value 0.2312, observed 0.2312, deviation -0.65~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**sin²θ_W = W₃(4) NLO readout = 0.23119**
 
 ## Derivation
 

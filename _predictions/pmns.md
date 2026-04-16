@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "θ₁₂ (PMNS)"
-title_plain: "θ₁₂ (PMNS)"
+title: "PMNS Solar Mixing Angle θ₁₂"
+title_plain: "PMNS Solar Mixing Angle θ₁₂"
 permalink: /predictions/pmns/
 lane: results
 prediction_id: "pred-015"
@@ -11,6 +11,7 @@ observable: "θ₁₂ (PMNS)"
 observable_mathml: "QLC <math><mi>+ ι_τ² κ_ω</mi></math>"
 formula_plain: "QLC + ι_τ² κ_ω"
 formula_mathml: "QLC <math><mi>+ ι_τ² κ_ω</mi></math>"
+formula_display: "θ₁₂ = QLC + ι_τ² · κ_ω ≈ 33.0°"
 tau_value: "33.0^∘"
 observed_value: "33.4^∘"
 deviation: "+3106~ppm"
@@ -21,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "IV"
-summary_short: "θ₁₂ (PMNS): τ-value 33.0^∘, observed 33.4^∘, deviation +3106~ppm."
+summary_short: "PMNS Solar Mixing Angle θ₁₂: τ-value 33.0^∘, observed 33.4^∘, deviation +3106~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "Conjectural"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**θ₁₂ = QLC + ι_τ² · κ_ω ≈ 33.0°**
 
 ## Derivation
 

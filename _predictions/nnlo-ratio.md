@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ν NNLO ratio"
-title_plain: "ν NNLO ratio"
+title: "Neutrino NNLO Mass Ratios"
+title_plain: "Neutrino NNLO Mass Ratios"
 permalink: /predictions/nnlo-ratio/
 lane: results
 prediction_id: "pred-010"
@@ -11,6 +11,7 @@ observable: "ν NNLO ratio"
 observable_mathml: "<math><mi>(8/7+3/175,,6/7+9/700)</mi></math>"
 formula_plain: "(8/7+3/175,,6/7+9/700)"
 formula_mathml: "<math><mi>(8/7+3/175,,6/7+9/700)</mi></math>"
+formula_display: "(Δpq, Δpr) = (8/7 + 3/175, 6/7 + 9/700) ≈ (1.16, 0.87)"
 tau_value: "(1.16,,0.87)"
 observed_value: "–"
 deviation: "+18.5~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ν NNLO ratio: τ-value (1.16,,0.87), observed –, deviation +18.5~ppm."
+summary_short: "Neutrino NNLO Mass Ratios: τ-value (1.16,,0.87), observed –, deviation +18.5~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**(Δpq, Δpr) = (8/7 + 3/175, 6/7 + 9/700) ≈ (1.16, 0.87)**
 
 ## Derivation
 

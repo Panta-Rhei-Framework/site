@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "vᵣₘ ᵣₑc"
-title_plain: "vᵣₘ ᵣₑc"
+title: "Fast Magnetic Reconnection Rate"
+title_plain: "Fast Magnetic Reconnection Rate"
 permalink: /predictions/v-c/
 lane: results
 prediction_id: "pred-065"
@@ -11,6 +11,7 @@ observable: "vᵣₘ ᵣₑc"
 observable_mathml: "<math><mi>ι_τ²,vA</mi></math>"
 formula_plain: "ι_τ²,vA"
 formula_mathml: "<math><mi>ι_τ²,vA</mi></math>"
+formula_display: "v_rec = ι_τ² · v_A ≈ 0.117 v_A"
 tau_value: "0.117,vA"
 observed_value: "0.01–0.1,vA"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "vᵣₘ ᵣₑc: τ-value 0.117,vA, observed 0.01–0.1,vA, deviation –."
+summary_short: "Fast Magnetic Reconnection Rate: τ-value 0.117,vA, observed 0.01–0.1,vA, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**v_rec = ι_τ² · v_A ≈ 0.117 v_A**
 
 ## Derivation
 

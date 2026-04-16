@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "No evaporation"
-title_plain: "No evaporation"
+title: "No Black Hole Evaporation (No-Shrink Theorem)"
+title_plain: "No Black Hole Evaporation (No-Shrink Theorem)"
 permalink: /predictions/no-evaporation/
 lane: results
 prediction_id: "pred-061"
@@ -11,6 +11,7 @@ observable: "No evaporation"
 observable_mathml: "No Shrink Theorem"
 formula_plain: "No Shrink Theorem"
 formula_mathml: "No Shrink Theorem"
+formula_display: "Ṁ = 0 (defect monotonicity, Categorical Second Law)"
 tau_value: "dot M = 0"
 observed_value: "–"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "No evaporation: τ-value dot M = 0, observed –, deviation –."
+summary_short: "No Black Hole Evaporation (No-Shrink Theorem): τ-value dot M = 0, observed –, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,5 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**Ṁ = 0 (defect monotonicity, Categorical Second Law)**
+
 
 No evaporation: τ-value dot M = 0, observed –, deviation –.

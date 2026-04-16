@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "barρ"
-title_plain: "barρ"
+title: "CKM Parameter ρ̄"
+title_plain: "CKM Parameter ρ̄"
 permalink: /predictions/bar/
 lane: results
 prediction_id: "pred-013"
@@ -11,6 +11,7 @@ observable: "barρ"
 observable_mathml: "<math><mi>1/(2π)</mi></math>"
 formula_plain: "1/(2π)"
 formula_mathml: "<math><mi>1/(2π)</mi></math>"
+formula_display: "ρ̄ = 1/(2π) ≈ 0.1592"
 tau_value: "0.1592"
 observed_value: "0.159"
 deviation: "+125~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "barρ: τ-value 0.1592, observed 0.159, deviation +125~ppm."
+summary_short: "CKM Parameter ρ̄: τ-value 0.1592, observed 0.159, deviation +125~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**ρ̄ = 1/(2π) ≈ 0.1592**
 
 ## Derivation
 

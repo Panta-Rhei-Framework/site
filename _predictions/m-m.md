@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "m_μ / mₑ"
-title_plain: "m_μ / mₑ"
+title: "Muon-to-Electron Mass Ratio"
+title_plain: "Muon-to-Electron Mass Ratio"
 permalink: /predictions/m-m/
 lane: results
 prediction_id: "pred-003"
@@ -11,6 +11,7 @@ observable: "m_μ / mₑ"
 observable_mathml: "<math><mi>ι_τ⁻⁴.⁹⁶</mi></math>"
 formula_plain: "ι_τ⁻⁴.⁹⁶"
 formula_mathml: "<math><mi>ι_τ⁻⁴.⁹⁶</mi></math>"
+formula_display: "mμ / mₑ = ι_τ⁻⁴·⁹⁶ ≈ 206.1"
 tau_value: "≈!206.1"
 observed_value: "206.768"
 deviation: "+307~ppm"
@@ -21,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "IV"
-summary_short: "m_μ / mₑ: τ-value ≈!206.1, observed 206.768, deviation +307~ppm."
+summary_short: "Muon-to-Electron Mass Ratio: τ-value ≈!206.1, observed 206.768, deviation +307~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "Conjectural"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**mμ / mₑ = ι_τ⁻⁴·⁹⁶ ≈ 206.1**
 
 ## Derivation
 

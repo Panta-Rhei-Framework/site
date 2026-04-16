@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "D/H"
-title_plain: "D/H"
+title: "Primordial Deuterium Abundance D/H"
+title_plain: "Primordial Deuterium Abundance D/H"
 permalink: /predictions/d-h/
 lane: results
 prediction_id: "pred-044"
@@ -11,6 +11,7 @@ observable: "D/H"
 observable_mathml: "<math><mi>τ</mi></math>-native <math><mi>ηB</mi></math>"
 formula_plain: "τ-native ηB"
 formula_mathml: "<math><mi>τ</mi></math>-native <math><mi>ηB</mi></math>"
+formula_display: "D/H = τ-native from η_B ≈ 2.52 × 10⁻⁵"
 tau_value: "2.52!×!10⁻⁵"
 observed_value: "2.53!×!10⁻⁵"
 deviation: "-0.4%"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "D/H: τ-value 2.52!×!10⁻⁵, observed 2.53!×!10⁻⁵, deviation -0.4%."
+summary_short: "Primordial Deuterium Abundance D/H: τ-value 2.52!×!10⁻⁵, observed 2.53!×!10⁻⁵, deviation -0.4%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**D/H = τ-native from η_B ≈ 2.52 × 10⁻⁵**
 
 ## Derivation
 

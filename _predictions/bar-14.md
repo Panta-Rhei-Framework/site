@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "barη"
-title_plain: "barη"
+title: "CKM Parameter η̄"
+title_plain: "CKM Parameter η̄"
 permalink: /predictions/bar-14/
 lane: results
 prediction_id: "pred-014"
@@ -11,6 +11,7 @@ observable: "barη"
 observable_mathml: "<math><mi>ι_τ⁻¹/⁴ κD⁵/⁴/sqrt5</mi></math>"
 formula_plain: "ι_τ⁻¹/⁴ κD⁵/⁴/sqrt5"
 formula_mathml: "<math><mi>ι_τ⁻¹/⁴ κD⁵/⁴/sqrt5</mi></math>"
+formula_display: "η̄ = ι_τ⁻¹ᐟ⁴ · κ_D⁵ᐟ⁴ / √5 ≈ 0.345"
 tau_value: "0.345"
 observed_value: "0.348"
 deviation: "-2285~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "barη: τ-value 0.345, observed 0.348, deviation -2285~ppm."
+summary_short: "CKM Parameter η̄: τ-value 0.345, observed 0.348, deviation -2285~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**η̄ = ι_τ⁻¹ᐟ⁴ · κ_D⁵ᐟ⁴ / √5 ≈ 0.345**
 
 ## Derivation
 

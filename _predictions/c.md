@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "σ = C_τ"
-title_plain: "σ = C_τ"
+title: "Neutrino Majorana Signature"
+title_plain: "Neutrino Majorana Signature"
 permalink: /predictions/c/
 lane: results
 prediction_id: "pred-009"
@@ -11,6 +11,7 @@ observable: "σ = C_τ"
 observable_mathml: "zero holonomy"
 formula_plain: "zero holonomy"
 formula_mathml: "zero holonomy"
+formula_display: "σ = C_τ (zero holonomy) → Majorana"
 tau_value: "Majorana"
 observed_value: "(pending)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "σ = C_τ: τ-value Majorana, deviation –."
+summary_short: "Neutrino Majorana Signature: τ-value Majorana, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**σ = C_τ (zero holonomy) → Majorana**
 
 ## Derivation
 

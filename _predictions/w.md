@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "w₀"
-title_plain: "w₀"
+title: "Dark Energy Equation of State w₀"
+title_plain: "Dark Energy Equation of State w₀"
 permalink: /predictions/w/
 lane: results
 prediction_id: "pred-047"
@@ -11,6 +11,7 @@ observable: "w₀"
 observable_mathml: "defect depletion"
 formula_plain: "defect depletion"
 formula_mathml: "defect depletion"
+formula_display: "w₀ = ι_τ³ − 1 ≈ −0.960 (not −1)"
 tau_value: "-0.960"
 observed_value: "-1.0 ± 0.05"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "conjectural"
 scope_display: "Conjectural"
 canonical_books:
   - "V"
-summary_short: "w₀: τ-value -0.960, observed -1.0 ± 0.05, deviation –."
+summary_short: "Dark Energy Equation of State w₀: τ-value -0.960, observed -1.0 ± 0.05, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "Conjectural"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**w₀ = ι_τ³ − 1 ≈ −0.960 (not −1)**
 
 ## Derivation
 

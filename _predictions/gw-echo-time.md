@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "GW echo time"
-title_plain: "GW echo time"
+title: "Gravitational Wave Echo Time"
+title_plain: "Gravitational Wave Echo Time"
 permalink: /predictions/gw-echo-time/
 lane: results
 prediction_id: "pred-056"
@@ -11,6 +11,7 @@ observable: "GW echo time"
 observable_mathml: "<math><mi>t_± = 4GMι_τ± ¹/c³</mi></math>"
 formula_plain: "t_± = 4GMι_τ± ¹/c³"
 formula_mathml: "<math><mi>t_± = 4GMι_τ± ¹/c³</mi></math>"
+formula_display: "t± = 4GM·ι_τ±¹/c³"
 tau_value: "see text"
 observed_value: "(pending)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "GW echo time: τ-value see text, deviation –."
+summary_short: "Gravitational Wave Echo Time: τ-value see text, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**t± = 4GM·ι_τ±¹/c³**
 
 ## Derivation
 

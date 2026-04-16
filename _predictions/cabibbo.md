@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Cabibbo λ"
-title_plain: "Cabibbo λ"
+title: "Cabibbo Angle λ"
+title_plain: "Cabibbo Angle λ"
 permalink: /predictions/cabibbo/
 lane: results
 prediction_id: "pred-011"
@@ -11,6 +11,7 @@ observable: "Cabibbo λ"
 observable_mathml: "<math><mi>ι_τ(1 - ι_τ)</mi></math>"
 formula_plain: "ι_τ(1 - ι_τ)"
 formula_mathml: "<math><mi>ι_τ(1 - ι_τ)</mi></math>"
+formula_display: "λ_C = ι_τ · (1 − ι_τ) = ι_τ · κ_D ≈ 0.2248"
 tau_value: "0.2248"
 observed_value: "0.2253"
 deviation: "-2327~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "Cabibbo λ: τ-value 0.2248, observed 0.2253, deviation -2327~ppm."
+summary_short: "Cabibbo Angle λ: τ-value 0.2248, observed 0.2253, deviation -2327~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**λ_C = ι_τ · (1 − ι_τ) = ι_τ · κ_D ≈ 0.2248**
 
 ## Derivation
 

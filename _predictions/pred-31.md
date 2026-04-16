@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "κ(ω)"
-title_plain: "κ(ω)"
+title: "Mixed Sector (Higgs/EW) Coupling κ(ω)"
+title_plain: "Mixed Sector (Higgs/EW) Coupling κ(ω)"
 permalink: /predictions/pred-31/
 lane: results
 prediction_id: "pred-031"
@@ -11,6 +11,7 @@ observable: "κ(ω)"
 observable_mathml: "<math><mi>ι_τ³/(1 + ι_τ)</mi></math>"
 formula_plain: "ι_τ³/(1 + ι_τ)"
 formula_mathml: "<math><mi>ι_τ³/(1 + ι_τ)</mi></math>"
+formula_display: "κ(ω) = ι_τ³ / (1 + ι_τ) ≈ 0.0297"
 tau_value: "0.0297"
 observed_value: "–"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "κ(ω): τ-value 0.0297, observed –, deviation –."
+summary_short: "Mixed Sector (Higgs/EW) Coupling κ(ω): τ-value 0.0297, observed –, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,5 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**κ(ω) = ι_τ³ / (1 + ι_τ) ≈ 0.0297**
+
 
 κ(ω): τ-value 0.0297, observed –, deviation –.

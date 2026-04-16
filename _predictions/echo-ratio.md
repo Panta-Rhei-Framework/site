@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Echo ratio"
-title_plain: "Echo ratio"
+title: "GW Echo Time Ratio"
+title_plain: "GW Echo Time Ratio"
 permalink: /predictions/echo-ratio/
 lane: results
 prediction_id: "pred-057"
@@ -11,6 +11,7 @@ observable: "Echo ratio"
 observable_mathml: "<math><mi>t₊/t₋ = ι_τ⁻²</mi></math>"
 formula_plain: "t₊/t₋ = ι_τ⁻²"
 formula_mathml: "<math><mi>t₊/t₋ = ι_τ⁻²</mi></math>"
+formula_display: "t₊/t₋ = ι_τ⁻² ≈ 8.57"
 tau_value: "8.57"
 observed_value: "(pending)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Echo ratio: τ-value 8.57, deviation –."
+summary_short: "GW Echo Time Ratio: τ-value 8.57, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**t₊/t₋ = ι_τ⁻² ≈ 8.57**
 
 ## Derivation
 

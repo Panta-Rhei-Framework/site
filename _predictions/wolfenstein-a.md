@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Wolfenstein A"
-title_plain: "Wolfenstein A"
+title: "Wolfenstein Parameter A"
+title_plain: "Wolfenstein Parameter A"
 permalink: /predictions/wolfenstein-a/
 lane: results
 prediction_id: "pred-012"
@@ -11,6 +11,7 @@ observable: "Wolfenstein A"
 observable_mathml: "<math><mi>1 - tfrac32ι_τ²</mi></math>"
 formula_plain: "1 - tfrac32ι_τ²"
 formula_mathml: "<math><mi>1 - tfrac32ι_τ²</mi></math>"
+formula_display: "A = 1 − (3/2) · ι_τ² ≈ 0.825"
 tau_value: "0.825"
 observed_value: "0.826"
 deviation: "-887~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "Wolfenstein A: τ-value 0.825, observed 0.826, deviation -887~ppm."
+summary_short: "Wolfenstein Parameter A: τ-value 0.825, observed 0.826, deviation -887~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**A = 1 − (3/2) · ι_τ² ≈ 0.825**
 
 ## Derivation
 

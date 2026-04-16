@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ℓ₁"
-title_plain: "ℓ₁"
+title: "First CMB Acoustic Peak ℓ₁"
+title_plain: "First CMB Acoustic Peak ℓ₁"
 permalink: /predictions/pred-35/
 lane: results
 prediction_id: "pred-035"
@@ -11,6 +11,7 @@ observable: "ℓ₁"
 observable_mathml: "M3h holonomy"
 formula_plain: "M3h holonomy"
 formula_mathml: "M3h holonomy"
+formula_display: "ℓ₁ = ℓ_A · (1 − φ₁) ≈ 220.6"
 tau_value: "220.6"
 observed_value: "220.0"
 deviation: "+2840~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ℓ₁: τ-value 220.6, observed 220.0, deviation +2840~ppm."
+summary_short: "First CMB Acoustic Peak ℓ₁: τ-value 220.6, observed 220.0, deviation +2840~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**ℓ₁ = ℓ_A · (1 − φ₁) ≈ 220.6**
 
 ## Derivation
 

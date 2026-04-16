@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "EHT shadow"
-title_plain: "EHT shadow"
+title: "EHT Shadow Correction"
+title_plain: "EHT Shadow Correction"
 permalink: /predictions/eht-shadow/
 lane: results
 prediction_id: "pred-055"
@@ -11,6 +11,7 @@ observable: "EHT shadow"
 observable_mathml: "<math><msup><mi>T</mi><mn>2</mn></msup></math> correction <math><mi>+2.91%</mi></math>"
 formula_plain: "T² correction +2.91%"
 formula_mathml: "<math><msup><mi>T</mi><mn>2</mn></msup></math> correction <math><mi>+2.91%</mi></math>"
+formula_display: "f_τ = 1 + ι_τ²/4 = 1.02912 (+2.91% universal)"
 tau_value: "5.25,GM/c²"
 observed_value: "5.1 ± 0.3"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "EHT shadow: τ-value 5.25,GM/c², observed 5.1 ± 0.3, deviation –."
+summary_short: "EHT Shadow Correction: τ-value 5.25,GM/c², observed 5.1 ± 0.3, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**f_τ = 1 + ι_τ²/4 = 1.02912 (+2.91% universal)**
 
 ## Derivation
 

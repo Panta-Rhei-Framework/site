@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "G"
-title_plain: "G"
+title: "Gravitational Constant G"
+title_plain: "Gravitational Constant G"
 permalink: /predictions/g/
 lane: results
 prediction_id: "pred-026"
@@ -11,6 +11,7 @@ observable: "G"
 observable_mathml: "<math><mi>(c³/ℏ),ι_τ²</mi></math>"
 formula_plain: "(c³/ℏ),ι_τ²"
 formula_mathml: "<math><mi>(c³/ℏ),ι_τ²</mi></math>"
+formula_display: "G = (c³/ℏ) · ι_τ² ≈ 6.674 × 10⁻¹¹"
 tau_value: "6.674!×!10⁻¹¹"
 observed_value: "CODATA"
 deviation: "∼ 3~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "G: τ-value 6.674!×!10⁻¹¹, observed CODATA, deviation ∼ 3~ppm."
+summary_short: "Gravitational Constant G: τ-value 6.674!×!10⁻¹¹, observed CODATA, deviation ∼ 3~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**G = (c³/ℏ) · ι_τ² ≈ 6.674 × 10⁻¹¹**
 
 ## Derivation
 

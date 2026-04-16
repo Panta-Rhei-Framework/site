@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "mₑ (MeV)"
-title_plain: "mₑ (MeV)"
+title: "Electron Mass"
+title_plain: "Electron Mass"
 permalink: /predictions/m-mev/
 lane: results
 prediction_id: "pred-002"
@@ -11,6 +11,7 @@ observable: "mₑ (MeV)"
 observable_mathml: "<math><mi>mₙ / R</mi></math> (10-link chain)"
 formula_plain: "mₙ / R (10-link chain)"
 formula_mathml: "<math><mi>mₙ / R</mi></math> (10-link chain)"
+formula_display: "mₑ = mₙ / R (10-link spectral chain) = 0.510999 MeV"
 tau_value: "0.510999"
 observed_value: "0.510999"
 deviation: "0.025~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "mₑ (MeV): τ-value 0.510999, observed 0.510999, deviation 0.025~ppm."
+summary_short: "Electron Mass: τ-value 0.510999, observed 0.510999, deviation 0.025~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**mₑ = mₙ / R (10-link spectral chain) = 0.510999 MeV**
 
 ## Derivation
 

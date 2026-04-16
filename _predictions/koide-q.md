@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Koide Q"
-title_plain: "Koide Q"
+title: "Koide Relation Q"
+title_plain: "Koide Relation Q"
 permalink: /predictions/koide-q/
 lane: results
 prediction_id: "pred-004"
@@ -11,6 +11,7 @@ observable: "Koide Q"
 observable_mathml: "<math><mi>2/3</mi></math>"
 formula_plain: "2/3"
 formula_mathml: "<math><mi>2/3</mi></math>"
+formula_display: "Q = lobes / dim(τ³) = 2/3"
 tau_value: "2/3"
 observed_value: "0.66661"
 deviation: "-9~ppm"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "IV"
-summary_short: "Koide Q: τ-value 2/3, observed 0.66661, deviation -9~ppm."
+summary_short: "Koide Relation Q: τ-value 2/3, observed 0.66661, deviation -9~ppm."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**Q = lobes / dim(τ³) = 2/3**
 
 ## Derivation
 

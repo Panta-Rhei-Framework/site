@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Nᵣₘ ₑff"
-title_plain: "Nᵣₘ ₑff"
+title: "Effective Neutrino Number N_eff"
+title_plain: "Effective Neutrino Number N_eff"
 permalink: /predictions/n-ff/
 lane: results
 prediction_id: "pred-039"
@@ -11,6 +11,7 @@ observable: "Nᵣₘ ₑff"
 observable_mathml: "<math><mi>|rm gen| = 3</mi></math>"
 formula_plain: "|rm gen| = 3"
 formula_mathml: "<math><mi>|rm gen| = 3</mi></math>"
+formula_display: "N_eff = |gen| = 3.000 (not 3.044, no QED correction)"
 tau_value: "3.000"
 observed_value: "2.99 ± 0.17"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Nᵣₘ ₑff: τ-value 3.000, observed 2.99 ± 0.17, deviation –."
+summary_short: "Effective Neutrino Number N_eff: τ-value 3.000, observed 2.99 ± 0.17, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**N_eff = |gen| = 3.000 (not 3.044, no QED correction)**
 
 ## Derivation
 

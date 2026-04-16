@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "Yₚ (⁴He)"
-title_plain: "Yₚ (⁴He)"
+title: "Primordial Helium-4 Mass Fraction Y_p"
+title_plain: "Primordial Helium-4 Mass Fraction Y_p"
 permalink: /predictions/y-he/
 lane: results
 prediction_id: "pred-043"
@@ -11,6 +11,7 @@ observable: "Yₚ (⁴He)"
 observable_mathml: "<math><mi>20/81</mi></math>"
 formula_plain: "20/81"
 formula_mathml: "<math><mi>20/81</mi></math>"
+formula_display: "Y_p = (8/27) × (5/6) = 20/81 = 0.2469"
 tau_value: "0.2469"
 observed_value: "0.2449 ± 0.0040"
 deviation: "+0.8%"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "Yₚ (⁴He): τ-value 0.2469, observed 0.2449 ± 0.0040, deviation +0.8%."
+summary_short: "Primordial Helium-4 Mass Fraction Y_p: τ-value 0.2469, observed 0.2449 ± 0.0040, deviation +0.8%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**Y_p = (8/27) × (5/6) = 20/81 = 0.2469**
 
 ## Derivation
 

@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "QNM ratio"
-title_plain: "QNM ratio"
+title: "Quasinormal Mode Frequency Ratio"
+title_plain: "Quasinormal Mode Frequency Ratio"
 permalink: /predictions/qnm-ratio/
 lane: results
 prediction_id: "pred-054"
@@ -11,6 +11,7 @@ observable: "QNM ratio"
 observable_mathml: "<math><mi>ι_τ⁻¹</mi></math>"
 formula_plain: "ι_τ⁻¹"
 formula_mathml: "<math><mi>ι_τ⁻¹</mi></math>"
+formula_display: "f₍₀,₁₎/f₍₁,₀₎ = ι_τ⁻¹ = (π+e)/2 ≈ 2.929"
 tau_value: "2.929"
 observed_value: "(pending)"
 deviation: "–"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "QNM ratio: τ-value 2.929, deviation –."
+summary_short: "Quasinormal Mode Frequency Ratio: τ-value 2.929, deviation –."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**f₍₀,₁₎/f₍₁,₀₎ = ι_τ⁻¹ = (π+e)/2 ≈ 2.929**
 
 ## Derivation
 

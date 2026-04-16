@@ -1,7 +1,7 @@
 ---
 layout: prediction-page
-title: "ℓᵣₘ ₕₑₐₜ"
-title_plain: "ℓᵣₘ ₕₑₐₜ"
+title: "Coronal Heating Damping Scale"
+title_plain: "Coronal Heating Damping Scale"
 permalink: /predictions/pred-66/
 lane: results
 prediction_id: "pred-066"
@@ -11,6 +11,7 @@ observable: "ℓᵣₘ ₕₑₐₜ"
 observable_mathml: "<math><mi>ι_τ²,R_⊙</mi></math>"
 formula_plain: "ι_τ²,R_⊙"
 formula_mathml: "<math><mi>ι_τ²,R_⊙</mi></math>"
+formula_display: "ℓ_heat = ι_τ² · R_☉ ≈ 0.117 R_☉"
 tau_value: "0.117,R_⊙"
 observed_value: "≈!0.1,R_⊙"
 deviation: "∼ 15%"
@@ -21,7 +22,7 @@ scope: "tau-effective"
 scope_display: "τ-Effective"
 canonical_books:
   - "V"
-summary_short: "ℓᵣₘ ₕₑₐₜ: τ-value 0.117,R_⊙, observed ≈!0.1,R_⊙, deviation ∼ 15%."
+summary_short: "Coronal Heating Damping Scale: τ-value 0.117,R_⊙, observed ≈!0.1,R_⊙, deviation ∼ 15%."
 right_rail:
   toc: false
   related:
@@ -38,6 +39,10 @@ right_rail:
     scope: "τ-Effective"
     updated: "April 2026"
 ---
+
+## τ-Formula
+
+**ℓ_heat = ι_τ² · R_☉ ≈ 0.117 R_☉**
 
 ## Derivation
 
