@@ -43,9 +43,9 @@
 
   &.active {
     color: $accent;
-    font-weight: 600;
-    background: $accent-soft;
-    border-color: rgba(41, 75, 102, 0.12);
+    font-weight: 580;
+    background: rgba(41, 75, 102, 0.06);
+    border-color: transparent;
   }
 }
 
