@@ -196,6 +196,20 @@
 
   &[hidden] { display: none; }
 
+  // Mobile: full-width with safe insets for comfortable reading
+  @media (max-width: $bp-stack) {
+    position: fixed;
+    top: calc(#{$header-h} + 8px);
+    left: 10px;
+    right: 10px;
+    width: auto;
+    max-height: calc(100dvh - #{$header-h} - 24px);
+    border-radius: $radius-md;
+    padding: 8px;
+    box-shadow: 0 16px 48px rgba(22, 29, 37, 0.22),
+                0 0 0 1px rgba(255, 255, 255, 0.08);
+  }
+
   .toc-dropdown-link {
     display: flex;
     align-items: center;
@@ -217,6 +231,11 @@
     &.active {
       color: $accent;
       font-weight: 580;
+    }
+
+    @media (max-width: $bp-stack) {
+      padding: 10px 14px;
+      font-size: 0.92rem;
     }
   }
 }
