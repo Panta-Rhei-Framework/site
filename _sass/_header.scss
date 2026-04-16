@@ -49,10 +49,15 @@
     pointer-events: none;
   }
 
+  // Sync padding with .page-grid at each breakpoint
+  @media (max-width: $bp-collapse) {
+    padding: 0 16px;
+  }
+
   @media (max-width: $bp-stack) {
-    flex-direction: row; // brand + hamburger side by side
+    flex-direction: row;
     height: $header-h;
-    padding: 0 14px;
+    padding: 0 10px;
     gap: 8px;
   }
 }
