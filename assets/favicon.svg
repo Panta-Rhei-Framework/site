@@ -1,4 +1,9 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32">
-  <rect width="32" height="32" rx="6" fill="#f6f7f3"/>
-  <text x="16" y="23" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="16" font-weight="700" fill="#294b66">πρ</text>
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 445 480" role="img" aria-label="Panta Rhei Research">
+  <title>Panta Rhei Research</title>
+  <g transform="translate(-17 0)">
+    <path d="M33.5921 52.642C33.5921 42.1212 42.1212 33.5921 52.642 33.5921L248.226 33.5921C258.747 33.5921 267.276 42.1212 267.276 52.642L267.276 248.226C267.276 258.747 258.747 267.276 248.226 267.276L52.642 267.276C42.1212 267.276 33.5921 258.747 33.5921 248.226Z" stroke="#000000" stroke-width="1.25188" fill="#FFFFFF" fill-rule="evenodd" transform="matrix(1 0 0 1.00198 86.4361 89.4773)"/>
+    <text fill="#163e64" font-family="'Source Serif 4','Source Serif Pro',Palatino,Georgia,serif" font-weight="400" font-size="478" transform="matrix(0.417293 0 0 0.418118 138.595 242)">π</text>
+    <text fill="#163e64" font-family="'Source Serif 4','Source Serif Pro',Palatino,Georgia,serif" font-weight="400" font-style="italic" font-size="478" transform="matrix(0.417293 0 0 0.418118 241.217 301)">ρ</text>
+  </g>
 </svg>
