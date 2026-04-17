@@ -85,6 +85,10 @@ The origin of homochirality is derived from the framework's parity structure —
 
 The evolution of eukaryotic organelles (mitochondria, plastids) via endosymbiosis is derivable from the framework's τ-object composition principles. Symbiogenesis is not a historical accident but a structural route to composite self-decoding systems.
 
+### [Last Universal Common Ancestor (LUCA)]({{ '/results/problem/last-universal-common-ancestor/' | relative_url }}) · Resolved
+
+LUCA is assigned to the persistence sector S_α (VI.R06, VI.R12). The ~355-gene reconstructed genome, Wood–Ljungdahl carbon fixation, and methanogen-like physiology are sector-consistent; the divergence of Bacteria marks the first sector transition (persistence → agency) in the history of life.
+
 ### [Origin of Sexual Reproduction]({{ '/results/problem/sexual-reproduction-cost-and-benefit/' | relative_url }}) · Resolved
 
 Why sexual reproduction evolved despite its two-fold cost is resolved within the framework: sexual recombination is structurally favored as a τ-distinction enhancer, providing the variation-generation capacity required for sustained SelfDesc evolution.
@@ -96,6 +100,10 @@ The maintenance of sexual reproduction — why it persists despite ongoing costs
 ### [Convergent Evolution]({{ '/results/problem/convergent-evolution/' | relative_url }}) · Resolved
 
 Convergent evolution — independent emergence of similar forms — is predicted structurally: the framework's geometric attractor structure forces similar selection pressures toward the same τ-object types, making convergence an expected consequence rather than a coincidence.
+
+### [Paradox of the Plankton]({{ '/results/problem/paradox-of-the-plankton/' | relative_url }}) · Resolved
+
+Hutchinson's paradox — how 30+ phytoplankton species coexist on 3–4 limiting resources in apparent violation of competitive exclusion — is resolved by the Nash-equilibrium / configuration-space formulation of ecosystem structure (VI.R18). Competitive exclusion forbids two carriers at the same point x ∈ M; coexistence requires fine-grained niche partitioning along the full dimensionality of M.
 
 ### [Origins of Viruses (Virus Exclusion Theorem)]({{ '/results/problem/virus-exclusion-nodist-theorem/' | relative_url }}) · Resolved
 
