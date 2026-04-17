@@ -3,7 +3,7 @@ layout: program-doc
 title: "Life as Self-Decoding Distinction"
 permalink: /results/world-readout/life/life-as-self-decoding-distinction/
 lane: results
-section: "Results · Life World Readout"
+section: "Claims · Life World Readout"
 nav_order: 2
 summary_short: "A categorical definition of life as self-decoding distinction."
 key_registry:

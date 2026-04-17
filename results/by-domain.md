@@ -3,7 +3,7 @@ layout: program-doc
 title: Results by Domain
 permalink: /results/by-domain/
 lane: results
-summary_short: "All 234 results grouped by topic domain."
+summary_short: "All 200+ claims grouped by topic domain."
 right_rail:
   related:
   - title: Results Overview
@@ -19,7 +19,7 @@ right_rail:
 
 ## Results by Domain
 
-The 234 results are organized into four domains corresponding to the [framework's enrichment layers]({{ '/framework/mathematics-canonical-ladder/' | relative_url }}): Mathematics (<math><msub><mi>E</mi><mn>0</mn></msub></math>, 76 results), Physics (<math><msub><mi>E</mi><mn>1</mn></msub></math>, 60 results), Biology (<math><msub><mi>E</mi><mn>2</mn></msub></math>, 53 results), and Philosophy (<math><msub><mi>E</mi><mn>3</mn></msub></math>, 45 results). Each result carries a [typed epistemic status]({{ '/results/status-and-claim-typing/' | relative_url }}): Resolved (R), Partial (P), Qualitative (Q), Contradicted (C), or Not Addressed (N).
+The 200+ claims are organized into four domains corresponding to the [framework's enrichment layers]({{ '/framework/mathematics-canonical-ladder/' | relative_url }}): Mathematics (<math><msub><mi>E</mi><mn>0</mn></msub></math>, 76 results), Physics (<math><msub><mi>E</mi><mn>1</mn></msub></math>, 60 results), Biology (<math><msub><mi>E</mi><mn>2</mn></msub></math>, 53 results), and Philosophy (<math><msub><mi>E</mi><mn>3</mn></msub></math>, 45 results). Each result carries a [typed epistemic status]({{ '/results/status-and-claim-typing/' | relative_url }}): Resolved (R), Partial (P), Qualitative (Q), Contradicted (C), or Not Addressed (N).
 
 Before browsing individual results, the [Results Introduction]({{ '/results/prologue/' | relative_url }}) and world-readout clusters describe the broader world from which these results follow: [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂), [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃). You can also [browse all results with filters]({{ '/results/browse/' | relative_url }}).
 

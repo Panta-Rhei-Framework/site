@@ -1,9 +1,9 @@
 ---
 layout: result-topic
-title: "Physics Results"
+title: "Physics Claims"
 permalink: /results/topic/physics/
 topic: physics
-summary_short: "60 results engaging the physics problem-space."
+summary_short: "60 claims engaging the physics problem-space."
 right_rail:
   meta:
     type: Topic Overview

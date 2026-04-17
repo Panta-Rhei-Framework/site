@@ -15,7 +15,7 @@ right_rail:
   related:
     - title: "About the Research"
       url: /research-program/about/
-    - title: "Key Results"
+    - title: "Claims"
       url: /results/
     - title: "Registry"
       url: /registry/

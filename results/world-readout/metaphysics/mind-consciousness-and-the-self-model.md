@@ -3,7 +3,7 @@ layout: program-doc
 title: "Mind, Consciousness, and the Self-Model"
 permalink: /results/world-readout/metaphysics/mind-consciousness-and-the-self-model/
 lane: results
-section: "Results · Metaphysics World Readout"
+section: "Claims · Metaphysics World Readout"
 nav_order: 6
 summary_short: "How Tau reads mind, selfhood, and consciousness at E3."
 key_registry:

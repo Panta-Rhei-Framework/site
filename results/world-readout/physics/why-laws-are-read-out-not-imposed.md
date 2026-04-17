@@ -3,7 +3,7 @@ layout: program-doc
 title: "Why Laws Are Read Out, Not Imposed"
 permalink: /results/world-readout/physics/why-laws-are-read-out-not-imposed/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 7
 summary_short: "Why physical laws in Tau are intrinsic readouts of the world’s own dynamics."
 key_registry:

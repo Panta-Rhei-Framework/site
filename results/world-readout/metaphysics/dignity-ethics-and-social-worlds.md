@@ -3,7 +3,7 @@ layout: program-doc
 title: "Dignity, Ethics, and Social Worlds"
 permalink: /results/world-readout/metaphysics/dignity-ethics-and-social-worlds/
 lane: results
-section: "Results · Metaphysics World Readout"
+section: "Claims · Metaphysics World Readout"
 nav_order: 5
 summary_short: "How normativity and society arise as real structures within E3."
 key_registry:

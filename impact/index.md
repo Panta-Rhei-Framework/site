@@ -16,7 +16,7 @@ summary_cards:
   body: Conditional scenarios, not promises. Always downstream of framework validation.
 right_rail:
   related:
-  - title: Key Results
+  - title: Claims
     url: /results/
   - title: Framework
     url: /framework/about/

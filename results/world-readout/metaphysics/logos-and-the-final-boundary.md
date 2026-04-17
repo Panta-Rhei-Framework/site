@@ -3,7 +3,7 @@ layout: program-doc
 title: "Logos and the Final Boundary"
 permalink: /results/world-readout/metaphysics/logos-and-the-final-boundary/
 lane: results
-section: "Results · Metaphysics World Readout"
+section: "Claims · Metaphysics World Readout"
 nav_order: 7
 summary_short: "How the E3 layer ends at the boundary where proof gives way to commitment."
 key_registry:

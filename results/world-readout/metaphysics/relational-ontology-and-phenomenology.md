@@ -3,7 +3,7 @@ layout: program-doc
 title: "Relational Ontology and Phenomenology"
 permalink: /results/world-readout/metaphysics/relational-ontology-and-phenomenology/
 lane: results
-section: "Results · Metaphysics World Readout"
+section: "Claims · Metaphysics World Readout"
 nav_order: 3
 summary_short: "What exists, and how it is known, at the reflective level of Tau."
 key_registry:

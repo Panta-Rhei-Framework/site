@@ -3,7 +3,7 @@ layout: program-doc
 title: "Two Routes from Tau to Reality"
 permalink: /results/world-readout/physics/two-routes-from-tau-to-reality/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 13
 summary_short: "The ontic and empirical routes by which Tau may be related to lived reality."
 key_registry:

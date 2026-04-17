@@ -3,7 +3,7 @@ layout: program-doc
 title: The Shape of Mathematics in the Tau Framework
 permalink: /results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/
 lane: results
-section: "Results · Mathematics World Readout"
+section: "Claims · Mathematics World Readout"
 nav_order: 2
 summary_short: "What kind of mathematical universe Tau describes once it is read on its own terms — its logic, ontology of infinity, geometry, and proof-theoretic shape."
 key_registry:

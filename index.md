@@ -9,7 +9,7 @@ hero_ctas:
     primary: true
   - label: "Explore the Framework"
     url: /framework/about/
-  - label: "Browse Key Results"
+  - label: "Browse Claims"
     url: /results/
   - label: "Verify It Yourself"
     url: /verify/
@@ -67,7 +67,7 @@ right_rail:
 <div class="content-card homepage-section">
   <svg class="section-icon-corner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
   <h2>Current scope of the program&rsquo;s claims</h2>
-  <p>The program currently presents <strong>{{ result_count }} key results</strong> across four domains, each with typed epistemic status, plus a <strong>Physics Ledger</strong> of 67 zero-parameter numerical predictions and a 30-item falsification pack. A selection of flagship claims:</p>
+  <p>The program currently presents <strong>200+ claims</strong> across four domains, each with typed epistemic status, plus a <strong>Physics Ledger</strong> of 67 zero-parameter numerical predictions and a 30-item falsification pack. A selection of flagship claims:</p>
   <ul>
     <li><strong>Dark sector closure</strong> <span class="status-badge status-live">Resolved</span>&mdash;dark matter and dark energy as structural artifacts of the boundary reading, not new particles</li>
     <li><strong>Hubble tension</strong> <span class="status-badge status-live">Resolved</span>&mdash;h = 2/3 + &iota;<sub>&tau;</sub>&sup2;/17 at &minus;120 ppm, zero free parameters</li>
@@ -78,7 +78,7 @@ right_rail:
   </ul>
   <p>Every claim carries a status: resolved, partial, qualitative, or contradicted. The typing is not optional&mdash;it is the program&rsquo;s principal epistemic commitment. The 67 numerical predictions are <strong>bridge-independent</strong>: they can be compared directly to experimental measurement without accepting the framework&rsquo;s deeper ontological claims.</p>
   <div class="btn-group section-ctas">
-    <a href="{{ '/results/' | relative_url }}" class="btn-secondary">Browse {{ result_count }} Results</a>
+    <a href="{{ '/results/' | relative_url }}" class="btn-secondary">Browse 200+ Claims</a>
     <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-secondary">67 Predictions</a>
     <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost">Falsification Pack</a>
   </div>
@@ -128,7 +128,7 @@ right_rail:
   <ul>
     <li><a href="{{ '/publications/books/' | relative_url }}"><strong>The Seven Books</strong></a>&mdash;the canonical monograph series with DOIs and Amazon links</li>
     <li><a href="{{ '/publications/physics-ledger/' | relative_url }}"><strong>Physics Ledger (free PDF)</strong></a>&mdash;67 predictions + 30 falsifications in one 156-page document</li>
-    <li><a href="{{ '/results/' | relative_url }}"><strong>Key Results</strong></a>&mdash;{{ result_count }} results with typed status across four domains</li>
+    <li><a href="{{ '/results/' | relative_url }}"><strong>Claims</strong></a>&mdash;200+ claims with typed status across four domains</li>
     <li><a href="{{ '/verify/' | relative_url }}"><strong>Verify</strong></a>&mdash;clone TauLib, run <code>lake build</code>, step through the tours</li>
     <li><a href="{{ '/media/' | relative_url }}"><strong>Media Kit</strong></a>&mdash;for journalists, podcast hosts, reviewers, and institutions</li>
     <li><a href="{{ '/engage/follow-the-research/' | relative_url }}"><strong>Follow the Research</strong></a>&mdash;stay connected with the program&rsquo;s ongoing work</li>

@@ -3,7 +3,7 @@ layout: program-doc
 title: "Why Physical Reality Closes Into Four Plus One Sectors"
 permalink: /results/world-readout/physics/why-physical-reality-closes-into-four-plus-one-sectors/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 8
 summary_short: "Why the E1 readout closes into exactly four plus one primary sectors."
 key_registry:

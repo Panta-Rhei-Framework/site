@@ -1,10 +1,10 @@
 ---
 layout: results-browse
-title: Browse All Results
+title: Browse All Claims
 permalink: /results/browse/
 lane: results
-section: "Results · Browse"
-summary_short: "All 234 results across mathematics, physics, biology, and philosophy — filter by domain, kind, importance, status, and book."
+section: "Claims · Browse"
+summary_short: "All claims across mathematics, physics, biology, and philosophy — filter by domain, kind, importance, status, and book."
 right_rail:
   related:
   - title: Results Overview
@@ -22,6 +22,6 @@ right_rail:
     updated: April 2026
 ---
 
-The Results lane now has a unified browse surface where you can filter all 234 results by domain, enrichment layer, result kind, importance, status, and canonical book. Every card is pre-rendered in HTML, so the page remains crawlable and readable without JavaScript. With JavaScript enabled, filters and sorting narrow the view interactively, and the active filter state is shared via the URL.
+The Claims lane has a unified browse surface where you can filter all claims by domain, enrichment layer, result kind, importance, status, and canonical book. Every card is pre-rendered in HTML, so the page remains crawlable and readable without JavaScript. With JavaScript enabled, filters and sorting narrow the view interactively, and the active filter state is shared via the URL.
 
 Use the controls below to narrow down, or open a result page directly.

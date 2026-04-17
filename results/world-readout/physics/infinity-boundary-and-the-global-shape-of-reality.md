@@ -3,7 +3,7 @@ layout: program-doc
 title: "Infinity, Boundary, and the Global Shape of Reality"
 permalink: /results/world-readout/physics/infinity-boundary-and-the-global-shape-of-reality/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 4
 summary_short: "How Tau yields a globally completed, lemniscatic, compact yet unbounded universe."
 key_registry:

@@ -40,7 +40,7 @@ Home::/|Publications::/publications/|Archived Editions::/publications/archived/f
 Home::/|Framework::/framework/about/|{{ layer_name }}::{{ layer_url }}|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'result-page' -%}
-Home::/|Key Results::/results/|{{ page.topic | default: page.domain_group | default: 'Results' | replace: '|', ' ' | capitalize }}::/results/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Claims::/results/|{{ page.topic | default: page.domain_group | default: 'Results' | replace: '|', ' ' | capitalize }}::/results/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'registry-object' -%}
 Home::/|Registry::/registry/|Book {{ page.book }}::/registry/books/book-{{ page.book | downcase }}/|{{ page.registry_id | replace: '|', ' ' }}::{{ page.url }}
@@ -82,7 +82,7 @@ Home::/|Bibliography::{{ page.url }}
 {%- assign lane_label = page.lane | default: '' | capitalize -%}
 {%- assign lane_url = '/' -%}
 {%- case page.lane -%}
-  {%- when 'results' -%}{%- assign lane_label = 'Key Results' -%}{%- assign lane_url = '/results/' -%}
+  {%- when 'results' -%}{%- assign lane_label = 'Claims' -%}{%- assign lane_url = '/results/' -%}
   {%- when 'framework' -%}{%- assign lane_label = 'Framework' -%}{%- assign lane_url = '/framework/about/' -%}
   {%- when 'impact' -%}{%- assign lane_label = 'Impact' -%}{%- assign lane_url = '/impact/' -%}
   {%- when 'verify' -%}{%- assign lane_label = 'Verify' -%}{%- assign lane_url = '/verify/' -%}
@@ -107,19 +107,19 @@ Home::/|{{ lane_label }}::{{ lane_url }}|{{ page.title | replace: '|', ' ' }}::{
 {%- endif -%}
 
 {%- when 'results-browse' -%}
-Home::/|Key Results::/results/|Browse All Results::{{ page.url }}
+Home::/|Claims::/results/|Browse All Claims::{{ page.url }}
 
 {%- when 'predictions-browse' -%}
-Home::/|Key Results::/results/|Physics Predictions::{{ page.url }}
+Home::/|Claims::/results/|Physics Predictions::{{ page.url }}
 
 {%- when 'falsifications-browse' -%}
-Home::/|Key Results::/results/|Falsification Pack::{{ page.url }}
+Home::/|Claims::/results/|Falsification Pack::{{ page.url }}
 
 {%- when 'prediction-page' -%}
-Home::/|Key Results::/results/|Predictions::/results/predictions/browse/|{{ page.title_plain | default: page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Claims::/results/|Predictions::/results/predictions/browse/|{{ page.title_plain | default: page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'falsification-page' -%}
-Home::/|Key Results::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Claims::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'bibliography-browse' -%}
 Home::/|Bibliography::/bibliography/|Browse & Filter::{{ page.url }}

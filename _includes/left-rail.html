@@ -54,7 +54,7 @@
 
   {% elsif page.lane == "results" %}
   <!-- Results lane navigation -->
-  <div class="rail-title">Results</div>
+  <div class="rail-title">Claims</div>
   {% for item in site.data.nav.results_nav %}
   <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
   {% endfor %}

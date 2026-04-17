@@ -1,9 +1,9 @@
 ---
 layout: result-topic
-title: "Mathematics Results"
+title: "Mathematics Claims"
 permalink: /results/topic/mathematics/
 topic: mathematics
-summary_short: "76 results engaging the mathematics problem-space."
+summary_short: "76 claims engaging the mathematics problem-space."
 right_rail:
   meta:
     type: Topic Overview

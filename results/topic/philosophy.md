@@ -1,9 +1,9 @@
 ---
 layout: result-topic
-title: "Philosophy Results"
+title: "Philosophy Claims"
 permalink: /results/topic/philosophy/
 topic: philosophy
-summary_short: "45 results engaging the philosophy problem-space."
+summary_short: "45 claims engaging the philosophy problem-space."
 right_rail:
   meta:
     type: Topic Overview

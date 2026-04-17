@@ -3,7 +3,7 @@ layout: program-doc
 title: "Rational Points, Codes, and the Possibility of Life"
 permalink: /results/world-readout/life/rational-points-codes-and-the-possibility-of-life/
 lane: results
-section: "Results · Life World Readout"
+section: "Claims · Life World Readout"
 nav_order: 3
 summary_short: "Why raw E1 discreteness is not enough, and how stable code-bearing structures first become possible."
 key_registry:

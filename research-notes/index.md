@@ -18,7 +18,7 @@ right_rail:
       url: /engage/follow-the-research/
     - title: "About the Research"
       url: /research-program/about/
-    - title: "Key Results"
+    - title: "Claims"
       url: /results/
   meta:
     type: "Research Notes"

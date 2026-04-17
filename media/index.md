@@ -117,7 +117,7 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 
 ### For general-audience journalists
 1. [About the Research]({{ '/research-program/about/' | relative_url }})
-2. [Key Results overview]({{ '/results/' | relative_url }}) — {{ result_count }} results with typed status
+2. [Claims overview]({{ '/results/' | relative_url }}) — {{ result_count }} results with typed status
 3. [Why So Many Results Are Possible]({{ '/results/why-so-many-results/' | relative_url }})
 
 ### For science/mathematics journalists
@@ -127,7 +127,7 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 
 ### For podcast hosts
 1. Start with the [About the Research]({{ '/research-program/about/' | relative_url }}) page
-2. Choose 2–3 results from [Key Results]({{ '/results/' | relative_url }}) relevant to your audience
+2. Choose 2–3 results from [Claims]({{ '/results/' | relative_url }}) relevant to your audience
 3. The [Status and Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }}) page explains the program's epistemic discipline
 
 ## Contact

@@ -3,7 +3,7 @@ layout: program-doc
 title: "From Ratio to Measurement: ι<sub>τ</sub> and the Calibration of Physics"
 permalink: /results/world-readout/physics/from-ratio-to-measurement-iota-tau-and-the-calibration-of-physics/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 9
 summary_short: "How Tau yields non-trivial quantities, constants, and calibration without free parameters."
 key_registry:

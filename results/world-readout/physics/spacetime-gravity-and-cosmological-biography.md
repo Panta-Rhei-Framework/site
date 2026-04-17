@@ -3,7 +3,7 @@ layout: program-doc
 title: "Spacetime, Gravity, and Cosmological Biography"
 permalink: /results/world-readout/physics/spacetime-gravity-and-cosmological-biography/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 10
 summary_short: "How Tau reads out gravitation, proper time, and a coherent cosmological biography."
 key_registry:

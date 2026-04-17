@@ -3,7 +3,7 @@ layout: program-doc
 title: What This Mathematics Makes True
 permalink: /results/world-readout/mathematics/what-this-mathematics-makes-true/
 lane: results
-section: "Results · Mathematics World Readout"
+section: "Claims · Mathematics World Readout"
 nav_order: 3
 summary_short: "The strongest major mathematical statement-families that become affirmatively true inside the Tau mathematical universe."
 key_registry:
@@ -60,7 +60,7 @@ That is already an enormous mathematical claim, even before any separate orthodo
 
 ## The seven families in Tau
 
-The site's later [result pages]({{ '/results/topic/mathematics/' | relative_url }}) treat these in more detail. At the level of this prologue, the point is simply to state their collective status.
+The site's later [claim pages]({{ '/results/topic/mathematics/' | relative_url }}) treat these in more detail. At the level of this prologue, the point is simply to state their collective status.
 
 ### Tau-Riemann and the generalized hierarchy
 Within Tau, the relevant Riemannian statement-families are claimed to hold affirmatively — the Critical Line Theorem ([III.T19]({{ '/registry/object/III.T19/' | relative_url }})) and the Prime Polarity Scaling Theorem ([III.T20]({{ '/registry/object/III.T20/' | relative_url }})) — not only in the narrow RH sense but across a wider generalized hierarchy, including the Grand GRH ([III.D31]({{ '/registry/object/III.D31/' | relative_url }})).
@@ -128,7 +128,7 @@ To say that the broader community ought immediately to accept the orthodox case 
 
 These must not be collapsed.
 
-The site's individual result pages are the right place for those distinctions — each result carries an explicit [status code]({{ '/results/status-and-claim-typing/' | relative_url }}):
+The site's individual claim pages are the right place for those distinctions — each result carries an explicit [status code]({{ '/results/status-and-claim-typing/' | relative_url }}):
 - strong bridge
 - partial bridge
 - still-developing bridge
@@ -138,11 +138,11 @@ But this prologue page has a simpler task: to make explicit the collective mathe
 
 ## Why this matters for the Results lane
 
-This page also changes how the reader should understand the [result atlas]({{ '/results/browse/' | relative_url }}).
+This page also changes how the reader should understand the [claim atlas]({{ '/results/browse/' | relative_url }}).
 
 The atlas is not just a pile of disconnected problem pages. It is a detailed unpacking of what follows from a mathematical world that, on the program's own reading, already yields an unusually strong and coherent cluster of major truths.
 
-That is why the atlas can be large without being arbitrary. The result corpus is not meant to be a marketing accumulation of impressive nouns. It is meant to be the indexed consequence layer of a single built framework.
+That is why the atlas can be large without being arbitrary. The claim corpus is not meant to be a marketing accumulation of impressive nouns. It is meant to be the indexed consequence layer of a single built framework.
 
 ## A disciplined conclusion
 

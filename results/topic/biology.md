@@ -1,9 +1,9 @@
 ---
 layout: result-topic
-title: "Biology Results"
+title: "Biology Claims"
 permalink: /results/topic/biology/
 topic: biology
-summary_short: "53 results engaging the biology problem-space."
+summary_short: "53 claims engaging the biology problem-space."
 right_rail:
   meta:
     type: Topic Overview

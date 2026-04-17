@@ -3,9 +3,9 @@ layout: program-doc
 title: How the Framework First Exists
 permalink: /results/prologue/how-the-framework-first-exists/
 lane: results
-section: "Results · Introduction"
+section: "Claims · Introduction"
 nav_order: 2
-summary_short: "The first epistemic stance of the program: TauLib as materialized formal system and the first admissible layer of resulthood."
+summary_short: "The first epistemic stance of the program: TauLib as materialized formal system and the first admissible layer of claimhood."
 key_registry:
   - I.D01
   - I.D02
@@ -37,7 +37,7 @@ Before the Panta Rhei Research Program asks its readers to consider the Tau fram
 
 **the framework exists as a materialized formal system.**
 
-That may sound modest compared with the later claims of the program, but it is not modest in importance. It is the first admissible layer of resulthood, and without it everything else would remain rhetorical intention.
+That may sound modest compared with the later claims of the program, but it is not modest in importance. It is the first admissible layer of claimhood, and without it everything else would remain rhetorical intention.
 
 ## The first epistemic stance
 
@@ -126,7 +126,7 @@ It does not yet claim that:
 
 Those stronger questions come later.
 
-What this page claims is something more fundamental: the framework first exists as a materialized formal system, and that existence is already the first layer of resulthood on which everything else depends.
+What this page claims is something more fundamental: the framework first exists as a materialized formal system, and that existence is already the first layer of claimhood on which everything else depends.
 
 ## Canonical References
 

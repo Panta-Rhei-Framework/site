@@ -3,7 +3,7 @@ layout: program-doc
 title: "Why Mathematics Is Effective in Nature — A Tau Answer"
 permalink: /results/world-readout/physics/why-mathematics-is-effective-in-nature-a-tau-answer/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 11
 summary_short: "Tau’s answer to the question of why mathematics and physical law fit one another so deeply."
 key_registry:

@@ -3,7 +3,7 @@ layout: program-doc
 title: "The Fabric of Physical Reality in Tau"
 permalink: /results/world-readout/physics/the-fabric-of-physical-reality-in-tau/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 2
 summary_short: "How the substrate of physical reality is read out from Tau."
 key_registry:

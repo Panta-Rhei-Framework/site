@@ -3,7 +3,7 @@ layout: program-doc
 title: Results by Problem
 permalink: /results/by-problem/
 lane: results
-summary_short: "All 234 results listed alphabetically."
+summary_short: "All 200+ claims listed alphabetically."
 right_rail:
   related:
   - title: Results Overview
@@ -19,7 +19,7 @@ right_rail:
 
 ## All Results (234)
 
-All 234 results in alphabetical order. Each carries a [typed epistemic status]({{ '/results/status-and-claim-typing/' | relative_url }}) and a result kind (Frontier Problem, Foundational Math, or Consequence). For domain-grouped or book-grouped views, see [By Domain]({{ '/results/by-domain/' | relative_url }}) or [By Book]({{ '/results/by-book/' | relative_url }}). For interactive filtering and sorting, see [Browse All Results]({{ '/results/browse/' | relative_url }}).
+All 200+ claims in alphabetical order. Each carries a [typed epistemic status]({{ '/results/status-and-claim-typing/' | relative_url }}) and a result kind (Frontier Problem, Foundational Math, or Consequence). For domain-grouped or book-grouped views, see [By Domain]({{ '/results/by-domain/' | relative_url }}) or [By Book]({{ '/results/by-book/' | relative_url }}). For interactive filtering and sorting, see [Browse All Results]({{ '/results/browse/' | relative_url }}).
 
 For the narrative front door, see the [Results Introduction]({{ '/results/prologue/' | relative_url }}) and world-readout clusters: [Mathematics]({{ '/results/world-readout/mathematics/' | relative_url }}) (E₀), [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂), [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃).
 

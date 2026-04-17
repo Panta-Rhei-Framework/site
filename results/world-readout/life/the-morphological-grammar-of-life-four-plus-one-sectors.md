@@ -3,7 +3,7 @@ layout: program-doc
 title: "The Morphological Grammar of Life: Four Plus One Sectors"
 permalink: /results/world-readout/life/the-morphological-grammar-of-life-four-plus-one-sectors/
 lane: results
-section: "Results · Life World Readout"
+section: "Claims · Life World Readout"
 nav_order: 5
 summary_short: "How life differentiates through a finite morphological grammar rather than arbitrary proliferation."
 key_registry:

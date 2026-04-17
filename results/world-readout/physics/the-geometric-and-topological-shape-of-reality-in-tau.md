@@ -3,7 +3,7 @@ layout: program-doc
 title: "The Geometric and Topological Shape of Reality in Tau"
 permalink: /results/world-readout/physics/the-geometric-and-topological-shape-of-reality-in-tau/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 3
 summary_short: "How geometry and topology first appear in Tau."
 key_registry:

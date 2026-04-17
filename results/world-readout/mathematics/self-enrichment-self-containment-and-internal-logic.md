@@ -3,7 +3,7 @@ layout: program-doc
 title: Self-Enrichment, Self-Containment, and Internal Logic
 permalink: /results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/
 lane: results
-section: "Results · Mathematics World Readout"
+section: "Claims · Mathematics World Readout"
 nav_order: 4
 summary_short: "Why Tau can enrich over itself, host internal logic, and remain ontically closed — and why this changes the epistemic shape of the framework."
 key_registry:
@@ -24,7 +24,7 @@ right_rail:
     url: /framework/about/self-hosting-and-internal-semantic-closure/
   - title: Verify Lane
     url: /verify/
-  - title: Browse the Result Atlas
+  - title: Browse the Claim Atlas
     url: /results/browse/
   meta:
     type: Prologue · Self-Enrichment
@@ -160,4 +160,4 @@ Tau is not only a different mathematics. It is a different kind of mathematical 
 
 ---
 
-*Previous: [What This Mathematics Makes True]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) | Continue to the [Result Atlas]({{ '/results/browse/' | relative_url }})*
+*Previous: [What This Mathematics Makes True]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) | Continue to the [Claim Atlas]({{ '/results/browse/' | relative_url }})*

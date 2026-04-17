@@ -3,7 +3,7 @@ layout: program-doc
 title: "Pattern, Language, and Proof"
 permalink: /results/world-readout/metaphysics/pattern-language-and-proof/
 lane: results
-section: "Results · Metaphysics World Readout"
+section: "Claims · Metaphysics World Readout"
 nav_order: 4
 summary_short: "How pattern, symbol, language, logic, and proof belong together at E3."
 key_registry:

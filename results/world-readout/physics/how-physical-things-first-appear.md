@@ -3,7 +3,7 @@ layout: program-doc
 title: "How Physical Things First Appear"
 permalink: /results/world-readout/physics/how-physical-things-first-appear/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 6
 summary_short: "How stable denotational patterns in E1 become admissible as physical things."
 key_registry:

@@ -3,7 +3,7 @@ layout: program-doc
 title: "The Final Self-Enrichment: Why There Is No E4"
 permalink: /results/world-readout/metaphysics/the-final-self-enrichment-why-there-is-no-e4/
 lane: results
-section: "Results · Metaphysics World Readout"
+section: "Claims · Metaphysics World Readout"
 nav_order: 2
 summary_short: "Why E3 is the terminal layer of self-enrichment in Tau."
 key_registry:

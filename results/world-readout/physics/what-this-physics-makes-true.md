@@ -3,7 +3,7 @@ layout: program-doc
 title: "What This Physics Makes True"
 permalink: /results/world-readout/physics/what-this-physics-makes-true/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 12
 summary_short: "A summary page of the strongest physical consequences that become true within Tau."
 key_registry:

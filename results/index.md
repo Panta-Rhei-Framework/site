@@ -1,15 +1,15 @@
 ---
 layout: program-doc
-title: Results
+title: Claims
 permalink: /results/
 lane: results
-summary_short: "A frontier-problem-first research interface — 234 results across mathematics, physics, biology, and philosophy."
+summary_short: "The claims the Panta Rhei framework makes — each with a full proof chain in the canonical monographs, a formalization lane in TauLib, and explicit epistemic status."
 summary_cards:
 - title: What this lane does
-  body: "Connects the program's internal claims to recognized problems, with explicit epistemic status and canonical grounding."
-- title: "234 results"
-  body: "Frontier problems, foundational mathematics, and consequence/reframing results across four domains."
-- title: "Three result types"
+  body: "Presents the framework's claims against recognized problems, with explicit epistemic status and canonical grounding."
+- title: "200+ claims"
+  body: "Frontier problems, foundational mathematics, and consequence claims across four domains — each typed and inspectable."
+- title: "Three claim types"
   body: "Frontier problem (143), foundational math (62), consequence (29)."
 right_rail:
   related:
@@ -17,37 +17,37 @@ right_rail:
     url: /framework/about/
   - title: Registry
     url: /registry/
-  - title: Why So Many Results
+  - title: Why So Many Claims
     url: /results/why-so-many-results/
   meta:
     type: Lane Root
-    scope: All results
+    scope: All claims
     status: Canonical
     updated: April 2026
 ---
 
-## The Results Lane
+## The Claims Lane
 
-The Results lane is the public relevance bridge of the Panta Rhei Research Program. It connects the [framework's]({{ '/framework/about/' | relative_url }}) internal structural claims to **recognized problems** in mathematics, physics, biology, and philosophy.
+These are the claims the Panta Rhei framework makes as published in April 2026 in the [canonical monograph series]({{ '/publications/books/' | relative_url }}). For each claim, there is a full proof chain presented in the books and a formalization lane in [TauLib]({{ '/verify/' | relative_url }}). With the publication of the full research program as an open, inspectable research object, we begin the next phase: rigorous peer review, inspection, and verification by the global research community and leading domain experts within the scope of each claim.
 
-Every result distinguishes:
+Every claim distinguishes:
 - The **mainstream problem statement**
 - The **Panta Rhei claim**
 - The **epistemic status** — resolved, partial, qualitative, or contradicted
 - The **canonical grounding** — where in books, framework, [registry]({{ '/registry/' | relative_url }})
 - The **[verification]({{ '/verify/' | relative_url }}) route** — how to inspect further
 
-**Overall status:** 197 Resolved, 20 Partial, 2 Qualitative, 6 Contradicted, 9 Not Addressed. Every result carries an explicit [scope label]({{ '/results/status-and-claim-typing/' | relative_url }}). For guidance on reading result pages, see [How to Read a Result Page]({{ '/results/how-to-read-a-result-page/' | relative_url }}).
+Every claim carries an explicit [scope label]({{ '/results/status-and-claim-typing/' | relative_url }}). For guidance on reading claim pages, see [How to Read a Claim Page]({{ '/results/how-to-read-a-result-page/' | relative_url }}).
 
-## Browse All Results
+## Browse All Claims
 
-The [Browse surface]({{ '/results/browse/' | relative_url }}) is the primary discovery route: a single page with all 234 results pre-rendered as HTML cards, with client-side filters for domain, enrichment layer, kind, importance, status, and canonical book. Filter state is shareable via URL query parameters. The page is fully crawlable and works without JavaScript.
+The [Browse surface]({{ '/results/browse/' | relative_url }}) is the primary discovery route: all claims pre-rendered as HTML cards, with client-side filters for domain, enrichment layer, kind, importance, status, and canonical book. Filter state is shareable via URL query parameters. The page is fully crawlable and works without JavaScript.
 
-## Results Introduction
+## Claims Introduction
 
-Before browsing individual results, readers may want to understand what counts as a result in this program. The [Results Introduction]({{ '/results/prologue/' | relative_url }}) explains the first epistemic stance — how the framework first exists as a materialized formal system — and introduces the four world-readout clusters below.
+Before browsing individual claims, readers may want to understand what counts as a claim in this program. The [Claims Introduction]({{ '/results/prologue/' | relative_url }}) explains the first epistemic stance — how the framework first exists as a materialized formal system — and introduces the four world-readout clusters below.
 
-- [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) — the first admissible layer of resulthood
+- [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) — the first admissible layer of claimhood
 
 ## Mathematics World Readout
 
@@ -59,7 +59,7 @@ The [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relat
 
 ## Physics World Readout
 
-The [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) describes what kind of physical world the Tau framework yields — from ontic substrate through geometry, global shape, time, thingness, lawfulness, sector closure, and calibration to the bridge into the detailed result atlas. Twelve pages in sequence:
+The [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) describes what kind of physical world the Tau framework yields — from ontic substrate through geometry, global shape, time, thingness, lawfulness, sector closure, and calibration to the bridge into the detailed claim atlas. Twelve pages in sequence:
 
 - [The Fabric of Physical Reality]({{ '/results/world-readout/physics/the-fabric-of-physical-reality-in-tau/' | relative_url }}) — discrete, relational, prime-structured substrate
 - [Geometric and Topological Shape]({{ '/results/world-readout/physics/the-geometric-and-topological-shape-of-reality-in-tau/' | relative_url }}) — ultrametric, hyperbolic, split-complex, wave-compatible
@@ -103,24 +103,24 @@ The [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relat
 
 The complete typeset document (~150 pages) with full derivations, tables, and experimental timelines is available as a **free download**: [**Physics Ledger (PDF, 800 KB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
 
-## Featured Results
+## Featured Claims
 
-- [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary — interior f
-- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — The Hubble constant h = 0.6735 is derived as h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm from SH0ES/JWST, resolving the Hubble tension
-- [No Dark Matter Particle: Sector Exhaustion Theorem](/results/problem/no-dark-matter-particle/) — The Sector Exhaustion Theorem proves no additional sector can be added, therefore no dark matter particle exists.
-- [Homochirality Universality: 12-Step Derivation from K0–K6 to L-Amino Acids](/results/problem/homochirality-universality-12-step-derivation/) — The universal chirality of life — L-amino acids and D-sugars — is derived in a 12-step chain from K0–K6 through the Pari
-- [The Categorical Imperative Is the Unique j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — Kant's Categorical Imperative is proven to be the unique j-closed fixed point of the τ-digestion operator — ethics deriv
-- [Gödel Avoidance: Five Mechanisms Prevent Diagonal Self-Negation in τ](/results/problem/goedel-avoidance/) — Five independent mechanisms in Category τ prevent the diagonal self-negation that underlies Gödel's incompleteness theor
+- [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary
+- [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — The Hubble constant h = 0.6735 derived with zero free parameters
+- [No Dark Matter Particle: Sector Exhaustion Theorem](/results/problem/no-dark-matter-particle/) — The Sector Exhaustion Theorem proves no additional sector can be added
+- [Homochirality Universality: 12-Step Derivation from K0–K6](/results/problem/homochirality-universality-12-step-derivation/) — L-amino acids and D-sugars derived from the kernel
+- [The Categorical Imperative as j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — Kant's CI derived from structure, not postulated
+- [Gödel Avoidance: Five Mechanisms](/results/problem/goedel-avoidance/) — Five mechanisms prevent diagonal self-negation in τ
 
 ## Browse by Topic
 
-- [Biology](/results/topic/biology/) — 53 results
-- [Mathematics](/results/topic/mathematics/) — 76 results
-- [Philosophy](/results/topic/philosophy/) — 45 results
-- [Physics](/results/topic/physics/) — 60 results
+- [Biology](/results/topic/biology/) — 53 claims
+- [Mathematics](/results/topic/mathematics/) — 76 claims
+- [Philosophy](/results/topic/philosophy/) — 45 claims
+- [Physics](/results/topic/physics/) — 60 claims
 
 ## Understanding This Lane
 
-- [Why So Many Results Are Possible](/results/why-so-many-results/)
-- [How to Read a Result Page](/results/how-to-read-a-result-page/)
+- [Why So Many Claims Are Possible](/results/why-so-many-results/)
+- [How to Read a Claim Page](/results/how-to-read-a-result-page/)
 - [Status and Claim Typing](/results/status-and-claim-typing/)

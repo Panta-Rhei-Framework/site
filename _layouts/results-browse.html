@@ -5,7 +5,7 @@ layout: default
 {% include breadcrumb-nav.html %}
 
 <div class="hero-card">
-  <span class="eyebrow">Results · Browse</span>
+  <span class="eyebrow">Claims · Browse</span>
   <h1>{{ page.title }}</h1>
   {% if page.summary_short %}
   <p>{{ page.summary_short }}</p>
@@ -101,14 +101,14 @@ layout: default
 
     <div class="filter-group filter-group-actions">
       <div class="filter-count">
-        <strong id="results-count">{{ site.data.results.results | size }}</strong> of {{ site.data.results.results | size }} results
+        <strong id="results-count">{{ site.data.results.results | size }}</strong> of {{ site.data.results.results | size }} claims
       </div>
       <button class="btn-secondary btn-clear-filters" id="results-clear-filters" type="button">Clear filters</button>
     </div>
   </div>
 
   <div class="results-browse-empty" id="results-empty" hidden>
-    <p>No results match the current filters. <button type="button" class="btn-link" id="results-empty-clear">Clear filters</button> to see everything.</p>
+    <p>No claims match the current filters. <button type="button" class="btn-link" id="results-empty-clear">Clear filters</button> to see everything.</p>
   </div>
 
   <ol class="results-browse-grid" id="results-browse-grid">

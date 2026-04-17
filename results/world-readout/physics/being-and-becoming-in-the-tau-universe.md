@@ -3,7 +3,7 @@ layout: program-doc
 title: "Being and Becoming in the Tau Universe"
 permalink: /results/world-readout/physics/being-and-becoming-in-the-tau-universe/
 lane: results
-section: "Results · Physics World Readout"
+section: "Claims · Physics World Readout"
 nav_order: 5
 summary_short: "How Tau combines an eternal substrate with real becoming."
 key_registry:

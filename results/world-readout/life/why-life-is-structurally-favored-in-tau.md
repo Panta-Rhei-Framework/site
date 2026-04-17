@@ -3,7 +3,7 @@ layout: program-doc
 title: "Why Life Is Structurally Favored in Tau"
 permalink: /results/world-readout/life/why-life-is-structurally-favored-in-tau/
 lane: results
-section: "Results · Life World Readout"
+section: "Claims · Life World Readout"
 nav_order: 4
 summary_short: "Why life is not a freak accident in Tau but a structurally favored form of organization."
 key_registry:

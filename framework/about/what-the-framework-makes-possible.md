@@ -25,7 +25,7 @@ right_rail:
     url: /verify/overview/
   - title: How to Inspect the Framework
     url: /framework/about/how-to-inspect-the-framework/
-  - title: Key Results Overview
+  - title: Claims Overview
     url: /framework/about/key-results-overview/
   meta:
     type: Lane Intro
