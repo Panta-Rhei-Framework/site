@@ -288,6 +288,8 @@ utility_nav:
     url: "/media/"
   - title: "Review Kit"
     url: "/media/review-kit/"
+  - title: "Brand Assets"
+    url: "/brand/"
   - title: "Repository"
     url: "https://github.com/Panta-Rhei-Research/taulib"
     external: true
