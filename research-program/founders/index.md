@@ -66,4 +66,8 @@ The current public form of the program — its books, website, formalization sur
 
 ## Correspondence
 
-For media, institutional, technical, or general correspondence regarding the Panta Rhei Research Program, please use the contact routes provided through the site's [Media & Contact]({{ '/engage/media-and-contact/' | relative_url }}) page.
+For media, institutional, technical, or general correspondence regarding the Panta Rhei Research Program, please use the topic-specific routes on the site's [Media & Contact]({{ '/engage/media-and-contact/' | relative_url }}) page.
+
+For a direct line to both founders — reserved for high-signal, low-volume inquiries:
+
+**Email**: [founders@panta-rhei.site](mailto:founders@panta-rhei.site)

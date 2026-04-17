@@ -47,3 +47,5 @@ Notes are published irregularly and only when there is something substantial to 
 **Research Notes**: Browse all published notes at [/research-notes/]({{ '/research-notes/' | relative_url }}).
 
 **Website**: Bookmark this Atlas — new content lanes and verification surfaces are added as they are ready.
+
+**Say hello**: Warm, first-time-reader introductions are welcome at [hello@panta-rhei.site](mailto:hello@panta-rhei.site). For feedback on specific books or results: [feedback@panta-rhei.site](mailto:feedback@panta-rhei.site).

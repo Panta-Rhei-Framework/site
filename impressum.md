@@ -19,15 +19,28 @@ right_rail:
 
 ## Anbieter gemäß § 5 DDG
 
-Dr. Thorsten Fuchs
+**Dr. Thorsten Fuchs**
 Panta Rhei Research Program
 
-Ladungsfähige Anschrift auf Anfrage über:
-E-Mail: [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
+Postfach [Nummer wird ergänzt]
+85276 Pfaffenhofen
+Deutschland
+
+E-Mail: [thorsten.fuchs@panta-rhei.site](mailto:thorsten.fuchs@panta-rhei.site)
 
 ## Inhaltlich verantwortlich gemäß § 18 Abs. 2 MStV
 
-Dr. Thorsten Fuchs
+Dr. Thorsten Fuchs (Anschrift wie oben)
+
+## Rechtliche Anfragen
+
+Für Datenschutz-Anfragen, DMCA-Meldungen und sonstige rechtliche Kommunikation:
+[legal@panta-rhei.site](mailto:legal@panta-rhei.site)
+
+## Inhaltliche Korrekturen (Errata)
+
+Sachliche Fehler, Rechenfehler oder Korrekturwünsche zu veröffentlichten Inhalten:
+[errata@panta-rhei.site](mailto:errata@panta-rhei.site)
 
 ## Haftungsausschluss
 

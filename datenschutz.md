@@ -19,11 +19,15 @@ right_rail:
 
 ## 1. Verantwortlicher
 
-Dr. Thorsten Fuchs
+**Dr. Thorsten Fuchs**
 Panta Rhei Research Program
 
-Ladungsfähige Anschrift auf Anfrage über:
-E-Mail: [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
+Postfach [Nummer wird ergänzt]
+85276 Pfaffenhofen
+Deutschland
+
+E-Mail (Datenschutz-Anfragen): [legal@panta-rhei.site](mailto:legal@panta-rhei.site)
+E-Mail (Verantwortlicher persönlich): [thorsten.fuchs@panta-rhei.site](mailto:thorsten.fuchs@panta-rhei.site)
 
 ## 2. Allgemeine Hinweise zur Datenverarbeitung
 
@@ -113,7 +117,7 @@ Sie haben gegenüber dem Verantwortlichen folgende Rechte hinsichtlich der Sie b
 - **Widerspruch** (Art. 21 DSGVO)
 - **Widerruf erteilter Einwilligungen** (Art. 7 Abs. 3 DSGVO)
 
-Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
+Zur Ausübung Ihrer Rechte wenden Sie sich bitte an: [legal@panta-rhei.site](mailto:legal@panta-rhei.site)
 
 ## 11. Beschwerderecht
 

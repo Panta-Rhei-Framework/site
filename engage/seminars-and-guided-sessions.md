@@ -41,7 +41,7 @@ Seminars and guided sessions are currently in planning. No sessions are schedule
 
 If you would like to be notified when sessions become available:
 
-**Email**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — write "Seminars" in the subject line.
+**Email**: [inquiry@panta-rhei.site](mailto:inquiry@panta-rhei.site) — write "Seminars" in the subject line.
 
 We will notify you when sessions are scheduled and provide details about format, prerequisites, and participation.
 

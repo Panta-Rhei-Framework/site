@@ -10,7 +10,7 @@ summary_cards:
 - title: "Current release"
   body: "Seven-book monograph series (2nd Edition, April 2026), TauLib formalization, research website."
 - title: "Contact"
-  body: "contact@panta-rhei.site — subject line: Media Inquiry"
+  body: "press@panta-rhei.site for journalists, review@ for peer review"
 right_rail:
   related:
   - title: Review Kit
@@ -132,10 +132,14 @@ The Panta Rhei Research Program develops Category τ, a categorical framework th
 
 ## Contact
 
-**Media inquiries**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject line: "Media Inquiry"
+**Media inquiries**: [press@panta-rhei.site](mailto:press@panta-rhei.site)
 
 **Technical inquiries**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject line: "Technical Inquiry"
 
-**Institutional contact**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject line: "Institutional"
+**Institutional contact**: [inquiry@panta-rhei.site](mailto:inquiry@panta-rhei.site)
 
-See also: [Review Kit]({{ '/media/review-kit/' | relative_url }}) for reviewer-specific entry paths.
+**Peer review**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
+
+**Errata & corrections**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)
+
+See also: [Review Kit]({{ '/media/review-kit/' | relative_url }}) for reviewer-specific entry paths, and [Media & Contact]({{ '/engage/media-and-contact/' | relative_url }}) for the full list of topic-specific routes.

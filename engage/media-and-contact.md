@@ -28,7 +28,7 @@ right_rail:
 
 ## Contact the Research Program
 
-Please indicate your inquiry type so we can route your message appropriately.
+We use topic-specific email aliases so your message reaches the right queue. Please pick the route that best matches your inquiry.
 
 ### Media Inquiry
 
@@ -36,7 +36,7 @@ For journalists, editors, podcast hosts, and media professionals covering scienc
 
 **What we can provide**: Series overview, author background, key claims with scope labels, falsification pack, publication timeline, citation data.
 
-**Email**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject line: "Media Inquiry"
+**Email**: [press@panta-rhei.site](mailto:press@panta-rhei.site)
 
 ### Technical Inquiry
 
@@ -46,19 +46,50 @@ For researchers, mathematicians, physicists, biologists, philosophers, and forma
 
 **Email**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject line: "Technical Inquiry"
 
-### Institutional Contact
+### Institutional & Collaboration
 
 For universities, research institutions, funding bodies, publishers, and organizations exploring collaboration, evaluation, or institutional engagement.
 
 **What we can provide**: Prospectus, reviewer's dossier, seminar abstracts, formalization overview, publication metadata.
 
-**Email**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject line: "Institutional"
+**Email**: [inquiry@panta-rhei.site](mailto:inquiry@panta-rhei.site)
+
+### Reader Feedback
+
+Responses to specific books, results, or registry entries — including critiques, suggestions, and reader reactions.
+
+**Email**: [feedback@panta-rhei.site](mailto:feedback@panta-rhei.site)
+
+### Corrections & Errata
+
+Factual errors, computational mistakes, scope-label issues, broken proofs, or suggested corrections to published claims.
+
+**Email**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)
+
+### Peer Review & Academic Review
+
+For reviewers evaluating the program formally, institutional review committees, and scholarly peer-review coordination.
+
+**Email**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
 
 ### General Contact
 
-For all other correspondence — readers, supporters, general questions, suggestions, or feedback.
+First-time readers, friendly inbound, and anything that doesn't fit the routes above.
 
-**Email**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site)
+**Email**: [hello@panta-rhei.site](mailto:hello@panta-rhei.site) (warm introductions)
+**Email**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) (general fallback)
+
+### Founders
+
+Direct line to Thor and Anna-Sophie for high-signal, low-volume inquiries.
+
+**Email**: [founders@panta-rhei.site](mailto:founders@panta-rhei.site)
+
+### Legal & Privacy
+
+Data-protection requests, DMCA notices, and formal legal correspondence.
+
+**Email**: [legal@panta-rhei.site](mailto:legal@panta-rhei.site) — see [Impressum]({{ '/impressum/' | relative_url }}) and [Datenschutz]({{ '/datenschutz/' | relative_url }})
 
 ---
 

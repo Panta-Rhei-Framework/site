@@ -92,6 +92,8 @@ For a reviewer who wants to form a first impression in 30-60 minutes:
 
 ## Contact
 
-- **Media**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject: "Media Inquiry"
-- **Technical review**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject: "Technical Inquiry"
-- **Institutional**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject: "Institutional"
+- **Peer review**: [review@panta-rhei.site](mailto:review@panta-rhei.site)
+- **Media**: [press@panta-rhei.site](mailto:press@panta-rhei.site)
+- **Technical inquiries**: [contact@panta-rhei.site](mailto:contact@panta-rhei.site) — subject: "Technical Inquiry"
+- **Institutional**: [inquiry@panta-rhei.site](mailto:inquiry@panta-rhei.site)
+- **Corrections / errata**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)

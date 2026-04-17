@@ -97,3 +97,11 @@ To answer that, start here:
 4. **Run** `lake build` on TauLib to verify internal consistency
 5. **Challenge** the [Results]({{ '/results/' | relative_url }}) with your domain expertise
 6. **Assess** using the [AI-assisted protocol]({{ '/verify/assessments/' | relative_url }}) for a structured first signal
+
+## Report Corrections
+
+Found an error, a broken proof, a mis-stated numerical value, or a scope-label issue? We take corrections seriously and credit corrigendum contributors in the changelog.
+
+**Email**: [errata@panta-rhei.site](mailto:errata@panta-rhei.site)
+
+For formal peer-review coordination or institutional review inquiries: [review@panta-rhei.site](mailto:review@panta-rhei.site)
