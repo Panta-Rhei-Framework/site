@@ -57,9 +57,34 @@ Embodiment is structurally necessary for full E₃ consciousness. The subject is
 
 Emotions are modeled as register transitions in the E₃ architecture — structural dynamics in the commitment register, not merely chemical states.
 
+### [Free Will as Branching]({{ '/results/problem/free-will-as-branching/' | relative_url }}) · Resolved
+
+The neuroscience of free will is resolved structurally: compatibilism is dissolved as a scale confusion. Free will is the branching structure of E₃ agency at the personal scale, neither contradicted by nor reducible to neural-scale determinism.
+
+### [Panpsychism Excluded]({{ '/results/problem/panpsychism-excluded/' | relative_url }}) · Contradicted
+
+The framework explicitly rules out panpsychism. Consciousness requires E₃ self-model + global section of a mind topos — structural conditions that fundamental physical systems (rocks, electrons, quantum fields) provably do not satisfy. This also constrains "Quantum Mind" proposals (Penrose–Hameroff Orch-OR and relatives).
+
+### [Sleep Function]({{ '/results/problem/sleep-function/' | relative_url }}) · Resolved
+
+The biological function of sleep is derived within the framework's E₃ architecture: sleep is a structural maintenance cycle of the commitment and perception registers, not merely metabolic restoration or memory consolidation.
+
+### [Temporal Experience]({{ '/results/problem/temporal-experience/' | relative_url }}) · Resolved
+
+The subjective flow of time — the phenomenology of "now" and duration — is derived from the α-orbit structure at E₃. Temporal experience is a structural feature of conscious section, not an illusion or an emergent psychological effect.
+
+### [Non-Reductive Emergence (Mental Causation)]({{ '/results/problem/non-reductive-emergence/' | relative_url }}) · Resolved
+
+Mental causation — how mental states can cause intentional actions without being reducible to physical states — is resolved through non-reductive emergence. E₃ states have genuine causal efficacy at the E₃ scale, even though E₂ physical substrate is fully preserved.
+
+### [Syntax-Semantics Dissolution]({{ '/results/problem/syntax-semantics-dissolution/' | relative_url }}) · Resolved
+
+The neural basis of semantic meaning is resolved by dissolving the syntax–semantics boundary at E₃. Meaning is not computed from syntactic structure but structurally carried by self-decoding configurations — addressing Wikipedia's "Semantic Meaning Basis" open question.
+
 ---
 
 ## Where to go deeper
 
 - [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}) — the full world-picture
 - [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Unsolved problems in neuroscience](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_neuroscience) — Wikipedia's canonical list of recognized open problems
