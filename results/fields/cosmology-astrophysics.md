@@ -57,6 +57,26 @@ The baryon-to-photon ratio η_B is derived from sector-coupling structure. The m
 
 Galaxy rotation curves are explained through Wilson-loop holonomy structure, without invoking a dark matter halo.
 
+### [Supermassive Black Holes in the Early Universe]({{ '/results/problem/supermassive-black-holes-early-universe/' | relative_url }}) · Resolved
+
+JWST-observed 10⁹ M☉ black holes at z~7-13 are explained by the JWST Enhancement Theorem (V.T239): deeper gravitational potentials at high redshift drive 5.4× star-formation efficiency at z=13 (V.P163), growing SMBHs from primordial gas — no primordial black holes needed.
+
+### [Cosmic Magnetic Fields]({{ '/results/problem/cosmic-magnetic-fields/' | relative_url }}) · Resolved
+
+Intergalactic magnetic fields of 10-100 nG with Mpc coherence length derived from SMBH jets carrying frozen flux along Wilson-skeleton filaments (V.T233). Vernstrom 2021 and Carretti 2023 measured 30 nG in filaments — matching the prediction and exceeding random-dynamo expectations by 1-2 orders of magnitude.
+
+### [Astrophysical Jets]({{ '/results/problem/astrophysical-jets/' | relative_url }}) · Resolved
+
+Relativistic polar jets arise from T² topology: equatorial accretion funnel + polar 1D topological channel. The Jet Collimation Theorem (Book V ch40) bounds the opening half-angle by arcsin(ι_τ) ≈ 19.96°; the AGN Unification Theorem replaces ad hoc orientation schemes with lifecycle phases.
+
+### [Core-Collapse Supernovae Mechanism]({{ '/results/problem/supernovae-mechanism/' | relative_url }}) · Resolved
+
+Core-collapse supernovae explode via channel reversal at nuclear density (Book V ch39). Asymmetry in the reversal derives natal kicks of 200-500 km/s (V.P76) — a structural explanation of the "explosion mechanism" that orthodox simulations often find stall.
+
+### [Coronal Heating]({{ '/results/problem/coronal-heating/' | relative_url }}) · Resolved
+
+Solar coronal heating — one of the oldest open problems in classical physics — is resolved by deriving the heating damping length from dim(T²)=2 (V.T253, Book V ch65): F_τ ≈ 3.4×10⁵ erg cm⁻² s⁻¹, L_d ≈ 0.02 R_⊙. Parameter-free, not fitted to experiment.
+
 ### [S8 Tension]({{ '/results/problem/s8-tension/' | relative_url }}) · Resolved
 
 The S8 tension between CMB lensing and galaxy clustering is resolved within the same orbit-depth framework that resolves the Hubble tension.

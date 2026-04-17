@@ -41,6 +41,14 @@ The fine-tuning problem (why physical constants take the values they do) is diss
 
 High-temperature superconductivity — the mechanism behind superconductivity above ~25 K — is addressed through the framework's sector-coupled condensed matter treatment. The full bridge to material-specific predictions remains in development.
 
+### [Glass Transition]({{ '/results/problem/glass-transition/' | relative_url }}) · Resolved
+
+The glass transition is a rigorous τ-regime (Book IV ch62): glass lives where d₁ ≈ 0 and d₄ ≈ 0 in the defect-tuple phase space. Glass Threshold K_glass demarcates the regime; CheckGlass procedure decidably tests membership (IV.P288) — first-principles, not phenomenological.
+
+### [Superfluid Helium-4 (λ-Transition)]({{ '/results/problem/superfluid-helium-4-lambda/' | relative_url }}) · Resolved
+
+Superfluid transition in Helium-4 at T_λ ≈ 2.17 K is derived via the Minimal Donut Criterion cos(π/N) ≥ 1 − ι_τ (Book IV ch61): He-3 fails (0.500 < 0.659), He-4 passes (0.707 ≥ 0.659). A selection principle for bosonic superfluidity from the master constant ι_τ, not a phenomenological fit.
+
 ### [She-Lévêque Turbulence Exponents]({{ '/results/problem/she-leveque-turbulence-exponents/' | relative_url }}) · Resolved
 
 The She-Lévêque intermittency exponents for fully developed turbulence are derived exactly from the dimensional structure of τ³. This is one of the few zero-parameter predictions in classical fluid dynamics — a field where most results are empirical or approximate.

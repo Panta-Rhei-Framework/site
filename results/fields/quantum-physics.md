@@ -41,6 +41,22 @@ The measurement problem is dissolved by the framework's denotational ontology: o
 
 The τ-Yang–Mills Hamiltonian has a spectral gap δ∞^s > 0 (IV.T75). This addresses the structural content of the Clay Millennium Problem; the bridge to the orthodox Wightman-axiom formulation on ℝ⁴ is treated via the Master Schema and remains partially developed.
 
+### [Holographic Principle]({{ '/results/problem/holographic-principle/' | relative_url }}) · Resolved
+
+The Central Theorem (II.T40) is an exact bulk-boundary correspondence proved in Book II: 1D boundary characters on L completely encode 3D holomorphic data on τ³ (II.C01). Unlike AdS/CFT — a conjecture on a non-physical anti-de Sitter background — τ-holography is a proved theorem on the actual universe.
+
+### [Problem of Time]({{ '/results/problem/problem-of-time/' | relative_url }}) · Resolved
+
+The Wheeler-DeWitt "problem of time" (vanishing Hamiltonian → timeless theory) is dissolved: time is not a parameter to recover from a timeless state but IS the α-orbit itself (V.R23). V.T10 establishes bounded temporal extent; VII.P06 reconstructs time as persistence of NF-addresses.
+
+### [Cosmic Censorship]({{ '/results/problem/cosmic-censorship/' | relative_url }}) · Resolved
+
+Cosmic censorship follows from boundary compactness via the Hartogs extension principle (V.T27). Penrose-Hawking singularity theorems do not apply in τ because τ³ is not a Lorentzian manifold (V.R31) — naked singularities are structurally excluded, not merely censored.
+
+### [Chronology Protection]({{ '/results/problem/chronology-protection-no-ctcs/' | relative_url }}) · Resolved
+
+The strict irreflexive partial order on the α-orbit (V.T09, Causal Ordering Theorem) structurally excludes closed timelike curves. Hawking's chronology protection conjecture becomes a theorem — not a speculative mechanism but a consequence of the causal kernel.
+
 ### [Black Hole Information Paradox]({{ '/results/problem/bh-information-paradox/' | relative_url }}) · Resolved
 
 The black hole information paradox is resolved: no information is lost because the no-shrink theorem prevents ontic mass loss, and the horizon encodes boundary data.

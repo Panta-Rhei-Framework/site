@@ -89,9 +89,33 @@ The nucleon axial coupling g_A derived to +5.5 ppm via κ_D²/ι_τ with colour-
 
 Why is gravity 10³² times weaker than electromagnetism? The hierarchy is derived from structural sector separation — the gravitational sector (D/α) couples at depth 0, while EM (B/γ) couples at depth 2, giving the observed ratio as a power of ι_τ.
 
+### [Grand Unification Dissolved]({{ '/results/problem/grand-unification-dissolved/' | relative_url }}) · Resolved
+
+The GUT program (SU(5), SO(10), etc.) failed because it rests on manifold ontology. The Boundary Unification Principle (V.R245) replaces gauge-group embedding with algebra projection — no larger gauge group, no extra dimensions, no new particles. Baryogenesis threshold at 10¹² GeV (V.P133) sits naturally without GUT-scale unification.
+
+### [Supersymmetry Structurally Absent]({{ '/results/problem/supersymmetry-structurally-absent/' | relative_url }}) · Resolved
+
+Supersymmetry is not needed: the hierarchy problem is dissolved structurally, not dynamically (IV.R35, V.R245). No superpartners, no KK modes, no technicolor — there is no fundamental scalar to protect. LHC's null result for SUSY validates the prediction.
+
+### [No Magnetic Monopoles]({{ '/results/problem/no-magnetic-monopoles/' | relative_url }}) · Resolved
+
+div B = 0 follows from d² = 0 on the EM gauge bundle, proved as the Homogeneous Maxwell Equations theorem (IV.T42). Magnetic monopoles are structurally forbidden by the Bianchi identity — not merely unobserved.
+
 ### [QCD Confinement]({{ '/results/problem/qcd-confinement/' | relative_url }}) · Partial
 
 Color confinement in the strong sector is addressed through NF-discreteness of the C/η sector: quarks cannot be isolated because the sector's spectral structure does not permit deconfined color charges. Bridge to lattice QCD in development.
+
+### [Glueballs]({{ '/results/problem/glueballs/' | relative_url }}) · Resolved
+
+Glueballs are color-neutral excitations above the strong-sector vacuum (IV.D201). The Yang-Mills mass gap δ∞^s > 0 (IV.T75) IS the minimum glueball mass; lattice QCD prediction ~1.5-1.7 GeV with J^PC = 0⁺⁺ follows from the gap structure.
+
+### [Exotic Hadrons]({{ '/results/problem/exotic-hadrons/' | relative_url }}) · Resolved
+
+The color-singlet condition enumerates permitted multiquark bound states: tetraquarks (qq q̄ q̄) and pentaquarks (qqqq q̄) are allowed (IV.R64, IV.P95). LHCb has identified candidates for both — framework predicts and classifies, not accommodates.
+
+### [QCD Phases (QGP as High-T Confinement)]({{ '/results/problem/qcd-phases-qgp/' | relative_url }}) · Resolved
+
+Quark-gluon plasma is not deconfined: in τ, QGP is a state where the confinement scale exceeds the mean inter-quark distance (V.R151). B+C sector transitions map to the QCD deconfinement universality class (IV.R177).
 
 ### [Neutron Lifetime Puzzle]({{ '/results/problem/neutron-lifetime-puzzle/' | relative_url }}) · Resolved
 
