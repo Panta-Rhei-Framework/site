@@ -56,7 +56,17 @@
   <!-- Results lane navigation -->
   <div class="rail-title">Claims</div>
   {% for item in site.data.nav.results_nav %}
+  {% if item.url %}
   <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>
+  {% endif %}
+  {% if item.children %}
+  <div class="nav-section-title">{{ item.title }}</div>
+  <div class="subnav">
+    {% for child in item.children %}
+    <a href="{{ child.url | relative_url }}" class="nav-link{% if page.url == child.url %} active{% endif %}">{{ child.title }}</a>
+    {% endfor %}
+  </div>
+  {% endif %}
   {% endfor %}
 
   {% elsif page.lane == "registry" %}

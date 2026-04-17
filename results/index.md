@@ -39,27 +39,29 @@ Every claim distinguishes:
 
 Every claim carries an explicit [scope label]({{ '/results/status-and-claim-typing/' | relative_url }}). For guidance on reading claim pages, see [How to Read a Claim Page]({{ '/results/how-to-read-a-result-page/' | relative_url }}).
 
-## Browse All Claims
+## Two Readings of the Claims Lane
 
-The [Browse surface]({{ '/results/browse/' | relative_url }}) is the primary discovery route: all claims pre-rendered as HTML cards, with client-side filters for domain, enrichment layer, kind, importance, status, and canonical book. Filter state is shareable via URL query parameters. The page is fully crawlable and works without JavaScript.
+The Framework lane answers **how** the τ machinery is built. The Claims lane answers **what that machinery delivers** — and that comes in two complementary readings, each serving a different epistemic need. The raw claim catalogue is available as an **Appendix** for direct browsing.
 
-## Claims Introduction
+Before either reading, the [Claims Introduction]({{ '/results/prologue/' | relative_url }}) explains what counts as a claim — [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) sets the first epistemic stance.
 
-Before browsing individual claims, readers may want to understand what counts as a claim in this program. The [Claims Introduction]({{ '/results/prologue/' | relative_url }}) explains the first epistemic stance — how the framework first exists as a materialized formal system — and introduces the four world-readout clusters below.
+---
 
-- [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) — the first admissible layer of claimhood
+## Reading 1 · What shape of reality does the framework describe?
 
-## Mathematics World Readout
+Four **World Readouts** present τ's own-terms ontology — what the framework says the world **is**, layer by layer. This is the worldview entry: best for readers who want to understand the framework's coherent vision of reality across mathematics, physics, life, and metaphysics.
 
-The [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relative_url }}) describes the E₀ mathematical world — what kind of mathematical universe Tau describes, what it makes true, and why self-enrichment changes the epistemic shape of the framework. Three pages:
+### [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relative_url }}) — E₀
+
+What kind of mathematical universe τ describes, what it makes true, and why self-enrichment changes the epistemic shape of the framework. Three pages:
 
 - [The Shape of Mathematics in the Tau Framework]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) — countable ontology, hyperbolic geometry, resource-sensitive logic
 - [What This Mathematics Makes True]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) — Millennium problems, Riemann, Langlands in Tau formulation
 - [Self-Enrichment, Self-Containment, and Internal Logic]({{ '/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/' | relative_url }}) — enrichment without ontic inflation
 
-## Physics World Readout
+### [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) — E₁
 
-The [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) describes what kind of physical world the Tau framework yields — from ontic substrate through geometry, global shape, time, thingness, lawfulness, sector closure, and calibration to the bridge into the detailed claim atlas. Twelve pages in sequence:
+What kind of physical world the Tau framework yields — from ontic substrate through geometry, global shape, time, thingness, lawfulness, sector closure, and calibration. Twelve pages in sequence:
 
 - [The Fabric of Physical Reality]({{ '/results/world-readout/physics/the-fabric-of-physical-reality-in-tau/' | relative_url }}) — discrete, relational, prime-structured substrate
 - [Geometric and Topological Shape]({{ '/results/world-readout/physics/the-geometric-and-topological-shape-of-reality-in-tau/' | relative_url }}) — ultrametric, hyperbolic, split-complex, wave-compatible
@@ -74,9 +76,9 @@ The [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url 
 - [What This Physics Makes True]({{ '/results/world-readout/physics/what-this-physics-makes-true/' | relative_url }}) — summary of consequence families
 - [Two Routes from Tau to Reality]({{ '/results/world-readout/physics/two-routes-from-tau-to-reality/' | relative_url }}) — ontic and empirical bridges
 
-## Life World Readout
+### [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}) — E₂
 
-The [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}) describes what life is in the Tau framework and how it emerges from E1 physics as a genuinely new layer of reality (E2). Five pages in sequence:
+What life is in the Tau framework and how it emerges from E₁ physics as a genuinely new layer of reality. Five pages in sequence:
 
 - [Life as Self-Decoding Distinction]({{ '/results/world-readout/life/life-as-self-decoding-distinction/' | relative_url }}) — categorical definition of life; three orders of identity
 - [Rational Points, Codes, and the Possibility of Life]({{ '/results/world-readout/life/rational-points-codes-and-the-possibility-of-life/' | relative_url }}) — code-bearing structures and the bridge from E1 to E2
@@ -84,9 +86,9 @@ The [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}) de
 - [The Morphological Grammar of Life]({{ '/results/world-readout/life/the-morphological-grammar-of-life-four-plus-one-sectors/' | relative_url }}) — E2 sector structure and the tree of life
 - [Grounded in Physics, Irreducible in Life]({{ '/results/world-readout/life/grounded-in-physics-irreducible-in-life/' | relative_url }}) — biology as enriched physics
 
-## Metaphysics World Readout
+### [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}) — E₃
 
-The [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}) is the terminal reflective layer of the enrichment ladder — the place where the framework becomes maximally formal about reflection itself. Six pages in sequence, closing at the boundary where proof meets commitment:
+The terminal reflective layer of the enrichment ladder — where the framework becomes maximally formal about reflection itself. Six pages in sequence, closing at the boundary where proof meets commitment:
 
 - [The Final Self-Enrichment: Why There Is No E4]({{ '/results/world-readout/metaphysics/the-final-self-enrichment-why-there-is-no-e4/' | relative_url }}) — why E3 is terminal
 - [Relational Ontology and Phenomenology]({{ '/results/world-readout/metaphysics/relational-ontology-and-phenomenology/' | relative_url }}) — what exists and how it is known
@@ -95,27 +97,37 @@ The [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relat
 - [Mind, Consciousness, and the Self-Model]({{ '/results/world-readout/metaphysics/mind-consciousness-and-the-self-model/' | relative_url }}) — selfhood, free will, and the hard problem
 - [Logos and the Final Boundary]({{ '/results/world-readout/metaphysics/logos-and-the-final-boundary/' | relative_url }}) — where proof meets commitment
 
-## Field Briefings
+---
 
-For specialists arriving from a specific academic discipline, 9 field-specific briefing pages curate the most consequential claims within each scope:
+## Reading 2 · What does the framework answer for problems we already recognize as open?
+
+Ten **Field Briefings**, each explicitly cross-walked against a canonical external list — Wikipedia's open-problems lists by discipline, plus the Clay Mathematics Institute's Millennium Problems. This is the audit entry: best for specialists arriving from a specific academic discipline who want to see the framework's verdict on recognized hard problems, with explicit status codes (Resolved · Partial · Qualitative · Contradicted · Not Addressed).
 
 **Physics:**
-- [Quantum Physics]({{ '/results/fields/quantum-physics/' | relative_url }}) — QM, quantum gravity, unification, measurement problem
-- [Cosmology, Astrophysics & GR]({{ '/results/fields/cosmology-astrophysics/' | relative_url }}) — Hubble tension, dark sector, CMB, inflation, black holes
-- [Particle Physics & Nuclear]({{ '/results/fields/particle-physics/' | relative_url }}) — 3 generations, quark masses, CKM, Higgs, neutrinos
-- [Fluids, Condensed Matter & Plasma]({{ '/results/fields/condensed-matter-fluids/' | relative_url }}) — Navier-Stokes, fluid dynamics
+- [Quantum Physics]({{ '/results/fields/quantum-physics/' | relative_url }}) — QM, quantum gravity, unification, measurement problem, holographic principle, problem of time
+- [Cosmology, Astrophysics & GR]({{ '/results/fields/cosmology-astrophysics/' | relative_url }}) — Hubble tension, dark sector, CMB, inflation, SMBHs, supernovae, cosmic magnetic fields
+- [Particle Physics & Nuclear]({{ '/results/fields/particle-physics/' | relative_url }}) — 3 generations, quark masses, CKM, neutrinos, proton stability, glueballs, GUT dissolution
+- [Fluids, Condensed Matter & Plasma]({{ '/results/fields/condensed-matter-fluids/' | relative_url }}) — Navier-Stokes, high-Tc superconductivity, glass transition, superfluid He-4
 
 **Mathematics:**
-- [Foundations, Logic & Computer Science]({{ '/results/fields/foundations-logic/' | relative_url }}) — Gödel avoidance, topos theory, P vs NP, decidability
-- [Millennium Problems & Langlands]({{ '/results/fields/millennium-langlands/' | relative_url }}) — all seven Clay problems + Grand GRH + Langlands
+- [Foundations, Logic & Computer Science]({{ '/results/fields/foundations-logic/' | relative_url }}) — Gödel avoidance, topos theory, P vs NP, Yoneda, Stone duality, ZFC identity slippage
+- [Millennium Problems & Langlands]({{ '/results/fields/millennium-langlands/' | relative_url }}) — all seven Clay problems (including Poincaré) + Grand GRH + Langlands
 
 **Life, Mind & Philosophy:**
-- [Biology & Origin of Life]({{ '/results/fields/biology/' | relative_url }}) — abiogenesis, genetic code, homochirality, what is life
-- [Neuroscience & Consciousness]({{ '/results/fields/neuroscience/' | relative_url }}) — hard problem, consciousness, free will, machine mind
+- [Biology & Origin of Life]({{ '/results/fields/biology/' | relative_url }}) — abiogenesis, genetic code, homochirality, LUCA, virus exclusion, paradox of the plankton
+- [Neuroscience & Consciousness]({{ '/results/fields/neuroscience/' | relative_url }}) — hard problem, binding, free will, sleep, panpsychism excluded
 - [Foundational Philosophy]({{ '/results/fields/philosophy-foundational/' | relative_url }}) — ontology, epistemology, philosophy of science, meta-inquiry (ontic vs model stance)
 - [Applied Philosophy]({{ '/results/fields/philosophy-applied/' | relative_url }}) — ethics, aesthetics, language, mind, political legitimacy
 
-## Physics Predictions Ledger
+---
+
+## Appendix · Browse & Reference
+
+### [Browse All Claims]({{ '/results/browse/' | relative_url }})
+
+The primary discovery surface: all claims pre-rendered as HTML cards, with client-side filters for domain, enrichment layer, kind, importance, status, and canonical book. Filter state is shareable via URL query parameters. The page is fully crawlable and works without JavaScript.
+
+### Physics Predictions Ledger
 
 The [Physics Predictions]({{ '/results/predictions/browse/' | relative_url }}) collection compiles **67 zero-parameter numerical predictions** derived from the single master constant ι<sub>τ</sub> = 2/(π+e). Each prediction compares a τ-derived value directly to experimental measurement — no ontological bridge claims needed. Fifteen predictions achieve sub-10 ppm precision.
 
@@ -123,7 +135,7 @@ The [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relat
 
 The complete typeset document (~150 pages) with full derivations, tables, and experimental timelines is available as a **free download**: [**Physics Ledger (PDF, 800 KB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
 
-## Featured Claims
+### Featured Claims
 
 - [Central Theorem: O(τ³) ≅ A_spec(L)](/results/problem/central-theorem/) — The algebra of holomorphic functions on τ³ is isomorphic to the spectral algebra of the lemniscate boundary
 - [Hubble Tension Resolved: h = 2/3 + ι<sub>τ</sub>²/17 at –120 ppm](/results/problem/hubble-tension-resolved-h-formula/) — The Hubble constant h = 0.6735 derived with zero free parameters
@@ -132,14 +144,14 @@ The complete typeset document (~150 pages) with full derivations, tables, and ex
 - [The Categorical Imperative as j-Closed Fixed Point](/results/problem/categorical-imperative-fixed-point/) — Kant's CI derived from structure, not postulated
 - [Gödel Avoidance: Five Mechanisms](/results/problem/goedel-avoidance/) — Five mechanisms prevent diagonal self-negation in τ
 
-## Browse by Topic
+### Browse by Topic
 
 - [Biology](/results/topic/biology/) — 53 claims
 - [Mathematics](/results/topic/mathematics/) — 76 claims
 - [Philosophy](/results/topic/philosophy/) — 45 claims
 - [Physics](/results/topic/physics/) — 60 claims
 
-## Understanding This Lane
+### Understanding This Lane
 
 - [Why So Many Claims Are Possible](/results/why-so-many-results/)
 - [How to Read a Claim Page](/results/how-to-read-a-result-page/)
