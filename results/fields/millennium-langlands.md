@@ -25,51 +25,19 @@ The τ framework claims that the τ formulations of all seven Millennium Problem
 
 ## Key claims
 
-### [Riemann Hypothesis]({{ '/results/problem/riemann-hypothesis/' | relative_url }}) · Partial
-
-The Critical Line Theorem (III.T19) establishes spectral purity of the τ-zeta function. The bridge to classical RH via the determinant representation (Obligation O3) remains conjectural.
-
-### [Riemann Hypothesis (Spectral Approach)]({{ '/results/problem/riemann-hypothesis-spectral-approach/' | relative_url }}) · Partial
-
-The spectral approach provides the internal mechanism: all non-trivial τ-zeta zeros lie on the critical line through the spectral trichotomy (III.T14).
-
-### [P vs NP]({{ '/results/problem/p-vs-np/' | relative_url }}) · Partial
-
-The classical P vs NP separation remains open. The τ-admissibility collapse (P = NP within τ) operates in a different computational model (E₂-native).
-
-### [Yang-Mills Mass Gap]({{ '/results/problem/yang-mills-mass-gap/' | relative_url }}) · Partial
-
-The Yang-Mills Gap Theorem (III.T27) proves gap constant Γ*_s > 0 for τ-admissible gauge data. Bridge to SU(3) QFT rigorous construction conjectural.
-
-### [Navier-Stokes Regularity]({{ '/results/problem/navier-stokes-regularity/' | relative_url }}) · Not Addressed
-
-Positive Regularity (III.T25) proved for τ-admissible data. Bridge to Schwartz-class data on ℝ³ open.
-
-### [Poincaré Conjecture Reinterpretation]({{ '/results/problem/poincar-conjecture-reinterpretation/' | relative_url }}) · Resolved
-
-The one solved Millennium Problem (Perelman, 2002-2003) is reinterpreted within the framework: τ³ = τ¹ ×_f T² is the natural τ-analogue of a 3-manifold, with its own rigidity and classification structure. The framework does not replace Perelman's proof but recasts the closed-simply-connected-3-manifold question in τ-internal language, connecting it to the full enrichment chain.
-
-### [Hodge Conjecture]({{ '/results/problem/hodge-conjecture-approach/' | relative_url }}) · Partial
-
-The NF-Addressability Theorem (III.T28) resolves the Hodge statement within τ. Bridge to classical algebraic geometry conjectural.
-
-### [BSD Conjecture]({{ '/results/problem/bsd-conjecture-approach/' | relative_url }}) · Partial
-
-The BSD Coherence Theorem (III.T35) proves rank-L-value equality for τ-admissible elliptic data. Bridge to classical E/ℚ conjectural.
-
-### [Grand GRH]({{ '/results/problem/grand-grh-approach/' | relative_url }}) · Partial
-
-Grand GRH (III.D31) extends the Riemann claim to all automorphic L-functions via the Prime Polarity Scaling Theorem (III.T20).
-
-### [τ-Admissibility Collapse (P = NP)]({{ '/results/problem/tau-admissibility-collapse-p-np/' | relative_url }}) · Qualitative
-
-τ-P_adm = τ-NP_adm at E₂. The bridge to classical Turing-machine framing is acknowledged as broken — the two formulations address different computational substrates.
-
-### [Langlands Program]({{ '/results/world-readout/mathematics/' | relative_url }})
-
-The Functoriality Theorem (III.T36) and Base Change (III.T37) establish the τ-internal Langlands correspondence. The full scope of the Langlands program's implications is developed in the Mathematics World Readout.
-
----
+<ul class="results-browse-grid">
+{% include claim-card.html title="Riemann Hypothesis" url="/results/problem/riemann-hypothesis/" status="P" summary="The Critical Line Theorem (III.T19) establishes spectral purity of the τ-zeta function. The bridge to classical RH via the determinant representation (Obligation O3) remains conjectural." %}
+{% include claim-card.html title="Riemann Hypothesis (Spectral Approach)" url="/results/problem/riemann-hypothesis-spectral-approach/" status="P" summary="The spectral approach provides the internal mechanism: all non-trivial τ-zeta zeros lie on the critical line through the spectral trichotomy (III.T14)." %}
+{% include claim-card.html title="P vs NP" url="/results/problem/p-vs-np/" status="P" summary="The classical P vs NP separation remains open. The τ-admissibility collapse (P = NP within τ) operates in a different computational model (E₂-native)." %}
+{% include claim-card.html title="Yang-Mills Mass Gap" url="/results/problem/yang-mills-mass-gap/" status="P" summary="The Yang-Mills Gap Theorem (III.T27) proves gap constant Γ*_s > 0 for τ-admissible gauge data. Bridge to SU(3) QFT rigorous construction conjectural." %}
+{% include claim-card.html title="Navier-Stokes Regularity" url="/results/problem/navier-stokes-regularity/" status="N" summary="Positive Regularity (III.T25) proved for τ-admissible data. Bridge to Schwartz-class data on ℝ³ open." %}
+{% include claim-card.html title="Poincaré Conjecture Reinterpretation" url="/results/problem/poincar-conjecture-reinterpretation/" status="R" summary="The one solved Millennium Problem (Perelman, 2002-2003) is reinterpreted within the framework: τ³ = τ¹ ×_f T² is the natural τ-analogue of a 3-manifold, with its own rigidity and classification structure — connecting it to the full enrichment chain." %}
+{% include claim-card.html title="Hodge Conjecture" url="/results/problem/hodge-conjecture-approach/" status="P" summary="The NF-Addressability Theorem (III.T28) resolves the Hodge statement within τ. Bridge to classical algebraic geometry conjectural." %}
+{% include claim-card.html title="BSD Conjecture" url="/results/problem/bsd-conjecture-approach/" status="P" summary="The BSD Coherence Theorem (III.T35) proves rank-L-value equality for τ-admissible elliptic data. Bridge to classical E/ℚ conjectural." %}
+{% include claim-card.html title="Grand GRH" url="/results/problem/grand-grh-approach/" status="P" summary="Grand GRH (III.D31) extends the Riemann claim to all automorphic L-functions via the Prime Polarity Scaling Theorem (III.T20)." %}
+{% include claim-card.html title="τ-Admissibility Collapse (P = NP)" url="/results/problem/tau-admissibility-collapse-p-np/" status="Q" summary="τ-P_adm = τ-NP_adm at E₂. The bridge to classical Turing-machine framing is acknowledged as broken — the two formulations address different computational substrates." %}
+{% include claim-card.html title="Langlands Program" url="/results/world-readout/mathematics/" status="P" summary="The Functoriality Theorem (III.T36) and Base Change (III.T37) establish the τ-internal Langlands correspondence. The full scope of the Langlands program's implications is developed in the Mathematics World Readout." %}
+</ul>
 
 ## Where to go deeper
 

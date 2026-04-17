@@ -25,67 +25,23 @@ The τ framework is built on a foundational substrate that differs from ZFC in i
 
 ## Key claims
 
-### [Gödel Avoidance]({{ '/results/problem/goedel-avoidance/' | relative_url }}) · Resolved
-
-Five mechanisms prevent diagonal self-negation in τ: Hyperfactorization, Tower Separation, Boundary Constraint, Orbit Directedness, and Carrier Closure. Gödel's theorems apply to systems meeting certain conditions — τ claims not to meet them.
-
-### [τ-Kernel Coherence]({{ '/results/problem/tau-kernel-coherence/' | relative_url }}) · Resolved
-
-The τ-Coherence Kernel is uniquely determined by seven axioms K0–K6 on five generators and one operator. The static kernel has a unique model up to isomorphism.
-
-### [Categoricity of τ]({{ '/results/problem/categoricity-of-tau/' | relative_url }}) · Resolved
-
-The framework is categorical: any two models satisfying K0–K6 are isomorphic. This is a stronger uniqueness property than most foundational systems achieve.
-
-### [Canonical Ladder Theorem]({{ '/results/problem/canonical-ladder-theorem/' | relative_url }}) · Resolved
-
-The enrichment chain E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal enrichment chain. No E₄ is possible — the enrichment series terminates.
-
-### [Central Theorem]({{ '/results/problem/central-theorem/' | relative_url }}) · Resolved
-
-O(τ³) ≅ A_spec(L): the algebra of holomorphic functions on the fibered product is isomorphic to the spectral algebra on the lemniscate boundary. This is the Central Theorem connecting interior and boundary.
-
-### [Earned Topos]({{ '/results/problem/earned-topos/' | relative_url }}) · Resolved
-
-The presheaf category over τ is a Grothendieck topos — earned from the kernel, not imported from external set theory.
-
-### [Yoneda Lemma]({{ '/results/problem/yoneda-lemma/' | relative_url }}) · Resolved
-
-The Yoneda Lemma holds in the τ-earned topos: objects are fully determined by their representable presheaves. This is foundational category theory — not imported, but derived from the kernel's self-enrichment structure.
-
-### [Stone Duality]({{ '/results/problem/stone-duality/' | relative_url }}) · Resolved
-
-Stone-type duality between Boolean algebras and totally disconnected compact Hausdorff spaces holds structurally in τ. The algebra/geometry correspondence is a consequence of the boundary-interior structure rather than an ad hoc construction.
-
-### [τ-Admissibility Collapse (P = NP)]({{ '/results/problem/tau-admissibility-collapse-p-np/' | relative_url }}) · Qualitative
-
-P = NP within τ-admissible computation. The classical formulation's complexity barrier is broken because τ's computational model is E₂-native, not reducible to Turing machines.
-
-### [Cantor Diagonal Inapplicability]({{ '/results/problem/cantor-diagonal-inapplicability/' | relative_url }}) · Resolved
-
-Cantor's diagonal argument does not apply within τ because the framework refuses the unrestricted self-application that the argument requires.
-
-### [Translation Functor τ → ZFC]({{ '/results/problem/translation-functor-tau-zfc/' | relative_url }}) · Partial
-
-A translation functor from τ to ZFC is constructible: ZFC can be instantiated inside τ as a formal symbolic machine, without τ granting ontic status to the set-theoretic hierarchy.
-
-### [ZFC Identity Slippage]({{ '/results/problem/structural-instability-zfc-identity-slippage/' | relative_url }}) · Contradicted
-
-Classical ZFC set theory's treatment of identity (via the Axiom of Choice and measurable-set behavior) is structurally unstable on the framework's reading. τ explicitly rejects the identity-slippage that ZFC permits — a falsifiable opposing stance, distinct from both constructivist and classical set-theoretic orthodoxy.
-
-### [Unique Infinity]({{ '/results/problem/unique-infinity/' | relative_url }}) · Resolved
-
-Omega is the unique infinity in τ. There is no proliferation of independent cardinals — infinity is global, not a hierarchy.
-
-### [Modal Logic S4 Theorem]({{ '/results/problem/modal-logic-s4-theorem/' | relative_url }}) · Resolved
-
-Modal logic S4 arises as a theorem within τ, not as an external import. The Kripke semantics are grounded in the framework's own structure.
-
-### [Hyperfactorization Theorem]({{ '/results/problem/hyperfactorization-theorem/' | relative_url }}) · Resolved
-
-Every object in τ has a unique canonical normal form via the ABCD coordinate chart, generalizing Gödel numbering.
-
----
+<ul class="results-browse-grid">
+{% include claim-card.html title="Gödel Avoidance" url="/results/problem/goedel-avoidance/" status="R" summary="Five mechanisms prevent diagonal self-negation in τ: Hyperfactorization, Tower Separation, Boundary Constraint, Orbit Directedness, and Carrier Closure. Gödel's theorems apply to systems meeting certain conditions — τ claims not to meet them." %}
+{% include claim-card.html title="τ-Kernel Coherence" url="/results/problem/tau-kernel-coherence/" status="R" summary="The τ-Coherence Kernel is uniquely determined by seven axioms K0–K6 on five generators and one operator. The static kernel has a unique model up to isomorphism." %}
+{% include claim-card.html title="Categoricity of τ" url="/results/problem/categoricity-of-tau/" status="R" summary="The framework is categorical: any two models satisfying K0–K6 are isomorphic. This is a stronger uniqueness property than most foundational systems achieve." %}
+{% include claim-card.html title="Canonical Ladder Theorem" url="/results/problem/canonical-ladder-theorem/" status="R" summary="The enrichment chain E₀ ⊊ E₁ ⊊ E₂ ⊊ E₃ is the unique maximal enrichment chain. No E₄ is possible — the enrichment series terminates." %}
+{% include claim-card.html title="Central Theorem" url="/results/problem/central-theorem/" status="R" summary="O(τ³) ≅ A_spec(L): the algebra of holomorphic functions on the fibered product is isomorphic to the spectral algebra on the lemniscate boundary. This is the Central Theorem connecting interior and boundary." %}
+{% include claim-card.html title="Earned Topos" url="/results/problem/earned-topos/" status="R" summary="The presheaf category over τ is a Grothendieck topos — earned from the kernel, not imported from external set theory." %}
+{% include claim-card.html title="Yoneda Lemma" url="/results/problem/yoneda-lemma/" status="R" summary="The Yoneda Lemma holds in the τ-earned topos: objects are fully determined by their representable presheaves. Foundational category theory — not imported, but derived from the kernel's self-enrichment structure." %}
+{% include claim-card.html title="Stone Duality" url="/results/problem/stone-duality/" status="R" summary="Stone-type duality between Boolean algebras and totally disconnected compact Hausdorff spaces holds structurally in τ. The algebra/geometry correspondence is a consequence of the boundary-interior structure, not an ad hoc construction." %}
+{% include claim-card.html title="Modal Logic S4 Theorem" url="/results/problem/modal-logic-s4-theorem/" status="R" summary="Modal logic S4 arises as a theorem within τ, not as an external import. The Kripke semantics are grounded in the framework's own structure." %}
+{% include claim-card.html title="Hyperfactorization Theorem" url="/results/problem/hyperfactorization-theorem/" status="R" summary="Every object in τ has a unique canonical normal form via the ABCD coordinate chart, generalizing Gödel numbering." %}
+{% include claim-card.html title="Cantor Diagonal Inapplicability" url="/results/problem/cantor-diagonal-inapplicability/" status="R" summary="Cantor's diagonal argument does not apply within τ because the framework refuses the unrestricted self-application that the argument requires." %}
+{% include claim-card.html title="Unique Infinity" url="/results/problem/unique-infinity/" status="R" summary="Omega is the unique infinity in τ. There is no proliferation of independent cardinals — infinity is global, not a hierarchy." %}
+{% include claim-card.html title="τ-Admissibility Collapse (P = NP)" url="/results/problem/tau-admissibility-collapse-p-np/" status="Q" summary="P = NP within τ-admissible computation. The classical formulation's complexity barrier is broken because τ's computational model is E₂-native, not reducible to Turing machines." %}
+{% include claim-card.html title="Translation Functor τ → ZFC" url="/results/problem/translation-functor-tau-zfc/" status="P" summary="A translation functor from τ to ZFC is constructible: ZFC can be instantiated inside τ as a formal symbolic machine, without τ granting ontic status to the set-theoretic hierarchy." %}
+{% include claim-card.html title="ZFC Identity Slippage" url="/results/problem/structural-instability-zfc-identity-slippage/" status="C" summary="Classical ZFC's treatment of identity (via the Axiom of Choice and measurable-set behavior) is structurally unstable on the framework's reading. τ explicitly rejects the identity-slippage that ZFC permits — a falsifiable opposing stance." %}
+</ul>
 
 ## Where to go deeper
 

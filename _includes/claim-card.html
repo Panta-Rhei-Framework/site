@@ -1,0 +1,34 @@
+{%- comment -%}
+  Glassmorphic claim card for field-briefing pages.
+  Reuses the .result-card + .result-card-link + .chip-status-* classes from
+  _sass/_results-browse.scss (same as the Browse All Claims grid).
+
+  Parameters:
+    title   — human-readable claim title
+    url     — absolute path to the claim detail page (e.g., /results/problem/<slug>/)
+    status  — one of: R | P | Q | C | N
+    summary — short descriptive blurb (clamped to 3 lines via CSS)
+
+  Usage:
+    <ul class="results-browse-grid">
+    {% include claim-card.html title="What Is Life" url="/results/problem/what-is-life/" status="R" summary="Life is categorically defined …" %}
+    </ul>
+{%- endcomment -%}
+{%- assign status_code = include.status | downcase -%}
+{%- case include.status -%}
+  {%- when "R" -%}{%- assign status_label = "Resolved" -%}
+  {%- when "P" -%}{%- assign status_label = "Partial" -%}
+  {%- when "Q" -%}{%- assign status_label = "Qualitative" -%}
+  {%- when "C" -%}{%- assign status_label = "Contradicted" -%}
+  {%- when "N" -%}{%- assign status_label = "Not Addressed" -%}
+  {%- else -%}{%- assign status_label = include.status -%}
+{%- endcase -%}
+<li class="result-card" data-status="{{ include.status }}">
+  <a class="result-card-link" href="{{ include.url | relative_url }}">
+    <div class="result-card-top">
+      <span class="chip chip-status chip-status-{{ status_code }}">{{ status_label }}</span>
+    </div>
+    <h3 class="result-card-title">{{ include.title }}</h3>
+    <p class="result-card-summary">{{ include.summary }}</p>
+  </a>
+</li>

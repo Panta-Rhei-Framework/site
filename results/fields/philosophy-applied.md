@@ -25,67 +25,23 @@ Applied philosophy in τ is not a loose collection of topics but a coherent prog
 
 ## Key claims
 
-### [Categorical Imperative as Fixed Point]({{ '/results/problem/categorical-imperative-fixed-point/' | relative_url }}) · Resolved
-
-Kant's Categorical Imperative is the unique j-closed fixed point of the τ-digestion operator (VII.T35). Ethics is derived from the kernel's structure, not imported as a philosophical axiom.
-
-### [Categorical Imperative Derivation]({{ '/results/problem/categorical-imperative-derivation/' | relative_url }}) · Resolved
-
-The CI is not merely claimed to be a fixed point but explicitly derived as structurally necessary at E₃. Stage CI (VII.P21) establishes that the ethical constraint is unavoidable for any sufficiently reflective system.
-
-### [Is-Ought Gap Bridged]({{ '/results/problem/is-ought-gap-bridged/' | relative_url }}) · Resolved
-
-Hume's is-ought gap — the classical objection that moral conclusions cannot be derived from factual premises — is bridged structurally: the E₃ architecture produces normativity as a readout of its own reflective structure, not as an extra axiom smuggled in.
-
-### [Moral Realism Derived]({{ '/results/problem/moral-realism-derived/' | relative_url }}) · Resolved
-
-Moral realism is derived rather than assumed. Moral facts are structural invariants of E₃ reflective systems, accessible through the same reading-out procedure that yields the Categorical Imperative.
-
-### [Free Will and Moral Responsibility]({{ '/results/problem/free-will-and-moral-responsibility/' | relative_url }}) · Resolved
-
-The free-will-and-moral-responsibility problem is resolved by distinguishing scales: the agent's branching at E₃ grounds moral responsibility, while the neural-scale determinism at E₂ does not undercut it. Compatibilism is dissolved as a scale confusion.
-
-### [Animal Rights and Dignity]({{ '/results/problem/animal-rights-and-dignity/' | relative_url }}) · Resolved
-
-Dignity is a structural status (VII.D65) belonging to any entity occupying E₃ reflective capacity. Animal rights and dignity receive a graded structural treatment rather than an all-or-nothing verdict — vindicating neither pure speciesism nor total biocentrism.
-
-### [Political Legitimacy]({{ '/results/problem/political-legitimacy/' | relative_url }}) · Resolved
-
-Political legitimacy — the question of what grounds the authority of institutions to issue binding rules — is addressed through the framework's treatment of collective E₃ structure. Legitimacy is derived from structural consent conditions, not from fiat or pure social convention.
-
-### [Definition of Beauty]({{ '/results/problem/definition-of-beauty/' | relative_url }}) · Resolved
-
-Beauty is defined as structural invariance (VII.T19): what survives all admissible transformations is beautiful. Not subjective preference but a structural property — vindicating the objective-aesthetics tradition from Kant onward on rigorous grounds.
-
-### [Beauty and Truth]({{ '/results/problem/beauty-and-truth/' | relative_url }}) · Resolved
-
-Beauty and truth are structurally related at E₃: both are expressions of the same coherence structure, readable from different registers. Keats's "Beauty is truth, truth beauty" is given a precise meaning — not as poetic hyperbole but as a statement about the convergence of aesthetic and epistemic invariants.
-
-### [The Sublime]({{ '/results/problem/the-sublime/' | relative_url }}) · Resolved
-
-The Kantian sublime — the aesthetic response to the overwhelmingly great — is given a structural reading: the sublime is the felt presence of a structure that exceeds the reflective register's local capacity to bound it. Distinct from beauty (which is structural invariance) but related through the same E₃ architecture.
-
-### [Reference Problem]({{ '/results/problem/reference-problem/' | relative_url }}) · Resolved
-
-How words refer to things — the core problem of philosophy of language since Frege — is resolved through the framework's boundary-character correspondence: reference is not a mental pointing but a structural alignment between linguistic and worldly τ-objects.
-
-### [Gavagai and Indeterminacy of Translation]({{ '/results/problem/gavagai-and-indeterminacy-of-translation/' | relative_url }}) · Resolved
-
-Quine's indeterminacy-of-translation thesis is addressed: while radical translation underdetermines reference at the level of observational sentences, the boundary-character structure at E₃ provides convergence conditions that fix translation beyond the Quinean minimum.
-
-### [Private Language Argument]({{ '/results/problem/private-language-argument/' | relative_url }}) · Resolved
-
-Wittgenstein's private language argument is vindicated structurally: meaning requires public criteria, and these are grounded in the shared boundary characters that define τ-objects across observers. There is no private language because there is no private structural position.
-
-### [Intentionality]({{ '/results/problem/intentionality/' | relative_url }}) · Resolved
-
-Franz Brentano's mark of the mental — the intrinsic aboutness of mental states — receives a structural derivation: intentionality is the E₃ self-model's orientation toward boundary-character structures. Not a primitive but a readout of the reflective architecture.
-
-### [Extended Mind]({{ '/results/problem/extended-mind/' | relative_url }}) · Resolved
-
-The Clark-Chalmers extended-mind thesis is vindicated on structural grounds: cognition is not skull-bound but extends to whatever τ-objects participate in the E₃ self-model's active configuration. External artifacts, when structurally integrated, genuinely constitute part of the mind.
-
----
+<ul class="results-browse-grid">
+{% include claim-card.html title="Categorical Imperative as Fixed Point" url="/results/problem/categorical-imperative-fixed-point/" status="R" summary="Kant's Categorical Imperative is the unique j-closed fixed point of the τ-digestion operator (VII.T35). Ethics is derived from the kernel's structure, not imported as a philosophical axiom." %}
+{% include claim-card.html title="Categorical Imperative Derivation" url="/results/problem/categorical-imperative-derivation/" status="R" summary="The CI is not merely claimed to be a fixed point but explicitly derived as structurally necessary at E₃. Stage CI (VII.P21) establishes that the ethical constraint is unavoidable for any sufficiently reflective system." %}
+{% include claim-card.html title="Is-Ought Gap Bridged" url="/results/problem/is-ought-gap-bridged/" status="R" summary="Hume's is-ought gap — the classical objection that moral conclusions cannot be derived from factual premises — is bridged structurally: the E₃ architecture produces normativity as a readout of its own reflective structure, not as an extra axiom smuggled in." %}
+{% include claim-card.html title="Moral Realism Derived" url="/results/problem/moral-realism-derived/" status="R" summary="Moral realism is derived rather than assumed. Moral facts are structural invariants of E₃ reflective systems, accessible through the same reading-out procedure that yields the Categorical Imperative." %}
+{% include claim-card.html title="Free Will and Moral Responsibility" url="/results/problem/free-will-and-moral-responsibility/" status="R" summary="The free-will-and-moral-responsibility problem is resolved by distinguishing scales: the agent's branching at E₃ grounds moral responsibility, while neural-scale determinism at E₂ does not undercut it. Compatibilism is dissolved as a scale confusion." %}
+{% include claim-card.html title="Animal Rights and Dignity" url="/results/problem/animal-rights-and-dignity/" status="R" summary="Dignity is a structural status (VII.D65) belonging to any entity occupying E₃ reflective capacity. Animal rights and dignity receive a graded structural treatment rather than an all-or-nothing verdict — vindicating neither pure speciesism nor total biocentrism." %}
+{% include claim-card.html title="Political Legitimacy" url="/results/problem/political-legitimacy/" status="R" summary="Political legitimacy — the question of what grounds the authority of institutions to issue binding rules — is addressed through the framework's treatment of collective E₃ structure. Legitimacy is derived from structural consent conditions, not from fiat or pure social convention." %}
+{% include claim-card.html title="Definition of Beauty" url="/results/problem/definition-of-beauty/" status="R" summary="Beauty is defined as structural invariance (VII.T19): what survives all admissible transformations is beautiful. Not subjective preference but a structural property — vindicating the objective-aesthetics tradition from Kant onward on rigorous grounds." %}
+{% include claim-card.html title="Beauty and Truth" url="/results/problem/beauty-and-truth/" status="R" summary="Beauty and truth are structurally related at E₃: both are expressions of the same coherence structure, readable from different registers. Keats's Beauty is truth, truth beauty is given a precise meaning — a convergence of aesthetic and epistemic invariants." %}
+{% include claim-card.html title="The Sublime" url="/results/problem/the-sublime/" status="R" summary="The Kantian sublime — the aesthetic response to the overwhelmingly great — is given a structural reading: the sublime is the felt presence of a structure that exceeds the reflective register's local capacity to bound it. Distinct from beauty but related through the same E₃ architecture." %}
+{% include claim-card.html title="Reference Problem" url="/results/problem/reference-problem/" status="R" summary="How words refer to things — the core problem of philosophy of language since Frege — is resolved through the framework's boundary-character correspondence: reference is not a mental pointing but a structural alignment between linguistic and worldly τ-objects." %}
+{% include claim-card.html title="Gavagai and Indeterminacy of Translation" url="/results/problem/gavagai-and-indeterminacy-of-translation/" status="R" summary="Quine's indeterminacy-of-translation thesis is addressed: while radical translation underdetermines reference at the level of observational sentences, the boundary-character structure at E₃ provides convergence conditions that fix translation beyond the Quinean minimum." %}
+{% include claim-card.html title="Private Language Argument" url="/results/problem/private-language-argument/" status="R" summary="Wittgenstein's private language argument is vindicated structurally: meaning requires public criteria, and these are grounded in the shared boundary characters that define τ-objects across observers. There is no private language because there is no private structural position." %}
+{% include claim-card.html title="Intentionality" url="/results/problem/intentionality/" status="R" summary="Brentano's mark of the mental — the intrinsic aboutness of mental states — receives a structural derivation: intentionality is the E₃ self-model's orientation toward boundary-character structures. Not a primitive but a readout of the reflective architecture." %}
+{% include claim-card.html title="Extended Mind" url="/results/problem/extended-mind/" status="R" summary="The Clark-Chalmers extended-mind thesis is vindicated on structural grounds: cognition is not skull-bound but extends to whatever τ-objects participate in the E₃ self-model's active configuration. External artifacts, when structurally integrated, genuinely constitute part of the mind." %}
+</ul>
 
 ## Where to go deeper
 
