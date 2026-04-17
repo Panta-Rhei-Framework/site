@@ -49,6 +49,10 @@ The dark energy equation of state is derived as a structural feature of the boun
 
 Cosmological inflation is read out from the framework's own temporal ignition mechanism, not imported as an independent inflaton sector.
 
+### [Horizon Problem]({{ '/results/problem/horizon-problem/' | relative_url }}) · Resolved
+
+The horizon problem is structurally dissolved (V.P91): τ³ = τ¹ ×_f T² is compact as a fibered product of compact spaces (V.T106), so all regions of the last-scattering surface are causally ordered through the refinement tower. CMB uniformity at ~10⁻⁵ follows from global compactness — no inflationary stretching of a causally-connected patch required.
+
 ### [Baryon Asymmetry]({{ '/results/problem/baryon-asymmetry/' | relative_url }}) · Resolved
 
 The baryon-to-photon ratio η_B is derived from sector-coupling structure. The matter-antimatter asymmetry does not require new CP violation beyond the framework.

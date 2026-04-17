@@ -101,6 +101,10 @@ Supersymmetry is not needed: the hierarchy problem is dissolved structurally, no
 
 div B = 0 follows from d² = 0 on the EM gauge bundle, proved as the Homogeneous Maxwell Equations theorem (IV.T42). Magnetic monopoles are structurally forbidden by the Bianchi identity — not merely unobserved.
 
+### [Proton Stability]({{ '/results/problem/proton-stability/' | relative_url }}) · Resolved
+
+Proton stability is a structural theorem (IV.T72): the Confinement Theorem (IV.T71) forbids any isolated color-charged state from attaining a stable address on L, so no baryon-number-violating decay is admissible. Prediction: τ_p = ∞ exactly — distinct from GUT predictions (~10³³-10³⁵ yr, excluded by Super-K) and from the Standard Model's accidental conservation.
+
 ### [QCD Confinement]({{ '/results/problem/qcd-confinement/' | relative_url }}) · Partial
 
 Color confinement in the strong sector is addressed through NF-discreteness of the C/η sector: quarks cannot be isolated because the sector's spectral structure does not permit deconfined color charges. Bridge to lattice QCD in development.
