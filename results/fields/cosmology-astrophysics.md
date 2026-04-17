@@ -101,6 +101,10 @@ Exact spatial flatness Ω_k = 0 follows from τ³ compactness — not fine-tuned
 
 The arrow of time is derived from the unique direction of the α-orbit. Irreversibility is structural, not statistical.
 
+### [Ultimate Fate of the Universe (Universal Black Hole)]({{ '/results/problem/far-future-cosmology-and-universal-bh/' | relative_url }}) · Resolved
+
+The τ-framework's Crossing-Limit theorem predicts the far-future asymptotic state: all matter converges toward black holes, and the Universe settles into a Universal BH configuration. This is a structural prediction, distinct from the orthodox Big Freeze / Big Rip / Big Crunch taxonomy — and distinct from any fine-tuned dark-energy extrapolation.
+
 ### [Deuterium Abundance]({{ '/results/problem/deuterium-abundance/' | relative_url }}) · Resolved
 
 Primordial deuterium abundance is derived from BBN dynamics within the sector-coupled framework.
@@ -119,4 +123,5 @@ The cosmological lithium problem — observed ⁷Li/H is 3× lower than standard
 
 - [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) — the full world-picture
 - [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
-- [Unsolved problems in physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics) — Wikipedia's canonical list of recognized open problems
+- [Unsolved problems in physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics) — Wikipedia's canonical list of recognized open physics problems
+- [Unsolved problems in astronomy](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_astronomy) — Wikipedia's dedicated list for astronomy-specific open problems
