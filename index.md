@@ -46,8 +46,8 @@ right_rail:
   <p>The program binds itself to strong constraints. Every mathematical tool is <em>earned</em> from five generators, seven axioms, and one operator&mdash;not imported from existing mathematics. Every scope claim carries an explicit label: established, tau-effective, conjectural, or metaphorical. Every derivation chain is machine-checked in Lean 4.</p>
   <p>The stronger the claimed scope, the stricter the foundation must be. This is not a design choice&mdash;it is a structural necessity. A framework that claims to derive both the Higgs mass and the Categorical Imperative from the same kernel must be maximally constrained, or it is merely telling stories.</p>
   <div class="btn-group section-ctas">
-    <a href="{{ '/research-program/about/' | relative_url }}" class="btn-secondary">About the Research</a>
-    <a href="{{ '/research-program/about/core-design-principles/' | relative_url }}" class="btn-ghost">Core Design Principles</a>
+    <a href="{{ '/research-program/about/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="section" label="About the Research" href="/research-program/about/" %}>About the Research</a>
+    <a href="{{ '/research-program/about/core-design-principles/' | relative_url }}" class="btn-ghost" {% include cta-attrs.html location="section" label="Core Design Principles" href="/research-program/about/core-design-principles/" %}>Core Design Principles</a>
   </div>
 </div>
 
@@ -63,8 +63,8 @@ right_rail:
   </ul>
   <p>The master constant &iota;<sub>&tau;</sub> = 2/(&pi;+e) governs all quantitative predictions. Zero free parameters.</p>
   <div class="btn-group section-ctas">
-    <a href="{{ '/framework/about/' | relative_url }}" class="btn-secondary">Framework Overview</a>
-    <a href="{{ '/verify/taulib/' | relative_url }}" class="btn-ghost">TauLib Documentation</a>
+    <a href="{{ '/framework/about/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="section" label="Framework Overview" href="/framework/about/" %}>Framework Overview</a>
+    <a href="{{ '/verify/taulib/' | relative_url }}" class="btn-ghost" {% include cta-attrs.html location="section" label="TauLib Documentation" href="/verify/taulib/" %}>TauLib Documentation</a>
   </div>
 </div>
 
@@ -89,9 +89,9 @@ right_rail:
   </ul>
   <p>Every claim carries one of five statuses: <strong>Resolved &middot; Partial &middot; Qualitative &middot; Contradicted &middot; Not Addressed</strong>. The typing is not optional&mdash;it is the program&rsquo;s principal epistemic commitment. Three Contradicted stances (No Hawking Radiation, Panpsychism Excluded, ZFC Identity Slippage) show the framework takes falsifiable opposing positions where appropriate. The 67 numerical predictions are <strong>bridge-independent</strong>: they can be compared directly to experimental measurement without accepting deeper ontological claims.</p>
   <div class="btn-group section-ctas">
-    <a href="{{ '/results/' | relative_url }}" class="btn-secondary">Browse Claims Lane</a>
-    <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-secondary">67 Predictions</a>
-    <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost">Falsification Pack</a>
+    <a href="{{ '/results/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="section" label="Browse Claims Lane" href="/results/" %}>Browse Claims Lane</a>
+    <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="section" label="67 Predictions" href="/results/predictions/browse/" %}>67 Predictions</a>
+    <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" {% include cta-attrs.html location="section" label="Falsification Pack" href="/results/falsifications/browse/" %}>Falsification Pack</a>
   </div>
 </div>
 
@@ -109,10 +109,10 @@ right_rail:
   </ul>
   <p>The decisive empirical test: CMB-S4 will measure the tensor-to-scalar ratio <em>r</em>. The &tau;-prediction is <em>r</em> = &iota;<sub>&tau;</sub><sup>4</sup> &asymp; 0.0136, testable at 14&sigma; significance. If <em>r</em> is inconsistent, the framework&rsquo;s cosmological predictions fail.</p>
   <div class="btn-group section-ctas">
-    <a href="{{ '/publications/books/' | relative_url }}" class="btn-secondary">Get the Books</a>
-    <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download>Physics Ledger (PDF)</a>
-    <a href="{{ '/verify/' | relative_url }}" class="btn-ghost">Verify</a>
-    <a href="{{ '/registry/' | relative_url }}" class="btn-ghost">Registry</a>
+    <a href="{{ '/publications/books/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="section" label="Get the Books" href="/publications/books/" %}>Get the Books</a>
+    <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download {% include cta-attrs.html location="section" label="Physics Ledger PDF" href="/assets/downloads/physics-ledger.pdf" %}>Physics Ledger (PDF)</a>
+    <a href="{{ '/verify/' | relative_url }}" class="btn-ghost" {% include cta-attrs.html location="section" label="Verify" href="/verify/" %}>Verify</a>
+    <a href="{{ '/registry/' | relative_url }}" class="btn-ghost" {% include cta-attrs.html location="section" label="Registry" href="/registry/" %}>Registry</a>
   </div>
 </div>
 
@@ -128,7 +128,7 @@ right_rail:
   </ul>
   <p>The word <em>if</em> is load-bearing. These are scenario analyses, not predictions of social adoption. The framework must survive empirical testing before any downstream consequence becomes real. The program is independent research&mdash;not yet peer-reviewed in traditional journals. All claims carry explicit scope labels.</p>
   <div class="btn-group section-ctas">
-    <a href="{{ '/impact/' | relative_url }}" class="btn-secondary">Potential Impact</a>
+    <a href="{{ '/impact/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="section" label="Potential Impact" href="/impact/" %}>Potential Impact</a>
   </div>
 </div>
 

@@ -6,9 +6,9 @@ layout: default
   <span class="eyebrow">Registry · Dashboard</span>
   <h1>{{ page.title }}</h1>
   <div class="btn-group">
-    <a href="{{ '/registry/books/' | append: page.book_slug | append: '/' | relative_url }}" class="btn-secondary">Browse Objects</a>
-    <a href="{{ '/registry/' | relative_url }}" class="btn-secondary">All Books</a>
-    <a href="{{ '/verify/filter-rules/' | relative_url }}" class="btn-secondary">Filter Rules</a>
+    <a href="{{ '/registry/books/' | append: page.book_slug | append: '/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="nav" event="nav-browse-objects" href="/registry/books/" %}>Browse Objects</a>
+    <a href="{{ '/registry/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="nav" event="nav-all-books" href="/registry/" %}>All Books</a>
+    <a href="{{ '/verify/filter-rules/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="nav" event="nav-filter-rules" href="/verify/filter-rules/" %}>Filter Rules</a>
   </div>
 </div>
 

@@ -21,7 +21,7 @@
     {% if tag != "" %}<input type="hidden" name="tag" value="{{ tag }}">{% endif %}
     <label for="bd-email-compact-{{ tag | default: 'default' }}" class="sr-only">Email address</label>
     <input type="email" name="email" id="bd-email-compact-{{ tag | default: 'default' }}" placeholder="your@email.com" required class="bd-input">
-    <button type="submit" class="btn-secondary bd-button">{{ bd.button_label }}</button>
+    <button type="submit" class="btn-secondary bd-button" {% include cta-attrs.html location="subscribe" event="subscribe-newsletter-submit" variant="compact" %}>{{ bd.button_label }}</button>
   </form>
   <div class="bd-privacy">{{ bd.privacy_note }}</div>
 </div>
@@ -37,7 +37,7 @@
     <div class="bd-field-row">
       <label for="bd-email-{{ tag | default: 'default' }}" class="sr-only">Email address</label>
       <input type="email" name="email" id="bd-email-{{ tag | default: 'default' }}" placeholder="your@email.com" required class="bd-input">
-      <button type="submit" class="btn-secondary bd-button">{{ bd.button_label }}</button>
+      <button type="submit" class="btn-secondary bd-button" {% include cta-attrs.html location="subscribe" event="subscribe-newsletter-submit" variant="standard" %}>{{ bd.button_label }}</button>
     </div>
   </form>
   <div class="bd-privacy">{{ bd.privacy_note }} See our <a href="{{ '/datenschutz/' | relative_url }}">privacy notice</a>.</div>

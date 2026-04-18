@@ -1,0 +1,28 @@
+{%- comment -%}
+Emits Umami event-tracking attributes for a CTA button. Invoke as:
+
+  {% include cta-attrs.html location="hero" label="Get the Books" href="/publications/" %}
+  {% include cta-attrs.html location="hero" event="hero-get-books" href=cta.url %}
+
+Parameters:
+  location  — required. Context prefix: hero | nav | section | publication | subscribe | copy
+  label     — button text; used to auto-derive event name if `event` is not given
+  href      — anchor href; used to set data-umami-event-type (internal | external)
+  event     — optional. Explicit event name (bypasses label auto-derivation). Stable against label edits.
+  variant   — optional. Extra custom property (e.g., "inline" vs "footer" for subscribe).
+
+Output attributes:
+  data-umami-event         — kebab-case, ≤50 chars
+  data-umami-event-location — the location prefix
+  data-umami-event-type     — "external" if href contains "://", else "internal"
+  data-umami-event-variant  — only if `variant` was provided
+{%- endcomment -%}
+{%- assign _event = include.event -%}
+{%- if _event == nil or _event == "" -%}
+  {%- assign _slug = include.label | default: "cta" | downcase | replace: " ", "-" | replace: "&", "and" | replace: ",", "" | replace: ".", "" | replace: "'", "" | replace: ":", "" | replace: "/", "-" | replace: "(", "" | replace: ")", "" | replace: "—", "-" | replace: "–", "-" -%}
+  {%- assign _event = include.location | append: "-" | append: _slug -%}
+{%- endif -%}
+{%- assign _href = include.href | default: "" -%}
+{%- assign _type = "internal" -%}
+{%- if _href contains "://" -%}{%- assign _type = "external" -%}{%- endif -%}
+data-umami-event="{{ _event | slice: 0, 50 }}" data-umami-event-location="{{ include.location }}" data-umami-event-type="{{ _type }}"{% if include.variant %} data-umami-event-variant="{{ include.variant }}"{% endif %}

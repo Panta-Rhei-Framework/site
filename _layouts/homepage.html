@@ -30,7 +30,7 @@ layout: default
     {%- endif -%}
     {%- assign is_external = false -%}
     {%- if cta.url contains '://' -%}{%- assign is_external = true -%}{%- endif -%}
-    <a href="{{ cta.url | relative_url }}" class="{{ cta_class }}"{% if is_external %} target="_blank" rel="noopener"{% endif %}>{{ cta.label }}</a>
+    <a href="{{ cta.url | relative_url }}" class="{{ cta_class }}"{% if is_external %} target="_blank" rel="noopener"{% endif %} {% include cta-attrs.html location="hero" label=cta.label href=cta.url event=cta.event %}>{{ cta.label }}</a>
     {% endfor %}
   </div>
   {% if page.hero_supporting_line %}

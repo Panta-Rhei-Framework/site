@@ -31,9 +31,9 @@ layout: default
       {% endif %}
       {% if amazon %}
       <div class="btn-group" style="margin-top: 14px;">
-        <a href="#available-formats" class="btn-ghost">Available on Amazon</a>
+        <a href="#available-formats" class="btn-ghost" {% include cta-attrs.html location="hero" event="hero-scroll-to-formats" href="#available-formats" %}>Available on Amazon</a>
         {% if doi_entry %}
-        <a href="#{{ 'citation-doi' | slugify }}" class="btn-ghost">Cite / DOI</a>
+        <a href="#{{ 'citation-doi' | slugify }}" class="btn-ghost" {% include cta-attrs.html location="hero" event="hero-scroll-to-doi" href="#citation-doi" %}>Cite / DOI</a>
         {% endif %}
       </div>
       {% endif %}
@@ -75,11 +75,11 @@ layout: default
       {{ doi_entry.creators | join: " & " }} (<time datetime="{{ doi_entry.publication_date }}">{{ doi_entry.publication_date | slice: 0, 4 }}</time>). <em>{{ doi_entry.title }}: {{ doi_entry.subtitle }}</em>. Panta Rhei Research Program, 2nd Edition. Zenodo. <a href="{{ doi_entry.version_doi_url }}" target="_blank" rel="noopener">{{ doi_entry.version_doi_url }}</a>
     </div>
     <div class="doi-meta">
-      <a href="{{ doi_entry.record_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Zenodo Record</a>
+      <a href="{{ doi_entry.record_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-zenodo-record" href=doi_entry.record_url variant=page.book_slug %}>Zenodo Record</a>
       {% if doi_entry.concept_doi_url %}
-      <a href="{{ doi_entry.concept_doi_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener">All Versions</a>
+      <a href="{{ doi_entry.concept_doi_url }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-zenodo-all-versions" href=doi_entry.concept_doi_url variant=page.book_slug %}>All Versions</a>
       {% endif %}
-      <a href="{{ '/cite/' | relative_url }}" class="btn-secondary format-btn">Cite All Books</a>
+      <a href="{{ '/cite/' | relative_url }}" class="btn-secondary format-btn" {% include cta-attrs.html location="publication" event="publication-cite-all-books" href="/cite/" variant=page.book_slug %}>Cite All Books</a>
     </div>
     <p class="doi-note">Canonical DOI for the current 2nd-edition manuscript record. Retail formats (Kindle, hardcover, paperback) share the same manuscript content.</p>
   </div>
@@ -103,8 +103,8 @@ layout: default
       <div class="format-price">${{ amazon.ebook_price_usd }}</div>
       <div class="format-asin">ASIN {{ amazon.ebook_asin }}</div>
       <div class="format-links">
-        <a href="{{ amazon.ebook_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.de</a>
-        <a href="{{ amazon.ebook_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.com</a>
+        <a href="{{ amazon.ebook_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-ebook-amazon-de" href=amazon.ebook_url_amazon_de variant=page.book_slug %}>Amazon.de</a>
+        <a href="{{ amazon.ebook_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-ebook-amazon-com" href=amazon.ebook_url_amazon_com variant=page.book_slug %}>Amazon.com</a>
       </div>
     </div>
 
@@ -120,8 +120,8 @@ layout: default
       <div class="format-price">${{ amazon.hardcover_price_usd }}</div>
       <div class="format-asin">ASIN {{ amazon.hardcover_asin }}</div>
       <div class="format-links">
-        <a href="{{ amazon.hardcover_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.de</a>
-        <a href="{{ amazon.hardcover_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.com</a>
+        <a href="{{ amazon.hardcover_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-hardcover-amazon-de" href=amazon.hardcover_url_amazon_de variant=page.book_slug %}>Amazon.de</a>
+        <a href="{{ amazon.hardcover_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-hardcover-amazon-com" href=amazon.hardcover_url_amazon_com variant=page.book_slug %}>Amazon.com</a>
       </div>
     </div>
 
@@ -139,8 +139,8 @@ layout: default
       <div class="format-price">${{ amazon.paperback_price_usd }}</div>
       <div class="format-asin">ASIN {{ amazon.paperback_asin }}</div>
       <div class="format-links">
-        <a href="{{ amazon.paperback_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.de</a>
-        <a href="{{ amazon.paperback_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener">Amazon.com</a>
+        <a href="{{ amazon.paperback_url_amazon_de }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-paperback-amazon-de" href=amazon.paperback_url_amazon_de variant=page.book_slug %}>Amazon.de</a>
+        <a href="{{ amazon.paperback_url_amazon_com }}" class="btn-secondary format-btn" target="_blank" rel="noopener" {% include cta-attrs.html location="publication" event="publication-paperback-amazon-com" href=amazon.paperback_url_amazon_com variant=page.book_slug %}>Amazon.com</a>
       </div>
     </div>
 

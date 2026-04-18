@@ -22,6 +22,9 @@ function copyPrompt(id) {
     label.textContent = 'Copied!';
     btn.classList.add('copied');
     setTimeout(function() { label.textContent = 'Copy'; btn.classList.remove('copied'); }, 2000);
+    if (window.umami && typeof window.umami.track === 'function') {
+      window.umami.track('copy-assessment-prompt', { location: 'copy', 'prompt-id': id });
+    }
   });
 }
 </script>

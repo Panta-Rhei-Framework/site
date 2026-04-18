@@ -18,7 +18,7 @@ layout: default
   <div class="btn-group">
     {% if page.portfolio_id != "" %}
     {% assign pf_slug = page.portfolio_id | replace: "impact-", "" %}
-    <a href="{{ '/impact/portfolio/' | append: pf_slug | append: '/' | relative_url }}" class="btn-secondary">Back to Portfolio</a>
+    <a href="{{ '/impact/portfolio/' | append: pf_slug | append: '/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="nav" event="nav-back-to-portfolio" href="/impact/portfolio/" %}>Back to Portfolio</a>
     {% endif %}
   </div>
 </header>
