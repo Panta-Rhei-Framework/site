@@ -39,6 +39,7 @@ filter_rules:
       - "registry/index.md (line 33)"
       - "registry/books/book-{i..vii}.md (frontmatter: object_count)"
       - "verify/release-manifest.md (per-book reconciliation table, 'Registry root' column)"
+      - "verify/filter-rules.md (authoritative public manifest)"
 
   dashboard_display:
     name: "dashboard_display"
@@ -63,7 +64,9 @@ filter_rules:
       book_vii: 273
     displayed_on:
       - "registry/dashboards/book-{i..vii}.md ('Total objects' line in Statistics section)"
+      - "registry/dashboards/book-{i..vii}.md (filter-rule attribution banner, via _layouts/registry-dashboard.html)"
       - "verify/release-manifest.md (per-book reconciliation table, 'Dashboard total' column)"
+      - "verify/filter-rules.md (authoritative public manifest)"
 
   taulib_modules:
     name: "taulib_modules"
@@ -89,6 +92,7 @@ filter_rules:
     displayed_on:
       - "verify/taulib/status.md (Per-Book Breakdown)"
       - "verify/release-manifest.md (per-book reconciliation table, 'TauLib modules' column)"
+      - "verify/filter-rules.md (authoritative public manifest)"
       - "_data/verify/build.yml (indirect, via description field)"
 
   formalized_count:
@@ -112,6 +116,7 @@ filter_rules:
     displayed_on:
       - "registry/dashboards/book-{i..vii}.md (Statistics: Formalization line)"
       - "verify/release-manifest.md (per-book reconciliation table, 'Formalized' column)"
+      - "verify/filter-rules.md (authoritative public manifest)"
 
   planned_count:
     name: "planned_count"
