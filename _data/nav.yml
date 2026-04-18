@@ -110,14 +110,18 @@ results_nav:
       - title: "Applied Philosophy"
         url: "/results/fields/philosophy-applied/"
 
-  - title: "Appendix · Browse & Reference"
+  - title: "Physics Ledger"
     children:
-      - title: "Browse All Claims"
-        url: "/results/browse/"
       - title: "Predictions (67)"
         url: "/results/predictions/browse/"
       - title: "Falsifications (N1–N30)"
         url: "/results/falsifications/browse/"
+
+  - title: "Browse All Claims"
+    url: "/results/browse/"
+
+  - title: "Reader Guidance"
+    children:
       - title: "Why So Many Claims"
         url: "/results/why-so-many-results/"
       - title: "How to Read a Claim"

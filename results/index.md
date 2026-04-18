@@ -39,9 +39,14 @@ Every claim distinguishes:
 
 Every claim carries an explicit [scope label]({{ '/results/status-and-claim-typing/' | relative_url }}). For guidance on reading claim pages, see [How to Read a Claim Page]({{ '/results/how-to-read-a-result-page/' | relative_url }}).
 
-## Two Readings of the Claims Lane
+## Reading the Claims Lane
 
-The Framework lane answers **how** the τ machinery is built. The Claims lane answers **what that machinery delivers** — and that comes in two complementary readings, each serving a different epistemic need. The raw claim catalogue is available as an **Appendix** for direct browsing.
+The Framework lane answers **how** the τ machinery is built. The Claims lane answers **what that machinery delivers**, in two complementary readings plus two catalogue surfaces:
+
+1. **Reading 1 · World Readouts** — τ's own-terms ontology, layer by layer
+2. **Reading 2 · Field Briefings** — τ's verdict on recognized open problems, cross-walked against canonical external lists
+3. **Physics Ledger** — 67 zero-parameter numerical predictions and 30 named falsifications (the framework's most directly testable content)
+4. **Browse All Claims** — the raw 250+ claim catalogue with client-side filters
 
 Before either reading, the [Claims Introduction]({{ '/results/prologue/' | relative_url }}) explains what counts as a claim — [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) sets the first epistemic stance.
 
@@ -121,19 +126,20 @@ Ten **Field Briefings**, each explicitly cross-walked against a canonical extern
 
 ---
 
-## Appendix · Browse & Reference
+## Physics Ledger
 
-### [Browse All Claims]({{ '/results/browse/' | relative_url }})
+The Physics Ledger is the framework's most directly testable content — where τ meets experiment without any ontological bridging. Two inspection surfaces:
 
-The primary discovery surface: all claims pre-rendered as HTML cards, with client-side filters for domain, enrichment layer, kind, importance, status, and canonical book. Filter state is shareable via URL query parameters. The page is fully crawlable and works without JavaScript.
-
-### Physics Predictions Ledger
-
-The [Physics Predictions]({{ '/results/predictions/browse/' | relative_url }}) collection compiles **67 zero-parameter numerical predictions** derived from the single master constant ι<sub>τ</sub> = 2/(π+e). Each prediction compares a τ-derived value directly to experimental measurement — no ontological bridge claims needed. Fifteen predictions achieve sub-10 ppm precision.
-
-The [Falsification Pack (N1–N30)]({{ '/results/falsifications/browse/' | relative_url }}) identifies **30 sharp predictions** where the framework makes specific claims that named experiments can test on a 2025–2035 timeline, including 7 falsifiable seams where τ and orthodox physics make structurally incompatible predictions.
+- [**Predictions (67)**]({{ '/results/predictions/browse/' | relative_url }}) — 67 zero-parameter numerical predictions derived from the single master constant ι<sub>τ</sub> = 2/(π+e). Each prediction compares a τ-derived value directly to experimental measurement. Fifteen predictions achieve sub-10 ppm precision.
+- [**Falsifications (N1–N30)**]({{ '/results/falsifications/browse/' | relative_url }}) — 30 sharp predictions where named experiments on a 2025–2035 timeline can falsify the framework, including 7 seams where τ and orthodox physics make structurally incompatible predictions.
 
 The complete typeset document (~150 pages) with full derivations, tables, and experimental timelines is available as a **free download**: [**Physics Ledger (PDF, 800 KB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
+
+---
+
+## Browse All Claims
+
+The [**Browse All Claims**]({{ '/results/browse/' | relative_url }}) surface is the raw catalogue entry: all claims pre-rendered as HTML cards, with client-side filters for domain, enrichment layer, kind, importance, status, and canonical book. Filter state is shareable via URL query parameters. The page is fully crawlable and works without JavaScript.
 
 ### Featured Claims
 
@@ -151,8 +157,10 @@ The complete typeset document (~150 pages) with full derivations, tables, and ex
 - [Philosophy](/results/topic/philosophy/) — 45 claims
 - [Physics](/results/topic/physics/) — 60 claims
 
-### Understanding This Lane
+---
 
-- [Why So Many Claims Are Possible](/results/why-so-many-results/)
-- [How to Read a Claim Page](/results/how-to-read-a-result-page/)
-- [Status and Claim Typing](/results/status-and-claim-typing/)
+## Reader Guidance
+
+- [Why So Many Claims Are Possible]({{ '/results/why-so-many-results/' | relative_url }})
+- [How to Read a Claim Page]({{ '/results/how-to-read-a-result-page/' | relative_url }})
+- [Status and Claim Typing]({{ '/results/status-and-claim-typing/' | relative_url }})
