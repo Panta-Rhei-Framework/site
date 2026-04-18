@@ -33,3 +33,11 @@ In the framework, elliptic curves correspond to specific character modes on the 
 ## Result Statement
 
 BSD: spectral framework and coherence theorem established; proto-rationality chain incomplete. Status: **Partial** *(tau-effective for structural framework; conjectural for full proof)*.
+
+{% include bridge-status.html
+   internal="The BSD Coherence Theorem (III.T35) proves rank-L-value equality for τ-admissible elliptic data: rank data corresponds to spectral multiplicities in the enriched bi-square via the B/C classifier. The structural bridge is established."
+   bridge="The identification of τ-admissible elliptic data with classical elliptic curves E/ℚ — and the extension of the rank-L-value equality to all E/ℚ as stated by the Clay Millennium Problem — is not yet a theorem. The proto-rationality chain at the arithmetic-geometry layer is incomplete."
+   to_close="Completion of the proto-rationality chain, linking τ-admissible elliptic data to the full moduli space of classical elliptic curves over ℚ, would close the bridge. Specifically, a functor from τ-elliptic-data to E/ℚ preserving rank and L-value on both sides would suffice."
+   registry_internal="III.T35"
+   registry_bridge="Proto-rationality chain (open)"
+%}

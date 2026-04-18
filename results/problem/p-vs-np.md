@@ -33,3 +33,11 @@ The <math><mi>&tau;</mi></math>-Tower Machine (III.T30) models computation with 
 ## Result Statement
 
 Structural reading via tau-Tower Machine and Interface Width Principle. The full P <math><mo>&ne;</mo></math> NP proof remains open. Status: **Partial** *(tau-effective — structural framework established, orthodox bridge conjectural)*.
+
+{% include bridge-status.html
+   internal="The τ-Tower Machine (III.T30) and Interface Width Principle (III.T31) provide a structural model of τ-admissible computation in which τ-P_adm = τ-NP_adm at E₂. Within this computational substrate, the collapse is a theorem."
+   bridge="The classical P vs NP separation concerns Turing-machine computation, not τ-admissible computation. The τ-Tower Machine is an E₂-native model, and its relation to Turing machines is not an identity — there is no claim that τ-collapse implies classical P = NP, and the scope gap is explicitly acknowledged."
+   to_close="A proof that the τ-Tower Machine is polynomially equivalent to a Turing machine under a specific translation would bridge the τ-collapse to the classical question. Without such a bridge, the two formulations remain genuinely different questions that share a name."
+   registry_internal="III.T30, III.T31, III.T34"
+   registry_bridge="Master Schema (bridge not claimed to be polynomial)"
+%}

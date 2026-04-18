@@ -33,3 +33,11 @@ At <math><msub><mi>E</mi><mn>2</mn></msub></math>, [Book VI]({{ '/publications/b
 ## Result Statement
 
 Consciousness as global section; the Hard Problem is addressed structurally but phenomenal experience is not reduced. Status: **Partial** *(tau-effective — structural account, but the [No Forced Stance]({{ '/framework/metaphysics-no-forced-stance/' | relative_url }}) theorem applies)*.
+
+{% include bridge-status.html
+   internal="Consciousness is defined as a global section Γ(Mind) of the mind sheaf (VII.T41). Unity of consciousness follows from the gluing axiom. At E₂, consciousness is the consumer sector's SelfDesc applied to its own modeling; at E₃, qualia appear as subjective coordinates, intentionality as aboutness morphisms. The Hard Problem is reformulated as a layer question between E₂ functional organization and E₃ first-person instantiation."
+   bridge="The framework does NOT claim to reduce phenomenal experience. The reformulation — that the E₂-to-E₃ gap is epistemic rather than ontic — is itself a claim marked Partial. No Forced Stance (VII.T47) applies here: τ explicitly declines to force a stance on whether the gap closes."
+   to_close="Closing this gap would require content beyond what the kernel forces — either an empirical result that settles E₂↔E₃ layer-expressibility or a philosophical argument that upgrades the epistemic claim to an ontic one. The framework's posture is that such a closure is not what τ can deliver."
+   registry_internal="VII.T41, VI.D06 (SelfDesc)"
+   registry_bridge="VII.T47 (No Forced Stance applies)"
+%}

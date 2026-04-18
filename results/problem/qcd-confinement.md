@@ -33,3 +33,11 @@ In [Book IV]({{ '/publications/books/book-iv/' | relative_url }}) (Part IV), the
 ## Result Statement
 
 QCD confinement: tau-gap proven and address-irresolvability mechanism established; orthodox bridge via lattice QCD incomplete. Status: **Partial** *(tau-effective for internal confinement; conjectural for orthodox bridge)*.
+
+{% include bridge-status.html
+   internal="The τ-gap meta-theorem proves a spectral gap exists in the C-sector; the Confinement Theorem IV.T71 establishes that isolated color-charged states have no convergent boundary character sequence on L (address irresolvability). Only color-neutral composites are admissible; confinement is topological, not dynamical."
+   bridge="The classical QCD confinement problem is formulated in lattice QCD or continuum SU(3) Yang-Mills; the bridge from the τ address-irresolvability mechanism to the orthodox lattice or continuum formulation is mediated by the Bridge Axiom and remains conjectural."
+   to_close="An explicit map from τ C-sector dynamics to continuum SU(3) Yang-Mills — specifically, showing that τ's address-irresolvability for colored states corresponds to the Wilson-loop area law in lattice QCD — would promote this claim to a Clay-valid Yang-Mills-confinement resolution."
+   registry_internal="IV.T71, IV.T75"
+   registry_bridge="Bridge Axiom / Master Schema instance for C-sector"
+%}

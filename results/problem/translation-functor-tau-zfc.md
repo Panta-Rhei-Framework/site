@@ -33,3 +33,11 @@ The functor maps <math><mi>&tau;</mi></math>-objects to ZFC-sets and <math><mi>&
 ## Result Statement
 
 Translation functor partially constructed. Number theory, algebra, and spectral theory translate cleanly; set-theoretic constructions requiring uncountable cardinalities have no direct counterpart. Status: **Partial** *(tau-effective for number-theoretic bridge; conjectural for full set-theoretic bridge)*.
+
+{% include bridge-status.html
+   internal="The Bridge Axiom (III.D71) constructs a structure-preserving functor from Category τ to ZFC. Number theory (earned arithmetic, primes, FTA), algebra, and the spectral machinery translate with structural fidelity. The τ-internal translation is well-defined and operative."
+   bridge="Set-theoretic constructions that rely on uncountable cardinalities or unrestricted Axiom of Choice have no clean τ-preimage because the Cantor diagonal is structurally inapplicable in τ and ω is the unique infinity. The translation is therefore surjective on number-theoretic and algebraic content but fails on specifically uncountable or choice-dependent set constructions."
+   to_close="Closing the set-theoretic gap would require either (a) extending the τ framework to admit uncountable cardinality-classes as structured objects — contradicting the current kernel's unique-infinity claim — or (b) accepting that ZFC's set-theoretic content beyond what τ translates is genuinely outside τ's scope, which the framework currently endorses."
+   registry_internal="III.D71 (Bridge Axiom)"
+   registry_bridge="Set-theoretic-content gap (not closable without kernel extension)"
+%}

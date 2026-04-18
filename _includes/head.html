@@ -62,6 +62,12 @@
 
 <!-- Search engine verification -->
 <meta name="msvalidate.01" content="5B714783AAE6C8DA9D5107310EFF3725">
+{%- if site.google_site_verification -%}
+<meta name="google-site-verification" content="{{ site.google_site_verification }}">
+{%- endif -%}
+{%- if site.yandex_verification -%}
+<meta name="yandex-verification" content="{{ site.yandex_verification }}">
+{%- endif -%}
 
 <!-- Open Graph -->
 <meta property="og:title" content="{{ raw_page_title | default: site.title }}">

@@ -33,3 +33,11 @@ Within Category <math><mi>&tau;</mi></math>, the Riemann zeta function becomes a
 ## Result Statement
 
 Tau-internal spectral purity established; orthodox bridge to classical RH conjectural. Status: **Partial** *(tau-effective — spectral framework established, orthodox identification conjectural)*.
+
+{% include bridge-status.html
+   internal="The Critical Line Theorem (III.T19) proves that all non-trivial τ-zeta zeros lie on the critical line via the spectral trichotomy (III.T14). The τ-internal formulation is complete and Lean-formalized."
+   bridge="The identification of τ-zeta with the classical Riemann zeta function is not a theorem. The bridge to the Clay Millennium RH statement is mediated by the Master Schema (III.T27) and depends on a conjectural bridge functor."
+   to_close="A proof that the Master Schema bridge functor sends ζ_τ to the classical ζ — or more generally, an explicit identification of the τ-spectral operator with a self-adjoint operator on a Hilbert space whose spectrum consists of classical ζ-zero imaginary parts — would promote this claim from Partial to Resolved on the orthodox surface."
+   registry_internal="III.T19, III.T14"
+   registry_bridge="III.T27"
+%}

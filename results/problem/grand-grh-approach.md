@@ -33,3 +33,11 @@ Every L-function decomposes into B-, C-, and X-sector contributions via the [spe
 ## Result Statement
 
 Grand GRH: spectral purity scales from <math><mi>&zeta;</mi></math> to all L-functions via the label classifier. Tau-internal purity established; orthodox bridge at higher levels conjectural. Status: **Partial** *(tau-effective for spectral framework; conjectural for full orthodox identification)*.
+
+{% include bridge-status.html
+   internal="The Prime Polarity Scaling Theorem (III.T20) establishes τ-internal spectral purity for the entire τ-L-function family: Dirichlet, Hecke, and automorphic. Grand GRH is a theorem in the τ-framework for all τ-admissible L-functions; the scaling chain ζ_τ → Dirichlet → Hecke → automorphic preserves polarity structure."
+   bridge="The identification of τ-L-functions with classical Dirichlet / Hecke / automorphic L-functions is the bridge. For classical ζ the bridge is Master Schema (III.T27); for higher L-functions additional bridge conjectures are required, and these stack: each bridge inherits the gap of the one below."
+   to_close="Closing the Master Schema bridge for ζ would not automatically close higher-level bridges. Each L-function family (Dirichlet, Hecke, automorphic) needs its own identification theorem between τ-admissible data and the classical objects."
+   registry_internal="III.T20, III.D31"
+   registry_bridge="III.T27 (base bridge) + L-function-family-specific identifications"
+%}

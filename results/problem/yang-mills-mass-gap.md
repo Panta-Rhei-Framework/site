@@ -36,3 +36,11 @@ The Yang-Mills mass gap problem (Clay Millennium Problem) asks to prove that in 
 
 IV.T75 + III.T27: The τ-Yang-Mills Hamiltonian has spectral gap δ∞^s > 0 (IV.T75). The orthodox Yang-Mills mass gap is addressed via the B ↔ I ↔ S Master Schema bridge (III.T27). τ-gap established; orthodox bridge conjectural.
 
+{% include bridge-status.html
+   internal="IV.T75 proves that the τ-Yang-Mills Hamiltonian (C-sector, η-generator) has a spectral gap δ∞^s > 0 — the ground state is spectrally isolated from all excited states by a positive gap. The gap value is a closed-form expression in ι_τ and the sector coupling."
+   bridge="The classical Yang-Mills Mass Gap problem (Clay) requires rigorous construction of the 4D Yang-Mills QFT on ℝ⁴ with a positive mass gap, formulated in the Wightman axioms. The bridge from τ-Yang-Mills to this rigorous 4D construction is mediated by the Master Schema (III.T27) and remains conjectural."
+   to_close="An identification of the τ-Yang-Mills structure with the standard SU(N) Yang-Mills theory on ℝ⁴ — specifically, a construction that the τ-gap implies the existence of a positive-mass Wightman theory — would promote this to a Clay-valid resolution."
+   registry_internal="IV.T75"
+   registry_bridge="III.T27 (Master Schema instance at E₁)"
+%}
+

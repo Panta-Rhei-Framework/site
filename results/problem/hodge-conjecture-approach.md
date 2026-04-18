@@ -33,3 +33,11 @@ The [4+1 sector template]({{ '/framework/mathematics-sector-template/' | relativ
 ## Result Statement
 
 Hodge Conjecture: ABCD spectral grading provides the structural approach; polarity-to-algebraicity bridge is incomplete. Status: **Partial** *(tau-effective for spectral framework; conjectural for the full proof)*.
+
+{% include bridge-status.html
+   internal="The NF-Addressability Theorem (III.T28) and the ABCD-graded spectral decomposition of cohomology of τ³ establish that Hodge classes correspond to spectral components with specific polarity signatures in the B/C classifier (III.D23). Within the τ-framework's own setting, the Hodge statement is addressable through this structural lens."
+   bridge="The identification of τ-framework spectral components with orthodox algebraic cycles on smooth projective varieties is not a theorem. The polarity-to-algebraicity bridge is the gap: τ-spectral polarity signatures need to be identified with rational linear combinations of algebraic-cycle classes in the classical Hodge-decomposition sense."
+   to_close="A proof that τ-spectral classes with B/C-polarity signatures correspond faithfully to algebraic cycle classes on the underlying complex projective variety would complete the Hodge-Conjecture bridge."
+   registry_internal="III.T28, III.D23"
+   registry_bridge="Master Schema (polarity-to-algebraicity functor)"
+%}
