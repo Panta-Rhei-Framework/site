@@ -82,6 +82,10 @@ Life as self-decoding distinctions: Distinction + SelfDesc defines life; seven c
 
 The final self-enrichment: four registers (Empirical, Practical, Diagrammatic, Commitment), ethics as fixed point, consciousness as global section, the Logos sector, and the boundary where proof ends and commitment begins. Book VII.
 
+## Prior-Art Comparisons
+
+Five of the framework's load-bearing claims sit in literature-rich zones where the default first-pass skepticism is "isn't this just a relabeling of X?" The [Prior-Art Comparisons]({{ '/framework/prior-art/' | relative_url }}) pages give honest specialist-level answers for five such zones: τ-holomorphy vs Fueter-regular analysis, spectral ζ vs Hilbert-Pólya / Connes, three generations vs octonionic / Furey programs, the τ-life predicate vs autopoiesis / IIT / FEP, and no-dark-sectors vs MOND / Verlinde / entropic gravity. Each page names what is the same, what is different, and what a specialist would want to see before adjudicating novelty.
+
 ## 60 Framework Modules
 
 *Module architecture: v1.0 (April 2026). The module map may be refined as the extraction and editorial process continues.*

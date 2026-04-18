@@ -69,6 +69,19 @@ framework_nav:
   - title: "Metaphysics (E₃)"
     url: "/framework/metaphysics/"
     layer: E3
+  - title: "Prior-Art Comparisons"
+    url: "/framework/prior-art/"
+    children:
+      - title: "τ-Holomorphy vs Fueter"
+        url: "/framework/prior-art/tau-holomorphy-vs-fueter/"
+      - title: "Spectral ζ vs Hilbert-Pólya"
+        url: "/framework/prior-art/spectral-zeta-vs-hilbert-polya/"
+      - title: "Three Generations vs Octonionic"
+        url: "/framework/prior-art/three-generations-vs-octonionic/"
+      - title: "τ-Life vs Autopoiesis/IIT/FEP"
+        url: "/framework/prior-art/tau-life-vs-autopoiesis-iit-fep/"
+      - title: "No Dark Sectors vs MOND/Verlinde"
+        url: "/framework/prior-art/no-dark-sectors-vs-mond-verlinde/"
 
 results_nav:
   - title: "Overview"
