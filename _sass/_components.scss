@@ -47,11 +47,38 @@
   }
 }
 
+// Lean CTA — technical cool-azure companion to .btn-primary (navy publisher).
+// Exact Lean brand azure from lean-lang.org (#386EE0 / #1D4ED8 hover).
+// Matches .btn-primary in size, height, radius, and prominence; only the
+// hue distinguishes the two so code and books read as peer routes.
+.btn-lean {
+  @extend .btn;
+  background: #386EE0;
+  color: white;
+  box-shadow: 0 2px 8px rgba(56, 110, 224, 0.28);
+
+  &:hover {
+    background: #1D4ED8;
+    color: white;
+    box-shadow: 0 4px 12px rgba(56, 110, 224, 0.34);
+  }
+}
+
 .btn-group {
   display: flex;
   gap: 10px;
   flex-wrap: wrap;
   margin-top: 18px;
+}
+
+// Supporting line under a hero btn-group — subtle, one-line technical note
+.hero-supporting-line {
+  margin-top: 12px;
+  font-family: $font-ui;
+  font-size: 0.82rem;
+  font-weight: 440;
+  color: $text-muted;
+  line-height: 1.5;
 }
 
 // ================================================================
@@ -492,7 +519,8 @@
 @media (max-width: $bp-stack) {
   .btn,
   .btn-primary,
-  .btn-secondary {
+  .btn-secondary,
+  .btn-lean {
     min-height: 44px;
     padding: 0 16px;
   }

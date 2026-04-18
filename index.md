@@ -7,12 +7,16 @@ hero_ctas:
   - label: "Get the Books"
     url: /publications/books/
     primary: true
+  - label: "Explore the Lean Code"
+    url: "https://github.com/Panta-Rhei-Research/taulib"
+    variant: lean
   - label: "Explore the Framework"
     url: /framework/about/
   - label: "Browse Claims"
     url: /results/
   - label: "Verify It Yourself"
     url: /verify/
+hero_supporting_line: "Fully constructive formal system (~125k lines of Lean 4, no Mathlib dependency)."
 right_rail:
   related:
     - title: "About the Research"

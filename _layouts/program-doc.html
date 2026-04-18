@@ -10,6 +10,25 @@ layout: default
   {% if page.summary_short %}
   <p>{{ page.summary_short }}</p>
   {% endif %}
+  {% if page.hero_ctas %}
+  <div class="btn-group">
+    {% for cta in page.hero_ctas %}
+    {%- if cta.variant == 'lean' -%}
+      {%- assign cta_class = 'btn-lean' -%}
+    {%- elsif cta.primary -%}
+      {%- assign cta_class = 'btn-primary' -%}
+    {%- else -%}
+      {%- assign cta_class = 'btn-secondary' -%}
+    {%- endif -%}
+    {%- assign is_external = false -%}
+    {%- if cta.url contains '://' -%}{%- assign is_external = true -%}{%- endif -%}
+    <a href="{{ cta.url | relative_url }}" class="{{ cta_class }}"{% if is_external %} target="_blank" rel="noopener"{% endif %}>{{ cta.label }}</a>
+    {% endfor %}
+  </div>
+  {% if page.hero_supporting_line %}
+  <p class="hero-supporting-line">{{ page.hero_supporting_line }}</p>
+  {% endif %}
+  {% endif %}
 </div>
 
 {% include summary-cards.html %}
