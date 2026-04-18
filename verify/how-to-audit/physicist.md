@@ -43,7 +43,7 @@ A-priori-vs-post-diction accounting of the 67 predictions. Breaks the ledger int
 |----------|:----:|-----------|
 | **A — Pre-existing measured constants** | ~50 | Structural a priori; historical post-diction (retro-consistency surface) |
 | **B — Tension resolutions** | ~10 | Forward commitment on open empirical tensions (Hubble h, W mass, muon g−2, S<sub>8</sub>) |
-| **C — Genuine forward predictions** | ~7 | Decisive tests ahead of measurement (CMB-S4 r, 0νββ null, Σm<sub>ν</sub>, proton stability, no monopoles) |
+| **C — Genuine forward predictions** | ~7 | Decisive tests ahead of measurement (CMB-S4 r, 0νββ at τ half-life, Σm<sub>ν</sub>, proton stability, no monopoles) |
 
 **Load-bearing questions:**
 - Are the ~50 Category-A agreements independently generated (one derivation per constant) or do they share a common calibration move? A shared calibration that aligns one target would inflate the apparent success rate.
@@ -56,7 +56,7 @@ A-priori-vs-post-diction accounting of the 67 predictions. Breaks the ledger int
 
 - **N1: CMB-S4 tensor-to-scalar ratio** — τ predicts r = ι<sub>τ</sub><sup>4</sup> ≈ 0.01363. CMB-S4 sensitivity σ(r) ≈ 0.001 implies 14σ discriminant power. If measured r is inconsistent with 0.01363 at ≥5σ, the framework's cosmological sector fails. **This is the single sharpest falsification test of the entire program.**
 
-Other decisive tests: 0νββ null (any confirmed detection refutes); proton decay null; magnetic monopole null; sparticle null at all scales.
+Other decisive tests: 0νββ **detected at τ-predicted half-life** (non-detection or detection at an inconsistent half-life refutes the Majorana + C-sector-zero-holonomy prediction); proton decay null; magnetic monopole null; sparticle null at all scales.
 
 ## The 30-minute fail-fast path
 
@@ -64,7 +64,7 @@ If you have 30 minutes to form an initial opinion:
 
 1. **Open the Physics Ledger PDF and read the derivation chain for the electron mass** (claimed to 0.025 ppm precision). This is the most-precise sub-10-ppm prediction and the most-scrutinizable single derivation. Check: does the derivation use a pre-existing parameter that was not fixed by the kernel structure?
 
-2. **Open the Prediction Timing Ledger's Category-C section** and confirm you agree with the claim that 7 predictions are genuinely forward-test predictions (CMB-S4 r, 0νββ null, Σm<sub>ν</sub>, proton stability, no monopoles, no sparticles, r-process-related). If you disagree with any, that is useful feedback.
+2. **Open the Prediction Timing Ledger's Category-C section** and confirm you agree with the claim that 7 predictions are genuinely forward-test predictions (CMB-S4 r, 0νββ at τ-predicted half-life, Σm<sub>ν</sub>, proton stability, no monopoles, no sparticles, r-process-related). If you disagree with any, that is useful feedback.
 
 3. **Pick one claim in your specialty** (e.g., muon g−2 if you work on precision electroweak; the Bullet Cluster if you work on dark matter phenomenology; the Hubble tension if you work on cosmology) and trace its claim page → its derivation → the relevant cosmology/particle briefing → the falsification entry.
 

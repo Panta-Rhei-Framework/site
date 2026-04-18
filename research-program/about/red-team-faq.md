@@ -34,7 +34,7 @@ The value ι<sub>τ</sub> = 2/(π+e) ≈ 0.3413 is a theorem of the kernel, not 
 
 **Answer: structurally a priori; historically category-mixed.**
 
-All 67 predictions are *structurally* a priori because they flow algebraically from ι<sub>τ</sub>, which is kernel-fixed. *Historically*, they split into three categories: ~50 are post-dictions of pre-existing measured constants (retro-consistency surface), ~10 are forward commitments on open empirical tensions (Hubble, W mass, muon g−2), and ~7 are genuine forward predictions on not-yet-measured quantities (CMB-S4 r, neutrino mass sum, proton stability, 0νββ null). The framework does not claim per-prediction pre-registration — it does not have dated archival records for pre-framework publication. **The honest accounting is on the [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}).**
+All 67 predictions are *structurally* a priori because they flow algebraically from ι<sub>τ</sub>, which is kernel-fixed. *Historically*, they split into three categories: ~50 are post-dictions of pre-existing measured constants (retro-consistency surface), ~10 are forward commitments on open empirical tensions (Hubble, W mass, muon g−2), and ~7 are genuine forward predictions on not-yet-measured quantities (CMB-S4 r, neutrino mass sum, proton stability, 0νββ at τ-predicted half-life, no monopoles, no SUSY). The framework does not claim per-prediction pre-registration — it does not have dated archival records for pre-framework publication. **The honest accounting is on the [Prediction Timing Ledger]({{ '/results/predictions/timing/' | relative_url }}).**
 
 ## 3. Does TauLib introduce custom `axiom` declarations beyond Mathlib's trusted base?
 
@@ -93,7 +93,7 @@ The framework commits in writing to r = ι<sub>τ</sub><sup>4</sup> = (2/(π+e))
 
 Other single-result falsifiers, each with 5σ thresholds and named experiments:
 
-- **Confirmed 0νββ detection** → refutes the No-Majorana-Neutrinos prediction
+- **Non-detection of 0νββ at or beyond τ-predicted half-life**, or detection inconsistent with the τ-derived half-life at ≥5σ → refutes the framework's Majorana-neutrino prediction (IV.T146, C-sector zero holonomy requires Majorana mass terms)
 - **Confirmed proton decay** at any scale → refutes the Proton Stability theorem
 - **Confirmed magnetic monopole detection** → refutes the Homogeneous Maxwell theorem
 - **Confirmed supersymmetric partner detection** → refutes Sector Exhaustion

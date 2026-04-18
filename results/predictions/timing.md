@@ -69,7 +69,7 @@ These are predictions for quantities that **have not yet been measured** at the 
 Representative examples:
 
 - **CMB-S4 tensor-to-scalar ratio** — τ predicts r = ι<sub>τ</sub><sup>4</sup> ≈ **0.0136**, falsifiable at 14σ by CMB-S4 (expected 2030s). **This is the sharpest single falsification test of the framework's cosmology.**
-- **Neutrinoless double-beta decay (0νββ)** — τ predicts **null result** (neutrinos Dirac, not Majorana). Falsifiable by any confirmed 0νββ detection.
+- **Neutrinoless double-beta decay (0νββ)** — τ predicts **Majorana neutrinos with 0νββ at a specific half-life** derived from the normal-ordering mass spectrum and C-sector zero holonomy (IV.T146). Falsifiable by confirmed non-detection at or beyond the predicted sensitivity, or by detection at a half-life inconsistent with the τ-derived value at ≥5σ.
 - **Neutrino mass sum** — τ predicts Σm<sub>ν</sub> = **0.089 eV** with normal ordering. Testable by KATRIN (near-term) and cosmological surveys (DESI, Euclid).
 - **Proton stability** — τ predicts τ<sub>p</sub> = ∞ exactly. Any confirmed proton decay refutes the framework.
 - **No magnetic monopoles** — τ predicts monopoles are structurally forbidden. Any confirmed detection refutes the framework.

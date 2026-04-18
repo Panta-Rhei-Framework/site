@@ -131,6 +131,8 @@ results_nav:
         url: "/results/falsifications/browse/"
       - title: "Prediction Timing (a priori)"
         url: "/results/predictions/timing/"
+      - title: "Fit-Space Argument"
+        url: "/results/predictions/fit-space-argument/"
 
   - title: "Browse All Claims"
     url: "/results/browse/"
@@ -237,6 +239,8 @@ verify_nav:
     url: "/verify/taulib/status/"
   - title: "Release Manifest"
     url: "/verify/release-manifest/"
+  - title: "Custom Axiom Inventory"
+    url: "/verify/custom-axioms/"
   - title: "How to Audit"
     url: "/verify/how-to-audit/"
     children:

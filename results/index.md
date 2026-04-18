@@ -133,6 +133,7 @@ The Physics Ledger is the framework's most directly testable content — where �
 - [**Predictions (67)**]({{ '/results/predictions/browse/' | relative_url }}) — 67 zero-parameter numerical predictions derived from the single master constant ι<sub>τ</sub> = 2/(π+e). Each prediction compares a τ-derived value directly to experimental measurement. Fifteen predictions achieve sub-10 ppm precision.
 - [**Falsifications (N1–N30)**]({{ '/results/falsifications/browse/' | relative_url }}) — 30 sharp predictions where named experiments on a 2025–2035 timeline can falsify the framework, including 7 seams where τ and orthodox physics make structurally incompatible predictions.
 - [**Prediction Timing Ledger**]({{ '/results/predictions/timing/' | relative_url }}) — the honest a-priori vs post-diction accounting: ~50 retro-consistency post-dictions, ~10 tension-resolution forward commitments, ~7 genuine forward tests.
+- [**Fit-Space Argument**]({{ '/results/predictions/fit-space-argument/' | relative_url }}) — quantitative counter-argument to the "15 sub-10-ppm hits could be numerology" concern: first-order fit-space analysis plus Category-C forward predictions as decisive test.
 
 The complete typeset document (~150 pages) with full derivations, tables, and experimental timelines is available as a **free download**: [**Physics Ledger (PDF, 800 KB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
 
