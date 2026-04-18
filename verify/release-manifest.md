@@ -65,22 +65,34 @@ This is the table Assessment #3 asked for. It shows, for each book, what each of
 | Tour modules | — | — | — | 8 | 0 |
 | **Total** | **4,547** | **3,548** | **2,675** | **445** | **3** |
 
-Sources: registry root totals from `/registry/`; dashboard totals and formalization counts generated on **2026-03-10** from `_data/registry/objects.json` and visible at `/registry/dashboards/book-{i..vii}/`; TauLib module counts from the pinned commit `{{ build.taulib.commit_short }}`.
+Each column applies a specific **filter rule** to the same canonical source. The filter rules are documented in [`_data/registry/filter_rules.yml`]({{ 'https://github.com/Panta-Rhei-Research/site/blob/main/_data/registry/filter_rules.yml' }}) and summarized here:
 
-## Known drift between surfaces
+| Column | Filter rule | What it counts |
+|--------|-------------|----------------|
+| Registry root | `registry_total` | All object types including axioms, constructions, corollaries (every entry in `book*_registry.jsonl`) |
+| Dashboard total | `dashboard_display` | Display-filtered to 5 types (definition, lemma, proposition, remark, theorem) — the types that appear in dashboard enumeration |
+| Dashboard formalized | `formalized_count` | `dashboard_display` restricted to `formalization_status == formalized` |
+| TauLib modules | `taulib_modules` | Lean 4 module count — **different unit from registry objects** (one module hosts many objects) |
+| Sorry | (direct count) | `sorry` declarations in pinned Lean source |
 
-The registry root totals and per-book dashboard totals **do not agree** for four of the seven books. The differences (registry root minus dashboard) are:
+Sources: counts sourced from the canonical `PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl` and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions and invariants are in [`_data/registry/filter_rules.yml`]({{ 'https://github.com/Panta-Rhei-Research/site/blob/main/_data/registry/filter_rules.yml' }}).
 
-| Book | Drift | Plausible cause |
-|------|------:|-----------------|
-| II | +11 | Registry includes entries the dashboard filters (remarks, obsolete) |
-| IV | +572 | Registry counts all objects; dashboard counts live non-deprecated |
+## How to read apparent "drift"
+
+The `Registry root` and `Dashboard total` columns disagree for four of seven books (II +11, IV +572, V +166, VI +49). This is **not a data-integrity bug** — it is two different filter rules applied to the same authoritative source:
+
+| Book | Difference | What it is |
+|------|-----------:|-----------|
+| II | +11 | 11 entries of type other than D/L/P/R/T (e.g., axioms, constructions) that `dashboard_display` omits |
+| IV | +572 | Large number of Book IV corollaries/remarks/axioms that are tracked in the registry but not shown in dashboard enumeration |
 | V | +166 | Same as IV |
 | VI | +49 | Same as IV |
 
-This drift is **flagged honestly** rather than hidden. It reflects a data-generation seam: the registry root enumerates every object that has ever been assigned an ID, while the per-book dashboards filter to currently-live, non-deprecated, formalization-tracked objects. The dashboards are the load-bearing source for formalization-coverage claims; the registry root is the load-bearing source for claim-ID stability across releases.
+**Reconciliation protocol:** if a reader sees two different numbers for the same book on different pages, (1) identify which `filter_rule` each surface applies (visible in `filter_rules.yml`), (2) confirm both numbers match the `current_totals` in the manifest. If they do, the apparent drift is the legitimate difference between two filters of the same canonical data. If either surface does NOT match the manifest, that IS a bug — `registry_verify.py` catches such regressions.
 
-A dedicated sprint to consolidate these counts into a single source of truth (eliminating drift rather than documenting it) is on the engineering backlog. Until that ships, this page is the reconciliation artifact.
+**Why this is acceptable:** a dashboard rendering every remark and axiom would be 2x longer and harder to scan. A registry that silently dropped "ancillary" object types would lose claim-ID stability. Two filter rules, documented explicitly and cross-checked, give both clarity and completeness.
+
+A follow-up sprint to consolidate the generation pipeline end-to-end (one script, idempotent, with the prose-preservation safeguards already scaffolded) remains on the engineering backlog — but is no longer load-bearing for the drift narrative.
 
 ## What this release does NOT claim
 
