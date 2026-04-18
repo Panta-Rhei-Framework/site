@@ -36,3 +36,11 @@ The hard problem of consciousness asks why physical processes are accompanied by
 
 VII.T41: Consciousness is a global section Γ(Mind) of the mind sheaf. Binding = gluing. The CC1–CC3 conditions (VI.D86) are testable necessary and sufficient conditions for a system to be conscious.
 
+{% include bridge-status.html
+   internal="VII.T41 establishes the sheaf-theoretic definition of consciousness: Γ(Mind) as global section, binding as gluing, CC1–CC3 as necessary and sufficient conditions (VI.D86). The formal framework is internally complete."
+   bridge="The identification of qualia with internal morphisms of the mind sheaf is marked **conjectural** in Book VII. The translation from τ-structural global-section content to orthodox neuroscience notions like NCCs (neural correlates of consciousness) or IIT's Φ is not a theorem; it is an interpretive claim that requires specialist engagement from both neuroscience and philosophy of mind."
+   to_close="Two directions could close the gap: (a) a functor from the τ-mind-sheaf to a specific neuroscientific or IIT-based formal model, with an explicit preservation statement; or (b) an empirical program measuring CC1–CC3 directly in biological or artificial systems and comparing to Γ(Mind) > 0."
+   registry_internal="VII.T41, VI.D86 (CC1–CC3)"
+   registry_bridge="Qualia-as-morphisms (conjectural) + mind-sheaf-to-NCC/IIT mapping (open)"
+%}
+

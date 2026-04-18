@@ -12,6 +12,13 @@ social:
   links:
     - "https://github.com/Panta-Rhei-Research/taulib"
 
+# Search Console verification tokens
+# - Bing: already embedded in _includes/head.html (msvalidate.01)
+# - Google: populate this key with the token from Google Search Console when registered
+# - Yandex: populate this key if registering with Yandex Webmaster
+google_site_verification: ""
+yandex_verification: ""
+
 permalink: pretty
 
 # Buttondown newsletter integration

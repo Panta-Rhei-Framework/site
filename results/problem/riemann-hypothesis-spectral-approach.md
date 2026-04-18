@@ -40,3 +40,11 @@ The framework provides a *structural* spectral correspondence (III.T-series) tha
 ## Result Statement
 
 The τ-spectral approach to the Riemann Hypothesis provides a concrete realization of the Hilbert-Pólya strategy via the operator H_L on the lemniscate boundary, with self-adjointness enforced by the kernel's diagonal discipline (K5). The approach is structurally motivated but remains partial (status P).
+
+{% include bridge-status.html
+   internal="The spectral correspondence maps τ-zeta zeros to eigenvalues of the self-adjoint operator H_L on the lemniscate boundary L = S¹ ∨ S¹. Self-adjointness is forced by K5 diagonal discipline; B-sector/C-sector balance is enforced by bipolar symmetry from Book I's prime polarity."
+   bridge="The full proof chain from the τ-spectral correspondence to the classical Riemann Hypothesis is not yet complete. The identification of H_L eigenvalues with classical ζ-zero imaginary parts requires the Master Schema bridge functor (III.T27), which is conjectural."
+   to_close="An explicit proof that the τ-operator H_L, under the Master Schema functor, equals a known self-adjoint operator whose spectrum coincides with the imaginary parts of classical ζ-zeros would close the Hilbert-Pólya realization end-to-end."
+   registry_internal="III.T-series (spectral correspondence), K5 (diagonal discipline)"
+   registry_bridge="III.T27"
+%}
