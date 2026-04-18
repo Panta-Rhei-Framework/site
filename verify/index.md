@@ -4,6 +4,15 @@ title: "Verify"
 lane: verify
 permalink: /verify/
 summary_short: "How to inspect, verify, and challenge the claims of the Panta Rhei Research Program — what can be checked, and what verification does not settle."
+hero_ctas:
+  - label: "Browse TauLib (Lean 4)"
+    url: "https://github.com/Panta-Rhei-Research/taulib"
+    variant: lean
+  - label: "Release Manifest"
+    url: /verify/release-manifest/
+  - label: "Formalization Status"
+    url: /verify/taulib/status/
+hero_supporting_line: "450 Lean 4 modules · 125,771 lines · 4,332 machine-checked theorems · 0 sorry in Books I–VI · no Mathlib dependency."
 summary_cards:
   - title: "What can be checked"
     body: "Every theorem in TauLib compiles in Lean 4. Every quantitative prediction has an explicit formula. Every scope claim carries its epistemic label."

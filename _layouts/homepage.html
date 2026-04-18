@@ -13,9 +13,29 @@ layout: default
   {% if page.hero_ctas %}
   <div class="btn-group">
     {% for cta in page.hero_ctas %}
-    <a href="{{ cta.url | relative_url }}" class="{% if cta.primary %}btn-primary{% else %}btn-secondary{% endif %}">{{ cta.label }}</a>
+    {%- comment -%}
+      CTA style resolution (in priority order):
+        1. cta.variant: "lean"      → .btn-lean (Lean azure, technical)
+        2. cta.primary: true        → .btn-primary (navy, publisher)
+        3. default                  → .btn-secondary
+      External URLs (http:// or https://) pass through relative_url unchanged
+      per Jekyll's filter spec; rel="noopener" added for external targets.
+    {%- endcomment -%}
+    {%- if cta.variant == 'lean' -%}
+      {%- assign cta_class = 'btn-lean' -%}
+    {%- elsif cta.primary -%}
+      {%- assign cta_class = 'btn-primary' -%}
+    {%- else -%}
+      {%- assign cta_class = 'btn-secondary' -%}
+    {%- endif -%}
+    {%- assign is_external = false -%}
+    {%- if cta.url contains '://' -%}{%- assign is_external = true -%}{%- endif -%}
+    <a href="{{ cta.url | relative_url }}" class="{{ cta_class }}"{% if is_external %} target="_blank" rel="noopener"{% endif %}>{{ cta.label }}</a>
     {% endfor %}
   </div>
+  {% if page.hero_supporting_line %}
+  <p class="hero-supporting-line">{{ page.hero_supporting_line }}</p>
+  {% endif %}
   {% endif %}
 </div>
 
