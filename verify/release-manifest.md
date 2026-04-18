@@ -65,7 +65,7 @@ This is the table Assessment #3 asked for. It shows, for each book, what each of
 | Tour modules | — | — | — | 8 | 0 |
 | **Total** | **4,547** | **3,548** | **2,675** | **445** | **3** |
 
-Each column applies a specific **filter rule** to the same canonical source. The filter rules are documented in [`_data/registry/filter_rules.yml`]({{ 'https://github.com/Panta-Rhei-Research/site/blob/main/_data/registry/filter_rules.yml' }}) and summarized here:
+Each column applies a specific **filter rule** to the same canonical source. The filter rules are documented on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}) and summarized here:
 
 | Column | Filter rule | What it counts |
 |--------|-------------|----------------|
@@ -75,7 +75,7 @@ Each column applies a specific **filter rule** to the same canonical source. The
 | TauLib modules | `taulib_modules` | Lean 4 module count — **different unit from registry objects** (one module hosts many objects) |
 | Sorry | (direct count) | `sorry` declarations in pinned Lean source |
 
-Sources: counts sourced from the canonical `PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl` and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions and invariants are in [`_data/registry/filter_rules.yml`]({{ 'https://github.com/Panta-Rhei-Research/site/blob/main/_data/registry/filter_rules.yml' }}).
+Sources: counts sourced from the canonical `PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl` and the pinned TauLib commit [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}). Filter-rule definitions, per-book current totals, and cross-surface invariants are on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }}).
 
 ## How to read apparent "drift"
 
@@ -88,7 +88,7 @@ The `Registry root` and `Dashboard total` columns disagree for four of seven boo
 | V | +166 | Same as IV |
 | VI | +49 | Same as IV |
 
-**Reconciliation protocol:** if a reader sees two different numbers for the same book on different pages, (1) identify which `filter_rule` each surface applies (visible in `filter_rules.yml`), (2) confirm both numbers match the `current_totals` in the manifest. If they do, the apparent drift is the legitimate difference between two filters of the same canonical data. If either surface does NOT match the manifest, that IS a bug — `registry_verify.py` catches such regressions.
+**Reconciliation protocol:** if a reader sees two different numbers for the same book on different pages, (1) identify which `filter_rule` each surface applies (visible on the [Filter Rules manifest]({{ '/verify/filter-rules/' | relative_url }})), (2) confirm both numbers match the `current_totals` table on that page. If they do, the apparent drift is the legitimate difference between two filters of the same canonical data. If either surface does NOT match the manifest, that IS a bug — `registry_verify.py` catches such regressions.
 
 **Why this is acceptable:** a dashboard rendering every remark and axiom would be 2x longer and harder to scan. A registry that silently dropped "ancillary" object types would lose claim-ID stability. Two filter rules, documented explicitly and cross-checked, give both clarity and completeness.
 

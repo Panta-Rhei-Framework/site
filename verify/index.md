@@ -74,6 +74,7 @@ The Panta Rhei Research Program distinguishes sharply between what can be formal
 The canonical documentation for TauLib is now integrated into this site:
 
 - **[Release Manifest]({{ '/verify/release-manifest/' | relative_url }})** — Single authoritative snapshot: pinned commit, build status, axiom inventory, per-book reconciliation across registry / dashboards / TauLib docs
+- **[Filter Rules]({{ '/verify/filter-rules/' | relative_url }})** — Authoritative manifest of which count means what across the site (registry root, dashboard display, TauLib modules) — makes apparent drift legible as a filter choice
 - **[Custom Axiom Inventory]({{ '/verify/custom-axioms/' | relative_url }})** — Honest accounting of the 4 custom axiom declarations beyond Mathlib: what each axiom says, what finite computation motivates it, what universal step is axiomatized, what closes the gap
 - **[TauLib Overview]({{ '/verify/taulib/' | relative_url }})** — What TauLib is, how to use it, entry routes
 - **[Architecture]({{ '/verify/taulib/architecture/' | relative_url }})** — Module dependency graph and reading paths by audience

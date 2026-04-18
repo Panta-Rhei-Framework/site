@@ -8,8 +8,21 @@ layout: default
   <div class="btn-group">
     <a href="{{ '/registry/books/' | append: page.book_slug | append: '/' | relative_url }}" class="btn-secondary">Browse Objects</a>
     <a href="{{ '/registry/' | relative_url }}" class="btn-secondary">All Books</a>
+    <a href="{{ '/verify/filter-rules/' | relative_url }}" class="btn-secondary">Filter Rules</a>
   </div>
 </div>
+
+{%- assign rules = site.data.registry.filter_rules.filter_rules -%}
+{%- assign book_key = page.book_slug | replace: 'book-', 'book_' -%}
+{%- assign dd_count = rules.dashboard_display.current_totals[book_key] -%}
+{%- assign rt_count = rules.registry_total.current_totals[book_key] -%}
+{%- if dd_count and rt_count -%}
+<div class="content-card" style="background: var(--surface-subtle, #f6f7f9); border-left: 4px solid var(--accent, #5e81ac);">
+  <div class="prose">
+    <p style="margin: 0;"><strong>Filter rule on this page:</strong> <code>dashboard_display</code> — counts the five display types (definition, lemma, proposition, remark, theorem). The full registry root for {{ page.book }} has <strong>{{ rt_count }}</strong> objects across all types; this dashboard enumerates <strong>{{ dd_count }}</strong> of them. See the <a href="{{ '/verify/filter-rules/' | relative_url }}">Filter Rules manifest</a> for the authoritative definitions, or the <a href="{{ '/verify/release-manifest/' | relative_url }}#per-book-reconciliation">Release Manifest</a> for the per-book reconciliation across all surfaces.</p>
+  </div>
+</div>
+{%- endif -%}
 
 <div class="content-card">
   <div class="prose">
