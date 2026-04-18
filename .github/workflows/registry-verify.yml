@@ -1,0 +1,45 @@
+name: Registry Verify
+
+# Runs registry_verify.py on every push and PR to guarantee that:
+#   1. Dashboard prose has not drifted from the extracted baseline.
+#   2. filter_rules.yml invariants still hold (registry_total ≥ dashboard_display,
+#      formalized+planned+N/A ≤ dashboard_display per book).
+#   3. Site _data/registry totals match the filter_rules manifest (--full).
+#
+# This job blocks merge if any regression is detected.
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "_data/registry/**"
+      - "registry/**"
+      - "verify/release-manifest.md"
+      - "scripts/registry_*.py"
+      - ".github/workflows/registry-verify.yml"
+  pull_request:
+    paths:
+      - "_data/registry/**"
+      - "registry/**"
+      - "verify/release-manifest.md"
+      - "scripts/registry_*.py"
+      - ".github/workflows/registry-verify.yml"
+
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install PyYAML
+
+      - name: Run registry_verify --full
+        run: python3 scripts/registry_verify.py --full
