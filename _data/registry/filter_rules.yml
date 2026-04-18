@@ -1,0 +1,174 @@
+# filter_rules.yml — the authoritative manifest of WHICH count means WHAT
+# across the registry, dashboards, TauLib docs, and Release Manifest.
+#
+# This file exists to make the count-drift legible. Two surfaces can show
+# different numbers for the same book — but only because they are applying
+# different, documented filter rules to the same canonical source.
+#
+# Canonical source of truth:
+#   /Users/thorfuchs/Books/PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl
+#
+# This file tracks which filter each public surface applies.
+
+version: "1.0"
+updated: "2026-04-18"
+canonical_source: "PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl"
+
+filter_rules:
+
+  registry_total:
+    name: "registry_total"
+    display_as: "Total objects"
+    description: >
+      The count of every registry object regardless of type or status —
+      axioms, constructions, corollaries, definitions, lemmas, propositions,
+      remarks, and theorems, including deprecated entries. This is the
+      authoritative JSONL line count per book.
+    includes_types: "ALL types (A, C, Cor, D, L, P, R, T, Con, …)"
+    includes_statuses: "ALL statuses (formalized, planned, not_applicable, deprecated)"
+    current_totals:
+      book_i: 254
+      book_ii: 230
+      book_iii: 289
+      book_iv: 1864
+      book_v: 1419
+      book_vi: 217
+      book_vii: 274
+      grand_total: 4547
+    displayed_on:
+      - "registry/index.md (line 33)"
+      - "registry/books/book-{i..vii}.md (frontmatter: object_count)"
+      - "verify/release-manifest.md (per-book reconciliation table, 'Registry root' column)"
+
+  dashboard_display:
+    name: "dashboard_display"
+    display_as: "Dashboard total"
+    description: >
+      The count filtered to the five display types that the per-book
+      dashboards render: definition, lemma, proposition, remark, theorem.
+      This is a DISPLAY filter, not a count correction — it omits axioms,
+      constructions, and corollaries because those object types receive
+      dedicated treatment elsewhere in the book narrative rather than
+      dashboard-style enumeration. The filter is content-driven, not
+      omission-driven.
+    includes_types: "D + L + P + R + T (definition, lemma, proposition, remark, theorem)"
+    includes_statuses: "ALL statuses except 'deprecated'"
+    current_totals:
+      book_i: 254
+      book_ii: 219
+      book_iii: 289
+      book_iv: 1292
+      book_v: 1253
+      book_vi: 168
+      book_vii: 273
+    displayed_on:
+      - "registry/dashboards/book-{i..vii}.md ('Total objects' line in Statistics section)"
+      - "verify/release-manifest.md (per-book reconciliation table, 'Dashboard total' column)"
+
+  taulib_modules:
+    name: "taulib_modules"
+    display_as: "TauLib modules"
+    description: >
+      The count of Lean 4 source modules per book in the TauLib repository
+      at the pinned commit. This is a DIFFERENT UNIT from registry_total
+      or dashboard_display — one Lean module hosts many registry objects
+      (typically 5-50). Do not compare taulib_modules to registry counts
+      as if they were the same quantity.
+    unit: "Lean 4 modules"
+    current_totals:
+      book_i: 94
+      book_ii: 65
+      book_iii: 70
+      book_iv: 89
+      book_v: 80
+      book_vi: 30
+      book_vii: 7
+      tour_modules: 8
+      grand_total: 445
+    source: "pinned commit 181a59e at /Users/thorfuchs/Books/PantaRhei-2ndEd/ (Apr 14 2026)"
+    displayed_on:
+      - "verify/taulib/status.md (Per-Book Breakdown)"
+      - "verify/release-manifest.md (per-book reconciliation table, 'TauLib modules' column)"
+      - "_data/verify/build.yml (indirect, via description field)"
+
+  formalized_count:
+    name: "formalized_count"
+    display_as: "Formalized objects"
+    description: >
+      The count of registry objects with formalization_status == 'formalized'
+      in the canonical JSONL. These are objects that have a corresponding
+      Lean theorem or definition in TauLib with a stable identifier and
+      the docstring links back to the registry ID.
+    includes_types: "D + L + P + R + T (following dashboard_display convention)"
+    current_totals:
+      book_i: 221
+      book_ii: 184
+      book_iii: 231
+      book_iv: 973
+      book_v: 884
+      book_vi: 0
+      book_vii: 182
+      grand_total: 2675
+    displayed_on:
+      - "registry/dashboards/book-{i..vii}.md (Statistics: Formalization line)"
+      - "verify/release-manifest.md (per-book reconciliation table, 'Formalized' column)"
+
+  planned_count:
+    name: "planned_count"
+    display_as: "Planned (not yet formalized)"
+    description: >
+      The count of registry objects tagged formalization_status == 'planned':
+      a Lean theorem is expected but not yet written. This is the forward
+      formalization backlog.
+    current_totals:
+      book_i: 7
+      book_ii: 2
+      book_iii: 0
+      book_iv: 41
+      book_v: 66
+      book_vi: 143
+      book_vii: 0
+      grand_total: 259
+
+  not_applicable_count:
+    name: "not_applicable_count"
+    display_as: "Not applicable"
+    description: >
+      The count of registry objects tagged formalization_status == 'not_applicable':
+      prose-level entries (remarks, conjectures) that are not intended to have
+      a Lean formalization. These are intentionally outside the Lean corpus.
+    current_totals:
+      book_i: 26
+      book_ii: 33
+      book_iii: 58
+      book_iv: 278
+      book_v: 303
+      book_vi: 25
+      book_vii: 91
+      grand_total: 814
+
+# Cross-surface consistency invariants
+invariants:
+  - "registry_total ≥ dashboard_display for every book (filter is subsumptive)"
+  - "formalized_count + planned_count + not_applicable_count ≤ dashboard_display for every book"
+  - "SUM(registry_total per book) = grand_total = 4547"
+  - "SUM(taulib_modules per book, excluding tour) = 445 - 8 = 437 core modules + 8 tour = 445 total"
+  - "TauLib module count and registry object count use DIFFERENT UNITS and are not directly comparable"
+
+# How to reconcile an apparent drift
+reconciliation_protocol: >
+  If a reader sees two different numbers for the same book on different
+  pages: (1) identify which filter_rule each surface applies (visible in this
+  manifest); (2) confirm the numbers are consistent with that filter rule's
+  current_totals section here; (3) if they are, the apparent drift is a
+  legitimate difference between filters, not a bug. If a number on a page
+  does NOT match the current_totals in this manifest, that IS a bug — file
+  it and the registry_verify.py harness will catch the regression.
+
+# How to update this manifest
+update_protocol: >
+  This manifest is CANONICAL for per-book counts as displayed on the site.
+  After any change to the upstream PantaRhei-2ndEd/registry/book*_registry.jsonl,
+  run scripts/registry_verify.py to detect divergence between this manifest
+  and the site data files; update current_totals here to match the new
+  canonical counts; then regenerate the Release Manifest table.
