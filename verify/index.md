@@ -64,6 +64,7 @@ The Panta Rhei Research Program distinguishes sharply between what can be formal
 
 The canonical documentation for TauLib is now integrated into this site:
 
+- **[Release Manifest]({{ '/verify/release-manifest/' | relative_url }})** — Single authoritative snapshot: pinned commit, build status, axiom inventory, per-book reconciliation across registry / dashboards / TauLib docs
 - **[TauLib Overview]({{ '/verify/taulib/' | relative_url }})** — What TauLib is, how to use it, entry routes
 - **[Architecture]({{ '/verify/taulib/architecture/' | relative_url }})** — Module dependency graph and reading paths by audience
 - **[Formalization Status]({{ '/verify/taulib/status/' | relative_url }})** — Per-book statistics, axiom inventory, sorry inventory

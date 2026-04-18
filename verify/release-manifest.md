@@ -1,0 +1,113 @@
+---
+layout: program-doc
+title: "Release Manifest"
+permalink: /verify/release-manifest/
+lane: verify
+summary_short: "Single authoritative snapshot of the current release — pinned TauLib commit, Lean/Mathlib versions, per-book formalization state, and an honest reconciliation of counts across the three public-facing surfaces (registry, dashboards, TauLib docs)."
+right_rail:
+  related:
+  - title: TauLib Overview
+    url: /verify/taulib/
+  - title: Formalization Status
+    url: /verify/taulib/status/
+  - title: Architecture
+    url: /verify/taulib/architecture/
+  - title: Registry
+    url: /registry/
+  meta:
+    type: "Release Snapshot"
+    status: "Canonical"
+    updated: "April 2026"
+---
+
+This page is the **single authoritative snapshot** of the current release. Everything that is pinned, every count that is claimed, every known drift between surfaces is stated here in one view. If the registry, the per-book dashboards, and the TauLib docs appear to disagree on a number, this page explains why and which number is load-bearing for which purpose.
+
+## Release identity
+
+{% assign build = site.data.verify.build %}
+
+| Source | Revision | Reference |
+|--------|----------|-----------|
+| **TauLib** ({{ build.taulib.repo }}) | [`{{ build.taulib.commit_short }}`]({{ build.taulib.url }}/commit/{{ build.taulib.commit_sha }}) &middot; {{ build.taulib.commit_date }} | Apache&nbsp;2.0 &middot; [LICENSE]({{ build.taulib.license_url }}) |
+| **Lean** | `{{ build.lean.version }}` | [lean-lang.org]({{ build.lean.url }}) |
+| **Mathlib** | [`{{ build.mathlib.commit_short }}`]({{ build.mathlib.url }}/commit/{{ build.mathlib.commit_sha }}) | {{ build.mathlib.policy }} |
+
+The 445 API-doc pages under `/verify/taulib/docs/` were generated from TauLib commit `{{ build.taulib.commit_short }}` via `scripts/import_taulib_docs.py` + `scripts/convert_taulib_html_to_md.py`. To reproduce locally, clone the TauLib repo at that commit and run `lake build`.
+
+## Build status — summary
+
+| Metric | Value |
+|--------|------:|
+| Total modules | **445** |
+| Total lines | 125,771 |
+| Theorems + lemmas | 4,332 |
+| Definitions | 3,542 |
+| Structures + types | 1,685 |
+| Computations (`#eval`) | 3,721 |
+| Custom `axiom` declarations | **4** (3 in Book III, 1 in Book IV) |
+| `sorry` (incomplete proofs) | **3** (all in Book VII, methodological) |
+
+The 4 custom axioms sit outside Mathlib's trusted base and are specific to the τ-framework's internal construction; they are named and documented in the per-module API docs. The 3 `sorry` sites in Book VII are **intentional and flagged**: they mark philosophical commitments that Book VII itself argues are the kind of thing that must remain a commitment rather than be closed by proof (consistent with the "No Forced Stance" theorem VII.T47). They are not hidden debt.
+
+## Per-book reconciliation
+
+This is the table Assessment #3 asked for. It shows, for each book, what each of the three public surfaces claims — and where they differ. Registry objects and Lean modules are **different units of counting** (a single module hosts many definitions, theorems, and propositions, each of which is a registry object), so some spread is expected; the drift within the same unit (registry root vs per-book dashboard) is what the honest reader should track.
+
+| Book | Registry root | Dashboard total | Dashboard formalized | TauLib modules | Sorry |
+|------|-------------:|-----------------:|---------------------:|---------------:|------:|
+| I — Foundations | 254 | 254 | 221 | 94 | 0 |
+| II — Holomorphy | 230 | 219 | 184 | 65 | 0 |
+| III — Spectrum | 289 | 289 | 231 | 70 | 0 |
+| IV — Microcosm | 1864 | 1292 | 973 | 89 | 0 |
+| V — Macrocosm | 1419 | 1253 | 884 | 80 | 0 |
+| VI — Life | 217 | 168 | 0 | 30 | 0 |
+| VII — Metaphysics | 274 | 273 | 182 | 7 | 3 |
+| Tour modules | — | — | — | 8 | 0 |
+| **Total** | **4,547** | **3,548** | **2,675** | **445** | **3** |
+
+Sources: registry root totals from `/registry/`; dashboard totals and formalization counts generated on **2026-03-10** from `_data/registry/objects.json` and visible at `/registry/dashboards/book-{i..vii}/`; TauLib module counts from the pinned commit `{{ build.taulib.commit_short }}`.
+
+## Known drift between surfaces
+
+The registry root totals and per-book dashboard totals **do not agree** for four of the seven books. The differences (registry root minus dashboard) are:
+
+| Book | Drift | Plausible cause |
+|------|------:|-----------------|
+| II | +11 | Registry includes entries the dashboard filters (remarks, obsolete) |
+| IV | +572 | Registry counts all objects; dashboard counts live non-deprecated |
+| V | +166 | Same as IV |
+| VI | +49 | Same as IV |
+
+This drift is **flagged honestly** rather than hidden. It reflects a data-generation seam: the registry root enumerates every object that has ever been assigned an ID, while the per-book dashboards filter to currently-live, non-deprecated, formalization-tracked objects. The dashboards are the load-bearing source for formalization-coverage claims; the registry root is the load-bearing source for claim-ID stability across releases.
+
+A dedicated sprint to consolidate these counts into a single source of truth (eliminating drift rather than documenting it) is on the engineering backlog. Until that ships, this page is the reconciliation artifact.
+
+## What this release does NOT claim
+
+- **Book VII is not formalized.** The Lean corpus for Book VII contains 7 modules and 3 intentional `sorry` sites that mark philosophical commitments (not proof debt). Book VII's status is "methodologically serious, not mechanically verified."
+- **The physics bridge is not proof-assistant-verified.** TauLib verifies the internal τ-framework mathematics; it does not verify that τ-internal statements correspond to the external physics they are interpreted as describing. The 67 predictions in the [Physics Ledger](/results/predictions/browse/) are derived from the framework's algebraic structure; their agreement with experiment is empirical, not machine-checked.
+- **Millennium resolutions are not Clay-valid formulations.** Only the Poincaré conjecture aligns with the Clay statement as solved (via Perelman's proof, re-read in τ-language). The other six Millennium claims are τ-internal formulations with explicit bridge-conjecture gaps; see the [Millennium & Langlands briefing]({{ '/results/fields/millennium-langlands/' | relative_url }}).
+
+## Reproduction instructions
+
+```bash
+# Clone at the pinned commit
+git clone https://github.com/{{ build.taulib.repo }}
+cd taulib
+git checkout {{ build.taulib.commit_sha }}
+
+# Expected pins (already in lake-manifest.json / lean-toolchain)
+# Lean: {{ build.lean.version }}
+# Mathlib: {{ build.mathlib.commit_short }}
+
+lake build          # Expect: 0 errors, ~8–12 min on 8-core laptop
+rg "sorry" TauLib   # Expect: 3 matches, all in TauLib/Book7/
+```
+
+Continuous integration runs on every push and pull request and reports file count, line count, `sorry` count, and `axiom` count to the CI log. A failed build or a regression in `sorry` count is a merge blocker on `main`.
+
+## Next release targets
+
+- **Drift consolidation** — one source-of-truth for registry totals across all surfaces.
+- **Book VI formalization uplift** — currently 0 of 168 dashboard objects formalized; Book VI ch22 (Three Domains) and ch31 (Ecosystems) have solid internal theorem structure and are the priority targets.
+- **Book VII methodological `sorry` replacement with commitment tags** — move the three `sorry` sites to explicit `#print axiom` declarations so the commitment status is inspectable rather than inferred.

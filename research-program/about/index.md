@@ -35,6 +35,8 @@ The **Panta Rhei Research Program** is an independent open research program cent
 
 **Can one build a coherent model of reality that is not merely useful, but structurally capable of answering why reality has the form it has?**
 
+> **Arriving as a skeptic?** The [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) answers the ten hardest questions a first-pass reviewer should ask first — synthesized from three independent frontier-LLM first-pass assessments — with honest answers and pointers to load-bearing evidence.
+
 The program does not begin by asking how to improve an existing theory locally. It begins further upstream. It asks what kind of **foundational discipline** would even be required if one wanted, in principle, to address questions such as:
 
 - Why this universe?
