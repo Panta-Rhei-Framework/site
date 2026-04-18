@@ -33,8 +33,16 @@
   Cache-Control: public, max-age=604800
 
 # Security headers (bonus — free hardening)
+# Link response headers for agent/machine discovery (RFC 8288, IANA-registered rel types):
+#   - sitemap     → /sitemap.xml
+#   - license     → CC BY 4.0 (site content license)
+#   - service-doc → /verify/taulib/docs/ (TauLib Lean 4 API reference, human-readable)
+#   - help        → /verify/assessments/ (AI-assisted assessment protocols & usage rules)
+#   - author      → /research-program/founders/ (research program authors)
+#   - describedby → /research-program/about/ (canonical program description)
 /*
   X-Content-Type-Options: nosniff
   X-Frame-Options: DENY
   Referrer-Policy: strict-origin-when-cross-origin
   Permissions-Policy: camera=(), microphone=(), geolocation=()
+  Link: </sitemap.xml>; rel="sitemap"; type="application/xml", <https://creativecommons.org/licenses/by/4.0/>; rel="license"; title="CC BY 4.0", </verify/taulib/docs/>; rel="service-doc"; type="text/html"; title="TauLib API reference", </verify/assessments/>; rel="help"; type="text/html"; title="Assessment protocols", </research-program/founders/>; rel="author"; type="text/html"; title="Founders", </research-program/about/>; rel="describedby"; type="text/html"; title="About the research program"
