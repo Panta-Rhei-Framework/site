@@ -6,7 +6,8 @@
 # different, documented filter rules to the same canonical source.
 #
 # Canonical source of truth:
-#   /Users/thorfuchs/Books/PantaRhei-2ndEd/registry/book{1..7}_registry.jsonl
+#   book{1..7}_registry.jsonl (generated from the 2nd-edition manuscript,
+#   pinned commit SHA documented in /verify/release-manifest/)
 #
 # This file tracks which filter each public surface applies.
 
@@ -88,7 +89,7 @@ filter_rules:
       book_vii: 7
       tour_modules: 8
       grand_total: 445
-    source: "pinned commit 181a59e at /Users/thorfuchs/Books/PantaRhei-2ndEd/ (Apr 14 2026)"
+    source: "pinned TauLib commit 181a59e (Apr 14 2026)"
     displayed_on:
       - "verify/taulib/status.md (Per-Book Breakdown)"
       - "verify/release-manifest.md (per-book reconciliation table, 'TauLib modules' column)"

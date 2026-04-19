@@ -46,7 +46,7 @@ This is not a data-integrity bug. It is three different **filter rules** applied
 
 ## Current totals — per book
 
-Counts sourced from canonical `book{1..7}_registry.jsonl` ({{ manifest.updated }}) and the pinned TauLib commit at `/Users/thorfuchs/Books/PantaRhei-2ndEd/`.
+Counts sourced from canonical `book{1..7}_registry.jsonl` ({{ manifest.updated }}) and the pinned [TauLib commit]({{ '/verify/release-manifest/' | relative_url }}#release-manifest).
 
 {%- assign rt = rules.registry_total.current_totals -%}
 {%- assign dd = rules.dashboard_display.current_totals -%}
