@@ -21,10 +21,6 @@ right_rail:
     url: /results/world-readout/mathematics/
   - title: Coherence Kernel
     url: /framework/mathematics-coherence-kernel/
-  - title: Linear Logic
-    url: /framework/mathematics-linear-logic/
-  - title: Hyperbolic Geometry
-    url: /framework/mathematics-hyperbolic-geometry/
   - title: Mathematics Results
     url: /results/topic/mathematics/
   meta:
@@ -44,7 +40,7 @@ The Panta Rhei program's answer is strong and unusual. Tau is not presented as a
 
 The first thing to make explicit is that Tau does not differ from familiar foundations merely by choosing some unusual statements as axioms. The divergence begins earlier, at the level of what counts as an admissible move.
 
-The framework refuses unrestricted diagonal reuse ([I.T37]({{ '/registry/object/I.T37/' | relative_url }}), Diagonal-Linear Correspondence). It binds itself to a constructive, finite-recursive, and [resource-sensitive discipline]({{ '/framework/mathematics-linear-logic/' | relative_url }}). In this sense, the shift is already deeper than the ordinary contrast between two axiom systems inside a shared background logic. It reaches into the admissible calculus itself.
+The framework refuses unrestricted diagonal reuse ([I.T37]({{ '/registry/object/I.T37/' | relative_url }}), Diagonal-Linear Correspondence). It binds itself to a constructive, finite-recursive, and resource-sensitive discipline. In this sense, the shift is already deeper than the ordinary contrast between two axiom systems inside a shared background logic. It reaches into the admissible calculus itself.
 
 That is why the resulting world may at first look "mostly familiar" from a distance and yet differ more radically than many readers expect. It is not just "classical mathematics plus a few corrections." It is a world built under a different regime of admissibility.
 
@@ -62,7 +58,7 @@ It means that the mathematical universe described by Tau does not understand its
 
 The shape of mathematics in Tau is also geometric in a way that is not merely decorative.
 
-On the program's reading, the global ambient structure is [hyperbolic]({{ '/framework/mathematics-hyperbolic-geometry/' | relative_url }}) rather than elliptic. At the same time, the system claims to recover a full Tarski-Euclidean geometry, including the parallel axiom as theorem rather than arbitrary stipulation. The result is not a trivial rejection of classical geometry, but a re-grounding of it.
+On the program's reading, the global ambient structure is hyperbolic rather than elliptic. At the same time, the system claims to recover a full Tarski-Euclidean geometry, including the parallel axiom as theorem rather than arbitrary stipulation. The result is not a trivial rejection of classical geometry, but a re-grounding of it.
 
 Holonomy, too, is not a later technical accessory. It is structurally fundamental ([II.P16]({{ '/registry/object/II.P16/' | relative_url }}), Holonomy Triviality; [II.T52]({{ '/registry/object/II.T52/' | relative_url }}), Lemniscate Holonomy). Geometry is not merely laid on top of an inert set-theoretic background; it is woven into the way the world of Tau coheres.
 

@@ -16,9 +16,7 @@ canonical_books:
 - V
 source_parts:
 - V.2
-key_registry:
-- V.D11
-- V.T04
+key_registry: []
 depends_on:
 - E1-011
 unlocks:

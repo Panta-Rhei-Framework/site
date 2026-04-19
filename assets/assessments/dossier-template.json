@@ -1,0 +1,174 @@
+{
+  "protocol_version": "1.0",
+  "model": "",
+  "date": "",
+  "review_mode": "series | book | domain",
+  "materials_used": [],
+  "executive_summary": "",
+  "object_identification": {
+    "what_is_the_work": "",
+    "what_it_claims_to_be": "",
+    "domains_addressed": [],
+    "visible_architecture": ""
+  },
+  "gate_1_research_form_legitimacy": [
+    {
+      "criterion_id": "G1-1",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G1-2",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G1-3",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G1-4",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G1-5",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G1-6",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G1-7",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    }
+  ],
+  "gate_2_novelty_and_relevance": [
+    {
+      "criterion_id": "G2-8",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G2-9",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G2-10",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G2-11",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G2-12",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    }
+  ],
+  "gate_3_impact_and_salvage_value": [
+    {
+      "criterion_id": "G3-13",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G3-14",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G3-15",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G3-16",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    },
+    {
+      "criterion_id": "G3-17",
+      "criterion_name": "",
+      "score": 0,
+      "confidence": "High | Medium | Low",
+      "evidence": "",
+      "caveat": ""
+    }
+  ],
+  "required_external_validation": {
+    "mathematics": [],
+    "physics": [],
+    "formal_methods": [],
+    "philosophy": [],
+    "prior_art_review": [],
+    "other": []
+  },
+  "red_team_questions": [],
+  "review_readiness_judgment": "",
+  "confidence_note": "",
+  "next_step_recommendation": "",
+  "appendix": {
+    "materials": [],
+    "extracted_claims": [],
+    "key_caveats": [],
+    "scoring_table_reference": ""
+  }
+}

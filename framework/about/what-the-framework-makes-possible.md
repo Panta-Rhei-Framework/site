@@ -17,16 +17,14 @@ summary_cards:
     or guaranteed success.
 right_rail:
   related:
-  - title: Overview
+  - title: Claims
     url: /results/
-  - title: Overview
+  - title: Impact
     url: /impact/
-  - title: Overview
+  - title: Verify
     url: /verify/
   - title: How to Inspect the Framework
     url: /framework/about/how-to-inspect-the-framework/
-  - title: Claims Overview
-    url: /framework/about/key-results-overview/
   meta:
     type: Lane Intro
     scope: Framework-wide

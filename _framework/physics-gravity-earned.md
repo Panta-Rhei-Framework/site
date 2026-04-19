@@ -18,7 +18,6 @@ canonical_books:
 source_parts:
 - V.2
 key_registry:
-- V.D06
 - V.T10
 depends_on:
 - E1-010

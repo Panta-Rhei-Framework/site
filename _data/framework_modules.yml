@@ -468,7 +468,7 @@
   thesis: "R^H = κ_τ · T^mat in the boundary holonomy algebra; chart shadow recovers Einstein's field equations."
   canonical_books: [V]
   source_parts: [V.2]
-  key_registry: [V.D06, V.T10]
+  key_registry: [V.T10]
   depends_on: [E1-010]
   unlocks: [E1-012, E1-014]
 
@@ -481,7 +481,7 @@
   thesis: "Two independent routes converge on the same identity; the gravitational constant is derived from α and structural geometry."
   canonical_books: [V]
   source_parts: [V.2]
-  key_registry: [V.D11, V.T04]
+  key_registry: []
   depends_on: [E1-011]
   unlocks: [E1-014]
 

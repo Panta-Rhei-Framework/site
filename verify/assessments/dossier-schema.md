@@ -58,7 +58,7 @@ Every assessment run produces a **typed dossier** --- a structured document that
 
 ## Download
 
-[Download dossier template (JSON)]({{ '/assets/downloads/assessment-dossier-template.json' | relative_url }})
+[Download dossier template (JSON)]({{ '/assets/assessments/dossier-template.json' | relative_url }})
 
 The JSON template provides a machine-readable skeleton that can be filled programmatically or by hand. Its field names mirror the section structure above.
 

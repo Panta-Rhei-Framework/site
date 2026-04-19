@@ -15,16 +15,12 @@ summary_cards:
     technical, skeptical, or domain-specific.
 right_rail:
   related:
-  - title: Overview
+  - title: Publications
     url: /publications/
-  - title: Overview
+  - title: Verify
     url: /verify/
-  - title: Claims And Validation
-    url: /research-program/claims-and-validation/
-  - title: Guided Tours
-    url: /framework/about/guided-tours/
-  - title: Verify It Yourself
-    url: /framework/about/verify-it-yourself/
+  - title: Registry
+    url: /registry/
   meta:
     type: Lane Intro
     scope: Framework-wide

@@ -72,7 +72,7 @@ So the first stance is already twofold:
 - Tau exists as a formal system materialized in Lean.
 - What is materialized there is a distinct mathematical world.
 
-The [later pages]({{ '/results/prologue/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) in this cluster develop the second point in detail.
+The [later pages]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) in this cluster develop the second point in detail.
 
 ## The epistemic ladder beyond the first stance
 

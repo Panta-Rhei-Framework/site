@@ -8,8 +8,8 @@ topics:
   - foundations
   - falsification
 related_results:
-  - "hubble-tension"
-  - "fine-structure-constant"
+  - "problem/hubble-tension-resolved-h-formula"
+  - "problem/fine-structure-constant-alpha-inverse-137"
 newsletter_ready: true
 featured: true
 right_rail:
