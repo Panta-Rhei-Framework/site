@@ -43,10 +43,14 @@
       "url": "{{ site.url }}",
       "description": {{ site.description | jsonify }},
       "founder": [
-        { "@type": "Person", "name": "Thorsten Fuchs" },
-        { "@type": "Person", "name": "Anna-Sophie Fuchs" }
+        { "@type": "Person", "name": "Thorsten Fuchs", "sameAs": "https://orcid.org/0009-0007-0718-1042" },
+        { "@type": "Person", "name": "Anna-Sophie Fuchs", "sameAs": "https://orcid.org/0009-0007-3495-7416" }
       ],
-      "sameAs": ["https://github.com/Panta-Rhei-Research/taulib"]
+      "sameAs": [
+        "https://github.com/Panta-Rhei-Research/site",
+        "https://github.com/Panta-Rhei-Research/taulib",
+        "https://taulib.site"
+      ]
     }
   ]
 }
