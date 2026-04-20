@@ -5,7 +5,7 @@ permalink: /results/world-readout/mathematics/what-this-mathematics-makes-true/
 lane: results
 section: "Claims · Mathematics World Readout"
 nav_order: 3
-summary_short: "The strongest major mathematical statement-families that become affirmatively true inside the Tau mathematical universe."
+summary_short: "The strongest major mathematical statement-families that become affirmatively true within τ's own mathematical universe — the Millennium families, the generalized Riemann hierarchy, and Langlands, each scoped to its τ-internal formulation with the bridge question to the orthodox public formulation tracked separately."
 key_registry:
   - III.T19
   - III.T20
@@ -81,7 +81,7 @@ Within Tau, the corresponding geometric statement-family is claimed to be affirm
 Within Tau, the corresponding arithmetic statement-family is claimed to be affirmatively resolved — the BSD Coherence Theorem ([III.T35]({{ '/registry/object/III.T35/' | relative_url }})).
 
 ### Tau-Poincare
-Within Tau, the corresponding topological statement-family is claimed to be affirmatively resolved.
+Within Tau, the corresponding topological statement-family is claimed to be affirmatively resolved — Poincaré is treated as one of the Master-Schema-E₀ instances ([III.T23]({{ '/registry/object/III.T23/' | relative_url }})) and is explicitly listed as "1 established" on the Bridge Ledger ([III.T46]({{ '/registry/object/III.T46/' | relative_url }})), with Perelman's classical resolution re-read τ-categorically rather than replaced.
 
 And beyond the seven:
 
@@ -164,6 +164,8 @@ That is the level on which this page should be read.
 - [III.T36]({{ '/registry/object/III.T36/' | relative_url }}) — Functoriality Theorem
 - [III.T37]({{ '/registry/object/III.T37/' | relative_url }}) — Base Change-Transfer Naturality
 - [III.D31]({{ '/registry/object/III.D31/' | relative_url }}) — Grand GRH
+- [III.T23]({{ '/registry/object/III.T23/' | relative_url }}) — Master Schema Theorem (B ↔ I ↔ S for all eight Millennium families, including Poincaré at E₀)
+- [III.T46]({{ '/registry/object/III.T46/' | relative_url }}) — Bridge Ledger (Poincaré listed as "1 established" via Perelman)
 
 ---
 

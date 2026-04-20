@@ -81,7 +81,7 @@ The Panta Rhei Research Program is an independent open research program developi
 ### Additional Research Assets
 
 - **[Brand Assets & Guidelines]({{ '/brand/' | relative_url }})** — πρ mark (SVG/PNG), wordmark lockups, social headers, color palette, and usage rules for press and collaborators
-- **[BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }})** — 1,124 references used by the program (downloadable .bib file)
+- **[BibTeX bibliography]({{ '/assets/bibliography/references.bib' | relative_url }})** — 1,125 references used by the program (downloadable .bib file)
 - **[TauLib repository](https://github.com/Panta-Rhei-Research/taulib)** — Full Lean 4 source (clone and run `lake build`)
 
 ---

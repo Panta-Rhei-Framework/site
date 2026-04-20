@@ -72,16 +72,17 @@ Book I proves **Gödel Avoidance** via five named mechanisms (Hyperfactorization
 
 Every claim page on the site carries a **registry ID** (e.g., `II.T40`, `VI.D44`) that points to a specific entry in the Lean-structured registry. Every Lean theorem that is formalized has a docstring naming the registry ID it proves, and every registry entry with formalization status "formalized" has a corresponding Lean theorem. This is the **traceability chain** that closes the prose↔Lean gap for formalized claims. For claims with formalization status "planned" (notably most of Book VI and Book VII methodological claims), the prose stands and the Lean theorem does not yet exist. The **Release Manifest** makes this per-book status explicit. An auditor opening any three headline claim IDs and following them to their Lean theorem is the diagnostic check that validates the chain end-to-end.
 
-## 9. Is the 250+ claim count inflated by relabeling or redefinition?
+## 9. Is the 234-claim count inflated by relabeling or redefinition?
 
 **Answer: no. The typing discipline exposes rather than hides.**
 
-The current catalogue is 255+ claim pages. Of these, approximately:
+The current catalogue is 234 claim pages (exact count, per `_data/results/results.json`). Grouped by bridge status:
 
-- **~180 are status Resolved (R)** — full τ-internal theorem with formal proof chain
-- **~40 are status Partial (P)** — τ-internal result with explicit conjectural bridge gap
-- **~15 are status Qualitative or Not Addressed (Q/N)** — non-quantitative or unresolved
-- **3 are status Contradicted (C)** — framework takes a falsifiable opposing position (No Hawking Radiation, Panpsychism Excluded, ZFC Identity Slippage)
+- **130 are status Resolved (R)** — full τ-internal theorem with formal proof chain closed to the orthodox public formulation
+- **72 are status Internal** — τ-internal structural readout (no external bridge target; most metaphysics + many biology entries)
+- **17 are status Partial (P)** — τ-internal result with explicit conjectural bridge gap
+- **10 are status Qualitative or Not Addressed (Q/N)** — non-quantitative or unresolved
+- **5 are status Contradicted (C)** — framework takes a falsifiable opposing position (No Hawking Radiation, No Axion Needed, Not MOND, Panpsychism Excluded, ZFC Identity Slippage)
 
 The typing discipline *surfaces* Partial, Qualitative, Contradicted, and Not-Addressed claims rather than reclassifying them as Resolved. **A framework that hides failures compresses its catalogue; the τ framework deliberately expands its catalogue to include claims where it concedes ground.** Redefinition risk is non-zero on metaphysics-adjacent claims (e.g., life predicate, consciousness) — those are flagged as "bridge-claim" status on their detail pages.
 

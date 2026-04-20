@@ -94,14 +94,14 @@ Books IV-VII build on I-III
 1. `Tour/MindAndEthics.lean` — CI formalization, consciousness, free will, Logos
 2. `BookVII/Ethics/CIProof.lean` — The Categorical Imperative as theorem
 3. `BookVII/Logos/Sector.lean` — Consciousness as global section
-4. `BookVII/Final/Boundary.lean` — The three methodological sorry
+4. `BookVII/Final/Boundary.lean` — The three methodological commitment defs (post peer-review-fixes-v1 refactor — `def : Commitment` values carrying `statement`/`warrant`/`registry_id` string data replaced the earlier placeholder `theorem X : True := sorry` declarations)
 
 ### For Lean Users
 
 1. `Tour/Foundations.lean` — Interactive walkthrough of the axioms
 2. `lakefile.lean` — Mathlib tactics-only dependency policy
 3. `BookI/Kernel/Axioms.lean` — See how axioms become Lean theorems
-4. Browse any module — all 450 files have 30+ line docstring headers
+4. Browse any module — all 445 files have 30+ line docstring headers
 
 ## Per-Book Start Files
 
@@ -122,9 +122,11 @@ Books IV-VII build on I-III
 | I — Foundations | 12 | 94 | 20,554 | 0 | 0 |
 | II — Holomorphy | 12 | 65 | 18,069 | 0 | 0 |
 | III — Spectrum | 12 | 70 | 16,807 | 3 | 0 |
-| IV — Microcosm | 11 | 89 | 29,730 | 1 | 0 |
+| IV — Microcosm | 11 | 89 | 29,730 | 0 | 0 |
 | V — Macrocosm | 10 | 80 | 28,394 | 0 | 0 |
 | VI — Life | 9 | 30 | 5,221 | 0 | 0 |
-| VII — Metaphysics | 5 | 7 | 4,278 | 0 | 3 |
+| VII — Metaphysics | 5 | 7 | 4,278 | 0 | 0 |
 | Tour | — | 8 | ~1,850 | 0 | 0 |
-| **Total** | **71** | **450** | **127,440** | **4** | **3** |
+| **Total** | **71** | **445** | **127,440** | **3** | **0** |
+
+Counts reflect the pinned release post peer-review-fixes-v1 (2026-04-19): the prior Book IV `central_theorem_physical : True` axiom was retired as a no-op (type `True` is inhabited by `trivial`), and Book VII's three `theorem X : True := sorry` declarations were refactored into inspectable `def : Commitment` values. See the [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) for the authoritative per-book reconciliation across registry + dashboard + TauLib surfaces.

@@ -43,8 +43,8 @@ Healthy signal: answers that say "here's what's proved, here's what isn't, and h
 Open the [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}). This is the single-view snapshot of what the framework claims at the pinned commit level:
 
 - Pinned commit SHA, Lean version, Mathlib version
-- `sorry` count (should be 3, all Book VII methodological)
-- Custom axiom count (should be 4, each named)
+- `sorry` count (should be 0, across all 7 books, post peer-review-fixes-v1)
+- Custom axiom count (should be 3, all in Book III — spectral / number-theoretic bridges)
 - Per-book reconciliation table showing counts across three surfaces
 
 **What to check:**
@@ -66,7 +66,7 @@ A program willing to stake its cosmology on one future measurement is behaving l
 
 ### Step 4 — Glance at the claim surface (~2 min)
 
-Open [Browse All Claims]({{ '/results/browse/' | relative_url }}) and skim. The catalogue surfaces ~255 typed claims across four domains. Pay attention to the status codes:
+Open [Browse All Claims]({{ '/results/browse/' | relative_url }}) and skim. The catalogue surfaces 234 typed claims across four domains. Pay attention to the status codes:
 
 - **R (Resolved)** — full τ-internal theorem
 - **P (Partial)** — theorem with conjectural bridge to orthodox formulation

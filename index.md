@@ -74,7 +74,7 @@ right_rail:
 <div class="content-card homepage-section">
   <svg class="section-icon-corner" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><circle cx="12" cy="12" r="6"/><circle cx="12" cy="12" r="2"/></svg>
   <h2>The Claims lane: two readings plus the Physics Ledger</h2>
-  <p>The Claims lane presents <strong>250+ typed claims</strong> across four domains, each with explicit epistemic status, each linked to a canonical proof chain in the books and a formalization lane in TauLib. Four complementary inspection surfaces:</p>
+  <p>The Claims lane presents <strong>234 typed claims</strong> across four domains, each with explicit epistemic status, each linked to a canonical proof chain in the books and a formalization lane in TauLib. Four complementary inspection surfaces:</p>
   <ul>
     <li><strong>Reading 1 &middot; World Readouts</strong>&mdash;four pages (Mathematics, Physics, Life, Metaphysics) presenting what the framework says the world IS, layer by layer</li>
     <li><strong>Reading 2 &middot; Field Briefings</strong>&mdash;ten discipline-specific briefings, each cross-walked against canonical external lists (Wikipedia&rsquo;s per-discipline open-problems lists and the Clay Millennium Problems)</li>
@@ -142,7 +142,7 @@ right_rail:
   <ul>
     <li><a href="{{ '/publications/books/' | relative_url }}"><strong>The Seven Books</strong></a>&mdash;the canonical monograph series with DOIs and Amazon links</li>
     <li><a href="{{ '/publications/physics-ledger/' | relative_url }}"><strong>Physics Ledger (free PDF)</strong></a>&mdash;67 predictions + 30 falsifications in one 156-page document</li>
-    <li><a href="{{ '/results/' | relative_url }}"><strong>Claims</strong></a>&mdash;250+ typed claims across four domains, in two readings (World Readouts + 10 Field Briefings) plus the Physics Ledger</li>
+    <li><a href="{{ '/results/' | relative_url }}"><strong>Claims</strong></a>&mdash;234 typed claims across four domains, in two readings (World Readouts + 10 Field Briefings) plus the Physics Ledger</li>
     <li><a href="{{ '/verify/' | relative_url }}"><strong>Verify</strong></a>&mdash;clone TauLib, run <code>lake build</code>, step through the tours</li>
     <li><a href="{{ '/media/' | relative_url }}"><strong>Media Kit</strong></a>&mdash;for journalists, podcast hosts, reviewers, and institutions</li>
     <li><a href="{{ '/engage/follow-the-research/' | relative_url }}"><strong>Follow the Research</strong></a>&mdash;stay connected with the program&rsquo;s ongoing work</li>

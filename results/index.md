@@ -7,10 +7,10 @@ summary_short: "The claims the Panta Rhei framework makes — each with a full p
 summary_cards:
 - title: What this lane does
   body: "Presents the framework's claims against recognized problems, with explicit epistemic status and canonical grounding."
-- title: "200+ claims"
+- title: "234 typed claims"
   body: "Frontier problems, foundational mathematics, and consequence claims across four domains — each typed and inspectable."
-- title: "Three claim types"
-  body: "Frontier problem (143), foundational math (62), consequence (29)."
+- title: "Four claim types"
+  body: "Frontier problem (106), structural readout (72), foundational math (30), consequence (26)."
 right_rail:
   related:
   - title: Framework Overview
@@ -46,7 +46,7 @@ The Framework lane answers **how** the τ machinery is built. The Claims lane an
 1. **Reading 1 · World Readouts** — τ's own-terms ontology, layer by layer
 2. **Reading 2 · Field Briefings** — τ's verdict on recognized open problems, cross-walked against canonical external lists
 3. **Physics Ledger** — 67 zero-parameter numerical predictions and 30 named falsifications (the framework's most directly testable content)
-4. **Browse All Claims** — the raw 250+ claim catalogue with client-side filters
+4. **Browse All Claims** — the 234-claim catalogue with client-side filters
 
 Before either reading, the [Claims Introduction]({{ '/results/prologue/' | relative_url }}) explains what counts as a claim — [How the Framework First Exists]({{ '/results/prologue/how-the-framework-first-exists/' | relative_url }}) sets the first epistemic stance.
 

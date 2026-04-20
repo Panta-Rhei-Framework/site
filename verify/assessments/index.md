@@ -98,7 +98,7 @@ Do not upload confidential, unpublished, or third-party restricted materials int
 
 ## Downloads
 
-- **[Scorecard template (CSV)]({{ '/assets/assessments/scorecard-template.csv' | relative_url }})** --- a blank three-gate scorecard for recording assessment results
+- **[Scorecard template (CSV)]({{ '/assets/downloads/assessment-scorecard.csv' | relative_url }})** --- a blank three-gate scorecard for recording assessment results (includes `assessment_id`, `review_mode`, `book_or_domain` header columns for collating multiple runs)
 - **[Dossier template (JSON)]({{ '/assets/assessments/dossier-template.json' | relative_url }})** --- the structured output schema for typed dossiers
 
 

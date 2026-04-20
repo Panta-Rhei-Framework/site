@@ -33,7 +33,7 @@ right_rail:
     updated: April 2026
 ---
 
-If the [previous page]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) asked what kind of mathematics Tau is, and the [page after it]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) what that mathematics makes true, then this page asks a deeper question still:
+If [the shape-of-mathematics page]({{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}) asked what kind of mathematics Tau is, and [what this mathematics makes true]({{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}) asked what that mathematics affirmatively yields, then this closing page of the mathematics readout asks a deeper question still:
 
 **what kind of mathematical world can enrich over itself, host internal logic, and still remain countable, constructive, and ontically closed at the base?**
 
