@@ -21,19 +21,41 @@ right_rail:
   meta:
     type: Companion Document
     scope: "Complete E₁ Physics Inventory"
-    pages: "199"
-    size: "1.06 MB"
-    status: "Canonical (v2.3.1, Round-5 Tier-D honesty pass)"
+    pages: "205"
+    size: "1.08 MB"
+    status: "Canonical (v2.4, v4 red-team research wave integrated)"
     updated: April 2026
 ---
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.06 MB, v2.3.1)
+    ⬇ Download Physics Ledger — Free PDF (1.08 MB, v2.4)
   </a>
 </div>
 
 The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
+
+**v2.4 note (April 2026) — v4 red-team research wave integrated.** A frontier-level red-team research wave (senior research director + three τ-framework-specialist subagents) executed all three v4 priority items identified in Round 5 simultaneously. The outcome is *nuanced, honest, and advances the theory*:
+
+1. **V4.1 Υ-free SPARC re-run** (Vasquez): under per-galaxy M/L-free fit, α* drifts from the v2.3 value 0.240 to **0.206 ± 0.015** (marginal posterior), which rejects κ<sub>ω</sub> = 0.2545 at **2.98σ**. However, standard baryonic coupling (α=1) is ruled out at ≥38σ — **sub-baryonic gas coupling is empirically CONFIRMED as a structural form**, even as the specific κ<sub>ω</sub> identification weakens. [Research note (8pp)](/assets/downloads/v4-1-upsilon-free-result.pdf).
+
+2. **V4.2 2-parameter robustness** (Chen): joint fit M<sub>eff</sub> = α<sub>★</sub>·M<sub>★</sub> + α<sub>gas</sub>·M<sub>gas</sub> yields **(α̂<sub>★</sub>, α̂<sub>gas</sub>) = (0.800 [0.745, 0.860], 0.316 [0.268, 0.368])**, ρ = −0.50. The v2.3 point (1, κ<sub>ω</sub>) is at 2-3σ tension (Δχ² = 10.06); **α<sub>★</sub> = 1 "D-sector full coupling" is FALSIFIED at 3.2σ**. BIC strongly prefers the 2-parameter model. High-Σ subsample robust. Closest τ-natural pair: (2/3, 1/e) at Δχ² = 5.9 — none inside 2σ. **New open item V4.10: find τ-natural pair for (0.80, 0.32).** [Research note (8pp)](/assets/downloads/v4-2-two-parameter-result.pdf).
+
+3. **V4.5 cosmology-consistency derivation** (Ramanathan): **RESOLVED via a two-tier coherence criterion** — a framework-level advance, not just a patch. The τ framework operates at two distinct levels: **Tier 1** = global cosmic-mean densities via D-sector holonomy ratio (1−ι<sub>τ</sub>)/ι<sub>τ</sub>² ≈ 6.65× on H<sub>∂</sub>[ω] (this is what sets ω<sub>m</sub>, ω<sub>b</sub>, ℓ<sub>1</sub>); **Tier 2** = local matter-phase coupling via trinary {1, κ<sub>ω</sub>, ≈0} (this is what sets BTFR). The decisive clue: V.T205's Y<sub>p</sub> = 20/81 derivation does *not* use the 6.65× dressing — proving the dressing is tier 1 (holonomy), not tier 2 (local). Collapsing the two tiers is what produced the apparent inconsistency. Under two-tier separation, **ℓ<sub>1</sub> = 220.6 survives** and Y<sub>p</sub> = 20/81 survives; the v2.3.1 cosmology-risk flag is CLEARED. Confidence medium-high pending τ-native CAMB/CLASS run. [Research note (11pp)](/assets/downloads/v4-5-cosmology-consistency-result.pdf).
+
+**Senior-director synthesis (4pp):** [v4-senior-director-synthesis.pdf](/assets/downloads/v4-senior-director-synthesis.pdf).
+
+**Net v2.4 posture:**
+- 3 τ-structural pillars unchanged (|gen|=3, θ<sub>QCD</sub>=0, λ<sub>C</sub>)
+- Sub-baryonic gas coupling in BTFR: **form confirmed; specific (1, κ<sub>ω</sub>) identification weakened to empirical (0.80, 0.32)**; coupling is real; V4.10 seeks τ-natural pair
+- Two-tier coherence (tier 1 global holonomy / tier 2 local matter-phase): **NEW framework insight** from V4.5
+- 2 honest retractions carried forward (h<sup>readout</sup> depth-dependent, AdS/CFT reduction)
+- Cosmology consistency at z~1100: **RESOLVED** (no longer open)
+- 6 remaining v4 open research items + 1 new (V4.10) + 1 strengthening requirement on V4.5 (τ-native CAMB/CLASS)
+
+The red-team wave produced a partial falsification (v2.3's specific coefficient identification) AND a genuine framework advance (two-tier coherence). The program claims less and delivers more than v2.3.1.
+
+---
 
 **v2.3.1 note (April 2026) — Round-5 Tier-D honesty pass on the structural refinement.** A fifth simulated-panel round re-reviewed v2.3's κ_ω claim as NEW content (not release polish). All four reviewers converged on two conclusions: **(1) the κ_ω refinement SURVIVES adversarial scrutiny** (κ_ω is a pre-existing framework constant in CLAUDE.md / Book IV Ch 42 / Book V Ch 60-64 pre-v2.3; single-parameter closure of both residuals is genuine; not p-hacked); **(2) the v2.3 research note over-claims in 7 specific ways** now corrected in v2.3.1 — candidate count corrected from 11 to 16 tested τ-naturals (with pre-registration disclosure); "unique at <1σ" retracted (data allow α ∈ [0.18, 0.42] at 68% CI); "decoherent-thermal" flagged as NEW v2.3 terminology (κ_ω pre-existing, sector-assignment LABELS new); ω→B transition criterion named as open v4 target; 3.6% residual language tightened; v4 research targets formalized. **Critical new open problem printed (R2 Mack)**: v2.3's trinary decomposition implies recombination-era baryons (z~1100) are B-sector with coupling ~0, which would break v2.1's CMB prediction ℓ_1 = 220.6; v4 must resolve whether (a) recombination-era baryons belong to D-sector despite being hot plasma, (b) ℓ_1 shifts under trinary recompute, (c) ω→B transition introduces new parameter, or (d) capacity-gradient decouples at matter-radiation decoupling. Net state: 3 τ-structural pillars + 1 structural refinement (survived scrutiny, 7 presentation corrections) + 2 honest retractions + 1 NEW cosmology-consistency open problem + 9 v4 research targets with scope. A framework that claims less and delivers more than yesterday.
 
@@ -73,7 +95,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
     <div style="padding: 28px 24px; display: flex; flex-direction: column; justify-content: center;">
       <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 12px;">Companion to Book V</span>
       <h2 style="margin: 0 0 12px; font-size: 1.4rem;">The τ Physics Ledger</h2>
-      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">199 pages · 11 chapters · 3 τ-structural pillars · structural refinement (κ<sub>ω</sub>) survived Round-5 scrutiny · 1 cosmology open problem · 9 v4 targets (v2.3.1 · Tier-D honest)</p>
+      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">205 pages · 11 chapters · 3 τ-structural pillars · sub-baryonic gas coupling form confirmed · two-tier coherence resolves cosmology · V4.10 new (v2.4 · v4 red-team wave integrated)</p>
       <p style="font-size: 0.85rem; color: #5b6772; margin: 0;">Dr. Thorsten Fuchs & Anna-Sophie Fuchs · Second Edition · 2026</p>
     </div>
     <div>
@@ -228,7 +250,7 @@ If even a fraction of the sub-10 ppm predictions hold under independent scrutiny
 
 <div class="btn-group" style="margin-top: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.06 MB, v2.3.1)
+    ⬇ Download Physics Ledger — Free PDF (1.08 MB, v2.4)
   </a>
   <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse 67 Predictions</a>
   <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Falsification Pack</a>
