@@ -12,7 +12,7 @@ experiment: "all DM searches"
 timeline: "permanent."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "no-dark-matter"
 registry_id: "V.T44"
 canonical_books:
   - "IV"

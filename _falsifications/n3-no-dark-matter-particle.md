@@ -12,7 +12,7 @@ experiment: "LZ, XLZD, PandaX, XENONnT, DARWIN, ADMX"
 timeline: "2025–2035."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "no-dark-matter"
 registry_id: "IV.T171"
 canonical_books:
   - "V"

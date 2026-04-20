@@ -151,7 +151,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 
 30 predictions with named experiments and 2025–2035 timelines. The sharpest discriminant: **N9** (tensor-to-scalar ratio r = 0.0136), testable at **14σ** by CMB-S4.
 
-Seven **falsifiable seams** where τ and orthodox physics make structurally incompatible predictions — from black hole topology (T² vs S²) to dark matter existence (zero vs WIMP/axion) to the equation of state (w₀ ≈ −0.960 vs w = −1).
+**Seven falsifiable seams** where τ and orthodox physics make structurally incompatible predictions — BH topology (T² vs S²), no dark matter (Sector Exhaustion vs WIMP/axion), w₀ vs Λ equation of state, r = ι_τ⁴ vs slow-roll inflation, ⁷Li resolved (S = 1/3) vs unresolved, θ_QCD = 0 (no axion) vs strong-CP tuning, and the holonomy ratio ℓ_D/ℓ_1 as a structural invariant. Twelve of the 30 pack entries carry seam tags in `_data/falsifications/falsifications.json` (mapping to `_data/seams.yml` labels); the paired CMB/inflation seam **N9 + N10** is the sharpest at ~14σ. Full seam-annotated card grid on [Falsifications browse]({{ '/results/falsifications/browse/' | relative_url }}).
 
 <div class="content-card" style="padding: 0; overflow: hidden; margin: 20px 0 28px;">
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 0;">
@@ -166,7 +166,7 @@ Seven **falsifiable seams** where τ and orthodox physics make structurally inco
         <li><strong>2029–2033</strong> — ngEHT, BICEP Array, SKA</li>
         <li><strong>2032–2035</strong> — Einstein Telescope, LISA</li>
       </ul>
-      <p style="font-size: 0.82rem; color: #5b6772; margin: 16px 0 0;">Current score: 10 confirmed, 13 consistent, 7 testable, 0 falsified.</p>
+      <p style="font-size: 0.82rem; color: #5b6772; margin: 16px 0 0;">Current score (falsification pack, from <code>_data/falsifications/falsifications.json</code>): 4 confirmed, 26 consistent, 0 falsified. 30 total.</p>
     </div>
   </div>
 </div>

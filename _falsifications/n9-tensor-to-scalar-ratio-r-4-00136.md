@@ -12,7 +12,7 @@ experiment: "BICEP Array, CMB-S4, LiteBIRD"
 timeline: "2027–2030."
 decisive: "$14$ by CMB-S4"
 current_status: "consistent"
-seam: null
+seam: "r-not-slow-roll"
 registry_id: "V.P136"
 canonical_books:
   - "V"

@@ -48,7 +48,7 @@
     "experiment": "LZ, XLZD, PandaX, XENONnT, DARWIN, ADMX",
     "timeline": "2025–2035.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "no-dark-matter",
     "registry_id": "IV.T171",
     "canonical_books": [
       "V"
@@ -67,7 +67,7 @@
     "experiment": "nEDM, n2EDM at PSI",
     "timeline": "2025–2030.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "theta-qcd-zero",
     "registry_id": "IV.T160",
     "canonical_books": [
       "V"
@@ -162,7 +162,7 @@
     "experiment": "BICEP Array, CMB-S4, LiteBIRD",
     "timeline": "2027–2030.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "r-not-slow-roll",
     "registry_id": "V.P136",
     "canonical_books": [
       "V"
@@ -181,7 +181,7 @@
     "experiment": "CMB-S4, LiteBIRD",
     "timeline": "2028–2032.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "r-not-slow-roll",
     "registry_id": "V.D253",
     "canonical_books": [
       "V"
@@ -257,7 +257,7 @@
     "experiment": "Planck legacy, CMB-S4",
     "timeline": "confirmed at $+9$~ppm.",
     "current_status": "confirmed",
-    "seam": null,
+    "seam": "holonomy-ratio",
     "registry_id": "V.D254",
     "canonical_books": [
       "V"
@@ -314,7 +314,7 @@
     "experiment": "stellar archaeology, primordial gas clouds",
     "timeline": "2025–2035.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "li7-resolved",
     "registry_id": "V.T243",
     "canonical_books": [
       "V"
@@ -333,7 +333,7 @@
     "experiment": "DESI, Euclid, Rubin/LSST",
     "timeline": "2025–2030.",
     "current_status": "confirmed",
-    "seam": null,
+    "seam": "w0-vs-lambda",
     "registry_id": "V.T235",
     "canonical_books": [
       "V"
@@ -352,7 +352,7 @@
     "experiment": "DESI, Euclid",
     "timeline": "2025–2030.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "w0-vs-lambda",
     "registry_id": "",
     "canonical_books": [
       "IV"
@@ -428,7 +428,7 @@
     "experiment": "all DM searches",
     "timeline": "permanent.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "no-dark-matter",
     "registry_id": "",
     "canonical_books": [
       "IV"
@@ -447,7 +447,7 @@
     "experiment": "LIGO/Virgo A+, LISA, Einstein Telescope",
     "timeline": "2029–2035.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "bh-topology-t2-vs-s2",
     "registry_id": "V.T168",
     "canonical_books": [
       "V"
@@ -466,7 +466,7 @@
     "experiment": "ngEHT (next-generation EHT)",
     "timeline": "2029–2033.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "bh-topology-t2-vs-s2",
     "registry_id": "V.T220",
     "canonical_books": [
       "V"
@@ -485,7 +485,7 @@
     "experiment": "Einstein Telescope, Cosmic Explorer, LISA",
     "timeline": "2032–2040.",
     "current_status": "consistent",
-    "seam": null,
+    "seam": "bh-topology-t2-vs-s2",
     "registry_id": "V.T185",
     "canonical_books": [
       "V"

@@ -12,7 +12,7 @@ experiment: "DESI, Euclid"
 timeline: "2025–2030."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "w0-vs-lambda"
 registry_id: "V.P159"
 canonical_books:
   - "IV"

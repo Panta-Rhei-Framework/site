@@ -12,7 +12,7 @@ experiment: "nEDM, n2EDM at PSI"
 timeline: "2025–2030."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "theta-qcd-zero"
 registry_id: "IV.T160"
 canonical_books:
   - "V"

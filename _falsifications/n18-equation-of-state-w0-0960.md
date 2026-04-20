@@ -12,7 +12,7 @@ experiment: "DESI, Euclid, Rubin/LSST"
 timeline: "2025–2030."
 decisive: ""
 current_status: "confirmed"
-seam: null
+seam: "w0-vs-lambda"
 registry_id: "V.T235"
 canonical_books:
   - "V"

@@ -12,7 +12,7 @@ experiment: "Planck legacy, CMB-S4"
 timeline: "confirmed at $+9$~ppm."
 decisive: ""
 current_status: "confirmed"
-seam: null
+seam: "holonomy-ratio"
 registry_id: "V.D254"
 canonical_books:
   - "V"

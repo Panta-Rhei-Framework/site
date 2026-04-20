@@ -12,7 +12,7 @@ experiment: "LIGO/Virgo A+, LISA, Einstein Telescope"
 timeline: "2029–2035."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "bh-topology-t2-vs-s2"
 registry_id: "V.T168"
 canonical_books:
   - "V"

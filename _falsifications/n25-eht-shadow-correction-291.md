@@ -12,7 +12,7 @@ experiment: "ngEHT (next-generation EHT)"
 timeline: "2029–2033."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "bh-topology-t2-vs-s2"
 registry_id: "V.T220"
 canonical_books:
   - "V"

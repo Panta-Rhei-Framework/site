@@ -12,7 +12,7 @@ experiment: "CMB-S4, LiteBIRD"
 timeline: "2028–2032."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "r-not-slow-roll"
 registry_id: "V.D253"
 canonical_books:
   - "V"

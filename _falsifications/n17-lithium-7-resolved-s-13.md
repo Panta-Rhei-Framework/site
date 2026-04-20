@@ -12,7 +12,7 @@ experiment: "stellar archaeology, primordial gas clouds"
 timeline: "2025–2035."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "li7-resolved"
 registry_id: "V.T243"
 canonical_books:
   - "V"

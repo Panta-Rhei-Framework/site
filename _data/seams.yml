@@ -1,0 +1,14 @@
+# Falsifiable-seam labels — slug → human-readable display name
+# Source of truth: Physics Ledger v2.1.2, §11.4 (p. 138)
+# Seven seams identified where τ and orthodox consensus make structurally
+# incompatible claims (not merely different numerical values).
+# Referenced by _layouts/falsification-page.html and falsifications-browse.html
+# via {{ site.data.seams[fals.seam] }} lookup.
+
+bh-topology-t2-vs-s2: "BH Topology (T² vs S²)"
+no-dark-matter:       "No Dark Matter"
+w0-vs-lambda:         "w₀ vs Λ"
+r-not-slow-roll:      "r = ι_τ⁴ vs slow-roll"
+li7-resolved:         "⁷Li resolved (S = 1/3)"
+theta-qcd-zero:       "θ_QCD = 0 (no axion)"
+holonomy-ratio:       "Holonomy ratio ℓ_D/ℓ_1"

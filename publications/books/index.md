@@ -7,7 +7,7 @@ summary_short: "The canonical monograph series — seven books tracing the enric
 summary_cards:
   - title: "Proof-order"
     body: "The books are organized sequentially, each earning its content from what came before. No hidden forward dependencies."
-  - title: "3,430 pages"
+  - title: "3,431 pages"
     body: "79 parts, 535 chapters across 7 volumes — the complete canonical prose articulation of the framework."
   - title: "Available now"
     body: "Hardcover, paperback, and Kindle on Amazon KDP. 2nd Edition, April 2026."

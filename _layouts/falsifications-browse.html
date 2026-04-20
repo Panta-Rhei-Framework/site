@@ -76,7 +76,7 @@ layout: default
             <span class="chip chip-small chip-fals-id">{{ fals.id }}</span>
             <span class="chip chip-small">{{ fals.domain_display }}</span>
             <span class="chip chip-small chip-status-{{ fals.current_status }}">{{ fals.current_status | capitalize }}</span>
-            {% if fals.seam %}<span class="chip chip-small chip-seam">Seam {{ fals.seam }}</span>{% endif %}
+            {% if fals.seam %}<span class="chip chip-small chip-seam" title="Falsifiable seam — τ vs orthodox, structurally incompatible claim">{{ site.data.seams[fals.seam] | default: fals.seam }}</span>{% endif %}
           </div>
           <h3 class="falsification-card-title">{{ fals.title }}</h3>
           <div class="falsification-card-meta">

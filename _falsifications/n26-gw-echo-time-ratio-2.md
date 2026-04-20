@@ -12,7 +12,7 @@ experiment: "Einstein Telescope, Cosmic Explorer, LISA"
 timeline: "2032–2040."
 decisive: ""
 current_status: "consistent"
-seam: null
+seam: "bh-topology-t2-vs-s2"
 registry_id: "V.T185"
 canonical_books:
   - "V"
