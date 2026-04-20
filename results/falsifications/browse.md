@@ -62,4 +62,4 @@ Each card below carries:
 - **Current status** — *confirmed* (already falsified-or-confirmed at ≥3σ), *consistent* (present data matches τ-derived value within uncertainty; decisive test awaits the named experiment), or *testable* (committed but not yet live)
 - **Scope label** — all 30 pack entries are **τ-effective** (quantitative τ-derivation with a measurable discriminant); a small number carry **conjectural** flags where the derivation requires an axiom still in compute-then-axiomatize status (see [Scope Labels]({{ '/verify/taulib/scope-labels/' | relative_url }}))
 
-The complete typeset document (197 pp) with full derivations, tables, experimental timelines, and falsification logic per test is available as a free download: [**Physics Ledger (PDF, 1.04 MB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
+The complete typeset document (209 pp) with full derivations, tables, experimental timelines, and falsification logic per test is available as a free download: [**Physics Ledger (PDF, 1.11 MB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).

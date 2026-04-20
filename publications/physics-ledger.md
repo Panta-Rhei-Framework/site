@@ -4,7 +4,7 @@ title: "The Physics Ledger"
 permalink: /publications/physics-ledger/
 lane: publications
 section: "Publications · Companion"
-summary_short: "The complete numerical scorecard of the Panta Rhei Research Program — three τ-structural pillars plus a 30-item falsification pack with propagated uncertainty bands, derived from the master constant ι<sub>τ</sub> = 2/(π+e) posited as framework input. Zero free continuous parameters. Free PDF download."
+summary_short: "The complete numerical scorecard — from one algebraic posit (ι<sub>τ</sub> = 2/(π+e)) plus one SI measurement (neutron mass m<sub>n</sub>) through a four-layer calibration cascade to every observable value. Three τ-structural pillars, 30-item falsification pack, zero free continuous parameters. Free PDF download."
 right_rail:
   related:
   - title: Predictions Browse
@@ -21,19 +21,36 @@ right_rail:
   meta:
     type: Companion Document
     scope: "Complete E₁ Physics Inventory"
-    pages: "197"
-    size: "1.04 MB"
+    pages: "209"
+    size: "1.11 MB"
     status: "Canonical (2nd Edition)"
     updated: April 2026
 ---
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.04 MB, 197 pp)
+    ⬇ Download Physics Ledger — Free PDF (1.11 MB, 209 pp)
   </a>
 </div>
 
 The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
+
+## The calibration cascade (the architectural spine)
+
+The entire numerical scorecard rests on **two inputs**:
+
+- One algebraic posit: **ι<sub>τ</sub> = 2/(π + e) ≈ 0.341304**
+- One SI measurement: the **neutron mass m<sub>n</sub> = 1.674927498(95) × 10⁻²⁷ kg**
+
+From these two inputs, a **four-layer cascade** compiles every other quantity:
+
+- **L0 — Algebraic layer**: ι<sub>τ</sub>, κ<sub>D</sub> = 1−ι<sub>τ</sub>, κ<sub>ω</sub> = ι<sub>τ</sub>/(1+ι<sub>τ</sub>), √3 lemniscate capacity, continued-fraction window sums W<sub>n</sub>(k).
+- **L1 — Dimensionless layer**: all mass ratios, all mixing angles, all couplings. Includes α = (121/225)ι<sub>τ</sub>⁴, R₀ = ι<sub>τ</sub>⁻⁷ − √3·ι<sub>τ</sub>⁻² (m<sub>p</sub>/m<sub>e</sub> at **0.025 ppm** — the flagship prediction), α<sub>G</sub> = α¹⁸√3(1 − 3α/π).
+- **L2 — Single SI anchor**: m<sub>n</sub> (CODATA 2018). One measurement, theory-forced by the No Knobs Theorem.
+- **L3 — SI-anchored layer**: m<sub>e</sub>, G, m<sub>P</sub>, ℏ, k<sub>B</sub>, ε₀, μ₀ — obtained by the linear rescaling functor M<sub>SI</sub> = R<sub>M</sub>[M<sub>τ</sub>] = M<sub>τ</sub> · (m<sub>n</sub><sup>SI</sup> / m<sub>n</sub><sup>τ</sup>).
+- **L4 — Verification layer**: the 30-item falsification pack N1–N30 + all observational predictions across particle physics, atomic spectroscopy, cosmology.
+
+**Three precision tiers** characterize the predictions: **Tier A** (~0.025 ppm, via mass-ratio route); **Tier B** (~3 ppm, via the G-α closing identity); **Tier C** (~0.8%, fine-structure leading order). Chapter 58a of the companion contains the complete self-contained cascade architecture.
 
 ## What the Ledger contains
 
@@ -71,7 +88,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
     <div style="padding: 28px 24px; display: flex; flex-direction: column; justify-content: center;">
       <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 12px;">Companion to Book V</span>
       <h2 style="margin: 0 0 12px; font-size: 1.4rem;">The τ Physics Ledger</h2>
-      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">197 pages · 11 chapters · 3 τ-structural pillars · 30-item falsification pack · 7 falsifiable seams · two-tier coherence structure · tier-1 τ-native holography (sketched)</p>
+      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">209 pages · 12 chapters · 4-layer calibration cascade · 3 τ-structural pillars · 30-item falsification pack (tier-tagged A/B/C) · 7 falsifiable seams · two-tier coherence structure · tier-1 τ-native holography (sketched)</p>
       <p style="font-size: 0.85rem; color: #5b6772; margin: 0;">Dr. Thorsten Fuchs & Anna-Sophie Fuchs · Second Edition · 2026</p>
     </div>
     <div>
@@ -226,7 +243,7 @@ If even a fraction of the sub-10 ppm predictions hold under independent scrutiny
 
 <div class="btn-group" style="margin-top: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.04 MB, 197 pp)
+    ⬇ Download Physics Ledger — Free PDF (1.11 MB, 209 pp)
   </a>
   <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse 67 Predictions</a>
   <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Falsification Pack</a>

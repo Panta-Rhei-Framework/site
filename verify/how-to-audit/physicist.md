@@ -25,7 +25,7 @@ This route is for physicists evaluating the framework's empirical content. Books
 
 ## The three artifacts to inspect first
 
-### 1. The [Physics Ledger PDF]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) (197 pp, 1.04 MB, free download)
+### 1. The [Physics Ledger PDF]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) (209 pp, 1.11 MB, free download)
 
 Contains the full derivation chains for all 67 zero-parameter numerical predictions from ι<sub>τ</sub> = 2/(π+e). Every prediction compares a τ-derived value directly to experimental measurement, typically to Planck/PDG/CODATA central values, with ppm-scale deviations reported.
 

@@ -115,6 +115,6 @@ Until those land, this ledger is the honest framework-level statement.
 
 - [Predictions Browse]({{ '/results/predictions/browse/' | relative_url }}) — the full 67-prediction catalogue with filters
 - [Falsification Pack]({{ '/results/falsifications/browse/' | relative_url }}) — 30 sharpest predictions against named experiments on explicit timelines
-- [Physics Ledger (PDF, 1.04 MB, 197 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — complete typeset document with derivations
+- [Physics Ledger (PDF, 1.11 MB, 209 pp)]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}) — complete typeset document with derivations
 - [Red-team FAQ]({{ '/research-program/about/red-team-faq/' | relative_url }}) — common skeptical questions answered honestly
 - [Release Manifest]({{ '/verify/release-manifest/' | relative_url }}) — pinned release state and build verification
