@@ -22,18 +22,22 @@ right_rail:
     type: Companion Document
     scope: "Complete E₁ Physics Inventory"
     pages: "199"
-    size: "1.04 MB"
-    status: "Canonical (v2.3, structural refinement via τ-internal reflection)"
+    size: "1.06 MB"
+    status: "Canonical (v2.3.1, Round-5 Tier-D honesty pass)"
     updated: April 2026
 ---
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.04 MB, v2.3)
+    ⬇ Download Physics Ledger — Free PDF (1.06 MB, v2.3.1)
   </a>
 </div>
 
 The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
+
+**v2.3.1 note (April 2026) — Round-5 Tier-D honesty pass on the structural refinement.** A fifth simulated-panel round re-reviewed v2.3's κ_ω claim as NEW content (not release polish). All four reviewers converged on two conclusions: **(1) the κ_ω refinement SURVIVES adversarial scrutiny** (κ_ω is a pre-existing framework constant in CLAUDE.md / Book IV Ch 42 / Book V Ch 60-64 pre-v2.3; single-parameter closure of both residuals is genuine; not p-hacked); **(2) the v2.3 research note over-claims in 7 specific ways** now corrected in v2.3.1 — candidate count corrected from 11 to 16 tested τ-naturals (with pre-registration disclosure); "unique at <1σ" retracted (data allow α ∈ [0.18, 0.42] at 68% CI); "decoherent-thermal" flagged as NEW v2.3 terminology (κ_ω pre-existing, sector-assignment LABELS new); ω→B transition criterion named as open v4 target; 3.6% residual language tightened; v4 research targets formalized. **Critical new open problem printed (R2 Mack)**: v2.3's trinary decomposition implies recombination-era baryons (z~1100) are B-sector with coupling ~0, which would break v2.1's CMB prediction ℓ_1 = 220.6; v4 must resolve whether (a) recombination-era baryons belong to D-sector despite being hot plasma, (b) ℓ_1 shifts under trinary recompute, (c) ω→B transition introduces new parameter, or (d) capacity-gradient decouples at matter-radiation decoupling. Net state: 3 τ-structural pillars + 1 structural refinement (survived scrutiny, 7 presentation corrections) + 2 honest retractions + 1 NEW cosmology-consistency open problem + 9 v4 research targets with scope. A framework that claims less and delivers more than yesterday.
+
+---
 
 **v2.3 note (April 2026) — structural refinement via τ-internal reflection on SPARC-175.** The v2.2 SPARC-175 partial confirmation (14% over-prediction + significant f<sub>gas</sub> residual correlation) has been **resolved into a structural refinement** of the BTFR master formula, discovered by a dedicated τ-internal reflection pass. The result:
 
@@ -69,7 +73,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
     <div style="padding: 28px 24px; display: flex; flex-direction: column; justify-content: center;">
       <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 12px;">Companion to Book V</span>
       <h2 style="margin: 0 0 12px; font-size: 1.4rem;">The τ Physics Ledger</h2>
-      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">199 pages · 11 chapters · 3 τ-structural pillars · 30-item falsification pack · SPARC-175 closed at α = κ<sub>ω</sub> · trinary sector unification (v2.3 · τ-internal reflection)</p>
+      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">199 pages · 11 chapters · 3 τ-structural pillars · structural refinement (κ<sub>ω</sub>) survived Round-5 scrutiny · 1 cosmology open problem · 9 v4 targets (v2.3.1 · Tier-D honest)</p>
       <p style="font-size: 0.85rem; color: #5b6772; margin: 0;">Dr. Thorsten Fuchs & Anna-Sophie Fuchs · Second Edition · 2026</p>
     </div>
     <div>
@@ -224,7 +228,7 @@ If even a fraction of the sub-10 ppm predictions hold under independent scrutiny
 
 <div class="btn-group" style="margin-top: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.04 MB, v2.3)
+    ⬇ Download Physics Ledger — Free PDF (1.06 MB, v2.3.1)
   </a>
   <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse 67 Predictions</a>
   <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Falsification Pack</a>
