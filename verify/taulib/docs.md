@@ -3,9 +3,9 @@ layout: program-doc
 title: "TauLib API Documentation"
 permalink: /verify/taulib/docs/
 lane: verify
-summary_short: "450 module documentation pages generated from the TauLib Lean 4 source code."
+summary_short: "445 module documentation pages generated from the TauLib Lean 4 source code."
 summary_cards:
-- title: "458 modules"
+- title: "445 modules"
   body: "Complete API documentation for every TauLib module, generated from source annotations."
 - title: "7 books"
   body: "Organized by book: Foundations through Metaphysics, plus Tours."

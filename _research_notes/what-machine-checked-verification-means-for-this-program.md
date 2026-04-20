@@ -28,7 +28,7 @@ right_rail:
 
 ## The formalization
 
-[TauLib]({{ '/verify/taulib/' | relative_url }}) is the Lean 4 formalization library for Category &tau;. It currently comprises 458 modules, 127,440 lines of code, and 4,332 machine-checked theorems across all seven books, with zero `sorry` across all 7 books after `peer-review-fixes-v1` (2026-04-19) retired three performative `theorem X : True := sorry` markers in [Book VII]({{ '/publications/books/book-vii/' | relative_url }}) in favor of inspectable `def : Commitment` values.
+[TauLib]({{ '/verify/taulib/' | relative_url }}) is the Lean 4 formalization library for Category &tau;. It currently comprises 445 modules, 127,440 lines of code, and 4,332 machine-checked theorems across all seven books, with zero `sorry` across all 7 books after `peer-review-fixes-v1` (2026-04-19) retired three performative `theorem X : True := sorry` markers in [Book VII]({{ '/publications/books/book-vii/' | relative_url }}) in favor of inspectable `def : Commitment` values.
 
 This is not a decorative badge. It is a structural commitment.
 

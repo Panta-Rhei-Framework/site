@@ -8,7 +8,7 @@ summary_cards:
   - title: "Falsification Pack"
     body: "220+ quantitative predictions with precision claims, pre-registered for CMB-S4."
   - title: "Lean Verification Report"
-    body: "TauLib: 458 modules, 127,440 lines, zero sorry across all 7 books, 3 conjectural axioms."
+    body: "TauLib: 445 modules, 127,440 lines, zero sorry across all 7 books, 3 conjectural axioms."
   - title: "Reviewer's Dossier"
     body: "Factual substrate for institutional evaluators."
 right_rail:

@@ -16,7 +16,7 @@ taulib:
   commit_date: "2026-04-19"
   license: "Apache-2.0"
   license_url: "https://github.com/Panta-Rhei-Research/taulib/blob/main/LICENSE"
-  description: "Live Lean 4 formalization of Category τ — 458 modules, 127K lines, 4332 theorems, 0 sorry across all 7 books of TauLib Lean source, 3 conjectural axioms (Book III); Book VI is registry-planned, not yet Lean-formalized — scope tiered, see /verify/filter-rules/"
+  description: "Live Lean 4 formalization of Category τ — 445 modules, 127K lines, 4332 theorems, 0 sorry across all 7 books of TauLib Lean source, 3 conjectural axioms (Book III); Book VI is registry-planned, not yet Lean-formalized — scope tiered, see /verify/filter-rules/"
 
 lean:
   version: "v4.28.0-rc1"

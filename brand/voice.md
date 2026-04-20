@@ -54,7 +54,7 @@ An independent open research program developing Category τ — a constrained ca
 ### 1-paragraph (600–900 chars)
 
 ```
-The Panta Rhei Research Program is an independent open research program founded by Dr. Thorsten Fuchs and Anna-Sophie Fuchs. It develops Category τ — a categorical kernel built from five generators, seven axioms, and one operator — and uses that kernel to derive results across mathematics, physics, life, and metaphysics from a single constraint discipline. The program's canonical release comprises seven books, a Lean 4 formalization library (TauLib, 458 modules, zero sorry across all 7 books, 3 conjectural axioms), 234 typed claims with explicit scope labels, and a public research website. Every derivation is inspectable, every prediction is computable, and every claim carries its epistemic status in the open. panta-rhei.site
+The Panta Rhei Research Program is an independent open research program founded by Dr. Thorsten Fuchs and Anna-Sophie Fuchs. It develops Category τ — a categorical kernel built from five generators, seven axioms, and one operator — and uses that kernel to derive results across mathematics, physics, life, and metaphysics from a single constraint discipline. The program's canonical release comprises seven books, a Lean 4 formalization library (TauLib, 445 modules, zero sorry across all 7 books, 3 conjectural axioms), 234 typed claims with explicit scope labels, and a public research website. Every derivation is inspectable, every prediction is computable, and every claim carries its epistemic status in the open. panta-rhei.site
 ```
 
 ## Thor voice
@@ -161,7 +161,7 @@ Each block below is ready to paste into the platform's "About" / "Bio" / "Headli
 - **About** (2600 chars max): use the **Thor 1-paragraph** voice, followed by:
   ```
   What I'm working on now:
-  — Formalizing Category τ in Lean 4 through TauLib (open source, 458 modules, 127k lines)
+  — Formalizing Category τ in Lean 4 through TauLib (open source, 445 modules, 127k lines)
   — The 7-book Panta Rhei monograph series (Amazon KDP)
   — 234 typed claims with explicit scope labels across mathematics, physics, life, and metaphysics
   — Public assessment protocols for structured first-pass review of the framework
@@ -194,7 +194,7 @@ Each block below is ready to paste into the platform's "About" / "Bio" / "Headli
   What we publish
   ━━━━━━━━━━━━━━━
   → 7 canonical books (Amazon KDP, April 2026)
-  → TauLib: 458 Lean 4 modules, 4,332 theorems, 0 sorry across all 7 books
+  → TauLib: 445 Lean 4 modules, 4,332 theorems, 0 sorry across all 7 books
   → 234 typed claims + 67 zero-parameter numerical predictions
   → 30 falsification tests with named experiments and 2025–2035 timelines
   → Public research website with registry, bibliography, and verification surfaces
@@ -278,7 +278,7 @@ Three variants. Pick by morning mood. My ordered preference: A > C > B.
 Hi — I'm Thor. I've spent the last few years building an independent
 research program formalizing a categorical kernel in Lean 4.
 
-TauLib: 458 modules · 127k lines · 4332 theorems · 0 sorry across all 7 books · 3 conjectural axioms.
+TauLib: 445 modules · 127k lines · 4332 theorems · 0 sorry across all 7 books · 3 conjectural axioms.
 
 Would very much value eyes from the mathlib community on the proofs.
 
@@ -332,7 +332,7 @@ If the predictions fail, the framework fails. That's the point.
   ```
   Today the Panta Rhei Research Program makes its canonical release public.
 
-  Seven books · TauLib (Lean 4 formalization, 458 modules, 0 sorry across all 7 books) · 234 typed claims · 67 zero-parameter numerical predictions · 30 named falsification tests.
+  Seven books · TauLib (Lean 4 formalization, 445 modules, 0 sorry across all 7 books) · 234 typed claims · 67 zero-parameter numerical predictions · 30 named falsification tests.
 
   An independent research program built on one principle: every claim inspectable, every derivation computable, every prediction falsifiable.
 

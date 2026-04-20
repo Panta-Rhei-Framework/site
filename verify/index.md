@@ -12,7 +12,7 @@ hero_ctas:
     url: /verify/release-manifest/
   - label: "Formalization Status"
     url: /verify/taulib/status/
-hero_supporting_line: "458 Lean 4 modules · 127,440 lines · 4,332 machine-checked theorems · 0 sorry across all 7 books (TauLib Lean corpus; scope tiered — see [filter rules](/verify/filter-rules/)) · 3 conjectural axioms · Mathlib for tactics only."
+hero_supporting_line: "445 Lean 4 modules · 127,440 lines · 4,332 machine-checked theorems · 0 sorry across all 7 books (TauLib Lean corpus; scope tiered — see [filter rules](/verify/filter-rules/)) · 3 conjectural axioms · Mathlib for tactics only."
 summary_cards:
   - title: "What can be checked"
     body: "Every theorem in TauLib compiles in Lean 4. Every quantitative prediction has an explicit formula. Every scope claim carries its epistemic label."

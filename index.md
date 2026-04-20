@@ -104,7 +104,7 @@ right_rail:
   <p>This is not a program that asks for trust. It is a program that provides inspection routes:</p>
   <ul>
     <li><strong>{{ book_count }} canonical books</strong>&mdash;{{ chapter_count }} chapters in proof-order, available on Amazon KDP</li>
-    <li><strong>TauLib</strong>&mdash;458 Lean 4 modules, 127,440 lines, 4,332 machine-checked theorems, 0 sorry across all 7 books of TauLib Lean source (Book VI is registry-planned, not yet Lean-formalized&mdash;see <a href="{{ '/verify/filter-rules/' | relative_url }}">filter rules</a>); ships under Apache-2.0, site prose under CC BY 4.0</li>
+    <li><strong>TauLib</strong>&mdash;445 Lean 4 modules, 127,440 lines, 4,332 machine-checked theorems, 0 sorry across all 7 books of TauLib Lean source (Book VI is registry-planned, not yet Lean-formalized&mdash;see <a href="{{ '/verify/filter-rules/' | relative_url }}">filter rules</a>); ships under Apache-2.0, site prose under CC BY 4.0</li>
     <li><strong>{{ registry_count }} registry objects</strong>&mdash;every definition, theorem, and proposition with dependency graphs</li>
     <li><strong>67 quantitative predictions</strong>&mdash;from one constant, with 15 at sub-10 ppm precision, each filterable by domain, precision tier, and scope</li>
     <li><strong>30 falsification tests (N1&ndash;N30)</strong>&mdash;named experiments (CMB-S4, LZ, DESI, ngEHT), specific timelines, 5&sigma; threshold</li>
