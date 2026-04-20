@@ -22,7 +22,7 @@ right_rail:
 **Dr. Thorsten Fuchs**
 Panta Rhei Research Program
 
-Postfach [Nummer wird ergänzt]
+Postfach 3670
 85276 Pfaffenhofen
 Deutschland
 
@@ -101,9 +101,9 @@ Soweit künftig darüber hinausgehende Analyse-, Tracking- oder Komfortfunktione
 
 ## 9. Schriftarten
 
-Diese Website lädt Schriftarten von **Google Fonts** (Google Ireland Limited, Gordon House, Barrow Street, Dublin 4, Irland). Beim Abruf der Schriftarten wird Ihre IP-Adresse an Google übermittelt. Details finden Sie in der [Google Datenschutzerklärung](https://policies.google.com/privacy).
+Diese Website verwendet die Schriftart **Inter** (Variable Font, SIL Open Font License). Die Schriftdatei wird **lokal vom Hosting-Server (GitHub Pages) ausgeliefert** und nicht von einem externen Schriftartendienst nachgeladen. Es werden insbesondere **keine Verbindungen zu Google Fonts, Adobe Fonts oder vergleichbaren Drittanbietern** hergestellt. Eine Übermittlung Ihrer IP-Adresse an Dritte zum Zweck der Schriftauslieferung findet nicht statt.
 
-**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der einheitlichen Darstellung der Website).
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse an der einheitlichen Darstellung der Website bei gleichzeitiger Datenminimierung).
 
 ## 10. Ihre Rechte
 

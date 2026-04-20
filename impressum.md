@@ -22,7 +22,7 @@ right_rail:
 **Dr. Thorsten Fuchs**
 Panta Rhei Research Program
 
-Postfach [Nummer wird ergänzt]
+Postfach 3670
 85276 Pfaffenhofen
 Deutschland
 

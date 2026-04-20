@@ -24,7 +24,7 @@ The Panta Rhei project's formalization repository [TauLib](https://github.com/Pa
 
 ## Fonts
 
-- **[Inter](https://rsms.me/inter/)** by Rasmus Andersson — UI typeface, served via [Google Fonts](https://fonts.google.com/specimen/Inter) under the SIL Open Font License 1.1.
+- **[Inter](https://rsms.me/inter/)** by Rasmus Andersson — UI typeface, self-hosted as a single variable `.woff2` under the SIL Open Font License 1.1 (zero external font requests).
 - **Georgia / Times New Roman** — system serif fallbacks for display math and decorative glyphs.
 
 ## Site infrastructure
