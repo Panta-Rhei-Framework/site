@@ -48,7 +48,7 @@ The detailed processes may remain physical, but the structures that make those p
 
 That is the decisive point.
 
-## What E2 adds
+## What E2 adds *(τ-effective)*
 
 Life introduces a new layer of relations and invariants:
 - inside/outside distinction,
@@ -78,7 +78,7 @@ Tau proposes that E2 contains structural optimization gradients tied to:
 
 So the biological "better" is not only a post hoc summary of what happened to win. It is related to real E2 structural criteria — τ-effective in the program's reading, not yet a derivation that replaces tautological fitness but a reframing of what "fitness" is measuring when life is taken seriously as an E2 structure.
 
-## Biology as enriched physics
+## Biology as enriched physics *(τ-effective / conjectural at bridge)*
 
 The right summary is therefore neither:
 - life is just physics,
@@ -101,10 +101,10 @@ The detailed processes of life remain physical, but the structures that make tho
 
 ## Canonical References
 
-- [VI.T04]({{ '/registry/object/VI.T04/' | relative_url }}) — Layer Separation Lemma
-- [VI.D53]({{ '/registry/object/VI.D53/' | relative_url }}) — SelfDesc over Code Not Carrier
-- [VI.L08]({{ '/registry/object/VI.L08/' | relative_url }}) — Substrate Replacement Preserves Life-Equivalence
-- [VI.D50]({{ '/registry/object/VI.D50/' | relative_url }}) — PPAS Algorithm on Fitness Landscapes
+- [VI.T04]({{ '/registry/object/VI.T04/' | relative_url }}) — Layer Separation Lemma *(τ-effective)*
+- [VI.D53]({{ '/registry/object/VI.D53/' | relative_url }}) — SelfDesc over Code Not Carrier *(τ-effective)*
+- [VI.L08]({{ '/registry/object/VI.L08/' | relative_url }}) — Substrate Replacement Preserves Life-Equivalence *(τ-effective)*
+- [VI.D50]({{ '/registry/object/VI.D50/' | relative_url }}) — PPAS Algorithm on Fitness Landscapes *(conjectural)*
 
 ---
 

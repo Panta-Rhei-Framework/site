@@ -18,6 +18,8 @@ right_rail:
 
 **Status:** 60 Resolved, 10 Partial, 1 Qualitative, 2 Contradicted, 3 Not Addressed.
 
+> **Resolution status vs. scope labels.** The Resolved / Partial / Qualitative / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each claim inside τ and live on the per-claim detail pages.
+
 ## Results
 
 - [ABC Conjecture](/results/problem/abc-conjecture/) — Not Addressed

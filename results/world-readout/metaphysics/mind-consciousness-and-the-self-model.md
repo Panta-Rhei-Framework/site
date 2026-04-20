@@ -36,7 +36,7 @@ Once a world reaches E3, it can no longer talk only about ontology, ethics, and 
 
 Tau’s answer does not begin from ghostly substance or from a merely mechanical reduction. It begins from reflective structure.
 
-## Minds as internal worlds
+## Minds as internal worlds *(τ-effective)*
 
 One of the strongest E3 claims is that minds can be read as internal world-structures: not detached spectators floating above reality, but local interiors of a world that has become able to host self-modeling structure.
 
@@ -48,13 +48,13 @@ The self in Tau is not a fixed metaphysical pearl. It is closer to a story-beari
 
 That is one of the reasons the framework can discuss personal identity with more flexibility than both crude physicalism and crude soul-dualism.
 
-## Consciousness as global section
+## Consciousness as global section *(τ-effective)*
 
 The site should also make clear that Tau does not treat consciousness as an arbitrary bolt-on mystery. It treats it as a structured global section of a sufficiently rich internal world. That makes consciousness neither trivial nor magical. It is a real condition of a certain reflective organization.
 
 This is one of the strongest claims in the whole E3 layer.
 
-## Intentionality and free will
+## Intentionality and free will *(τ-effective)*
 
 Intentionality can then be read as directed structure within such a reflective world, and free will as real branching in a self-modeling order rather than as the metaphysical fantasy of an uncaused interruption in nature.
 
@@ -79,14 +79,14 @@ Tau therefore treats mind, selfhood, and consciousness as real structures of the
 
 ## Canonical References
 
-- [VII.D82]({{ '/registry/object/VII.D82/' | relative_url }}) — Mind-Topos
-- [VII.T39]({{ '/registry/object/VII.T39/' | relative_url }}) — Mind-Topos Structure Theorem
-- [VII.D83]({{ '/registry/object/VII.D83/' | relative_url }}) — Story Functor
-- [VII.T40]({{ '/registry/object/VII.T40/' | relative_url }}) — Narrative Identity as Functor
-- [VII.T41]({{ '/registry/object/VII.T41/' | relative_url }}) — Consciousness as Global Section
-- [VII.L14]({{ '/registry/object/VII.L14/' | relative_url }}) — Binding as Gluing
-- [VII.T43]({{ '/registry/object/VII.T43/' | relative_url }}) — Free Will as Branching
-- [VII.R41]({{ '/registry/object/VII.R41/' | relative_url }}) — Hard Problem Status
+- [VII.D82]({{ '/registry/object/VII.D82/' | relative_url }}) — Mind-Topos *(τ-effective)*
+- [VII.T39]({{ '/registry/object/VII.T39/' | relative_url }}) — Mind-Topos Structure Theorem *(τ-effective)*
+- [VII.D83]({{ '/registry/object/VII.D83/' | relative_url }}) — Story Functor *(τ-effective)*
+- [VII.T40]({{ '/registry/object/VII.T40/' | relative_url }}) — Narrative Identity as Functor *(τ-effective)*
+- [VII.T41]({{ '/registry/object/VII.T41/' | relative_url }}) — Consciousness as Global Section *(τ-effective)*
+- [VII.L14]({{ '/registry/object/VII.L14/' | relative_url }}) — Binding as Gluing *(τ-effective)*
+- [VII.T43]({{ '/registry/object/VII.T43/' | relative_url }}) — Free Will as Branching *(τ-effective)*
+- [VII.R41]({{ '/registry/object/VII.R41/' | relative_url }}) — Hard Problem Status *(conjectural — program cautions)*
 
 ---
 

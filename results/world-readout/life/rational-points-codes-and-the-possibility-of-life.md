@@ -53,7 +53,7 @@ What life needs is a coarser and higher-order discreteness:
 
 This is where the significance of rational points enters.
 
-## Why rational points matter
+## Why rational points matter *(conjectural — BSD→code→life bridge)*
 
 Within Tau, the existence of rational points is not merely a number-theoretic convenience. It is part of what guarantees the existence of stabilized structures that can bear code.
 
@@ -74,7 +74,7 @@ It is the stronger τ-effective bridge claim:
 
 So Tau-BSD is not only a mathematical result. It is one of the bridges from E1 into E2.
 
-## Computation in the Tau sense
+## Computation in the Tau sense *(conjectural)*
 
 This page is also the right place to clarify the word **computation**.
 
@@ -85,7 +85,7 @@ Tau does not mean “life is just a computer” in the flattening mechanistic se
 
 In that sense, life is computational because it is self-encoding and self-decoding. But this is not the same as saying that organisms are nothing but classical machines.
 
-## Why this changes the substrate story
+## Why this changes the substrate story *(conjectural)*
 
 The substrate of life is therefore not raw matter alone and not raw E1 discreteness alone. It is the existence of stable code-bearing structures whose identity can survive changes in their E1 realization.
 
@@ -98,9 +98,9 @@ Tau therefore proposes that life becomes possible not merely because the world i
 
 ## Canonical References
 
-- [VI.D40]({{ '/registry/object/VI.D40/' | relative_url }}) — BSD Motivic Structure of the Genetic Code
-- [VI.T22]({{ '/registry/object/VI.T22/' | relative_url }}) — Codon Degeneracy as Error Correction
-- [VI.P06]({{ '/registry/object/VI.P06/' | relative_url }}) — Thermodynamic Necessity at E2
+- [VI.D40]({{ '/registry/object/VI.D40/' | relative_url }}) — BSD Motivic Structure of the Genetic Code *(conjectural)*
+- [VI.T22]({{ '/registry/object/VI.T22/' | relative_url }}) — Codon Degeneracy as Error Correction *(τ-effective)*
+- [VI.P06]({{ '/registry/object/VI.P06/' | relative_url }}) — Thermodynamic Necessity at E2 *(τ-effective)*
 
 ---
 

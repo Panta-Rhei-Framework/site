@@ -97,7 +97,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
   </div>
 </div>
 
-## Ten chapters across five physics domains
+## Twelve chapters across five physics domains
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 14px; margin: 20px 0 28px;">
 
@@ -128,7 +128,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
   <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 8px;">Chapter 5</span>
   <h3 style="font-size: 0.95rem; margin: 0 0 6px;">The Dark Sector Dissolved</h3>
-  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">Rotation curves without dark matter, Ω_Λ, Hubble tension resolved at −15 ppm</p>
+  <p style="font-size: 0.82rem; color: #5b6772; margin: 0;">Rotation curves without dark matter, Ω_Λ, Hubble tension resolved at −120 ppm</p>
 </div>
 
 <div class="content-card" style="padding: 18px 20px; margin: 0;">
@@ -182,7 +182,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
           </tr>
         </tbody>
       </table>
-      <p style="font-size: 0.82rem; color: #5b6772; margin: 16px 12px 0;">Sub-10 ppm includes: electron mass (0.025 ppm), sin²θ_W (−0.65 ppm), M_W (−0.42 ppm), Higgs mass (+8.0 ppm), Koide Q (−9 ppm), Silk damping (+9 ppm), spectral index (+13 ppm), Hubble constant (−15 ppm)</p>
+      <p style="font-size: 0.82rem; color: #5b6772; margin: 16px 12px 0;">Sub-10 ppm includes: electron mass (0.025 ppm), sin²θ_W (−0.65 ppm), M_W (−0.42 ppm), Higgs mass (+8.0 ppm), Koide Q (−9 ppm), Silk damping (+9 ppm), spectral index (+13 ppm), Hubble constant (−120 ppm)</p>
     </div>
     <div>
       <img src="{{ '/assets/images/physics-ledger/predictions-table-125.jpg' | relative_url }}" alt="Physics Ledger prediction table — Domain A: Particle Physics" style="width: 100%; display: block; border-left: 1px solid rgba(22,29,37,0.08);" loading="lazy">

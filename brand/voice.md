@@ -268,7 +268,11 @@ Each block below is ready to paste into the platform's "About" / "Bio" / "Headli
 - **Websites & social links**: panta-rhei.site, github.com/Panta-Rhei-Research/taulib, linkedin.com/in/thorfuchs, linkedin.com/company/panta-rhei-research
 - **Employment**: Founder, Panta Rhei Research Program (April 2026 – Present)
 
-## First posts — Saturday April 18 seeding
+## Launch retrospective — First posts from Saturday April 18
+
+> **Retrospective block.** The copy below was written for the April 18, 2026 launch-day seeding. It is retained as a reference template for future launches and as a record of the voice used on launch day. The timing plan and "today" language are historical, not current guidance.
+
+### First posts — Saturday April 18 seeding (historical)
 
 Three variants. Pick by morning mood. My ordered preference: A > C > B.
 
@@ -340,7 +344,7 @@ If the predictions fail, the framework fails. That's the point.
   ```
 - **Bluesky**: Variant A (Bluesky is closest in culture to early Twitter / Lean4-sympathetic)
 
-## Launch-day staggering (Saturday April 18)
+### Launch-day staggering (Saturday April 18 — historical)
 
 Recommended timing, based on when each audience is awake and on-platform:
 
@@ -356,7 +360,7 @@ Recommended timing, based on when each audience is awake and on-platform:
 
 **Do NOT** tag the big names (Buzzard, Tao, Wolfram, Aaronson) in first posts. The content should earn the attention. Save tag-mentions for week 2 when you have specific technical questions or concrete results to share.
 
-## What to watch for on Day 1
+### What to watch for on Day 1 (historical)
 
 - **Likes**: irrelevant signal. Ignore.
 - **Comments / replies**: the real signal. Even one engaged mathematician commenting is more valuable than 500 likes.
@@ -364,7 +368,7 @@ Recommended timing, based on when each audience is awake and on-platform:
 - **Clicks to panta-rhei.site**: check Umami analytics Saturday evening.
 - **Negative / skeptical replies**: *welcome them.* A real skeptical reply from a formal methods expert is worth its weight in gold. Respond substantively, not defensively.
 
-## What happens in week 2
+### What happens in week 2 (historical)
 
 Not today's problem — but for orientation:
 - Post #2 should be a concrete technical result (one theorem, one PR, one precise claim with a Lean proof link) — not "here's more about the program."

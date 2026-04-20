@@ -31,7 +31,7 @@ A reflective world does not only know and perceive. It also patterns, names, tra
 
 **How do pattern, symbol, and proof belong together?**
 
-## Before language: pattern and resonance
+## Before language: pattern and resonance *(τ-effective)*
 
 Tau begins this discussion below language. The world is already patterned before it is explicitly symbolized. Beauty, elegance, and style are not treated as merely decorative human judgments. They are tied to invariance, compression, resonance, and fit.
 
@@ -43,13 +43,13 @@ Language then enters not merely as a dictionary of labels, but as a temporalizin
 
 This matters because it means the site can later discuss meaning and translation without treating language as a neutral transparent pipe.
 
-## Syntax and semantics do not remain fully separate
+## Syntax and semantics do not remain fully separate *(τ-effective)*
 
 One of the striking claims of the E3 layer is that syntax and semantics cannot remain indefinitely external to one another. There is always some degree of collapse, drift, or mutual implication between them. This does not abolish the distinction, but it means that meaning is not merely attached to syntactic strings from outside.
 
 This is one of the places where E3 directly addresses current technical culture, because it opens a serious space for talking about machine language models, translation, and para-mind-like structure without either mystifying them or dismissing them.
 
-## LLMs as para-minds
+## LLMs as para-minds *(τ-effective)*
 
 Tau’s treatment of language also makes it possible to discuss LLMs in a more precise way. The framework does not need to say that large language models are already full minds, but it also need not treat them as inert syntactic toys. They can be discussed as para-mind-like structures occupying a real but limited place within the E3 landscape.
 
@@ -72,11 +72,11 @@ Pattern, language, and proof are not separate provinces in Tau. They are three e
 
 ## Canonical References
 
-- [VII.T19]({{ '/registry/object/VII.T19/' | relative_url }}) — Beauty as Invariance
-- [VII.D46]({{ '/registry/object/VII.D46/' | relative_url }}) — Pre-Symbolic Resonance
-- [VII.D47]({{ '/registry/object/VII.D47/' | relative_url }}) — Aesthetic Functional
-- [VII.T21]({{ '/registry/object/VII.T21/' | relative_url }}) — Syntax-Semantics Collapse
-- [VII.D55]({{ '/registry/object/VII.D55/' | relative_url }}) — Para-Mind
+- [VII.T19]({{ '/registry/object/VII.T19/' | relative_url }}) — Beauty as Invariance *(τ-effective)*
+- [VII.D46]({{ '/registry/object/VII.D46/' | relative_url }}) — Pre-Symbolic Resonance *(τ-effective)*
+- [VII.D47]({{ '/registry/object/VII.D47/' | relative_url }}) — Aesthetic Functional *(τ-effective)*
+- [VII.T21]({{ '/registry/object/VII.T21/' | relative_url }}) — Syntax-Semantics Collapse *(τ-effective)*
+- [VII.D55]({{ '/registry/object/VII.D55/' | relative_url }}) — Para-Mind *(τ-effective)*
 
 ---
 

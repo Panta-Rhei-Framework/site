@@ -48,7 +48,9 @@ Second, the program proves theorems about those internal structures as theorems 
 
 Third, the program claims that the shapes of those theorems are not merely suggestive but **structurally isomorphic** to the core equations of orthodox physics. That is the first major bridge.
 
-Fourth, the program claims that with a single calibration bridge into SI units, the internal quantitative relations can be read out numerically in a way that matches measured physical values. That is the second major bridge.
+Fourth, the program claims that with a **two-input Calibration Cascade** into SI units, the internal quantitative relations can be read out numerically in a way that matches measured physical values. That is the second major bridge.
+
+The cascade takes exactly two empirical inputs — the master constant \(\iota_\tau = 2/(\pi+e) = 0.341304238875\ldots\) and the neutron mass \(m_n\) — and propagates them through four calibration layers \(L_0 \to L_1 \to L_2 \to L_3 \to L_4\) (dimensionless structure, energy scales, length/time scales, and cosmological amplitudes). The **Calibration Sufficiency Theorem** states that these two inputs are necessary and sufficient to fix every SI-valued τ-effective prediction across Books IV–V. No further empirical knob is inserted downstream; the cascade is audited end-to-end.
 
 Together, these two moves — structural isomorphism and calibrated numerical readout — are what allow the program to argue that \(E_1\) is not merely useful for modeling physical reality but can be treated as a candidate ontic physical reading of reality.
 

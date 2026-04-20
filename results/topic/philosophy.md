@@ -18,6 +18,8 @@ right_rail:
 
 **Status:** 42 Resolved, 3 Partial.
 
+> **Resolution status vs. scope labels.** The Resolved / Partial tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each claim inside τ and live on the per-claim detail pages.
+
 ## Results
 
 - [AI Language Understanding](/results/problem/ai-language-understanding/) — Resolved

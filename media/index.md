@@ -49,7 +49,7 @@ The Panta Rhei Research Program is an independent open research program developi
 - **Formalization**: 127,440 lines of Lean 4, 4,332 theorems, zero sorry across all 7 books
 - **Registry**: {{ registry_count }} mathematical objects with dependency graphs
 - **Falsification**: 220+ quantitative predictions with precision claims
-- **Decisive test**: CMB-S4 tensor-to-scalar ratio r ≈ ι<sub>τ</sub>⁴ ≈ 0.0135
+- **Decisive test**: CMB-S4 tensor-to-scalar ratio r ≈ ι<sub>τ</sub>⁴ ≈ 0.0136
 - **Status**: Independent research — not yet peer-reviewed in traditional journals
 
 ## Downloadable Materials

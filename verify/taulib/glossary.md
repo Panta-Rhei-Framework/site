@@ -23,8 +23,10 @@ right_rail:
 | iota_tau | 2/(pi + e) = 0.341304 | `iota_tau_float` | Master constant; governs all quantitative predictions |
 | kappa_D | 1 - iota_tau = 0.658696 | — | Complementary constant (D-sector coupling) |
 | kappa_omega | iota_tau/(1 + iota_tau) = 0.254485 | — | Omega coupling constant |
-| W_3(4) | 5 | — | Third Wieferich quotient at 4; governs NLO corrections |
-| W_3(3) | 4 | — | Third Wieferich quotient at 3 |
+| W_3(4) | 5 | — | Continued-fraction window sum (3 partial quotients from index 4); governs NLO corrections |
+| W_3(3) | 17 | — | Continued-fraction window sum (3 partial quotients from index 3) |
+| W_4(3) | 18 | — | Continued-fraction window sum (4 partial quotients from index 3) |
+| W_5(3) | 19 | — | Continued-fraction window sum (5 partial quotients from index 3); equals N_e/3 |
 
 ## Generators
 

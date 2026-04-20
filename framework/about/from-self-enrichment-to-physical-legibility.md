@@ -42,7 +42,7 @@ But what it claims here is stronger and stranger.
 
 The argument is not merely that the framework contains a mathematical model which can be used to imitate some physical behavior. The argument is that once the enriched layer \(E_1\) has been fully constructed, it becomes possible to define internal invariants and sector structures whose theorem-shape and calibrated readouts are proposed to be structurally isomorphic to physical law and observation.
 
-This is why [Book III]({{ '/publications/books/book-iii/' | relative_url }}) is the hinge. It is the book in which the framework first becomes physically legible.
+This is why [Books IV–V]({{ '/publications/books/' | relative_url }}) are the physics hinge. They are the books in which the framework first becomes physically legible through the microcosm (IV) and macrocosm (V) readouts.
 
 What matters here is not only that \(E_1\) exists. What matters is that it exists as a fully specified internal layer. The claim is not that "somewhere in a large possibility field, physics may be hidden." The claim is that the whole \(E_1\) layer, as structured, admits a physical reading.
 
@@ -54,7 +54,7 @@ The site cannot reproduce the thousands of pages by which this burden is carried
 2. the program defines physically interpretable invariants inside that layer,
 3. theorems about those invariants are proved internally,
 4. the resulting theorem-shapes are compared to orthodox physical law,
-5. and the later books argue that one calibrated numerical bridge yields the corresponding physical readout.
+5. and the later books argue that a two-input Calibration Cascade (ι_τ + m_n, propagated through four layers L0→L4) yields the corresponding physical readout, with a Calibration Sufficiency Theorem showing these two inputs fix every SI-valued prediction.
 
 That is not a rhetorical flourish. It is the spine of the physical wager.
 
