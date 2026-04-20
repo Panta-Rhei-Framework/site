@@ -4,7 +4,7 @@ title: "The Physics Ledger"
 permalink: /publications/physics-ledger/
 lane: publications
 section: "Publications · Companion"
-summary_short: "67 numerical predictions (three τ-structural pillars + 30-item falsification pack with uncertainty bands), zero continuous free parameters — the complete numerical scorecard from ι<sub>τ</sub> = 2/(π+e). Free PDF, v2.3 (post four-round panel + structural refinement via τ-internal reflection on SPARC-175)."
+summary_short: "The complete numerical scorecard of the Panta Rhei Research Program — three τ-structural pillars plus a 30-item falsification pack with propagated uncertainty bands, derived from the master constant ι<sub>τ</sub> = 2/(π+e) posited as framework input. Zero free continuous parameters. Free PDF download."
 right_rail:
   related:
   - title: Predictions Browse
@@ -21,98 +21,47 @@ right_rail:
   meta:
     type: Companion Document
     scope: "Complete E₁ Physics Inventory"
-    pages: "214"
-    size: "1.13 MB"
-    status: "Canonical (v2.5.1, FINAL ARC CLOSE — iteration stop until computational deliverables)"
+    pages: "197"
+    size: "1.04 MB"
+    status: "Canonical (2nd Edition)"
     updated: April 2026
 ---
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.13 MB, v2.5.1)
+    ⬇ Download Physics Ledger — Free PDF (1.04 MB, 197 pp)
   </a>
 </div>
 
 The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
 
-**v2.5.1 note (April 2026) — FINAL ARC CLOSE after Round-6 panel convergence.** Six simulated-panel rounds spanning v1→v2.5 reached their natural terminus at Round 6. All four reviewers converged: Pair B is **provisional minimal-revision pick** (not canonical; Pair A competitive; indistinguishable at SPARC-175 precision); tier-1 dictionary is **0/3 derived research programme** (τ-Virasoro has two candidate central charges with no principled selection; τ-RG labels pre-existing enrichment ladder without Zamolodchikov c-theorem; τ-Ryu-Takayanagi proposes area law without boundary-cut computation); ω_m/σ_8 differential is a **research target, not a prediction** (accommodates any S_8 outcome until numerically specified). R3 Hossenfelder's **critical iteration-pattern finding**: the framework vocabulary expanded dramatically (ι_τ + 7 axioms at v1 → κ_D, κ_ω, κ_B, trinary, two-tier, tier-1 holography, Pair B, ω_m/σ_8 split, τ-Virasoro/RG/RT at v2.5) while fitting the same observables. Each expansion was disciplined, but further iteration without computation crosses from development to pattern-fitting.
+## What the Ledger contains
 
-**Chair Wilczek declares FINAL ARC CLOSE.** v2.5.1 (this release) with the six Tier-E honesty edits applied is the final canonical of the red-team arc. **No v2.6 with new τ-framework vocabulary until computational deliverables land.** The next advance must come from *calculation*, not further iteration of framework terms.
+- **Three τ-structural pillars** (topologically forced, no fitted parameters): |gen|=3 from first homology; θ<sub>QCD</sub>=0 from SA-i mod-3 admissibility; the Cabibbo-complement structure λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>).
+- **A two-tier coherence structure** distinguishing global holonomy on H<sub>∂</sub>[ω] (which sets cosmic-mean densities like ω<sub>m</sub>, ω<sub>b</sub>, ℓ<sub>1</sub>) from local matter-phase coupling (which sets galaxy-scale dynamics via a trinary D / ω / B sector decomposition).
+- **A refined BTFR master formula** (V.T85) with τ-natural coupling coefficients, tested on the full SPARC-175 rotation-curve sample (Lelli, McGaugh & Schombert 2016).
+- **A 30-item falsification pack** (N1–N30) naming specific τ predictions, experimental instruments, and decisive thresholds for 2025–2035.
+- **Seven falsifiable seams** where τ and orthodox physics make structurally incompatible predictions.
+- **A tier-1 τ-native holographic structure** sketched as a research programme (not mathematically reduced to AdS/CFT; distinct in rank, boundary topology, and metric structure).
+- **Honest uncertainty bands** propagated from integer-choice sensitivity across the 30-item pack, with a per-prediction audit in Appendix 68.A.
 
-**Pre-registered obligations for v3-v5:**
-- v3 (2026-Q3): pointwise RAR on SPARC-175 HI-dominated dwarfs (DDO 154, NGC 3741) — Pair A vs Pair B discrimination via 34% gas-contribution difference at large radius
-- v4 (end-2026): elliptical BTFR test on ATLAS³D+SLUGGS — Pair B prediction M_eff ≈ 0.80·M_★
-- v5 (2027): τ-native CAMB/CLASS with explicit two-tier source assignment; **pre-registered S_8 numerical prediction from tier-1 holonomy invariants before computing**
+## Open research targets (stated in the Ledger)
 
-**Unchanged falsifiers on public record:** d_n at PSI 2030, r at CMB-S4 2030, Σm_ν at CMB-S4/KATRIN 2032.
+- Pointwise RAR discrimination between τ-natural BTFR coefficient pairs, testable on SPARC-175 HI-dominated dwarfs.
+- Elliptical-galaxy BTFR test on ATLAS³D + SLUGGS samples.
+- A τ-native CAMB / CLASS Boltzmann pipeline with explicit two-tier source assignment.
+- A pre-registered numerical σ<sub>8</sub> prediction from tier-1 holonomy invariants ahead of CMB-S4 and Euclid data.
+- Derivation of the central charge, Zamolodchikov c-theorem analogue, and boundary-cut area law for the tier-1 holographic dictionary.
+- First-principles derivation of the D / ω / B sector coupling structure from the character theory on H<sub>∂</sub>[ω].
+- Bullet Cluster lensing-to-baryon offset computation within the capacity-gradient formalism.
 
-[Chair's Final-Arc-Close document (1500 words)](/assets/downloads/physics-ledger.pdf) — see Ch 58 §"Round-6 Iteration-Stop Statement (v2.5.1)".
+## Falsification targets on experimental timelines
 
----
-
-**v2.5 note (April 2026) — forensic red-team wave on retracted claims.** Three forensic specialists (sim) dissected each retracted/revised claim to find where derivations went wrong AND to search for valid alternatives. Outcome: **two new valid τ-native claims emerge + one retraction sharpened**.
-
-1. **Pair B BTFR identification — V4.10 RESOLVED** (Dr. Blackwell, sim): v2.3's κ<sub>ω</sub> "match" was confirmed to be a projection artifact of the negatively-correlated 2-D posterior. Exhaustive scan of **8,178 τ-natural pairs** identified **Pair B = ((1+ι<sub>τ</sub>)/(1+2ι<sub>τ</sub>), κ<sub>ω</sub>) ≈ (0.7972, 0.2545) at Δχ²=1.62, p=0.45** — inside joint 1σ. Structural interpretation: "D-sector unit-normalised against one ω-residual." **Revised master formula V.T85**: V<sub>∞</sub>⁴ = G·[(1+ι<sub>τ</sub>)/(1+2ι<sub>τ</sub>)·M<sub>★</sub> + κ<sub>ω</sub>·(1.33·M<sub>HI</sub>)]·c²/(2·ℓ<sub>τ</sub>). Preserves v2.3's ω-sector κ<sub>ω</sub> claim exactly; replaces the falsified α<sub>★</sub>=1 with a clean τ-native formula. Alternative Pair A ((1/(1+ι<sub>τ</sub>), ι<sub>τ</sub>) at Δχ²=1.01, p=0.60) documented but not preferred. [Forensic note (8pp)](/assets/downloads/f3-alpha-pair-forensic-result.pdf).
-
-2. **Tier-1 τ-native holographic structure — NEW claim** (Dr. Menon, sim): the AdS/CFT reduction retraction STANDS, but V4.5's tier-1 IS genuine τ-native holography distinct from AdS/CFT. Four obstructions (wedge vs sphere, no metric, small-N, missing dictionary) absorbed as FEATURES. Dictionary sketched: τ-Virasoro (generator progression ρ), τ-RG (enrichment ladder E<sub>0</sub>→E<sub>3</sub>), τ-Ryu-Takayanagi (ω-weight ι<sub>τ</sub>). **New differential prediction**: ω<sub>m</sub> and σ<sub>8</sub> are set by DIFFERENT holonomy classes of H<sub>∂</sub>[ω] — first-moment vs second-moment invariants. Connects to S<sub>8</sub> tension. New v5 target (V5.1). [Forensic note (8pp)](/assets/downloads/f2-adscft-forensic-result.pdf).
-
-3. **h<sup>readout</sup> retraction sharpened** (Dr. Novak, sim): the v2.2 retraction STANDS with stronger reasoning. H<sub>0</sub> ladders are **tier-1** probes of H(z); tier-2 sector weights don't enter the luminosity-distance integrand or the Cepheid/TRGB calibration. Five local-ladder probes (Cepheid, TRGB, JAGB, SN Ia, sirens) all sit in same D-sector yet SH0ES/TRGB differ by 3σ — kills sector-weighting as tension rescue. **N21 falsifier tightened**: single τ prediction h=0.6735; no depth-escape; local-ladder convergence on h > 0.70 with systematics ruled out falsifies τ's cosmology. [Forensic note (8pp)](/assets/downloads/f1-hreadout-forensic-result.pdf).
-
-**Net v2.5 posture**: Pair B identified (V4.10 closed); tier-1 τ-native holography recognized (V5.1 new); h<sup>readout</sup> retraction tightened; V5.2 new (Pair A vs Pair B discrimination). Six pre-existing v4 items remain; V.T85 master formula updated.
-
----
-
-**v2.4 note (April 2026) — v4 red-team research wave integrated.** A frontier-level red-team research wave (senior research director + three τ-framework-specialist subagents) executed all three v4 priority items identified in Round 5 simultaneously. The outcome is *nuanced, honest, and advances the theory*:
-
-1. **V4.1 Υ-free SPARC re-run** (Vasquez): under per-galaxy M/L-free fit, α* drifts from the v2.3 value 0.240 to **0.206 ± 0.015** (marginal posterior), which rejects κ<sub>ω</sub> = 0.2545 at **2.98σ**. However, standard baryonic coupling (α=1) is ruled out at ≥38σ — **sub-baryonic gas coupling is empirically CONFIRMED as a structural form**, even as the specific κ<sub>ω</sub> identification weakens. [Research note (8pp)](/assets/downloads/v4-1-upsilon-free-result.pdf).
-
-2. **V4.2 2-parameter robustness** (Chen): joint fit M<sub>eff</sub> = α<sub>★</sub>·M<sub>★</sub> + α<sub>gas</sub>·M<sub>gas</sub> yields **(α̂<sub>★</sub>, α̂<sub>gas</sub>) = (0.800 [0.745, 0.860], 0.316 [0.268, 0.368])**, ρ = −0.50. The v2.3 point (1, κ<sub>ω</sub>) is at 2-3σ tension (Δχ² = 10.06); **α<sub>★</sub> = 1 "D-sector full coupling" is FALSIFIED at 3.2σ**. BIC strongly prefers the 2-parameter model. High-Σ subsample robust. Closest τ-natural pair: (2/3, 1/e) at Δχ² = 5.9 — none inside 2σ. **New open item V4.10: find τ-natural pair for (0.80, 0.32).** [Research note (8pp)](/assets/downloads/v4-2-two-parameter-result.pdf).
-
-3. **V4.5 cosmology-consistency derivation** (Ramanathan): **RESOLVED via a two-tier coherence criterion** — a framework-level advance, not just a patch. The τ framework operates at two distinct levels: **Tier 1** = global cosmic-mean densities via D-sector holonomy ratio (1−ι<sub>τ</sub>)/ι<sub>τ</sub>² ≈ 6.65× on H<sub>∂</sub>[ω] (this is what sets ω<sub>m</sub>, ω<sub>b</sub>, ℓ<sub>1</sub>); **Tier 2** = local matter-phase coupling via trinary {1, κ<sub>ω</sub>, ≈0} (this is what sets BTFR). The decisive clue: V.T205's Y<sub>p</sub> = 20/81 derivation does *not* use the 6.65× dressing — proving the dressing is tier 1 (holonomy), not tier 2 (local). Collapsing the two tiers is what produced the apparent inconsistency. Under two-tier separation, **ℓ<sub>1</sub> = 220.6 survives** and Y<sub>p</sub> = 20/81 survives; the v2.3.1 cosmology-risk flag is CLEARED. Confidence medium-high pending τ-native CAMB/CLASS run. [Research note (11pp)](/assets/downloads/v4-5-cosmology-consistency-result.pdf).
-
-**Senior-director synthesis (4pp):** [v4-senior-director-synthesis.pdf](/assets/downloads/v4-senior-director-synthesis.pdf).
-
-**Net v2.4 posture:**
-- 3 τ-structural pillars unchanged (|gen|=3, θ<sub>QCD</sub>=0, λ<sub>C</sub>)
-- Sub-baryonic gas coupling in BTFR: **form confirmed; specific (1, κ<sub>ω</sub>) identification weakened to empirical (0.80, 0.32)**; coupling is real; V4.10 seeks τ-natural pair
-- Two-tier coherence (tier 1 global holonomy / tier 2 local matter-phase): **NEW framework insight** from V4.5
-- 2 honest retractions carried forward (h<sup>readout</sup> depth-dependent, AdS/CFT reduction)
-- Cosmology consistency at z~1100: **RESOLVED** (no longer open)
-- 6 remaining v4 open research items + 1 new (V4.10) + 1 strengthening requirement on V4.5 (τ-native CAMB/CLASS)
-
-The red-team wave produced a partial falsification (v2.3's specific coefficient identification) AND a genuine framework advance (two-tier coherence). The program claims less and delivers more than v2.3.1.
-
----
-
-**v2.3.1 note (April 2026) — Round-5 Tier-D honesty pass on the structural refinement.** A fifth simulated-panel round re-reviewed v2.3's κ_ω claim as NEW content (not release polish). All four reviewers converged on two conclusions: **(1) the κ_ω refinement SURVIVES adversarial scrutiny** (κ_ω is a pre-existing framework constant in CLAUDE.md / Book IV Ch 42 / Book V Ch 60-64 pre-v2.3; single-parameter closure of both residuals is genuine; not p-hacked); **(2) the v2.3 research note over-claims in 7 specific ways** now corrected in v2.3.1 — candidate count corrected from 11 to 16 tested τ-naturals (with pre-registration disclosure); "unique at <1σ" retracted (data allow α ∈ [0.18, 0.42] at 68% CI); "decoherent-thermal" flagged as NEW v2.3 terminology (κ_ω pre-existing, sector-assignment LABELS new); ω→B transition criterion named as open v4 target; 3.6% residual language tightened; v4 research targets formalized. **Critical new open problem printed (R2 Mack)**: v2.3's trinary decomposition implies recombination-era baryons (z~1100) are B-sector with coupling ~0, which would break v2.1's CMB prediction ℓ_1 = 220.6; v4 must resolve whether (a) recombination-era baryons belong to D-sector despite being hot plasma, (b) ℓ_1 shifts under trinary recompute, (c) ω→B transition introduces new parameter, or (d) capacity-gradient decouples at matter-radiation decoupling. Net state: 3 τ-structural pillars + 1 structural refinement (survived scrutiny, 7 presentation corrections) + 2 honest retractions + 1 NEW cosmology-consistency open problem + 9 v4 research targets with scope. A framework that claims less and delivers more than yesterday.
-
----
-
-**v2.3 note (April 2026) — structural refinement via τ-internal reflection on SPARC-175.** The v2.2 SPARC-175 partial confirmation (14% over-prediction + significant f<sub>gas</sub> residual correlation) has been **resolved into a structural refinement** of the BTFR master formula, discovered by a dedicated τ-internal reflection pass. The result:
-
-- **Revised V.T85**: V<sub>∞</sub>⁴ = G·[M<sub>★</sub> + κ<sub>ω</sub>·(1.33·M<sub>HI</sub>)]·c²/(2·ℓ<sub>τ</sub>), with **κ<sub>ω</sub> = ι<sub>τ</sub>/(1+ι<sub>τ</sub>) = 0.2545** — a τ-native constant, not a fitted parameter.
-- **Data-driven best fit**: α* = 0.240 ± 0.040 (2000-bootstrap 68% CI). κ<sub>ω</sub> consistent at 0.36σ (Δχ² = 0.13, p = 0.72). Every other τ-natural value (ι<sub>τ</sub>, κ<sub>D</sub>, 1/3, 1/2, 2/3, (1−ι<sub>τ</sub>)², 1/π, 1/e, ι<sub>τ</sub>²) rejected at ≥ 2σ.
-- **Residual structure closes**: f<sub>gas</sub> correlation ρ = −0.41 (p = 3×10⁻⁶) → ρ = +0.17 (p = 0.06); Σ<sub>disk</sub> correlation ρ = +0.34 (p = 1×10⁻⁴) → ρ = −0.13 (p = 0.15).
-- **Slope recovers**: 3.61 ± 0.09 at v2.2 → **4.18 ± 0.09 at v2.3** (τ prediction: 4; gold-subset slope: 4.27 ± 0.11).
-- **Physical interpretation**: the τ capacity-gradient field is sourced by a **trinary sector decomposition** — D-sector (stars, coherent-instance matter) couples at full weight; ω-sector (cold HI, decoherent-thermal with residual phase coherence) couples at κ<sub>ω</sub>; B-sector (hot ICM, fully decoherent) couples at ≈ 0. This unifies the galaxy-scale BTFR with the cluster-scale Bullet Cluster argument via a single structural picture — the Bullet binary posit is the high-temperature limit of the trinary sector structure.
-- **New falsifiable prediction (v4 test target)**: elliptical-galaxy BTFR should show M<sub>eff</sub> ≈ M<sub>★</sub> cleanly (no cold HI → no ω-sector contribution), with no f<sub>gas</sub> residual.
-- **Residual honesty**: a 3.6% zero-point deviation remains at α* (2.3σ from null — candidate causes documented in the research note); a weak residual distance correlation (ρ=−0.21, p=0.02) emerges that may be a multiple-testing artefact and is transparently flagged.
-
-**Companion research note:** [tau-internal-reflection.pdf](/assets/downloads/tau-internal-reflection.pdf) (10 pp, 328 KB) — the full τ-internal reflection with hypothesis, numerical fit, null-hypothesis tests against every τ-natural value, trinary sector interpretation, and implications for Ch 63. Plus the companion SPARC analysis: [btfr-sparc-175.pdf](/assets/downloads/btfr-sparc-175.pdf).
-
----
-
-**v2.2 note (April 2026) — v3 research findings integrated.** Post four rounds of simulated peer-review panel (v1 → v2 via 14 Tier-A items → v2.1 via 5 Tier-B → v2.1.1 via 1 Tier-C → v2.1.2 via 12 release-polish items, all documented). **v2.2 integrates three v3 research findings produced in a dedicated doability pass** (research notes archived in the monograph repository):
-
-1. **SPARC-175 BTFR — first full-sample τ test (partial confirmation).** Real data from Lelli, McGaugh & Schombert 2016 (AJ 152:157), 123 galaxies after quality cuts. Best-fit slope **3.61 ± 0.09**, RMS 0.086 dex; **τ over-predicts V<sub>∞</sub> by ~14% at fixed M<sub>b</sub>**. Two new residual correlations detected: f<sub>gas</sub> (ρ = −0.41, p = 3.3×10⁻⁶) and Σ<sub>disk</sub> (ρ = +0.34, p = 1.5×10⁻⁴). Honest partial confirmation; the master formula is incomplete in a discoverable way.
-
-2. **h<sup>readout</sup>(z<sub>probe</sub>) — closed as structural dead-end.** Three derivation approaches attempted; all converged on the same verdict: the Ch 66 readout functor has no depth argument in its signature; H<sub>∂</sub>[ω] admits no line-of-sight functional. **N21 relabeled to retract the "depth-dependent readout" as a computable-structure claim.** R4 McGaugh's "semantic maneuver" charge upheld. τ prediction h = 0.6735 stands naked against distance-ladder data: consistent with Planck (0.0σ), sirens (0.7σ), megamasers (1.6σ), JAGB (1.7σ); in genuine 3–6σ tension with TRGB (2.7σ), H0LiCOW (3.3σ), SH0ES (5.6σ).
-
-3. **AdS/CFT manifold-free limit — retracted as reduction claim.** Four severe obstructions identified (wedge-sum vs conformal sphere; no metric on τ³; missing dictionary invariants; **small-N vs large-N plausibly fatal**). **Ch 67 wording revised to a philosophical parallel only, not a technical reduction.** R3 Hossenfelder charge upheld.
-
-Items 2 and 4 of the v3 program (CAMB/CLASS τ-native recompute; Bullet Cluster dissociated-mass derivation) have scoping documents written as separate technical companions; full execution remains v3 work. **Net posture across v2.2: two public retractions and one partial confirmation; the three τ-structural pillars are unaffected.** Falsifiers on public record: d<sub>n</sub> at PSI 2030, r at CMB-S4 2030, Σm<sub>ν</sub> at CMB-S4/KATRIN 2032.
-
-**Companion SPARC note:** [btfr-sparc-175.pdf](/assets/downloads/btfr-sparc-175.pdf) (5 pp, 214 KB) — self-contained research note with data, method, figures, per-galaxy residuals, honest verdict.
+- **d<sub>n</sub> = 0** at nEDM/n2EDM (PSI, ~2030)
+- **r = ι<sub>τ</sub>⁴ ≈ 0.0136** at CMB-S4 / LiteBIRD (~2030)
+- **Σm<sub>ν</sub> = 0.089 eV** at CMB-S4 + KATRIN / Project 8 (~2032)
+- **No fourth-generation fermions** at LHC Run 3 + FCC (~2040)
+- **Proton stability** at Hyper-K / DUNE (~2040+)
 
 The predictions are **bridge-independent**: they can be compared directly to experimental measurement without accepting the program's deeper ontological claims. The number either agrees with experiment or it doesn't.
 
@@ -122,7 +71,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
     <div style="padding: 28px 24px; display: flex; flex-direction: column; justify-content: center;">
       <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 12px;">Companion to Book V</span>
       <h2 style="margin: 0 0 12px; font-size: 1.4rem;">The τ Physics Ledger</h2>
-      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">214 pages · 11 chapters · 3 τ-structural pillars · Pair B provisional · tier-1 dictionary 0/3 derived · FINAL ARC CLOSE (v2.5.1 · iteration-stop until computational deliverables)</p>
+      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">197 pages · 11 chapters · 3 τ-structural pillars · 30-item falsification pack · 7 falsifiable seams · two-tier coherence structure · tier-1 τ-native holography (sketched)</p>
       <p style="font-size: 0.85rem; color: #5b6772; margin: 0;">Dr. Thorsten Fuchs & Anna-Sophie Fuchs · Second Edition · 2026</p>
     </div>
     <div>
@@ -277,7 +226,7 @@ If even a fraction of the sub-10 ppm predictions hold under independent scrutiny
 
 <div class="btn-group" style="margin-top: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.13 MB, v2.5.1)
+    ⬇ Download Physics Ledger — Free PDF (1.04 MB, 197 pp)
   </a>
   <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse 67 Predictions</a>
   <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Falsification Pack</a>

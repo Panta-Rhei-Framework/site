@@ -108,7 +108,7 @@ right_rail:
     <li><strong>{{ registry_count }} registry objects</strong>&mdash;every definition, theorem, and proposition with dependency graphs</li>
     <li><strong>67 quantitative predictions</strong>&mdash;from one constant, with 15 at sub-10 ppm precision, each filterable by domain, precision tier, and scope</li>
     <li><strong>30 falsification tests (N1&ndash;N30)</strong>&mdash;named experiments (CMB-S4, LZ, DESI, ngEHT), specific timelines, 5&sigma; threshold</li>
-    <li><strong>Physics Ledger (free PDF)</strong>&mdash;the complete 156-page numerical scorecard with full derivations, available for download</li>
+    <li><strong>Physics Ledger (free PDF)</strong>&mdash;the complete 197-page numerical scorecard with full derivations, available for download</li>
   </ul>
   <p>The decisive empirical test: CMB-S4 will measure the tensor-to-scalar ratio <em>r</em>. The &tau;-prediction is <em>r</em> = &iota;<sub>&tau;</sub><sup>4</sup> &asymp; 0.0136, testable at 14&sigma; significance. If <em>r</em> is inconsistent, the framework&rsquo;s cosmological predictions fail.</p>
   <div class="btn-group section-ctas">
@@ -141,7 +141,7 @@ right_rail:
   <p>The program can be entered through many routes:</p>
   <ul>
     <li><a href="{{ '/publications/books/' | relative_url }}"><strong>The Seven Books</strong></a>&mdash;the canonical monograph series with DOIs and Amazon links</li>
-    <li><a href="{{ '/publications/physics-ledger/' | relative_url }}"><strong>Physics Ledger (free PDF)</strong></a>&mdash;67 predictions + 30 falsifications in one 156-page document</li>
+    <li><a href="{{ '/publications/physics-ledger/' | relative_url }}"><strong>Physics Ledger (free PDF)</strong></a>&mdash;67 predictions + 30 falsifications in one 197-page document</li>
     <li><a href="{{ '/results/' | relative_url }}"><strong>Claims</strong></a>&mdash;234 typed claims across four domains, in two readings (World Readouts + 10 Field Briefings) plus the Physics Ledger</li>
     <li><a href="{{ '/verify/' | relative_url }}"><strong>Verify</strong></a>&mdash;clone TauLib, run <code>lake build</code>, step through the tours</li>
     <li><a href="{{ '/media/' | relative_url }}"><strong>Media Kit</strong></a>&mdash;for journalists, podcast hosts, reviewers, and institutions</li>

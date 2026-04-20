@@ -1,5 +1,5 @@
 # Falsifiable-seam labels — slug → human-readable display name
-# Source of truth: Physics Ledger v2.1.2, §11.4 (p. 138)
+# Source of truth: Physics Ledger (2nd Edition, Ch 68)
 # Seven seams identified where τ and orthodox consensus make structurally
 # incompatible claims (not merely different numerical values).
 # Referenced by _layouts/falsification-page.html and falsifications-browse.html

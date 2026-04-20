@@ -135,7 +135,7 @@ The Physics Ledger is the framework's most directly testable content — where �
 - [**Prediction Timing Ledger**]({{ '/results/predictions/timing/' | relative_url }}) — the honest a-priori vs post-diction accounting: ~50 retro-consistency post-dictions, ~10 tension-resolution forward commitments, ~7 genuine forward tests.
 - [**Fit-Space Argument**]({{ '/results/predictions/fit-space-argument/' | relative_url }}) — quantitative counter-argument to the "15 sub-10-ppm hits could be numerology" concern: first-order fit-space analysis plus Category-C forward predictions as decisive test.
 
-The complete typeset document (~150 pages) with full derivations, tables, and experimental timelines is available as a **free download**: [**Physics Ledger (PDF, 800 KB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
+The complete typeset document (197 pp) with full derivations, tables, and experimental timelines is available as a **free download**: [**Physics Ledger (PDF, 1.04 MB)**]({{ '/assets/downloads/physics-ledger.pdf' | relative_url }}).
 
 ---
 
