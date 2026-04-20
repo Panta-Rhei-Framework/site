@@ -4,7 +4,7 @@ title: "The Physics Ledger"
 permalink: /publications/physics-ledger/
 lane: publications
 section: "Publications · Companion"
-summary_short: "67 numerical predictions (three τ-structural pillars + 30-item falsification pack with uncertainty bands), zero continuous free parameters — the complete numerical scorecard from ι<sub>τ</sub> = 2/(π+e), posited as framework input. Free PDF, v2 (post-panel)."
+summary_short: "67 numerical predictions (three τ-structural pillars + 30-item falsification pack with uncertainty bands), zero continuous free parameters — the complete numerical scorecard from ι<sub>τ</sub> = 2/(π+e). Free PDF, v2.3 (post four-round panel + structural refinement via τ-internal reflection on SPARC-175)."
 right_rail:
   related:
   - title: Predictions Browse
@@ -21,19 +21,33 @@ right_rail:
   meta:
     type: Companion Document
     scope: "Complete E₁ Physics Inventory"
-    pages: "190"
-    size: "1.0 MB"
-    status: "Canonical (v2.2, v3 findings integrated)"
+    pages: "199"
+    size: "1.04 MB"
+    status: "Canonical (v2.3, structural refinement via τ-internal reflection)"
     updated: April 2026
 ---
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.0 MB, v2.2)
+    ⬇ Download Physics Ledger — Free PDF (1.04 MB, v2.3)
   </a>
 </div>
 
 The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
+
+**v2.3 note (April 2026) — structural refinement via τ-internal reflection on SPARC-175.** The v2.2 SPARC-175 partial confirmation (14% over-prediction + significant f<sub>gas</sub> residual correlation) has been **resolved into a structural refinement** of the BTFR master formula, discovered by a dedicated τ-internal reflection pass. The result:
+
+- **Revised V.T85**: V<sub>∞</sub>⁴ = G·[M<sub>★</sub> + κ<sub>ω</sub>·(1.33·M<sub>HI</sub>)]·c²/(2·ℓ<sub>τ</sub>), with **κ<sub>ω</sub> = ι<sub>τ</sub>/(1+ι<sub>τ</sub>) = 0.2545** — a τ-native constant, not a fitted parameter.
+- **Data-driven best fit**: α* = 0.240 ± 0.040 (2000-bootstrap 68% CI). κ<sub>ω</sub> consistent at 0.36σ (Δχ² = 0.13, p = 0.72). Every other τ-natural value (ι<sub>τ</sub>, κ<sub>D</sub>, 1/3, 1/2, 2/3, (1−ι<sub>τ</sub>)², 1/π, 1/e, ι<sub>τ</sub>²) rejected at ≥ 2σ.
+- **Residual structure closes**: f<sub>gas</sub> correlation ρ = −0.41 (p = 3×10⁻⁶) → ρ = +0.17 (p = 0.06); Σ<sub>disk</sub> correlation ρ = +0.34 (p = 1×10⁻⁴) → ρ = −0.13 (p = 0.15).
+- **Slope recovers**: 3.61 ± 0.09 at v2.2 → **4.18 ± 0.09 at v2.3** (τ prediction: 4; gold-subset slope: 4.27 ± 0.11).
+- **Physical interpretation**: the τ capacity-gradient field is sourced by a **trinary sector decomposition** — D-sector (stars, coherent-instance matter) couples at full weight; ω-sector (cold HI, decoherent-thermal with residual phase coherence) couples at κ<sub>ω</sub>; B-sector (hot ICM, fully decoherent) couples at ≈ 0. This unifies the galaxy-scale BTFR with the cluster-scale Bullet Cluster argument via a single structural picture — the Bullet binary posit is the high-temperature limit of the trinary sector structure.
+- **New falsifiable prediction (v4 test target)**: elliptical-galaxy BTFR should show M<sub>eff</sub> ≈ M<sub>★</sub> cleanly (no cold HI → no ω-sector contribution), with no f<sub>gas</sub> residual.
+- **Residual honesty**: a 3.6% zero-point deviation remains at α* (2.3σ from null — candidate causes documented in the research note); a weak residual distance correlation (ρ=−0.21, p=0.02) emerges that may be a multiple-testing artefact and is transparently flagged.
+
+**Companion research note:** [tau-internal-reflection.pdf](/assets/downloads/tau-internal-reflection.pdf) (10 pp, 328 KB) — the full τ-internal reflection with hypothesis, numerical fit, null-hypothesis tests against every τ-natural value, trinary sector interpretation, and implications for Ch 63. Plus the companion SPARC analysis: [btfr-sparc-175.pdf](/assets/downloads/btfr-sparc-175.pdf).
+
+---
 
 **v2.2 note (April 2026) — v3 research findings integrated.** Post four rounds of simulated peer-review panel (v1 → v2 via 14 Tier-A items → v2.1 via 5 Tier-B → v2.1.1 via 1 Tier-C → v2.1.2 via 12 release-polish items, all documented). **v2.2 integrates three v3 research findings produced in a dedicated doability pass** (research notes archived in the monograph repository):
 
@@ -55,7 +69,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
     <div style="padding: 28px 24px; display: flex; flex-direction: column; justify-content: center;">
       <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 12px;">Companion to Book V</span>
       <h2 style="margin: 0 0 12px; font-size: 1.4rem;">The τ Physics Ledger</h2>
-      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">190 pages · 11 chapters · 3 τ-structural pillars · 30-item falsification pack · SPARC-175 partial confirmation · 2 honest retractions (v2.2 · v3 findings integrated)</p>
+      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">199 pages · 11 chapters · 3 τ-structural pillars · 30-item falsification pack · SPARC-175 closed at α = κ<sub>ω</sub> · trinary sector unification (v2.3 · τ-internal reflection)</p>
       <p style="font-size: 0.85rem; color: #5b6772; margin: 0;">Dr. Thorsten Fuchs & Anna-Sophie Fuchs · Second Edition · 2026</p>
     </div>
     <div>
@@ -210,7 +224,7 @@ If even a fraction of the sub-10 ppm predictions hold under independent scrutiny
 
 <div class="btn-group" style="margin-top: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (1.0 MB, v2.2)
+    ⬇ Download Physics Ledger — Free PDF (1.04 MB, v2.3)
   </a>
   <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse 67 Predictions</a>
   <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Falsification Pack</a>
