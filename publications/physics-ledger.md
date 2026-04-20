@@ -4,7 +4,7 @@ title: "The Physics Ledger"
 permalink: /publications/physics-ledger/
 lane: publications
 section: "Publications · Companion"
-summary_short: "67 zero-parameter predictions, 30 falsification tests, 7 seams — the complete numerical scorecard derived from ι<sub>τ</sub> = 2/(π+e). Free PDF download."
+summary_short: "67 numerical predictions (three τ-structural pillars + 30-item falsification pack with uncertainty bands), zero continuous free parameters — the complete numerical scorecard from ι<sub>τ</sub> = 2/(π+e), posited as framework input. Free PDF, v2 (post-panel)."
 right_rail:
   related:
   - title: Predictions Browse
@@ -21,19 +21,21 @@ right_rail:
   meta:
     type: Companion Document
     scope: "Complete E₁ Physics Inventory"
-    pages: "156"
-    size: "802 KB"
-    status: Canonical
+    pages: "186"
+    size: "966 KB"
+    status: "Canonical (v2, peer-review-fixes)"
     updated: April 2026
 ---
 
 <div class="btn-group" style="margin-bottom: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (802 KB)
+    ⬇ Download Physics Ledger — Free PDF (966 KB, v2)
   </a>
 </div>
 
-The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **67 quantitative predictions** derived from the master constant ι<sub>τ</sub> = 2/(π+e) posited as framework input, with **zero free continuous parameters** (structural integers W<sub>n</sub>(k) enter from the continued-fraction expansion of ι<sub>τ</sub>; full parameter inventory at [verify lane]({{ '/verify/' | relative_url }})). Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), it is published here as a free companion document for self-contained access.
+The **Physics Ledger** is the complete numerical scorecard of the Panta Rhei Research Program — **three τ-structural pillars** (|gen|=3 from H<sub>1</sub>(τ³;ℤ)=ℤ³, θ<sub>QCD</sub>=0 from SA-i mod-3, λ<sub>C</sub>=ι<sub>τ</sub>(1−ι<sub>τ</sub>)) plus a **30-item falsification pack with propagated uncertainty bands**, derived from the master constant ι<sub>τ</sub> = 2/(π+e) **posited** as framework input. **Zero free continuous parameters**; a combinatorial library of structural integers (W<sub>n</sub>(k) window sums, sector assignments, homology-forced layer choices) enters via the compute-then-axiomatize discipline — full per-prediction integer-choice audit in Chapter 68 Appendix 68.A. Originally Part VII of [Book V (*Categorical Macrocosm*)]({{ '/publications/books/book-v/' | relative_url }}), published here as a free companion document for self-contained access.
+
+**v2 note (April 2026):** This is the post-peer-review revision. v1 (156 pp) underwent a simulated pre-publication panel of four physicist-persona reviewers (particle, cosmology, foundations-skeptic, observational) plus chair synthesis. All 14 Tier-A findings are addressed: honest "zero continuous parameters + N discrete choices" framing; new Chapter 58 (epistemic framing); three τ-structural pillars separated from τ-effective conjectures; uncertainty bands on 20 of 30 falsifiers; open-problem flags for SPARC/RAR galaxy-scale contact, the structure-formation triangle, and H<sub>0</sub> distance-ladder engagement as v3 targets; steelmanned unification critique (string theory, LQG, SUSY, GUTs); explicit dissolution-not-solution framing of Chapter 66 measurement problem.
 
 The predictions are **bridge-independent**: they can be compared directly to experimental measurement without accepting the program's deeper ontological claims. The number either agrees with experiment or it doesn't.
 
@@ -43,7 +45,7 @@ The predictions are **bridge-independent**: they can be compared directly to exp
     <div style="padding: 28px 24px; display: flex; flex-direction: column; justify-content: center;">
       <span class="eyebrow" style="display: block; padding: 0; background: none; border: none; margin-bottom: 12px;">Companion to Book V</span>
       <h2 style="margin: 0 0 12px; font-size: 1.4rem;">The τ Physics Ledger</h2>
-      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">156 pages · 10 chapters · 67 predictions · 30 falsification tests · 7 falsifiable seams</p>
+      <p style="font-size: 0.92rem; line-height: 1.55; margin: 0 0 8px;">186 pages · 11 chapters · 3 τ-structural pillars · 30-item falsification pack · 7 falsifiable seams (v2, post-panel)</p>
       <p style="font-size: 0.85rem; color: #5b6772; margin: 0;">Dr. Thorsten Fuchs & Anna-Sophie Fuchs · Second Edition · 2026</p>
     </div>
     <div>
@@ -198,7 +200,7 @@ If even a fraction of the sub-10 ppm predictions hold under independent scrutiny
 
 <div class="btn-group" style="margin-top: 28px;">
   <a href="{{ '/assets/downloads/physics-ledger.pdf' | relative_url }}" class="btn-secondary" download style="font-size: 1.05rem; padding: 14px 28px;">
-    ⬇ Download Physics Ledger — Free PDF (802 KB)
+    ⬇ Download Physics Ledger — Free PDF (966 KB, v2)
   </a>
   <a href="{{ '/results/predictions/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Browse 67 Predictions</a>
   <a href="{{ '/results/falsifications/browse/' | relative_url }}" class="btn-ghost" style="font-size: 0.95rem; padding: 12px 20px;">Falsification Pack</a>
