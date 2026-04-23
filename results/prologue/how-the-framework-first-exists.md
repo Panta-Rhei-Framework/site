@@ -3,7 +3,7 @@ layout: program-doc
 title: How the Framework First Exists
 permalink: /results/prologue/how-the-framework-first-exists/
 lane: results
-section: "Claims · Introduction"
+section: "Results · Introduction"
 nav_order: 2
 summary_short: "The first epistemic stance of the program: TauLib as materialized formal system and the first admissible layer of claimhood."
 key_registry:

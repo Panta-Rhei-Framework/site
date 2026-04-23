@@ -6,7 +6,19 @@
   </summary>
   <div class="rail-collapse-body">
 
-  {% assign v2_lane_key = page.v2_lane | default: page.lane | default: "program" %}
+  {% assign v2_lane_key = page.v2_lane | default: page.lane | default: "" %}
+  {% if v2_lane_key == "" %}
+    {% if page.url contains "/discover/" %}{% assign v2_lane_key = "discover" %}
+    {% elsif page.url contains "/program/" or page.url contains "/research-program/" %}{% assign v2_lane_key = "program" %}
+    {% elsif page.url contains "/corpus/" or page.url contains "/registry/" or page.url contains "/framework/" %}{% assign v2_lane_key = "corpus" %}
+    {% elsif page.url contains "/results/" %}{% assign v2_lane_key = "results" %}
+    {% elsif page.url contains "/verify/" %}{% assign v2_lane_key = "verify" %}
+    {% elsif page.url contains "/publications/" %}{% assign v2_lane_key = "publications" %}
+    {% elsif page.url contains "/impact/" %}{% assign v2_lane_key = "impact" %}
+    {% elsif page.url contains "/engage/" %}{% assign v2_lane_key = "engage" %}
+    {% else %}{% assign v2_lane_key = "program" %}
+    {% endif %}
+  {% endif %}
   {% if v2_lane_key == "research-program" %}{% assign v2_lane_key = "program" %}{% endif %}
   {% if v2_lane_key == "registry" or v2_lane_key == "framework" %}{% assign v2_lane_key = "corpus" %}{% endif %}
   {% if v2_lane_key == "bibliography" or v2_lane_key == "utility" %}{% assign v2_lane_key = "support" %}{% endif %}
@@ -82,7 +94,7 @@
 
   {% elsif page.lane == "results" %}
   <!-- Results lane navigation -->
-  <div class="rail-title">Claims</div>
+  <div class="rail-title">Results</div>
   {% for item in site.data.nav.results_nav %}
   {% if item.url %}
   <a href="{{ item.url | relative_url }}" class="nav-link{% if page.url == item.url %} active{% endif %}">{{ item.title }}</a>

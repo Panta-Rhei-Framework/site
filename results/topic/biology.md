@@ -1,9 +1,9 @@
 ---
 layout: result-topic
-title: "Biology Claims"
+title: "Biology Results"
 permalink: /results/topic/biology/
 topic: biology
-summary_short: "53 claims engaging the biology problem-space."
+summary_short: "53 results engaging the biology problem-space."
 right_rail:
   meta:
     type: Topic Overview
@@ -18,7 +18,7 @@ right_rail:
 
 **Status:** 47 Resolved, 1 Partial, 1 Qualitative, 1 Contradicted, 3 Not Addressed.
 
-> **Resolution status vs. scope labels.** The Resolved / Partial / Qualitative / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each claim inside τ and live on the per-claim detail pages.
+> **Resolution status vs. scope labels.** The Resolved / Partial / Qualitative / Contradicted / Not Addressed tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
 
 ## Results
 

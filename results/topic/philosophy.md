@@ -1,9 +1,9 @@
 ---
 layout: result-topic
-title: "Philosophy Claims"
+title: "Philosophy Results"
 permalink: /results/topic/philosophy/
 topic: philosophy
-summary_short: "45 claims engaging the philosophy problem-space."
+summary_short: "45 results engaging the philosophy problem-space."
 right_rail:
   meta:
     type: Topic Overview
@@ -18,7 +18,7 @@ right_rail:
 
 **Status:** 42 Resolved, 3 Partial.
 
-> **Resolution status vs. scope labels.** The Resolved / Partial tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each claim inside τ and live on the per-claim detail pages.
+> **Resolution status vs. scope labels.** The Resolved / Partial tags below describe whether τ has an answer and how it fares against the orthodox problem. They are distinct from the program's canonical **scope labels** (*established*, *τ-effective*, *conjectural*, *metaphorical*), which classify the epistemic status of each result inside τ and live on the per-result detail pages.
 
 ## Results
 

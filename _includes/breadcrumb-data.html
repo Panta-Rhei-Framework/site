@@ -40,7 +40,7 @@ Home::/|Publications::/publications/|Archived Editions::/publications/archived/f
 Home::/|Framework::/framework/about/|{{ layer_name }}::{{ layer_url }}|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'result-page' -%}
-Home::/|Claims::/results/|{{ page.topic | default: page.domain_group | default: 'Results' | replace: '|', ' ' | capitalize }}::/results/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Results::/results/|{{ page.topic | default: page.domain_group | default: 'Results' | replace: '|', ' ' | capitalize }}::/results/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'registry-object' -%}
 Home::/|Corpus::/corpus/|Registry::/corpus/registry/|Book {{ page.book }}::/registry/books/book-{{ page.book | downcase }}/|{{ page.registry_id | replace: '|', ' ' }}::{{ page.url }}
@@ -82,7 +82,7 @@ Home::/|Bibliography::{{ page.url }}
 {%- assign lane_label = page.lane | default: '' | capitalize -%}
 {%- assign lane_url = '/' -%}
 {%- case page.lane -%}
-  {%- when 'results' -%}{%- assign lane_label = 'Claims' -%}{%- assign lane_url = '/results/' -%}
+  {%- when 'results' -%}{%- assign lane_label = 'Results' -%}{%- assign lane_url = '/results/' -%}
   {%- when 'discover' -%}{%- assign lane_label = 'Discover' -%}{%- assign lane_url = '/discover/' -%}
   {%- when 'program' -%}{%- assign lane_label = 'Program' -%}{%- assign lane_url = '/program/' -%}
   {%- when 'corpus' -%}{%- assign lane_label = 'Corpus' -%}{%- assign lane_url = '/corpus/' -%}
@@ -110,6 +110,8 @@ Home::/|Program::/program/|Research Agenda::/program/research-agenda/|{{ page.ti
   {%- assign cluster_label = section_parts[1] | strip -%}
   {%- if cluster_label == 'Prologue' -%}
 Home::/|{{ lane_label }}::{{ lane_url }}|Prologue::/results/prologue/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- elsif cluster_label == 'Mathematics World Readout' -%}
+Home::/|{{ lane_label }}::{{ lane_url }}|Mathematics World Readout::/results/world-readout/mathematics/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
   {%- elsif cluster_label == 'Physics World Readout' -%}
 Home::/|{{ lane_label }}::{{ lane_url }}|Physics World Readout::/results/world-readout/physics/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
   {%- elsif cluster_label == 'Life World Readout' -%}
@@ -124,19 +126,19 @@ Home::/|{{ lane_label }}::{{ lane_url }}|{{ page.title | replace: '|', ' ' }}::{
 {%- endif -%}
 
 {%- when 'results-browse' -%}
-Home::/|Claims::/results/|Browse All Claims::{{ page.url }}
+Home::/|Results::/results/|Browse All Results::{{ page.url }}
 
 {%- when 'predictions-browse' -%}
-Home::/|Claims::/results/|Physics Predictions::{{ page.url }}
+Home::/|Results::/results/|Physics Predictions::{{ page.url }}
 
 {%- when 'falsifications-browse' -%}
-Home::/|Claims::/results/|Falsification Pack::{{ page.url }}
+Home::/|Results::/results/|Falsification Pack::{{ page.url }}
 
 {%- when 'prediction-page' -%}
-Home::/|Claims::/results/|Predictions::/results/predictions/browse/|{{ page.title_plain | default: page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Results::/results/|Predictions::/results/predictions/browse/|{{ page.title_plain | default: page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'falsification-page' -%}
-Home::/|Claims::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Results::/results/|Falsifications::/results/falsifications/browse/|{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'bibliography-browse' -%}
 Home::/|Bibliography::/bibliography/|Browse & Filter::{{ page.url }}

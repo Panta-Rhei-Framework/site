@@ -3,14 +3,14 @@ layout: program-doc
 title: "Millennium Problems & Langlands"
 permalink: /results/fields/millennium-langlands/
 lane: results
-section: "Claims · Field Briefings"
+section: "Results · Field Briefings"
 nav_order: 6
 summary_short: "The most consequential claims the τ framework makes within the seven Clay Millennium Problems, the generalized Riemann hierarchy, and the Langlands program."
 right_rail:
   related:
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
-  - title: Browse All Claims
+  - title: Browse All Results
     url: /results/browse/
   - title: Mathematics World Readout
     url: /results/world-readout/mathematics/
@@ -42,5 +42,5 @@ The τ framework claims that the τ formulations of all seven Millennium Problem
 ## Where to go deeper
 
 - [Mathematics World Readout]({{ '/results/world-readout/mathematics/' | relative_url }}) — the full world-picture
-- [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Browse all results]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
 - [Clay Millennium Prize Problems](https://www.claymath.org/millennium-problems/) — the canonical Clay Institute reference for the seven Millennium Problems

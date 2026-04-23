@@ -49,6 +49,17 @@
     {% assign nav_active = false %}
     {% assign item_key = item.title | downcase %}
     {% assign active_lane = page.v2_lane | default: page.lane | default: "" %}
+    {% if active_lane == "" %}
+      {% if page.url contains "/discover/" %}{% assign active_lane = "discover" %}
+      {% elsif page.url contains "/program/" or page.url contains "/research-program/" %}{% assign active_lane = "program" %}
+      {% elsif page.url contains "/corpus/" or page.url contains "/registry/" or page.url contains "/framework/" %}{% assign active_lane = "corpus" %}
+      {% elsif page.url contains "/results/" %}{% assign active_lane = "results" %}
+      {% elsif page.url contains "/verify/" %}{% assign active_lane = "verify" %}
+      {% elsif page.url contains "/publications/" %}{% assign active_lane = "publications" %}
+      {% elsif page.url contains "/impact/" %}{% assign active_lane = "impact" %}
+      {% elsif page.url contains "/engage/" %}{% assign active_lane = "engage" %}
+      {% endif %}
+    {% endif %}
     {% if active_lane == "research-program" %}{% assign active_lane = "program" %}{% endif %}
     {% if active_lane == "registry" or active_lane == "framework" %}{% assign active_lane = "corpus" %}{% endif %}
     {% if page.url contains item.match %}{% assign nav_active = true %}{% endif %}

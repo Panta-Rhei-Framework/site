@@ -60,7 +60,7 @@ Every result carries typed metadata in the right rail:
 
 ## How Results Map to Cascade Layers and Precision Tiers
 
-Every numerical result in the Claims lane is a readout of the framework's **calibration cascade** — the four-layer compilation (L0 → L4) from two inputs: the algebraic constant ι<sub>τ</sub> = 2/(π + e) and the single SI anchor m<sub>n</sub> (the neutron mass). For a full architectural exposition, see **Chapter 58a — The Calibration Cascade** in the [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }}#ch-58a).
+Every numerical result in the Results lane is a readout of the framework's **calibration cascade** — the four-layer compilation (L0 → L4) from two inputs: the algebraic constant ι<sub>τ</sub> = 2/(π + e) and the single SI anchor m<sub>n</sub> (the neutron mass). For a full architectural exposition, see **Chapter 58a — The Calibration Cascade** in the [Physics Ledger]({{ '/publications/physics-ledger/' | relative_url }}#ch-58a).
 
 When you are reading a single result page, two complementary dimensions are worth distinguishing:
 

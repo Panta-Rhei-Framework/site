@@ -3,14 +3,14 @@ layout: program-doc
 title: "Particle Physics & Nuclear Physics"
 permalink: /results/fields/particle-physics/
 lane: results
-section: "Claims · Field Briefings"
+section: "Results · Field Briefings"
 nav_order: 3
 summary_short: "The most consequential claims the τ framework makes within the Standard Model, fermion generations, quark masses, coupling constants, and neutrino physics."
 right_rail:
   related:
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
-  - title: Browse All Claims
+  - title: Browse All Results
     url: /results/browse/
   - title: Physics World Readout
     url: /results/world-readout/physics/
@@ -58,5 +58,5 @@ The τ framework claims to derive the Standard Model's particle content and coup
 ## Where to go deeper
 
 - [Physics World Readout]({{ '/results/world-readout/physics/' | relative_url }}) — the full world-picture
-- [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Browse all results]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
 - [Unsolved problems in physics](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_physics) — Wikipedia's canonical list of recognized open problems

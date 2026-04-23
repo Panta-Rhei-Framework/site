@@ -3,7 +3,7 @@ layout: program-doc
 title: "Mathematics World-Readout"
 permalink: /results/world-readout/mathematics/
 lane: results
-section: "Claims · Mathematics World Readout"
+section: "Results · Mathematics World Readout"
 nav_order: 1
 summary_short: "The mathematics world-readout cluster of the Results lane — what kind of mathematical world the Tau framework describes."
 right_rail:
@@ -25,7 +25,7 @@ right_rail:
 
 This is the **E₀ (Mathematics)** layer of the enrichment ladder — following the [Results Introduction]({{ '/results/prologue/' | relative_url }}) and preceding the [Physics]({{ '/results/world-readout/physics/' | relative_url }}) (E₁), [Life]({{ '/results/world-readout/life/' | relative_url }}) (E₂), and [Metaphysics]({{ '/results/world-readout/metaphysics/' | relative_url }}) (E₃) world readouts.
 
-The pages collected here do not function as the detailed claim atlas of the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
+The pages collected here do not function as the detailed result atlas of the Panta Rhei Research Program. They form the deeper narrative and epistemic layer that must come before the atlas.
 
 The central question is not yet which individual mathematical result is proved. The central question is more prior:
 
@@ -43,6 +43,23 @@ Third, it describes **self-enrichment, self-containment, and internal logic**: w
 
 Read in order, these pages form the conceptual entrance into the [76 mathematics claims]({{ '/results/topic/mathematics/' | relative_url }}) of the program.
 
+## Cluster map
+
+<div class="v2-grid">
+  <a class="v2-tile" href="{{ '/results/world-readout/mathematics/the-shape-of-mathematics-in-the-tau-framework/' | relative_url }}">
+    <strong>The Shape of Mathematics</strong>
+    <span>Logic, infinity, proof, geometry, and decidability as the E0 world-picture.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/world-readout/mathematics/what-this-mathematics-makes-true/' | relative_url }}">
+    <strong>What This Mathematics Makes True</strong>
+    <span>The strongest mathematical consequences and their bridge posture.</span>
+  </a>
+  <a class="v2-tile" href="{{ '/results/world-readout/mathematics/self-enrichment-self-containment-and-internal-logic/' | relative_url }}">
+    <strong>Self-Enrichment and Internal Logic</strong>
+    <span>Why Tau can host systems inside itself without ontic inflation.</span>
+  </a>
+</div>
+
 ## Epistemic posture
 
-These pages describe what kind of mathematical world the Tau framework yields **on the program's own reading**. They do not claim that the wider mathematical community has accepted this foundational framework, nor that every bridge from Tau-internal statements to orthodox mathematical formulations is already settled. The individual [claim pages]({{ '/results/browse/' | relative_url }}) carry explicit epistemic status labels (Resolved, Partial, Qualitative, Contradicted, or Not Addressed) that make the strength of each specific claim transparent. If the framework holds, the mathematical world described here is the foundation on which everything else rests. If it does not, these pages describe a candidate mathematical universe that can be inspected, challenged, and — if necessary — [falsified]({{ '/verify/' | relative_url }}).
+These pages describe what kind of mathematical world the Tau framework yields **on the program's own reading**. They do not claim that the wider mathematical community has accepted this foundational framework, nor that every bridge from Tau-internal statements to orthodox mathematical formulations is already settled. The individual [result pages]({{ '/results/browse/' | relative_url }}) carry explicit epistemic status labels (Resolved, Partial, Qualitative, Contradicted, or Not Addressed) that make the strength of each specific claim transparent. If the framework holds, the mathematical world described here is the foundation on which everything else rests. If it does not, these pages describe a candidate mathematical universe that can be inspected, challenged, and — if necessary — [falsified]({{ '/verify/' | relative_url }}).

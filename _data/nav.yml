@@ -372,14 +372,14 @@ results_nav:
       - title: "Fit-Space Argument"
         url: "/results/predictions/fit-space-argument/"
 
-  - title: "Browse All Claims"
+  - title: "Browse All Results"
     url: "/results/browse/"
 
   - title: "Reader Guidance"
     children:
-      - title: "Why So Many Claims"
+      - title: "Why So Many Results"
         url: "/results/why-so-many-results/"
-      - title: "How to Read a Claim"
+      - title: "How to Read a Result"
         url: "/results/how-to-read-a-result-page/"
       - title: "Status & Claim Typing"
         url: "/results/status-and-claim-typing/"

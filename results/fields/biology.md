@@ -3,14 +3,14 @@ layout: program-doc
 title: "Biology & Origin of Life"
 permalink: /results/fields/biology/
 lane: results
-section: "Claims · Field Briefings"
+section: "Results · Field Briefings"
 nav_order: 7
 summary_short: "The most consequential claims the τ framework makes within the categorical definition of life, abiogenesis, and biological structure."
 right_rail:
   related:
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
-  - title: Browse All Claims
+  - title: Browse All Results
     url: /results/browse/
   - title: Life World Readout
     url: /results/world-readout/life/
@@ -55,5 +55,5 @@ The τ framework proposes a categorical definition of life as self-decoding dist
 ## Where to go deeper
 
 - [Life World Readout]({{ '/results/world-readout/life/' | relative_url }}) — the full world-picture
-- [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Browse all results]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
 - [Unsolved problems in biology](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_biology) — Wikipedia's canonical list of recognized open problems

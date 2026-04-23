@@ -3,14 +3,14 @@ layout: program-doc
 title: "Foundational Philosophy: Ontology, Epistemology & Meta-Inquiry"
 permalink: /results/fields/philosophy-foundational/
 lane: results
-section: "Claims · Field Briefings"
+section: "Results · Field Briefings"
 nav_order: 9
 summary_short: "The most consequential claims the τ framework makes within ontology, epistemology, philosophy of science, and the framework's own meta-epistemic status — its ontic stance, its model stance, and the point at which proof gives way to commitment."
 right_rail:
   related:
-  - title: Claims Overview
+  - title: Results Overview
     url: /results/
-  - title: Browse All Claims
+  - title: Browse All Results
     url: /results/browse/
   - title: Metaphysics World Readout
     url: /results/world-readout/metaphysics/
@@ -42,5 +42,5 @@ The τ framework is not just a set of claims about the world — it is a framewo
 
 - [Metaphysics World Readout]({{ '/results/world-readout/metaphysics/' | relative_url }}) — the full world-picture
 - [Applied Philosophy briefing]({{ '/results/fields/philosophy-applied/' | relative_url }}) — ethics, aesthetics, language, mind
-- [Browse all claims]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
+- [Browse all results]({{ '/results/browse/' | relative_url }}) — filter by domain, status, and book
 - [Unsolved problems in philosophy](https://en.wikipedia.org/wiki/List_of_unsolved_problems_in_philosophy) — Wikipedia's canonical list of recognized open problems
