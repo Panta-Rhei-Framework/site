@@ -64,10 +64,11 @@ Home::/|Publications::/publications/|Research Notes::{{ page.url }}
 Home::/|Verify::/verify/|TauLib::/verify/taulib/|API Docs::/verify/taulib/docs/|{% if page.book %}Book {{ page.book }}::/verify/taulib/docs/|{% endif %}{{ page.title | truncate: 50 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'impact-paper' -%}
-Home::/|Impact::/impact/|Portfolios::/impact/|{{ page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
+{%- assign pf_slug = page.portfolio_id | default: '' | replace: 'impact-', '' -%}
+Home::/|Impact::/impact/|Global Public Good::/impact/global-public-good/|{{ pf_slug | replace: '-', ' ' | capitalize }}::/impact/global-public-good/{{ pf_slug }}/|{{ page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'impact-portfolio' -%}
-Home::/|Impact::/impact/|Portfolios::/impact/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+Home::/|Impact::/impact/|Global Public Good::/impact/global-public-good/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
 
 {%- when 'changelog-entry' -%}
 Home::/|Changelog::/changelog/|{{ page.title | truncate: 60 | replace: '|', ' ' }}::{{ page.url }}
@@ -133,6 +134,12 @@ Home::/|Publications::/publications/|Archived Releases::/publications/archived/|
   {%- endif -%}
 {%- elsif page.lane == 'publications' and page.url == '/publications/bibliography/' -%}
 Home::/|Publications::/publications/|Bibliography::{{ page.url }}
+{%- elsif page.lane == 'impact' and page.url contains '/impact/global-public-good/' -%}
+  {%- if page.url == '/impact/global-public-good/' -%}
+Home::/|Impact::/impact/|Global Public Good::{{ page.url }}
+  {%- else -%}
+Home::/|Impact::/impact/|Global Public Good::/impact/global-public-good/|{{ page.title | replace: '|', ' ' }}::{{ page.url }}
+  {%- endif -%}
 {%- elsif page.section contains ' · ' -%}
   {%- assign section_parts = page.section | split: ' · ' -%}
   {%- assign cluster_label = section_parts[1] | strip -%}

@@ -18,10 +18,20 @@ layout: default
   <div class="btn-group">
     {% if page.portfolio_id != "" %}
     {% assign pf_slug = page.portfolio_id | replace: "impact-", "" %}
-    <a href="{{ '/impact/portfolio/' | append: pf_slug | append: '/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="nav" event="nav-back-to-portfolio" href="/impact/portfolio/" %}>Back to Portfolio</a>
+    <a href="{{ '/impact/global-public-good/' | append: pf_slug | append: '/' | relative_url }}" class="btn-secondary" {% include cta-attrs.html location="nav" event="nav-back-to-portfolio" href="/impact/global-public-good/" %}>Back to Portfolio</a>
     {% endif %}
   </div>
 </header>
+
+<section class="content-card">
+  <h2>Metadata</h2>
+  <div class="meta-list">
+    {% if page.portfolio_id %}<div class="meta-item"><span>Portfolio</span><span class="meta-value">{{ page.portfolio_id | replace: "impact-", "" | replace: "-", " " | capitalize }}</span></div>{% endif %}
+    {% if page.right_rail.meta.status %}<div class="meta-item"><span>Status</span><span class="meta-value">{{ page.right_rail.meta.status }}</span></div>{% endif %}
+    {% if page.right_rail.meta.updated %}<div class="meta-item"><span>Updated</span><span class="meta-value">{{ page.right_rail.meta.updated }}</span></div>{% endif %}
+  </div>
+  <p style="margin-top: 16px;">This paper is a conditional public-good scenario analysis. It does not validate the underlying framework; it explores what could follow if the relevant results survive scrutiny and translate into this domain.</p>
+</section>
 
 <section class="content-card">
   <div class="prose">

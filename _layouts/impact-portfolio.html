@@ -7,7 +7,7 @@ layout: default
 <article class="impact-portfolio-article">
 <header class="hero-card">
   <div class="module-eyebrow-row">
-    <span class="eyebrow">Impact · Portfolio</span>
+    <span class="eyebrow">Impact · Global Public Good</span>
     {% if page.time_horizon != "" %}<span class="chip">{{ page.time_horizon | capitalize }} horizon</span>{% endif %}
     {% if page.deployment_stage != "" %}<span class="chip">{{ page.deployment_stage | replace: "-", " " | capitalize }}</span>{% endif %}
     {% if page.right_rail.meta.status %}<span class="chip">{{ page.right_rail.meta.status }}</span>{% endif %}
@@ -19,8 +19,50 @@ layout: default
 </header>
 
 <section class="content-card">
+  <h2>Dependency Chain</h2>
+  <div class="v2-system-row" aria-label="Portfolio dependency chain">
+    <a class="v2-system-node" href="{{ '/results/' | relative_url }}"><strong>Results</strong>Relevant claims must hold.</a>
+    <span class="v2-system-arrow">→</span>
+    <a class="v2-system-node" href="{{ '/verify/' | relative_url }}"><strong>Verify</strong>Claims must survive scrutiny.</a>
+    <span class="v2-system-arrow">→</span>
+    <a class="v2-system-node" href="{{ '/impact/impact-framework/' | relative_url }}"><strong>Translation</strong>Domain assumptions must be named.</a>
+    <span class="v2-system-arrow">→</span>
+    <span class="v2-system-node"><strong>Uptake</strong>Real institutions, data, and practice must be able to use it.</span>
+  </div>
+</section>
+
+<section class="content-card">
   <div class="prose">
     {{ content }}
+  </div>
+</section>
+
+{% assign impact_papers = site.data.impact["companion-papers"] | where: "portfolio_id", page.portfolio_id %}
+{% if impact_papers.size > 0 %}
+<section class="content-card">
+  <h2>Companion Papers</h2>
+  <div class="dep-list">
+    {% for paper in impact_papers %}
+    <a href="{{ paper.url | relative_url }}" class="dep-link">
+      <span class="dep-title">{{ paper.title }}</span>
+      <span class="dep-meta">{{ paper.summary_short }}</span>
+    </a>
+    {% endfor %}
+  </div>
+</section>
+{% endif %}
+
+<section class="content-card">
+  <h2>Related Publication Artifacts</h2>
+  <div class="dep-list">
+    <a href="{{ '/publications/companion-papers/' | relative_url }}" class="dep-link">
+      <span class="dep-title">Companion Papers</span>
+      <span class="dep-meta">Publication index for the public-good scenario papers.</span>
+    </a>
+    <a href="{{ '/impact/global-public-good/' | relative_url }}" class="dep-link">
+      <span class="dep-title">Global Public Good</span>
+      <span class="dep-meta">All public-good portfolios.</span>
+    </a>
   </div>
 </section>
 </article>
